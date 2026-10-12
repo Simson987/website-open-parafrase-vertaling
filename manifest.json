@@ -1,0 +1,22 @@
+{
+  "name": "Open Parafrase Vertaling",
+  "short_name": "OPV",
+  "description": "De Bijbel in eenvoudig, hedendaags Nederlands, naverteld vanuit de Statenvertaling.",
+  "lang": "nl",
+  "dir": "ltr",
+  "start_url": "/index.html#johannes/1",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#142e42",
+  "theme_color": "#142e42",
+  "categories": ["books", "education", "lifestyle"],
+  "icons": [
+    { "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    { "name": "Tekst lezen", "url": "/index.html#johannes/1" }
+  ]
+}

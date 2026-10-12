@@ -1,0 +1,2376 @@
+{
+  "number": 10,
+  "verses": [
+    {
+      "number": 4,
+      "text1637": "En Mordechai zeide: Deze dingen zijn van God geschied.",
+      "textSV1888": "En Mordechai zeide: Deze dingen zijn van God geschied.",
+      "text2026": "En Mordechai zei: Deze dingen zijn van God geschied.",
+      "marginNotes": [],
+      "text2026_html": "En Mordechai zei: <span class=\"direct-speech\"><i>Deze dingen zijn van God geschied.</i></span>",
+      "phraseDiff": [
+        {
+          "old": "zeide:",
+          "new": "zei:",
+          "principe": "W1"
+        }
+      ],
+      "grondtekst": [
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "εἶπεν",
+          "strongs": "G2036",
+          "transliteratie": "eipen"
+        },
+        {
+          "woord": "Μαρδοχαῖος",
+          "transliteratie": "mardochaios"
+        },
+        {
+          "woord": "παρὰ",
+          "strongs": "G3844",
+          "transliteratie": "para"
+        },
+        {
+          "woord": "τοῦ",
+          "strongs": "G3588",
+          "transliteratie": "tou"
+        },
+        {
+          "woord": "θεοῦ",
+          "strongs": "G2316",
+          "transliteratie": "theou"
+        },
+        {
+          "woord": "ἐγένετο",
+          "strongs": "G1096",
+          "transliteratie": "egeneto"
+        },
+        {
+          "woord": "ταῦτα",
+          "strongs": "G3778",
+          "transliteratie": "tauta"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "En",
+          "voorkomen": 1,
+          "strongs": [
+            "G2532"
+          ],
+          "bronwoorden": [
+            "καὶ"
+          ],
+          "transliteraties": [
+            "kai"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "1CC2D150031A8E9A9B3106538341689F9618490B6CFD9483C134AF10755B33C0",
+            "referentie": "ESTHERAPOCRIEF 10:4",
+            "bronindices": [
+              0
+            ],
+            "grondindices": [
+              0
+            ]
+          }
+        },
+        {
+          "tekst": "God",
+          "voorkomen": 1,
+          "strongs": [
+            "G2316"
+          ],
+          "bronwoorden": [
+            "θεοῦ"
+          ],
+          "transliteraties": [
+            "theou"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "1CC2D150031A8E9A9B3106538341689F9618490B6CFD9483C134AF10755B33C0",
+            "referentie": "ESTHERAPOCRIEF 10:4",
+            "bronindices": [
+              5
+            ],
+            "grondindices": [
+              5
+            ]
+          }
+        },
+        {
+          "tekst": "Deze",
+          "voorkomen": 1,
+          "strongs": [
+            "G3778"
+          ],
+          "bronwoorden": [
+            "ταῦτα"
+          ],
+          "transliteraties": [
+            "tauta"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "1CC2D150031A8E9A9B3106538341689F9618490B6CFD9483C134AF10755B33C0",
+            "referentie": "ESTHERAPOCRIEF 10:4",
+            "bronindices": [
+              7
+            ],
+            "grondindices": [
+              7
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "text1637": "Want ik gedenk aan de droom, die ik van deze dingen gezien heb, want geen dezer is voorbijgegaan.",
+      "textSV1888": "Want ik gedenk aan de droom, die ik van deze dingen gezien heb, want geen dezer is voorbijgegaan.",
+      "text2026": "Want ik gedenk aan de droom, die ik van deze dingen gezien heb, want geen van deze is voorbijgegaan.",
+      "marginNotes": [],
+      "text2026_html": "<span class=\"direct-speech\"><i>Want ik gedenk aan de droom, die ik van deze dingen gezien heb, want geen van deze is voorbijgegaan.</i></span>",
+      "phraseDiff": [
+        {
+          "old": "dezer",
+          "new": "van deze",
+          "principe": "N5"
+        }
+      ],
+      "grondtekst": [
+        {
+          "woord": "ἐμνήσθην",
+          "strongs": "G3415",
+          "transliteratie": "emnēsthēn"
+        },
+        {
+          "woord": "γὰρ",
+          "strongs": "G1063",
+          "transliteratie": "gar"
+        },
+        {
+          "woord": "περὶ",
+          "strongs": "G4012",
+          "transliteratie": "peri"
+        },
+        {
+          "woord": "τοῦ",
+          "strongs": "G3588",
+          "transliteratie": "tou"
+        },
+        {
+          "woord": "ἐνυπνίου",
+          "strongs": "G1798",
+          "transliteratie": "enypniou"
+        },
+        {
+          "woord": "οὗ",
+          "strongs": "G3739",
+          "transliteratie": "hou"
+        },
+        {
+          "woord": "εἶδον",
+          "strongs": "G3708",
+          "transliteratie": "eidon"
+        },
+        {
+          "woord": "περὶ",
+          "strongs": "G4012",
+          "transliteratie": "peri"
+        },
+        {
+          "woord": "τῶν",
+          "strongs": "G3588",
+          "transliteratie": "tōn"
+        },
+        {
+          "woord": "λόγων",
+          "strongs": "G3056",
+          "transliteratie": "logōn"
+        },
+        {
+          "woord": "τούτων",
+          "strongs": "G3778",
+          "transliteratie": "toutōn"
+        },
+        {
+          "woord": "οὐδὲ",
+          "strongs": "G3761",
+          "transliteratie": "oude"
+        },
+        {
+          "woord": "γὰρ",
+          "strongs": "G1063",
+          "transliteratie": "gar"
+        },
+        {
+          "woord": "παρῆλθεν",
+          "strongs": "G3928",
+          "transliteratie": "parēlthen"
+        },
+        {
+          "woord": "ἀπ᾿",
+          "strongs": "G575",
+          "transliteratie": "ap᾿"
+        },
+        {
+          "woord": "αὐτῶν",
+          "strongs": "G846",
+          "transliteratie": "autōn"
+        },
+        {
+          "woord": "λόγος",
+          "strongs": "G3056",
+          "transliteratie": "logos"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "droom",
+          "voorkomen": 1,
+          "strongs": [
+            "G1798"
+          ],
+          "bronwoorden": [
+            "ἐνυπνίου"
+          ],
+          "transliteraties": [
+            "enypniou"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "1CC2D150031A8E9A9B3106538341689F9618490B6CFD9483C134AF10755B33C0",
+            "referentie": "ESTHERAPOCRIEF 10:5",
+            "bronindices": [
+              4
+            ],
+            "grondindices": [
+              4
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "text1637": "De kleine fontein is een rivier geworden, en daar was licht, en een zon en veel water. Deze rivier is Esther, die de koning getrouwd en tot koningin gemaakt heeft.",
+      "textSV1888": "De kleine fontein is een rivier geworden, en daar was licht, en een zon en veel water. Deze rivier is Esther, die de koning getrouwd en tot koningin gemaakt heeft.",
+      "text2026": "De kleine fontein is een rivier geworden, en daar was licht, en een zon en veel water. Deze rivier is Esther, die de koning getrouwd en tot koningin gemaakt heeft.",
+      "marginNotes": [],
+      "text2026_html": "<span class=\"direct-speech\"><i>De kleine fontein is een rivier geworden, en daar was licht, en een zon en veel water. Deze rivier is Esther, die de koning getrouwd en tot koningin gemaakt heeft.</i></span>",
+      "grondtekst": [
+        {
+          "woord": "ἡ",
+          "strongs": "G3588",
+          "transliteratie": "hē"
+        },
+        {
+          "woord": "μικρὰ",
+          "strongs": "G3398",
+          "transliteratie": "mikra"
+        },
+        {
+          "woord": "πηγή",
+          "strongs": "G4077",
+          "transliteratie": "pēgē"
+        },
+        {
+          "woord": "ἣ",
+          "strongs": "G3739",
+          "transliteratie": "hē"
+        },
+        {
+          "woord": "ἐγένετο",
+          "strongs": "G1096",
+          "transliteratie": "egeneto"
+        },
+        {
+          "woord": "ποταμὸς",
+          "strongs": "G4215",
+          "transliteratie": "potamos"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ἦν",
+          "strongs": "G1510",
+          "transliteratie": "ēn"
+        },
+        {
+          "woord": "φῶς",
+          "strongs": "G5457",
+          "transliteratie": "phōs"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ἥλιος",
+          "strongs": "G2246",
+          "transliteratie": "hēlios"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ὕδωρ",
+          "strongs": "G5204",
+          "transliteratie": "hydōr"
+        },
+        {
+          "woord": "πολύ",
+          "strongs": "G4183",
+          "transliteratie": "poly"
+        },
+        {
+          "woord": "Εσθηρ",
+          "transliteratie": "esthēr"
+        },
+        {
+          "woord": "ἐστὶν",
+          "strongs": "G1510",
+          "transliteratie": "estin"
+        },
+        {
+          "woord": "ὁ",
+          "strongs": "G3588",
+          "transliteratie": "ho"
+        },
+        {
+          "woord": "ποταμός",
+          "strongs": "G4215",
+          "transliteratie": "potamos"
+        },
+        {
+          "woord": "ἣν",
+          "strongs": "G3739",
+          "transliteratie": "hēn"
+        },
+        {
+          "woord": "ἐγάμησεν",
+          "strongs": "G1060",
+          "transliteratie": "egamēsen"
+        },
+        {
+          "woord": "ὁ",
+          "strongs": "G3588",
+          "transliteratie": "ho"
+        },
+        {
+          "woord": "βασιλεὺς",
+          "strongs": "G935",
+          "transliteratie": "basileus"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ἐποίησεν",
+          "strongs": "G4160",
+          "transliteratie": "epoiēsen"
+        },
+        {
+          "woord": "βασίλισσαν",
+          "strongs": "G938",
+          "transliteratie": "basilissan"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "licht",
+          "voorkomen": 1,
+          "strongs": [
+            "G5457"
+          ],
+          "bronwoorden": [
+            "φῶς"
+          ],
+          "transliteraties": [
+            "phōs"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "1CC2D150031A8E9A9B3106538341689F9618490B6CFD9483C134AF10755B33C0",
+            "referentie": "ESTHERAPOCRIEF 10:6",
+            "bronindices": [
+              8
+            ],
+            "grondindices": [
+              8
+            ]
+          }
+        },
+        {
+          "tekst": "zon",
+          "voorkomen": 1,
+          "strongs": [
+            "G2246"
+          ],
+          "bronwoorden": [
+            "ἥλιος"
+          ],
+          "transliteraties": [
+            "hēlios"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "1CC2D150031A8E9A9B3106538341689F9618490B6CFD9483C134AF10755B33C0",
+            "referentie": "ESTHERAPOCRIEF 10:6",
+            "bronindices": [
+              10
+            ],
+            "grondindices": [
+              10
+            ]
+          }
+        },
+        {
+          "tekst": "veel",
+          "voorkomen": 1,
+          "strongs": [
+            "G4183"
+          ],
+          "bronwoorden": [
+            "πολύ"
+          ],
+          "transliteraties": [
+            "poly"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "1CC2D150031A8E9A9B3106538341689F9618490B6CFD9483C134AF10755B33C0",
+            "referentie": "ESTHERAPOCRIEF 10:6",
+            "bronindices": [
+              13
+            ],
+            "grondindices": [
+              13
+            ]
+          }
+        },
+        {
+          "tekst": "koning",
+          "voorkomen": 1,
+          "strongs": [
+            "G935"
+          ],
+          "bronwoorden": [
+            "βασιλεὺς"
+          ],
+          "transliteraties": [
+            "basileus"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "1CC2D150031A8E9A9B3106538341689F9618490B6CFD9483C134AF10755B33C0",
+            "referentie": "ESTHERAPOCRIEF 10:6",
+            "bronindices": [
+              21
+            ],
+            "grondindices": [
+              21
+            ]
+          }
+        },
+        {
+          "tekst": "koningin",
+          "voorkomen": 1,
+          "strongs": [
+            "G938"
+          ],
+          "bronwoorden": [
+            "βασίλισσαν"
+          ],
+          "transliteraties": [
+            "basilissan"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "1CC2D150031A8E9A9B3106538341689F9618490B6CFD9483C134AF10755B33C0",
+            "referentie": "ESTHERAPOCRIEF 10:6",
+            "bronindices": [
+              24
+            ],
+            "grondindices": [
+              24
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "text1637": "De twee draken nu zijn ik en Haman.",
+      "textSV1888": "De twee draken nu zijn ik en Haman.",
+      "text2026": "De twee draken nu zijn ik en Haman.",
+      "marginNotes": [],
+      "text2026_html": "<span class=\"direct-speech\"><i>De twee draken nu zijn ik en Haman.</i></span>",
+      "grondtekst": [
+        {
+          "woord": "οἱ",
+          "strongs": "G3588",
+          "transliteratie": "hoi"
+        },
+        {
+          "woord": "δὲ",
+          "strongs": "G1161",
+          "transliteratie": "de"
+        },
+        {
+          "woord": "δύο",
+          "strongs": "G1417",
+          "transliteratie": "dyo"
+        },
+        {
+          "woord": "δράκοντες",
+          "strongs": "G1404",
+          "transliteratie": "drakontes"
+        },
+        {
+          "woord": "ἐγώ",
+          "strongs": "G1473",
+          "transliteratie": "egō"
+        },
+        {
+          "woord": "εἰμι",
+          "strongs": "G1510",
+          "transliteratie": "eimi"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "Αμαν",
+          "transliteratie": "aman"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "twee",
+          "voorkomen": 1,
+          "strongs": [
+            "G1417"
+          ],
+          "bronwoorden": [
+            "δύο"
+          ],
+          "transliteraties": [
+            "dyo"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "1CC2D150031A8E9A9B3106538341689F9618490B6CFD9483C134AF10755B33C0",
+            "referentie": "ESTHERAPOCRIEF 10:7",
+            "bronindices": [
+              2
+            ],
+            "grondindices": [
+              2
+            ]
+          }
+        },
+        {
+          "tekst": "nu",
+          "voorkomen": 1,
+          "strongs": [
+            "G1161"
+          ],
+          "bronwoorden": [
+            "δὲ"
+          ],
+          "transliteraties": [
+            "de"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "1CC2D150031A8E9A9B3106538341689F9618490B6CFD9483C134AF10755B33C0",
+            "referentie": "ESTHERAPOCRIEF 10:7",
+            "bronindices": [
+              1
+            ],
+            "grondindices": [
+              1
+            ]
+          }
+        },
+        {
+          "tekst": "ik",
+          "voorkomen": 1,
+          "strongs": [
+            "G1473"
+          ],
+          "bronwoorden": [
+            "ἐγώ"
+          ],
+          "transliteraties": [
+            "egō"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "1CC2D150031A8E9A9B3106538341689F9618490B6CFD9483C134AF10755B33C0",
+            "referentie": "ESTHERAPOCRIEF 10:7",
+            "bronindices": [
+              4
+            ],
+            "grondindices": [
+              4
+            ]
+          }
+        },
+        {
+          "tekst": "en",
+          "voorkomen": 1,
+          "strongs": [
+            "G2532"
+          ],
+          "bronwoorden": [
+            "καὶ"
+          ],
+          "transliteraties": [
+            "kai"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "1CC2D150031A8E9A9B3106538341689F9618490B6CFD9483C134AF10755B33C0",
+            "referentie": "ESTHERAPOCRIEF 10:7",
+            "bronindices": [
+              6
+            ],
+            "grondindices": [
+              6
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "text1637": "En de heidenen die tezamen gekomen waren om de naam der Joden te verdelgen;",
+      "textSV1888": "En de heidenen die tezamen gekomen waren om de naam der Joden te verdelgen;",
+      "text2026": "En de heidenen die samen gekomen waren om de naam van de Joden te vernietigen;",
+      "marginNotes": [],
+      "text2026_html": "<span class=\"direct-speech\"><i>En de heidenen die samen gekomen waren om de naam van de Joden te vernietigen;</i></span>",
+      "phraseDiff": [
+        {
+          "old": "tezamen",
+          "new": "samen",
+          "principe": "V374"
+        },
+        {
+          "old": "der",
+          "new": "van de",
+          "principe": "N2"
+        },
+        {
+          "old": "verdelgen;",
+          "new": "vernietigen;",
+          "principe": "V375"
+        }
+      ],
+      "grondtekst": [
+        {
+          "woord": "τὰ",
+          "strongs": "G3588",
+          "transliteratie": "ta"
+        },
+        {
+          "woord": "δὲ",
+          "strongs": "G1161",
+          "transliteratie": "de"
+        },
+        {
+          "woord": "ἔθνη",
+          "strongs": "G1484",
+          "transliteratie": "ethnē"
+        },
+        {
+          "woord": "τὰ",
+          "strongs": "G3588",
+          "transliteratie": "ta"
+        },
+        {
+          "woord": "ἐπισυναχθέντα",
+          "strongs": "G1996",
+          "transliteratie": "episynachthenta"
+        },
+        {
+          "woord": "ἀπολέσαι",
+          "strongs": "G622",
+          "transliteratie": "apolesai"
+        },
+        {
+          "woord": "τὸ",
+          "strongs": "G3588",
+          "transliteratie": "to"
+        },
+        {
+          "woord": "ὄνομα",
+          "strongs": "G3686",
+          "transliteratie": "onoma"
+        },
+        {
+          "woord": "τῶν",
+          "strongs": "G3588",
+          "transliteratie": "tōn"
+        },
+        {
+          "woord": "Ιουδαίων",
+          "strongs": "G2453",
+          "transliteratie": "ioudaiōn"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "naam",
+          "voorkomen": 1,
+          "strongs": [
+            "G3686"
+          ],
+          "bronwoorden": [
+            "ὄνομα"
+          ],
+          "transliteraties": [
+            "onoma"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "1CC2D150031A8E9A9B3106538341689F9618490B6CFD9483C134AF10755B33C0",
+            "referentie": "ESTHERAPOCRIEF 10:8",
+            "bronindices": [
+              7
+            ],
+            "grondindices": [
+              7
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "text1637": "En mijn volk is het volk van Israël, die tot God riepen en behouden zijn, en de Here heeft zijn volk behouden, en de Here heeft zijn volk verlost uit al deze ongevallen, en God heeft deze grote tekenen en wonderen gedaan, welke onder de heidenen niet geschied zijn.",
+      "textSV1888": "En mijn volk is het volk van Israël, die tot God riepen en behouden zijn, en de Here heeft zijn volk behouden, en de Here heeft zijn volk verlost uit al deze ongevallen, en God heeft deze grote tekenen en wonderen gedaan, welke onder de heidenen niet geschied zijn.",
+      "text2026": "En mijn volk is het volk van Israël, die tot God riepen en behouden zijn, en Heere heeft zijn volk behouden, en Heere heeft zijn volk verlost uit al deze ongevallen, en God heeft deze grote tekenen en wonderen gedaan, die onder de heidenen niet geschied zijn.",
+      "marginNotes": [],
+      "text2026_html": "<span class=\"direct-speech\"><i>En mijn volk is het volk van Israël, die tot God riepen en behouden zijn, en Heere heeft zijn volk behouden, en Heere heeft zijn volk verlost uit al deze ongevallen, en God heeft deze grote tekenen en wonderen gedaan, die onder de heidenen niet geschied zijn.</i></span>",
+      "phraseDiff": [
+        {
+          "old": "de Here",
+          "new": "Heere",
+          "principe": null
+        },
+        {
+          "old": "de Here",
+          "new": "Heere",
+          "principe": null
+        },
+        {
+          "old": "welke",
+          "new": "die",
+          "principe": "V808"
+        }
+      ],
+      "grondtekst": [
+        {
+          "woord": "τὸ",
+          "strongs": "G3588",
+          "transliteratie": "to"
+        },
+        {
+          "woord": "δὲ",
+          "strongs": "G1161",
+          "transliteratie": "de"
+        },
+        {
+          "woord": "ἔθνος",
+          "strongs": "G1484",
+          "transliteratie": "ethnos"
+        },
+        {
+          "woord": "τὸ",
+          "strongs": "G3588",
+          "transliteratie": "to"
+        },
+        {
+          "woord": "ἐμόν",
+          "strongs": "G1699",
+          "transliteratie": "emon"
+        },
+        {
+          "woord": "οὗτός",
+          "strongs": "G3778",
+          "transliteratie": "houtos"
+        },
+        {
+          "woord": "ἐστιν",
+          "strongs": "G1510",
+          "transliteratie": "estin"
+        },
+        {
+          "woord": "Ισραηλ",
+          "strongs": "G2474",
+          "transliteratie": "israēl"
+        },
+        {
+          "woord": "οἱ",
+          "strongs": "G3588",
+          "transliteratie": "hoi"
+        },
+        {
+          "woord": "βοήσαντες",
+          "strongs": "G994",
+          "transliteratie": "boēsantes"
+        },
+        {
+          "woord": "πρὸς",
+          "strongs": "G4314",
+          "transliteratie": "pros"
+        },
+        {
+          "woord": "τὸν",
+          "strongs": "G3588",
+          "transliteratie": "ton"
+        },
+        {
+          "woord": "θεὸν",
+          "strongs": "G2316",
+          "transliteratie": "theon"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "σωθέντες",
+          "strongs": "G4982",
+          "transliteratie": "sōthentes"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ἔσωσεν",
+          "strongs": "G4982",
+          "transliteratie": "esōsen"
+        },
+        {
+          "woord": "κύριος",
+          "strongs": "G2962",
+          "transliteratie": "kyrios"
+        },
+        {
+          "woord": "τὸν",
+          "strongs": "G3588",
+          "transliteratie": "ton"
+        },
+        {
+          "woord": "λαὸν",
+          "strongs": "G2992",
+          "transliteratie": "laon"
+        },
+        {
+          "woord": "αὐτοῦ",
+          "strongs": "G846",
+          "transliteratie": "autou"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ἐρρύσατο",
+          "strongs": "G4506",
+          "transliteratie": "errysato"
+        },
+        {
+          "woord": "κύριος",
+          "strongs": "G2962",
+          "transliteratie": "kyrios"
+        },
+        {
+          "woord": "ἡμᾶς",
+          "strongs": "G2248",
+          "transliteratie": "hēmas"
+        },
+        {
+          "woord": "ἐκ",
+          "strongs": "G1537",
+          "transliteratie": "ek"
+        },
+        {
+          "woord": "πάντων",
+          "strongs": "G3956",
+          "transliteratie": "pantōn"
+        },
+        {
+          "woord": "τῶν",
+          "strongs": "G3588",
+          "transliteratie": "tōn"
+        },
+        {
+          "woord": "κακῶν",
+          "strongs": "G2556",
+          "transliteratie": "kakōn"
+        },
+        {
+          "woord": "τούτων",
+          "strongs": "G3778",
+          "transliteratie": "toutōn"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ἐποίησεν",
+          "strongs": "G4160",
+          "transliteratie": "epoiēsen"
+        },
+        {
+          "woord": "ὁ",
+          "strongs": "G3588",
+          "transliteratie": "ho"
+        },
+        {
+          "woord": "θεὸς",
+          "strongs": "G2316",
+          "transliteratie": "theos"
+        },
+        {
+          "woord": "τὰ",
+          "strongs": "G3588",
+          "transliteratie": "ta"
+        },
+        {
+          "woord": "σημεῖα",
+          "strongs": "G4592",
+          "transliteratie": "sēmeia"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "τὰ",
+          "strongs": "G3588",
+          "transliteratie": "ta"
+        },
+        {
+          "woord": "τέρατα",
+          "strongs": "G5059",
+          "transliteratie": "terata"
+        },
+        {
+          "woord": "τὰ",
+          "strongs": "G3588",
+          "transliteratie": "ta"
+        },
+        {
+          "woord": "μεγάλα",
+          "strongs": "G3173",
+          "transliteratie": "megala"
+        },
+        {
+          "woord": "ἃ",
+          "strongs": "G3739",
+          "transliteratie": "ha"
+        },
+        {
+          "woord": "οὐ",
+          "strongs": "G3756",
+          "transliteratie": "ou"
+        },
+        {
+          "woord": "γέγονεν",
+          "strongs": "G1096",
+          "transliteratie": "gegonen"
+        },
+        {
+          "woord": "ἐν",
+          "strongs": "G1722",
+          "transliteratie": "en"
+        },
+        {
+          "woord": "τοῖς",
+          "strongs": "G3588",
+          "transliteratie": "tois"
+        },
+        {
+          "woord": "ἔθνεσιν",
+          "strongs": "G1484",
+          "transliteratie": "ethnesin"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "mijn",
+          "voorkomen": 1,
+          "strongs": [
+            "G1699"
+          ],
+          "bronwoorden": [
+            "ἐμόν"
+          ],
+          "transliteraties": [
+            "emon"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "1CC2D150031A8E9A9B3106538341689F9618490B6CFD9483C134AF10755B33C0",
+            "referentie": "ESTHERAPOCRIEF 10:9",
+            "bronindices": [
+              4
+            ],
+            "grondindices": [
+              4
+            ]
+          }
+        },
+        {
+          "tekst": "Israël",
+          "voorkomen": 1,
+          "strongs": [
+            "G2474"
+          ],
+          "bronwoorden": [
+            "Ισραηλ"
+          ],
+          "transliteraties": [
+            "israēl"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "1CC2D150031A8E9A9B3106538341689F9618490B6CFD9483C134AF10755B33C0",
+            "referentie": "ESTHERAPOCRIEF 10:9",
+            "bronindices": [
+              7
+            ],
+            "grondindices": [
+              7
+            ]
+          }
+        },
+        {
+          "tekst": "al",
+          "voorkomen": 1,
+          "strongs": [
+            "G3956"
+          ],
+          "bronwoorden": [
+            "πάντων"
+          ],
+          "transliteraties": [
+            "pantōn"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "1CC2D150031A8E9A9B3106538341689F9618490B6CFD9483C134AF10755B33C0",
+            "referentie": "ESTHERAPOCRIEF 10:9",
+            "bronindices": [
+              26
+            ],
+            "grondindices": [
+              26
+            ]
+          }
+        },
+        {
+          "tekst": "niet",
+          "voorkomen": 1,
+          "strongs": [
+            "G3756"
+          ],
+          "bronwoorden": [
+            "οὐ"
+          ],
+          "transliteraties": [
+            "ou"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "1CC2D150031A8E9A9B3106538341689F9618490B6CFD9483C134AF10755B33C0",
+            "referentie": "ESTHERAPOCRIEF 10:9",
+            "bronindices": [
+              42
+            ],
+            "grondindices": [
+              42
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "text1637": "Daarom heeft hij twee loten gemaakt, het ene voor het volk Gods, en het andere voor al de heidenen.",
+      "textSV1888": "Daarom heeft hij twee loten gemaakt, het ene voor het volk Gods, en het andere voor al de heidenen.",
+      "text2026": "Daarom heeft hij twee loten gemaakt, het ene voor het volk van God, en het andere voor al de heidenen.",
+      "marginNotes": [],
+      "text2026_html": "<span class=\"direct-speech\"><i>Daarom heeft hij twee loten gemaakt, het ene voor het volk van God, en het andere voor al de heidenen.</i></span>",
+      "phraseDiff": [
+        {
+          "old": "Gods,",
+          "new": "van God,",
+          "principe": null
+        }
+      ],
+      "grondtekst": [
+        {
+          "woord": "διὰ",
+          "strongs": "G1223",
+          "transliteratie": "dia"
+        },
+        {
+          "woord": "τοῦτο",
+          "strongs": "G3778",
+          "transliteratie": "touto"
+        },
+        {
+          "woord": "ἐποίησεν",
+          "strongs": "G4160",
+          "transliteratie": "epoiēsen"
+        },
+        {
+          "woord": "κλήρους",
+          "strongs": "G2819",
+          "transliteratie": "klērous"
+        },
+        {
+          "woord": "δύο",
+          "strongs": "G1417",
+          "transliteratie": "dyo"
+        },
+        {
+          "woord": "ἕνα",
+          "strongs": "G1520",
+          "transliteratie": "hena"
+        },
+        {
+          "woord": "τῷ",
+          "strongs": "G3588",
+          "transliteratie": "tō"
+        },
+        {
+          "woord": "λαῷ",
+          "strongs": "G2992",
+          "transliteratie": "laō"
+        },
+        {
+          "woord": "τοῦ",
+          "strongs": "G3588",
+          "transliteratie": "tou"
+        },
+        {
+          "woord": "θεοῦ",
+          "strongs": "G2316",
+          "transliteratie": "theou"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ἕνα",
+          "strongs": "G1520",
+          "transliteratie": "hena"
+        },
+        {
+          "woord": "πᾶσι",
+          "strongs": "G3956",
+          "transliteratie": "pasi"
+        },
+        {
+          "woord": "τοῖς",
+          "strongs": "G3588",
+          "transliteratie": "tois"
+        },
+        {
+          "woord": "ἔθνεσιν",
+          "strongs": "G1484",
+          "transliteratie": "ethnesin"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "hij",
+          "voorkomen": 1,
+          "strongs": [
+            "G3588"
+          ],
+          "bronwoorden": [
+            "τῷ"
+          ],
+          "transliteraties": [
+            "tō"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "1CC2D150031A8E9A9B3106538341689F9618490B6CFD9483C134AF10755B33C0",
+            "referentie": "ESTHERAPOCRIEF 10:10",
+            "bronindices": [
+              6
+            ],
+            "grondindices": [
+              6
+            ]
+          }
+        },
+        {
+          "tekst": "twee",
+          "voorkomen": 1,
+          "strongs": [
+            "G1417"
+          ],
+          "bronwoorden": [
+            "δύο"
+          ],
+          "transliteraties": [
+            "dyo"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "1CC2D150031A8E9A9B3106538341689F9618490B6CFD9483C134AF10755B33C0",
+            "referentie": "ESTHERAPOCRIEF 10:10",
+            "bronindices": [
+              4
+            ],
+            "grondindices": [
+              4
+            ]
+          }
+        },
+        {
+          "tekst": "volk",
+          "voorkomen": 1,
+          "strongs": [
+            "G2992"
+          ],
+          "bronwoorden": [
+            "λαῷ"
+          ],
+          "transliteraties": [
+            "laō"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "1CC2D150031A8E9A9B3106538341689F9618490B6CFD9483C134AF10755B33C0",
+            "referentie": "ESTHERAPOCRIEF 10:10",
+            "bronindices": [
+              7
+            ],
+            "grondindices": [
+              7
+            ]
+          }
+        },
+        {
+          "tekst": "God",
+          "voorkomen": 1,
+          "strongs": [
+            "G2316"
+          ],
+          "bronwoorden": [
+            "θεοῦ"
+          ],
+          "transliteraties": [
+            "theou"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "1CC2D150031A8E9A9B3106538341689F9618490B6CFD9483C134AF10755B33C0",
+            "referentie": "ESTHERAPOCRIEF 10:10",
+            "bronindices": [
+              9
+            ],
+            "grondindices": [
+              9
+            ]
+          }
+        },
+        {
+          "tekst": "en",
+          "voorkomen": 1,
+          "strongs": [
+            "G2532"
+          ],
+          "bronwoorden": [
+            "καὶ"
+          ],
+          "transliteraties": [
+            "kai"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "1CC2D150031A8E9A9B3106538341689F9618490B6CFD9483C134AF10755B33C0",
+            "referentie": "ESTHERAPOCRIEF 10:10",
+            "bronindices": [
+              10
+            ],
+            "grondindices": [
+              10
+            ]
+          }
+        },
+        {
+          "tekst": "al",
+          "voorkomen": 1,
+          "strongs": [
+            "G3956"
+          ],
+          "bronwoorden": [
+            "πᾶσι"
+          ],
+          "transliteraties": [
+            "pasi"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "1CC2D150031A8E9A9B3106538341689F9618490B6CFD9483C134AF10755B33C0",
+            "referentie": "ESTHERAPOCRIEF 10:10",
+            "bronindices": [
+              12
+            ],
+            "grondindices": [
+              12
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "text1637": "En deze twee loten zijn voor God gekomen op de ure en tijd en dag des gerichts, hetwelk onder alle heidenen is bestemd;",
+      "textSV1888": "En deze twee loten zijn voor God gekomen op de ure en tijd en dag des gerichts, hetwelk onder alle heidenen is bestemd;",
+      "text2026": "En deze twee loten zijn voor God gekomen op het uur en tijd en dag van het gericht, dat onder alle heidenen is bestemd;",
+      "marginNotes": [],
+      "text2026_html": "<span class=\"direct-speech\"><i>En deze twee loten zijn voor God gekomen op het uur en tijd en dag van het gericht, dat onder alle heidenen is bestemd;</i></span>",
+      "phraseDiff": [
+        {
+          "old": "de ure",
+          "new": "het uur",
+          "principe": "O11"
+        },
+        {
+          "old": "des gerichts, hetwelk",
+          "new": "van het gericht, dat",
+          "principe": "N3"
+        }
+      ],
+      "grondtekst": [
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ἦλθον",
+          "strongs": "G2064",
+          "transliteratie": "ēlthon"
+        },
+        {
+          "woord": "οἱ",
+          "strongs": "G3588",
+          "transliteratie": "hoi"
+        },
+        {
+          "woord": "δύο",
+          "strongs": "G1417",
+          "transliteratie": "dyo"
+        },
+        {
+          "woord": "κλῆροι",
+          "strongs": "G2819",
+          "transliteratie": "klēroi"
+        },
+        {
+          "woord": "οὗτοι",
+          "strongs": "G3778",
+          "transliteratie": "houtoi"
+        },
+        {
+          "woord": "εἰς",
+          "strongs": "G1519",
+          "transliteratie": "eis"
+        },
+        {
+          "woord": "ὥραν",
+          "strongs": "G5610",
+          "transliteratie": "hōran"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "καιρὸν",
+          "strongs": "G2540",
+          "transliteratie": "kairon"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "εἰς",
+          "strongs": "G1519",
+          "transliteratie": "eis"
+        },
+        {
+          "woord": "ἡμέραν",
+          "strongs": "G2250",
+          "transliteratie": "hēmeran"
+        },
+        {
+          "woord": "κρίσεως",
+          "strongs": "G2920",
+          "transliteratie": "kriseōs"
+        },
+        {
+          "woord": "ἐνώπιον",
+          "strongs": "G1799",
+          "transliteratie": "enōpion"
+        },
+        {
+          "woord": "τοῦ",
+          "strongs": "G3588",
+          "transliteratie": "tou"
+        },
+        {
+          "woord": "θεοῦ",
+          "strongs": "G2316",
+          "transliteratie": "theou"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ἐν",
+          "strongs": "G1722",
+          "transliteratie": "en"
+        },
+        {
+          "woord": "πᾶσι",
+          "strongs": "G3956",
+          "transliteratie": "pasi"
+        },
+        {
+          "woord": "τοῖς",
+          "strongs": "G3588",
+          "transliteratie": "tois"
+        },
+        {
+          "woord": "ἔθνεσιν",
+          "strongs": "G1484",
+          "transliteratie": "ethnesin"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "deze",
+          "voorkomen": 1,
+          "strongs": [
+            "G3778"
+          ],
+          "bronwoorden": [
+            "οὗτοι"
+          ],
+          "transliteraties": [
+            "houtoi"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "1CC2D150031A8E9A9B3106538341689F9618490B6CFD9483C134AF10755B33C0",
+            "referentie": "ESTHERAPOCRIEF 10:11",
+            "bronindices": [
+              5
+            ],
+            "grondindices": [
+              5
+            ]
+          }
+        },
+        {
+          "tekst": "twee",
+          "voorkomen": 1,
+          "strongs": [
+            "G1417"
+          ],
+          "bronwoorden": [
+            "δύο"
+          ],
+          "transliteraties": [
+            "dyo"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "1CC2D150031A8E9A9B3106538341689F9618490B6CFD9483C134AF10755B33C0",
+            "referentie": "ESTHERAPOCRIEF 10:11",
+            "bronindices": [
+              3
+            ],
+            "grondindices": [
+              3
+            ]
+          }
+        },
+        {
+          "tekst": "tijd",
+          "voorkomen": 1,
+          "strongs": [
+            "G5610"
+          ],
+          "bronwoorden": [
+            "ὥραν"
+          ],
+          "transliteraties": [
+            "hōran"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "1CC2D150031A8E9A9B3106538341689F9618490B6CFD9483C134AF10755B33C0",
+            "referentie": "ESTHERAPOCRIEF 10:11",
+            "bronindices": [
+              7
+            ],
+            "grondindices": [
+              7
+            ]
+          }
+        },
+        {
+          "tekst": "dag",
+          "voorkomen": 1,
+          "strongs": [
+            "G2250"
+          ],
+          "bronwoorden": [
+            "ἡμέραν"
+          ],
+          "transliteraties": [
+            "hēmeran"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "1CC2D150031A8E9A9B3106538341689F9618490B6CFD9483C134AF10755B33C0",
+            "referentie": "ESTHERAPOCRIEF 10:11",
+            "bronindices": [
+              12
+            ],
+            "grondindices": [
+              12
+            ]
+          }
+        },
+        {
+          "tekst": "God",
+          "voorkomen": 1,
+          "strongs": [
+            "G2316"
+          ],
+          "bronwoorden": [
+            "θεοῦ"
+          ],
+          "transliteraties": [
+            "theou"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "1CC2D150031A8E9A9B3106538341689F9618490B6CFD9483C134AF10755B33C0",
+            "referentie": "ESTHERAPOCRIEF 10:11",
+            "bronindices": [
+              16
+            ],
+            "grondindices": [
+              16
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "text1637": "En God is zijns volks gedachtig geworden, en heeft zijn erfdeel gerechtvaardigd.",
+      "textSV1888": "En God is zijns volks gedachtig geworden, en heeft zijn erfdeel gerechtvaardigd.",
+      "text2026": "En God is zijn volk gedachtig geworden, en heeft zijn erfdeel gerechtvaardigd.",
+      "marginNotes": [],
+      "text2026_html": "<span class=\"direct-speech\"><i>En God is zijn volk gedachtig geworden, en heeft zijn erfdeel gerechtvaardigd.</i></span>",
+      "phraseDiff": [
+        {
+          "old": "zijns volks",
+          "new": "zijn volk",
+          "principe": null
+        }
+      ],
+      "grondtekst": [
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ἐμνήσθη",
+          "strongs": "G3415",
+          "transliteratie": "emnēsthē"
+        },
+        {
+          "woord": "ὁ",
+          "strongs": "G3588",
+          "transliteratie": "ho"
+        },
+        {
+          "woord": "θεὸς",
+          "strongs": "G2316",
+          "transliteratie": "theos"
+        },
+        {
+          "woord": "τοῦ",
+          "strongs": "G3588",
+          "transliteratie": "tou"
+        },
+        {
+          "woord": "λαοῦ",
+          "strongs": "G2992",
+          "transliteratie": "laou"
+        },
+        {
+          "woord": "αὐτοῦ",
+          "strongs": "G846",
+          "transliteratie": "autou"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ἐδικαίωσεν",
+          "strongs": "G1344",
+          "transliteratie": "edikaiōsen"
+        },
+        {
+          "woord": "τὴν",
+          "strongs": "G3588",
+          "transliteratie": "tēn"
+        },
+        {
+          "woord": "κληρονομίαν",
+          "strongs": "G2817",
+          "transliteratie": "klēronomian"
+        },
+        {
+          "woord": "αὐτοῦ",
+          "strongs": "G846",
+          "transliteratie": "autou"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "God",
+          "voorkomen": 1,
+          "strongs": [
+            "G2316"
+          ],
+          "bronwoorden": [
+            "θεὸς"
+          ],
+          "transliteraties": [
+            "theos"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "1CC2D150031A8E9A9B3106538341689F9618490B6CFD9483C134AF10755B33C0",
+            "referentie": "ESTHERAPOCRIEF 10:12",
+            "bronindices": [
+              3
+            ],
+            "grondindices": [
+              3
+            ]
+          }
+        },
+        {
+          "tekst": "volk",
+          "voorkomen": 1,
+          "strongs": [
+            "G2992"
+          ],
+          "bronwoorden": [
+            "λαοῦ"
+          ],
+          "transliteraties": [
+            "laou"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "1CC2D150031A8E9A9B3106538341689F9618490B6CFD9483C134AF10755B33C0",
+            "referentie": "ESTHERAPOCRIEF 10:12",
+            "bronindices": [
+              5
+            ],
+            "grondindices": [
+              5
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "text1637": "Daarom zullen deze dagen hun tot vierdagen zijn, in de maand Adar, op de veertiende dag der maand, met vergadering, en vreugde, en vrolijkheid voor God, door elk geslacht in eeuwigheid onder zijn volk.",
+      "textSV1888": "Daarom zullen deze dagen hun tot vierdagen zijn, in de maand Adar, op de veertiende dag der maand, met vergadering, en vreugde, en vrolijkheid voor God, door elk geslacht in eeuwigheid onder zijn volk.",
+      "text2026": "Daarom zullen deze dagen hun tot vierdagen zijn, in de maand Adar, op de veertiende dag van de maand, met vergadering, en vreugde, en vrolijkheid voor God, door elk geslacht in eeuwigheid onder zijn volk.",
+      "marginNotes": [],
+      "text2026_html": "<span class=\"direct-speech\"><i>Daarom zullen deze dagen hun tot vierdagen zijn, in de maand Adar, op de veertiende dag van de maand, met vergadering, en vreugde, en vrolijkheid voor God, door elk geslacht in eeuwigheid onder zijn volk.</i></span>",
+      "phraseDiff": [
+        {
+          "old": "der",
+          "new": "van de",
+          "principe": "N2"
+        }
+      ],
+      "grondtekst": [
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ἔσονται",
+          "strongs": "G1510",
+          "transliteratie": "esontai"
+        },
+        {
+          "woord": "αὐτοῖς",
+          "strongs": "G846",
+          "transliteratie": "autois"
+        },
+        {
+          "woord": "αἱ",
+          "strongs": "G3588",
+          "transliteratie": "hai"
+        },
+        {
+          "woord": "ἡμέραι",
+          "strongs": "G2250",
+          "transliteratie": "hēmerai"
+        },
+        {
+          "woord": "αὗται",
+          "strongs": "G3778",
+          "transliteratie": "hautai"
+        },
+        {
+          "woord": "ἐν",
+          "strongs": "G1722",
+          "transliteratie": "en"
+        },
+        {
+          "woord": "μηνὶ",
+          "strongs": "G3376",
+          "transliteratie": "mēni"
+        },
+        {
+          "woord": "Αδαρ",
+          "transliteratie": "adar"
+        },
+        {
+          "woord": "τῇ",
+          "strongs": "G3588",
+          "transliteratie": "tē"
+        },
+        {
+          "woord": "τεσσαρεσκαιδεκάτῃ",
+          "strongs": "G5065",
+          "transliteratie": "tessareskaidekatē"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "τῇ",
+          "strongs": "G3588",
+          "transliteratie": "tē"
+        },
+        {
+          "woord": "πεντεκαιδεκάτῃ",
+          "strongs": "G4003",
+          "transliteratie": "pentekaidekatē"
+        },
+        {
+          "woord": "τοῦ",
+          "strongs": "G3588",
+          "transliteratie": "tou"
+        },
+        {
+          "woord": "αὐτοῦ",
+          "strongs": "G846",
+          "transliteratie": "autou"
+        },
+        {
+          "woord": "μηνὸς",
+          "strongs": "G3376",
+          "transliteratie": "mēnos"
+        },
+        {
+          "woord": "μετὰ",
+          "strongs": "G3326",
+          "transliteratie": "meta"
+        },
+        {
+          "woord": "συναγωγῆς",
+          "strongs": "G4864",
+          "transliteratie": "synagōgēs"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "χαρᾶς",
+          "strongs": "G5479",
+          "transliteratie": "charas"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "εὐφροσύνης",
+          "strongs": "G2167",
+          "transliteratie": "euphrosynēs"
+        },
+        {
+          "woord": "ἐνώπιον",
+          "strongs": "G1799",
+          "transliteratie": "enōpion"
+        },
+        {
+          "woord": "τοῦ",
+          "strongs": "G3588",
+          "transliteratie": "tou"
+        },
+        {
+          "woord": "θεοῦ",
+          "strongs": "G2316",
+          "transliteratie": "theou"
+        },
+        {
+          "woord": "κατὰ",
+          "strongs": "G2596",
+          "transliteratie": "kata"
+        },
+        {
+          "woord": "γενεὰς",
+          "strongs": "G1074",
+          "transliteratie": "geneas"
+        },
+        {
+          "woord": "εἰς",
+          "strongs": "G1519",
+          "transliteratie": "eis"
+        },
+        {
+          "woord": "τὸν",
+          "strongs": "G3588",
+          "transliteratie": "ton"
+        },
+        {
+          "woord": "αἰῶνα",
+          "strongs": "G165",
+          "transliteratie": "aiōna"
+        },
+        {
+          "woord": "ἐν",
+          "strongs": "G1722",
+          "transliteratie": "en"
+        },
+        {
+          "woord": "τῷ",
+          "strongs": "G3588",
+          "transliteratie": "tō"
+        },
+        {
+          "woord": "λαῷ",
+          "strongs": "G2992",
+          "transliteratie": "laō"
+        },
+        {
+          "woord": "αὐτοῦ",
+          "strongs": "G846",
+          "transliteratie": "autou"
+        },
+        {
+          "woord": "Ισραηλ",
+          "strongs": "G2474",
+          "transliteratie": "israēl"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "deze",
+          "voorkomen": 1,
+          "strongs": [
+            "G3778"
+          ],
+          "bronwoorden": [
+            "αὗται"
+          ],
+          "transliteraties": [
+            "hautai"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "1CC2D150031A8E9A9B3106538341689F9618490B6CFD9483C134AF10755B33C0",
+            "referentie": "ESTHERAPOCRIEF 10:13",
+            "bronindices": [
+              5
+            ],
+            "grondindices": [
+              5
+            ]
+          }
+        },
+        {
+          "tekst": "veertiende",
+          "voorkomen": 1,
+          "strongs": [
+            "G5065"
+          ],
+          "bronwoorden": [
+            "τεσσαρεσκαιδεκάτῃ"
+          ],
+          "transliteraties": [
+            "tessareskaidekatē"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "1CC2D150031A8E9A9B3106538341689F9618490B6CFD9483C134AF10755B33C0",
+            "referentie": "ESTHERAPOCRIEF 10:13",
+            "bronindices": [
+              10
+            ],
+            "grondindices": [
+              10
+            ]
+          }
+        },
+        {
+          "tekst": "dag",
+          "voorkomen": 1,
+          "strongs": [
+            "G2250"
+          ],
+          "bronwoorden": [
+            "ἡμέραι"
+          ],
+          "transliteraties": [
+            "hēmerai"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "1CC2D150031A8E9A9B3106538341689F9618490B6CFD9483C134AF10755B33C0",
+            "referentie": "ESTHERAPOCRIEF 10:13",
+            "bronindices": [
+              4
+            ],
+            "grondindices": [
+              4
+            ]
+          }
+        },
+        {
+          "tekst": "vreugde",
+          "voorkomen": 1,
+          "strongs": [
+            "G5479"
+          ],
+          "bronwoorden": [
+            "χαρᾶς"
+          ],
+          "transliteraties": [
+            "charas"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "1CC2D150031A8E9A9B3106538341689F9618490B6CFD9483C134AF10755B33C0",
+            "referentie": "ESTHERAPOCRIEF 10:13",
+            "bronindices": [
+              20
+            ],
+            "grondindices": [
+              20
+            ]
+          }
+        },
+        {
+          "tekst": "God",
+          "voorkomen": 1,
+          "strongs": [
+            "G2316"
+          ],
+          "bronwoorden": [
+            "θεοῦ"
+          ],
+          "transliteraties": [
+            "theou"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "1CC2D150031A8E9A9B3106538341689F9618490B6CFD9483C134AF10755B33C0",
+            "referentie": "ESTHERAPOCRIEF 10:13",
+            "bronindices": [
+              25
+            ],
+            "grondindices": [
+              25
+            ]
+          }
+        },
+        {
+          "tekst": "geslacht",
+          "voorkomen": 1,
+          "strongs": [
+            "G1074"
+          ],
+          "bronwoorden": [
+            "γενεὰς"
+          ],
+          "transliteraties": [
+            "geneas"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "1CC2D150031A8E9A9B3106538341689F9618490B6CFD9483C134AF10755B33C0",
+            "referentie": "ESTHERAPOCRIEF 10:13",
+            "bronindices": [
+              27
+            ],
+            "grondindices": [
+              27
+            ]
+          }
+        },
+        {
+          "tekst": "eeuwigheid",
+          "voorkomen": 1,
+          "strongs": [
+            "G165"
+          ],
+          "bronwoorden": [
+            "αἰῶνα"
+          ],
+          "transliteraties": [
+            "aiōna"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "1CC2D150031A8E9A9B3106538341689F9618490B6CFD9483C134AF10755B33C0",
+            "referentie": "ESTHERAPOCRIEF 10:13",
+            "bronindices": [
+              30
+            ],
+            "grondindices": [
+              30
+            ]
+          }
+        },
+        {
+          "tekst": "volk",
+          "voorkomen": 1,
+          "strongs": [
+            "G2992"
+          ],
+          "bronwoorden": [
+            "λαῷ"
+          ],
+          "transliteraties": [
+            "laō"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "1CC2D150031A8E9A9B3106538341689F9618490B6CFD9483C134AF10755B33C0",
+            "referentie": "ESTHERAPOCRIEF 10:13",
+            "bronindices": [
+              33
+            ],
+            "grondindices": [
+              33
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "chapterIntro": {
+    "text1637": "4 Mardocheus gedenckt aen sijnen droom, die hy gedroomt hadde, van een kleyne fonteyne ende van twee draken. 6 Ende leght den selven uyt.",
+    "text2026": "4 Mordechai denkt aan zijn droom, die hij gedroomd had, van een kleine bron en van twee draken. 6 En legt die uit."
+  }
+}

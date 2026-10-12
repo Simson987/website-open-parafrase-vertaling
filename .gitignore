@@ -1,0 +1,62 @@
+bronbestanden/statenvertaling_1637.xml
+scripts/.env
+scripts/__pycache__/
+__pycache__/
+*.pyc
+.DS_Store
+data/feedback-log.json
+.venv/
+.venv-verification/
+.venv-xtts/
+.venv-higgs/
+vendor/
+audio/_pilot/
+audio/_progress.json
+audio/_errors.log
+audio/_rollout.log
+# Tussenbestanden van XTTS-chunking — alleen .mp3's commiten
+audio/*/*.chunk*.wav
+audio/*/*.concat.txt
+audio/*/*.wav
+.venv-piper/
+data/quality-scan/
+data/process_*.py
+data/verbeter_*.py
+data/review_*.md
+data/woordenlijst.md
+# Werkbestanden — niet in deploy
+data/open_vertaling.db
+data/update_*.py
+.venv-higgs-v3/
+# Tauri desktop-app build-artefacten
+src-tauri/target/
+src-tauri/gen/
+desktop/dist/
+node_modules/
+.worktrees/
+
+# Lexicon NL-vertaling: tussenbestanden (niet nodig op de site)
+data/lexicon-nl/_batches/
+data/lexicon-nl/parts/
+PROMPTS.md
+
+# Downloads worden tijdens de deploy gebouwd (scripts/build_downloads.py),
+# niet in git bewaard. De losse transcriptie in downloads/ blijft wel staan.
+downloads/*.zip
+downloads/*.epub
+downloads/index.json
+
+# Adres van de gepubliceerde opmerkingen-sheet (niet in de geschiedenis)
+data/opmerkingen-bron.json
+data/review-catalog.json
+data/verified-chapters.json
+
+# Afgeleide omslagdelen: scripts/prepare_gods_woord_covers.py maakt ze uit
+# volledige-omslag.png, die wel meegaat.
+images/covers/gods-woord/*/achterkant.png
+images/covers/gods-woord/*/rug.png
+images/covers/gods-woord/*/voorkant.png
+
+# Leespagina's en platte tekst: de uitrol bouwt ze uit de data (scripts/build_leespaginas.py)
+/bijbel/
+/llms-full.txt

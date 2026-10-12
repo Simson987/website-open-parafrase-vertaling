@@ -1,0 +1,5946 @@
+{
+  "number": 2,
+  "verses": [
+    {
+      "number": 1,
+      "text1637": "Daar wordt in de schriften gevonden, dat de profeet Jeremia degenen, die weggevoerd werden, geboden heeft van het vuur te nemen, gelijk verklaard is, en gelijk de profeet degenen, die weggevoerd zouden worden, bevolen had;",
+      "textSV1888": "Daar wordt in de schriften gevonden, dat de profeet Jeremia degenen, die weggevoerd werden, geboden heeft van het vuur te nemen, gelijk verklaard is, en gelijk de profeet degenen, die weggevoerd zouden worden, bevolen had;",
+      "text2026": "Daar wordt in de schriften gevonden, dat de profeet Jeremia degenen, die weggevoerd werden, geboden heeft van het vuur te nemen, zoals verklaard is, en zoals de profeet degenen, die weggevoerd zouden worden, bevolen had;",
+      "marginNotes": [],
+      "text2026_html": "Daar wordt in de schriften gevonden, dat de profeet Jeremia degenen, die weggevoerd werden, geboden heeft van het vuur te nemen, zoals verklaard is, en zoals de profeet degenen, die weggevoerd zouden worden, bevolen had;",
+      "phraseDiff": [
+        {
+          "old": "gelijk",
+          "new": "zoals",
+          "principe": null
+        },
+        {
+          "old": "gelijk",
+          "new": "zoals",
+          "principe": null
+        }
+      ],
+      "grondtekst": [
+        {
+          "woord": "εὑρίσκεται",
+          "strongs": "G2147",
+          "transliteratie": "heurisketai"
+        },
+        {
+          "woord": "δὲ",
+          "strongs": "G1161",
+          "transliteratie": "de"
+        },
+        {
+          "woord": "ἐν",
+          "strongs": "G1722",
+          "transliteratie": "en"
+        },
+        {
+          "woord": "ταῖς",
+          "strongs": "G3588",
+          "transliteratie": "tais"
+        },
+        {
+          "woord": "ἀπογραφαῖς",
+          "strongs": "G582",
+          "transliteratie": "apographais"
+        },
+        {
+          "woord": "Ιερεμιας",
+          "strongs": "G2408",
+          "transliteratie": "ieremias"
+        },
+        {
+          "woord": "ὁ",
+          "strongs": "G3588",
+          "transliteratie": "ho"
+        },
+        {
+          "woord": "προφήτης",
+          "strongs": "G4396",
+          "transliteratie": "prophētēs"
+        },
+        {
+          "woord": "ὅτι",
+          "strongs": "G3754",
+          "transliteratie": "hoti"
+        },
+        {
+          "woord": "ἐκέλευσεν",
+          "strongs": "G2753",
+          "transliteratie": "ekeleusen"
+        },
+        {
+          "woord": "τοῦ",
+          "strongs": "G3588",
+          "transliteratie": "tou"
+        },
+        {
+          "woord": "πυρὸς",
+          "strongs": "G4442",
+          "transliteratie": "pyros"
+        },
+        {
+          "woord": "λαβεῖν",
+          "strongs": "G2983",
+          "transliteratie": "labein"
+        },
+        {
+          "woord": "τοὺς",
+          "strongs": "G3588",
+          "transliteratie": "tous"
+        },
+        {
+          "woord": "μεταγενομένους",
+          "transliteratie": "metagenomenous"
+        },
+        {
+          "woord": "ὡς",
+          "strongs": "G5613",
+          "transliteratie": "hōs"
+        },
+        {
+          "woord": "σεσήμανται",
+          "strongs": "G4591",
+          "transliteratie": "sesēmantai"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "dat",
+          "voorkomen": 1,
+          "strongs": [
+            "G3754"
+          ],
+          "bronwoorden": [
+            "ὅτι"
+          ],
+          "transliteraties": [
+            "hoti"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "D571BA375C6DE900E711A53D1AFA8DA01081E90CEB9CD253D12EB57E546B2148",
+            "referentie": "2MAKKABEEEN 2:1",
+            "bronindices": [
+              8
+            ],
+            "grondindices": [
+              8
+            ]
+          }
+        },
+        {
+          "tekst": "Jeremia",
+          "voorkomen": 1,
+          "strongs": [
+            "G2408"
+          ],
+          "bronwoorden": [
+            "Ιερεμιας"
+          ],
+          "transliteraties": [
+            "ieremias"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "D571BA375C6DE900E711A53D1AFA8DA01081E90CEB9CD253D12EB57E546B2148",
+            "referentie": "2MAKKABEEEN 2:1",
+            "bronindices": [
+              5
+            ],
+            "grondindices": [
+              5
+            ]
+          }
+        },
+        {
+          "tekst": "vuur",
+          "voorkomen": 1,
+          "strongs": [
+            "G4442"
+          ],
+          "bronwoorden": [
+            "πυρὸς"
+          ],
+          "transliteraties": [
+            "pyros"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "D571BA375C6DE900E711A53D1AFA8DA01081E90CEB9CD253D12EB57E546B2148",
+            "referentie": "2MAKKABEEEN 2:1",
+            "bronindices": [
+              11
+            ],
+            "grondindices": [
+              11
+            ]
+          }
+        },
+        {
+          "tekst": "nemen",
+          "voorkomen": 1,
+          "strongs": [
+            "G2983"
+          ],
+          "bronwoorden": [
+            "λαβεῖν"
+          ],
+          "transliteraties": [
+            "labein"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "D571BA375C6DE900E711A53D1AFA8DA01081E90CEB9CD253D12EB57E546B2148",
+            "referentie": "2MAKKABEEEN 2:1",
+            "bronindices": [
+              12
+            ],
+            "grondindices": [
+              12
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "text1637": "Hun gevende de wet, dat zij niet zouden vergeten de geboden des Heren, en dat zij niet zouden dwalen in hun verstand, ziende de gouden en zilveren beelden, en hun versiering.",
+      "textSV1888": "Hun gevende de wet, dat zij niet zouden vergeten de geboden des Heren, en dat zij niet zouden dwalen in hun verstand, ziende de gouden en zilveren beelden, en hun versiering.",
+      "text2026": "Hun gevende de wet, dat zij niet zouden vergeten de geboden van de Heere, en dat zij niet zouden dwalen in hun verstand, ziende de gouden en zilveren beelden, en hun versiering.",
+      "marginNotes": [],
+      "text2026_html": "Hun gevende de wet, dat zij niet zouden vergeten de geboden van de Heere, en dat zij niet zouden dwalen in hun verstand, ziende de gouden en zilveren beelden, en hun versiering.",
+      "phraseDiff": [
+        {
+          "old": "des Heren,",
+          "new": "van de Heere,",
+          "principe": null
+        }
+      ],
+      "grondtekst": [
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ὡς",
+          "strongs": "G5613",
+          "transliteratie": "hōs"
+        },
+        {
+          "woord": "ἐνετείλατο",
+          "strongs": "G1781",
+          "transliteratie": "eneteilato"
+        },
+        {
+          "woord": "τοῖς",
+          "strongs": "G3588",
+          "transliteratie": "tois"
+        },
+        {
+          "woord": "μεταγενομένοις",
+          "transliteratie": "metagenomenois"
+        },
+        {
+          "woord": "ὁ",
+          "strongs": "G3588",
+          "transliteratie": "ho"
+        },
+        {
+          "woord": "προφήτης",
+          "strongs": "G4396",
+          "transliteratie": "prophētēs"
+        },
+        {
+          "woord": "δοὺς",
+          "strongs": "G1325",
+          "transliteratie": "dous"
+        },
+        {
+          "woord": "αὐτοῖς",
+          "strongs": "G846",
+          "transliteratie": "autois"
+        },
+        {
+          "woord": "τὸν",
+          "strongs": "G3588",
+          "transliteratie": "ton"
+        },
+        {
+          "woord": "νόμον",
+          "strongs": "G3551",
+          "transliteratie": "nomon"
+        },
+        {
+          "woord": "ἵνα",
+          "strongs": "G2443",
+          "transliteratie": "hina"
+        },
+        {
+          "woord": "μὴ",
+          "strongs": "G3361",
+          "transliteratie": "mē"
+        },
+        {
+          "woord": "ἐπιλάθωνται",
+          "strongs": "G1950",
+          "transliteratie": "epilathōntai"
+        },
+        {
+          "woord": "τῶν",
+          "strongs": "G3588",
+          "transliteratie": "tōn"
+        },
+        {
+          "woord": "προσταγμάτων",
+          "transliteratie": "prostagmatōn"
+        },
+        {
+          "woord": "τοῦ",
+          "strongs": "G3588",
+          "transliteratie": "tou"
+        },
+        {
+          "woord": "κυρίου",
+          "strongs": "G2962",
+          "transliteratie": "kyriou"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ἵνα",
+          "strongs": "G2443",
+          "transliteratie": "hina"
+        },
+        {
+          "woord": "μὴ",
+          "strongs": "G3361",
+          "transliteratie": "mē"
+        },
+        {
+          "woord": "ἀποπλανηθῶσιν",
+          "strongs": "G635",
+          "transliteratie": "apoplanēthōsin"
+        },
+        {
+          "woord": "ταῖς",
+          "strongs": "G3588",
+          "transliteratie": "tais"
+        },
+        {
+          "woord": "διανοίαις",
+          "strongs": "G1271",
+          "transliteratie": "dianoiais"
+        },
+        {
+          "woord": "βλέποντες",
+          "strongs": "G991",
+          "transliteratie": "blepontes"
+        },
+        {
+          "woord": "ἀγάλματα",
+          "transliteratie": "agalmata"
+        },
+        {
+          "woord": "χρυσᾶ",
+          "strongs": "G5552",
+          "transliteratie": "chrysa"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ἀργυρᾶ",
+          "strongs": "G693",
+          "transliteratie": "argyra"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "τὸν",
+          "strongs": "G3588",
+          "transliteratie": "ton"
+        },
+        {
+          "woord": "περὶ",
+          "strongs": "G4012",
+          "transliteratie": "peri"
+        },
+        {
+          "woord": "αὐτὰ",
+          "strongs": "G846",
+          "transliteratie": "auta"
+        },
+        {
+          "woord": "κόσμον",
+          "strongs": "G2889",
+          "transliteratie": "kosmon"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "verstand",
+          "voorkomen": 1,
+          "strongs": [
+            "G1271"
+          ],
+          "bronwoorden": [
+            "διανοίαις"
+          ],
+          "transliteraties": [
+            "dianoiais"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "D571BA375C6DE900E711A53D1AFA8DA01081E90CEB9CD253D12EB57E546B2148",
+            "referentie": "2MAKKABEEEN 2:2",
+            "bronindices": [
+              23
+            ],
+            "grondindices": [
+              23
+            ]
+          }
+        },
+        {
+          "tekst": "gouden",
+          "voorkomen": 1,
+          "strongs": [
+            "G5552"
+          ],
+          "bronwoorden": [
+            "χρυσᾶ"
+          ],
+          "transliteraties": [
+            "chrysa"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "D571BA375C6DE900E711A53D1AFA8DA01081E90CEB9CD253D12EB57E546B2148",
+            "referentie": "2MAKKABEEEN 2:2",
+            "bronindices": [
+              26
+            ],
+            "grondindices": [
+              26
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "text1637": "En andere dergelijke dingen hun aanzeggende, vermaande hij hen, dat zij met hun harten niet zouden afwijken van de wet,",
+      "textSV1888": "En andere dergelijke dingen hun aanzeggende, vermaande hij hen, dat zij met hun harten niet zouden afwijken van de wet,",
+      "text2026": "En andere dergelijke dingen hun aanzeggende, vermaande hij hen, dat zij met hun harten niet zouden afwijken van de wet,",
+      "marginNotes": [],
+      "text2026_html": "En andere dergelijke dingen hun aanzeggende, vermaande hij hen, dat zij met hun harten niet zouden afwijken van de wet,",
+      "grondtekst": [
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ἕτερα",
+          "strongs": "G2087",
+          "transliteratie": "hetera"
+        },
+        {
+          "woord": "τοιαῦτα",
+          "strongs": "G5108",
+          "transliteratie": "toiauta"
+        },
+        {
+          "woord": "λέγων",
+          "strongs": "G3004",
+          "transliteratie": "legōn"
+        },
+        {
+          "woord": "παρεκάλει",
+          "strongs": "G3870",
+          "transliteratie": "parekalei"
+        },
+        {
+          "woord": "μὴ",
+          "strongs": "G3361",
+          "transliteratie": "mē"
+        },
+        {
+          "woord": "ἀποστῆναι",
+          "strongs": "G868",
+          "transliteratie": "apostēnai"
+        },
+        {
+          "woord": "τὸν",
+          "strongs": "G3588",
+          "transliteratie": "ton"
+        },
+        {
+          "woord": "νόμον",
+          "strongs": "G3551",
+          "transliteratie": "nomon"
+        },
+        {
+          "woord": "ἀπὸ",
+          "strongs": "G575",
+          "transliteratie": "apo"
+        },
+        {
+          "woord": "τῆς",
+          "strongs": "G3588",
+          "transliteratie": "tēs"
+        },
+        {
+          "woord": "καρδίας",
+          "strongs": "G2588",
+          "transliteratie": "kardias"
+        },
+        {
+          "woord": "αὐτῶν",
+          "strongs": "G846",
+          "transliteratie": "autōn"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "En",
+          "voorkomen": 1,
+          "strongs": [
+            "G2532"
+          ],
+          "bronwoorden": [
+            "καὶ"
+          ],
+          "transliteraties": [
+            "kai"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "D571BA375C6DE900E711A53D1AFA8DA01081E90CEB9CD253D12EB57E546B2148",
+            "referentie": "2MAKKABEEEN 2:3",
+            "bronindices": [
+              0
+            ],
+            "grondindices": [
+              0
+            ]
+          }
+        },
+        {
+          "tekst": "hij",
+          "voorkomen": 1,
+          "strongs": [
+            "G3588"
+          ],
+          "bronwoorden": [
+            "τὸν"
+          ],
+          "transliteraties": [
+            "ton"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "D571BA375C6DE900E711A53D1AFA8DA01081E90CEB9CD253D12EB57E546B2148",
+            "referentie": "2MAKKABEEEN 2:3",
+            "bronindices": [
+              7
+            ],
+            "grondindices": [
+              7
+            ]
+          }
+        },
+        {
+          "tekst": "niet",
+          "voorkomen": 1,
+          "strongs": [
+            "G3361"
+          ],
+          "bronwoorden": [
+            "μὴ"
+          ],
+          "transliteraties": [
+            "mē"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "D571BA375C6DE900E711A53D1AFA8DA01081E90CEB9CD253D12EB57E546B2148",
+            "referentie": "2MAKKABEEEN 2:3",
+            "bronindices": [
+              5
+            ],
+            "grondindices": [
+              5
+            ]
+          }
+        },
+        {
+          "tekst": "van",
+          "voorkomen": 1,
+          "strongs": [
+            "G575"
+          ],
+          "bronwoorden": [
+            "ἀπὸ"
+          ],
+          "transliteraties": [
+            "apo"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "D571BA375C6DE900E711A53D1AFA8DA01081E90CEB9CD253D12EB57E546B2148",
+            "referentie": "2MAKKABEEEN 2:3",
+            "bronindices": [
+              9
+            ],
+            "grondindices": [
+              9
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "text1637": "En in hetzelfde schrift was ook, dat de profeet geboden heeft, dat de tabernakel en de ark, gelijk hij door Goddelijke aanspraak was onderricht, hem zou volgen; en hoe hij uitging naar de berg, op welke Mozes geklommen was, en het erfdeel van God zag.",
+      "textSV1888": "En in hetzelfde schrift was ook, dat de profeet geboden heeft, dat de tabernakel en de ark, gelijk hij door Goddelijke aanspraak was onderricht, hem zou volgen; en hoe hij uitging naar de berg, op welke Mozes geklommen was, en het erfdeel van God zag.",
+      "text2026": "En in hetzelfde schrift was ook, dat de profeet geboden heeft, dat de tabernakel en de ark, zoals hij door Goddelijke aanspraak was onderricht, hem zou volgen; en hoe hij uitging naar de berg, op welke Mozes geklommen was, en het erfdeel van God zag.",
+      "marginNotes": [],
+      "text2026_html": "En in hetzelfde schrift was ook, dat de profeet geboden heeft, dat de tabernakel en de ark, zoals hij door Goddelijke aanspraak was onderricht, hem zou volgen; en hoe hij uitging naar de berg, op welke Mozes geklommen was, en het erfdeel van God zag.",
+      "phraseDiff": [
+        {
+          "old": "gelijk",
+          "new": "zoals",
+          "principe": null
+        }
+      ],
+      "grondtekst": [
+        {
+          "woord": "ἦν",
+          "strongs": "G1510",
+          "transliteratie": "ēn"
+        },
+        {
+          "woord": "δὲ",
+          "strongs": "G1161",
+          "transliteratie": "de"
+        },
+        {
+          "woord": "ἐν",
+          "strongs": "G1722",
+          "transliteratie": "en"
+        },
+        {
+          "woord": "τῇ",
+          "strongs": "G3588",
+          "transliteratie": "tē"
+        },
+        {
+          "woord": "γραφῇ",
+          "strongs": "G1124",
+          "transliteratie": "graphē"
+        },
+        {
+          "woord": "ὡς",
+          "strongs": "G5613",
+          "transliteratie": "hōs"
+        },
+        {
+          "woord": "τὴν",
+          "strongs": "G3588",
+          "transliteratie": "tēn"
+        },
+        {
+          "woord": "σκηνὴν",
+          "strongs": "G4633",
+          "transliteratie": "skēnēn"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "τὴν",
+          "strongs": "G3588",
+          "transliteratie": "tēn"
+        },
+        {
+          "woord": "κιβωτὸν",
+          "strongs": "G2787",
+          "transliteratie": "kibōton"
+        },
+        {
+          "woord": "ἐκέλευσεν",
+          "strongs": "G2753",
+          "transliteratie": "ekeleusen"
+        },
+        {
+          "woord": "ὁ",
+          "strongs": "G3588",
+          "transliteratie": "ho"
+        },
+        {
+          "woord": "προφήτης",
+          "strongs": "G4396",
+          "transliteratie": "prophētēs"
+        },
+        {
+          "woord": "χρηματισμοῦ",
+          "strongs": "G5538",
+          "transliteratie": "chrēmatismou"
+        },
+        {
+          "woord": "γενηθέντος",
+          "strongs": "G1096",
+          "transliteratie": "genēthentos"
+        },
+        {
+          "woord": "αὐτῷ",
+          "strongs": "G846",
+          "transliteratie": "autō"
+        },
+        {
+          "woord": "συνακολουθεῖν",
+          "strongs": "G4870",
+          "transliteratie": "synakolouthein"
+        },
+        {
+          "woord": "ὡς",
+          "strongs": "G5613",
+          "transliteratie": "hōs"
+        },
+        {
+          "woord": "δὲ",
+          "strongs": "G1161",
+          "transliteratie": "de"
+        },
+        {
+          "woord": "ἐξῆλθεν",
+          "strongs": "G1831",
+          "transliteratie": "exēlthen"
+        },
+        {
+          "woord": "εἰς",
+          "strongs": "G1519",
+          "transliteratie": "eis"
+        },
+        {
+          "woord": "τὸ",
+          "strongs": "G3588",
+          "transliteratie": "to"
+        },
+        {
+          "woord": "ὄρος",
+          "strongs": "G3735",
+          "transliteratie": "oros"
+        },
+        {
+          "woord": "οὗ",
+          "strongs": "G3739",
+          "transliteratie": "hou"
+        },
+        {
+          "woord": "ὁ",
+          "strongs": "G3588",
+          "transliteratie": "ho"
+        },
+        {
+          "woord": "Μωυσῆς",
+          "strongs": "G3475",
+          "transliteratie": "mōysēs"
+        },
+        {
+          "woord": "ἀναβὰς",
+          "strongs": "G305",
+          "transliteratie": "anabas"
+        },
+        {
+          "woord": "ἐθεάσατο",
+          "strongs": "G2300",
+          "transliteratie": "etheasato"
+        },
+        {
+          "woord": "τὴν",
+          "strongs": "G3588",
+          "transliteratie": "tēn"
+        },
+        {
+          "woord": "τοῦ",
+          "strongs": "G3588",
+          "transliteratie": "tou"
+        },
+        {
+          "woord": "θεοῦ",
+          "strongs": "G2316",
+          "transliteratie": "theou"
+        },
+        {
+          "woord": "κληρονομίαν",
+          "strongs": "G2817",
+          "transliteratie": "klēronomian"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "profeet",
+          "voorkomen": 1,
+          "strongs": [
+            "G4396"
+          ],
+          "bronwoorden": [
+            "προφήτης"
+          ],
+          "transliteraties": [
+            "prophētēs"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "D571BA375C6DE900E711A53D1AFA8DA01081E90CEB9CD253D12EB57E546B2148",
+            "referentie": "2MAKKABEEEN 2:4",
+            "bronindices": [
+              13
+            ],
+            "grondindices": [
+              13
+            ]
+          }
+        },
+        {
+          "tekst": "tabernakel",
+          "voorkomen": 1,
+          "strongs": [
+            "G4633"
+          ],
+          "bronwoorden": [
+            "σκηνὴν"
+          ],
+          "transliteraties": [
+            "skēnēn"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "D571BA375C6DE900E711A53D1AFA8DA01081E90CEB9CD253D12EB57E546B2148",
+            "referentie": "2MAKKABEEEN 2:4",
+            "bronindices": [
+              7
+            ],
+            "grondindices": [
+              7
+            ]
+          }
+        },
+        {
+          "tekst": "zoals",
+          "voorkomen": 1,
+          "strongs": [
+            "G5613"
+          ],
+          "bronwoorden": [
+            "ὡς"
+          ],
+          "transliteraties": [
+            "hōs"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "D571BA375C6DE900E711A53D1AFA8DA01081E90CEB9CD253D12EB57E546B2148",
+            "referentie": "2MAKKABEEEN 2:4",
+            "bronindices": [
+              5
+            ],
+            "grondindices": [
+              5
+            ]
+          }
+        },
+        {
+          "tekst": "berg",
+          "voorkomen": 1,
+          "strongs": [
+            "G3735"
+          ],
+          "bronwoorden": [
+            "ὄρος"
+          ],
+          "transliteraties": [
+            "oros"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "D571BA375C6DE900E711A53D1AFA8DA01081E90CEB9CD253D12EB57E546B2148",
+            "referentie": "2MAKKABEEEN 2:4",
+            "bronindices": [
+              23
+            ],
+            "grondindices": [
+              23
+            ]
+          }
+        },
+        {
+          "tekst": "Mozes",
+          "voorkomen": 1,
+          "strongs": [
+            "G3475"
+          ],
+          "bronwoorden": [
+            "Μωυσῆς"
+          ],
+          "transliteraties": [
+            "mōysēs"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "D571BA375C6DE900E711A53D1AFA8DA01081E90CEB9CD253D12EB57E546B2148",
+            "referentie": "2MAKKABEEEN 2:4",
+            "bronindices": [
+              26
+            ],
+            "grondindices": [
+              26
+            ]
+          }
+        },
+        {
+          "tekst": "God",
+          "voorkomen": 1,
+          "strongs": [
+            "G2316"
+          ],
+          "bronwoorden": [
+            "θεοῦ"
+          ],
+          "transliteraties": [
+            "theou"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "D571BA375C6DE900E711A53D1AFA8DA01081E90CEB9CD253D12EB57E546B2148",
+            "referentie": "2MAKKABEEEN 2:4",
+            "bronindices": [
+              31
+            ],
+            "grondindices": [
+              31
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "text1637": "En dat Jeremia daar komende, een woning in de spelonk gevonden heeft, en dat hij de tabernakel, en de ark, en het reukaltaar daar ingebracht en de deur toegesloten heeft.",
+      "textSV1888": "En dat Jeremia daar komende, een woning in de spelonk gevonden heeft, en dat hij de tabernakel, en de ark, en het reukaltaar daar ingebracht en de deur toegesloten heeft.",
+      "text2026": "En dat Jeremia daar komende, een woning in de grot gevonden heeft, en dat hij de tabernakel, en de ark, en het reukaltaar daar ingebracht en de deur toegesloten heeft.",
+      "marginNotes": [],
+      "text2026_html": "En dat Jeremia daar komende, een woning in de grot gevonden heeft, en dat hij de tabernakel, en de ark, en het reukaltaar daar ingebracht en de deur toegesloten heeft.",
+      "phraseDiff": [
+        {
+          "old": "spelonk",
+          "new": "grot",
+          "principe": "V86"
+        }
+      ],
+      "grondtekst": [
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ἐλθὼν",
+          "strongs": "G2064",
+          "transliteratie": "elthōn"
+        },
+        {
+          "woord": "ὁ",
+          "strongs": "G3588",
+          "transliteratie": "ho"
+        },
+        {
+          "woord": "Ιερεμιας",
+          "strongs": "G2408",
+          "transliteratie": "ieremias"
+        },
+        {
+          "woord": "εὗρεν",
+          "strongs": "G2147",
+          "transliteratie": "heuren"
+        },
+        {
+          "woord": "οἶκον",
+          "strongs": "G3624",
+          "transliteratie": "oikon"
+        },
+        {
+          "woord": "ἀντρώδη",
+          "transliteratie": "antrōdē"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "τὴν",
+          "strongs": "G3588",
+          "transliteratie": "tēn"
+        },
+        {
+          "woord": "σκηνὴν",
+          "strongs": "G4633",
+          "transliteratie": "skēnēn"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "τὴν",
+          "strongs": "G3588",
+          "transliteratie": "tēn"
+        },
+        {
+          "woord": "κιβωτὸν",
+          "strongs": "G2787",
+          "transliteratie": "kibōton"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "τὸ",
+          "strongs": "G3588",
+          "transliteratie": "to"
+        },
+        {
+          "woord": "θυσιαστήριον",
+          "strongs": "G2379",
+          "transliteratie": "thysiastērion"
+        },
+        {
+          "woord": "τοῦ",
+          "strongs": "G3588",
+          "transliteratie": "tou"
+        },
+        {
+          "woord": "θυμιάματος",
+          "strongs": "G2368",
+          "transliteratie": "thymiamatos"
+        },
+        {
+          "woord": "εἰσήνεγκεν",
+          "strongs": "G1533",
+          "transliteratie": "eisēnenken"
+        },
+        {
+          "woord": "ἐκεῖ",
+          "strongs": "G1563",
+          "transliteratie": "ekei"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "τὴν",
+          "strongs": "G3588",
+          "transliteratie": "tēn"
+        },
+        {
+          "woord": "θύραν",
+          "strongs": "G2374",
+          "transliteratie": "thyran"
+        },
+        {
+          "woord": "ἐνέφραξεν",
+          "transliteratie": "enephraxen"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "Jeremia",
+          "voorkomen": 1,
+          "strongs": [
+            "G2408"
+          ],
+          "bronwoorden": [
+            "Ιερεμιας"
+          ],
+          "transliteraties": [
+            "ieremias"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "D571BA375C6DE900E711A53D1AFA8DA01081E90CEB9CD253D12EB57E546B2148",
+            "referentie": "2MAKKABEEEN 2:5",
+            "bronindices": [
+              3
+            ],
+            "grondindices": [
+              3
+            ]
+          }
+        },
+        {
+          "tekst": "tabernakel",
+          "voorkomen": 1,
+          "strongs": [
+            "G4633"
+          ],
+          "bronwoorden": [
+            "σκηνὴν"
+          ],
+          "transliteraties": [
+            "skēnēn"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "D571BA375C6DE900E711A53D1AFA8DA01081E90CEB9CD253D12EB57E546B2148",
+            "referentie": "2MAKKABEEEN 2:5",
+            "bronindices": [
+              9
+            ],
+            "grondindices": [
+              9
+            ]
+          }
+        },
+        {
+          "tekst": "deur",
+          "voorkomen": 1,
+          "strongs": [
+            "G2374"
+          ],
+          "bronwoorden": [
+            "θύραν"
+          ],
+          "transliteraties": [
+            "thyran"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "D571BA375C6DE900E711A53D1AFA8DA01081E90CEB9CD253D12EB57E546B2148",
+            "referentie": "2MAKKABEEEN 2:5",
+            "bronindices": [
+              22
+            ],
+            "grondindices": [
+              22
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "text1637": "En dat enigen, die hem gevolgd en heengegaan waren, om de weg te tekenen, deze niet hebben kunnen vinden.",
+      "textSV1888": "En dat enigen, die hem gevolgd en heengegaan waren, om de weg te tekenen, deze niet hebben kunnen vinden.",
+      "text2026": "En dat enige, die hem gevolgd en heengegaan waren, om de weg te tekenen, deze niet hebben kunnen vinden.",
+      "marginNotes": [],
+      "text2026_html": "En dat enige, die hem gevolgd en heengegaan waren, om de weg te tekenen, deze niet hebben kunnen vinden.",
+      "phraseDiff": [
+        {
+          "old": "enigen,",
+          "new": "enige,",
+          "principe": "V44"
+        }
+      ],
+      "grondtekst": [
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "προσελθόντες",
+          "strongs": "G4334",
+          "transliteratie": "proselthontes"
+        },
+        {
+          "woord": "τινὲς",
+          "strongs": "G5100",
+          "transliteratie": "tines"
+        },
+        {
+          "woord": "τῶν",
+          "strongs": "G3588",
+          "transliteratie": "tōn"
+        },
+        {
+          "woord": "συνακολουθούντων",
+          "strongs": "G4870",
+          "transliteratie": "synakolouthountōn"
+        },
+        {
+          "woord": "ὥστε",
+          "strongs": "G5620",
+          "transliteratie": "hōste"
+        },
+        {
+          "woord": "ἐπισημάνασθαι",
+          "transliteratie": "episēmanasthai"
+        },
+        {
+          "woord": "τὴν",
+          "strongs": "G3588",
+          "transliteratie": "tēn"
+        },
+        {
+          "woord": "ὁδὸν",
+          "strongs": "G3598",
+          "transliteratie": "hodon"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "οὐκ",
+          "strongs": "G3756",
+          "transliteratie": "ouk"
+        },
+        {
+          "woord": "ἐδυνήθησαν",
+          "transliteratie": "edynēthēsan"
+        },
+        {
+          "woord": "εὑρεῖν",
+          "strongs": "G2147",
+          "transliteratie": "heurein"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "weg",
+          "voorkomen": 1,
+          "strongs": [
+            "G3598"
+          ],
+          "bronwoorden": [
+            "ὁδὸν"
+          ],
+          "transliteraties": [
+            "hodon"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "D571BA375C6DE900E711A53D1AFA8DA01081E90CEB9CD253D12EB57E546B2148",
+            "referentie": "2MAKKABEEEN 2:6",
+            "bronindices": [
+              8
+            ],
+            "grondindices": [
+              8
+            ]
+          }
+        },
+        {
+          "tekst": "niet",
+          "voorkomen": 1,
+          "strongs": [
+            "G3756"
+          ],
+          "bronwoorden": [
+            "οὐκ"
+          ],
+          "transliteraties": [
+            "ouk"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "D571BA375C6DE900E711A53D1AFA8DA01081E90CEB9CD253D12EB57E546B2148",
+            "referentie": "2MAKKABEEEN 2:6",
+            "bronindices": [
+              10
+            ],
+            "grondindices": [
+              10
+            ]
+          }
+        },
+        {
+          "tekst": "vinden",
+          "voorkomen": 1,
+          "strongs": [
+            "G2147"
+          ],
+          "bronwoorden": [
+            "εὑρεῖν"
+          ],
+          "transliteraties": [
+            "heurein"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "D571BA375C6DE900E711A53D1AFA8DA01081E90CEB9CD253D12EB57E546B2148",
+            "referentie": "2MAKKABEEEN 2:6",
+            "bronindices": [
+              12
+            ],
+            "grondindices": [
+              12
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "text1637": "En hoe Jeremia, dit verstaande, hen bestraffende gezegd heeft, dat die plaats onbekend zou zijn, en dat hij zou verzoend wezen.",
+      "textSV1888": "En hoe Jeremia, dit verstaande, hen bestraffende gezegd heeft, dat die plaats onbekend zou zijn, en dat hij zou verzoend wezen.",
+      "text2026": "En hoe Jeremia, dit verstaande, hen bestraffende gezegd heeft, dat die plaats onbekend zou zijn, en dat hij zou verzoend wezen.",
+      "marginNotes": [],
+      "text2026_html": "En hoe Jeremia, dit verstaande, hen bestraffende gezegd heeft, dat die plaats onbekend zou zijn, en dat hij zou verzoend wezen.",
+      "grondtekst": [
+        {
+          "woord": "ὡς",
+          "strongs": "G5613",
+          "transliteratie": "hōs"
+        },
+        {
+          "woord": "δὲ",
+          "strongs": "G1161",
+          "transliteratie": "de"
+        },
+        {
+          "woord": "ὁ",
+          "strongs": "G3588",
+          "transliteratie": "ho"
+        },
+        {
+          "woord": "Ιερεμιας",
+          "strongs": "G2408",
+          "transliteratie": "ieremias"
+        },
+        {
+          "woord": "ἔγνω",
+          "strongs": "G1097",
+          "transliteratie": "egnō"
+        },
+        {
+          "woord": "μεμψάμενος",
+          "strongs": "G3201",
+          "transliteratie": "mempsamenos"
+        },
+        {
+          "woord": "αὐτοῖς",
+          "strongs": "G846",
+          "transliteratie": "autois"
+        },
+        {
+          "woord": "εἶπεν",
+          "strongs": "G2036",
+          "transliteratie": "eipen"
+        },
+        {
+          "woord": "ὅτι",
+          "strongs": "G3754",
+          "transliteratie": "hoti"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ἄγνωστος",
+          "strongs": "G57",
+          "transliteratie": "agnōstos"
+        },
+        {
+          "woord": "ὁ",
+          "strongs": "G3588",
+          "transliteratie": "ho"
+        },
+        {
+          "woord": "τόπος",
+          "strongs": "G5117",
+          "transliteratie": "topos"
+        },
+        {
+          "woord": "ἔσται",
+          "strongs": "G1510",
+          "transliteratie": "estai"
+        },
+        {
+          "woord": "ἕως",
+          "strongs": "G2193",
+          "transliteratie": "heōs"
+        },
+        {
+          "woord": "ἂν",
+          "strongs": "G302",
+          "transliteratie": "an"
+        },
+        {
+          "woord": "συναγάγῃ",
+          "strongs": "G4863",
+          "transliteratie": "synagagē"
+        },
+        {
+          "woord": "ὁ",
+          "strongs": "G3588",
+          "transliteratie": "ho"
+        },
+        {
+          "woord": "θεὸς",
+          "strongs": "G2316",
+          "transliteratie": "theos"
+        },
+        {
+          "woord": "ἐπισυναγωγὴν",
+          "strongs": "G1997",
+          "transliteratie": "episynagōgēn"
+        },
+        {
+          "woord": "τοῦ",
+          "strongs": "G3588",
+          "transliteratie": "tou"
+        },
+        {
+          "woord": "λαοῦ",
+          "strongs": "G2992",
+          "transliteratie": "laou"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ἵλεως",
+          "strongs": "G2436",
+          "transliteratie": "hileōs"
+        },
+        {
+          "woord": "γένηται",
+          "strongs": "G1096",
+          "transliteratie": "genētai"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "Jeremia",
+          "voorkomen": 1,
+          "strongs": [
+            "G2408"
+          ],
+          "bronwoorden": [
+            "Ιερεμιας"
+          ],
+          "transliteraties": [
+            "ieremias"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "D571BA375C6DE900E711A53D1AFA8DA01081E90CEB9CD253D12EB57E546B2148",
+            "referentie": "2MAKKABEEEN 2:7",
+            "bronindices": [
+              3
+            ],
+            "grondindices": [
+              3
+            ]
+          }
+        },
+        {
+          "tekst": "plaats",
+          "voorkomen": 1,
+          "strongs": [
+            "G5117"
+          ],
+          "bronwoorden": [
+            "τόπος"
+          ],
+          "transliteraties": [
+            "topos"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "D571BA375C6DE900E711A53D1AFA8DA01081E90CEB9CD253D12EB57E546B2148",
+            "referentie": "2MAKKABEEEN 2:7",
+            "bronindices": [
+              12
+            ],
+            "grondindices": [
+              12
+            ]
+          }
+        },
+        {
+          "tekst": "onbekend",
+          "voorkomen": 1,
+          "strongs": [
+            "G57"
+          ],
+          "bronwoorden": [
+            "ἄγνωστος"
+          ],
+          "transliteraties": [
+            "agnōstos"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "D571BA375C6DE900E711A53D1AFA8DA01081E90CEB9CD253D12EB57E546B2148",
+            "referentie": "2MAKKABEEEN 2:7",
+            "bronindices": [
+              10
+            ],
+            "grondindices": [
+              10
+            ]
+          }
+        },
+        {
+          "tekst": "hoe",
+          "voorkomen": 1,
+          "strongs": [
+            "G302"
+          ],
+          "bronwoorden": [
+            "ἂν"
+          ],
+          "transliteraties": [
+            "an"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "D571BA375C6DE900E711A53D1AFA8DA01081E90CEB9CD253D12EB57E546B2148",
+            "referentie": "2MAKKABEEEN 2:7",
+            "bronindices": [
+              15
+            ],
+            "grondindices": [
+              15
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "text1637": "En dat de Here dan deze dingen zou tonen, en de heerlijkheid des Heren, en de wolk gezien zou worden, gelijk die ook aan Mozes is geopenbaard, en gelijk Salomo gebeden heeft dat deze plaats grotelijks zou worden geheiligd.",
+      "textSV1888": "En dat de Here dan deze dingen zou tonen, en de heerlijkheid des Heren, en de wolk gezien zou worden, gelijk die ook aan Mozes is geopenbaard, en gelijk Salomo gebeden heeft dat deze plaats grotelijks zou worden geheiligd.",
+      "text2026": "En dat de Heere dan deze dingen zou tonen, en de heerlijkheid van de Heere, en de wolk gezien zou worden, zoals die ook aan Mozes is geopenbaard, en zoals Salomo gebeden heeft dat deze plaats enorm zou worden geheiligd.",
+      "marginNotes": [],
+      "text2026_html": "En dat de Heere dan deze dingen zou tonen, en de heerlijkheid van de Heere, en de wolk gezien zou worden, zoals die ook aan Mozes is geopenbaard, en zoals Salomo gebeden heeft dat deze plaats enorm zou worden geheiligd.",
+      "phraseDiff": [
+        {
+          "old": "Here",
+          "new": "Heere",
+          "principe": "V280"
+        },
+        {
+          "old": "des Heren,",
+          "new": "van de Heere,",
+          "principe": null
+        },
+        {
+          "old": "gelijk",
+          "new": "zoals",
+          "principe": null
+        },
+        {
+          "old": "gelijk",
+          "new": "zoals",
+          "principe": null
+        },
+        {
+          "old": "grotelijks",
+          "new": "enorm",
+          "principe": "V388"
+        }
+      ],
+      "grondtekst": [
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "τότε",
+          "strongs": "G5119",
+          "transliteratie": "tote"
+        },
+        {
+          "woord": "ὁ",
+          "strongs": "G3588",
+          "transliteratie": "ho"
+        },
+        {
+          "woord": "κύριος",
+          "strongs": "G2962",
+          "transliteratie": "kyrios"
+        },
+        {
+          "woord": "ἀναδείξει",
+          "strongs": "G322",
+          "transliteratie": "anadeixei"
+        },
+        {
+          "woord": "ταῦτα",
+          "strongs": "G3778",
+          "transliteratie": "tauta"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ὀφθήσεται",
+          "strongs": "G3708",
+          "transliteratie": "ophthēsetai"
+        },
+        {
+          "woord": "ἡ",
+          "strongs": "G3588",
+          "transliteratie": "hē"
+        },
+        {
+          "woord": "δόξα",
+          "strongs": "G1391",
+          "transliteratie": "doxa"
+        },
+        {
+          "woord": "τοῦ",
+          "strongs": "G3588",
+          "transliteratie": "tou"
+        },
+        {
+          "woord": "κυρίου",
+          "strongs": "G2962",
+          "transliteratie": "kyriou"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ἡ",
+          "strongs": "G3588",
+          "transliteratie": "hē"
+        },
+        {
+          "woord": "νεφέλη",
+          "strongs": "G3507",
+          "transliteratie": "nephelē"
+        },
+        {
+          "woord": "ὡς",
+          "strongs": "G5613",
+          "transliteratie": "hōs"
+        },
+        {
+          "woord": "ἐπὶ",
+          "strongs": "G1909",
+          "transliteratie": "epi"
+        },
+        {
+          "woord": "Μωυσῇ",
+          "strongs": "G3475",
+          "transliteratie": "mōysē"
+        },
+        {
+          "woord": "ἐδηλοῦτο",
+          "strongs": "G1213",
+          "transliteratie": "edēlouto"
+        },
+        {
+          "woord": "ὡς",
+          "strongs": "G5613",
+          "transliteratie": "hōs"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ὁ",
+          "strongs": "G3588",
+          "transliteratie": "ho"
+        },
+        {
+          "woord": "Σαλωμων",
+          "transliteratie": "salōmōn"
+        },
+        {
+          "woord": "ἠξίωσεν",
+          "strongs": "G515",
+          "transliteratie": "ēxiōsen"
+        },
+        {
+          "woord": "ἵνα",
+          "strongs": "G2443",
+          "transliteratie": "hina"
+        },
+        {
+          "woord": "ὁ",
+          "strongs": "G3588",
+          "transliteratie": "ho"
+        },
+        {
+          "woord": "τόπος",
+          "strongs": "G5117",
+          "transliteratie": "topos"
+        },
+        {
+          "woord": "καθαγιασθῇ",
+          "transliteratie": "kathagiasthē"
+        },
+        {
+          "woord": "μεγάλως",
+          "strongs": "G3171",
+          "transliteratie": "megalōs"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "wolk",
+          "voorkomen": 1,
+          "strongs": [
+            "G3507"
+          ],
+          "bronwoorden": [
+            "νεφέλη"
+          ],
+          "transliteraties": [
+            "nephelē"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "D571BA375C6DE900E711A53D1AFA8DA01081E90CEB9CD253D12EB57E546B2148",
+            "referentie": "2MAKKABEEEN 2:8",
+            "bronindices": [
+              14
+            ],
+            "grondindices": [
+              14
+            ]
+          }
+        },
+        {
+          "tekst": "Mozes",
+          "voorkomen": 1,
+          "strongs": [
+            "G3475"
+          ],
+          "bronwoorden": [
+            "Μωυσῇ"
+          ],
+          "transliteraties": [
+            "mōysē"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "D571BA375C6DE900E711A53D1AFA8DA01081E90CEB9CD253D12EB57E546B2148",
+            "referentie": "2MAKKABEEEN 2:8",
+            "bronindices": [
+              17
+            ],
+            "grondindices": [
+              17
+            ]
+          }
+        },
+        {
+          "tekst": "plaats",
+          "voorkomen": 1,
+          "strongs": [
+            "G5117"
+          ],
+          "bronwoorden": [
+            "τόπος"
+          ],
+          "transliteraties": [
+            "topos"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "D571BA375C6DE900E711A53D1AFA8DA01081E90CEB9CD253D12EB57E546B2148",
+            "referentie": "2MAKKABEEEN 2:8",
+            "bronindices": [
+              26
+            ],
+            "grondindices": [
+              26
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "text1637": "Want het is openbaar, hoe dat hij, met wijsheid begaafd zijnde, een offerande geofferd heeft tot inwijding en heiliging van de tempel.",
+      "textSV1888": "Want het is openbaar, hoe dat hij, met wijsheid begaafd zijnde, een offerande geofferd heeft tot inwijding en heiliging van de tempel.",
+      "text2026": "Want het is openbaar, hoe dat hij, met wijsheid begaafd zijnde, een offergave geofferd heeft tot inwijding en heiliging van de tempel.",
+      "marginNotes": [],
+      "text2026_html": "Want het is openbaar, hoe dat hij, met wijsheid begaafd zijnde, een offergave geofferd heeft tot inwijding en heiliging van de tempel.",
+      "phraseDiff": [
+        {
+          "old": "offerande",
+          "new": "offergave",
+          "principe": "V263"
+        }
+      ],
+      "grondtekst": [
+        {
+          "woord": "διεσαφεῖτο",
+          "strongs": "G1285",
+          "transliteratie": "diesapheito"
+        },
+        {
+          "woord": "δὲ",
+          "strongs": "G1161",
+          "transliteratie": "de"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ὡς",
+          "strongs": "G5613",
+          "transliteratie": "hōs"
+        },
+        {
+          "woord": "σοφίαν",
+          "strongs": "G4678",
+          "transliteratie": "sophian"
+        },
+        {
+          "woord": "ἔχων",
+          "strongs": "G2192",
+          "transliteratie": "echōn"
+        },
+        {
+          "woord": "ἀνήνεγκεν",
+          "strongs": "G399",
+          "transliteratie": "anēnenken"
+        },
+        {
+          "woord": "θυσίαν",
+          "strongs": "G2378",
+          "transliteratie": "thysian"
+        },
+        {
+          "woord": "ἐγκαινισμοῦ",
+          "transliteratie": "enkainismou"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "τῆς",
+          "strongs": "G3588",
+          "transliteratie": "tēs"
+        },
+        {
+          "woord": "τελειώσεως",
+          "strongs": "G5050",
+          "transliteratie": "teleiōseōs"
+        },
+        {
+          "woord": "τοῦ",
+          "strongs": "G3588",
+          "transliteratie": "tou"
+        },
+        {
+          "woord": "ἱεροῦ",
+          "strongs": "G2411",
+          "transliteratie": "hierou"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "wijsheid",
+          "voorkomen": 1,
+          "strongs": [
+            "G4678"
+          ],
+          "bronwoorden": [
+            "σοφίαν"
+          ],
+          "transliteraties": [
+            "sophian"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "D571BA375C6DE900E711A53D1AFA8DA01081E90CEB9CD253D12EB57E546B2148",
+            "referentie": "2MAKKABEEEN 2:9",
+            "bronindices": [
+              4
+            ],
+            "grondindices": [
+              4
+            ]
+          }
+        },
+        {
+          "tekst": "en",
+          "voorkomen": 1,
+          "strongs": [
+            "G2532"
+          ],
+          "bronwoorden": [
+            "καὶ"
+          ],
+          "transliteraties": [
+            "kai"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "D571BA375C6DE900E711A53D1AFA8DA01081E90CEB9CD253D12EB57E546B2148",
+            "referentie": "2MAKKABEEEN 2:9",
+            "bronindices": [
+              9
+            ],
+            "grondindices": [
+              9
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "text1637": "Hoe ook Mozes tot de Here een gebed heeft gedaan, en dat het vuur van de hemel viel, en de offerande verslond; en dat zo ook Salomo gebeden heeft, en dat het vuur nederkomende de brandoffers heeft verteerd.",
+      "textSV1888": "Hoe ook Mozes tot de Here een gebed heeft gedaan, en dat het vuur van de hemel viel, en de offerande verslond; en dat zo ook Salomo gebeden heeft, en dat het vuur nederkomende de brandoffers heeft verteerd.",
+      "text2026": "Hoe ook Mozes tot de Heere een gebed heeft gedaan, en dat het vuur van de hemel viel, en de offergave verslond; en dat zo ook Salomo gebeden heeft, en dat het vuur neerkomende de brandoffers heeft verteerd.",
+      "marginNotes": [],
+      "text2026_html": "Hoe ook Mozes tot de Heere een gebed heeft gedaan, en dat het vuur van de hemel viel, en de offergave verslond; en dat zo ook Salomo gebeden heeft, en dat het vuur neerkomende de brandoffers heeft verteerd.",
+      "phraseDiff": [
+        {
+          "old": "Here",
+          "new": "Heere",
+          "principe": "V280"
+        },
+        {
+          "old": "offerande",
+          "new": "offergave",
+          "principe": "V263"
+        },
+        {
+          "old": "nederkomende",
+          "new": "neerkomende",
+          "principe": "N7"
+        }
+      ],
+      "grondtekst": [
+        {
+          "woord": "καθὼς",
+          "strongs": "G2531",
+          "transliteratie": "kathōs"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "Μωυσῆς",
+          "strongs": "G3475",
+          "transliteratie": "mōysēs"
+        },
+        {
+          "woord": "προσηύξατο",
+          "strongs": "G4336",
+          "transliteratie": "prosēuxato"
+        },
+        {
+          "woord": "πρὸς",
+          "strongs": "G4314",
+          "transliteratie": "pros"
+        },
+        {
+          "woord": "κύριον",
+          "strongs": "G2962",
+          "transliteratie": "kyrion"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "κατέβη",
+          "strongs": "G2597",
+          "transliteratie": "katebē"
+        },
+        {
+          "woord": "πῦρ",
+          "strongs": "G4442",
+          "transliteratie": "pyr"
+        },
+        {
+          "woord": "ἐκ",
+          "strongs": "G1537",
+          "transliteratie": "ek"
+        },
+        {
+          "woord": "τοῦ",
+          "strongs": "G3588",
+          "transliteratie": "tou"
+        },
+        {
+          "woord": "οὐρανοῦ",
+          "strongs": "G3772",
+          "transliteratie": "ouranou"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "τὰ",
+          "strongs": "G3588",
+          "transliteratie": "ta"
+        },
+        {
+          "woord": "τῆς",
+          "strongs": "G3588",
+          "transliteratie": "tēs"
+        },
+        {
+          "woord": "θυσίας",
+          "strongs": "G2378",
+          "transliteratie": "thysias"
+        },
+        {
+          "woord": "ἐδαπάνησεν",
+          "strongs": "G1159",
+          "transliteratie": "edapanēsen"
+        },
+        {
+          "woord": "οὕτως",
+          "strongs": "G3779",
+          "transliteratie": "houtōs"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "Σαλωμων",
+          "transliteratie": "salōmōn"
+        },
+        {
+          "woord": "προσηύξατο",
+          "strongs": "G4336",
+          "transliteratie": "prosēuxato"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "καταβὰν",
+          "strongs": "G2597",
+          "transliteratie": "kataban"
+        },
+        {
+          "woord": "τὸ",
+          "strongs": "G3588",
+          "transliteratie": "to"
+        },
+        {
+          "woord": "πῦρ",
+          "strongs": "G4442",
+          "transliteratie": "pyr"
+        },
+        {
+          "woord": "ἀνήλωσεν",
+          "strongs": "G355",
+          "transliteratie": "anēlōsen"
+        },
+        {
+          "woord": "τὰ",
+          "strongs": "G3588",
+          "transliteratie": "ta"
+        },
+        {
+          "woord": "ὁλοκαυτώματα",
+          "strongs": "G3646",
+          "transliteratie": "holokautōmata"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "Mozes",
+          "voorkomen": 1,
+          "strongs": [
+            "G3475"
+          ],
+          "bronwoorden": [
+            "Μωυσῆς"
+          ],
+          "transliteraties": [
+            "mōysēs"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "D571BA375C6DE900E711A53D1AFA8DA01081E90CEB9CD253D12EB57E546B2148",
+            "referentie": "2MAKKABEEEN 2:10",
+            "bronindices": [
+              2
+            ],
+            "grondindices": [
+              2
+            ]
+          }
+        },
+        {
+          "tekst": "hemel",
+          "voorkomen": 1,
+          "strongs": [
+            "G3772"
+          ],
+          "bronwoorden": [
+            "οὐρανοῦ"
+          ],
+          "transliteraties": [
+            "ouranou"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "D571BA375C6DE900E711A53D1AFA8DA01081E90CEB9CD253D12EB57E546B2148",
+            "referentie": "2MAKKABEEEN 2:10",
+            "bronindices": [
+              11
+            ],
+            "grondindices": [
+              11
+            ]
+          }
+        },
+        {
+          "tekst": "zo",
+          "voorkomen": 1,
+          "strongs": [
+            "G3779"
+          ],
+          "bronwoorden": [
+            "οὕτως"
+          ],
+          "transliteraties": [
+            "houtōs"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "D571BA375C6DE900E711A53D1AFA8DA01081E90CEB9CD253D12EB57E546B2148",
+            "referentie": "2MAKKABEEEN 2:10",
+            "bronindices": [
+              17
+            ],
+            "grondindices": [
+              17
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "text1637": "En hoe Mozes zeide: Opdat de offerande voor de zonde niet zou gegeten worden, daarom is zij verteerd.",
+      "textSV1888": "En hoe Mozes zeide: Opdat de offerande voor de zonde niet zou gegeten worden, daarom is zij verteerd.",
+      "text2026": "En hoe Mozes zei: Opdat de offergave voor de zonde niet zou gegeten worden, daarom is zij verteerd.",
+      "marginNotes": [],
+      "text2026_html": "En hoe Mozes zei: <span class=\"direct-speech\"><i>Opdat de offergave voor de zonde niet zou gegeten worden, daarom is zij verteerd.</i></span>",
+      "phraseDiff": [
+        {
+          "old": "zeide:",
+          "new": "zei:",
+          "principe": "W1"
+        },
+        {
+          "old": "offerande",
+          "new": "offergave",
+          "principe": "V263"
+        }
+      ],
+      "grondtekst": [
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "εἶπεν",
+          "strongs": "G2036",
+          "transliteratie": "eipen"
+        },
+        {
+          "woord": "Μωυσῆς",
+          "strongs": "G3475",
+          "transliteratie": "mōysēs"
+        },
+        {
+          "woord": "διὰ",
+          "strongs": "G1223",
+          "transliteratie": "dia"
+        },
+        {
+          "woord": "τὸ",
+          "strongs": "G3588",
+          "transliteratie": "to"
+        },
+        {
+          "woord": "μὴ",
+          "strongs": "G3361",
+          "transliteratie": "mē"
+        },
+        {
+          "woord": "βεβρῶσθαι",
+          "strongs": "G977",
+          "transliteratie": "bebrōsthai"
+        },
+        {
+          "woord": "τὸ",
+          "strongs": "G3588",
+          "transliteratie": "to"
+        },
+        {
+          "woord": "περὶ",
+          "strongs": "G4012",
+          "transliteratie": "peri"
+        },
+        {
+          "woord": "τῆς",
+          "strongs": "G3588",
+          "transliteratie": "tēs"
+        },
+        {
+          "woord": "ἁμαρτίας",
+          "strongs": "G266",
+          "transliteratie": "hamartias"
+        },
+        {
+          "woord": "ἀνηλώθη",
+          "strongs": "G355",
+          "transliteratie": "anēlōthē"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "En",
+          "voorkomen": 1,
+          "strongs": [
+            "G2532"
+          ],
+          "bronwoorden": [
+            "καὶ"
+          ],
+          "transliteraties": [
+            "kai"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "D571BA375C6DE900E711A53D1AFA8DA01081E90CEB9CD253D12EB57E546B2148",
+            "referentie": "2MAKKABEEEN 2:11",
+            "bronindices": [
+              0
+            ],
+            "grondindices": [
+              0
+            ]
+          }
+        },
+        {
+          "tekst": "Mozes",
+          "voorkomen": 1,
+          "strongs": [
+            "G3475"
+          ],
+          "bronwoorden": [
+            "Μωυσῆς"
+          ],
+          "transliteraties": [
+            "mōysēs"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "D571BA375C6DE900E711A53D1AFA8DA01081E90CEB9CD253D12EB57E546B2148",
+            "referentie": "2MAKKABEEEN 2:11",
+            "bronindices": [
+              2
+            ],
+            "grondindices": [
+              2
+            ]
+          }
+        },
+        {
+          "tekst": "niet",
+          "voorkomen": 1,
+          "strongs": [
+            "G3361"
+          ],
+          "bronwoorden": [
+            "μὴ"
+          ],
+          "transliteraties": [
+            "mē"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "D571BA375C6DE900E711A53D1AFA8DA01081E90CEB9CD253D12EB57E546B2148",
+            "referentie": "2MAKKABEEEN 2:11",
+            "bronindices": [
+              5
+            ],
+            "grondindices": [
+              5
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "text1637": "Desgelijks heeft ook Salomo die acht dagen gevierd.",
+      "textSV1888": "Desgelijks heeft ook Salomo die acht dagen gevierd.",
+      "text2026": "Evenzo heeft ook Salomo die acht dagen gevierd.",
+      "marginNotes": [],
+      "text2026_html": "Evenzo heeft ook Salomo die acht dagen gevierd.",
+      "phraseDiff": [
+        {
+          "old": "Desgelijks",
+          "new": "Evenzo",
+          "principe": "V11"
+        }
+      ],
+      "grondtekst": [
+        {
+          "woord": "ὡσαύτως",
+          "strongs": "G5615",
+          "transliteratie": "hōsautōs"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ὁ",
+          "strongs": "G3588",
+          "transliteratie": "ho"
+        },
+        {
+          "woord": "Σαλωμων",
+          "transliteratie": "salōmōn"
+        },
+        {
+          "woord": "τὰς",
+          "strongs": "G3588",
+          "transliteratie": "tas"
+        },
+        {
+          "woord": "ὀκτὼ",
+          "strongs": "G3638",
+          "transliteratie": "oktō"
+        },
+        {
+          "woord": "ἡμέρας",
+          "strongs": "G2250",
+          "transliteratie": "hēmeras"
+        },
+        {
+          "woord": "ἤγαγεν",
+          "strongs": "G71",
+          "transliteratie": "ēgagen"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "acht",
+          "voorkomen": 1,
+          "strongs": [
+            "G3638"
+          ],
+          "bronwoorden": [
+            "ὀκτὼ"
+          ],
+          "transliteraties": [
+            "oktō"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "D571BA375C6DE900E711A53D1AFA8DA01081E90CEB9CD253D12EB57E546B2148",
+            "referentie": "2MAKKABEEEN 2:12",
+            "bronindices": [
+              5
+            ],
+            "grondindices": [
+              5
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "text1637": "En deze zelfde dingen worden verhaald in die schriften en in de aantekeningen van Nehemia; en hoe hij een bibliotheek aanleggende, bijeen heeft vergaderd de schriften van de koningen en profeten, en de schriften van David, en de brieven der koningen aangaande de heilige geschenken.",
+      "textSV1888": "En deze zelfde dingen worden verhaald in die schriften en in de aantekeningen van Nehemia; en hoe hij een bibliotheek aanleggende, bijeen heeft vergaderd de schriften van de koningen en profeten, en de schriften van David, en de brieven der koningen aangaande de heilige geschenken.",
+      "text2026": "En deze zelfde dingen worden verhaald in die schriften en in de aantekeningen van Nehemia; en hoe hij een bibliotheek aanleggende, bijeen heeft verzameld de schriften van de koningen en profeten, en de schriften van David, en de brieven van de koningen aangaande de heilige geschenken.",
+      "marginNotes": [],
+      "text2026_html": "En deze zelfde dingen worden verhaald in die schriften en in de aantekeningen van Nehemia; en hoe hij een bibliotheek aanleggende, bijeen heeft verzameld de schriften van de koningen en profeten, en de schriften van David, en de brieven van de koningen aangaande de heilige geschenken.",
+      "phraseDiff": [
+        {
+          "old": "vergaderd",
+          "new": "verzameld",
+          "principe": "V318"
+        },
+        {
+          "old": "der",
+          "new": "van de",
+          "principe": "N2"
+        }
+      ],
+      "grondtekst": [
+        {
+          "woord": "ἐξηγοῦντο",
+          "strongs": "G1834",
+          "transliteratie": "exēgounto"
+        },
+        {
+          "woord": "δὲ",
+          "strongs": "G1161",
+          "transliteratie": "de"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ἐν",
+          "strongs": "G1722",
+          "transliteratie": "en"
+        },
+        {
+          "woord": "ταῖς",
+          "strongs": "G3588",
+          "transliteratie": "tais"
+        },
+        {
+          "woord": "ἀναγραφαῖς",
+          "transliteratie": "anagraphais"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ἐν",
+          "strongs": "G1722",
+          "transliteratie": "en"
+        },
+        {
+          "woord": "τοῖς",
+          "strongs": "G3588",
+          "transliteratie": "tois"
+        },
+        {
+          "woord": "ὑπομνηματισμοῖς",
+          "transliteratie": "hypomnēmatismois"
+        },
+        {
+          "woord": "τοῖς",
+          "strongs": "G3588",
+          "transliteratie": "tois"
+        },
+        {
+          "woord": "κατὰ",
+          "strongs": "G2596",
+          "transliteratie": "kata"
+        },
+        {
+          "woord": "τὸν",
+          "strongs": "G3588",
+          "transliteratie": "ton"
+        },
+        {
+          "woord": "Νεεμιαν",
+          "transliteratie": "neemian"
+        },
+        {
+          "woord": "τὰ",
+          "strongs": "G3588",
+          "transliteratie": "ta"
+        },
+        {
+          "woord": "αὐτὰ",
+          "strongs": "G846",
+          "transliteratie": "auta"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ὡς",
+          "strongs": "G5613",
+          "transliteratie": "hōs"
+        },
+        {
+          "woord": "καταβαλλόμενος",
+          "strongs": "G2598",
+          "transliteratie": "kataballomenos"
+        },
+        {
+          "woord": "βιβλιοθήκην",
+          "transliteratie": "bibliothēkēn"
+        },
+        {
+          "woord": "ἐπισυνήγαγεν",
+          "strongs": "G1996",
+          "transliteratie": "episynēgagen"
+        },
+        {
+          "woord": "τὰ",
+          "strongs": "G3588",
+          "transliteratie": "ta"
+        },
+        {
+          "woord": "περὶ",
+          "strongs": "G4012",
+          "transliteratie": "peri"
+        },
+        {
+          "woord": "τῶν",
+          "strongs": "G3588",
+          "transliteratie": "tōn"
+        },
+        {
+          "woord": "βασιλέων",
+          "strongs": "G935",
+          "transliteratie": "basileōn"
+        },
+        {
+          "woord": "βιβλία",
+          "strongs": "G975",
+          "transliteratie": "biblia"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "προφητῶν",
+          "strongs": "G4396",
+          "transliteratie": "prophētōn"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "τὰ",
+          "strongs": "G3588",
+          "transliteratie": "ta"
+        },
+        {
+          "woord": "τοῦ",
+          "strongs": "G3588",
+          "transliteratie": "tou"
+        },
+        {
+          "woord": "Δαυιδ",
+          "strongs": "G1138",
+          "transliteratie": "dauid"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ἐπιστολὰς",
+          "strongs": "G1992",
+          "transliteratie": "epistolas"
+        },
+        {
+          "woord": "βασιλέων",
+          "strongs": "G935",
+          "transliteratie": "basileōn"
+        },
+        {
+          "woord": "περὶ",
+          "strongs": "G4012",
+          "transliteratie": "peri"
+        },
+        {
+          "woord": "ἀναθεμάτων",
+          "strongs": "G331",
+          "transliteratie": "anathematōn"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "hij",
+          "voorkomen": 1,
+          "strongs": [
+            "G3588"
+          ],
+          "bronwoorden": [
+            "ταῖς"
+          ],
+          "transliteraties": [
+            "tais"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "D571BA375C6DE900E711A53D1AFA8DA01081E90CEB9CD253D12EB57E546B2148",
+            "referentie": "2MAKKABEEEN 2:13",
+            "bronindices": [
+              4
+            ],
+            "grondindices": [
+              4
+            ]
+          }
+        },
+        {
+          "tekst": "David",
+          "voorkomen": 1,
+          "strongs": [
+            "G1138"
+          ],
+          "bronwoorden": [
+            "Δαυιδ"
+          ],
+          "transliteraties": [
+            "dauid"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "D571BA375C6DE900E711A53D1AFA8DA01081E90CEB9CD253D12EB57E546B2148",
+            "referentie": "2MAKKABEEEN 2:13",
+            "bronindices": [
+              31
+            ],
+            "grondindices": [
+              31
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "text1637": "Desgelijks heeft ook Judas al de dingen, die door de oorlog, welke ons aangedaan was, vervallen waren, bijeenvergaderd; en die zijn bij ons.",
+      "textSV1888": "Desgelijks heeft ook Judas al de dingen, die door de oorlog, welke ons aangedaan was, vervallen waren, bijeenvergaderd; en die zijn bij ons.",
+      "text2026": "Evenzo heeft ook Judas al de dingen, die door de oorlog, die ons aangedaan was, vervallen waren, bijeenvergaderd; en die zijn bij ons.",
+      "marginNotes": [],
+      "text2026_html": "Evenzo heeft ook Judas al de dingen, die door de oorlog, die ons aangedaan was, vervallen waren, bijeenvergaderd; en die zijn bij ons.",
+      "phraseDiff": [
+        {
+          "old": "Desgelijks",
+          "new": "Evenzo",
+          "principe": "V11"
+        },
+        {
+          "old": "welke",
+          "new": "die",
+          "principe": "V808"
+        }
+      ],
+      "grondtekst": [
+        {
+          "woord": "ὡσαύτως",
+          "strongs": "G5615",
+          "transliteratie": "hōsautōs"
+        },
+        {
+          "woord": "δὲ",
+          "strongs": "G1161",
+          "transliteratie": "de"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "Ιουδας",
+          "strongs": "G2455",
+          "transliteratie": "ioudas"
+        },
+        {
+          "woord": "τὰ",
+          "strongs": "G3588",
+          "transliteratie": "ta"
+        },
+        {
+          "woord": "διαπεπτωκότα",
+          "transliteratie": "diapeptōkota"
+        },
+        {
+          "woord": "διὰ",
+          "strongs": "G1223",
+          "transliteratie": "dia"
+        },
+        {
+          "woord": "τὸν",
+          "strongs": "G3588",
+          "transliteratie": "ton"
+        },
+        {
+          "woord": "γεγονότα",
+          "strongs": "G1096",
+          "transliteratie": "gegonota"
+        },
+        {
+          "woord": "πόλεμον",
+          "strongs": "G4171",
+          "transliteratie": "polemon"
+        },
+        {
+          "woord": "ἡμῖν",
+          "strongs": "G2254",
+          "transliteratie": "hēmin"
+        },
+        {
+          "woord": "ἐπισυνήγαγεν",
+          "strongs": "G1996",
+          "transliteratie": "episynēgagen"
+        },
+        {
+          "woord": "πάντα",
+          "strongs": "G3956",
+          "transliteratie": "panta"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ἔστιν",
+          "strongs": "G1510",
+          "transliteratie": "estin"
+        },
+        {
+          "woord": "παρ᾿",
+          "strongs": "G3844",
+          "transliteratie": "par᾿"
+        },
+        {
+          "woord": "ἡμῖν",
+          "strongs": "G2254",
+          "transliteratie": "hēmin"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "oorlog",
+          "voorkomen": 1,
+          "strongs": [
+            "G4171"
+          ],
+          "bronwoorden": [
+            "πόλεμον"
+          ],
+          "transliteraties": [
+            "polemon"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "D571BA375C6DE900E711A53D1AFA8DA01081E90CEB9CD253D12EB57E546B2148",
+            "referentie": "2MAKKABEEEN 2:14",
+            "bronindices": [
+              9
+            ],
+            "grondindices": [
+              9
+            ]
+          }
+        },
+        {
+          "tekst": "al",
+          "voorkomen": 1,
+          "strongs": [
+            "G3956"
+          ],
+          "bronwoorden": [
+            "πάντα"
+          ],
+          "transliteraties": [
+            "panta"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "D571BA375C6DE900E711A53D1AFA8DA01081E90CEB9CD253D12EB57E546B2148",
+            "referentie": "2MAKKABEEEN 2:14",
+            "bronindices": [
+              12
+            ],
+            "grondindices": [
+              12
+            ]
+          }
+        },
+        {
+          "tekst": "en",
+          "voorkomen": 1,
+          "strongs": [
+            "G2532"
+          ],
+          "bronwoorden": [
+            "καὶ"
+          ],
+          "transliteraties": [
+            "kai"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "D571BA375C6DE900E711A53D1AFA8DA01081E90CEB9CD253D12EB57E546B2148",
+            "referentie": "2MAKKABEEEN 2:14",
+            "bronindices": [
+              13
+            ],
+            "grondindices": [
+              13
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "text1637": "Indien gij ze nodig hebt, zendt lieden aan ons, die ze u mogen brengen.",
+      "textSV1888": "Indien gij ze nodig hebt, zendt lieden aan ons, die ze u mogen brengen.",
+      "text2026": "Als u ze nodig hebt, zendt mensen aan ons, die ze u mogen brengen.",
+      "marginNotes": [],
+      "text2026_html": "Als u ze nodig hebt, zendt mensen aan ons, die ze u mogen brengen.",
+      "phraseDiff": [
+        {
+          "old": "Indien gij",
+          "new": "Als u",
+          "principe": "A1"
+        },
+        {
+          "old": "lieden",
+          "new": "mensen",
+          "principe": "V10"
+        }
+      ],
+      "grondtekst": [
+        {
+          "woord": "ὧν",
+          "strongs": "G3739",
+          "transliteratie": "hōn"
+        },
+        {
+          "woord": "οὖν",
+          "strongs": "G3767",
+          "transliteratie": "oun"
+        },
+        {
+          "woord": "ἐὰν",
+          "strongs": "G1437",
+          "transliteratie": "ean"
+        },
+        {
+          "woord": "χρείαν",
+          "strongs": "G5532",
+          "transliteratie": "chreian"
+        },
+        {
+          "woord": "ἔχητε",
+          "strongs": "G2192",
+          "transliteratie": "echēte"
+        },
+        {
+          "woord": "τοὺς",
+          "strongs": "G3588",
+          "transliteratie": "tous"
+        },
+        {
+          "woord": "ἀποκομιοῦντας",
+          "transliteratie": "apokomiountas"
+        },
+        {
+          "woord": "ὑμῖν",
+          "strongs": "G5213",
+          "transliteratie": "hymin"
+        },
+        {
+          "woord": "ἀποστέλλετε",
+          "strongs": "G649",
+          "transliteratie": "apostellete"
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "text1637": "Dewijl wij dan zullen houden het feest der reiniging, zo hebben wij u dat geschreven, en gij zult dan wel doen, dat gij deze dagen viert.",
+      "textSV1888": "Dewijl wij dan zullen houden het feest der reiniging, zo hebben wij u dat geschreven, en gij zult dan wel doen, dat gij deze dagen viert.",
+      "text2026": "Omdat wij dan zullen houden het feest van de reiniging, zo hebben wij u dat geschreven, en u zult dan wel doen, dat u deze dagen viert.",
+      "marginNotes": [],
+      "text2026_html": "Omdat wij dan zullen houden het feest van de reiniging, zo hebben wij u dat geschreven, en u zult dan wel doen, dat u deze dagen viert.",
+      "phraseDiff": [
+        {
+          "old": "Dewijl",
+          "new": "Omdat",
+          "principe": "V2"
+        },
+        {
+          "old": "der",
+          "new": "van de",
+          "principe": "N2"
+        },
+        {
+          "old": "gij",
+          "new": "u",
+          "principe": "A1"
+        },
+        {
+          "old": "gij",
+          "new": "u",
+          "principe": "A1"
+        }
+      ],
+      "grondtekst": [
+        {
+          "woord": "μέλλοντες",
+          "strongs": "G3195",
+          "transliteratie": "mellontes"
+        },
+        {
+          "woord": "οὖν",
+          "strongs": "G3767",
+          "transliteratie": "oun"
+        },
+        {
+          "woord": "ἄγειν",
+          "strongs": "G71",
+          "transliteratie": "agein"
+        },
+        {
+          "woord": "τὸν",
+          "strongs": "G3588",
+          "transliteratie": "ton"
+        },
+        {
+          "woord": "καθαρισμὸν",
+          "strongs": "G2512",
+          "transliteratie": "katharismon"
+        },
+        {
+          "woord": "ἐγράψαμεν",
+          "strongs": "G1125",
+          "transliteratie": "egrapsamen"
+        },
+        {
+          "woord": "ὑμῖν",
+          "strongs": "G5213",
+          "transliteratie": "hymin"
+        },
+        {
+          "woord": "καλώς",
+          "transliteratie": "kalōs"
+        },
+        {
+          "woord": "οὖν",
+          "strongs": "G3767",
+          "transliteratie": "oun"
+        },
+        {
+          "woord": "ποιήσετε",
+          "strongs": "G4160",
+          "transliteratie": "poiēsete"
+        },
+        {
+          "woord": "ἄγοντες",
+          "strongs": "G71",
+          "transliteratie": "agontes"
+        },
+        {
+          "woord": "τὰς",
+          "strongs": "G3588",
+          "transliteratie": "tas"
+        },
+        {
+          "woord": "ἡμέρας",
+          "strongs": "G2250",
+          "transliteratie": "hēmeras"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "reiniging",
+          "voorkomen": 1,
+          "strongs": [
+            "G2512"
+          ],
+          "bronwoorden": [
+            "καθαρισμὸν"
+          ],
+          "transliteraties": [
+            "katharismon"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "D571BA375C6DE900E711A53D1AFA8DA01081E90CEB9CD253D12EB57E546B2148",
+            "referentie": "2MAKKABEEEN 2:16",
+            "bronindices": [
+              4
+            ],
+            "grondindices": [
+              4
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "text1637": "En God, die al zijn volk heeft behouden, en allen heeft gegeven het erfdeel, en het koninkrijk, en het priesterschap en de heiliging;",
+      "textSV1888": "En God, die al zijn volk heeft behouden, en allen heeft gegeven het erfdeel, en het koninkrijk, en het priesterschap en de heiliging;",
+      "text2026": "En God, die al zijn volk heeft behouden, en allen heeft gegeven het erfdeel, en het koninkrijk, en het priesterschap en de heiliging;",
+      "marginNotes": [],
+      "text2026_html": "En God, die al zijn volk heeft behouden, en allen heeft gegeven het erfdeel, en het koninkrijk, en het priesterschap en de heiliging;",
+      "grondtekst": [
+        {
+          "woord": "ὁ",
+          "strongs": "G3588",
+          "transliteratie": "ho"
+        },
+        {
+          "woord": "δὲ",
+          "strongs": "G1161",
+          "transliteratie": "de"
+        },
+        {
+          "woord": "θεὸς",
+          "strongs": "G2316",
+          "transliteratie": "theos"
+        },
+        {
+          "woord": "ὁ",
+          "strongs": "G3588",
+          "transliteratie": "ho"
+        },
+        {
+          "woord": "σώσας",
+          "strongs": "G4982",
+          "transliteratie": "sōsas"
+        },
+        {
+          "woord": "τὸν",
+          "strongs": "G3588",
+          "transliteratie": "ton"
+        },
+        {
+          "woord": "πάντα",
+          "strongs": "G3956",
+          "transliteratie": "panta"
+        },
+        {
+          "woord": "λαὸν",
+          "strongs": "G2992",
+          "transliteratie": "laon"
+        },
+        {
+          "woord": "αὐτοῦ",
+          "strongs": "G846",
+          "transliteratie": "autou"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ἀποδοὺς",
+          "strongs": "G591",
+          "transliteratie": "apodous"
+        },
+        {
+          "woord": "τὴν",
+          "strongs": "G3588",
+          "transliteratie": "tēn"
+        },
+        {
+          "woord": "κληρονομίαν",
+          "strongs": "G2817",
+          "transliteratie": "klēronomian"
+        },
+        {
+          "woord": "πᾶσιν",
+          "strongs": "G3956",
+          "transliteratie": "pasin"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "τὸ",
+          "strongs": "G3588",
+          "transliteratie": "to"
+        },
+        {
+          "woord": "βασίλειον",
+          "strongs": "G933",
+          "transliteratie": "basileion"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "τὸ",
+          "strongs": "G3588",
+          "transliteratie": "to"
+        },
+        {
+          "woord": "ἱεράτευμα",
+          "strongs": "G2406",
+          "transliteratie": "hierateuma"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "τὸν",
+          "strongs": "G3588",
+          "transliteratie": "ton"
+        },
+        {
+          "woord": "ἁγιασμόν",
+          "strongs": "G38",
+          "transliteratie": "hagiasmon"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "God",
+          "voorkomen": 1,
+          "strongs": [
+            "G2316"
+          ],
+          "bronwoorden": [
+            "θεὸς"
+          ],
+          "transliteraties": [
+            "theos"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "D571BA375C6DE900E711A53D1AFA8DA01081E90CEB9CD253D12EB57E546B2148",
+            "referentie": "2MAKKABEEEN 2:17",
+            "bronindices": [
+              2
+            ],
+            "grondindices": [
+              2
+            ]
+          }
+        },
+        {
+          "tekst": "al",
+          "voorkomen": 1,
+          "strongs": [
+            "G3956"
+          ],
+          "bronwoorden": [
+            "πάντα"
+          ],
+          "transliteraties": [
+            "panta"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "D571BA375C6DE900E711A53D1AFA8DA01081E90CEB9CD253D12EB57E546B2148",
+            "referentie": "2MAKKABEEEN 2:17",
+            "bronindices": [
+              6
+            ],
+            "grondindices": [
+              6
+            ]
+          }
+        },
+        {
+          "tekst": "volk",
+          "voorkomen": 1,
+          "strongs": [
+            "G2992"
+          ],
+          "bronwoorden": [
+            "λαὸν"
+          ],
+          "transliteraties": [
+            "laon"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "D571BA375C6DE900E711A53D1AFA8DA01081E90CEB9CD253D12EB57E546B2148",
+            "referentie": "2MAKKABEEEN 2:17",
+            "bronindices": [
+              7
+            ],
+            "grondindices": [
+              7
+            ]
+          }
+        },
+        {
+          "tekst": "behouden",
+          "voorkomen": 1,
+          "strongs": [
+            "G4982"
+          ],
+          "bronwoorden": [
+            "σώσας"
+          ],
+          "transliteraties": [
+            "sōsas"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "D571BA375C6DE900E711A53D1AFA8DA01081E90CEB9CD253D12EB57E546B2148",
+            "referentie": "2MAKKABEEEN 2:17",
+            "bronindices": [
+              4
+            ],
+            "grondindices": [
+              4
+            ]
+          }
+        },
+        {
+          "tekst": "priesterschap",
+          "voorkomen": 1,
+          "strongs": [
+            "G2406"
+          ],
+          "bronwoorden": [
+            "ἱεράτευμα"
+          ],
+          "transliteraties": [
+            "hierateuma"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "D571BA375C6DE900E711A53D1AFA8DA01081E90CEB9CD253D12EB57E546B2148",
+            "referentie": "2MAKKABEEEN 2:17",
+            "bronindices": [
+              19
+            ],
+            "grondindices": [
+              19
+            ]
+          }
+        },
+        {
+          "tekst": "heiliging",
+          "voorkomen": 1,
+          "strongs": [
+            "G38"
+          ],
+          "bronwoorden": [
+            "ἁγιασμόν"
+          ],
+          "transliteraties": [
+            "hagiasmon"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "D571BA375C6DE900E711A53D1AFA8DA01081E90CEB9CD253D12EB57E546B2148",
+            "referentie": "2MAKKABEEEN 2:17",
+            "bronindices": [
+              22
+            ],
+            "grondindices": [
+              22
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "text1637": "Gelijk hij beloofd heeft door de wet, zo hopen wij op hem, dat hij zich over ons zal ontfermen, en dat hij ons van alle landen, die onder de hemel zijn, weder zal bijeenbrengen in deze heilige plaats.",
+      "textSV1888": "Gelijk hij beloofd heeft door de wet, zo hopen wij op hem, dat hij zich over ons zal ontfermen, en dat hij ons van alle landen, die onder de hemel zijn, weder zal bijeenbrengen in deze heilige plaats.",
+      "text2026": "Zoals hij beloofd heeft door de wet, zo hopen wij op hem, dat hij zich over ons zal ontfermen, en dat hij ons van alle landen, die onder de hemel zijn, weer zal bijeenbrengen in deze heilige plaats.",
+      "marginNotes": [],
+      "text2026_html": "Zoals hij beloofd heeft door de wet, zo hopen wij op hem, dat hij zich over ons zal ontfermen, en dat hij ons van alle landen, die onder de hemel zijn, weer zal bijeenbrengen in deze heilige plaats.",
+      "phraseDiff": [
+        {
+          "old": "Gelijk",
+          "new": "Zoals",
+          "principe": null
+        },
+        {
+          "old": "weder",
+          "new": "weer",
+          "principe": "V66"
+        }
+      ],
+      "grondtekst": [
+        {
+          "woord": "καθὼς",
+          "strongs": "G2531",
+          "transliteratie": "kathōs"
+        },
+        {
+          "woord": "ἐπηγγείλατο",
+          "strongs": "G1861",
+          "transliteratie": "epēngeilato"
+        },
+        {
+          "woord": "διὰ",
+          "strongs": "G1223",
+          "transliteratie": "dia"
+        },
+        {
+          "woord": "τοῦ",
+          "strongs": "G3588",
+          "transliteratie": "tou"
+        },
+        {
+          "woord": "νόμου",
+          "strongs": "G3551",
+          "transliteratie": "nomou"
+        },
+        {
+          "woord": "ἐλπίζομεν",
+          "strongs": "G1679",
+          "transliteratie": "elpizomen"
+        },
+        {
+          "woord": "γὰρ",
+          "strongs": "G1063",
+          "transliteratie": "gar"
+        },
+        {
+          "woord": "ἐπὶ",
+          "strongs": "G1909",
+          "transliteratie": "epi"
+        },
+        {
+          "woord": "τῷ",
+          "strongs": "G3588",
+          "transliteratie": "tō"
+        },
+        {
+          "woord": "θεῷ",
+          "strongs": "G2316",
+          "transliteratie": "theō"
+        },
+        {
+          "woord": "ὅτι",
+          "strongs": "G3754",
+          "transliteratie": "hoti"
+        },
+        {
+          "woord": "ταχέως",
+          "strongs": "G5030",
+          "transliteratie": "tacheōs"
+        },
+        {
+          "woord": "ἡμᾶς",
+          "strongs": "G2248",
+          "transliteratie": "hēmas"
+        },
+        {
+          "woord": "ἐλεήσει",
+          "strongs": "G1653",
+          "transliteratie": "eleēsei"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ἐπισυνάξει",
+          "strongs": "G1996",
+          "transliteratie": "episynaxei"
+        },
+        {
+          "woord": "ἐκ",
+          "strongs": "G1537",
+          "transliteratie": "ek"
+        },
+        {
+          "woord": "τῆς",
+          "strongs": "G3588",
+          "transliteratie": "tēs"
+        },
+        {
+          "woord": "ὑπὸ",
+          "strongs": "G5259",
+          "transliteratie": "hypo"
+        },
+        {
+          "woord": "τὸν",
+          "strongs": "G3588",
+          "transliteratie": "ton"
+        },
+        {
+          "woord": "οὐρανὸν",
+          "strongs": "G3772",
+          "transliteratie": "ouranon"
+        },
+        {
+          "woord": "εἰς",
+          "strongs": "G1519",
+          "transliteratie": "eis"
+        },
+        {
+          "woord": "τὸν",
+          "strongs": "G3588",
+          "transliteratie": "ton"
+        },
+        {
+          "woord": "ἅγιον",
+          "strongs": "G40",
+          "transliteratie": "hagion"
+        },
+        {
+          "woord": "τόπον",
+          "strongs": "G5117",
+          "transliteratie": "topon"
+        },
+        {
+          "woord": "ἐξείλετο",
+          "strongs": "G1807",
+          "transliteratie": "exeileto"
+        },
+        {
+          "woord": "γὰρ",
+          "strongs": "G1063",
+          "transliteratie": "gar"
+        },
+        {
+          "woord": "ἡμᾶς",
+          "strongs": "G2248",
+          "transliteratie": "hēmas"
+        },
+        {
+          "woord": "ἐκ",
+          "strongs": "G1537",
+          "transliteratie": "ek"
+        },
+        {
+          "woord": "μεγάλων",
+          "strongs": "G3173",
+          "transliteratie": "megalōn"
+        },
+        {
+          "woord": "κακῶν",
+          "strongs": "G2556",
+          "transliteratie": "kakōn"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "τὸν",
+          "strongs": "G3588",
+          "transliteratie": "ton"
+        },
+        {
+          "woord": "τόπον",
+          "strongs": "G5117",
+          "transliteratie": "topon"
+        },
+        {
+          "woord": "ἐκαθάρισεν",
+          "strongs": "G2511",
+          "transliteratie": "ekatharisen"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "hopen",
+          "voorkomen": 1,
+          "strongs": [
+            "G1679"
+          ],
+          "bronwoorden": [
+            "ἐλπίζομεν"
+          ],
+          "transliteraties": [
+            "elpizomen"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "D571BA375C6DE900E711A53D1AFA8DA01081E90CEB9CD253D12EB57E546B2148",
+            "referentie": "2MAKKABEEEN 2:18",
+            "bronindices": [
+              5
+            ],
+            "grondindices": [
+              5
+            ]
+          }
+        },
+        {
+          "tekst": "onder",
+          "voorkomen": 1,
+          "strongs": [
+            "G5259"
+          ],
+          "bronwoorden": [
+            "ὑπὸ"
+          ],
+          "transliteraties": [
+            "hypo"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "D571BA375C6DE900E711A53D1AFA8DA01081E90CEB9CD253D12EB57E546B2148",
+            "referentie": "2MAKKABEEEN 2:18",
+            "bronindices": [
+              18
+            ],
+            "grondindices": [
+              18
+            ]
+          }
+        },
+        {
+          "tekst": "hemel",
+          "voorkomen": 1,
+          "strongs": [
+            "G3772"
+          ],
+          "bronwoorden": [
+            "οὐρανὸν"
+          ],
+          "transliteraties": [
+            "ouranon"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "D571BA375C6DE900E711A53D1AFA8DA01081E90CEB9CD253D12EB57E546B2148",
+            "referentie": "2MAKKABEEEN 2:18",
+            "bronindices": [
+              20
+            ],
+            "grondindices": [
+              20
+            ]
+          }
+        },
+        {
+          "tekst": "plaats",
+          "voorkomen": 1,
+          "strongs": [
+            "G5117"
+          ],
+          "bronwoorden": [
+            "τόπον"
+          ],
+          "transliteraties": [
+            "topon"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "D571BA375C6DE900E711A53D1AFA8DA01081E90CEB9CD253D12EB57E546B2148",
+            "referentie": "2MAKKABEEEN 2:18",
+            "bronindices": [
+              24
+            ],
+            "grondindices": [
+              24
+            ]
+          }
+        },
+        {
+          "tekst": "en",
+          "voorkomen": 1,
+          "strongs": [
+            "G2532"
+          ],
+          "bronwoorden": [
+            "καὶ"
+          ],
+          "transliteraties": [
+            "kai"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "D571BA375C6DE900E711A53D1AFA8DA01081E90CEB9CD253D12EB57E546B2148",
+            "referentie": "2MAKKABEEEN 2:18",
+            "bronindices": [
+              14
+            ],
+            "grondindices": [
+              14
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "text1637": "Want hij heeft ons uit grote ellenden verlost en heeft deze plaats gereinigd.",
+      "textSV1888": "Want hij heeft ons uit grote ellenden verlost en heeft deze plaats gereinigd.",
+      "text2026": "Want hij heeft ons uit grote ellenden verlost en heeft deze plaats gereinigd.",
+      "marginNotes": [],
+      "text2026_html": "Want hij heeft ons uit grote ellenden verlost en heeft deze plaats gereinigd.",
+      "grondtekst": [
+        {
+          "woord": "τὰ",
+          "strongs": "G3588",
+          "transliteratie": "ta"
+        },
+        {
+          "woord": "δὲ",
+          "strongs": "G1161",
+          "transliteratie": "de"
+        },
+        {
+          "woord": "κατὰ",
+          "strongs": "G2596",
+          "transliteratie": "kata"
+        },
+        {
+          "woord": "τὸν",
+          "strongs": "G3588",
+          "transliteratie": "ton"
+        },
+        {
+          "woord": "Ιουδαν",
+          "strongs": "G2455",
+          "transliteratie": "ioudan"
+        },
+        {
+          "woord": "τὸν",
+          "strongs": "G3588",
+          "transliteratie": "ton"
+        },
+        {
+          "woord": "Μακκαβαῖον",
+          "transliteratie": "makkabaion"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "τοὺς",
+          "strongs": "G3588",
+          "transliteratie": "tous"
+        },
+        {
+          "woord": "τούτου",
+          "strongs": "G3778",
+          "transliteratie": "toutou"
+        },
+        {
+          "woord": "ἀδελφοὺς",
+          "strongs": "G80",
+          "transliteratie": "adelphous"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "τὸν",
+          "strongs": "G3588",
+          "transliteratie": "ton"
+        },
+        {
+          "woord": "τοῦ",
+          "strongs": "G3588",
+          "transliteratie": "tou"
+        },
+        {
+          "woord": "ἱεροῦ",
+          "strongs": "G2411",
+          "transliteratie": "hierou"
+        },
+        {
+          "woord": "τοῦ",
+          "strongs": "G3588",
+          "transliteratie": "tou"
+        },
+        {
+          "woord": "μεγίστου",
+          "strongs": "G3173",
+          "transliteratie": "megistou"
+        },
+        {
+          "woord": "καθαρισμὸν",
+          "strongs": "G2512",
+          "transliteratie": "katharismon"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "τὸν",
+          "strongs": "G3588",
+          "transliteratie": "ton"
+        },
+        {
+          "woord": "τοῦ",
+          "strongs": "G3588",
+          "transliteratie": "tou"
+        },
+        {
+          "woord": "βωμοῦ",
+          "strongs": "G1041",
+          "transliteratie": "bōmou"
+        },
+        {
+          "woord": "ἐγκαινισμὸν",
+          "transliteratie": "enkainismon"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "hij",
+          "voorkomen": 1,
+          "strongs": [
+            "G3588"
+          ],
+          "bronwoorden": [
+            "τὰ"
+          ],
+          "transliteraties": [
+            "ta"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "D571BA375C6DE900E711A53D1AFA8DA01081E90CEB9CD253D12EB57E546B2148",
+            "referentie": "2MAKKABEEEN 2:19",
+            "bronindices": [
+              0
+            ],
+            "grondindices": [
+              0
+            ]
+          }
+        },
+        {
+          "tekst": "deze",
+          "voorkomen": 1,
+          "strongs": [
+            "G3778"
+          ],
+          "bronwoorden": [
+            "τούτου"
+          ],
+          "transliteraties": [
+            "toutou"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "D571BA375C6DE900E711A53D1AFA8DA01081E90CEB9CD253D12EB57E546B2148",
+            "referentie": "2MAKKABEEEN 2:19",
+            "bronindices": [
+              9
+            ],
+            "grondindices": [
+              9
+            ]
+          }
+        },
+        {
+          "tekst": "en",
+          "voorkomen": 1,
+          "strongs": [
+            "G2532"
+          ],
+          "bronwoorden": [
+            "καὶ"
+          ],
+          "transliteraties": [
+            "kai"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "D571BA375C6DE900E711A53D1AFA8DA01081E90CEB9CD253D12EB57E546B2148",
+            "referentie": "2MAKKABEEEN 2:19",
+            "bronindices": [
+              11
+            ],
+            "grondindices": [
+              11
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "text1637": "Voorts, wat aangaat de zaken van Judas Makkabeüs, en zijn broeders, en de reiniging van de grote tempel, en de inwijding des altaars;",
+      "textSV1888": "Voorts, wat aangaat de zaken van Judas Makkabeüs, en zijn broeders, en de reiniging van de grote tempel, en de inwijding des altaars;",
+      "text2026": "Verder, wat betreft de zaken van Judas Makkabeüs, en zijn broers, en de reiniging van de grote tempel, en de inwijding van het altaar;",
+      "marginNotes": [],
+      "text2026_html": "Verder, wat betreft de zaken van Judas Makkabeüs, en zijn broers, en de reiniging van de grote tempel, en de inwijding van het altaar;",
+      "phraseDiff": [
+        {
+          "old": "Voorts,",
+          "new": "Verder,",
+          "principe": "V27"
+        },
+        {
+          "old": "aangaat",
+          "new": "betreft",
+          "principe": "V731"
+        },
+        {
+          "old": "broeders,",
+          "new": "broers,",
+          "principe": null
+        },
+        {
+          "old": "des altaars;",
+          "new": "van het altaar;",
+          "principe": "N3"
+        }
+      ],
+      "grondtekst": [
+        {
+          "woord": "ἔτι",
+          "strongs": "G2089",
+          "transliteratie": "eti"
+        },
+        {
+          "woord": "τε",
+          "strongs": "G5037",
+          "transliteratie": "te"
+        },
+        {
+          "woord": "τοὺς",
+          "strongs": "G3588",
+          "transliteratie": "tous"
+        },
+        {
+          "woord": "πρὸς",
+          "strongs": "G4314",
+          "transliteratie": "pros"
+        },
+        {
+          "woord": "Ἀντίοχον",
+          "transliteratie": "antiochon"
+        },
+        {
+          "woord": "τὸν",
+          "strongs": "G3588",
+          "transliteratie": "ton"
+        },
+        {
+          "woord": "Ἐπιφανῆ",
+          "transliteratie": "epiphanē"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "τὸν",
+          "strongs": "G3588",
+          "transliteratie": "ton"
+        },
+        {
+          "woord": "τούτου",
+          "strongs": "G3778",
+          "transliteratie": "toutou"
+        },
+        {
+          "woord": "υἱὸν",
+          "strongs": "G5207",
+          "transliteratie": "huion"
+        },
+        {
+          "woord": "Εὐπάτορα",
+          "transliteratie": "eupatora"
+        },
+        {
+          "woord": "πολέμους",
+          "strongs": "G4171",
+          "transliteratie": "polemous"
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "text1637": "En aangaande de oorlogen, die wij gehad hebben tegen Antiochus Epifanes, en zijn zoon Eupator,",
+      "textSV1888": "En aangaande de oorlogen, die wij gehad hebben tegen Antiochus Epifanes, en zijn zoon Eupator,",
+      "text2026": "En voor wat betreft de oorlogen, die wij gehad hebben tegen Antiochus Epifanes, en zijn zoon Eupator,",
+      "marginNotes": [],
+      "text2026_html": "En voor wat betreft de oorlogen, die wij gehad hebben tegen Antiochus Epifanes, en zijn zoon Eupator,",
+      "grondtekst": [
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "τὰς",
+          "strongs": "G3588",
+          "transliteratie": "tas"
+        },
+        {
+          "woord": "ἐξ",
+          "strongs": "G1537",
+          "transliteratie": "ex"
+        },
+        {
+          "woord": "οὐρανοῦ",
+          "strongs": "G3772",
+          "transliteratie": "ouranou"
+        },
+        {
+          "woord": "γενομένας",
+          "strongs": "G1096",
+          "transliteratie": "genomenas"
+        },
+        {
+          "woord": "ἐπιφανείας",
+          "strongs": "G2015",
+          "transliteratie": "epiphaneias"
+        },
+        {
+          "woord": "τοῖς",
+          "strongs": "G3588",
+          "transliteratie": "tois"
+        },
+        {
+          "woord": "ὑπὲρ",
+          "strongs": "G5228",
+          "transliteratie": "hyper"
+        },
+        {
+          "woord": "τοῦ",
+          "strongs": "G3588",
+          "transliteratie": "tou"
+        },
+        {
+          "woord": "Ιουδαϊσμοῦ",
+          "strongs": "G2454",
+          "transliteratie": "ioudaismou"
+        },
+        {
+          "woord": "φιλοτίμως",
+          "transliteratie": "philotimōs"
+        },
+        {
+          "woord": "ἀνδραγαθήσασιν",
+          "transliteratie": "andragathēsasin"
+        },
+        {
+          "woord": "ὥστε",
+          "strongs": "G5620",
+          "transliteratie": "hōste"
+        },
+        {
+          "woord": "τὴν",
+          "strongs": "G3588",
+          "transliteratie": "tēn"
+        },
+        {
+          "woord": "ὅλην",
+          "strongs": "G3650",
+          "transliteratie": "holēn"
+        },
+        {
+          "woord": "χώραν",
+          "strongs": "G5561",
+          "transliteratie": "chōran"
+        },
+        {
+          "woord": "ὀλίγους",
+          "strongs": "G3641",
+          "transliteratie": "oligous"
+        },
+        {
+          "woord": "ὄντας",
+          "strongs": "G1510",
+          "transliteratie": "ontas"
+        },
+        {
+          "woord": "λεηλατεῖν",
+          "transliteratie": "leēlatein"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "τὰ",
+          "strongs": "G3588",
+          "transliteratie": "ta"
+        },
+        {
+          "woord": "βάρβαρα",
+          "strongs": "G915",
+          "transliteratie": "barbara"
+        },
+        {
+          "woord": "πλήθη",
+          "strongs": "G4128",
+          "transliteratie": "plēthē"
+        },
+        {
+          "woord": "διώκειν",
+          "strongs": "G1377",
+          "transliteratie": "diōkein"
+        }
+      ],
+      "phraseDiff": [
+        {
+          "old": "aangaande",
+          "new": "voor wat betreft",
+          "principe": "V814"
+        }
+      ]
+    },
+    {
+      "number": 22,
+      "text1637": "En de verschijningen, die van de hemel geschied zijn aan degenen, die voor het Jodendom met eergierigheid zich mannelijk gekweten hebben, zodat zij weinigen zijnde het ganse land afgelopen hebben, en menigte der barbaren hebben vervolgd;",
+      "textSV1888": "En de verschijningen, die van de hemel geschied zijn aan degenen, die voor het Jodendom met eergierigheid zich mannelijk gekweten hebben, zodat zij weinigen zijnde het ganse land afgelopen hebben, en menigte der barbaren hebben vervolgd;",
+      "text2026": "En de verschijningen, die van de hemel gebeurd zijn aan degenen, die voor het Jodendom met eergierigheid zich mannelijk hebben ingezet, zodat zij weinigen zijnde het hele land afgelopen hebben, en menigte van de barbaren hebben vervolgd;",
+      "marginNotes": [],
+      "text2026_html": "En de verschijningen, die van de hemel gebeurd zijn aan degenen, die voor het Jodendom met eergierigheid zich mannelijk hebben ingezet, zodat zij weinigen zijnde het hele land afgelopen hebben, en menigte van de barbaren hebben vervolgd;",
+      "phraseDiff": [
+        {
+          "old": "geschied",
+          "new": "gebeurd",
+          "principe": null
+        },
+        {
+          "old": "gekweten hebben,",
+          "new": "hebben ingezet,",
+          "principe": "V1655"
+        },
+        {
+          "old": "ganse",
+          "new": "hele",
+          "principe": "V3"
+        },
+        {
+          "old": "der",
+          "new": "van de",
+          "principe": "N2"
+        }
+      ],
+      "grondtekst": [
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "τὸ",
+          "strongs": "G3588",
+          "transliteratie": "to"
+        },
+        {
+          "woord": "περιβόητον",
+          "transliteratie": "periboēton"
+        },
+        {
+          "woord": "καθ᾿",
+          "strongs": "G2596",
+          "transliteratie": "kath᾿"
+        },
+        {
+          "woord": "ὅλην",
+          "strongs": "G3650",
+          "transliteratie": "holēn"
+        },
+        {
+          "woord": "τὴν",
+          "strongs": "G3588",
+          "transliteratie": "tēn"
+        },
+        {
+          "woord": "οἰκουμένην",
+          "strongs": "G3625",
+          "transliteratie": "oikoumenēn"
+        },
+        {
+          "woord": "ἱερὸν",
+          "strongs": "G2411",
+          "transliteratie": "hieron"
+        },
+        {
+          "woord": "ἀνακομίσασθαι",
+          "transliteratie": "anakomisasthai"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "τὴν",
+          "strongs": "G3588",
+          "transliteratie": "tēn"
+        },
+        {
+          "woord": "πόλιν",
+          "strongs": "G4172",
+          "transliteratie": "polin"
+        },
+        {
+          "woord": "ἐλευθερῶσαι",
+          "strongs": "G1659",
+          "transliteratie": "eleutherōsai"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "τοὺς",
+          "strongs": "G3588",
+          "transliteratie": "tous"
+        },
+        {
+          "woord": "μέλλοντας",
+          "strongs": "G3195",
+          "transliteratie": "mellontas"
+        },
+        {
+          "woord": "καταλύεσθαι",
+          "strongs": "G2647",
+          "transliteratie": "katalyesthai"
+        },
+        {
+          "woord": "νόμους",
+          "strongs": "G3551",
+          "transliteratie": "nomous"
+        },
+        {
+          "woord": "ἐπανορθῶσαι",
+          "transliteratie": "epanorthōsai"
+        },
+        {
+          "woord": "τοῦ",
+          "strongs": "G3588",
+          "transliteratie": "tou"
+        },
+        {
+          "woord": "κυρίου",
+          "strongs": "G2962",
+          "transliteratie": "kyriou"
+        },
+        {
+          "woord": "μετὰ",
+          "strongs": "G3326",
+          "transliteratie": "meta"
+        },
+        {
+          "woord": "πάσης",
+          "strongs": "G3956",
+          "transliteratie": "pasēs"
+        },
+        {
+          "woord": "ἐπιεικείας",
+          "strongs": "G1932",
+          "transliteratie": "epieikeias"
+        },
+        {
+          "woord": "ἵλεω",
+          "strongs": "G2436",
+          "transliteratie": "hileō"
+        },
+        {
+          "woord": "γενομένου",
+          "strongs": "G1096",
+          "transliteratie": "genomenou"
+        },
+        {
+          "woord": "αὐτοῖς",
+          "strongs": "G846",
+          "transliteratie": "autois"
+        }
+      ]
+    },
+    {
+      "number": 23,
+      "text1637": "En dat de tempel, die door de gehele bewoonde wereld vermaard is, weder door hen gebouwd is, en de stad in vrijheid gesteld; en dat de wetten, die haast zouden zijn teniet gegaan, weder opgericht zijn; dewijl de Here met alle goedertierenheid hun genadig was geworden;",
+      "textSV1888": "En dat de tempel, die door de gehele bewoonde wereld vermaard is, weder door hen gebouwd is, en de stad in vrijheid gesteld; en dat de wetten, die haast zouden zijn teniet gegaan, weder opgericht zijn; dewijl de Here met alle goedertierenheid hun genadig was geworden;",
+      "text2026": "En dat de tempel, die door de hele bewoonde wereld beroemd is, weer door hen gebouwd is, en de stad in vrijheid gesteld; en dat de wetten, die haast zouden zijn teniet gegaan, weer opgericht zijn; omdat de Heere met alle goedertierenheid hun genadig was geworden;",
+      "marginNotes": [],
+      "text2026_html": "En dat de tempel, die door de hele bewoonde wereld beroemd is, weer door hen gebouwd is, en de stad in vrijheid gesteld; en dat de wetten, die haast zouden zijn teniet gegaan, weer opgericht zijn; omdat de Heere met alle goedertierenheid hun genadig was geworden;",
+      "phraseDiff": [
+        {
+          "old": "gehele",
+          "new": "hele",
+          "principe": "V391"
+        },
+        {
+          "old": "vermaard",
+          "new": "beroemd",
+          "principe": "V357"
+        },
+        {
+          "old": "weder",
+          "new": "weer",
+          "principe": "V66"
+        },
+        {
+          "old": "weder",
+          "new": "weer",
+          "principe": "V66"
+        },
+        {
+          "old": "dewijl",
+          "new": "omdat",
+          "principe": "V2"
+        },
+        {
+          "old": "Here",
+          "new": "Heere",
+          "principe": "V280"
+        }
+      ],
+      "grondtekst": [
+        {
+          "woord": "ὑπὸ",
+          "strongs": "G5259",
+          "transliteratie": "hypo"
+        },
+        {
+          "woord": "Ἰάσωνος",
+          "strongs": "G2394",
+          "transliteratie": "iasōnos"
+        },
+        {
+          "woord": "τοῦ",
+          "strongs": "G3588",
+          "transliteratie": "tou"
+        },
+        {
+          "woord": "Κυρηναίου",
+          "strongs": "G2956",
+          "transliteratie": "kyrēnaiou"
+        },
+        {
+          "woord": "δεδηλωμένα",
+          "strongs": "G1213",
+          "transliteratie": "dedēlōmena"
+        },
+        {
+          "woord": "διὰ",
+          "strongs": "G1223",
+          "transliteratie": "dia"
+        },
+        {
+          "woord": "πέντε",
+          "strongs": "G4002",
+          "transliteratie": "pente"
+        },
+        {
+          "woord": "βιβλίων",
+          "strongs": "G975",
+          "transliteratie": "bibliōn"
+        },
+        {
+          "woord": "πειρασόμεθα",
+          "strongs": "G3987",
+          "transliteratie": "peirasometha"
+        },
+        {
+          "woord": "δι᾿",
+          "strongs": "G1223",
+          "transliteratie": "di᾿"
+        },
+        {
+          "woord": "ἑνὸς",
+          "strongs": "G1520",
+          "transliteratie": "henos"
+        },
+        {
+          "woord": "συντάγματος",
+          "transliteratie": "syntagmatos"
+        },
+        {
+          "woord": "ἐπιτεμεῖν",
+          "transliteratie": "epitemein"
+        }
+      ]
+    },
+    {
+      "number": 24,
+      "text1637": "Deze dingen, zijnde door Jason van Cyrene verklaard in vijf boeken, zullen wij ondernemen in een boek kort te vervatten.",
+      "textSV1888": "Deze dingen, zijnde door Jason van Cyrene verklaard in vijf boeken, zullen wij ondernemen in een boek kort te vervatten.",
+      "text2026": "Deze dingen, zijnde door Jason van Cyrene verklaard in vijf boeken, zullen wij ondernemen in een boek kort te vervatten.",
+      "marginNotes": [],
+      "text2026_html": "Deze dingen, zijnde door Jason van Cyrene verklaard in vijf boeken, zullen wij ondernemen in een boek kort te vervatten.",
+      "grondtekst": [
+        {
+          "woord": "συνορῶντες",
+          "strongs": "G4894",
+          "transliteratie": "synorōntes"
+        },
+        {
+          "woord": "γὰρ",
+          "strongs": "G1063",
+          "transliteratie": "gar"
+        },
+        {
+          "woord": "τὸ",
+          "strongs": "G3588",
+          "transliteratie": "to"
+        },
+        {
+          "woord": "χύμα",
+          "transliteratie": "chyma"
+        },
+        {
+          "woord": "τῶν",
+          "strongs": "G3588",
+          "transliteratie": "tōn"
+        },
+        {
+          "woord": "ἀριθμῶν",
+          "strongs": "G706",
+          "transliteratie": "arithmōn"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "τὴν",
+          "strongs": "G3588",
+          "transliteratie": "tēn"
+        },
+        {
+          "woord": "οὖσαν",
+          "strongs": "G1510",
+          "transliteratie": "ousan"
+        },
+        {
+          "woord": "δυσχέρειαν",
+          "transliteratie": "dyschereian"
+        },
+        {
+          "woord": "τοῖς",
+          "strongs": "G3588",
+          "transliteratie": "tois"
+        },
+        {
+          "woord": "θέλουσιν",
+          "strongs": "G2309",
+          "transliteratie": "thelousin"
+        },
+        {
+          "woord": "εἰσκυκλεῖσθαι",
+          "transliteratie": "eiskykleisthai"
+        },
+        {
+          "woord": "τοῖς",
+          "strongs": "G3588",
+          "transliteratie": "tois"
+        },
+        {
+          "woord": "τῆς",
+          "strongs": "G3588",
+          "transliteratie": "tēs"
+        },
+        {
+          "woord": "ἱστορίας",
+          "transliteratie": "historias"
+        },
+        {
+          "woord": "διηγήμασιν",
+          "transliteratie": "diēgēmasin"
+        },
+        {
+          "woord": "διὰ",
+          "strongs": "G1223",
+          "transliteratie": "dia"
+        },
+        {
+          "woord": "τὸ",
+          "strongs": "G3588",
+          "transliteratie": "to"
+        },
+        {
+          "woord": "πλῆθος",
+          "strongs": "G4128",
+          "transliteratie": "plēthos"
+        },
+        {
+          "woord": "τῆς",
+          "strongs": "G3588",
+          "transliteratie": "tēs"
+        },
+        {
+          "woord": "ὕλης",
+          "strongs": "G5208",
+          "transliteratie": "hylēs"
+        }
+      ]
+    },
+    {
+      "number": 25,
+      "text1637": "Want wij, ziende de verwarring in de getallen, en de zwarigheid, die er is voor degenen, die de historische verhalen te enen male willen doorlezen, om de menigte van de stof,",
+      "textSV1888": "Want wij, ziende de verwarring in de getallen, en de zwarigheid, die er is voor degenen, die de historische verhalen te enen male willen doorlezen, om de menigte van de stof,",
+      "text2026": "Want wij, ziende de verwarring in de getallen, en de zwarigheid, die er is voor degenen, die de historische verhalen te enen keer willen doorlezen, om de menigte van het stof,",
+      "marginNotes": [],
+      "text2026_html": "Want wij, ziende de verwarring in de getallen, en de zwarigheid, die er is voor degenen, die de historische verhalen te enen keer willen doorlezen, om de menigte van het stof,",
+      "phraseDiff": [
+        {
+          "old": "male",
+          "new": "keer",
+          "principe": null
+        },
+        {
+          "old": "de",
+          "new": "het",
+          "principe": null
+        }
+      ],
+      "grondtekst": [
+        {
+          "woord": "ἐφροντίσαμεν",
+          "strongs": "G5431",
+          "transliteratie": "ephrontisamen"
+        },
+        {
+          "woord": "τοῖς",
+          "strongs": "G3588",
+          "transliteratie": "tois"
+        },
+        {
+          "woord": "μὲν",
+          "strongs": "G3303",
+          "transliteratie": "men"
+        },
+        {
+          "woord": "βουλομένοις",
+          "strongs": "G1014",
+          "transliteratie": "boulomenois"
+        },
+        {
+          "woord": "ἀναγινώσκειν",
+          "strongs": "G314",
+          "transliteratie": "anaginōskein"
+        },
+        {
+          "woord": "ψυχαγωγίαν",
+          "transliteratie": "psychagōgian"
+        },
+        {
+          "woord": "τοῖς",
+          "strongs": "G3588",
+          "transliteratie": "tois"
+        },
+        {
+          "woord": "δὲ",
+          "strongs": "G1161",
+          "transliteratie": "de"
+        },
+        {
+          "woord": "φιλοφρονοῦσιν",
+          "transliteratie": "philophronousin"
+        },
+        {
+          "woord": "εἰς",
+          "strongs": "G1519",
+          "transliteratie": "eis"
+        },
+        {
+          "woord": "τὸ",
+          "strongs": "G3588",
+          "transliteratie": "to"
+        },
+        {
+          "woord": "διὰ",
+          "strongs": "G1223",
+          "transliteratie": "dia"
+        },
+        {
+          "woord": "μνήμης",
+          "strongs": "G3420",
+          "transliteratie": "mnēmēs"
+        },
+        {
+          "woord": "ἀναλαβεῖν",
+          "strongs": "G353",
+          "transliteratie": "analabein"
+        },
+        {
+          "woord": "εὐκοπίαν",
+          "transliteratie": "eukopian"
+        },
+        {
+          "woord": "πᾶσιν",
+          "strongs": "G3956",
+          "transliteratie": "pasin"
+        },
+        {
+          "woord": "δὲ",
+          "strongs": "G1161",
+          "transliteratie": "de"
+        },
+        {
+          "woord": "τοῖς",
+          "strongs": "G3588",
+          "transliteratie": "tois"
+        },
+        {
+          "woord": "ἐντυγχάνουσιν",
+          "strongs": "G1793",
+          "transliteratie": "entynchanousin"
+        },
+        {
+          "woord": "ὠφέλειαν",
+          "strongs": "G5622",
+          "transliteratie": "ōpheleian"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "willen",
+          "voorkomen": 1,
+          "strongs": [
+            "G1014"
+          ],
+          "bronwoorden": [
+            "βουλομένοις"
+          ],
+          "transliteraties": [
+            "boulomenois"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "D571BA375C6DE900E711A53D1AFA8DA01081E90CEB9CD253D12EB57E546B2148",
+            "referentie": "2MAKKABEEEN 2:25",
+            "bronindices": [
+              3
+            ],
+            "grondindices": [
+              3
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 26,
+      "text1637": "Hebben getracht om degenen, die lezen willen, enig vermaak te geven, en degenen die begerig zijn om wel te onthouden, enige hulp, en allen, wie dit boek zal voorkomen, enig nut toe te brengen.",
+      "textSV1888": "Hebben getracht om degenen, die lezen willen, enig vermaak te geven, en degenen die begerig zijn om wel te onthouden, enige hulp, en allen, wie dit boek zal voorkomen, enig nut toe te brengen.",
+      "text2026": "Hebben getracht om degenen, die lezen willen, enig vermaak te geven, en degenen die begerig zijn om wel te onthouden, enige hulp, en allen, wie dit boek zal voorkomen, enig nut toe te brengen.",
+      "marginNotes": [],
+      "text2026_html": "Hebben getracht om degenen, die lezen willen, enig vermaak te geven, en degenen die begerig zijn om wel te onthouden, enige hulp, en allen, wie dit boek zal voorkomen, enig nut toe te brengen.",
+      "grondtekst": [
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ἡμῖν",
+          "strongs": "G2254",
+          "transliteratie": "hēmin"
+        },
+        {
+          "woord": "μὲν",
+          "strongs": "G3303",
+          "transliteratie": "men"
+        },
+        {
+          "woord": "τοῖς",
+          "strongs": "G3588",
+          "transliteratie": "tois"
+        },
+        {
+          "woord": "τὴν",
+          "strongs": "G3588",
+          "transliteratie": "tēn"
+        },
+        {
+          "woord": "κακοπάθειαν",
+          "strongs": "G2552",
+          "transliteratie": "kakopatheian"
+        },
+        {
+          "woord": "ἐπιδεδεγμένοις",
+          "strongs": "G1926",
+          "transliteratie": "epidedegmenois"
+        },
+        {
+          "woord": "τῆς",
+          "strongs": "G3588",
+          "transliteratie": "tēs"
+        },
+        {
+          "woord": "ἐπιτομῆς",
+          "transliteratie": "epitomēs"
+        },
+        {
+          "woord": "οὐ",
+          "strongs": "G3756",
+          "transliteratie": "ou"
+        },
+        {
+          "woord": "ῥᾴδιον",
+          "transliteratie": "rhadion"
+        },
+        {
+          "woord": "ἱδρῶτος",
+          "strongs": "G2402",
+          "transliteratie": "hidrōtos"
+        },
+        {
+          "woord": "δὲ",
+          "strongs": "G1161",
+          "transliteratie": "de"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ἀγρυπνίας",
+          "strongs": "G70",
+          "transliteratie": "agrypnias"
+        },
+        {
+          "woord": "τὸ",
+          "strongs": "G3588",
+          "transliteratie": "to"
+        },
+        {
+          "woord": "πρᾶγμα",
+          "strongs": "G4229",
+          "transliteratie": "pragma"
+        }
+      ]
+    },
+    {
+      "number": 27,
+      "text1637": "Het is voor ons, die de moeite hebben genomen om dit kort begrip te maken, niet licht geweest, maar een zaak vol zweten en waken.",
+      "textSV1888": "Het is voor ons, die de moeite hebben genomen om dit kort begrip te maken, niet licht geweest, maar een zaak vol zweten en waken.",
+      "text2026": "Het is voor ons, die de moeite hebben genomen om dit kort begrip te maken, niet licht geweest, maar een zaak vol zweten en waken.",
+      "marginNotes": [],
+      "text2026_html": "Het is voor ons, die de moeite hebben genomen om dit kort begrip te maken, niet licht geweest, maar een zaak vol zweten en waken.",
+      "grondtekst": [
+        {
+          "woord": "καθάπερ",
+          "strongs": "G2509",
+          "transliteratie": "kathaper"
+        },
+        {
+          "woord": "τῷ",
+          "strongs": "G3588",
+          "transliteratie": "tō"
+        },
+        {
+          "woord": "παρασκευάζοντι",
+          "strongs": "G3903",
+          "transliteratie": "paraskeuazonti"
+        },
+        {
+          "woord": "συμπόσιον",
+          "strongs": "G4849",
+          "transliteratie": "symposion"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ζητοῦντι",
+          "strongs": "G2212",
+          "transliteratie": "zētounti"
+        },
+        {
+          "woord": "τὴν",
+          "strongs": "G3588",
+          "transliteratie": "tēn"
+        },
+        {
+          "woord": "ἑτέρων",
+          "strongs": "G2087",
+          "transliteratie": "heterōn"
+        },
+        {
+          "woord": "λυσιτέλειαν",
+          "transliteratie": "lysiteleian"
+        },
+        {
+          "woord": "οὐκ",
+          "strongs": "G3756",
+          "transliteratie": "ouk"
+        },
+        {
+          "woord": "εὐχερές",
+          "transliteratie": "eucheres"
+        },
+        {
+          "woord": "ὅμως",
+          "strongs": "G3676",
+          "transliteratie": "homōs"
+        },
+        {
+          "woord": "διὰ",
+          "strongs": "G1223",
+          "transliteratie": "dia"
+        },
+        {
+          "woord": "τὴν",
+          "strongs": "G3588",
+          "transliteratie": "tēn"
+        },
+        {
+          "woord": "τῶν",
+          "strongs": "G3588",
+          "transliteratie": "tōn"
+        },
+        {
+          "woord": "πολλῶν",
+          "strongs": "G4183",
+          "transliteratie": "pollōn"
+        },
+        {
+          "woord": "εὐχαριστίαν",
+          "strongs": "G2169",
+          "transliteratie": "eucharistian"
+        },
+        {
+          "woord": "ἡδέως",
+          "strongs": "G2234",
+          "transliteratie": "hēdeōs"
+        },
+        {
+          "woord": "τὴν",
+          "strongs": "G3588",
+          "transliteratie": "tēn"
+        },
+        {
+          "woord": "κακοπάθειαν",
+          "strongs": "G2552",
+          "transliteratie": "kakopatheian"
+        },
+        {
+          "woord": "ὑποίσομεν",
+          "strongs": "G5297",
+          "transliteratie": "hypoisomen"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "niet",
+          "voorkomen": 1,
+          "strongs": [
+            "G3756"
+          ],
+          "bronwoorden": [
+            "οὐκ"
+          ],
+          "transliteraties": [
+            "ouk"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "D571BA375C6DE900E711A53D1AFA8DA01081E90CEB9CD253D12EB57E546B2148",
+            "referentie": "2MAKKABEEEN 2:27",
+            "bronindices": [
+              9
+            ],
+            "grondindices": [
+              9
+            ]
+          }
+        },
+        {
+          "tekst": "en",
+          "voorkomen": 1,
+          "strongs": [
+            "G2532"
+          ],
+          "bronwoorden": [
+            "καὶ"
+          ],
+          "transliteraties": [
+            "kai"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "D571BA375C6DE900E711A53D1AFA8DA01081E90CEB9CD253D12EB57E546B2148",
+            "referentie": "2MAKKABEEEN 2:27",
+            "bronindices": [
+              4
+            ],
+            "grondindices": [
+              4
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 28,
+      "text1637": "Gelijkerwijs het iemand, die een grote maaltijd toebereidt, en die een ieder wel zoekt te dienen, niet licht is, om van velen goede dank te behalen, zo zullen wij nochtans gaarne deze moeite nemen.",
+      "textSV1888": "Gelijkerwijs het iemand, die een grote maaltijd toebereidt, en die een ieder wel zoekt te dienen, niet licht is, om van velen goede dank te behalen, zo zullen wij nochtans gaarne deze moeite nemen.",
+      "text2026": "Zoals het iemand, die een grote maaltijd toebereidt, en die een ieder wel zoekt te dienen, niet licht is, om van velen goede dank te behalen, zo zullen wij toch graag deze moeite nemen.",
+      "marginNotes": [],
+      "text2026_html": "Zoals het iemand, die een grote maaltijd toebereidt, en die een ieder wel zoekt te dienen, niet licht is, om van velen goede dank te behalen, zo zullen wij toch graag deze moeite nemen.",
+      "phraseDiff": [
+        {
+          "old": "Gelijkerwijs",
+          "new": "Zoals",
+          "principe": "V51"
+        },
+        {
+          "old": "nochtans gaarne",
+          "new": "toch graag",
+          "principe": "V73"
+        }
+      ],
+      "grondtekst": [
+        {
+          "woord": "τὸ",
+          "strongs": "G3588",
+          "transliteratie": "to"
+        },
+        {
+          "woord": "μὲν",
+          "strongs": "G3303",
+          "transliteratie": "men"
+        },
+        {
+          "woord": "διακριβοῦν",
+          "transliteratie": "diakriboun"
+        },
+        {
+          "woord": "περὶ",
+          "strongs": "G4012",
+          "transliteratie": "peri"
+        },
+        {
+          "woord": "ἑκάστων",
+          "strongs": "G1538",
+          "transliteratie": "hekastōn"
+        },
+        {
+          "woord": "τῷ",
+          "strongs": "G3588",
+          "transliteratie": "tō"
+        },
+        {
+          "woord": "συγγραφεῖ",
+          "transliteratie": "syngraphei"
+        },
+        {
+          "woord": "παραχωρήσαντες",
+          "transliteratie": "parachōrēsantes"
+        },
+        {
+          "woord": "τὸ",
+          "strongs": "G3588",
+          "transliteratie": "to"
+        },
+        {
+          "woord": "δὲ",
+          "strongs": "G1161",
+          "transliteratie": "de"
+        },
+        {
+          "woord": "ἐπιπορεύεσθαι",
+          "strongs": "G1975",
+          "transliteratie": "epiporeuesthai"
+        },
+        {
+          "woord": "τοῖς",
+          "strongs": "G3588",
+          "transliteratie": "tois"
+        },
+        {
+          "woord": "ὑπογραμμοῖς",
+          "strongs": "G5261",
+          "transliteratie": "hypogrammois"
+        },
+        {
+          "woord": "τῆς",
+          "strongs": "G3588",
+          "transliteratie": "tēs"
+        },
+        {
+          "woord": "ἐπιτομῆς",
+          "transliteratie": "epitomēs"
+        },
+        {
+          "woord": "διαπονοῦντες",
+          "strongs": "G1278",
+          "transliteratie": "diaponountes"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "ieder",
+          "voorkomen": 1,
+          "strongs": [
+            "G1538"
+          ],
+          "bronwoorden": [
+            "ἑκάστων"
+          ],
+          "transliteraties": [
+            "hekastōn"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "D571BA375C6DE900E711A53D1AFA8DA01081E90CEB9CD253D12EB57E546B2148",
+            "referentie": "2MAKKABEEEN 2:28",
+            "bronindices": [
+              4
+            ],
+            "grondindices": [
+              4
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 29,
+      "text1637": "Latende dan de schrijver de bredere verhandeling van iedere zaak, zullen wij slechts voortgaan met dit kort begrip in het kort af te malen.",
+      "textSV1888": "Latende dan de schrijver de bredere verhandeling van iedere zaak, zullen wij slechts voortgaan met dit kort begrip in het kort af te malen.",
+      "text2026": "Latende dan de schrijver de bredere verhandeling van iedere zaak, zullen wij slechts voortgaan met dit kort begrip in het kort af te malen.",
+      "marginNotes": [],
+      "text2026_html": "Latende dan de schrijver de bredere verhandeling van iedere zaak, zullen wij slechts voortgaan met dit kort begrip in het kort af te malen.",
+      "grondtekst": [
+        {
+          "woord": "καθάπερ",
+          "strongs": "G2509",
+          "transliteratie": "kathaper"
+        },
+        {
+          "woord": "γὰρ",
+          "strongs": "G1063",
+          "transliteratie": "gar"
+        },
+        {
+          "woord": "τῆς",
+          "strongs": "G3588",
+          "transliteratie": "tēs"
+        },
+        {
+          "woord": "καινῆς",
+          "strongs": "G2537",
+          "transliteratie": "kainēs"
+        },
+        {
+          "woord": "οἰκίας",
+          "strongs": "G3614",
+          "transliteratie": "oikias"
+        },
+        {
+          "woord": "ἀρχιτέκτονι",
+          "strongs": "G753",
+          "transliteratie": "architektoni"
+        },
+        {
+          "woord": "τῆς",
+          "strongs": "G3588",
+          "transliteratie": "tēs"
+        },
+        {
+          "woord": "ὅλης",
+          "strongs": "G3650",
+          "transliteratie": "holēs"
+        },
+        {
+          "woord": "καταβολῆς",
+          "strongs": "G2602",
+          "transliteratie": "katabolēs"
+        },
+        {
+          "woord": "φροντιστέον",
+          "transliteratie": "phrontisteon"
+        },
+        {
+          "woord": "τῷ",
+          "strongs": "G3588",
+          "transliteratie": "tō"
+        },
+        {
+          "woord": "δὲ",
+          "strongs": "G1161",
+          "transliteratie": "de"
+        },
+        {
+          "woord": "ἐγκαίειν",
+          "transliteratie": "enkaiein"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ζωγραφεῖν",
+          "transliteratie": "zōgraphein"
+        },
+        {
+          "woord": "ἐπιχειροῦντι",
+          "strongs": "G2021",
+          "transliteratie": "epicheirounti"
+        },
+        {
+          "woord": "τὰ",
+          "strongs": "G3588",
+          "transliteratie": "ta"
+        },
+        {
+          "woord": "ἐπιτήδεια",
+          "strongs": "G2006",
+          "transliteratie": "epitēdeia"
+        },
+        {
+          "woord": "πρὸς",
+          "strongs": "G4314",
+          "transliteratie": "pros"
+        },
+        {
+          "woord": "διακόσμησιν",
+          "transliteratie": "diakosmēsin"
+        },
+        {
+          "woord": "ἐξεταστέον",
+          "strongs": "G1833",
+          "transliteratie": "exetasteon"
+        },
+        {
+          "woord": "οὕτως",
+          "strongs": "G3779",
+          "transliteratie": "houtōs"
+        },
+        {
+          "woord": "δοκῶ",
+          "strongs": "G1380",
+          "transliteratie": "dokō"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ἐπὶ",
+          "strongs": "G1909",
+          "transliteratie": "epi"
+        },
+        {
+          "woord": "ἡμῶν",
+          "strongs": "G2257",
+          "transliteratie": "hēmōn"
+        }
+      ]
+    },
+    {
+      "number": 30,
+      "text1637": "Gelijkerwijs een, die een nieuw huis wil bouwen, bekommerd moet zijn over het ganse gebouw, en een, die met inbranden voorneemt iets te schilderen, naarstig moet onderzoeken wat tot sieraad nodig is, zo acht ik dat wij ook moeten doen.",
+      "textSV1888": "Gelijkerwijs een, die een nieuw huis wil bouwen, bekommerd moet zijn over het ganse gebouw, en een, die met inbranden voorneemt iets te schilderen, naarstig moet onderzoeken wat tot sieraad nodig is, zo acht ik dat wij ook moeten doen.",
+      "text2026": "Zoals een, die een nieuw huis wil bouwen, zich moet bezighouden met het hele gebouw, en een, die met inbranden voorneemt iets te schilderen, ijverig moet onderzoeken wat tot sieraad nodig is, zo acht ik dat wij ook moeten doen.",
+      "marginNotes": [],
+      "text2026_html": "Zoals een, die een nieuw huis wil bouwen, zich moet bezighouden met het hele gebouw, en een, die met inbranden voorneemt iets te schilderen, ijverig moet onderzoeken wat tot sieraad nodig is, zo acht ik dat wij ook moeten doen.",
+      "phraseDiff": [
+        {
+          "old": "Gelijkerwijs",
+          "new": "Zoals",
+          "principe": "V51"
+        },
+        {
+          "old": "bekommerd",
+          "new": "zich",
+          "principe": null
+        },
+        {
+          "old": "zijn over",
+          "new": "bezighouden met",
+          "principe": null
+        },
+        {
+          "old": "ganse",
+          "new": "hele",
+          "principe": "V3"
+        },
+        {
+          "old": "naarstig",
+          "new": "ijverig",
+          "principe": "V346"
+        }
+      ],
+      "grondtekst": [
+        {
+          "woord": "τὸ",
+          "strongs": "G3588",
+          "transliteratie": "to"
+        },
+        {
+          "woord": "μὲν",
+          "strongs": "G3303",
+          "transliteratie": "men"
+        },
+        {
+          "woord": "ἐμβατεύειν",
+          "strongs": "G1687",
+          "transliteratie": "embateuein"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "περίπατον",
+          "transliteratie": "peripaton"
+        },
+        {
+          "woord": "ποιεῖσθαι",
+          "strongs": "G4160",
+          "transliteratie": "poieisthai"
+        },
+        {
+          "woord": "λόγων",
+          "strongs": "G3056",
+          "transliteratie": "logōn"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "πολυπραγμονεῖν",
+          "transliteratie": "polypragmonein"
+        },
+        {
+          "woord": "ἐν",
+          "strongs": "G1722",
+          "transliteratie": "en"
+        },
+        {
+          "woord": "τοῖς",
+          "strongs": "G3588",
+          "transliteratie": "tois"
+        },
+        {
+          "woord": "κατὰ",
+          "strongs": "G2596",
+          "transliteratie": "kata"
+        },
+        {
+          "woord": "μέρος",
+          "strongs": "G3313",
+          "transliteratie": "meros"
+        },
+        {
+          "woord": "τῷ",
+          "strongs": "G3588",
+          "transliteratie": "tō"
+        },
+        {
+          "woord": "τῆς",
+          "strongs": "G3588",
+          "transliteratie": "tēs"
+        },
+        {
+          "woord": "ἱστορίας",
+          "transliteratie": "historias"
+        },
+        {
+          "woord": "ἀρχηγέτῃ",
+          "transliteratie": "archēgetē"
+        },
+        {
+          "woord": "καθήκει",
+          "strongs": "G2520",
+          "transliteratie": "kathēkei"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "en",
+          "voorkomen": 1,
+          "strongs": [
+            "G2532"
+          ],
+          "bronwoorden": [
+            "καὶ"
+          ],
+          "transliteraties": [
+            "kai"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "D571BA375C6DE900E711A53D1AFA8DA01081E90CEB9CD253D12EB57E546B2148",
+            "referentie": "2MAKKABEEEN 2:30",
+            "bronindices": [
+              7
+            ],
+            "grondindices": [
+              7
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 31,
+      "text1637": "Maar wijdlopig alles te verhandelen, vele redenen te gebruiken, en bezig te zijn in het verhaal van alle bijzondere stukken, dit behoort tot het werk van de schrijver der geschiedenis.",
+      "textSV1888": "Maar wijdlopig alles te verhandelen, vele redenen te gebruiken, en bezig te zijn in het verhaal van alle bijzondere stukken, dit behoort tot het werk van de schrijver der geschiedenis.",
+      "text2026": "Maar wijdlopig alles te verhandelen, vele redenen te gebruiken, en bezig te zijn in het verhaal van alle bijzondere stukken, dit behoort tot het werk van de schrijver van de geschiedenis.",
+      "marginNotes": [],
+      "text2026_html": "Maar wijdlopig alles te verhandelen, vele redenen te gebruiken, en bezig te zijn in het verhaal van alle bijzondere stukken, dit behoort tot het werk van de schrijver van de geschiedenis.",
+      "phraseDiff": [
+        {
+          "old": "der",
+          "new": "van de",
+          "principe": "N2"
+        }
+      ],
+      "grondtekst": [
+        {
+          "woord": "τὸ",
+          "strongs": "G3588",
+          "transliteratie": "to"
+        },
+        {
+          "woord": "δὲ",
+          "strongs": "G1161",
+          "transliteratie": "de"
+        },
+        {
+          "woord": "σύντομον",
+          "transliteratie": "syntomon"
+        },
+        {
+          "woord": "τῆς",
+          "strongs": "G3588",
+          "transliteratie": "tēs"
+        },
+        {
+          "woord": "λέξεως",
+          "transliteratie": "lexeōs"
+        },
+        {
+          "woord": "μεταδιώκειν",
+          "transliteratie": "metadiōkein"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "τὸ",
+          "strongs": "G3588",
+          "transliteratie": "to"
+        },
+        {
+          "woord": "ἐξεργαστικὸν",
+          "transliteratie": "exergastikon"
+        },
+        {
+          "woord": "τῆς",
+          "strongs": "G3588",
+          "transliteratie": "tēs"
+        },
+        {
+          "woord": "πραγματείας",
+          "strongs": "G4230",
+          "transliteratie": "pragmateias"
+        },
+        {
+          "woord": "παραιτεῖσθαι",
+          "strongs": "G3868",
+          "transliteratie": "paraiteisthai"
+        },
+        {
+          "woord": "τῷ",
+          "strongs": "G3588",
+          "transliteratie": "tō"
+        },
+        {
+          "woord": "τὴν",
+          "strongs": "G3588",
+          "transliteratie": "tēn"
+        },
+        {
+          "woord": "μετάφρασιν",
+          "transliteratie": "metaphrasin"
+        },
+        {
+          "woord": "ποιουμένῳ",
+          "strongs": "G4160",
+          "transliteratie": "poioumenō"
+        },
+        {
+          "woord": "συγχωρητέον",
+          "transliteratie": "synchōrēteon"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "Maar",
+          "voorkomen": 1,
+          "strongs": [
+            "G1161"
+          ],
+          "bronwoorden": [
+            "δὲ"
+          ],
+          "transliteraties": [
+            "de"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "D571BA375C6DE900E711A53D1AFA8DA01081E90CEB9CD253D12EB57E546B2148",
+            "referentie": "2MAKKABEEEN 2:31",
+            "bronindices": [
+              1
+            ],
+            "grondindices": [
+              1
+            ]
+          }
+        },
+        {
+          "tekst": "en",
+          "voorkomen": 1,
+          "strongs": [
+            "G2532"
+          ],
+          "bronwoorden": [
+            "καὶ"
+          ],
+          "transliteraties": [
+            "kai"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "D571BA375C6DE900E711A53D1AFA8DA01081E90CEB9CD253D12EB57E546B2148",
+            "referentie": "2MAKKABEEEN 2:31",
+            "bronindices": [
+              6
+            ],
+            "grondindices": [
+              6
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 32,
+      "text1637": "Doch een kort begrip van hetgeen te zeggen is te vervolgen, en een bredere verklaring der zaken te vermijden, dat behoort men toe te laten degene, die een kort begrip van enig schrift maakt.",
+      "textSV1888": "Doch een kort begrip van hetgeen te zeggen is te vervolgen, en een bredere verklaring der zaken te vermijden, dat behoort men toe te laten degene, die een kort begrip van enig schrift maakt.",
+      "text2026": "Maar een kort begrip van wat te zeggen is te vervolgen, en een bredere verklaring van de zaken te vermijden, dat behoort men toe te laten degene, die een kort begrip van enig schrift maakt.",
+      "marginNotes": [],
+      "text2026_html": "Maar een kort begrip van wat te zeggen is te vervolgen, en een bredere verklaring van de zaken te vermijden, dat behoort men toe te laten degene, die een kort begrip van enig schrift maakt.",
+      "phraseDiff": [
+        {
+          "old": "Doch",
+          "new": "Maar",
+          "principe": "V1"
+        },
+        {
+          "old": "hetgeen",
+          "new": "wat",
+          "principe": "V4"
+        },
+        {
+          "old": "der",
+          "new": "van de",
+          "principe": "N2"
+        }
+      ],
+      "grondtekst": [
+        {
+          "woord": "ἐντεῦθεν",
+          "strongs": "G1782",
+          "transliteratie": "enteuthen"
+        },
+        {
+          "woord": "οὖν",
+          "strongs": "G3767",
+          "transliteratie": "oun"
+        },
+        {
+          "woord": "ἀρξώμεθα",
+          "strongs": "G757",
+          "transliteratie": "arxōmetha"
+        },
+        {
+          "woord": "τῆς",
+          "strongs": "G3588",
+          "transliteratie": "tēs"
+        },
+        {
+          "woord": "διηγήσεως",
+          "strongs": "G1335",
+          "transliteratie": "diēgēseōs"
+        },
+        {
+          "woord": "τοῖς",
+          "strongs": "G3588",
+          "transliteratie": "tois"
+        },
+        {
+          "woord": "προειρημένοις",
+          "strongs": "G4280",
+          "transliteratie": "proeirēmenois"
+        },
+        {
+          "woord": "τοσοῦτον",
+          "strongs": "G5118",
+          "transliteratie": "tosouton"
+        },
+        {
+          "woord": "ἐπιζεύξαντες",
+          "transliteratie": "epizeuxantes"
+        },
+        {
+          "woord": "εὔηθες",
+          "transliteratie": "euēthes"
+        },
+        {
+          "woord": "γὰρ",
+          "strongs": "G1063",
+          "transliteratie": "gar"
+        },
+        {
+          "woord": "τὸ",
+          "strongs": "G3588",
+          "transliteratie": "to"
+        },
+        {
+          "woord": "μὲν",
+          "strongs": "G3303",
+          "transliteratie": "men"
+        },
+        {
+          "woord": "πρὸ",
+          "strongs": "G4253",
+          "transliteratie": "pro"
+        },
+        {
+          "woord": "τῆς",
+          "strongs": "G3588",
+          "transliteratie": "tēs"
+        },
+        {
+          "woord": "ἱστορίας",
+          "transliteratie": "historias"
+        },
+        {
+          "woord": "πλεονάζειν",
+          "strongs": "G4121",
+          "transliteratie": "pleonazein"
+        },
+        {
+          "woord": "τὴν",
+          "strongs": "G3588",
+          "transliteratie": "tēn"
+        },
+        {
+          "woord": "δὲ",
+          "strongs": "G1161",
+          "transliteratie": "de"
+        },
+        {
+          "woord": "ἱστορίαν",
+          "transliteratie": "historian"
+        },
+        {
+          "woord": "ἐπιτεμεῖν",
+          "transliteratie": "epitemein"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "Maar",
+          "voorkomen": 1,
+          "strongs": [
+            "G1161"
+          ],
+          "bronwoorden": [
+            "δὲ"
+          ],
+          "transliteraties": [
+            "de"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "D571BA375C6DE900E711A53D1AFA8DA01081E90CEB9CD253D12EB57E546B2148",
+            "referentie": "2MAKKABEEEN 2:32",
+            "bronindices": [
+              18
+            ],
+            "grondindices": [
+              18
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 33,
+      "text1637": "Laat ons dan van hier ons verhaal beginnen, zo veel tot onze voorrede nog bijvoegende. Want het zou een dwaze zaak zijn, dat iemand, die een kort begrip van een geschiedenis schrijft, meer overvloedig in woorden zou zijn dan de geschiedenis zelf.",
+      "textSV1888": "Laat ons dan van hier ons verhaal beginnen, zo veel tot onze voorrede nog bijvoegende. Want het zou een dwaze zaak zijn, dat iemand, die een kort begrip van een geschiedenis schrijft, meer overvloedig in woorden zou zijn dan de geschiedenis zelf.",
+      "text2026": "Laat ons dan van hier ons verhaal beginnen, zo veel tot onze voorrede nog bijvoegende. Want het zou een dwaze zaak zijn, dat iemand, die een kort begrip van een geschiedenis schrijft, meer overvloedig in woorden zou zijn dan de geschiedenis zelf.",
+      "marginNotes": [],
+      "text2026_html": "Laat ons dan van hier ons verhaal beginnen, zo veel tot onze voorrede nog bijvoegende. Want het zou een dwaze zaak zijn, dat iemand, die een kort begrip van een geschiedenis schrijft, meer overvloedig in woorden zou zijn dan de geschiedenis zelf.",
+      "grondtekst": null
+    }
+  ],
+  "chapterIntro": {
+    "text1637": "1 Ieremias vermaent de Ioden, die wech gevoert waren na Babylon, de wet des Heeren te onderhouden, 4 ende verberght den Tabernakel, Arke, ende Altaer. 13 Nehemias vergadert de heylige schriften, gelijck oock Iudas de schriften aengaende den oorloge. 16 De Ioden worden genoodt om het feest der Reyniginge te vyeren. 20 Dat Iason van Cyrenen beschreven heeft de oorlogen van Iudas Machabeus, ende sijner broederen, 25 ende dat den autheur van dit boeck het selve in een kort begrijp heeft vervattet.",
+    "text2026": "1 Jeremia vermaant de Joden die weggevoerd waren naar Babylon, de wet van de Heere te onderhouden, 4 en verbergt de tabernakel, ark en altaar. 13 Nehemia verzamelt de heilige geschriften, zoals ook Judas de geschriften over de oorlog. 16 De Joden worden uitgenodigd om het feest van de reiniging te vieren. 20 Dat Jason van Cyrene de oorlogen van Judas Makkabeüs en zijn broers beschreven heeft, 25 en dat de schrijver van dit boek dat in een korte samenvatting heeft samengevat."
+  }
+}

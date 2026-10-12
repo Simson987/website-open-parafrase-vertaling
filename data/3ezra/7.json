@@ -1,0 +1,2882 @@
+{
+  "number": 7,
+  "verses": [
+    {
+      "number": 1,
+      "text1637": "TOEN zijn Sisinnes de ondervoogd in Celo-Syrië en Fenicië, en Sathrabusan en hun metgezellen gehoorzaam geweest aan hetgeen door de koning Darius was verordineerd;",
+      "textSV1888": "TOEN zijn Sisinnes de ondervoogd in Celo-Syrië en Fenicië, en Sathrabusan en hun metgezellen gehoorzaam geweest aan hetgeen door de koning Darius was verordineerd;",
+      "text2026": "TOEN zijn Sisinnes de ondervoogd in Celo-Syrië en Fenicië, en Sathrabusan en hun metgezellen gehoorzaam geweest aan wat door de koning Darius was bestemd;",
+      "marginNotes": [],
+      "text2026_html": "TOEN zijn Sisinnes de ondervoogd in Celo-Syrië en Fenicië, en Sathrabusan en hun metgezellen gehoorzaam geweest aan wat door de koning Darius was bestemd;",
+      "phraseDiff": [
+        {
+          "old": "hetgeen",
+          "new": "wat",
+          "principe": "V4"
+        },
+        {
+          "old": "verordineerd;",
+          "new": "bestemd;",
+          "principe": "V251"
+        }
+      ],
+      "grondtekst": [
+        {
+          "woord": "τότε",
+          "strongs": "G5119",
+          "transliteratie": "tote"
+        },
+        {
+          "woord": "Σισίννης",
+          "transliteratie": "sisinnēs"
+        },
+        {
+          "woord": "ὁ",
+          "strongs": "G3588",
+          "transliteratie": "ho"
+        },
+        {
+          "woord": "ἔπαρχος",
+          "transliteratie": "eparchos"
+        },
+        {
+          "woord": "Κοίλης",
+          "transliteratie": "koilēs"
+        },
+        {
+          "woord": "Συρίας",
+          "strongs": "G4947",
+          "transliteratie": "syrias"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "Φοινίκης",
+          "strongs": "G5403",
+          "transliteratie": "phoinikēs"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "Σαθραβουζάνης",
+          "transliteratie": "sathrabouzanēs"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "οἱ",
+          "strongs": "G3588",
+          "transliteratie": "hoi"
+        },
+        {
+          "woord": "συνέταιροι",
+          "transliteratie": "synetairoi"
+        },
+        {
+          "woord": "κατακολουθήσαντες",
+          "strongs": "G2628",
+          "transliteratie": "katakolouthēsantes"
+        },
+        {
+          "woord": "τοῖς",
+          "strongs": "G3588",
+          "transliteratie": "tois"
+        },
+        {
+          "woord": "ὑπὸ",
+          "strongs": "G5259",
+          "transliteratie": "hypo"
+        },
+        {
+          "woord": "τοῦ",
+          "strongs": "G3588",
+          "transliteratie": "tou"
+        },
+        {
+          "woord": "βασιλέως",
+          "strongs": "G935",
+          "transliteratie": "basileōs"
+        },
+        {
+          "woord": "Δαρείου",
+          "transliteratie": "dareiou"
+        },
+        {
+          "woord": "προσταγεῖσιν",
+          "strongs": "G4367",
+          "transliteratie": "prostageisin"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "Syrië",
+          "voorkomen": 1,
+          "strongs": [
+            "G4947"
+          ],
+          "bronwoorden": [
+            "Συρίας"
+          ],
+          "transliteraties": [
+            "syrias"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "5CC1A8C7C9A0BF47CAC1CC016D446D3AB20AEF308B05DEFEA309EC6CB6C3252A",
+            "referentie": "3EZRA 7:1",
+            "bronindices": [
+              5
+            ],
+            "grondindices": [
+              5
+            ]
+          }
+        },
+        {
+          "tekst": "Fenicië",
+          "voorkomen": 1,
+          "strongs": [
+            "G5403"
+          ],
+          "bronwoorden": [
+            "Φοινίκης"
+          ],
+          "transliteraties": [
+            "phoinikēs"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "5CC1A8C7C9A0BF47CAC1CC016D446D3AB20AEF308B05DEFEA309EC6CB6C3252A",
+            "referentie": "3EZRA 7:1",
+            "bronindices": [
+              7
+            ],
+            "grondindices": [
+              7
+            ]
+          }
+        },
+        {
+          "tekst": "koning",
+          "voorkomen": 1,
+          "strongs": [
+            "G935"
+          ],
+          "bronwoorden": [
+            "βασιλέως"
+          ],
+          "transliteraties": [
+            "basileōs"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "5CC1A8C7C9A0BF47CAC1CC016D446D3AB20AEF308B05DEFEA309EC6CB6C3252A",
+            "referentie": "3EZRA 7:1",
+            "bronindices": [
+              17
+            ],
+            "grondindices": [
+              17
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "text1637": "En hielden vlijtig de hand aan de heilige werken: en waren de oudsten der Joden en de opzieners des tempels behulpzaam.",
+      "textSV1888": "En hielden vlijtig de hand aan de heilige werken: en waren de oudsten der Joden en de opzieners des tempels behulpzaam.",
+      "text2026": "En hielden vlijtig de hand aan de heilige werken: en waren de oudsten van de Joden en de opzichters van de tempel behulpzaam.",
+      "marginNotes": [],
+      "text2026_html": "En hielden vlijtig de hand aan de heilige werken: en waren de oudsten van de Joden en de opzichters van de tempel behulpzaam.",
+      "phraseDiff": [
+        {
+          "old": "der",
+          "new": "van de",
+          "principe": "N2"
+        },
+        {
+          "old": "opzieners des tempels",
+          "new": "opzichters van de tempel",
+          "principe": "V1514"
+        }
+      ],
+      "grondtekst": [
+        {
+          "woord": "ἐπεστάτουν",
+          "transliteratie": "epestatoun"
+        },
+        {
+          "woord": "τῶν",
+          "strongs": "G3588",
+          "transliteratie": "tōn"
+        },
+        {
+          "woord": "ἱερῶν",
+          "strongs": "G2413",
+          "transliteratie": "hierōn"
+        },
+        {
+          "woord": "ἔργων",
+          "strongs": "G2041",
+          "transliteratie": "ergōn"
+        },
+        {
+          "woord": "ἐπιμελέστερον",
+          "strongs": "G1960",
+          "transliteratie": "epimelesteron"
+        },
+        {
+          "woord": "συνεργοῦντες",
+          "strongs": "G4903",
+          "transliteratie": "synergountes"
+        },
+        {
+          "woord": "τοῖς",
+          "strongs": "G3588",
+          "transliteratie": "tois"
+        },
+        {
+          "woord": "πρεσβυτέροις",
+          "strongs": "G4245",
+          "transliteratie": "presbyterois"
+        },
+        {
+          "woord": "τῶν",
+          "strongs": "G3588",
+          "transliteratie": "tōn"
+        },
+        {
+          "woord": "Ιουδαίων",
+          "strongs": "G2453",
+          "transliteratie": "ioudaiōn"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ἱεροστάταις",
+          "transliteratie": "hierostatais"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "text1637": "En de heilige werken gingen gelukkig voort, als de profeten Haggai en Zacharia profeteerden.",
+      "textSV1888": "En de heilige werken gingen gelukkig voort, als de profeten Haggai en Zacharia profeteerden.",
+      "text2026": "En de heilige werken gingen gelukkig voort, als de profeten Haggai en Zacharia profeteerden.",
+      "marginNotes": [],
+      "text2026_html": "En de heilige werken gingen gelukkig voort, als de profeten Haggai en Zacharia profeteerden.",
+      "grondtekst": [
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "εὔοδα",
+          "transliteratie": "euoda"
+        },
+        {
+          "woord": "ἐγίνετο",
+          "strongs": "G1096",
+          "transliteratie": "egineto"
+        },
+        {
+          "woord": "τὰ",
+          "strongs": "G3588",
+          "transliteratie": "ta"
+        },
+        {
+          "woord": "ἱερὰ",
+          "strongs": "G2413",
+          "transliteratie": "hiera"
+        },
+        {
+          "woord": "ἔργα",
+          "strongs": "G2041",
+          "transliteratie": "erga"
+        },
+        {
+          "woord": "προφητευόντων",
+          "strongs": "G4395",
+          "transliteratie": "prophēteuontōn"
+        },
+        {
+          "woord": "Αγγαιου",
+          "transliteratie": "angaiou"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "Ζαχαριου",
+          "strongs": "G2197",
+          "transliteratie": "zachariou"
+        },
+        {
+          "woord": "τῶν",
+          "strongs": "G3588",
+          "transliteratie": "tōn"
+        },
+        {
+          "woord": "προφητῶν",
+          "strongs": "G4396",
+          "transliteratie": "prophētōn"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "text1637": "En zij volbrachten die, door het bevel des Heren de God van Israël, en met goedvinden van Cyrus, en Darius, en Artaxerxes, de koningen van Perzië.",
+      "textSV1888": "En zij volbrachten die, door het bevel des Heren de God van Israël, en met goedvinden van Cyrus, en Darius, en Artaxerxes, de koningen van Perzië.",
+      "text2026": "En zij volbrachten die, door het bevel van de Heere de God van Israël, en met goedvinden van Cyrus, en Darius, en Artaxerxes, de koningen van Perzië.",
+      "marginNotes": [],
+      "text2026_html": "En zij volbrachten die, door het bevel van de Heere de God van Israël, en met goedvinden van Cyrus, en Darius, en Artaxerxes, de koningen van Perzië.",
+      "phraseDiff": [
+        {
+          "old": "des Heren",
+          "new": "van de Heere",
+          "principe": null
+        }
+      ],
+      "grondtekst": [
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "συνετέλεσαν",
+          "strongs": "G4931",
+          "transliteratie": "synetelesan"
+        },
+        {
+          "woord": "ταῦτα",
+          "strongs": "G3778",
+          "transliteratie": "tauta"
+        },
+        {
+          "woord": "διὰ",
+          "strongs": "G1223",
+          "transliteratie": "dia"
+        },
+        {
+          "woord": "προστάγματος",
+          "transliteratie": "prostagmatos"
+        },
+        {
+          "woord": "τοῦ",
+          "strongs": "G3588",
+          "transliteratie": "tou"
+        },
+        {
+          "woord": "κυρίου",
+          "strongs": "G2962",
+          "transliteratie": "kyriou"
+        },
+        {
+          "woord": "θεοῦ",
+          "strongs": "G2316",
+          "transliteratie": "theou"
+        },
+        {
+          "woord": "Ισραηλ",
+          "strongs": "G2474",
+          "transliteratie": "israēl"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "God",
+          "voorkomen": 1,
+          "strongs": [
+            "G2316"
+          ],
+          "bronwoorden": [
+            "θεοῦ"
+          ],
+          "transliteraties": [
+            "theou"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "5CC1A8C7C9A0BF47CAC1CC016D446D3AB20AEF308B05DEFEA309EC6CB6C3252A",
+            "referentie": "3EZRA 7:4",
+            "bronindices": [
+              7
+            ],
+            "grondindices": [
+              7
+            ]
+          }
+        },
+        {
+          "tekst": "Israël",
+          "voorkomen": 1,
+          "strongs": [
+            "G2474"
+          ],
+          "bronwoorden": [
+            "Ισραηλ"
+          ],
+          "transliteraties": [
+            "israēl"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "5CC1A8C7C9A0BF47CAC1CC016D446D3AB20AEF308B05DEFEA309EC6CB6C3252A",
+            "referentie": "3EZRA 7:4",
+            "bronindices": [
+              8
+            ],
+            "grondindices": [
+              8
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "text1637": "Zo werd het heilige huis voltooid tot op de drieëntwintigste dag der maand Adar, in het zesde jaar des konings Darius.",
+      "textSV1888": "Zo werd het heilige huis voltooid tot op de drieëntwintigste dag der maand Adar, in het zesde jaar des konings Darius.",
+      "text2026": "Zo werd het heilige huis voltooid tot op de drieëntwintigste dag van de maand Adar, in het zesde jaar van de koning Darius.",
+      "marginNotes": [],
+      "text2026_html": "Zo werd het heilige huis voltooid tot op de drieëntwintigste dag van de maand Adar, in het zesde jaar van de koning Darius.",
+      "phraseDiff": [
+        {
+          "old": "der",
+          "new": "van de",
+          "principe": "N2"
+        },
+        {
+          "old": "des konings",
+          "new": "van de koning",
+          "principe": "N3"
+        }
+      ],
+      "grondtekst": [
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "μετὰ",
+          "strongs": "G3326",
+          "transliteratie": "meta"
+        },
+        {
+          "woord": "τῆς",
+          "strongs": "G3588",
+          "transliteratie": "tēs"
+        },
+        {
+          "woord": "γνώμης",
+          "strongs": "G1106",
+          "transliteratie": "gnōmēs"
+        },
+        {
+          "woord": "Κύρου",
+          "transliteratie": "kyrou"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "Δαρείου",
+          "transliteratie": "dareiou"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "Ἀρταξέρξου",
+          "transliteratie": "artaxerxou"
+        },
+        {
+          "woord": "βασιλέως",
+          "strongs": "G935",
+          "transliteratie": "basileōs"
+        },
+        {
+          "woord": "Περσῶν",
+          "transliteratie": "persōn"
+        },
+        {
+          "woord": "συνετελέσθη",
+          "strongs": "G4931",
+          "transliteratie": "synetelesthē"
+        },
+        {
+          "woord": "ὁ",
+          "strongs": "G3588",
+          "transliteratie": "ho"
+        },
+        {
+          "woord": "οἶκος",
+          "strongs": "G3624",
+          "transliteratie": "oikos"
+        },
+        {
+          "woord": "ὁ",
+          "strongs": "G3588",
+          "transliteratie": "ho"
+        },
+        {
+          "woord": "ἅγιος",
+          "strongs": "G40",
+          "transliteratie": "hagios"
+        },
+        {
+          "woord": "ἕως",
+          "strongs": "G2193",
+          "transliteratie": "heōs"
+        },
+        {
+          "woord": "τρίτης",
+          "strongs": "G5154",
+          "transliteratie": "tritēs"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "εἰκάδος",
+          "transliteratie": "eikados"
+        },
+        {
+          "woord": "μηνὸς",
+          "strongs": "G3376",
+          "transliteratie": "mēnos"
+        },
+        {
+          "woord": "Αδαρ",
+          "transliteratie": "adar"
+        },
+        {
+          "woord": "τοῦ",
+          "strongs": "G3588",
+          "transliteratie": "tou"
+        },
+        {
+          "woord": "ἕκτου",
+          "strongs": "G1623",
+          "transliteratie": "hektou"
+        },
+        {
+          "woord": "ἔτους",
+          "strongs": "G2094",
+          "transliteratie": "etous"
+        },
+        {
+          "woord": "βασιλέως",
+          "strongs": "G935",
+          "transliteratie": "basileōs"
+        },
+        {
+          "woord": "Δαρείου",
+          "transliteratie": "dareiou"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "huis",
+          "voorkomen": 1,
+          "strongs": [
+            "G3624"
+          ],
+          "bronwoorden": [
+            "οἶκος"
+          ],
+          "transliteraties": [
+            "oikos"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "5CC1A8C7C9A0BF47CAC1CC016D446D3AB20AEF308B05DEFEA309EC6CB6C3252A",
+            "referentie": "3EZRA 7:5",
+            "bronindices": [
+              13
+            ],
+            "grondindices": [
+              13
+            ]
+          }
+        },
+        {
+          "tekst": "maand",
+          "voorkomen": 1,
+          "strongs": [
+            "G3376"
+          ],
+          "bronwoorden": [
+            "μηνὸς"
+          ],
+          "transliteraties": [
+            "mēnos"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "5CC1A8C7C9A0BF47CAC1CC016D446D3AB20AEF308B05DEFEA309EC6CB6C3252A",
+            "referentie": "3EZRA 7:5",
+            "bronindices": [
+              20
+            ],
+            "grondindices": [
+              20
+            ]
+          }
+        },
+        {
+          "tekst": "jaar",
+          "voorkomen": 1,
+          "strongs": [
+            "G2094"
+          ],
+          "bronwoorden": [
+            "ἔτους"
+          ],
+          "transliteraties": [
+            "etous"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "5CC1A8C7C9A0BF47CAC1CC016D446D3AB20AEF308B05DEFEA309EC6CB6C3252A",
+            "referentie": "3EZRA 7:5",
+            "bronindices": [
+              24
+            ],
+            "grondindices": [
+              24
+            ]
+          }
+        },
+        {
+          "tekst": "koning",
+          "voorkomen": 1,
+          "strongs": [
+            "G935"
+          ],
+          "bronwoorden": [
+            "βασιλέως"
+          ],
+          "transliteraties": [
+            "basileōs"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "5CC1A8C7C9A0BF47CAC1CC016D446D3AB20AEF308B05DEFEA309EC6CB6C3252A",
+            "referentie": "3EZRA 7:5",
+            "bronindices": [
+              25
+            ],
+            "grondindices": [
+              25
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "text1637": "En de kinderen Israëls, en de priesters en de Levieten, en de anderen die uit de gevangenis daarbij gevoegd waren, deden volgens hetgeen in het Boek van Mozes geschreven staat;",
+      "textSV1888": "En de kinderen Israëls, en de priesters en de Levieten, en de anderen die uit de gevangenis daarbij gevoegd waren, deden volgens hetgeen in het Boek van Mozes geschreven staat;",
+      "text2026": "En de Israëlieten, en de priesters en de Levieten, en de anderen die uit de gevangenis daarbij gevoegd waren, deden volgens wat in het Boek van Mozes geschreven staat;",
+      "marginNotes": [],
+      "text2026_html": "En de Israëlieten, en de priesters en de Levieten, en de anderen die uit de gevangenis daarbij gevoegd waren, deden volgens wat in het Boek van Mozes geschreven staat;",
+      "phraseDiff": [
+        {
+          "old": "kinderen Israëls,",
+          "new": "Israëlieten,",
+          "principe": null
+        },
+        {
+          "old": "hetgeen",
+          "new": "wat",
+          "principe": "V4"
+        }
+      ],
+      "grondtekst": [
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ἐποίησαν",
+          "strongs": "G4160",
+          "transliteratie": "epoiēsan"
+        },
+        {
+          "woord": "οἱ",
+          "strongs": "G3588",
+          "transliteratie": "hoi"
+        },
+        {
+          "woord": "υἱοὶ",
+          "strongs": "G5207",
+          "transliteratie": "huioi"
+        },
+        {
+          "woord": "Ισραηλ",
+          "strongs": "G2474",
+          "transliteratie": "israēl"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "οἱ",
+          "strongs": "G3588",
+          "transliteratie": "hoi"
+        },
+        {
+          "woord": "ἱερεῖς",
+          "strongs": "G2409",
+          "transliteratie": "hiereis"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "οἱ",
+          "strongs": "G3588",
+          "transliteratie": "hoi"
+        },
+        {
+          "woord": "Λευῖται",
+          "strongs": "G3019",
+          "transliteratie": "leuitai"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "οἱ",
+          "strongs": "G3588",
+          "transliteratie": "hoi"
+        },
+        {
+          "woord": "λοιποὶ",
+          "strongs": "G3062",
+          "transliteratie": "loipoi"
+        },
+        {
+          "woord": "οἱ",
+          "strongs": "G3588",
+          "transliteratie": "hoi"
+        },
+        {
+          "woord": "ἐκ",
+          "strongs": "G1537",
+          "transliteratie": "ek"
+        },
+        {
+          "woord": "τῆς",
+          "strongs": "G3588",
+          "transliteratie": "tēs"
+        },
+        {
+          "woord": "αἰχμαλωσίας",
+          "strongs": "G161",
+          "transliteratie": "aichmalōsias"
+        },
+        {
+          "woord": "οἱ",
+          "strongs": "G3588",
+          "transliteratie": "hoi"
+        },
+        {
+          "woord": "προστεθέντες",
+          "strongs": "G4369",
+          "transliteratie": "prostethentes"
+        },
+        {
+          "woord": "ἀκολούθως",
+          "transliteratie": "akolouthōs"
+        },
+        {
+          "woord": "τοῖς",
+          "strongs": "G3588",
+          "transliteratie": "tois"
+        },
+        {
+          "woord": "ἐν",
+          "strongs": "G1722",
+          "transliteratie": "en"
+        },
+        {
+          "woord": "τῇ",
+          "strongs": "G3588",
+          "transliteratie": "tē"
+        },
+        {
+          "woord": "Μωυσέως",
+          "strongs": "G3475",
+          "transliteratie": "mōyseōs"
+        },
+        {
+          "woord": "βίβλῳ",
+          "strongs": "G976",
+          "transliteratie": "biblō"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "Boek",
+          "voorkomen": 1,
+          "strongs": [
+            "G976"
+          ],
+          "bronwoorden": [
+            "βίβλῳ"
+          ],
+          "transliteraties": [
+            "biblō"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "5CC1A8C7C9A0BF47CAC1CC016D446D3AB20AEF308B05DEFEA309EC6CB6C3252A",
+            "referentie": "3EZRA 7:6",
+            "bronindices": [
+              25
+            ],
+            "grondindices": [
+              25
+            ]
+          }
+        },
+        {
+          "tekst": "Mozes",
+          "voorkomen": 1,
+          "strongs": [
+            "G3475"
+          ],
+          "bronwoorden": [
+            "Μωυσέως"
+          ],
+          "transliteraties": [
+            "mōyseōs"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "5CC1A8C7C9A0BF47CAC1CC016D446D3AB20AEF308B05DEFEA309EC6CB6C3252A",
+            "referentie": "3EZRA 7:6",
+            "bronindices": [
+              24
+            ],
+            "grondindices": [
+              24
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "text1637": "En offerden tot de inwijding van de tempel des Heren honderd stieren, tweehonderd rammen, vierhonderd lammeren;",
+      "textSV1888": "En offerden tot de inwijding van de tempel des Heren honderd stieren, tweehonderd rammen, vierhonderd lammeren;",
+      "text2026": "En offerden tot de inwijding van de tempel van de Heere honderd stieren, tweehonderd rammen, vierhonderd lammeren;",
+      "marginNotes": [],
+      "text2026_html": "En offerden tot de inwijding van de tempel van de Heere honderd stieren, tweehonderd rammen, vierhonderd lammeren;",
+      "phraseDiff": [
+        {
+          "old": "des Heren",
+          "new": "van de Heere",
+          "principe": null
+        }
+      ],
+      "grondtekst": [
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "προσήνεγκαν",
+          "strongs": "G4374",
+          "transliteratie": "prosēnenkan"
+        },
+        {
+          "woord": "εἰς",
+          "strongs": "G1519",
+          "transliteratie": "eis"
+        },
+        {
+          "woord": "τὸν",
+          "strongs": "G3588",
+          "transliteratie": "ton"
+        },
+        {
+          "woord": "ἐγκαινισμὸν",
+          "transliteratie": "enkainismon"
+        },
+        {
+          "woord": "τοῦ",
+          "strongs": "G3588",
+          "transliteratie": "tou"
+        },
+        {
+          "woord": "ἱεροῦ",
+          "strongs": "G2413",
+          "transliteratie": "hierou"
+        },
+        {
+          "woord": "τοῦ",
+          "strongs": "G3588",
+          "transliteratie": "tou"
+        },
+        {
+          "woord": "κυρίου",
+          "strongs": "G2962",
+          "transliteratie": "kyriou"
+        },
+        {
+          "woord": "ταύρους",
+          "strongs": "G5022",
+          "transliteratie": "taurous"
+        },
+        {
+          "woord": "ἑκατόν",
+          "strongs": "G1540",
+          "transliteratie": "hekaton"
+        },
+        {
+          "woord": "κριοὺς",
+          "transliteratie": "krious"
+        },
+        {
+          "woord": "διακοσίους",
+          "strongs": "G1250",
+          "transliteratie": "diakosious"
+        },
+        {
+          "woord": "ἄρνας",
+          "strongs": "G704",
+          "transliteratie": "arnas"
+        },
+        {
+          "woord": "τετρακοσίους",
+          "strongs": "G5071",
+          "transliteratie": "tetrakosious"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "En",
+          "voorkomen": 1,
+          "strongs": [
+            "G2532"
+          ],
+          "bronwoorden": [
+            "καὶ"
+          ],
+          "transliteraties": [
+            "kai"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "5CC1A8C7C9A0BF47CAC1CC016D446D3AB20AEF308B05DEFEA309EC6CB6C3252A",
+            "referentie": "3EZRA 7:7",
+            "bronindices": [
+              0
+            ],
+            "grondindices": [
+              0
+            ]
+          }
+        },
+        {
+          "tekst": "honderd",
+          "voorkomen": 1,
+          "strongs": [
+            "G1540"
+          ],
+          "bronwoorden": [
+            "ἑκατόν"
+          ],
+          "transliteraties": [
+            "hekaton"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "5CC1A8C7C9A0BF47CAC1CC016D446D3AB20AEF308B05DEFEA309EC6CB6C3252A",
+            "referentie": "3EZRA 7:7",
+            "bronindices": [
+              10
+            ],
+            "grondindices": [
+              10
+            ]
+          }
+        },
+        {
+          "tekst": "tweehonderd",
+          "voorkomen": 1,
+          "strongs": [
+            "G1250"
+          ],
+          "bronwoorden": [
+            "διακοσίους"
+          ],
+          "transliteraties": [
+            "diakosious"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "5CC1A8C7C9A0BF47CAC1CC016D446D3AB20AEF308B05DEFEA309EC6CB6C3252A",
+            "referentie": "3EZRA 7:7",
+            "bronindices": [
+              12
+            ],
+            "grondindices": [
+              12
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "text1637": "En voor de zonden des gansen volks Israëls twaalf bokken, naar het getal der oversten van de twaalf geslachten Israëls,",
+      "textSV1888": "En voor de zonden des gansen volks Israëls twaalf bokken, naar het getal der oversten van de twaalf geslachten Israëls,",
+      "text2026": "En voor de zonden van het hele volk van Israël twaalf bokken, naar het getal van de oversten van de twaalf geslachten van Israël,",
+      "marginNotes": [],
+      "text2026_html": "En voor de zonden van het hele volk van Israël twaalf bokken, naar het getal van de oversten van de twaalf geslachten van Israël,",
+      "phraseDiff": [
+        {
+          "old": "des gansen volks Israëls",
+          "new": "van het hele volk van Israël",
+          "principe": "O26"
+        },
+        {
+          "old": "der",
+          "new": "van de",
+          "principe": "N2"
+        },
+        {
+          "old": "Israëls,",
+          "new": "van Israël,",
+          "principe": "O26"
+        }
+      ],
+      "grondtekst": [
+        {
+          "woord": "χιμάρους",
+          "transliteratie": "chimarous"
+        },
+        {
+          "woord": "ὑπὲρ",
+          "strongs": "G5228",
+          "transliteratie": "hyper"
+        },
+        {
+          "woord": "ἁμαρτίας",
+          "strongs": "G266",
+          "transliteratie": "hamartias"
+        },
+        {
+          "woord": "παντὸς",
+          "strongs": "G3956",
+          "transliteratie": "pantos"
+        },
+        {
+          "woord": "τοῦ",
+          "strongs": "G3588",
+          "transliteratie": "tou"
+        },
+        {
+          "woord": "Ισραηλ",
+          "strongs": "G2474",
+          "transliteratie": "israēl"
+        },
+        {
+          "woord": "δώδεκα",
+          "strongs": "G1427",
+          "transliteratie": "dōdeka"
+        },
+        {
+          "woord": "πρὸς",
+          "strongs": "G4314",
+          "transliteratie": "pros"
+        },
+        {
+          "woord": "ἀριθμὸν",
+          "strongs": "G706",
+          "transliteratie": "arithmon"
+        },
+        {
+          "woord": "ἐκ",
+          "strongs": "G1537",
+          "transliteratie": "ek"
+        },
+        {
+          "woord": "τῶν",
+          "strongs": "G3588",
+          "transliteratie": "tōn"
+        },
+        {
+          "woord": "φυλάρχων",
+          "transliteratie": "phylarchōn"
+        },
+        {
+          "woord": "τοῦ",
+          "strongs": "G3588",
+          "transliteratie": "tou"
+        },
+        {
+          "woord": "Ισραηλ",
+          "strongs": "G2474",
+          "transliteratie": "israēl"
+        },
+        {
+          "woord": "δώδεκα",
+          "strongs": "G1427",
+          "transliteratie": "dōdeka"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "getal",
+          "voorkomen": 1,
+          "strongs": [
+            "G706"
+          ],
+          "bronwoorden": [
+            "ἀριθμὸν"
+          ],
+          "transliteraties": [
+            "arithmon"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "5CC1A8C7C9A0BF47CAC1CC016D446D3AB20AEF308B05DEFEA309EC6CB6C3252A",
+            "referentie": "3EZRA 7:8",
+            "bronindices": [
+              8
+            ],
+            "grondindices": [
+              8
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "text1637": "En de priesters en de Levieten stonden naar de geslachten, bekleed met lange klederen, over de werken des Heren, de God Israëls, volgens het boek van Mozes: en de deurwachters stonden aan elke poort.",
+      "textSV1888": "En de priesters en de Levieten stonden naar de geslachten, bekleed met lange klederen, over de werken des Heren, de God Israëls, volgens het boek van Mozes: en de deurwachters stonden aan elke poort.",
+      "text2026": "En de priesters en de Levieten stonden naar de geslachten, bekleed met lange kleren, over de werken van de Heere, de God van Israël, volgens het boek van Mozes: en de deurwachters stonden aan elke poort.",
+      "marginNotes": [],
+      "text2026_html": "En de priesters en de Levieten stonden naar de geslachten, bekleed met lange kleren, over de werken van de Heere, de God van Israël, volgens het boek van Mozes: en de deurwachters stonden aan elke poort.",
+      "phraseDiff": [
+        {
+          "old": "klederen,",
+          "new": "kleren,",
+          "principe": "V68"
+        },
+        {
+          "old": "des Heren,",
+          "new": "van de Heere,",
+          "principe": null
+        },
+        {
+          "old": "Israëls,",
+          "new": "van Israël,",
+          "principe": null
+        }
+      ],
+      "grondtekst": [
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ἔστησαν",
+          "strongs": "G2476",
+          "transliteratie": "estēsan"
+        },
+        {
+          "woord": "οἱ",
+          "strongs": "G3588",
+          "transliteratie": "hoi"
+        },
+        {
+          "woord": "ἱερεῖς",
+          "strongs": "G2409",
+          "transliteratie": "hiereis"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "οἱ",
+          "strongs": "G3588",
+          "transliteratie": "hoi"
+        },
+        {
+          "woord": "Λευῖται",
+          "strongs": "G3019",
+          "transliteratie": "leuitai"
+        },
+        {
+          "woord": "ἐστολισμένοι",
+          "transliteratie": "estolismenoi"
+        },
+        {
+          "woord": "κατὰ",
+          "strongs": "G2596",
+          "transliteratie": "kata"
+        },
+        {
+          "woord": "φυλὰς",
+          "strongs": "G5443",
+          "transliteratie": "phylas"
+        },
+        {
+          "woord": "ἐπὶ",
+          "strongs": "G1909",
+          "transliteratie": "epi"
+        },
+        {
+          "woord": "τῶν",
+          "strongs": "G3588",
+          "transliteratie": "tōn"
+        },
+        {
+          "woord": "ἔργων",
+          "strongs": "G2041",
+          "transliteratie": "ergōn"
+        },
+        {
+          "woord": "τοῦ",
+          "strongs": "G3588",
+          "transliteratie": "tou"
+        },
+        {
+          "woord": "κυρίου",
+          "strongs": "G2962",
+          "transliteratie": "kyriou"
+        },
+        {
+          "woord": "θεοῦ",
+          "strongs": "G2316",
+          "transliteratie": "theou"
+        },
+        {
+          "woord": "Ισραηλ",
+          "strongs": "G2474",
+          "transliteratie": "israēl"
+        },
+        {
+          "woord": "ἀκολούθως",
+          "transliteratie": "akolouthōs"
+        },
+        {
+          "woord": "τῇ",
+          "strongs": "G3588",
+          "transliteratie": "tē"
+        },
+        {
+          "woord": "Μωυσέως",
+          "strongs": "G3475",
+          "transliteratie": "mōyseōs"
+        },
+        {
+          "woord": "βίβλῳ",
+          "strongs": "G976",
+          "transliteratie": "biblō"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "οἱ",
+          "strongs": "G3588",
+          "transliteratie": "hoi"
+        },
+        {
+          "woord": "θυρωροὶ",
+          "strongs": "G2377",
+          "transliteratie": "thyrōroi"
+        },
+        {
+          "woord": "ἐφ᾿",
+          "strongs": "G1909",
+          "transliteratie": "eph᾿"
+        },
+        {
+          "woord": "ἑκάστου",
+          "strongs": "G1538",
+          "transliteratie": "hekastou"
+        },
+        {
+          "woord": "πυλῶνος",
+          "strongs": "G4440",
+          "transliteratie": "pylōnos"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "God",
+          "voorkomen": 1,
+          "strongs": [
+            "G2316"
+          ],
+          "bronwoorden": [
+            "θεοῦ"
+          ],
+          "transliteraties": [
+            "theou"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "5CC1A8C7C9A0BF47CAC1CC016D446D3AB20AEF308B05DEFEA309EC6CB6C3252A",
+            "referentie": "3EZRA 7:9",
+            "bronindices": [
+              15
+            ],
+            "grondindices": [
+              15
+            ]
+          }
+        },
+        {
+          "tekst": "Israël",
+          "voorkomen": 1,
+          "strongs": [
+            "G2474"
+          ],
+          "bronwoorden": [
+            "Ισραηλ"
+          ],
+          "transliteraties": [
+            "israēl"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "5CC1A8C7C9A0BF47CAC1CC016D446D3AB20AEF308B05DEFEA309EC6CB6C3252A",
+            "referentie": "3EZRA 7:9",
+            "bronindices": [
+              16
+            ],
+            "grondindices": [
+              16
+            ]
+          }
+        },
+        {
+          "tekst": "boek",
+          "voorkomen": 1,
+          "strongs": [
+            "G976"
+          ],
+          "bronwoorden": [
+            "βίβλῳ"
+          ],
+          "transliteraties": [
+            "biblō"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "5CC1A8C7C9A0BF47CAC1CC016D446D3AB20AEF308B05DEFEA309EC6CB6C3252A",
+            "referentie": "3EZRA 7:9",
+            "bronindices": [
+              20
+            ],
+            "grondindices": [
+              20
+            ]
+          }
+        },
+        {
+          "tekst": "Mozes",
+          "voorkomen": 1,
+          "strongs": [
+            "G3475"
+          ],
+          "bronwoorden": [
+            "Μωυσέως"
+          ],
+          "transliteraties": [
+            "mōyseōs"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "5CC1A8C7C9A0BF47CAC1CC016D446D3AB20AEF308B05DEFEA309EC6CB6C3252A",
+            "referentie": "3EZRA 7:9",
+            "bronindices": [
+              19
+            ],
+            "grondindices": [
+              19
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "text1637": "En de kinderen Israëls, die uit de gevangenis waren, hielden het Pascha, op de veertiende dag der eerste maand, als de priesters en Levieten geheiligd waren.",
+      "textSV1888": "En de kinderen Israëls, die uit de gevangenis waren, hielden het Pascha, op de veertiende dag der eerste maand, als de priesters en Levieten geheiligd waren.",
+      "text2026": "En de Israëlieten, die uit de gevangenis waren, hielden het Pascha, op de veertiende dag van de eerste maand, als de priesters en Levieten geheiligd waren.",
+      "marginNotes": [],
+      "text2026_html": "En de Israëlieten, die uit de gevangenis waren, hielden het Pascha, op de veertiende dag van de eerste maand, als de priesters en Levieten geheiligd waren.",
+      "phraseDiff": [
+        {
+          "old": "kinderen Israëls,",
+          "new": "Israëlieten,",
+          "principe": null
+        },
+        {
+          "old": "der",
+          "new": "van de",
+          "principe": "N2"
+        }
+      ],
+      "grondtekst": [
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ἠγάγοσαν",
+          "strongs": "G71",
+          "transliteratie": "ēgagosan"
+        },
+        {
+          "woord": "οἱ",
+          "strongs": "G3588",
+          "transliteratie": "hoi"
+        },
+        {
+          "woord": "υἱοὶ",
+          "strongs": "G5207",
+          "transliteratie": "huioi"
+        },
+        {
+          "woord": "Ισραηλ",
+          "strongs": "G2474",
+          "transliteratie": "israēl"
+        },
+        {
+          "woord": "τῶν",
+          "strongs": "G3588",
+          "transliteratie": "tōn"
+        },
+        {
+          "woord": "ἐκ",
+          "strongs": "G1537",
+          "transliteratie": "ek"
+        },
+        {
+          "woord": "τῆς",
+          "strongs": "G3588",
+          "transliteratie": "tēs"
+        },
+        {
+          "woord": "αἰχμαλωσίας",
+          "strongs": "G161",
+          "transliteratie": "aichmalōsias"
+        },
+        {
+          "woord": "τὸ",
+          "strongs": "G3588",
+          "transliteratie": "to"
+        },
+        {
+          "woord": "πασχα",
+          "strongs": "G3957",
+          "transliteratie": "pascha"
+        },
+        {
+          "woord": "ἐν",
+          "strongs": "G1722",
+          "transliteratie": "en"
+        },
+        {
+          "woord": "τῇ",
+          "strongs": "G3588",
+          "transliteratie": "tē"
+        },
+        {
+          "woord": "τεσσαρεσκαιδεκάτῃ",
+          "strongs": "G5065",
+          "transliteratie": "tessareskaidekatē"
+        },
+        {
+          "woord": "τοῦ",
+          "strongs": "G3588",
+          "transliteratie": "tou"
+        },
+        {
+          "woord": "πρώτου",
+          "strongs": "G4413",
+          "transliteratie": "prōtou"
+        },
+        {
+          "woord": "μηνός",
+          "strongs": "G3376",
+          "transliteratie": "mēnos"
+        },
+        {
+          "woord": "ὅτι",
+          "strongs": "G3754",
+          "transliteratie": "hoti"
+        },
+        {
+          "woord": "ἡγνίσθησαν",
+          "strongs": "G48",
+          "transliteratie": "hēgnisthēsan"
+        },
+        {
+          "woord": "οἱ",
+          "strongs": "G3588",
+          "transliteratie": "hoi"
+        },
+        {
+          "woord": "ἱερεῖς",
+          "strongs": "G2409",
+          "transliteratie": "hiereis"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "οἱ",
+          "strongs": "G3588",
+          "transliteratie": "hoi"
+        },
+        {
+          "woord": "Λευῖται",
+          "strongs": "G3019",
+          "transliteratie": "leuitai"
+        },
+        {
+          "woord": "ἅμα",
+          "strongs": "G260",
+          "transliteratie": "hama"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "Pascha",
+          "voorkomen": 1,
+          "strongs": [
+            "G3957"
+          ],
+          "bronwoorden": [
+            "πασχα"
+          ],
+          "transliteraties": [
+            "pascha"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "5CC1A8C7C9A0BF47CAC1CC016D446D3AB20AEF308B05DEFEA309EC6CB6C3252A",
+            "referentie": "3EZRA 7:10",
+            "bronindices": [
+              10
+            ],
+            "grondindices": [
+              10
+            ]
+          }
+        },
+        {
+          "tekst": "veertiende",
+          "voorkomen": 1,
+          "strongs": [
+            "G5065"
+          ],
+          "bronwoorden": [
+            "τεσσαρεσκαιδεκάτῃ"
+          ],
+          "transliteraties": [
+            "tessareskaidekatē"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "5CC1A8C7C9A0BF47CAC1CC016D446D3AB20AEF308B05DEFEA309EC6CB6C3252A",
+            "referentie": "3EZRA 7:10",
+            "bronindices": [
+              13
+            ],
+            "grondindices": [
+              13
+            ]
+          }
+        },
+        {
+          "tekst": "eerste",
+          "voorkomen": 1,
+          "strongs": [
+            "G4413"
+          ],
+          "bronwoorden": [
+            "πρώτου"
+          ],
+          "transliteraties": [
+            "prōtou"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "5CC1A8C7C9A0BF47CAC1CC016D446D3AB20AEF308B05DEFEA309EC6CB6C3252A",
+            "referentie": "3EZRA 7:10",
+            "bronindices": [
+              15
+            ],
+            "grondindices": [
+              15
+            ]
+          }
+        },
+        {
+          "tekst": "maand",
+          "voorkomen": 1,
+          "strongs": [
+            "G3376"
+          ],
+          "bronwoorden": [
+            "μηνός"
+          ],
+          "transliteraties": [
+            "mēnos"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "5CC1A8C7C9A0BF47CAC1CC016D446D3AB20AEF308B05DEFEA309EC6CB6C3252A",
+            "referentie": "3EZRA 7:10",
+            "bronindices": [
+              16
+            ],
+            "grondindices": [
+              16
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "text1637": "Doch al de kinderen Israëls, die uit de gevangenis waren gekomen, waren niet tezamen geheiligd, maar de Levieten waren tezamen geheiligd.",
+      "textSV1888": "Doch al de kinderen Israëls, die uit de gevangenis waren gekomen, waren niet tezamen geheiligd, maar de Levieten waren tezamen geheiligd.",
+      "text2026": "Maar al de Israëlieten, die uit de gevangenis waren gekomen, waren niet samen geheiligd, maar de Levieten waren samen geheiligd.",
+      "marginNotes": [],
+      "text2026_html": "Maar al de Israëlieten, die uit de gevangenis waren gekomen, waren niet samen geheiligd, maar de Levieten waren samen geheiligd.",
+      "phraseDiff": [
+        {
+          "old": "Doch",
+          "new": "Maar",
+          "principe": "V1"
+        },
+        {
+          "old": "kinderen Israëls,",
+          "new": "Israëlieten,",
+          "principe": null
+        },
+        {
+          "old": "tezamen",
+          "new": "samen",
+          "principe": "V374"
+        },
+        {
+          "old": "tezamen",
+          "new": "samen",
+          "principe": "V374"
+        }
+      ],
+      "grondtekst": [
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "πάντες",
+          "strongs": "G3956",
+          "transliteratie": "pantes"
+        },
+        {
+          "woord": "οἱ",
+          "strongs": "G3588",
+          "transliteratie": "hoi"
+        },
+        {
+          "woord": "υἱοὶ",
+          "strongs": "G5207",
+          "transliteratie": "huioi"
+        },
+        {
+          "woord": "τῆς",
+          "strongs": "G3588",
+          "transliteratie": "tēs"
+        },
+        {
+          "woord": "αἰχμαλωσίας",
+          "strongs": "G161",
+          "transliteratie": "aichmalōsias"
+        },
+        {
+          "woord": "οὐχ",
+          "strongs": "G3756",
+          "transliteratie": "ouch"
+        },
+        {
+          "woord": "ἡγνίσθησαν",
+          "strongs": "G48",
+          "transliteratie": "hēgnisthēsan"
+        },
+        {
+          "woord": "ὅτι",
+          "strongs": "G3754",
+          "transliteratie": "hoti"
+        },
+        {
+          "woord": "οἱ",
+          "strongs": "G3588",
+          "transliteratie": "hoi"
+        },
+        {
+          "woord": "Λευῖται",
+          "strongs": "G3019",
+          "transliteratie": "leuitai"
+        },
+        {
+          "woord": "ἅμα",
+          "strongs": "G260",
+          "transliteratie": "hama"
+        },
+        {
+          "woord": "πάντες",
+          "strongs": "G3956",
+          "transliteratie": "pantes"
+        },
+        {
+          "woord": "ἡγνίσθησαν",
+          "strongs": "G48",
+          "transliteratie": "hēgnisthēsan"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "al",
+          "voorkomen": 1,
+          "strongs": [
+            "G3956"
+          ],
+          "bronwoorden": [
+            "πάντες"
+          ],
+          "transliteraties": [
+            "pantes"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "5CC1A8C7C9A0BF47CAC1CC016D446D3AB20AEF308B05DEFEA309EC6CB6C3252A",
+            "referentie": "3EZRA 7:11",
+            "bronindices": [
+              1
+            ],
+            "grondindices": [
+              1
+            ]
+          }
+        },
+        {
+          "tekst": "niet",
+          "voorkomen": 1,
+          "strongs": [
+            "G3756"
+          ],
+          "bronwoorden": [
+            "οὐχ"
+          ],
+          "transliteraties": [
+            "ouch"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "5CC1A8C7C9A0BF47CAC1CC016D446D3AB20AEF308B05DEFEA309EC6CB6C3252A",
+            "referentie": "3EZRA 7:11",
+            "bronindices": [
+              6
+            ],
+            "grondindices": [
+              6
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "text1637": "En zij slachtten het Pascha voor al de kinderen der gevangenis, en voor hun broederen de priesters, en voor zichzelf.",
+      "textSV1888": "En zij slachtten het Pascha voor al de kinderen der gevangenis, en voor hun broederen de priesters, en voor zichzelf.",
+      "text2026": "En zij slachtten het Pascha voor al de kinderen van de gevangenis, en voor hun broers de priesters, en voor zichzelf.",
+      "marginNotes": [],
+      "text2026_html": "En zij slachtten het Pascha voor al de kinderen van de gevangenis, en voor hun broers de priesters, en voor zichzelf.",
+      "phraseDiff": [
+        {
+          "old": "der",
+          "new": "van de",
+          "principe": "N2"
+        },
+        {
+          "old": "broederen",
+          "new": "broers",
+          "principe": "O22b"
+        }
+      ],
+      "grondtekst": [
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ἔθυσαν",
+          "strongs": "G2380",
+          "transliteratie": "ethysan"
+        },
+        {
+          "woord": "τὸ",
+          "strongs": "G3588",
+          "transliteratie": "to"
+        },
+        {
+          "woord": "πασχα",
+          "strongs": "G3957",
+          "transliteratie": "pascha"
+        },
+        {
+          "woord": "πᾶσιν",
+          "strongs": "G3956",
+          "transliteratie": "pasin"
+        },
+        {
+          "woord": "τοῖς",
+          "strongs": "G3588",
+          "transliteratie": "tois"
+        },
+        {
+          "woord": "υἱοῖς",
+          "strongs": "G5207",
+          "transliteratie": "huiois"
+        },
+        {
+          "woord": "τῆς",
+          "strongs": "G3588",
+          "transliteratie": "tēs"
+        },
+        {
+          "woord": "αἰχμαλωσίας",
+          "strongs": "G161",
+          "transliteratie": "aichmalōsias"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "τοῖς",
+          "strongs": "G3588",
+          "transliteratie": "tois"
+        },
+        {
+          "woord": "ἀδελφοῖς",
+          "strongs": "G80",
+          "transliteratie": "adelphois"
+        },
+        {
+          "woord": "αὐτῶν",
+          "strongs": "G846",
+          "transliteratie": "autōn"
+        },
+        {
+          "woord": "τοῖς",
+          "strongs": "G3588",
+          "transliteratie": "tois"
+        },
+        {
+          "woord": "ἱερεῦσιν",
+          "strongs": "G2409",
+          "transliteratie": "hiereusin"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ἑαυτοῖς",
+          "strongs": "G1438",
+          "transliteratie": "heautois"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "Pascha",
+          "voorkomen": 1,
+          "strongs": [
+            "G3957"
+          ],
+          "bronwoorden": [
+            "πασχα"
+          ],
+          "transliteraties": [
+            "pascha"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "5CC1A8C7C9A0BF47CAC1CC016D446D3AB20AEF308B05DEFEA309EC6CB6C3252A",
+            "referentie": "3EZRA 7:12",
+            "bronindices": [
+              3
+            ],
+            "grondindices": [
+              3
+            ]
+          }
+        },
+        {
+          "tekst": "al",
+          "voorkomen": 1,
+          "strongs": [
+            "G3956"
+          ],
+          "bronwoorden": [
+            "πᾶσιν"
+          ],
+          "transliteraties": [
+            "pasin"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "5CC1A8C7C9A0BF47CAC1CC016D446D3AB20AEF308B05DEFEA309EC6CB6C3252A",
+            "referentie": "3EZRA 7:12",
+            "bronindices": [
+              4
+            ],
+            "grondindices": [
+              4
+            ]
+          }
+        },
+        {
+          "tekst": "zichzelf",
+          "voorkomen": 1,
+          "strongs": [
+            "G1438"
+          ],
+          "bronwoorden": [
+            "ἑαυτοῖς"
+          ],
+          "transliteraties": [
+            "heautois"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "5CC1A8C7C9A0BF47CAC1CC016D446D3AB20AEF308B05DEFEA309EC6CB6C3252A",
+            "referentie": "3EZRA 7:12",
+            "bronindices": [
+              16
+            ],
+            "grondindices": [
+              16
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "text1637": "En de kinderen Israëls, die uit de gevangenis waren, aten het Pascha, namelijk al die afgescheiden waren van de gruwelen der volken van het land, en die de Here zochten.",
+      "textSV1888": "En de kinderen Israëls, die uit de gevangenis waren, aten het Pascha, namelijk al die afgescheiden waren van de gruwelen der volken van het land, en die de Here zochten.",
+      "text2026": "En de Israëlieten, die uit de gevangenis waren, aten het Pascha, namelijk al die afgescheiden waren van de gruwelijke dingen van de volken van het land, en die de Heere zochten.",
+      "marginNotes": [],
+      "text2026_html": "En de Israëlieten, die uit de gevangenis waren, aten het Pascha, namelijk al die afgescheiden waren van de gruwelijke dingen van de volken van het land, en die de Heere zochten.",
+      "phraseDiff": [
+        {
+          "old": "kinderen Israëls,",
+          "new": "Israëlieten,",
+          "principe": null
+        },
+        {
+          "old": "gruwelen der",
+          "new": "gruwelijke dingen van de",
+          "principe": "V1524"
+        },
+        {
+          "old": "Here",
+          "new": "Heere",
+          "principe": "V280"
+        }
+      ],
+      "grondtekst": [
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ἐφάγοσαν",
+          "strongs": "G2068",
+          "transliteratie": "ephagosan"
+        },
+        {
+          "woord": "οἱ",
+          "strongs": "G3588",
+          "transliteratie": "hoi"
+        },
+        {
+          "woord": "υἱοὶ",
+          "strongs": "G5207",
+          "transliteratie": "huioi"
+        },
+        {
+          "woord": "Ισραηλ",
+          "strongs": "G2474",
+          "transliteratie": "israēl"
+        },
+        {
+          "woord": "οἱ",
+          "strongs": "G3588",
+          "transliteratie": "hoi"
+        },
+        {
+          "woord": "ἐκ",
+          "strongs": "G1537",
+          "transliteratie": "ek"
+        },
+        {
+          "woord": "τῆς",
+          "strongs": "G3588",
+          "transliteratie": "tēs"
+        },
+        {
+          "woord": "αἰχμαλωσίας",
+          "strongs": "G161",
+          "transliteratie": "aichmalōsias"
+        },
+        {
+          "woord": "πάντες",
+          "strongs": "G3956",
+          "transliteratie": "pantes"
+        },
+        {
+          "woord": "οἱ",
+          "strongs": "G3588",
+          "transliteratie": "hoi"
+        },
+        {
+          "woord": "χωρισθέντες",
+          "strongs": "G5563",
+          "transliteratie": "chōristhentes"
+        },
+        {
+          "woord": "ἀπὸ",
+          "strongs": "G575",
+          "transliteratie": "apo"
+        },
+        {
+          "woord": "τῶν",
+          "strongs": "G3588",
+          "transliteratie": "tōn"
+        },
+        {
+          "woord": "βδελυγμάτων",
+          "strongs": "G946",
+          "transliteratie": "bdelygmatōn"
+        },
+        {
+          "woord": "τῶν",
+          "strongs": "G3588",
+          "transliteratie": "tōn"
+        },
+        {
+          "woord": "ἐθνῶν",
+          "strongs": "G1484",
+          "transliteratie": "ethnōn"
+        },
+        {
+          "woord": "τῆς",
+          "strongs": "G3588",
+          "transliteratie": "tēs"
+        },
+        {
+          "woord": "γῆς",
+          "strongs": "G1093",
+          "transliteratie": "gēs"
+        },
+        {
+          "woord": "ζητοῦντες",
+          "strongs": "G2212",
+          "transliteratie": "zētountes"
+        },
+        {
+          "woord": "τὸν",
+          "strongs": "G3588",
+          "transliteratie": "ton"
+        },
+        {
+          "woord": "κύριον",
+          "strongs": "G2962",
+          "transliteratie": "kyrion"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "al",
+          "voorkomen": 1,
+          "strongs": [
+            "G3956"
+          ],
+          "bronwoorden": [
+            "πάντες"
+          ],
+          "transliteraties": [
+            "pantes"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "5CC1A8C7C9A0BF47CAC1CC016D446D3AB20AEF308B05DEFEA309EC6CB6C3252A",
+            "referentie": "3EZRA 7:13",
+            "bronindices": [
+              9
+            ],
+            "grondindices": [
+              9
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "text1637": "En zij hielden het feest der ongezuurde broden zeven dagen lang, zich verheugende voor de Here;",
+      "textSV1888": "En zij hielden het feest der ongezuurde broden zeven dagen lang, zich verheugende voor de Here;",
+      "text2026": "En zij hielden het feest van de ongezuurde broden zeven dagen lang, zich verheugende voor de Heere;",
+      "marginNotes": [],
+      "text2026_html": "En zij hielden het feest van de ongezuurde broden zeven dagen lang, zich verheugende voor de Heere;",
+      "phraseDiff": [
+        {
+          "old": "der",
+          "new": "van de",
+          "principe": "N2"
+        },
+        {
+          "old": "Here;",
+          "new": "Heere;",
+          "principe": "V280"
+        }
+      ],
+      "grondtekst": [
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ἠγάγοσαν",
+          "strongs": "G71",
+          "transliteratie": "ēgagosan"
+        },
+        {
+          "woord": "τὴν",
+          "strongs": "G3588",
+          "transliteratie": "tēn"
+        },
+        {
+          "woord": "ἑορτὴν",
+          "strongs": "G1859",
+          "transliteratie": "heortēn"
+        },
+        {
+          "woord": "τῶν",
+          "strongs": "G3588",
+          "transliteratie": "tōn"
+        },
+        {
+          "woord": "ἀζύμων",
+          "strongs": "G106",
+          "transliteratie": "azymōn"
+        },
+        {
+          "woord": "ἑπτὰ",
+          "strongs": "G2033",
+          "transliteratie": "hepta"
+        },
+        {
+          "woord": "ἡμέρας",
+          "strongs": "G2250",
+          "transliteratie": "hēmeras"
+        },
+        {
+          "woord": "εὐφραινόμενοι",
+          "strongs": "G2165",
+          "transliteratie": "euphrainomenoi"
+        },
+        {
+          "woord": "ἔναντι",
+          "strongs": "G1725",
+          "transliteratie": "enanti"
+        },
+        {
+          "woord": "τοῦ",
+          "strongs": "G3588",
+          "transliteratie": "tou"
+        },
+        {
+          "woord": "κυρίου",
+          "strongs": "G2962",
+          "transliteratie": "kyriou"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "En",
+          "voorkomen": 1,
+          "strongs": [
+            "G2532"
+          ],
+          "bronwoorden": [
+            "καὶ"
+          ],
+          "transliteraties": [
+            "kai"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "5CC1A8C7C9A0BF47CAC1CC016D446D3AB20AEF308B05DEFEA309EC6CB6C3252A",
+            "referentie": "3EZRA 7:14",
+            "bronindices": [
+              0
+            ],
+            "grondindices": [
+              0
+            ]
+          }
+        },
+        {
+          "tekst": "feest",
+          "voorkomen": 1,
+          "strongs": [
+            "G1859"
+          ],
+          "bronwoorden": [
+            "ἑορτὴν"
+          ],
+          "transliteraties": [
+            "heortēn"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "5CC1A8C7C9A0BF47CAC1CC016D446D3AB20AEF308B05DEFEA309EC6CB6C3252A",
+            "referentie": "3EZRA 7:14",
+            "bronindices": [
+              3
+            ],
+            "grondindices": [
+              3
+            ]
+          }
+        },
+        {
+          "tekst": "ongezuurde",
+          "voorkomen": 1,
+          "strongs": [
+            "G106"
+          ],
+          "bronwoorden": [
+            "ἀζύμων"
+          ],
+          "transliteraties": [
+            "azymōn"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "5CC1A8C7C9A0BF47CAC1CC016D446D3AB20AEF308B05DEFEA309EC6CB6C3252A",
+            "referentie": "3EZRA 7:14",
+            "bronindices": [
+              5
+            ],
+            "grondindices": [
+              5
+            ]
+          }
+        },
+        {
+          "tekst": "zeven",
+          "voorkomen": 1,
+          "strongs": [
+            "G2033"
+          ],
+          "bronwoorden": [
+            "ἑπτὰ"
+          ],
+          "transliteraties": [
+            "hepta"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "5CC1A8C7C9A0BF47CAC1CC016D446D3AB20AEF308B05DEFEA309EC6CB6C3252A",
+            "referentie": "3EZRA 7:14",
+            "bronindices": [
+              6
+            ],
+            "grondindices": [
+              6
+            ]
+          }
+        },
+        {
+          "tekst": "voor",
+          "voorkomen": 1,
+          "strongs": [
+            "G1725"
+          ],
+          "bronwoorden": [
+            "ἔναντι"
+          ],
+          "transliteraties": [
+            "enanti"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "5CC1A8C7C9A0BF47CAC1CC016D446D3AB20AEF308B05DEFEA309EC6CB6C3252A",
+            "referentie": "3EZRA 7:14",
+            "bronindices": [
+              9
+            ],
+            "grondindices": [
+              9
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "text1637": "Omdat Hij de raad van de koning der Assyriërs tot hen had gewend, om hun handen te sterken in de werken des Heren, de God Israëls.",
+      "textSV1888": "Omdat Hij de raad van de koning der Assyriërs tot hen had gewend, om hun handen te sterken in de werken des Heren, de God Israëls.",
+      "text2026": "Omdat hij de raad van de koning van de Assyriërs tot hen had gewend, om hun handen te sterken in de werken van de Heere, de God van Israël.",
+      "marginNotes": [],
+      "text2026_html": "Omdat hij de raad van de koning van de Assyriërs tot hen had gewend, om hun handen te sterken in de werken van de Heere, de God van Israël.",
+      "phraseDiff": [
+        {
+          "old": "Hij",
+          "new": "hij",
+          "principe": null
+        },
+        {
+          "old": "der",
+          "new": "van de",
+          "principe": "N2"
+        },
+        {
+          "old": "des Heren,",
+          "new": "van de Heere,",
+          "principe": null
+        },
+        {
+          "old": "Israëls.",
+          "new": "van Israël.",
+          "principe": null
+        }
+      ],
+      "grondtekst": [
+        {
+          "woord": "ὅτι",
+          "strongs": "G3754",
+          "transliteratie": "hoti"
+        },
+        {
+          "woord": "μετέστρεψεν",
+          "strongs": "G3344",
+          "transliteratie": "metestrepsen"
+        },
+        {
+          "woord": "τὴν",
+          "strongs": "G3588",
+          "transliteratie": "tēn"
+        },
+        {
+          "woord": "βουλὴν",
+          "strongs": "G1012",
+          "transliteratie": "boulēn"
+        },
+        {
+          "woord": "τοῦ",
+          "strongs": "G3588",
+          "transliteratie": "tou"
+        },
+        {
+          "woord": "βασιλέως",
+          "strongs": "G935",
+          "transliteratie": "basileōs"
+        },
+        {
+          "woord": "Ἀσσυρίων",
+          "transliteratie": "assyriōn"
+        },
+        {
+          "woord": "ἐπ᾿",
+          "strongs": "G1909",
+          "transliteratie": "ep᾿"
+        },
+        {
+          "woord": "αὐτοὺς",
+          "strongs": "G846",
+          "transliteratie": "autous"
+        },
+        {
+          "woord": "κατισχῦσαι",
+          "strongs": "G2729",
+          "transliteratie": "katischysai"
+        },
+        {
+          "woord": "τὰς",
+          "strongs": "G3588",
+          "transliteratie": "tas"
+        },
+        {
+          "woord": "χεῖρας",
+          "strongs": "G5495",
+          "transliteratie": "cheiras"
+        },
+        {
+          "woord": "αὐτῶν",
+          "strongs": "G846",
+          "transliteratie": "autōn"
+        },
+        {
+          "woord": "ἐπὶ",
+          "strongs": "G1909",
+          "transliteratie": "epi"
+        },
+        {
+          "woord": "τὰ",
+          "strongs": "G3588",
+          "transliteratie": "ta"
+        },
+        {
+          "woord": "ἔργα",
+          "strongs": "G2041",
+          "transliteratie": "erga"
+        },
+        {
+          "woord": "κυρίου",
+          "strongs": "G2962",
+          "transliteratie": "kyriou"
+        },
+        {
+          "woord": "θεοῦ",
+          "strongs": "G2316",
+          "transliteratie": "theou"
+        },
+        {
+          "woord": "Ισραηλ",
+          "strongs": "G2474",
+          "transliteratie": "israēl"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "hij",
+          "voorkomen": 1,
+          "strongs": [
+            "G3588"
+          ],
+          "bronwoorden": [
+            "τὴν"
+          ],
+          "transliteraties": [
+            "tēn"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "5CC1A8C7C9A0BF47CAC1CC016D446D3AB20AEF308B05DEFEA309EC6CB6C3252A",
+            "referentie": "3EZRA 7:15",
+            "bronindices": [
+              2
+            ],
+            "grondindices": [
+              2
+            ]
+          }
+        },
+        {
+          "tekst": "raad",
+          "voorkomen": 1,
+          "strongs": [
+            "G1012"
+          ],
+          "bronwoorden": [
+            "βουλὴν"
+          ],
+          "transliteraties": [
+            "boulēn"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "5CC1A8C7C9A0BF47CAC1CC016D446D3AB20AEF308B05DEFEA309EC6CB6C3252A",
+            "referentie": "3EZRA 7:15",
+            "bronindices": [
+              3
+            ],
+            "grondindices": [
+              3
+            ]
+          }
+        },
+        {
+          "tekst": "koning",
+          "voorkomen": 1,
+          "strongs": [
+            "G935"
+          ],
+          "bronwoorden": [
+            "βασιλέως"
+          ],
+          "transliteraties": [
+            "basileōs"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "5CC1A8C7C9A0BF47CAC1CC016D446D3AB20AEF308B05DEFEA309EC6CB6C3252A",
+            "referentie": "3EZRA 7:15",
+            "bronindices": [
+              5
+            ],
+            "grondindices": [
+              5
+            ]
+          }
+        },
+        {
+          "tekst": "God",
+          "voorkomen": 1,
+          "strongs": [
+            "G2316"
+          ],
+          "bronwoorden": [
+            "θεοῦ"
+          ],
+          "transliteraties": [
+            "theou"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "5CC1A8C7C9A0BF47CAC1CC016D446D3AB20AEF308B05DEFEA309EC6CB6C3252A",
+            "referentie": "3EZRA 7:15",
+            "bronindices": [
+              17
+            ],
+            "grondindices": [
+              17
+            ]
+          }
+        },
+        {
+          "tekst": "Israël",
+          "voorkomen": 1,
+          "strongs": [
+            "G2474"
+          ],
+          "bronwoorden": [
+            "Ισραηλ"
+          ],
+          "transliteraties": [
+            "israēl"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "5CC1A8C7C9A0BF47CAC1CC016D446D3AB20AEF308B05DEFEA309EC6CB6C3252A",
+            "referentie": "3EZRA 7:15",
+            "bronindices": [
+              18
+            ],
+            "grondindices": [
+              18
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "chapterIntro": {
+    "text1637": "1 Sisinnes ende andere helpen het bouwen des Tempels bevoorderen. 5 De Tempel wordt volbracht, 7 ende ingewijet. 10 De Ioden houden het Pascha, 14 ende verblijden haer in den Heere.",
+    "text2026": "1 Sisinnes en anderen helpen de bouw van de tempel bevorderen. 5 De tempel wordt voltooid, 7 en ingewijd. 10 De Joden houden het pascha, 14 en verblijden zich in de Heere."
+  }
+}

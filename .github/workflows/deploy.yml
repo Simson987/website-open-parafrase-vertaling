@@ -1,0 +1,38 @@
+name: Deploy website
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: deploy-website
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    uses: OpenAEC-Foundation/github/.github/workflows/deploy-site.yml@main
+    with:
+      deploy_host: ${{ vars.DEPLOY_HOST }}
+      deploy_port: ${{ vars.DEPLOY_PORT }}
+      deploy_user: ${{ vars.DEPLOY_USER }}
+      # Eigen map, los van openvertaling.nl. Omdat de laatste map 'site' heet
+      # beheert de gedeelde workflow nginx hier niet: de nginx-site en het
+      # certificaat voor openparafrase.nl worden op de server zelf ingericht.
+      deploy_path: /var/www/openparafrase.nl/site
+      deploy_source: .
+      # Zoekindex uit de parafrase (niet uit de OV-tekst).
+      build_command: python scripts/build_search_index.py --editie nl-opv
+      rsync_excludes: |
+        .git/
+        .github/
+        .claude/
+        tests/
+        docs/
+        data/edities/
+    secrets:
+      deploy_ssh_key: ${{ secrets.DEPLOY_SSH_KEY }}

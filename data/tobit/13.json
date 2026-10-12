@@ -1,0 +1,3546 @@
+{
+  "number": 13,
+  "verses": [
+    {
+      "number": 1,
+      "text1637": "EN Tobias schreef een gebed tot verheuging en sprak:",
+      "textSV1888": "EN Tobias schreef een gebed tot verheuging en sprak:",
+      "text2026": "EN Tobias schreef een gebed tot verheuging en sprak:",
+      "marginNotes": [],
+      "text2026_html": "EN Tobias schreef een gebed tot verheuging en sprak:",
+      "grondtekst": [
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "Τωβιτ",
+          "transliteratie": "tōbit"
+        },
+        {
+          "woord": "ἔγραψεν",
+          "strongs": "G1125",
+          "transliteratie": "egrapsen"
+        },
+        {
+          "woord": "προσευχὴν",
+          "strongs": "G4335",
+          "transliteratie": "proseuchēn"
+        },
+        {
+          "woord": "εἰς",
+          "strongs": "G1519",
+          "transliteratie": "eis"
+        },
+        {
+          "woord": "ἀγαλλίασιν",
+          "strongs": "G20",
+          "transliteratie": "agalliasin"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "εἶπεν",
+          "strongs": "G2036",
+          "transliteratie": "eipen"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "gebed",
+          "voorkomen": 1,
+          "strongs": [
+            "G4335"
+          ],
+          "bronwoorden": [
+            "προσευχὴν"
+          ],
+          "transliteraties": [
+            "proseuchēn"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "5AD5AF6EE25B3229CA756DABD4960048BC4A00C16E31C90677F3CF805A11B106",
+            "referentie": "TOBIT 13:1",
+            "bronindices": [
+              3
+            ],
+            "grondindices": [
+              3
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "text1637": "Geloofd zij God die in der eeuwigheid leeft, en geloofd zij zijn koninkrijk. Want hij kastijdt en ontfermt; hij legt neder in de hel, en brengt er weder uit, en daar is niemand die zijn hand zal ontvluchten.",
+      "textSV1888": "Geloofd zij God die in der eeuwigheid leeft, en geloofd zij zijn koninkrijk. Want hij kastijdt en ontfermt; hij legt neder in de hel, en brengt er weder uit, en daar is niemand die zijn hand zal ontvluchten.",
+      "text2026": "Geloofd zij God die in de eeuwigheid leeft, en geloofd zij Zijn koninkrijk. Want Hij straft en ontfermt; Hij legt neer in het dodenrijk, en brengt er weer uit, en daar is niemand die Zijn hand zal ontvluchten.",
+      "marginNotes": [],
+      "text2026_html": "<span class=\"direct-speech\"><i>Geloofd zij God die in de eeuwigheid leeft, en geloofd zij Zijn koninkrijk. Want Hij straft en ontfermt; Hij legt neer in het dodenrijk, en brengt er weer uit, en daar is niemand die Zijn hand zal ontvluchten.</i></span>",
+      "phraseDiff": [
+        {
+          "old": "der",
+          "new": "de",
+          "principe": "N2"
+        },
+        {
+          "old": "zijn",
+          "new": "Zijn",
+          "principe": null
+        },
+        {
+          "old": "hij kastijdt",
+          "new": "Hij straft",
+          "principe": "V787"
+        },
+        {
+          "old": "hij",
+          "new": "Hij",
+          "principe": null
+        },
+        {
+          "old": "neder",
+          "new": "neer",
+          "principe": "V354"
+        },
+        {
+          "old": "de hel,",
+          "new": "het dodenrijk,",
+          "principe": null
+        },
+        {
+          "old": "weder",
+          "new": "weer",
+          "principe": "V66"
+        },
+        {
+          "old": "zijn",
+          "new": "Zijn",
+          "principe": null
+        }
+      ],
+      "grondtekst": [
+        {
+          "woord": "εὐλογητὸς",
+          "strongs": "G2128",
+          "transliteratie": "eulogētos"
+        },
+        {
+          "woord": "ὁ",
+          "strongs": "G3588",
+          "transliteratie": "ho"
+        },
+        {
+          "woord": "θεὸς",
+          "strongs": "G2316",
+          "transliteratie": "theos"
+        },
+        {
+          "woord": "ὁ",
+          "strongs": "G3588",
+          "transliteratie": "ho"
+        },
+        {
+          "woord": "ζῶν",
+          "strongs": "G2198",
+          "transliteratie": "zōn"
+        },
+        {
+          "woord": "εἰς",
+          "strongs": "G1519",
+          "transliteratie": "eis"
+        },
+        {
+          "woord": "τοὺς",
+          "strongs": "G3588",
+          "transliteratie": "tous"
+        },
+        {
+          "woord": "αἰῶνας",
+          "strongs": "G165",
+          "transliteratie": "aiōnas"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ἡ",
+          "strongs": "G3588",
+          "transliteratie": "hē"
+        },
+        {
+          "woord": "βασιλεία",
+          "strongs": "G932",
+          "transliteratie": "basileia"
+        },
+        {
+          "woord": "αὐτοῦ",
+          "strongs": "G846",
+          "transliteratie": "autou"
+        },
+        {
+          "woord": "ὅτι",
+          "strongs": "G3754",
+          "transliteratie": "hoti"
+        },
+        {
+          "woord": "αὐτὸς",
+          "strongs": "G846",
+          "transliteratie": "autos"
+        },
+        {
+          "woord": "μαστιγοῖ",
+          "strongs": "G3146",
+          "transliteratie": "mastigoi"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ἐλεᾷ",
+          "transliteratie": "elea"
+        },
+        {
+          "woord": "κατάγει",
+          "strongs": "G2609",
+          "transliteratie": "katagei"
+        },
+        {
+          "woord": "εἰς",
+          "strongs": "G1519",
+          "transliteratie": "eis"
+        },
+        {
+          "woord": "ᾅδην",
+          "strongs": "G86",
+          "transliteratie": "hadēn"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ἀνάγει",
+          "strongs": "G321",
+          "transliteratie": "anagei"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "οὐκ",
+          "strongs": "G3756",
+          "transliteratie": "ouk"
+        },
+        {
+          "woord": "ἔστιν",
+          "strongs": "G1510",
+          "transliteratie": "estin"
+        },
+        {
+          "woord": "ὃς",
+          "strongs": "G3739",
+          "transliteratie": "hos"
+        },
+        {
+          "woord": "ἐκφεύξεται",
+          "strongs": "G1628",
+          "transliteratie": "ekpheuxetai"
+        },
+        {
+          "woord": "τὴν",
+          "strongs": "G3588",
+          "transliteratie": "tēn"
+        },
+        {
+          "woord": "χεῖρα",
+          "strongs": "G5495",
+          "transliteratie": "cheira"
+        },
+        {
+          "woord": "αὐτοῦ",
+          "strongs": "G846",
+          "transliteratie": "autou"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "God",
+          "voorkomen": 1,
+          "strongs": [
+            "G2316"
+          ],
+          "bronwoorden": [
+            "θεὸς"
+          ],
+          "transliteraties": [
+            "theos"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "5AD5AF6EE25B3229CA756DABD4960048BC4A00C16E31C90677F3CF805A11B106",
+            "referentie": "TOBIT 13:2",
+            "bronindices": [
+              2
+            ],
+            "grondindices": [
+              2
+            ]
+          }
+        },
+        {
+          "tekst": "eeuwigheid",
+          "voorkomen": 1,
+          "strongs": [
+            "G165"
+          ],
+          "bronwoorden": [
+            "αἰῶνας"
+          ],
+          "transliteraties": [
+            "aiōnas"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "5AD5AF6EE25B3229CA756DABD4960048BC4A00C16E31C90677F3CF805A11B106",
+            "referentie": "TOBIT 13:2",
+            "bronindices": [
+              7
+            ],
+            "grondindices": [
+              7
+            ]
+          }
+        },
+        {
+          "tekst": "hand",
+          "voorkomen": 1,
+          "strongs": [
+            "G5495"
+          ],
+          "bronwoorden": [
+            "χεῖρα"
+          ],
+          "transliteraties": [
+            "cheira"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "5AD5AF6EE25B3229CA756DABD4960048BC4A00C16E31C90677F3CF805A11B106",
+            "referentie": "TOBIT 13:2",
+            "bronindices": [
+              28
+            ],
+            "grondindices": [
+              28
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "text1637": "Dankt hem, gij kinderen Israëls, voor de heidenen, dewijl hij ons onder deze heeft verstrooid; vertoont daar zijn grote heerlijkheid, en verheft hem voor het aanschijn van alles wat leeft, gelijk hij onze Here is, en God onze Vader is in alle eeuwigheid.",
+      "textSV1888": "Dankt hem, gij kinderen Israëls, voor de heidenen, dewijl hij ons onder deze heeft verstrooid; vertoont daar zijn grote heerlijkheid, en verheft hem voor het aanschijn van alles wat leeft, gelijk hij onze Here is, en God onze Vader is in alle eeuwigheid.",
+      "text2026": "Dank Hem, u Israëlieten, voor de heidenen, omdat Hij ons onder deze heeft verstrooid; vertoon daar Zijn grote heerlijkheid, en verheft Hem voor het aangezicht van alles wat leeft, zoals Hij onze Heere is, en God onze Vader is in alle eeuwigheid.",
+      "marginNotes": [],
+      "text2026_html": "<span class=\"direct-speech\"><i>Dank Hem, u Israëlieten, voor de heidenen, omdat Hij ons onder deze heeft verstrooid; vertoon daar Zijn grote heerlijkheid, en verheft Hem voor het aangezicht van alles wat leeft, zoals Hij onze Heere is, en God onze Vader is in alle eeuwigheid.</i></span>",
+      "phraseDiff": [
+        {
+          "old": "Dankt hem, gij kinderen Israëls,",
+          "new": "Dank Hem, u Israëlieten,",
+          "principe": "V1158"
+        },
+        {
+          "old": "dewijl hij",
+          "new": "omdat Hij",
+          "principe": null
+        },
+        {
+          "old": "vertoont",
+          "new": "vertoon",
+          "principe": "V1158"
+        },
+        {
+          "old": "zijn",
+          "new": "Zijn",
+          "principe": null
+        },
+        {
+          "old": "hem",
+          "new": "Hem",
+          "principe": null
+        },
+        {
+          "old": "aanschijn",
+          "new": "aangezicht",
+          "principe": "V465"
+        },
+        {
+          "old": "gelijk hij",
+          "new": "zoals Hij",
+          "principe": null
+        },
+        {
+          "old": "Here",
+          "new": "Heere",
+          "principe": null
+        }
+      ],
+      "grondtekst": [
+        {
+          "woord": "ἐξομολογεῖσθε",
+          "strongs": "G1843",
+          "transliteratie": "exomologeisthe"
+        },
+        {
+          "woord": "αὐτῷ",
+          "strongs": "G846",
+          "transliteratie": "autō"
+        },
+        {
+          "woord": "οἱ",
+          "strongs": "G3588",
+          "transliteratie": "hoi"
+        },
+        {
+          "woord": "υἱοὶ",
+          "strongs": "G5207",
+          "transliteratie": "huioi"
+        },
+        {
+          "woord": "Ισραηλ",
+          "strongs": "G2474",
+          "transliteratie": "israēl"
+        },
+        {
+          "woord": "ἐνώπιον",
+          "strongs": "G1799",
+          "transliteratie": "enōpion"
+        },
+        {
+          "woord": "τῶν",
+          "strongs": "G3588",
+          "transliteratie": "tōn"
+        },
+        {
+          "woord": "ἐθνῶν",
+          "strongs": "G1484",
+          "transliteratie": "ethnōn"
+        },
+        {
+          "woord": "ὅτι",
+          "strongs": "G3754",
+          "transliteratie": "hoti"
+        },
+        {
+          "woord": "αὐτὸς",
+          "strongs": "G846",
+          "transliteratie": "autos"
+        },
+        {
+          "woord": "διέσπειρεν",
+          "strongs": "G1289",
+          "transliteratie": "diespeiren"
+        },
+        {
+          "woord": "ἡμᾶς",
+          "strongs": "G2248",
+          "transliteratie": "hēmas"
+        },
+        {
+          "woord": "ἐν",
+          "strongs": "G1722",
+          "transliteratie": "en"
+        },
+        {
+          "woord": "αὐτοῖς",
+          "strongs": "G846",
+          "transliteratie": "autois"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "aangezicht",
+          "voorkomen": 1,
+          "strongs": [
+            "G1799"
+          ],
+          "bronwoorden": [
+            "ἐνώπιον"
+          ],
+          "transliteraties": [
+            "enōpion"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "5AD5AF6EE25B3229CA756DABD4960048BC4A00C16E31C90677F3CF805A11B106",
+            "referentie": "TOBIT 13:3",
+            "bronindices": [
+              5
+            ],
+            "grondindices": [
+              5
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "text1637": "Hij zal ons kastijden in onze ongerechtigheden, en zal zich weder onzer ontfermen, en zal ons bijeenvergaderen uit alle volken, onder welke hij ons verstrooid heeft. Zo gij tot hem wederkeert met geheel uw hart, en met geheel uw ziel, om oprechtheid voor zijn aanschijn te bewijzen, dan zal hij tot ulieden wederkeren, en zal zijn aangezicht voor u niet verbergen, en gij zult aanschouwen hetgeen hij met u doen zal;",
+      "textSV1888": "Hij zal ons kastijden in onze ongerechtigheden, en zal zich weder onzer ontfermen, en zal ons bijeenvergaderen uit alle volken, onder welke hij ons verstrooid heeft. Zo gij tot hem wederkeert met geheel uw hart, en met geheel uw ziel, om oprechtheid voor zijn aanschijn te bewijzen, dan zal hij tot ulieden wederkeren, en zal zijn aangezicht voor u niet verbergen, en gij zult aanschouwen hetgeen hij met u doen zal;",
+      "text2026": "Hij zal ons straffen in onze ongerechtigheden, en zal Zich weer over ons ontfermen, en zal ons bijeenvergaderen uit alle volken, onder wie Hij ons verstrooid heeft. Zo u tot Hem terugkeert met geheel uw hart, en met geheel uw ziel, om oprechtheid voor Zijn aangezicht te bewijzen, dan zal Hij tot u terugkeren, en zal Zijn aangezicht voor u niet verbergen, en u zult aanschouwen wat Hij met u doen zal;",
+      "marginNotes": [],
+      "text2026_html": "<span class=\"direct-speech\"><i>Hij zal ons straffen in onze ongerechtigheden, en zal Zich weer over ons ontfermen, en zal ons bijeenvergaderen uit alle volken, onder wie Hij ons verstrooid heeft. Zo u tot Hem terugkeert met geheel uw hart, en met geheel uw ziel, om oprechtheid voor Zijn aangezicht te bewijzen, dan zal Hij tot u terugkeren, en zal Zijn aangezicht voor u niet verbergen, en u zult aanschouwen wat Hij met u doen zal;</i></span>",
+      "phraseDiff": [
+        {
+          "old": "kastijden",
+          "new": "straffen",
+          "principe": "V787"
+        },
+        {
+          "old": "zich weder onzer",
+          "new": "Zich weer over ons",
+          "principe": null
+        },
+        {
+          "old": "welke hij",
+          "new": "wie Hij",
+          "principe": null
+        },
+        {
+          "old": "gij",
+          "new": "u",
+          "principe": "A1"
+        },
+        {
+          "old": "hem wederkeert",
+          "new": "Hem terugkeert",
+          "principe": null
+        },
+        {
+          "old": "zijn aanschijn",
+          "new": "Zijn aangezicht",
+          "principe": null
+        },
+        {
+          "old": "hij",
+          "new": "Hij",
+          "principe": null
+        },
+        {
+          "old": "ulieden wederkeren,",
+          "new": "u terugkeren,",
+          "principe": "A2"
+        },
+        {
+          "old": "zijn",
+          "new": "Zijn",
+          "principe": null
+        },
+        {
+          "old": "gij",
+          "new": "u",
+          "principe": "A1"
+        },
+        {
+          "old": "hetgeen hij",
+          "new": "wat Hij",
+          "principe": null
+        }
+      ],
+      "grondtekst": [
+        {
+          "woord": "ἐκεῖ",
+          "strongs": "G1563",
+          "transliteratie": "ekei"
+        },
+        {
+          "woord": "ὑποδείξατε",
+          "strongs": "G5263",
+          "transliteratie": "hypodeixate"
+        },
+        {
+          "woord": "τὴν",
+          "strongs": "G3588",
+          "transliteratie": "tēn"
+        },
+        {
+          "woord": "μεγαλωσύνην",
+          "strongs": "G3172",
+          "transliteratie": "megalōsynēn"
+        },
+        {
+          "woord": "αὐτοῦ",
+          "strongs": "G846",
+          "transliteratie": "autou"
+        },
+        {
+          "woord": "ὑψοῦτε",
+          "strongs": "G5312",
+          "transliteratie": "hypsoute"
+        },
+        {
+          "woord": "αὐτὸν",
+          "strongs": "G846",
+          "transliteratie": "auton"
+        },
+        {
+          "woord": "ἐνώπιον",
+          "strongs": "G1799",
+          "transliteratie": "enōpion"
+        },
+        {
+          "woord": "παντὸς",
+          "strongs": "G3956",
+          "transliteratie": "pantos"
+        },
+        {
+          "woord": "ζῶντος",
+          "strongs": "G2198",
+          "transliteratie": "zōntos"
+        },
+        {
+          "woord": "καθότι",
+          "strongs": "G2530",
+          "transliteratie": "kathoti"
+        },
+        {
+          "woord": "αὐτὸς",
+          "strongs": "G846",
+          "transliteratie": "autos"
+        },
+        {
+          "woord": "κύριος",
+          "strongs": "G2962",
+          "transliteratie": "kyrios"
+        },
+        {
+          "woord": "ἡμῶν",
+          "strongs": "G2257",
+          "transliteratie": "hēmōn"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "θεός",
+          "strongs": "G2316",
+          "transliteratie": "theos"
+        },
+        {
+          "woord": "αὐτὸς",
+          "strongs": "G846",
+          "transliteratie": "autos"
+        },
+        {
+          "woord": "πατὴρ",
+          "strongs": "G3962",
+          "transliteratie": "patēr"
+        },
+        {
+          "woord": "ἡμῶν",
+          "strongs": "G2257",
+          "transliteratie": "hēmōn"
+        },
+        {
+          "woord": "εἰς",
+          "strongs": "G1519",
+          "transliteratie": "eis"
+        },
+        {
+          "woord": "πάντας",
+          "strongs": "G3956",
+          "transliteratie": "pantas"
+        },
+        {
+          "woord": "τοὺς",
+          "strongs": "G3588",
+          "transliteratie": "tous"
+        },
+        {
+          "woord": "αἰῶνας",
+          "strongs": "G165",
+          "transliteratie": "aiōnas"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "text1637": "En zult hem danken met geheel uw mond, en gij zult de Here der gerechtigheid loven, en zult de Koning der eeuwigheid verheffen.",
+      "textSV1888": "En zult hem danken met geheel uw mond, en gij zult de Here der gerechtigheid loven, en zult de Koning der eeuwigheid verheffen.",
+      "text2026": "En zult Hem danken met geheel uw mond, en u zult de Heere van de gerechtigheid loven, en zult de Koning van de eeuwigheid verheffen.",
+      "marginNotes": [],
+      "text2026_html": "<span class=\"direct-speech\"><i>En zult Hem danken met geheel uw mond, en u zult de Heere van de gerechtigheid loven, en zult de Koning van de eeuwigheid verheffen.</i></span>",
+      "phraseDiff": [
+        {
+          "old": "hem",
+          "new": "Hem",
+          "principe": null
+        },
+        {
+          "old": "gij",
+          "new": "u",
+          "principe": "A1"
+        },
+        {
+          "old": "Here der",
+          "new": "Heere van de",
+          "principe": null
+        },
+        {
+          "old": "der",
+          "new": "van de",
+          "principe": "N2"
+        }
+      ],
+      "grondtekst": [
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "μαστιγώσει",
+          "strongs": "G3146",
+          "transliteratie": "mastigōsei"
+        },
+        {
+          "woord": "ἡμᾶς",
+          "strongs": "G2248",
+          "transliteratie": "hēmas"
+        },
+        {
+          "woord": "ἐν",
+          "strongs": "G1722",
+          "transliteratie": "en"
+        },
+        {
+          "woord": "ταῖς",
+          "strongs": "G3588",
+          "transliteratie": "tais"
+        },
+        {
+          "woord": "ἀδικίαις",
+          "strongs": "G93",
+          "transliteratie": "adikiais"
+        },
+        {
+          "woord": "ἡμῶν",
+          "strongs": "G2257",
+          "transliteratie": "hēmōn"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "πάλιν",
+          "strongs": "G3825",
+          "transliteratie": "palin"
+        },
+        {
+          "woord": "ἐλεήσει",
+          "strongs": "G1653",
+          "transliteratie": "eleēsei"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "συνάξει",
+          "strongs": "G4863",
+          "transliteratie": "synaxei"
+        },
+        {
+          "woord": "ἡμᾶς",
+          "strongs": "G2248",
+          "transliteratie": "hēmas"
+        },
+        {
+          "woord": "ἐκ",
+          "strongs": "G1537",
+          "transliteratie": "ek"
+        },
+        {
+          "woord": "πάντων",
+          "strongs": "G3956",
+          "transliteratie": "pantōn"
+        },
+        {
+          "woord": "τῶν",
+          "strongs": "G3588",
+          "transliteratie": "tōn"
+        },
+        {
+          "woord": "ἐθνῶν",
+          "strongs": "G1484",
+          "transliteratie": "ethnōn"
+        },
+        {
+          "woord": "οὗ",
+          "strongs": "G3739",
+          "transliteratie": "hou"
+        },
+        {
+          "woord": "ἐὰν",
+          "strongs": "G1437",
+          "transliteratie": "ean"
+        },
+        {
+          "woord": "σκορπισθῆτε",
+          "strongs": "G4650",
+          "transliteratie": "skorpisthēte"
+        },
+        {
+          "woord": "ἐν",
+          "strongs": "G1722",
+          "transliteratie": "en"
+        },
+        {
+          "woord": "αὐτοῖς",
+          "strongs": "G846",
+          "transliteratie": "autois"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "text1637": "Ik nu zal in het land mijner gevangenis hem openlijk belijden, en zal zijn kracht en grote heerlijkheid het zondige volk vertonen.",
+      "textSV1888": "Ik nu zal in het land mijner gevangenis hem openlijk belijden, en zal zijn kracht en grote heerlijkheid het zondige volk vertonen.",
+      "text2026": "Ik nu zal in het land van mijn gevangenis Hem openlijk belijden, en zal Zijn kracht en grote heerlijkheid aan het zondige volk vertonen.",
+      "marginNotes": [],
+      "text2026_html": "<span class=\"direct-speech\"><i>Ik nu zal in het land van mijn gevangenis Hem openlijk belijden, en zal Zijn kracht en grote heerlijkheid aan het zondige volk vertonen.</i></span>",
+      "phraseDiff": [
+        {
+          "old": "mijner",
+          "new": "van mijn",
+          "principe": "N7"
+        },
+        {
+          "old": "hem",
+          "new": "Hem",
+          "principe": null
+        },
+        {
+          "old": "zijn",
+          "new": "Zijn",
+          "principe": null
+        },
+        {
+          "old": "",
+          "new": "aan",
+          "principe": null
+        }
+      ],
+      "grondtekst": [
+        {
+          "woord": "ἐὰν",
+          "strongs": "G1437",
+          "transliteratie": "ean"
+        },
+        {
+          "woord": "ἐπιστρέψητε",
+          "strongs": "G1994",
+          "transliteratie": "epistrepsēte"
+        },
+        {
+          "woord": "πρὸς",
+          "strongs": "G4314",
+          "transliteratie": "pros"
+        },
+        {
+          "woord": "αὐτὸν",
+          "strongs": "G846",
+          "transliteratie": "auton"
+        },
+        {
+          "woord": "ἐν",
+          "strongs": "G1722",
+          "transliteratie": "en"
+        },
+        {
+          "woord": "ὅλῃ",
+          "strongs": "G3650",
+          "transliteratie": "holē"
+        },
+        {
+          "woord": "καρδίᾳ",
+          "strongs": "G2588",
+          "transliteratie": "kardia"
+        },
+        {
+          "woord": "ὑμῶν",
+          "strongs": "G5216",
+          "transliteratie": "hymōn"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ἐν",
+          "strongs": "G1722",
+          "transliteratie": "en"
+        },
+        {
+          "woord": "ὅλῃ",
+          "strongs": "G3650",
+          "transliteratie": "holē"
+        },
+        {
+          "woord": "τῇ",
+          "strongs": "G3588",
+          "transliteratie": "tē"
+        },
+        {
+          "woord": "ψυχῇ",
+          "strongs": "G5590",
+          "transliteratie": "psychē"
+        },
+        {
+          "woord": "ποιῆσαι",
+          "strongs": "G4160",
+          "transliteratie": "poiēsai"
+        },
+        {
+          "woord": "ἐνώπιον",
+          "strongs": "G1799",
+          "transliteratie": "enōpion"
+        },
+        {
+          "woord": "αὐτοῦ",
+          "strongs": "G846",
+          "transliteratie": "autou"
+        },
+        {
+          "woord": "ἀλήθειαν",
+          "strongs": "G225",
+          "transliteratie": "alētheian"
+        },
+        {
+          "woord": "τότε",
+          "strongs": "G5119",
+          "transliteratie": "tote"
+        },
+        {
+          "woord": "ἐπιστρέψει",
+          "strongs": "G1994",
+          "transliteratie": "epistrepsei"
+        },
+        {
+          "woord": "πρὸς",
+          "strongs": "G4314",
+          "transliteratie": "pros"
+        },
+        {
+          "woord": "ὑμᾶς",
+          "strongs": "G5209",
+          "transliteratie": "hymas"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "οὐ",
+          "strongs": "G3756",
+          "transliteratie": "ou"
+        },
+        {
+          "woord": "μὴ",
+          "strongs": "G3361",
+          "transliteratie": "mē"
+        },
+        {
+          "woord": "κρύψῃ",
+          "strongs": "G2928",
+          "transliteratie": "krypsē"
+        },
+        {
+          "woord": "τὸ",
+          "strongs": "G3588",
+          "transliteratie": "to"
+        },
+        {
+          "woord": "πρόσωπον",
+          "strongs": "G4383",
+          "transliteratie": "prosōpon"
+        },
+        {
+          "woord": "αὐτοῦ",
+          "strongs": "G846",
+          "transliteratie": "autou"
+        },
+        {
+          "woord": "ἀφ᾿",
+          "strongs": "G575",
+          "transliteratie": "aph᾿"
+        },
+        {
+          "woord": "ὑμῶν",
+          "strongs": "G5216",
+          "transliteratie": "hymōn"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "van",
+          "voorkomen": 1,
+          "strongs": [
+            "G575"
+          ],
+          "bronwoorden": [
+            "ἀφ᾿"
+          ],
+          "transliteraties": [
+            "aph᾿"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "5AD5AF6EE25B3229CA756DABD4960048BC4A00C16E31C90677F3CF805A11B106",
+            "referentie": "TOBIT 13:6",
+            "bronindices": [
+              28
+            ],
+            "grondindices": [
+              28
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "text1637": "Keert weder gij zondaars, en doet gerechtigheid voor zijn aanschijn; wie weet het, of hij lust tot u kreeg, en u barmhartigheid bewees?",
+      "textSV1888": "Keert weder gij zondaars, en doet gerechtigheid voor zijn aanschijn; wie weet het, of hij lust tot u kreeg, en u barmhartigheid bewees?",
+      "text2026": "Keer weer, u zondaars, en doet gerechtigheid voor Zijn aangezicht; wie weet het, of Hij lust tot u kreeg, en u barmhartigheid bewees?",
+      "marginNotes": [],
+      "text2026_html": "<span class=\"direct-speech\"><i>Keer weer, u zondaars, en doet gerechtigheid voor Zijn aangezicht; wie weet het, of Hij lust tot u kreeg, en u barmhartigheid bewees?</i></span>",
+      "phraseDiff": [
+        {
+          "old": "Keert weder gij",
+          "new": "Keer weer, u",
+          "principe": "V1158"
+        },
+        {
+          "old": "zijn aanschijn;",
+          "new": "Zijn aangezicht;",
+          "principe": null
+        },
+        {
+          "old": "hij",
+          "new": "Hij",
+          "principe": null
+        }
+      ],
+      "grondtekst": [
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "θεάσασθε",
+          "strongs": "G2300",
+          "transliteratie": "theasasthe"
+        },
+        {
+          "woord": "ἃ",
+          "strongs": "G3739",
+          "transliteratie": "ha"
+        },
+        {
+          "woord": "ποιήσει",
+          "strongs": "G4160",
+          "transliteratie": "poiēsei"
+        },
+        {
+          "woord": "μεθ᾿",
+          "strongs": "G3326",
+          "transliteratie": "meth᾿"
+        },
+        {
+          "woord": "ὑμῶν",
+          "strongs": "G5216",
+          "transliteratie": "hymōn"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ἐξομολογήσασθε",
+          "strongs": "G1843",
+          "transliteratie": "exomologēsasthe"
+        },
+        {
+          "woord": "αὐτῷ",
+          "strongs": "G846",
+          "transliteratie": "autō"
+        },
+        {
+          "woord": "ἐν",
+          "strongs": "G1722",
+          "transliteratie": "en"
+        },
+        {
+          "woord": "ὅλῳ",
+          "strongs": "G3650",
+          "transliteratie": "holō"
+        },
+        {
+          "woord": "τῷ",
+          "strongs": "G3588",
+          "transliteratie": "tō"
+        },
+        {
+          "woord": "στόματι",
+          "strongs": "G4750",
+          "transliteratie": "stomati"
+        },
+        {
+          "woord": "ὑμῶν",
+          "strongs": "G5216",
+          "transliteratie": "hymōn"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "εὐλογήσατε",
+          "strongs": "G2127",
+          "transliteratie": "eulogēsate"
+        },
+        {
+          "woord": "τὸν",
+          "strongs": "G3588",
+          "transliteratie": "ton"
+        },
+        {
+          "woord": "κύριον",
+          "strongs": "G2962",
+          "transliteratie": "kyrion"
+        },
+        {
+          "woord": "τῆς",
+          "strongs": "G3588",
+          "transliteratie": "tēs"
+        },
+        {
+          "woord": "δικαιοσύνης",
+          "strongs": "G1343",
+          "transliteratie": "dikaiosynēs"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ὑψώσατε",
+          "strongs": "G5312",
+          "transliteratie": "hypsōsate"
+        },
+        {
+          "woord": "τὸν",
+          "strongs": "G3588",
+          "transliteratie": "ton"
+        },
+        {
+          "woord": "βασιλέα",
+          "strongs": "G935",
+          "transliteratie": "basilea"
+        },
+        {
+          "woord": "τῶν",
+          "strongs": "G3588",
+          "transliteratie": "tōn"
+        },
+        {
+          "woord": "αἰώνων",
+          "strongs": "G165",
+          "transliteratie": "aiōnōn"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "Hij",
+          "voorkomen": 1,
+          "strongs": [
+            "G3588"
+          ],
+          "bronwoorden": [
+            "τῷ"
+          ],
+          "transliteraties": [
+            "tō"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "5AD5AF6EE25B3229CA756DABD4960048BC4A00C16E31C90677F3CF805A11B106",
+            "referentie": "TOBIT 13:7",
+            "bronindices": [
+              11
+            ],
+            "grondindices": [
+              11
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "text1637": "Ik zal mijn God verheffen, en mijn ziel zal de Koning des hemels loven, en zijn grote heerlijkheid met vreugde zingen.",
+      "textSV1888": "Ik zal mijn God verheffen, en mijn ziel zal de Koning des hemels loven, en zijn grote heerlijkheid met vreugde zingen.",
+      "text2026": "Ik zal mijn God verheffen, en mijn ziel zal de Koning van de hemel loven, en Zijn grote heerlijkheid met vreugde zingen.",
+      "marginNotes": [],
+      "text2026_html": "<span class=\"direct-speech\"><i>Ik zal mijn God verheffen, en mijn ziel zal de Koning van de hemel loven, en Zijn grote heerlijkheid met vreugde zingen.</i></span>",
+      "phraseDiff": [
+        {
+          "old": "des hemels",
+          "new": "van de hemel",
+          "principe": "N3"
+        },
+        {
+          "old": "zijn",
+          "new": "Zijn",
+          "principe": null
+        }
+      ],
+      "grondtekst": [
+        {
+          "woord": "ἐγὼ",
+          "strongs": "G1473",
+          "transliteratie": "egō"
+        },
+        {
+          "woord": "ἐν",
+          "strongs": "G1722",
+          "transliteratie": "en"
+        },
+        {
+          "woord": "τῇ",
+          "strongs": "G3588",
+          "transliteratie": "tē"
+        },
+        {
+          "woord": "γῇ",
+          "strongs": "G1093",
+          "transliteratie": "gē"
+        },
+        {
+          "woord": "τῆς",
+          "strongs": "G3588",
+          "transliteratie": "tēs"
+        },
+        {
+          "woord": "αἰχμαλωσίας",
+          "strongs": "G161",
+          "transliteratie": "aichmalōsias"
+        },
+        {
+          "woord": "μου",
+          "strongs": "G3450",
+          "transliteratie": "mou"
+        },
+        {
+          "woord": "ἐξομολογοῦμαι",
+          "strongs": "G1843",
+          "transliteratie": "exomologoumai"
+        },
+        {
+          "woord": "αὐτῷ",
+          "strongs": "G846",
+          "transliteratie": "autō"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "δεικνύω",
+          "strongs": "G1166",
+          "transliteratie": "deiknyō"
+        },
+        {
+          "woord": "τὴν",
+          "strongs": "G3588",
+          "transliteratie": "tēn"
+        },
+        {
+          "woord": "ἰσχὺν",
+          "strongs": "G2479",
+          "transliteratie": "ischyn"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "τὴν",
+          "strongs": "G3588",
+          "transliteratie": "tēn"
+        },
+        {
+          "woord": "μεγαλωσύνην",
+          "strongs": "G3172",
+          "transliteratie": "megalōsynēn"
+        },
+        {
+          "woord": "αὐτοῦ",
+          "strongs": "G846",
+          "transliteratie": "autou"
+        },
+        {
+          "woord": "ἔθνει",
+          "strongs": "G1484",
+          "transliteratie": "ethnei"
+        },
+        {
+          "woord": "ἁμαρτωλῶν",
+          "strongs": "G268",
+          "transliteratie": "hamartōlōn"
+        },
+        {
+          "woord": "ἐπιστρέψατε",
+          "strongs": "G1994",
+          "transliteratie": "epistrepsate"
+        },
+        {
+          "woord": "ἁμαρτωλοί",
+          "strongs": "G268",
+          "transliteratie": "hamartōloi"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ποιήσατε",
+          "strongs": "G4160",
+          "transliteratie": "poiēsate"
+        },
+        {
+          "woord": "δικαιοσύνην",
+          "strongs": "G1343",
+          "transliteratie": "dikaiosynēn"
+        },
+        {
+          "woord": "ἐνώπιον",
+          "strongs": "G1799",
+          "transliteratie": "enōpion"
+        },
+        {
+          "woord": "αὐτοῦ",
+          "strongs": "G846",
+          "transliteratie": "autou"
+        },
+        {
+          "woord": "τίς",
+          "strongs": "G5101",
+          "transliteratie": "tis"
+        },
+        {
+          "woord": "γινώσκει",
+          "strongs": "G1097",
+          "transliteratie": "ginōskei"
+        },
+        {
+          "woord": "εἰ",
+          "strongs": "G1487",
+          "transliteratie": "ei"
+        },
+        {
+          "woord": "θελήσει",
+          "strongs": "G2309",
+          "transliteratie": "thelēsei"
+        },
+        {
+          "woord": "ὑμᾶς",
+          "strongs": "G5209",
+          "transliteratie": "hymas"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ποιήσει",
+          "strongs": "G4160",
+          "transliteratie": "poiēsei"
+        },
+        {
+          "woord": "ἐλεημοσύνην",
+          "strongs": "G1654",
+          "transliteratie": "eleēmosynēn"
+        },
+        {
+          "woord": "ὑμῖν",
+          "strongs": "G5213",
+          "transliteratie": "hymin"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "Ik",
+          "voorkomen": 1,
+          "strongs": [
+            "G1473"
+          ],
+          "bronwoorden": [
+            "ἐγὼ"
+          ],
+          "transliteraties": [
+            "egō"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "5AD5AF6EE25B3229CA756DABD4960048BC4A00C16E31C90677F3CF805A11B106",
+            "referentie": "TOBIT 13:8",
+            "bronindices": [
+              0
+            ],
+            "grondindices": [
+              0
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "text1637": "Dat een ieder spreke, en hem dankzegge in gerechtigheid.",
+      "textSV1888": "Dat een ieder spreke, en hem dankzegge in gerechtigheid.",
+      "text2026": "Dat een ieder spreke, en Hem dankzegge in gerechtigheid.",
+      "marginNotes": [],
+      "text2026_html": "<span class=\"direct-speech\"><i>Dat een ieder spreke, en Hem dankzegge in gerechtigheid.</i></span>",
+      "grondtekst": [
+        {
+          "woord": "τὸν",
+          "strongs": "G3588",
+          "transliteratie": "ton"
+        },
+        {
+          "woord": "θεόν",
+          "strongs": "G2316",
+          "transliteratie": "theon"
+        },
+        {
+          "woord": "μου",
+          "strongs": "G3450",
+          "transliteratie": "mou"
+        },
+        {
+          "woord": "ὑψῶ",
+          "strongs": "G5312",
+          "transliteratie": "hypsō"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ἡ",
+          "strongs": "G3588",
+          "transliteratie": "hē"
+        },
+        {
+          "woord": "ψυχή",
+          "strongs": "G5590",
+          "transliteratie": "psychē"
+        },
+        {
+          "woord": "μου",
+          "strongs": "G3450",
+          "transliteratie": "mou"
+        },
+        {
+          "woord": "τὸν",
+          "strongs": "G3588",
+          "transliteratie": "ton"
+        },
+        {
+          "woord": "βασιλέα",
+          "strongs": "G935",
+          "transliteratie": "basilea"
+        },
+        {
+          "woord": "τοῦ",
+          "strongs": "G3588",
+          "transliteratie": "tou"
+        },
+        {
+          "woord": "οὐρανοῦ",
+          "strongs": "G3772",
+          "transliteratie": "ouranou"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ἀγαλλιάσεται",
+          "strongs": "G21",
+          "transliteratie": "agalliasetai"
+        },
+        {
+          "woord": "τὴν",
+          "strongs": "G3588",
+          "transliteratie": "tēn"
+        },
+        {
+          "woord": "μεγαλωσύνην",
+          "strongs": "G3172",
+          "transliteratie": "megalōsynēn"
+        },
+        {
+          "woord": "αὐτοῦ",
+          "strongs": "G846",
+          "transliteratie": "autou"
+        }
+      ],
+      "phraseDiff": [
+        {
+          "old": "hem",
+          "new": "Hem",
+          "principe": null
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "en",
+          "voorkomen": 1,
+          "strongs": [
+            "G2532"
+          ],
+          "bronwoorden": [
+            "καὶ"
+          ],
+          "transliteraties": [
+            "kai"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "5AD5AF6EE25B3229CA756DABD4960048BC4A00C16E31C90677F3CF805A11B106",
+            "referentie": "TOBIT 13:9",
+            "bronindices": [
+              4
+            ],
+            "grondindices": [
+              4
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "text1637": "Jeruzalem, gij heilige stad, hij zal u kastijden over de werken uwer kinderen, en hij zal zich weder ontfermen over de kinderen der rechtvaardigen.",
+      "textSV1888": "Jeruzalem, gij heilige stad, hij zal u kastijden over de werken uwer kinderen, en hij zal zich weder ontfermen over de kinderen der rechtvaardigen.",
+      "text2026": "Jeruzalem, u heilige stad, Hij zal u straffen over de werken van uw kinderen, en Hij zal Zich weer ontfermen over de kinderen van de rechtvaardigen.",
+      "marginNotes": [],
+      "text2026_html": "<span class=\"direct-speech\"><i>Jeruzalem, u heilige stad, Hij zal u straffen over de werken van uw kinderen, en Hij zal Zich weer ontfermen over de kinderen van de rechtvaardigen.</i></span>",
+      "phraseDiff": [
+        {
+          "old": "gij",
+          "new": "u",
+          "principe": "A1"
+        },
+        {
+          "old": "hij",
+          "new": "Hij",
+          "principe": null
+        },
+        {
+          "old": "kastijden",
+          "new": "straffen",
+          "principe": "V787"
+        },
+        {
+          "old": "uwer",
+          "new": "van uw",
+          "principe": "N7"
+        },
+        {
+          "old": "hij",
+          "new": "Hij",
+          "principe": null
+        },
+        {
+          "old": "zich weder",
+          "new": "Zich weer",
+          "principe": null
+        },
+        {
+          "old": "der",
+          "new": "van de",
+          "principe": "N2"
+        }
+      ],
+      "grondtekst": [
+        {
+          "woord": "λεγέτωσαν",
+          "strongs": "G3004",
+          "transliteratie": "legetōsan"
+        },
+        {
+          "woord": "πάντες",
+          "strongs": "G3956",
+          "transliteratie": "pantes"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ἐξομολογείσθωσαν",
+          "strongs": "G1843",
+          "transliteratie": "exomologeisthōsan"
+        },
+        {
+          "woord": "αὐτῷ",
+          "strongs": "G846",
+          "transliteratie": "autō"
+        },
+        {
+          "woord": "ἐν",
+          "strongs": "G1722",
+          "transliteratie": "en"
+        },
+        {
+          "woord": "Ιεροσολύμοις",
+          "strongs": "G2419",
+          "transliteratie": "ierosolymois"
+        },
+        {
+          "woord": "Ιεροσόλυμα",
+          "strongs": "G2414",
+          "transliteratie": "ierosolyma"
+        },
+        {
+          "woord": "πόλις",
+          "strongs": "G4172",
+          "transliteratie": "polis"
+        },
+        {
+          "woord": "ἁγία",
+          "strongs": "G40",
+          "transliteratie": "hagia"
+        },
+        {
+          "woord": "μαστιγώσει",
+          "strongs": "G3146",
+          "transliteratie": "mastigōsei"
+        },
+        {
+          "woord": "ἐπὶ",
+          "strongs": "G1909",
+          "transliteratie": "epi"
+        },
+        {
+          "woord": "τὰ",
+          "strongs": "G3588",
+          "transliteratie": "ta"
+        },
+        {
+          "woord": "ἔργα",
+          "strongs": "G2041",
+          "transliteratie": "erga"
+        },
+        {
+          "woord": "τῶν",
+          "strongs": "G3588",
+          "transliteratie": "tōn"
+        },
+        {
+          "woord": "υἱῶν",
+          "strongs": "G5207",
+          "transliteratie": "huiōn"
+        },
+        {
+          "woord": "σου",
+          "strongs": "G4675",
+          "transliteratie": "sou"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "πάλιν",
+          "strongs": "G3825",
+          "transliteratie": "palin"
+        },
+        {
+          "woord": "ἐλεήσει",
+          "strongs": "G1653",
+          "transliteratie": "eleēsei"
+        },
+        {
+          "woord": "τοὺς",
+          "strongs": "G3588",
+          "transliteratie": "tous"
+        },
+        {
+          "woord": "υἱοὺς",
+          "strongs": "G5207",
+          "transliteratie": "huious"
+        },
+        {
+          "woord": "τῶν",
+          "strongs": "G3588",
+          "transliteratie": "tōn"
+        },
+        {
+          "woord": "δικαίων",
+          "strongs": "G1342",
+          "transliteratie": "dikaiōn"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "Jeruzalem",
+          "voorkomen": 1,
+          "strongs": [
+            "G2414"
+          ],
+          "bronwoorden": [
+            "Ιεροσόλυμα"
+          ],
+          "transliteraties": [
+            "ierosolyma"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "5AD5AF6EE25B3229CA756DABD4960048BC4A00C16E31C90677F3CF805A11B106",
+            "referentie": "TOBIT 13:10",
+            "bronindices": [
+              7
+            ],
+            "grondindices": [
+              7
+            ]
+          }
+        },
+        {
+          "tekst": "stad",
+          "voorkomen": 1,
+          "strongs": [
+            "G4172"
+          ],
+          "bronwoorden": [
+            "πόλις"
+          ],
+          "transliteraties": [
+            "polis"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "5AD5AF6EE25B3229CA756DABD4960048BC4A00C16E31C90677F3CF805A11B106",
+            "referentie": "TOBIT 13:10",
+            "bronindices": [
+              8
+            ],
+            "grondindices": [
+              8
+            ]
+          }
+        },
+        {
+          "tekst": "en",
+          "voorkomen": 1,
+          "strongs": [
+            "G2532"
+          ],
+          "bronwoorden": [
+            "καὶ"
+          ],
+          "transliteraties": [
+            "kai"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "5AD5AF6EE25B3229CA756DABD4960048BC4A00C16E31C90677F3CF805A11B106",
+            "referentie": "TOBIT 13:10",
+            "bronindices": [
+              17
+            ],
+            "grondindices": [
+              17
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "text1637": "Dankt de Here, want hij is goed, en looft de Koning der eeuwigheid, opdat zijn tabernakel weder met vreugde in u mag gebouwd worden;",
+      "textSV1888": "Dankt de Here, want hij is goed, en looft de Koning der eeuwigheid, opdat zijn tabernakel weder met vreugde in u mag gebouwd worden;",
+      "text2026": "Dank de Heere, want Hij is goed, en looft de Koning van de eeuwigheid, opdat Zijn tabernakel weer met vreugde in u mag gebouwd worden;",
+      "marginNotes": [],
+      "text2026_html": "<span class=\"direct-speech\"><i>Dank de Heere, want Hij is goed, en looft de Koning van de eeuwigheid, opdat Zijn tabernakel weer met vreugde in u mag gebouwd worden;</i></span>",
+      "phraseDiff": [
+        {
+          "old": "Dankt",
+          "new": "Dank",
+          "principe": "V1158"
+        },
+        {
+          "old": "Here,",
+          "new": "Heere,",
+          "principe": null
+        },
+        {
+          "old": "hij",
+          "new": "Hij",
+          "principe": null
+        },
+        {
+          "old": "der",
+          "new": "van de",
+          "principe": "N2"
+        },
+        {
+          "old": "zijn",
+          "new": "Zijn",
+          "principe": null
+        },
+        {
+          "old": "weder",
+          "new": "weer",
+          "principe": "V66"
+        }
+      ],
+      "grondtekst": [
+        {
+          "woord": "ἐξομολογοῦ",
+          "strongs": "G1843",
+          "transliteratie": "exomologou"
+        },
+        {
+          "woord": "τῷ",
+          "strongs": "G3588",
+          "transliteratie": "tō"
+        },
+        {
+          "woord": "κυρίῳ",
+          "strongs": "G2962",
+          "transliteratie": "kyriō"
+        },
+        {
+          "woord": "ἀγαθῶς",
+          "transliteratie": "agathōs"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "εὐλόγει",
+          "strongs": "G2127",
+          "transliteratie": "eulogei"
+        },
+        {
+          "woord": "τὸν",
+          "strongs": "G3588",
+          "transliteratie": "ton"
+        },
+        {
+          "woord": "βασιλέα",
+          "strongs": "G935",
+          "transliteratie": "basilea"
+        },
+        {
+          "woord": "τῶν",
+          "strongs": "G3588",
+          "transliteratie": "tōn"
+        },
+        {
+          "woord": "αἰώνων",
+          "strongs": "G165",
+          "transliteratie": "aiōnōn"
+        },
+        {
+          "woord": "ἵνα",
+          "strongs": "G2443",
+          "transliteratie": "hina"
+        },
+        {
+          "woord": "πάλιν",
+          "strongs": "G3825",
+          "transliteratie": "palin"
+        },
+        {
+          "woord": "ἡ",
+          "strongs": "G3588",
+          "transliteratie": "hē"
+        },
+        {
+          "woord": "σκηνὴ",
+          "strongs": "G4633",
+          "transliteratie": "skēnē"
+        },
+        {
+          "woord": "αὐτοῦ",
+          "strongs": "G846",
+          "transliteratie": "autou"
+        },
+        {
+          "woord": "οἰκοδομηθῇ",
+          "strongs": "G3618",
+          "transliteratie": "oikodomēthē"
+        },
+        {
+          "woord": "σοι",
+          "strongs": "G4671",
+          "transliteratie": "soi"
+        },
+        {
+          "woord": "μετὰ",
+          "strongs": "G3326",
+          "transliteratie": "meta"
+        },
+        {
+          "woord": "χαρᾶς",
+          "strongs": "G5479",
+          "transliteratie": "charas"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "Hij",
+          "voorkomen": 1,
+          "strongs": [
+            "G3588"
+          ],
+          "bronwoorden": [
+            "τῷ"
+          ],
+          "transliteraties": [
+            "tō"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "5AD5AF6EE25B3229CA756DABD4960048BC4A00C16E31C90677F3CF805A11B106",
+            "referentie": "TOBIT 13:11",
+            "bronindices": [
+              1
+            ],
+            "grondindices": [
+              1
+            ]
+          }
+        },
+        {
+          "tekst": "goed",
+          "voorkomen": 1,
+          "strongs": [
+            "G2127"
+          ],
+          "bronwoorden": [
+            "εὐλόγει"
+          ],
+          "transliteraties": [
+            "eulogei"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "5AD5AF6EE25B3229CA756DABD4960048BC4A00C16E31C90677F3CF805A11B106",
+            "referentie": "TOBIT 13:11",
+            "bronindices": [
+              5
+            ],
+            "grondindices": [
+              5
+            ]
+          }
+        },
+        {
+          "tekst": "en",
+          "voorkomen": 1,
+          "strongs": [
+            "G2532"
+          ],
+          "bronwoorden": [
+            "καὶ"
+          ],
+          "transliteraties": [
+            "kai"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "5AD5AF6EE25B3229CA756DABD4960048BC4A00C16E31C90677F3CF805A11B106",
+            "referentie": "TOBIT 13:11",
+            "bronindices": [
+              4
+            ],
+            "grondindices": [
+              4
+            ]
+          }
+        },
+        {
+          "tekst": "Koning",
+          "voorkomen": 1,
+          "strongs": [
+            "G935"
+          ],
+          "bronwoorden": [
+            "βασιλέα"
+          ],
+          "transliteraties": [
+            "basilea"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "5AD5AF6EE25B3229CA756DABD4960048BC4A00C16E31C90677F3CF805A11B106",
+            "referentie": "TOBIT 13:11",
+            "bronindices": [
+              7
+            ],
+            "grondindices": [
+              7
+            ]
+          }
+        },
+        {
+          "tekst": "eeuwigheid",
+          "voorkomen": 1,
+          "strongs": [
+            "G165"
+          ],
+          "bronwoorden": [
+            "αἰώνων"
+          ],
+          "transliteraties": [
+            "aiōnōn"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "5AD5AF6EE25B3229CA756DABD4960048BC4A00C16E31C90677F3CF805A11B106",
+            "referentie": "TOBIT 13:11",
+            "bronindices": [
+              9
+            ],
+            "grondindices": [
+              9
+            ]
+          }
+        },
+        {
+          "tekst": "tabernakel",
+          "voorkomen": 1,
+          "strongs": [
+            "G4633"
+          ],
+          "bronwoorden": [
+            "σκηνὴ"
+          ],
+          "transliteraties": [
+            "skēnē"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "5AD5AF6EE25B3229CA756DABD4960048BC4A00C16E31C90677F3CF805A11B106",
+            "referentie": "TOBIT 13:11",
+            "bronindices": [
+              13
+            ],
+            "grondindices": [
+              13
+            ]
+          }
+        },
+        {
+          "tekst": "vreugde",
+          "voorkomen": 1,
+          "strongs": [
+            "G5479"
+          ],
+          "bronwoorden": [
+            "χαρᾶς"
+          ],
+          "transliteraties": [
+            "charas"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "5AD5AF6EE25B3229CA756DABD4960048BC4A00C16E31C90677F3CF805A11B106",
+            "referentie": "TOBIT 13:11",
+            "bronindices": [
+              18
+            ],
+            "grondindices": [
+              18
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "text1637": "En hij de gevangenen in u verheuge, en de ellendigen in u liefhebbe, in alle geslachten der wereld.",
+      "textSV1888": "En hij de gevangenen in u verheuge, en de ellendigen in u liefhebbe, in alle geslachten der wereld.",
+      "text2026": "En Hij de gevangenen in u verheuge, en de ellendigen in u liefhebbe, in alle geslachten van de wereld.",
+      "marginNotes": [],
+      "text2026_html": "<span class=\"direct-speech\"><i>En Hij de gevangenen in u verheuge, en de ellendigen in u liefhebbe, in alle geslachten van de wereld.</i></span>",
+      "phraseDiff": [
+        {
+          "old": "hij",
+          "new": "Hij",
+          "principe": null
+        },
+        {
+          "old": "der",
+          "new": "van de",
+          "principe": "N2"
+        }
+      ],
+      "grondtekst": [
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "εὐφράναι",
+          "strongs": "G2165",
+          "transliteratie": "euphranai"
+        },
+        {
+          "woord": "ἐν",
+          "strongs": "G1722",
+          "transliteratie": "en"
+        },
+        {
+          "woord": "σοὶ",
+          "strongs": "G4671",
+          "transliteratie": "soi"
+        },
+        {
+          "woord": "τοὺς",
+          "strongs": "G3588",
+          "transliteratie": "tous"
+        },
+        {
+          "woord": "αἰχμαλώτους",
+          "strongs": "G164",
+          "transliteratie": "aichmalōtous"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ἀγαπήσαι",
+          "strongs": "G25",
+          "transliteratie": "agapēsai"
+        },
+        {
+          "woord": "ἐν",
+          "strongs": "G1722",
+          "transliteratie": "en"
+        },
+        {
+          "woord": "σοὶ",
+          "strongs": "G4671",
+          "transliteratie": "soi"
+        },
+        {
+          "woord": "τοὺς",
+          "strongs": "G3588",
+          "transliteratie": "tous"
+        },
+        {
+          "woord": "ταλαιπώρους",
+          "strongs": "G5005",
+          "transliteratie": "talaipōrous"
+        },
+        {
+          "woord": "εἰς",
+          "strongs": "G1519",
+          "transliteratie": "eis"
+        },
+        {
+          "woord": "πάσας",
+          "strongs": "G3956",
+          "transliteratie": "pasas"
+        },
+        {
+          "woord": "τὰς",
+          "strongs": "G3588",
+          "transliteratie": "tas"
+        },
+        {
+          "woord": "γενεὰς",
+          "strongs": "G1074",
+          "transliteratie": "geneas"
+        },
+        {
+          "woord": "τοῦ",
+          "strongs": "G3588",
+          "transliteratie": "tou"
+        },
+        {
+          "woord": "αἰῶνος",
+          "strongs": "G165",
+          "transliteratie": "aiōnos"
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "text1637": "Vele volken zullen van verre komen tot de naam Gods, des Heren, hebbende gaven in hun handen, en dat, gaven voor de Koning des hemels. Alle geslachten na elkander zullen u prijzen, en zullen u vervrolijking toebrengen.",
+      "textSV1888": "Vele volken zullen van verre komen tot de naam Gods, des Heren, hebbende gaven in hun handen, en dat, gaven voor de Koning des hemels. Alle geslachten na elkander zullen u prijzen, en zullen u vervrolijking toebrengen.",
+      "text2026": "Vele volken zullen van verre komen tot de naam van God, van de Heere, hebbende gaven in hun handen, en dat, gaven voor de Koning van de hemel. Alle geslachten na elkaar zullen u prijzen, en zullen u vervrolijking toebrengen.",
+      "marginNotes": [],
+      "text2026_html": "<span class=\"direct-speech\"><i>Vele volken zullen van verre komen tot de naam van God, van de Heere, hebbende gaven in hun handen, en dat, gaven voor de Koning van de hemel. Alle geslachten na elkaar zullen u prijzen, en zullen u vervrolijking toebrengen.</i></span>",
+      "phraseDiff": [
+        {
+          "old": "Gods, des Heren,",
+          "new": "van God, van de Heere,",
+          "principe": null
+        },
+        {
+          "old": "des hemels.",
+          "new": "van de hemel.",
+          "principe": "N3"
+        },
+        {
+          "old": "elkander",
+          "new": "elkaar",
+          "principe": "V65"
+        }
+      ],
+      "grondtekst": [
+        {
+          "woord": "ἔθνη",
+          "strongs": "G1484",
+          "transliteratie": "ethnē"
+        },
+        {
+          "woord": "πολλὰ",
+          "strongs": "G4183",
+          "transliteratie": "polla"
+        },
+        {
+          "woord": "μακρόθεν",
+          "strongs": "G3113",
+          "transliteratie": "makrothen"
+        },
+        {
+          "woord": "ἥξει",
+          "strongs": "G2240",
+          "transliteratie": "hēxei"
+        },
+        {
+          "woord": "πρὸς",
+          "strongs": "G4314",
+          "transliteratie": "pros"
+        },
+        {
+          "woord": "τὸ",
+          "strongs": "G3588",
+          "transliteratie": "to"
+        },
+        {
+          "woord": "ὄνομα",
+          "strongs": "G3686",
+          "transliteratie": "onoma"
+        },
+        {
+          "woord": "κυρίου",
+          "strongs": "G2962",
+          "transliteratie": "kyriou"
+        },
+        {
+          "woord": "τοῦ",
+          "strongs": "G3588",
+          "transliteratie": "tou"
+        },
+        {
+          "woord": "θεοῦ",
+          "strongs": "G2316",
+          "transliteratie": "theou"
+        },
+        {
+          "woord": "δῶρα",
+          "strongs": "G1435",
+          "transliteratie": "dōra"
+        },
+        {
+          "woord": "ἐν",
+          "strongs": "G1722",
+          "transliteratie": "en"
+        },
+        {
+          "woord": "χερσὶν",
+          "strongs": "G5495",
+          "transliteratie": "chersin"
+        },
+        {
+          "woord": "ἔχοντες",
+          "strongs": "G2192",
+          "transliteratie": "echontes"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "δῶρα",
+          "strongs": "G1435",
+          "transliteratie": "dōra"
+        },
+        {
+          "woord": "τῷ",
+          "strongs": "G3588",
+          "transliteratie": "tō"
+        },
+        {
+          "woord": "βασιλεῖ",
+          "strongs": "G935",
+          "transliteratie": "basilei"
+        },
+        {
+          "woord": "τοῦ",
+          "strongs": "G3588",
+          "transliteratie": "tou"
+        },
+        {
+          "woord": "οὐρανοῦ",
+          "strongs": "G3772",
+          "transliteratie": "ouranou"
+        },
+        {
+          "woord": "γενεαὶ",
+          "strongs": "G1074",
+          "transliteratie": "geneai"
+        },
+        {
+          "woord": "γενεῶν",
+          "strongs": "G1074",
+          "transliteratie": "geneōn"
+        },
+        {
+          "woord": "δώσουσίν",
+          "strongs": "G1325",
+          "transliteratie": "dōsousin"
+        },
+        {
+          "woord": "σοι",
+          "strongs": "G4671",
+          "transliteratie": "soi"
+        },
+        {
+          "woord": "ἀγαλλίαμα",
+          "transliteratie": "agalliama"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "verre",
+          "voorkomen": 1,
+          "strongs": [
+            "G3113"
+          ],
+          "bronwoorden": [
+            "μακρόθεν"
+          ],
+          "transliteraties": [
+            "makrothen"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "5AD5AF6EE25B3229CA756DABD4960048BC4A00C16E31C90677F3CF805A11B106",
+            "referentie": "TOBIT 13:13",
+            "bronindices": [
+              2
+            ],
+            "grondindices": [
+              2
+            ]
+          }
+        },
+        {
+          "tekst": "naam",
+          "voorkomen": 1,
+          "strongs": [
+            "G3686"
+          ],
+          "bronwoorden": [
+            "ὄνομα"
+          ],
+          "transliteraties": [
+            "onoma"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "5AD5AF6EE25B3229CA756DABD4960048BC4A00C16E31C90677F3CF805A11B106",
+            "referentie": "TOBIT 13:13",
+            "bronindices": [
+              6
+            ],
+            "grondindices": [
+              6
+            ]
+          }
+        },
+        {
+          "tekst": "God",
+          "voorkomen": 1,
+          "strongs": [
+            "G2316"
+          ],
+          "bronwoorden": [
+            "θεοῦ"
+          ],
+          "transliteraties": [
+            "theou"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "5AD5AF6EE25B3229CA756DABD4960048BC4A00C16E31C90677F3CF805A11B106",
+            "referentie": "TOBIT 13:13",
+            "bronindices": [
+              9
+            ],
+            "grondindices": [
+              9
+            ]
+          }
+        },
+        {
+          "tekst": "Koning",
+          "voorkomen": 1,
+          "strongs": [
+            "G935"
+          ],
+          "bronwoorden": [
+            "βασιλεῖ"
+          ],
+          "transliteraties": [
+            "basilei"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "5AD5AF6EE25B3229CA756DABD4960048BC4A00C16E31C90677F3CF805A11B106",
+            "referentie": "TOBIT 13:13",
+            "bronindices": [
+              17
+            ],
+            "grondindices": [
+              17
+            ]
+          }
+        },
+        {
+          "tekst": "hemel",
+          "voorkomen": 1,
+          "strongs": [
+            "G3772"
+          ],
+          "bronwoorden": [
+            "οὐρανοῦ"
+          ],
+          "transliteraties": [
+            "ouranou"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "5AD5AF6EE25B3229CA756DABD4960048BC4A00C16E31C90677F3CF805A11B106",
+            "referentie": "TOBIT 13:13",
+            "bronindices": [
+              19
+            ],
+            "grondindices": [
+              19
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "text1637": "Vervloekt moeten zij allen zijn, die u haten; gezegend daarentegen zullen zij allen zijn, die u liefhebben, in eeuwigheid.",
+      "textSV1888": "Vervloekt moeten zij allen zijn, die u haten; gezegend daarentegen zullen zij allen zijn, die u liefhebben, in eeuwigheid.",
+      "text2026": "Vervloekt moeten zij allen zijn, die u haten; gezegend daarentegen zullen zij allen zijn, die u liefhebben, in eeuwigheid.",
+      "marginNotes": [],
+      "text2026_html": "<span class=\"direct-speech\"><i>Vervloekt moeten zij allen zijn, die u haten; gezegend daarentegen zullen zij allen zijn, die u liefhebben, in eeuwigheid.</i></span>",
+      "grondtekst": [
+        {
+          "woord": "ἐπικατάρατοι",
+          "strongs": "G1944",
+          "transliteratie": "epikataratoi"
+        },
+        {
+          "woord": "πάντες",
+          "strongs": "G3956",
+          "transliteratie": "pantes"
+        },
+        {
+          "woord": "οἱ",
+          "strongs": "G3588",
+          "transliteratie": "hoi"
+        },
+        {
+          "woord": "μισοῦντές",
+          "strongs": "G3404",
+          "transliteratie": "misountes"
+        },
+        {
+          "woord": "σε",
+          "strongs": "G4571",
+          "transliteratie": "se"
+        },
+        {
+          "woord": "εὐλογημένοι",
+          "strongs": "G2127",
+          "transliteratie": "eulogēmenoi"
+        },
+        {
+          "woord": "ἔσονται",
+          "strongs": "G1510",
+          "transliteratie": "esontai"
+        },
+        {
+          "woord": "πάντες",
+          "strongs": "G3956",
+          "transliteratie": "pantes"
+        },
+        {
+          "woord": "οἱ",
+          "strongs": "G3588",
+          "transliteratie": "hoi"
+        },
+        {
+          "woord": "ἀγαπῶντές",
+          "strongs": "G25",
+          "transliteratie": "agapōntes"
+        },
+        {
+          "woord": "σε",
+          "strongs": "G4571",
+          "transliteratie": "se"
+        },
+        {
+          "woord": "εἰς",
+          "strongs": "G1519",
+          "transliteratie": "eis"
+        },
+        {
+          "woord": "τὸν",
+          "strongs": "G3588",
+          "transliteratie": "ton"
+        },
+        {
+          "woord": "αἰῶνα",
+          "strongs": "G165",
+          "transliteratie": "aiōna"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "haten",
+          "voorkomen": 1,
+          "strongs": [
+            "G3404"
+          ],
+          "bronwoorden": [
+            "μισοῦντές"
+          ],
+          "transliteraties": [
+            "misountes"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "5AD5AF6EE25B3229CA756DABD4960048BC4A00C16E31C90677F3CF805A11B106",
+            "referentie": "TOBIT 13:14",
+            "bronindices": [
+              3
+            ],
+            "grondindices": [
+              3
+            ]
+          }
+        },
+        {
+          "tekst": "liefhebben",
+          "voorkomen": 1,
+          "strongs": [
+            "G25"
+          ],
+          "bronwoorden": [
+            "ἀγαπῶντές"
+          ],
+          "transliteraties": [
+            "agapōntes"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "5AD5AF6EE25B3229CA756DABD4960048BC4A00C16E31C90677F3CF805A11B106",
+            "referentie": "TOBIT 13:14",
+            "bronindices": [
+              9
+            ],
+            "grondindices": [
+              9
+            ]
+          }
+        },
+        {
+          "tekst": "eeuwigheid",
+          "voorkomen": 1,
+          "strongs": [
+            "G165"
+          ],
+          "bronwoorden": [
+            "αἰῶνα"
+          ],
+          "transliteraties": [
+            "aiōna"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "5AD5AF6EE25B3229CA756DABD4960048BC4A00C16E31C90677F3CF805A11B106",
+            "referentie": "TOBIT 13:14",
+            "bronindices": [
+              13
+            ],
+            "grondindices": [
+              13
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "text1637": "Verblijd u, en vervrolijk u over de kinderen der rechtvaardigen, want zij zullen bijeenvergaderd worden, en zij zullen de Here der rechtvaardigen loven.",
+      "textSV1888": "Verblijd u, en vervrolijk u over de kinderen der rechtvaardigen, want zij zullen bijeenvergaderd worden, en zij zullen de Here der rechtvaardigen loven.",
+      "text2026": "Verblijd u, en vervrolijk u over de kinderen van de rechtvaardigen, want zij zullen bijeenvergaderd worden, en zij zullen de Heere van de rechtvaardigen loven.",
+      "marginNotes": [],
+      "text2026_html": "<span class=\"direct-speech\"><i>Verblijd u, en vervrolijk u over de kinderen van de rechtvaardigen, want zij zullen bijeenvergaderd worden, en zij zullen de Heere van de rechtvaardigen loven.</i></span>",
+      "phraseDiff": [
+        {
+          "old": "der",
+          "new": "van de",
+          "principe": "N2"
+        },
+        {
+          "old": "Here der",
+          "new": "Heere van de",
+          "principe": null
+        }
+      ],
+      "grondtekst": [
+        {
+          "woord": "χάρηθι",
+          "strongs": "G5463",
+          "transliteratie": "charēthi"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ἀγαλλίασαι",
+          "strongs": "G21",
+          "transliteratie": "agalliasai"
+        },
+        {
+          "woord": "ἐπὶ",
+          "strongs": "G1909",
+          "transliteratie": "epi"
+        },
+        {
+          "woord": "τοῖς",
+          "strongs": "G3588",
+          "transliteratie": "tois"
+        },
+        {
+          "woord": "υἱοῖς",
+          "strongs": "G5207",
+          "transliteratie": "huiois"
+        },
+        {
+          "woord": "τῶν",
+          "strongs": "G3588",
+          "transliteratie": "tōn"
+        },
+        {
+          "woord": "δικαίων",
+          "strongs": "G1342",
+          "transliteratie": "dikaiōn"
+        },
+        {
+          "woord": "ὅτι",
+          "strongs": "G3754",
+          "transliteratie": "hoti"
+        },
+        {
+          "woord": "συναχθήσονται",
+          "strongs": "G4863",
+          "transliteratie": "synachthēsontai"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "εὐλογήσουσιν",
+          "strongs": "G2127",
+          "transliteratie": "eulogēsousin"
+        },
+        {
+          "woord": "τὸν",
+          "strongs": "G3588",
+          "transliteratie": "ton"
+        },
+        {
+          "woord": "κύριον",
+          "strongs": "G2962",
+          "transliteratie": "kyrion"
+        },
+        {
+          "woord": "τῶν",
+          "strongs": "G3588",
+          "transliteratie": "tōn"
+        },
+        {
+          "woord": "δικαίων",
+          "strongs": "G1342",
+          "transliteratie": "dikaiōn"
+        },
+        {
+          "woord": "ὦ",
+          "strongs": "G5599",
+          "transliteratie": "ō"
+        },
+        {
+          "woord": "μακάριοι",
+          "strongs": "G3107",
+          "transliteratie": "makarioi"
+        },
+        {
+          "woord": "οἱ",
+          "strongs": "G3588",
+          "transliteratie": "hoi"
+        },
+        {
+          "woord": "ἀγαπῶντές",
+          "strongs": "G25",
+          "transliteratie": "agapōntes"
+        },
+        {
+          "woord": "σε",
+          "strongs": "G4571",
+          "transliteratie": "se"
+        },
+        {
+          "woord": "χαρήσονται",
+          "strongs": "G5463",
+          "transliteratie": "charēsontai"
+        },
+        {
+          "woord": "ἐπὶ",
+          "strongs": "G1909",
+          "transliteratie": "epi"
+        },
+        {
+          "woord": "τῇ",
+          "strongs": "G3588",
+          "transliteratie": "tē"
+        },
+        {
+          "woord": "εἰρήνῃ",
+          "strongs": "G1515",
+          "transliteratie": "eirēnē"
+        },
+        {
+          "woord": "σου",
+          "strongs": "G4675",
+          "transliteratie": "sou"
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "text1637": "O welgelukzalig zijn zij die u liefhebben, zij zullen zich verblijden in uw vrede. Welgelukzalig zijn zij, die zich bedroeven over al uw kastijdingen, want zij zullen zich over u verblijden, als zij al uw heerlijkheid hebben aanschouwd, en zullen zich vervrolijken in der eeuwigheid.",
+      "textSV1888": "O welgelukzalig zijn zij die u liefhebben, zij zullen zich verblijden in uw vrede. Welgelukzalig zijn zij, die zich bedroeven over al uw kastijdingen, want zij zullen zich over u verblijden, als zij al uw heerlijkheid hebben aanschouwd, en zullen zich vervrolijken in der eeuwigheid.",
+      "text2026": "O welgelukzalig zijn zij die u liefhebben, zij zullen zich verblijden in uw vrede. Welgelukzalig zijn zij, die zich bedroeven over al uw tuchtigingen, want zij zullen zich over u verblijden, als zij al uw heerlijkheid hebben aanschouwd, en zullen zich vervrolijken in de eeuwigheid.",
+      "marginNotes": [],
+      "text2026_html": "<span class=\"direct-speech\"><i>O welgelukzalig zijn zij die u liefhebben, zij zullen zich verblijden in uw vrede. Welgelukzalig zijn zij, die zich bedroeven over al uw tuchtigingen, want zij zullen zich over u verblijden, als zij al uw heerlijkheid hebben aanschouwd, en zullen zich vervrolijken in de eeuwigheid.</i></span>",
+      "phraseDiff": [
+        {
+          "old": "kastijdingen,",
+          "new": "tuchtigingen,",
+          "principe": "V787"
+        },
+        {
+          "old": "der",
+          "new": "de",
+          "principe": "N2"
+        }
+      ],
+      "grondtekst": [
+        {
+          "woord": "μακάριοι",
+          "strongs": "G3107",
+          "transliteratie": "makarioi"
+        },
+        {
+          "woord": "ὅσοι",
+          "strongs": "G3745",
+          "transliteratie": "hosoi"
+        },
+        {
+          "woord": "ἐλυπήθησαν",
+          "strongs": "G3076",
+          "transliteratie": "elypēthēsan"
+        },
+        {
+          "woord": "ἐπὶ",
+          "strongs": "G1909",
+          "transliteratie": "epi"
+        },
+        {
+          "woord": "πάσαις",
+          "strongs": "G3956",
+          "transliteratie": "pasais"
+        },
+        {
+          "woord": "ταῖς",
+          "strongs": "G3588",
+          "transliteratie": "tais"
+        },
+        {
+          "woord": "μάστιξίν",
+          "strongs": "G3148",
+          "transliteratie": "mastixin"
+        },
+        {
+          "woord": "σου",
+          "strongs": "G4675",
+          "transliteratie": "sou"
+        },
+        {
+          "woord": "ὅτι",
+          "strongs": "G3754",
+          "transliteratie": "hoti"
+        },
+        {
+          "woord": "ἐπὶ",
+          "strongs": "G1909",
+          "transliteratie": "epi"
+        },
+        {
+          "woord": "σοὶ",
+          "strongs": "G4671",
+          "transliteratie": "soi"
+        },
+        {
+          "woord": "χαρήσονται",
+          "strongs": "G5463",
+          "transliteratie": "charēsontai"
+        },
+        {
+          "woord": "θεασάμενοι",
+          "strongs": "G2300",
+          "transliteratie": "theasamenoi"
+        },
+        {
+          "woord": "πᾶσαν",
+          "strongs": "G3956",
+          "transliteratie": "pasan"
+        },
+        {
+          "woord": "τὴν",
+          "strongs": "G3588",
+          "transliteratie": "tēn"
+        },
+        {
+          "woord": "δόξαν",
+          "strongs": "G1391",
+          "transliteratie": "doxan"
+        },
+        {
+          "woord": "σου",
+          "strongs": "G4675",
+          "transliteratie": "sou"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "εὐφρανθήσονται",
+          "strongs": "G2165",
+          "transliteratie": "euphranthēsontai"
+        },
+        {
+          "woord": "εἰς",
+          "strongs": "G1519",
+          "transliteratie": "eis"
+        },
+        {
+          "woord": "τὸν",
+          "strongs": "G3588",
+          "transliteratie": "ton"
+        },
+        {
+          "woord": "αἰῶνα",
+          "strongs": "G165",
+          "transliteratie": "aiōna"
+        },
+        {
+          "woord": "ἡ",
+          "strongs": "G3588",
+          "transliteratie": "hē"
+        },
+        {
+          "woord": "ψυχή",
+          "strongs": "G5590",
+          "transliteratie": "psychē"
+        },
+        {
+          "woord": "μου",
+          "strongs": "G3450",
+          "transliteratie": "mou"
+        },
+        {
+          "woord": "εὐλογείτω",
+          "strongs": "G2127",
+          "transliteratie": "eulogeitō"
+        },
+        {
+          "woord": "τὸν",
+          "strongs": "G3588",
+          "transliteratie": "ton"
+        },
+        {
+          "woord": "θεὸν",
+          "strongs": "G2316",
+          "transliteratie": "theon"
+        },
+        {
+          "woord": "τὸν",
+          "strongs": "G3588",
+          "transliteratie": "ton"
+        },
+        {
+          "woord": "βασιλέα",
+          "strongs": "G935",
+          "transliteratie": "basilea"
+        },
+        {
+          "woord": "τὸν",
+          "strongs": "G3588",
+          "transliteratie": "ton"
+        },
+        {
+          "woord": "μέγαν",
+          "strongs": "G3173",
+          "transliteratie": "megan"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "en",
+          "voorkomen": 1,
+          "strongs": [
+            "G2532"
+          ],
+          "bronwoorden": [
+            "καὶ"
+          ],
+          "transliteraties": [
+            "kai"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "5AD5AF6EE25B3229CA756DABD4960048BC4A00C16E31C90677F3CF805A11B106",
+            "referentie": "TOBIT 13:16",
+            "bronindices": [
+              17
+            ],
+            "grondindices": [
+              17
+            ]
+          }
+        },
+        {
+          "tekst": "eeuwigheid",
+          "voorkomen": 1,
+          "strongs": [
+            "G165"
+          ],
+          "bronwoorden": [
+            "αἰῶνα"
+          ],
+          "transliteraties": [
+            "aiōna"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "5AD5AF6EE25B3229CA756DABD4960048BC4A00C16E31C90677F3CF805A11B106",
+            "referentie": "TOBIT 13:16",
+            "bronindices": [
+              21
+            ],
+            "grondindices": [
+              21
+            ]
+          }
+        },
+        {
+          "tekst": "bedroeven",
+          "voorkomen": 1,
+          "strongs": [
+            "G3076"
+          ],
+          "bronwoorden": [
+            "ἐλυπήθησαν"
+          ],
+          "transliteraties": [
+            "elypēthēsan"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "5AD5AF6EE25B3229CA756DABD4960048BC4A00C16E31C90677F3CF805A11B106",
+            "referentie": "TOBIT 13:16",
+            "bronindices": [
+              2
+            ],
+            "grondindices": [
+              2
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "text1637": "Mijn ziel love God, de grote Koning.",
+      "textSV1888": "Mijn ziel love God, de grote Koning.",
+      "text2026": "Mijn ziel love God, de grote Koning.",
+      "marginNotes": [],
+      "text2026_html": "<span class=\"direct-speech\"><i>Mijn ziel love God, de grote Koning.</i></span>",
+      "grondtekst": [
+        {
+          "woord": "ὅτι",
+          "strongs": "G3754",
+          "transliteratie": "hoti"
+        },
+        {
+          "woord": "οἰκοδομηθήσεται",
+          "strongs": "G3618",
+          "transliteratie": "oikodomēthēsetai"
+        },
+        {
+          "woord": "Ιερουσαλημ",
+          "strongs": "G2419",
+          "transliteratie": "ierousalēm"
+        },
+        {
+          "woord": "σαπφείρῳ",
+          "strongs": "G4552",
+          "transliteratie": "sappheirō"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "σμαράγδῳ",
+          "strongs": "G4665",
+          "transliteratie": "smaragdō"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "λίθῳ",
+          "strongs": "G3037",
+          "transliteratie": "lithō"
+        },
+        {
+          "woord": "ἐντίμῳ",
+          "strongs": "G1784",
+          "transliteratie": "entimō"
+        },
+        {
+          "woord": "τὰ",
+          "strongs": "G3588",
+          "transliteratie": "ta"
+        },
+        {
+          "woord": "τείχη",
+          "strongs": "G5038",
+          "transliteratie": "teichē"
+        },
+        {
+          "woord": "σου",
+          "strongs": "G4675",
+          "transliteratie": "sou"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "οἱ",
+          "strongs": "G3588",
+          "transliteratie": "hoi"
+        },
+        {
+          "woord": "πύργοι",
+          "strongs": "G4444",
+          "transliteratie": "pyrgoi"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "οἱ",
+          "strongs": "G3588",
+          "transliteratie": "hoi"
+        },
+        {
+          "woord": "προμαχῶνες",
+          "transliteratie": "promachōnes"
+        },
+        {
+          "woord": "ἐν",
+          "strongs": "G1722",
+          "transliteratie": "en"
+        },
+        {
+          "woord": "χρυσίῳ",
+          "strongs": "G5553",
+          "transliteratie": "chrysiō"
+        },
+        {
+          "woord": "καθαρῷ",
+          "strongs": "G2513",
+          "transliteratie": "katharō"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "αἱ",
+          "strongs": "G3588",
+          "transliteratie": "hai"
+        },
+        {
+          "woord": "πλατεῖαι",
+          "strongs": "G4113",
+          "transliteratie": "plateiai"
+        },
+        {
+          "woord": "Ιερουσαλημ",
+          "strongs": "G2419",
+          "transliteratie": "ierousalēm"
+        },
+        {
+          "woord": "βηρύλλῳ",
+          "strongs": "G969",
+          "transliteratie": "bēryllō"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ἄνθρακι",
+          "strongs": "G440",
+          "transliteratie": "anthraki"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "λίθῳ",
+          "strongs": "G3037",
+          "transliteratie": "lithō"
+        },
+        {
+          "woord": "ἐκ",
+          "strongs": "G1537",
+          "transliteratie": "ek"
+        },
+        {
+          "woord": "Σουφιρ",
+          "transliteratie": "souphir"
+        },
+        {
+          "woord": "ψηφολογηθήσονται",
+          "transliteratie": "psēphologēthēsontai"
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "text1637": "Want Jeruzalem zal met safyr, en smaragd, en met kostelijke stenen gebouwd worden;",
+      "textSV1888": "Want Jeruzalem zal met safyr, en smaragd, en met kostelijke stenen gebouwd worden;",
+      "text2026": "Want Jeruzalem zal met safyr, en smaragd, en met kostelijke stenen gebouwd worden;",
+      "marginNotes": [],
+      "text2026_html": "<span class=\"direct-speech\"><i>Want Jeruzalem zal met safyr, en smaragd, en met kostelijke stenen gebouwd worden;</i></span>",
+      "grondtekst": [
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ἐροῦσιν",
+          "strongs": "G2046",
+          "transliteratie": "erousin"
+        },
+        {
+          "woord": "πᾶσαι",
+          "strongs": "G3956",
+          "transliteratie": "pasai"
+        },
+        {
+          "woord": "αἱ",
+          "strongs": "G3588",
+          "transliteratie": "hai"
+        },
+        {
+          "woord": "ῥῦμαι",
+          "strongs": "G4505",
+          "transliteratie": "rhymai"
+        },
+        {
+          "woord": "αὐτῆς",
+          "strongs": "G846",
+          "transliteratie": "autēs"
+        },
+        {
+          "woord": "αλληλουια",
+          "strongs": "G239",
+          "transliteratie": "allēlouia"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "αἰνέσουσιν",
+          "strongs": "G134",
+          "transliteratie": "ainesousin"
+        },
+        {
+          "woord": "λέγοντες",
+          "strongs": "G3004",
+          "transliteratie": "legontes"
+        },
+        {
+          "woord": "εὐλογητὸς",
+          "strongs": "G2128",
+          "transliteratie": "eulogētos"
+        },
+        {
+          "woord": "ὁ",
+          "strongs": "G3588",
+          "transliteratie": "ho"
+        },
+        {
+          "woord": "θεός",
+          "strongs": "G2316",
+          "transliteratie": "theos"
+        },
+        {
+          "woord": "ὃς",
+          "strongs": "G3739",
+          "transliteratie": "hos"
+        },
+        {
+          "woord": "ὕψωσεν",
+          "strongs": "G5312",
+          "transliteratie": "hypsōsen"
+        },
+        {
+          "woord": "πάντας",
+          "strongs": "G3956",
+          "transliteratie": "pantas"
+        },
+        {
+          "woord": "τοὺς",
+          "strongs": "G3588",
+          "transliteratie": "tous"
+        },
+        {
+          "woord": "αἰῶνας",
+          "strongs": "G165",
+          "transliteratie": "aiōnas"
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "text1637": "En uw muren, en uw torens en bolwerken met zuiver goud.",
+      "textSV1888": "En uw muren, en uw torens en bolwerken met zuiver goud.",
+      "text2026": "En uw muren, en uw torens en bolwerken met zuiver goud.",
+      "marginNotes": [],
+      "text2026_html": "<span class=\"direct-speech\"><i>En uw muren, en uw torens en bolwerken met zuiver goud.</i></span>",
+      "grondtekst": null
+    },
+    {
+      "number": 20,
+      "text1637": "En de straten van Jeruzalem zullen met berylsteen en karbonkel, en stenen uit Ofir bestraat worden, en al haar wijken zullen zeggen: Halleluja! en zullen prijs zingen, zeggende:",
+      "textSV1888": "En de straten van Jeruzalem zullen met berylsteen en karbonkel, en stenen uit Ofir bestraat worden, en al haar wijken zullen zeggen: Halleluja! en zullen prijs zingen, zeggende:",
+      "text2026": "En de straten van Jeruzalem zullen met berylsteen en karbonkel, en stenen uit Ofir bestraat worden, en al haar wijken zullen zeggen: Halleluja! en zullen prijs zingen, zeggende:",
+      "marginNotes": [],
+      "text2026_html": "<span class=\"direct-speech\"><i>En de straten van Jeruzalem zullen met berylsteen en karbonkel, en stenen uit Ofir bestraat worden, en al haar wijken zullen zeggen: Halleluja! en zullen prijs zingen, zeggende:</i></span>",
+      "grondtekst": null
+    },
+    {
+      "number": 21,
+      "text1637": "Geloofd zij God, die ons verheven heeft in alle eeuwigheid.",
+      "textSV1888": "Geloofd zij God, die ons verheven heeft in alle eeuwigheid.",
+      "text2026": "Geloofd zij God, die ons verheven heeft in alle eeuwigheid.",
+      "marginNotes": [],
+      "text2026_html": "<span class=\"direct-speech\"><i>Geloofd zij God, die ons verheven heeft in alle eeuwigheid.</i></span>",
+      "grondtekst": null
+    }
+  ],
+  "chapterIntro": {
+    "text1637": "1 Tobias de vader doet een dancksegginge tot Godt, 20 ende voorseght de weder-opbouwinge der stadt Ierusalem.",
+    "text2026": "1 Tobias de vader doet een dankzegging tot God 20 en voorzegt de herbouw van de stad Jeruzalem."
+  }
+}

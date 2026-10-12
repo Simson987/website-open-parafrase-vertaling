@@ -1,0 +1,904 @@
+{
+  "number": 9,
+  "verses": [
+    {
+      "number": 1,
+      "text1637": "EN Tobias riep Rafaël,",
+      "textSV1888": "EN Tobias riep Rafaël,",
+      "text2026": "EN Tobias riep Rafaël,",
+      "marginNotes": [],
+      "text2026_html": "EN Tobias riep Rafaël,",
+      "grondtekst": [
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ἐκάλεσεν",
+          "strongs": "G2564",
+          "transliteratie": "ekalesen"
+        },
+        {
+          "woord": "Τωβιας",
+          "transliteratie": "tōbias"
+        },
+        {
+          "woord": "τὸν",
+          "strongs": "G3588",
+          "transliteratie": "ton"
+        },
+        {
+          "woord": "Ραφαηλ",
+          "transliteratie": "raphaēl"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "εἶπεν",
+          "strongs": "G2036",
+          "transliteratie": "eipen"
+        },
+        {
+          "woord": "αὐτῷ",
+          "strongs": "G846",
+          "transliteratie": "autō"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "EN",
+          "voorkomen": 1,
+          "strongs": [
+            "G2532"
+          ],
+          "bronwoorden": [
+            "καὶ"
+          ],
+          "transliteraties": [
+            "kai"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "7D891118CDDEABE4E849D8DC00575E1A2D7E56E58CFFCCD3A0505383861F3A3A",
+            "referentie": "TOBIT 9:1",
+            "bronindices": [
+              0
+            ],
+            "grondindices": [
+              0
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "text1637": "En zeide tot hem: Azarias, broeder,",
+      "textSV1888": "En zeide tot hem: Azarias, broeder,",
+      "text2026": "En zei tot hem: Azarias, broer,",
+      "marginNotes": [],
+      "text2026_html": "En zei tot hem: <span class=\"direct-speech\"><i>Azarias, broer,</i></span>",
+      "phraseDiff": [
+        {
+          "old": "zeide",
+          "new": "zei",
+          "principe": "W1"
+        },
+        {
+          "old": "broeder,",
+          "new": "broer,",
+          "principe": "O22a"
+        }
+      ],
+      "grondtekst": [
+        {
+          "woord": "Αζαρια",
+          "transliteratie": "azaria"
+        },
+        {
+          "woord": "ἄδελφε",
+          "strongs": "G80",
+          "transliteratie": "adelphe"
+        },
+        {
+          "woord": "λαβὲ",
+          "strongs": "G2983",
+          "transliteratie": "labe"
+        },
+        {
+          "woord": "μετὰ",
+          "strongs": "G3326",
+          "transliteratie": "meta"
+        },
+        {
+          "woord": "σεαυτοῦ",
+          "strongs": "G4572",
+          "transliteratie": "seautou"
+        },
+        {
+          "woord": "παῖδα",
+          "strongs": "G3816",
+          "transliteratie": "paida"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "δύο",
+          "strongs": "G1417",
+          "transliteratie": "dyo"
+        },
+        {
+          "woord": "καμήλους",
+          "strongs": "G2574",
+          "transliteratie": "kamēlous"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "πορεύθητι",
+          "strongs": "G4198",
+          "transliteratie": "poreuthēti"
+        },
+        {
+          "woord": "ἐν",
+          "strongs": "G1722",
+          "transliteratie": "en"
+        },
+        {
+          "woord": "Ῥάγοις",
+          "transliteratie": "rhagois"
+        },
+        {
+          "woord": "τῆς",
+          "strongs": "G3588",
+          "transliteratie": "tēs"
+        },
+        {
+          "woord": "Μηδίας",
+          "transliteratie": "mēdias"
+        },
+        {
+          "woord": "παρὰ",
+          "strongs": "G3844",
+          "transliteratie": "para"
+        },
+        {
+          "woord": "Γαβαηλ",
+          "transliteratie": "gabaēl"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "κόμισαί",
+          "strongs": "G2865",
+          "transliteratie": "komisai"
+        },
+        {
+          "woord": "μοι",
+          "strongs": "G3427",
+          "transliteratie": "moi"
+        },
+        {
+          "woord": "τὸ",
+          "strongs": "G3588",
+          "transliteratie": "to"
+        },
+        {
+          "woord": "ἀργύριον",
+          "strongs": "G694",
+          "transliteratie": "argyrion"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "αὐτὸν",
+          "strongs": "G846",
+          "transliteratie": "auton"
+        },
+        {
+          "woord": "ἄγε",
+          "strongs": "G71",
+          "transliteratie": "age"
+        },
+        {
+          "woord": "εἰς",
+          "strongs": "G1519",
+          "transliteratie": "eis"
+        },
+        {
+          "woord": "τὸν",
+          "strongs": "G3588",
+          "transliteratie": "ton"
+        },
+        {
+          "woord": "γάμον",
+          "strongs": "G1062",
+          "transliteratie": "gamon"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "broer",
+          "voorkomen": 1,
+          "strongs": [
+            "G80"
+          ],
+          "bronwoorden": [
+            "ἄδελφε"
+          ],
+          "transliteraties": [
+            "adelphe"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "7D891118CDDEABE4E849D8DC00575E1A2D7E56E58CFFCCD3A0505383861F3A3A",
+            "referentie": "TOBIT 9:2",
+            "bronindices": [
+              1
+            ],
+            "grondindices": [
+              1
+            ]
+          }
+        },
+        {
+          "tekst": "En",
+          "voorkomen": 1,
+          "strongs": [
+            "G2532"
+          ],
+          "bronwoorden": [
+            "καὶ"
+          ],
+          "transliteraties": [
+            "kai"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "7D891118CDDEABE4E849D8DC00575E1A2D7E56E58CFFCCD3A0505383861F3A3A",
+            "referentie": "TOBIT 9:2",
+            "bronindices": [
+              6
+            ],
+            "grondindices": [
+              6
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "text1637": "Neem met u een jongen, en twee kemels, en trek naar Ragis in Medië, tot Gabaël, en haal mij het geld, en breng hem mede tot de bruiloft, dewijl Raguël gezworen heeft, dat ik van hier niet gaan zal.",
+      "textSV1888": "Neem met u een jongen, en twee kemels, en trek naar Ragis in Medië, tot Gabaël, en haal mij het geld, en breng hem mede tot de bruiloft, dewijl Raguël gezworen heeft, dat ik van hier niet gaan zal.",
+      "text2026": "Neem met u een jongen, en twee kamelen, en trek naar Ragis in Medië, tot Gabaël, en haal mij het geld, en breng hem mee tot de bruiloft, omdat Raguël gezworen heeft, dat ik van hier niet gaan zal.",
+      "marginNotes": [],
+      "text2026_html": "<span class=\"direct-speech\"><i>Neem met u een jongen, en twee kamelen, en trek naar Ragis in Medië, tot Gabaël, en haal mij het geld, en breng hem mee tot de bruiloft, omdat Raguël gezworen heeft, dat ik van hier niet gaan zal.</i></span>",
+      "phraseDiff": [
+        {
+          "old": "kemels,",
+          "new": "kamelen,",
+          "principe": null
+        },
+        {
+          "old": "mede",
+          "new": "mee",
+          "principe": "V707"
+        },
+        {
+          "old": "dewijl",
+          "new": "omdat",
+          "principe": "V2"
+        }
+      ],
+      "grondtekst": [
+        {
+          "woord": "διότι",
+          "strongs": "G1360",
+          "transliteratie": "dioti"
+        },
+        {
+          "woord": "ὀμώμοκεν",
+          "strongs": "G3660",
+          "transliteratie": "omōmoken"
+        },
+        {
+          "woord": "Ραγουηλ",
+          "transliteratie": "ragouēl"
+        },
+        {
+          "woord": "μὴ",
+          "strongs": "G3361",
+          "transliteratie": "mē"
+        },
+        {
+          "woord": "ἐξελθεῖν",
+          "strongs": "G1831",
+          "transliteratie": "exelthein"
+        },
+        {
+          "woord": "με",
+          "strongs": "G3165",
+          "transliteratie": "me"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "niet",
+          "voorkomen": 1,
+          "strongs": [
+            "G3361"
+          ],
+          "bronwoorden": [
+            "μὴ"
+          ],
+          "transliteraties": [
+            "mē"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "7D891118CDDEABE4E849D8DC00575E1A2D7E56E58CFFCCD3A0505383861F3A3A",
+            "referentie": "TOBIT 9:3",
+            "bronindices": [
+              3
+            ],
+            "grondindices": [
+              3
+            ]
+          }
+        },
+        {
+          "tekst": "gaan",
+          "voorkomen": 1,
+          "strongs": [
+            "G1831"
+          ],
+          "bronwoorden": [
+            "ἐξελθεῖν"
+          ],
+          "transliteraties": [
+            "exelthein"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "7D891118CDDEABE4E849D8DC00575E1A2D7E56E58CFFCCD3A0505383861F3A3A",
+            "referentie": "TOBIT 9:3",
+            "bronindices": [
+              4
+            ],
+            "grondindices": [
+              4
+            ]
+          }
+        },
+        {
+          "tekst": "omdat",
+          "voorkomen": 1,
+          "strongs": [
+            "G1360"
+          ],
+          "bronwoorden": [
+            "διότι"
+          ],
+          "transliteraties": [
+            "dioti"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "7D891118CDDEABE4E849D8DC00575E1A2D7E56E58CFFCCD3A0505383861F3A3A",
+            "referentie": "TOBIT 9:3",
+            "bronindices": [
+              0
+            ],
+            "grondindices": [
+              0
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "text1637": "En mijn vader telt de dagen.",
+      "textSV1888": "En mijn vader telt de dagen.",
+      "text2026": "En mijn vader telt de dagen.",
+      "marginNotes": [],
+      "text2026_html": "<span class=\"direct-speech\"><i>En mijn vader telt de dagen.</i></span>",
+      "grondtekst": [
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ὁ",
+          "strongs": "G3588",
+          "transliteratie": "ho"
+        },
+        {
+          "woord": "πατήρ",
+          "strongs": "G3962",
+          "transliteratie": "patēr"
+        },
+        {
+          "woord": "μου",
+          "strongs": "G3450",
+          "transliteratie": "mou"
+        },
+        {
+          "woord": "ἀριθμεῖ",
+          "strongs": "G705",
+          "transliteratie": "arithmei"
+        },
+        {
+          "woord": "τὰς",
+          "strongs": "G3588",
+          "transliteratie": "tas"
+        },
+        {
+          "woord": "ἡμέρας",
+          "strongs": "G2250",
+          "transliteratie": "hēmeras"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ἐὰν",
+          "strongs": "G1437",
+          "transliteratie": "ean"
+        },
+        {
+          "woord": "χρονίσω",
+          "strongs": "G5549",
+          "transliteratie": "chronisō"
+        },
+        {
+          "woord": "μέγα",
+          "strongs": "G3173",
+          "transliteratie": "mega"
+        },
+        {
+          "woord": "ὀδυνηθήσεται",
+          "strongs": "G3600",
+          "transliteratie": "odynēthēsetai"
+        },
+        {
+          "woord": "λίαν",
+          "strongs": "G3029",
+          "transliteratie": "lian"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "vader",
+          "voorkomen": 1,
+          "strongs": [
+            "G3962"
+          ],
+          "bronwoorden": [
+            "πατήρ"
+          ],
+          "transliteraties": [
+            "patēr"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "7D891118CDDEABE4E849D8DC00575E1A2D7E56E58CFFCCD3A0505383861F3A3A",
+            "referentie": "TOBIT 9:4",
+            "bronindices": [
+              2
+            ],
+            "grondindices": [
+              2
+            ]
+          }
+        },
+        {
+          "tekst": "En",
+          "voorkomen": 1,
+          "strongs": [
+            "G2532"
+          ],
+          "bronwoorden": [
+            "καὶ"
+          ],
+          "transliteraties": [
+            "kai"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "7D891118CDDEABE4E849D8DC00575E1A2D7E56E58CFFCCD3A0505383861F3A3A",
+            "referentie": "TOBIT 9:4",
+            "bronindices": [
+              0
+            ],
+            "grondindices": [
+              0
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "text1637": "En indien ik lang vertoef, zo zal hij zeer bedroefd worden.",
+      "textSV1888": "En indien ik lang vertoef, zo zal hij zeer bedroefd worden.",
+      "text2026": "En als ik lang wacht, zo zal hij zeer bedroefd worden.",
+      "marginNotes": [],
+      "text2026_html": "<span class=\"direct-speech\"><i>En als ik lang wacht, zo zal hij zeer bedroefd worden.</i></span>",
+      "phraseDiff": [
+        {
+          "old": "indien",
+          "new": "als",
+          "principe": "V41"
+        },
+        {
+          "old": "vertoef,",
+          "new": "wacht,",
+          "principe": "V385"
+        }
+      ],
+      "grondtekst": [
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ἐπορεύθη",
+          "strongs": "G4198",
+          "transliteratie": "eporeuthē"
+        },
+        {
+          "woord": "Ραφαηλ",
+          "transliteratie": "raphaēl"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ηὐλίσθη",
+          "strongs": "G835",
+          "transliteratie": "ēulisthē"
+        },
+        {
+          "woord": "παρὰ",
+          "strongs": "G3844",
+          "transliteratie": "para"
+        },
+        {
+          "woord": "Γαβαήλῳ",
+          "transliteratie": "gabaēlō"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ἔδωκεν",
+          "strongs": "G1325",
+          "transliteratie": "edōken"
+        },
+        {
+          "woord": "αὐτῷ",
+          "strongs": "G846",
+          "transliteratie": "autō"
+        },
+        {
+          "woord": "τὸ",
+          "strongs": "G3588",
+          "transliteratie": "to"
+        },
+        {
+          "woord": "χειρόγραφον",
+          "strongs": "G5498",
+          "transliteratie": "cheirographon"
+        },
+        {
+          "woord": "ὃς",
+          "strongs": "G3739",
+          "transliteratie": "hos"
+        },
+        {
+          "woord": "δὲ",
+          "strongs": "G1161",
+          "transliteratie": "de"
+        },
+        {
+          "woord": "προήνεγκεν",
+          "strongs": "G4393",
+          "transliteratie": "proēnenken"
+        },
+        {
+          "woord": "τὰ",
+          "strongs": "G3588",
+          "transliteratie": "ta"
+        },
+        {
+          "woord": "θυλάκια",
+          "transliteratie": "thylakia"
+        },
+        {
+          "woord": "ἐν",
+          "strongs": "G1722",
+          "transliteratie": "en"
+        },
+        {
+          "woord": "ταῖς",
+          "strongs": "G3588",
+          "transliteratie": "tais"
+        },
+        {
+          "woord": "σφραγῖσιν",
+          "strongs": "G4973",
+          "transliteratie": "sphragisin"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ἔδωκεν",
+          "strongs": "G1325",
+          "transliteratie": "edōken"
+        },
+        {
+          "woord": "αὐτῷ",
+          "strongs": "G846",
+          "transliteratie": "autō"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "hij",
+          "voorkomen": 1,
+          "strongs": [
+            "G3588"
+          ],
+          "bronwoorden": [
+            "τὸ"
+          ],
+          "transliteraties": [
+            "to"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "7D891118CDDEABE4E849D8DC00575E1A2D7E56E58CFFCCD3A0505383861F3A3A",
+            "referentie": "TOBIT 9:5",
+            "bronindices": [
+              10
+            ],
+            "grondindices": [
+              10
+            ]
+          }
+        },
+        {
+          "tekst": "En",
+          "voorkomen": 1,
+          "strongs": [
+            "G2532"
+          ],
+          "bronwoorden": [
+            "καὶ"
+          ],
+          "transliteraties": [
+            "kai"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "7D891118CDDEABE4E849D8DC00575E1A2D7E56E58CFFCCD3A0505383861F3A3A",
+            "referentie": "TOBIT 9:5",
+            "bronindices": [
+              0
+            ],
+            "grondindices": [
+              0
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "text1637": "En Rafaël reisde heen, en vernachtte bij Gabaël, en gaf hem het handschrift.",
+      "textSV1888": "En Rafaël reisde heen, en vernachtte bij Gabaël, en gaf hem het handschrift.",
+      "text2026": "En Rafaël reisde heen, en overnachtte bij Gabaël, en gaf hem het handschrift.",
+      "marginNotes": [],
+      "text2026_html": "En Rafaël reisde heen, en overnachtte bij Gabaël, en gaf hem het handschrift.",
+      "grondtekst": [
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ὤρθρευσαν",
+          "transliteratie": "ōrthreusan"
+        },
+        {
+          "woord": "κοινῶς",
+          "transliteratie": "koinōs"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ἤλθοσαν",
+          "strongs": "G2064",
+          "transliteratie": "ēlthosan"
+        },
+        {
+          "woord": "εἰς",
+          "strongs": "G1519",
+          "transliteratie": "eis"
+        },
+        {
+          "woord": "τὸν",
+          "strongs": "G3588",
+          "transliteratie": "ton"
+        },
+        {
+          "woord": "γάμον",
+          "strongs": "G1062",
+          "transliteratie": "gamon"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "εὐλόγησεν",
+          "strongs": "G2127",
+          "transliteratie": "eulogēsen"
+        },
+        {
+          "woord": "Τωβιας",
+          "transliteratie": "tōbias"
+        },
+        {
+          "woord": "τὴν",
+          "strongs": "G3588",
+          "transliteratie": "tēn"
+        },
+        {
+          "woord": "γυναῖκα",
+          "strongs": "G1135",
+          "transliteratie": "gynaika"
+        },
+        {
+          "woord": "αὐτοῦ",
+          "strongs": "G846",
+          "transliteratie": "autou"
+        }
+      ],
+      "phraseDiff": [
+        {
+          "old": "vernachtte",
+          "new": "overnachtte",
+          "principe": "V416"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "text1637": "Deze nu bracht de zakjes tot hem, zo zij verzegeld waren, en gaf ze hem.",
+      "textSV1888": "Deze nu bracht de zakjes tot hem, zo zij verzegeld waren, en gaf ze hem.",
+      "text2026": "Deze nu bracht de zakjes tot hem, zo zij verzegeld waren, en gaf ze hem.",
+      "marginNotes": [],
+      "text2026_html": "Deze nu bracht de zakjes tot hem, zo zij verzegeld waren, en gaf ze hem.",
+      "grondtekst": null
+    },
+    {
+      "number": 8,
+      "text1637": "En des morgens vroeg gingen zij te zamen, en kwamen tot de bruiloft. En Tobias zegende zijn vrouw.",
+      "textSV1888": "En des morgens vroeg gingen zij te zamen, en kwamen tot de bruiloft. En Tobias zegende zijn vrouw.",
+      "text2026": "En 's morgens vroeg gingen zij samen, en kwamen tot de bruiloft. En Tobias zegende zijn vrouw.",
+      "marginNotes": [],
+      "text2026_html": "En 's morgens vroeg gingen zij samen, en kwamen tot de bruiloft. En Tobias zegende zijn vrouw.",
+      "phraseDiff": [
+        {
+          "old": "des",
+          "new": "'s",
+          "principe": null
+        },
+        {
+          "old": "te zamen,",
+          "new": "samen,",
+          "principe": "V374"
+        }
+      ],
+      "grondtekst": null
+    }
+  ],
+  "chapterIntro": {
+    "text1637": "1 Tobias sendt Raphaël na Meden om het gelt van Gabaël te halen, ende om hem mede te brengen ter bruyloft, 6 het welck Raphaël verricht.",
+    "text2026": "1 Tobias zendt Rafaël naar Medië om het geld van Gabaël te halen en om hem mee te brengen ter bruiloft, 6 hetgeen Rafaël uitvoert."
+  }
+}

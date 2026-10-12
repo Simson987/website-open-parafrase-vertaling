@@ -1,0 +1,4857 @@
+{
+  "number": 12,
+  "verses": [
+    {
+      "number": 1,
+      "text1637": "EN hij beval dat men haar brengen zou in de kamer waar zijn zilverwerk bewaard werd, en hij gelastte dat men haar zou opdissen van zijn spijs, en dat zij drinken zou van zijn wijn.",
+      "textSV1888": "EN hij beval dat men haar brengen zou in de kamer waar zijn zilverwerk bewaard werd, en hij gelastte dat men haar zou opdissen van zijn spijs, en dat zij drinken zou van zijn wijn.",
+      "text2026": "EN hij beval dat men haar brengen zou in de kamer waar zijn zilverwerk bewaard werd, en hij gelastte dat men haar zou opdissen van zijn voedsel, en dat zij drinken zou van zijn wijn.",
+      "marginNotes": [],
+      "text2026_html": "EN hij beval dat men haar brengen zou in de kamer waar zijn zilverwerk bewaard werd, en hij gelastte dat men haar zou opdissen van zijn voedsel, en dat zij drinken zou van zijn wijn.",
+      "phraseDiff": [
+        {
+          "old": "spijs,",
+          "new": "voedsel,",
+          "principe": "V526"
+        }
+      ],
+      "grondtekst": [
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ἐκέλευσεν",
+          "strongs": "G2753",
+          "transliteratie": "ekeleusen"
+        },
+        {
+          "woord": "εἰσαγαγεῖν",
+          "strongs": "G1521",
+          "transliteratie": "eisagagein"
+        },
+        {
+          "woord": "αὐτὴν",
+          "strongs": "G846",
+          "transliteratie": "autēn"
+        },
+        {
+          "woord": "οὗ",
+          "strongs": "G3757",
+          "transliteratie": "hou"
+        },
+        {
+          "woord": "ἐτίθετο",
+          "strongs": "G5087",
+          "transliteratie": "etitheto"
+        },
+        {
+          "woord": "τὰ",
+          "strongs": "G3588",
+          "transliteratie": "ta"
+        },
+        {
+          "woord": "ἀργυρώματα",
+          "transliteratie": "argyrōmata"
+        },
+        {
+          "woord": "αὐτοῦ",
+          "strongs": "G846",
+          "transliteratie": "autou"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "συνέταξεν",
+          "strongs": "G4929",
+          "transliteratie": "synetaxen"
+        },
+        {
+          "woord": "καταστρῶσαι",
+          "strongs": "G2693",
+          "transliteratie": "katastrōsai"
+        },
+        {
+          "woord": "αὐτῇ",
+          "strongs": "G846",
+          "transliteratie": "autē"
+        },
+        {
+          "woord": "ἀπὸ",
+          "strongs": "G575",
+          "transliteratie": "apo"
+        },
+        {
+          "woord": "τῶν",
+          "strongs": "G3588",
+          "transliteratie": "tōn"
+        },
+        {
+          "woord": "ὀψοποιημάτων",
+          "transliteratie": "opsopoiēmatōn"
+        },
+        {
+          "woord": "αὐτοῦ",
+          "strongs": "G846",
+          "transliteratie": "autou"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "τοῦ",
+          "strongs": "G3588",
+          "transliteratie": "tou"
+        },
+        {
+          "woord": "οἴνου",
+          "strongs": "G3631",
+          "transliteratie": "oinou"
+        },
+        {
+          "woord": "αὐτοῦ",
+          "strongs": "G846",
+          "transliteratie": "autou"
+        },
+        {
+          "woord": "πίνειν",
+          "strongs": "G4095",
+          "transliteratie": "pinein"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "waar",
+          "voorkomen": 1,
+          "strongs": [
+            "G3757"
+          ],
+          "bronwoorden": [
+            "οὗ"
+          ],
+          "transliteraties": [
+            "hou"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "82B7D4FF3E36F3FAFC4B38ADF5A9D1FD4277DEF650C71E380FD6652B51754E6C",
+            "referentie": "JUDITH 12:1",
+            "bronindices": [
+              4
+            ],
+            "grondindices": [
+              4
+            ]
+          }
+        },
+        {
+          "tekst": "drinken",
+          "voorkomen": 1,
+          "strongs": [
+            "G4095"
+          ],
+          "bronwoorden": [
+            "πίνειν"
+          ],
+          "transliteraties": [
+            "pinein"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "82B7D4FF3E36F3FAFC4B38ADF5A9D1FD4277DEF650C71E380FD6652B51754E6C",
+            "referentie": "JUDITH 12:1",
+            "bronindices": [
+              21
+            ],
+            "grondindices": [
+              21
+            ]
+          }
+        },
+        {
+          "tekst": "wijn",
+          "voorkomen": 1,
+          "strongs": [
+            "G3631"
+          ],
+          "bronwoorden": [
+            "οἴνου"
+          ],
+          "transliteraties": [
+            "oinou"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "82B7D4FF3E36F3FAFC4B38ADF5A9D1FD4277DEF650C71E380FD6652B51754E6C",
+            "referentie": "JUDITH 12:1",
+            "bronindices": [
+              19
+            ],
+            "grondindices": [
+              19
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "text1637": "Maar Judith zeide: Ik zal daarvan niet eten, opdat geen aanstoot daaruit ontsta, maar uit hetgeen mij volgt, zal mij toegediend worden.",
+      "textSV1888": "Maar Judith zeide: Ik zal daarvan niet eten, opdat geen aanstoot daaruit ontsta, maar uit hetgeen mij volgt, zal mij toegediend worden.",
+      "text2026": "Maar Judith zei: Ik zal daarvan niet eten, opdat geen aanstoot daaruit ontsta, maar uit wat mij volgt, zal mij toegediend worden.",
+      "marginNotes": [],
+      "text2026_html": "Maar Judith zei: <span class=\"direct-speech\"><i>Ik zal daarvan niet eten, opdat geen aanstoot daaruit ontsta, maar uit wat mij volgt, zal mij toegediend worden.</i></span>",
+      "phraseDiff": [
+        {
+          "old": "zeide:",
+          "new": "zei:",
+          "principe": "W1"
+        },
+        {
+          "old": "hetgeen",
+          "new": "wat",
+          "principe": "V4"
+        }
+      ],
+      "grondtekst": [
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "εἶπεν",
+          "strongs": "G2036",
+          "transliteratie": "eipen"
+        },
+        {
+          "woord": "Ιουδιθ",
+          "transliteratie": "ioudith"
+        },
+        {
+          "woord": "οὐ",
+          "strongs": "G3756",
+          "transliteratie": "ou"
+        },
+        {
+          "woord": "φάγομαι",
+          "strongs": "G2068",
+          "transliteratie": "phagomai"
+        },
+        {
+          "woord": "ἐξ",
+          "strongs": "G1537",
+          "transliteratie": "ex"
+        },
+        {
+          "woord": "αὐτῶν",
+          "strongs": "G846",
+          "transliteratie": "autōn"
+        },
+        {
+          "woord": "ἵνα",
+          "strongs": "G2443",
+          "transliteratie": "hina"
+        },
+        {
+          "woord": "μὴ",
+          "strongs": "G3361",
+          "transliteratie": "mē"
+        },
+        {
+          "woord": "γένηται",
+          "strongs": "G1096",
+          "transliteratie": "genētai"
+        },
+        {
+          "woord": "σκάνδαλον",
+          "strongs": "G4625",
+          "transliteratie": "skandalon"
+        },
+        {
+          "woord": "ἀλλ᾿",
+          "strongs": "G235",
+          "transliteratie": "all᾿"
+        },
+        {
+          "woord": "ἐκ",
+          "strongs": "G1537",
+          "transliteratie": "ek"
+        },
+        {
+          "woord": "τῶν",
+          "strongs": "G3588",
+          "transliteratie": "tōn"
+        },
+        {
+          "woord": "ἠκολουθηκότων",
+          "strongs": "G190",
+          "transliteratie": "ēkolouthēkotōn"
+        },
+        {
+          "woord": "μοι",
+          "strongs": "G3427",
+          "transliteratie": "moi"
+        },
+        {
+          "woord": "χορηγηθήσεται",
+          "strongs": "G5524",
+          "transliteratie": "chorēgēthēsetai"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "niet",
+          "voorkomen": 1,
+          "strongs": [
+            "G3756"
+          ],
+          "bronwoorden": [
+            "οὐ"
+          ],
+          "transliteraties": [
+            "ou"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "82B7D4FF3E36F3FAFC4B38ADF5A9D1FD4277DEF650C71E380FD6652B51754E6C",
+            "referentie": "JUDITH 12:2",
+            "bronindices": [
+              3
+            ],
+            "grondindices": [
+              3
+            ]
+          }
+        },
+        {
+          "tekst": "eten",
+          "voorkomen": 1,
+          "strongs": [
+            "G2068"
+          ],
+          "bronwoorden": [
+            "φάγομαι"
+          ],
+          "transliteraties": [
+            "phagomai"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "82B7D4FF3E36F3FAFC4B38ADF5A9D1FD4277DEF650C71E380FD6652B51754E6C",
+            "referentie": "JUDITH 12:2",
+            "bronindices": [
+              4
+            ],
+            "grondindices": [
+              4
+            ]
+          }
+        },
+        {
+          "tekst": "aanstoot",
+          "voorkomen": 1,
+          "strongs": [
+            "G4625"
+          ],
+          "bronwoorden": [
+            "σκάνδαλον"
+          ],
+          "transliteraties": [
+            "skandalon"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "82B7D4FF3E36F3FAFC4B38ADF5A9D1FD4277DEF650C71E380FD6652B51754E6C",
+            "referentie": "JUDITH 12:2",
+            "bronindices": [
+              10
+            ],
+            "grondindices": [
+              10
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "text1637": "En Holofernes zeide tot haar: Maar wanneer het op zal zijn, dat bij u is, vanwaar zullen wij dergelijke halen, om u te geven, want daar is niemand van uw geslacht onder ons.",
+      "textSV1888": "En Holofernes zeide tot haar: Maar wanneer het op zal zijn, dat bij u is, vanwaar zullen wij dergelijke halen, om u te geven, want daar is niemand van uw geslacht onder ons.",
+      "text2026": "En Holofernes zei tot haar: Maar wanneer het op zal zijn, dat bij u is, vanwaar zullen wij dergelijke halen, om u te geven, want daar is niemand van uw geslacht onder ons.",
+      "marginNotes": [],
+      "text2026_html": "En Holofernes zei tot haar: <span class=\"direct-speech\"><i>Maar wanneer het op zal zijn, dat bij u is, vanwaar zullen wij dergelijke halen, om u te geven, want daar is niemand van uw geslacht onder ons.</i></span>",
+      "phraseDiff": [
+        {
+          "old": "zeide",
+          "new": "zei",
+          "principe": "W1"
+        }
+      ],
+      "grondtekst": [
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "εἶπεν",
+          "strongs": "G2036",
+          "transliteratie": "eipen"
+        },
+        {
+          "woord": "πρὸς",
+          "strongs": "G4314",
+          "transliteratie": "pros"
+        },
+        {
+          "woord": "αὐτὴν",
+          "strongs": "G846",
+          "transliteratie": "autēn"
+        },
+        {
+          "woord": "Ολοφέρνης",
+          "transliteratie": "olophernēs"
+        },
+        {
+          "woord": "ἐὰν",
+          "strongs": "G1437",
+          "transliteratie": "ean"
+        },
+        {
+          "woord": "δὲ",
+          "strongs": "G1161",
+          "transliteratie": "de"
+        },
+        {
+          "woord": "ἐκλίπῃ",
+          "strongs": "G1587",
+          "transliteratie": "eklipē"
+        },
+        {
+          "woord": "τὰ",
+          "strongs": "G3588",
+          "transliteratie": "ta"
+        },
+        {
+          "woord": "ὄντα",
+          "strongs": "G1510",
+          "transliteratie": "onta"
+        },
+        {
+          "woord": "μετὰ",
+          "strongs": "G3326",
+          "transliteratie": "meta"
+        },
+        {
+          "woord": "σοῦ",
+          "strongs": "G4675",
+          "transliteratie": "sou"
+        },
+        {
+          "woord": "πόθεν",
+          "strongs": "G4159",
+          "transliteratie": "pothen"
+        },
+        {
+          "woord": "ἐξοίσομέν",
+          "strongs": "G1627",
+          "transliteratie": "exoisomen"
+        },
+        {
+          "woord": "σοι",
+          "strongs": "G4671",
+          "transliteratie": "soi"
+        },
+        {
+          "woord": "δοῦναι",
+          "strongs": "G1325",
+          "transliteratie": "dounai"
+        },
+        {
+          "woord": "ὅμοια",
+          "strongs": "G3664",
+          "transliteratie": "homoia"
+        },
+        {
+          "woord": "αὐτοῖς",
+          "strongs": "G846",
+          "transliteratie": "autois"
+        },
+        {
+          "woord": "οὐ",
+          "strongs": "G3756",
+          "transliteratie": "ou"
+        },
+        {
+          "woord": "γάρ",
+          "strongs": "G1063",
+          "transliteratie": "gar"
+        },
+        {
+          "woord": "ἐστιν",
+          "strongs": "G1510",
+          "transliteratie": "estin"
+        },
+        {
+          "woord": "μεθ᾿",
+          "strongs": "G3326",
+          "transliteratie": "meth᾿"
+        },
+        {
+          "woord": "ἡμῶν",
+          "strongs": "G2257",
+          "transliteratie": "hēmōn"
+        },
+        {
+          "woord": "ἐκ",
+          "strongs": "G1537",
+          "transliteratie": "ek"
+        },
+        {
+          "woord": "τοῦ",
+          "strongs": "G3588",
+          "transliteratie": "tou"
+        },
+        {
+          "woord": "γένους",
+          "strongs": "G1085",
+          "transliteratie": "genous"
+        },
+        {
+          "woord": "σου",
+          "strongs": "G4675",
+          "transliteratie": "sou"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "En",
+          "voorkomen": 1,
+          "strongs": [
+            "G2532"
+          ],
+          "bronwoorden": [
+            "καὶ"
+          ],
+          "transliteraties": [
+            "kai"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "82B7D4FF3E36F3FAFC4B38ADF5A9D1FD4277DEF650C71E380FD6652B51754E6C",
+            "referentie": "JUDITH 12:3",
+            "bronindices": [
+              0
+            ],
+            "grondindices": [
+              0
+            ]
+          }
+        },
+        {
+          "tekst": "Maar",
+          "voorkomen": 1,
+          "strongs": [
+            "G1161"
+          ],
+          "bronwoorden": [
+            "δὲ"
+          ],
+          "transliteraties": [
+            "de"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "82B7D4FF3E36F3FAFC4B38ADF5A9D1FD4277DEF650C71E380FD6652B51754E6C",
+            "referentie": "JUDITH 12:3",
+            "bronindices": [
+              6
+            ],
+            "grondindices": [
+              6
+            ]
+          }
+        },
+        {
+          "tekst": "vanwaar",
+          "voorkomen": 1,
+          "strongs": [
+            "G4159"
+          ],
+          "bronwoorden": [
+            "πόθεν"
+          ],
+          "transliteraties": [
+            "pothen"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "82B7D4FF3E36F3FAFC4B38ADF5A9D1FD4277DEF650C71E380FD6652B51754E6C",
+            "referentie": "JUDITH 12:3",
+            "bronindices": [
+              12
+            ],
+            "grondindices": [
+              12
+            ]
+          }
+        },
+        {
+          "tekst": "geven",
+          "voorkomen": 1,
+          "strongs": [
+            "G1325"
+          ],
+          "bronwoorden": [
+            "δοῦναι"
+          ],
+          "transliteraties": [
+            "dounai"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "82B7D4FF3E36F3FAFC4B38ADF5A9D1FD4277DEF650C71E380FD6652B51754E6C",
+            "referentie": "JUDITH 12:3",
+            "bronindices": [
+              15
+            ],
+            "grondindices": [
+              15
+            ]
+          }
+        },
+        {
+          "tekst": "geslacht",
+          "voorkomen": 1,
+          "strongs": [
+            "G1085"
+          ],
+          "bronwoorden": [
+            "γένους"
+          ],
+          "transliteraties": [
+            "genous"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "82B7D4FF3E36F3FAFC4B38ADF5A9D1FD4277DEF650C71E380FD6652B51754E6C",
+            "referentie": "JUDITH 12:3",
+            "bronindices": [
+              25
+            ],
+            "grondindices": [
+              25
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "text1637": "En Judith zeide tot hem: Zo waarachtig als uw ziel leeft, mijn heer, uw dienstmaagd zal niet opgeteerd hebben hetgeen ik bij mij heb, of de Here zal door mijn hand gedaan hebben, hetgeen Hij heeft beraadslaagd.",
+      "textSV1888": "En Judith zeide tot hem: Zo waarachtig als uw ziel leeft, mijn heer, uw dienstmaagd zal niet opgeteerd hebben hetgeen ik bij mij heb, of de Here zal door mijn hand gedaan hebben, hetgeen Hij heeft beraadslaagd.",
+      "text2026": "En Judith zei tot hem: Zo waarachtig als uw ziel leeft, mijn heer, uw dienstmaagd zal niet opgeteerd hebben wat ik bij mij heb, of de Heere zal door mijn hand gedaan hebben, wat Hij heeft beraadslaagd.",
+      "marginNotes": [],
+      "text2026_html": "En Judith zei tot hem: <span class=\"direct-speech\"><i>Zo waarachtig als uw ziel leeft, mijn heer, uw dienstmaagd zal niet opgeteerd hebben wat ik bij mij heb, of de Heere zal door mijn hand gedaan hebben, wat Hij heeft beraadslaagd.</i></span>",
+      "phraseDiff": [
+        {
+          "old": "zeide",
+          "new": "zei",
+          "principe": "W1"
+        },
+        {
+          "old": "hetgeen",
+          "new": "wat",
+          "principe": "V4"
+        },
+        {
+          "old": "Here",
+          "new": "Heere",
+          "principe": null
+        },
+        {
+          "old": "hetgeen",
+          "new": "wat",
+          "principe": "V4"
+        }
+      ],
+      "grondtekst": [
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "εἶπεν",
+          "strongs": "G2036",
+          "transliteratie": "eipen"
+        },
+        {
+          "woord": "Ιουδιθ",
+          "transliteratie": "ioudith"
+        },
+        {
+          "woord": "πρὸς",
+          "strongs": "G4314",
+          "transliteratie": "pros"
+        },
+        {
+          "woord": "αὐτόν",
+          "strongs": "G846",
+          "transliteratie": "auton"
+        },
+        {
+          "woord": "ζῇ",
+          "strongs": "G2198",
+          "transliteratie": "zē"
+        },
+        {
+          "woord": "ἡ",
+          "strongs": "G3588",
+          "transliteratie": "hē"
+        },
+        {
+          "woord": "ψυχή",
+          "strongs": "G5590",
+          "transliteratie": "psychē"
+        },
+        {
+          "woord": "σου",
+          "strongs": "G4675",
+          "transliteratie": "sou"
+        },
+        {
+          "woord": "κύριέ",
+          "strongs": "G2962",
+          "transliteratie": "kyrie"
+        },
+        {
+          "woord": "μου",
+          "strongs": "G3450",
+          "transliteratie": "mou"
+        },
+        {
+          "woord": "ὅτι",
+          "strongs": "G3754",
+          "transliteratie": "hoti"
+        },
+        {
+          "woord": "οὐ",
+          "strongs": "G3756",
+          "transliteratie": "ou"
+        },
+        {
+          "woord": "δαπανήσει",
+          "strongs": "G1159",
+          "transliteratie": "dapanēsei"
+        },
+        {
+          "woord": "ἡ",
+          "strongs": "G3588",
+          "transliteratie": "hē"
+        },
+        {
+          "woord": "δούλη",
+          "strongs": "G1399",
+          "transliteratie": "doulē"
+        },
+        {
+          "woord": "σου",
+          "strongs": "G4675",
+          "transliteratie": "sou"
+        },
+        {
+          "woord": "τὰ",
+          "strongs": "G3588",
+          "transliteratie": "ta"
+        },
+        {
+          "woord": "ὄντα",
+          "strongs": "G1510",
+          "transliteratie": "onta"
+        },
+        {
+          "woord": "μετ᾿",
+          "strongs": "G3326",
+          "transliteratie": "met᾿"
+        },
+        {
+          "woord": "ἐμοῦ",
+          "strongs": "G1700",
+          "transliteratie": "emou"
+        },
+        {
+          "woord": "ἕως",
+          "strongs": "G2193",
+          "transliteratie": "heōs"
+        },
+        {
+          "woord": "ἂν",
+          "strongs": "G302",
+          "transliteratie": "an"
+        },
+        {
+          "woord": "ποιήσῃ",
+          "strongs": "G4160",
+          "transliteratie": "poiēsē"
+        },
+        {
+          "woord": "κύριος",
+          "strongs": "G2962",
+          "transliteratie": "kyrios"
+        },
+        {
+          "woord": "ἐν",
+          "strongs": "G1722",
+          "transliteratie": "en"
+        },
+        {
+          "woord": "χειρί",
+          "strongs": "G5495",
+          "transliteratie": "cheiri"
+        },
+        {
+          "woord": "μου",
+          "strongs": "G3450",
+          "transliteratie": "mou"
+        },
+        {
+          "woord": "ἃ",
+          "strongs": "G3739",
+          "transliteratie": "ha"
+        },
+        {
+          "woord": "ἐβουλεύσατο",
+          "strongs": "G1011",
+          "transliteratie": "ebouleusato"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "En",
+          "voorkomen": 1,
+          "strongs": [
+            "G2532"
+          ],
+          "bronwoorden": [
+            "καὶ"
+          ],
+          "transliteraties": [
+            "kai"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "82B7D4FF3E36F3FAFC4B38ADF5A9D1FD4277DEF650C71E380FD6652B51754E6C",
+            "referentie": "JUDITH 12:4",
+            "bronindices": [
+              0
+            ],
+            "grondindices": [
+              0
+            ]
+          }
+        },
+        {
+          "tekst": "niet",
+          "voorkomen": 1,
+          "strongs": [
+            "G3756"
+          ],
+          "bronwoorden": [
+            "οὐ"
+          ],
+          "transliteraties": [
+            "ou"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "82B7D4FF3E36F3FAFC4B38ADF5A9D1FD4277DEF650C71E380FD6652B51754E6C",
+            "referentie": "JUDITH 12:4",
+            "bronindices": [
+              12
+            ],
+            "grondindices": [
+              12
+            ]
+          }
+        },
+        {
+          "tekst": "hand",
+          "voorkomen": 1,
+          "strongs": [
+            "G5495"
+          ],
+          "bronwoorden": [
+            "χειρί"
+          ],
+          "transliteraties": [
+            "cheiri"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "82B7D4FF3E36F3FAFC4B38ADF5A9D1FD4277DEF650C71E380FD6652B51754E6C",
+            "referentie": "JUDITH 12:4",
+            "bronindices": [
+              26
+            ],
+            "grondindices": [
+              26
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "text1637": "En de dienaars van Holofernes brachten haar in de tent, en zij sliep tot de middernacht; en zij stond op tegen de morgenwake.",
+      "textSV1888": "En de dienaars van Holofernes brachten haar in de tent, en zij sliep tot de middernacht; en zij stond op tegen de morgenwake.",
+      "text2026": "En de dienaren van Holofernes brachten haar in de tent, en zij sliep tot de middernacht; en zij stond op tegen de morgenwake.",
+      "marginNotes": [],
+      "text2026_html": "En de dienaren van Holofernes brachten haar in de tent, en zij sliep tot de middernacht; en zij stond op tegen de morgenwake.",
+      "grondtekst": [
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ἠγάγοσαν",
+          "strongs": "G71",
+          "transliteratie": "ēgagosan"
+        },
+        {
+          "woord": "αὐτὴν",
+          "strongs": "G846",
+          "transliteratie": "autēn"
+        },
+        {
+          "woord": "οἱ",
+          "strongs": "G3588",
+          "transliteratie": "hoi"
+        },
+        {
+          "woord": "θεράποντες",
+          "strongs": "G2324",
+          "transliteratie": "therapontes"
+        },
+        {
+          "woord": "Ολοφέρνου",
+          "transliteratie": "olophernou"
+        },
+        {
+          "woord": "εἰς",
+          "strongs": "G1519",
+          "transliteratie": "eis"
+        },
+        {
+          "woord": "τὴν",
+          "strongs": "G3588",
+          "transliteratie": "tēn"
+        },
+        {
+          "woord": "σκηνήν",
+          "strongs": "G4633",
+          "transliteratie": "skēnēn"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ὕπνωσεν",
+          "transliteratie": "hypnōsen"
+        },
+        {
+          "woord": "μέχρι",
+          "strongs": "G3360",
+          "transliteratie": "mechri"
+        },
+        {
+          "woord": "μεσούσης",
+          "strongs": "G3322",
+          "transliteratie": "mesousēs"
+        },
+        {
+          "woord": "τῆς",
+          "strongs": "G3588",
+          "transliteratie": "tēs"
+        },
+        {
+          "woord": "νυκτός",
+          "strongs": "G3571",
+          "transliteratie": "nyktos"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ἀνέστη",
+          "strongs": "G450",
+          "transliteratie": "anestē"
+        },
+        {
+          "woord": "πρὸς",
+          "strongs": "G4314",
+          "transliteratie": "pros"
+        },
+        {
+          "woord": "τὴν",
+          "strongs": "G3588",
+          "transliteratie": "tēn"
+        },
+        {
+          "woord": "ἑωθινὴν",
+          "transliteratie": "heōthinēn"
+        },
+        {
+          "woord": "φυλακήν",
+          "strongs": "G5438",
+          "transliteratie": "phylakēn"
+        }
+      ],
+      "phraseDiff": [
+        {
+          "old": "dienaars",
+          "new": "dienaren",
+          "principe": "V489"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "tent",
+          "voorkomen": 1,
+          "strongs": [
+            "G4633"
+          ],
+          "bronwoorden": [
+            "σκηνήν"
+          ],
+          "transliteraties": [
+            "skēnēn"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "82B7D4FF3E36F3FAFC4B38ADF5A9D1FD4277DEF650C71E380FD6652B51754E6C",
+            "referentie": "JUDITH 12:5",
+            "bronindices": [
+              8
+            ],
+            "grondindices": [
+              8
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "text1637": "En zij zond tot Holofernes, zeggende: Mijn heer beveel toch, dat men toelate dat zijn dienstmaagd tot het gebed uitga; en Holofernes beval zijn lijfwachten, dat zij haar niet verhinderden.",
+      "textSV1888": "En zij zond tot Holofernes, zeggende: Mijn heer beveel toch, dat men toelate dat zijn dienstmaagd tot het gebed uitga; en Holofernes beval zijn lijfwachten, dat zij haar niet verhinderden.",
+      "text2026": "En zij zond tot Holofernes, zeggende: Mijn heer beveel toch, dat men toelate dat zijn dienstmaagd tot het gebed uitga; en Holofernes beval zijn lijfwachten, dat zij haar niet verhinderden.",
+      "marginNotes": [],
+      "text2026_html": "En zij zond tot Holofernes, zeggende: <span class=\"direct-speech\"><i>Mijn heer beveel toch, dat men toelate dat zijn dienstmaagd tot het gebed uitga;</i></span> en Holofernes beval zijn lijfwachten, dat zij haar niet verhinderden.",
+      "grondtekst": [
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ἀπέστειλεν",
+          "strongs": "G649",
+          "transliteratie": "apesteilen"
+        },
+        {
+          "woord": "πρὸς",
+          "strongs": "G4314",
+          "transliteratie": "pros"
+        },
+        {
+          "woord": "Ολοφέρνην",
+          "transliteratie": "olophernēn"
+        },
+        {
+          "woord": "λέγουσα",
+          "strongs": "G3004",
+          "transliteratie": "legousa"
+        },
+        {
+          "woord": "ἐπιταξάτω",
+          "strongs": "G2004",
+          "transliteratie": "epitaxatō"
+        },
+        {
+          "woord": "δὴ",
+          "strongs": "G1211",
+          "transliteratie": "dē"
+        },
+        {
+          "woord": "ὁ",
+          "strongs": "G3588",
+          "transliteratie": "ho"
+        },
+        {
+          "woord": "κύριός",
+          "strongs": "G2962",
+          "transliteratie": "kyrios"
+        },
+        {
+          "woord": "μου",
+          "strongs": "G3450",
+          "transliteratie": "mou"
+        },
+        {
+          "woord": "ἐᾶσαι",
+          "strongs": "G1439",
+          "transliteratie": "easai"
+        },
+        {
+          "woord": "τὴν",
+          "strongs": "G3588",
+          "transliteratie": "tēn"
+        },
+        {
+          "woord": "δούλην",
+          "strongs": "G1399",
+          "transliteratie": "doulēn"
+        },
+        {
+          "woord": "σου",
+          "strongs": "G4675",
+          "transliteratie": "sou"
+        },
+        {
+          "woord": "ἐπὶ",
+          "strongs": "G1909",
+          "transliteratie": "epi"
+        },
+        {
+          "woord": "προσευχὴν",
+          "strongs": "G4335",
+          "transliteratie": "proseuchēn"
+        },
+        {
+          "woord": "ἐξελθεῖν",
+          "strongs": "G1831",
+          "transliteratie": "exelthein"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "gebed",
+          "voorkomen": 1,
+          "strongs": [
+            "G4335"
+          ],
+          "bronwoorden": [
+            "προσευχὴν"
+          ],
+          "transliteraties": [
+            "proseuchēn"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "82B7D4FF3E36F3FAFC4B38ADF5A9D1FD4277DEF650C71E380FD6652B51754E6C",
+            "referentie": "JUDITH 12:6",
+            "bronindices": [
+              15
+            ],
+            "grondindices": [
+              15
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "text1637": "En zij verbleef in het leger drie dagen, en zij ging des nachts uit naar het dal van Bethulië, en zij wies zich in het leger, in de waterfonteinen.",
+      "textSV1888": "En zij verbleef in het leger drie dagen, en zij ging des nachts uit naar het dal van Bethulië, en zij wies zich in het leger, in de waterfonteinen.",
+      "text2026": "En zij verbleef in het leger drie dagen, en zij ging 's nachts uit naar het dal van Bethulië, en zij waste zich in het leger, in de waterfonteinen.",
+      "marginNotes": [],
+      "text2026_html": "En zij verbleef in het leger drie dagen, en zij ging 's nachts uit naar het dal van Bethulië, en zij waste zich in het leger, in de waterfonteinen.",
+      "phraseDiff": [
+        {
+          "old": "des",
+          "new": "'s",
+          "principe": "V973"
+        },
+        {
+          "old": "wies",
+          "new": "waste",
+          "principe": "V973"
+        }
+      ],
+      "grondtekst": [
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "προσέταξεν",
+          "strongs": "G4367",
+          "transliteratie": "prosetaxen"
+        },
+        {
+          "woord": "Ολοφέρνης",
+          "transliteratie": "olophernēs"
+        },
+        {
+          "woord": "τοῖς",
+          "strongs": "G3588",
+          "transliteratie": "tois"
+        },
+        {
+          "woord": "σωματοφύλαξιν",
+          "transliteratie": "sōmatophylaxin"
+        },
+        {
+          "woord": "μὴ",
+          "strongs": "G3361",
+          "transliteratie": "mē"
+        },
+        {
+          "woord": "διακωλύειν",
+          "strongs": "G1254",
+          "transliteratie": "diakōlyein"
+        },
+        {
+          "woord": "αὐτήν",
+          "strongs": "G846",
+          "transliteratie": "autēn"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "παρέμεινεν",
+          "strongs": "G3887",
+          "transliteratie": "paremeinen"
+        },
+        {
+          "woord": "ἐν",
+          "strongs": "G1722",
+          "transliteratie": "en"
+        },
+        {
+          "woord": "τῇ",
+          "strongs": "G3588",
+          "transliteratie": "tē"
+        },
+        {
+          "woord": "παρεμβολῇ",
+          "strongs": "G3925",
+          "transliteratie": "parembolē"
+        },
+        {
+          "woord": "ἡμέρας",
+          "strongs": "G2250",
+          "transliteratie": "hēmeras"
+        },
+        {
+          "woord": "τρεῖς",
+          "strongs": "G5140",
+          "transliteratie": "treis"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ἐξεπορεύετο",
+          "strongs": "G1607",
+          "transliteratie": "exeporeueto"
+        },
+        {
+          "woord": "κατὰ",
+          "strongs": "G2596",
+          "transliteratie": "kata"
+        },
+        {
+          "woord": "νύκτα",
+          "strongs": "G3571",
+          "transliteratie": "nykta"
+        },
+        {
+          "woord": "εἰς",
+          "strongs": "G1519",
+          "transliteratie": "eis"
+        },
+        {
+          "woord": "τὴν",
+          "strongs": "G3588",
+          "transliteratie": "tēn"
+        },
+        {
+          "woord": "φάραγγα",
+          "strongs": "G5327",
+          "transliteratie": "pharanga"
+        },
+        {
+          "woord": "Βαιτυλουα",
+          "transliteratie": "baityloua"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ἐβαπτίζετο",
+          "strongs": "G907",
+          "transliteratie": "ebaptizeto"
+        },
+        {
+          "woord": "ἐν",
+          "strongs": "G1722",
+          "transliteratie": "en"
+        },
+        {
+          "woord": "τῇ",
+          "strongs": "G3588",
+          "transliteratie": "tē"
+        },
+        {
+          "woord": "παρεμβολῇ",
+          "strongs": "G3925",
+          "transliteratie": "parembolē"
+        },
+        {
+          "woord": "ἐπὶ",
+          "strongs": "G1909",
+          "transliteratie": "epi"
+        },
+        {
+          "woord": "τῆς",
+          "strongs": "G3588",
+          "transliteratie": "tēs"
+        },
+        {
+          "woord": "πηγῆς",
+          "strongs": "G4077",
+          "transliteratie": "pēgēs"
+        },
+        {
+          "woord": "τοῦ",
+          "strongs": "G3588",
+          "transliteratie": "tou"
+        },
+        {
+          "woord": "ὕδατος",
+          "strongs": "G5204",
+          "transliteratie": "hydatos"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "drie",
+          "voorkomen": 1,
+          "strongs": [
+            "G5140"
+          ],
+          "bronwoorden": [
+            "τρεῖς"
+          ],
+          "transliteraties": [
+            "treis"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "82B7D4FF3E36F3FAFC4B38ADF5A9D1FD4277DEF650C71E380FD6652B51754E6C",
+            "referentie": "JUDITH 12:7",
+            "bronindices": [
+              14
+            ],
+            "grondindices": [
+              14
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "text1637": "En als zij weder opkwam, bad zij de Here, de God Israëls, dat Hij haar weg richten wilde, tot oprichting van de kinderen haars volks.",
+      "textSV1888": "En als zij weder opkwam, bad zij de Here, de God Israëls, dat Hij haar weg richten wilde, tot oprichting van de kinderen haars volks.",
+      "text2026": "En als zij weer opkwam, bad zij de Heere, de God van Israël, dat Hij haar weg richten wilde, tot oprichting van de kinderen van haar volk.",
+      "marginNotes": [],
+      "text2026_html": "En als zij weer opkwam, bad zij de Heere, de God van Israël, dat Hij haar weg richten wilde, tot oprichting van de kinderen van haar volk.",
+      "phraseDiff": [
+        {
+          "old": "weder",
+          "new": "weer",
+          "principe": "V66"
+        },
+        {
+          "old": "Here,",
+          "new": "Heere,",
+          "principe": null
+        },
+        {
+          "old": "Israëls,",
+          "new": "van Israël,",
+          "principe": null
+        },
+        {
+          "old": "haars volks.",
+          "new": "van haar volk.",
+          "principe": "V207"
+        }
+      ],
+      "grondtekst": [
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ὡς",
+          "strongs": "G5613",
+          "transliteratie": "hōs"
+        },
+        {
+          "woord": "ἀνέβη",
+          "strongs": "G305",
+          "transliteratie": "anebē"
+        },
+        {
+          "woord": "ἐδέετο",
+          "strongs": "G1210",
+          "transliteratie": "edeeto"
+        },
+        {
+          "woord": "τοῦ",
+          "strongs": "G3588",
+          "transliteratie": "tou"
+        },
+        {
+          "woord": "κυρίου",
+          "strongs": "G2962",
+          "transliteratie": "kyriou"
+        },
+        {
+          "woord": "θεοῦ",
+          "strongs": "G2316",
+          "transliteratie": "theou"
+        },
+        {
+          "woord": "Ισραηλ",
+          "strongs": "G2474",
+          "transliteratie": "israēl"
+        },
+        {
+          "woord": "κατευθῦναι",
+          "strongs": "G2720",
+          "transliteratie": "kateuthynai"
+        },
+        {
+          "woord": "τὴν",
+          "strongs": "G3588",
+          "transliteratie": "tēn"
+        },
+        {
+          "woord": "ὁδὸν",
+          "strongs": "G3598",
+          "transliteratie": "hodon"
+        },
+        {
+          "woord": "αὐτῆς",
+          "strongs": "G846",
+          "transliteratie": "autēs"
+        },
+        {
+          "woord": "εἰς",
+          "strongs": "G1519",
+          "transliteratie": "eis"
+        },
+        {
+          "woord": "ἀνάστημα",
+          "transliteratie": "anastēma"
+        },
+        {
+          "woord": "τῶν",
+          "strongs": "G3588",
+          "transliteratie": "tōn"
+        },
+        {
+          "woord": "υἱῶν",
+          "strongs": "G5207",
+          "transliteratie": "huiōn"
+        },
+        {
+          "woord": "τοῦ",
+          "strongs": "G3588",
+          "transliteratie": "tou"
+        },
+        {
+          "woord": "λαοῦ",
+          "strongs": "G2992",
+          "transliteratie": "laou"
+        },
+        {
+          "woord": "αὐτοῦ",
+          "strongs": "G846",
+          "transliteratie": "autou"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "En",
+          "voorkomen": 1,
+          "strongs": [
+            "G2532"
+          ],
+          "bronwoorden": [
+            "καὶ"
+          ],
+          "transliteraties": [
+            "kai"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "82B7D4FF3E36F3FAFC4B38ADF5A9D1FD4277DEF650C71E380FD6652B51754E6C",
+            "referentie": "JUDITH 12:8",
+            "bronindices": [
+              0
+            ],
+            "grondindices": [
+              0
+            ]
+          }
+        },
+        {
+          "tekst": "God",
+          "voorkomen": 1,
+          "strongs": [
+            "G2316"
+          ],
+          "bronwoorden": [
+            "θεοῦ"
+          ],
+          "transliteraties": [
+            "theou"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "82B7D4FF3E36F3FAFC4B38ADF5A9D1FD4277DEF650C71E380FD6652B51754E6C",
+            "referentie": "JUDITH 12:8",
+            "bronindices": [
+              6
+            ],
+            "grondindices": [
+              6
+            ]
+          }
+        },
+        {
+          "tekst": "Israël",
+          "voorkomen": 1,
+          "strongs": [
+            "G2474"
+          ],
+          "bronwoorden": [
+            "Ισραηλ"
+          ],
+          "transliteraties": [
+            "israēl"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "82B7D4FF3E36F3FAFC4B38ADF5A9D1FD4277DEF650C71E380FD6652B51754E6C",
+            "referentie": "JUDITH 12:8",
+            "bronindices": [
+              7
+            ],
+            "grondindices": [
+              7
+            ]
+          }
+        },
+        {
+          "tekst": "weg",
+          "voorkomen": 1,
+          "strongs": [
+            "G3598"
+          ],
+          "bronwoorden": [
+            "ὁδὸν"
+          ],
+          "transliteraties": [
+            "hodon"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "82B7D4FF3E36F3FAFC4B38ADF5A9D1FD4277DEF650C71E380FD6652B51754E6C",
+            "referentie": "JUDITH 12:8",
+            "bronindices": [
+              10
+            ],
+            "grondindices": [
+              10
+            ]
+          }
+        },
+        {
+          "tekst": "volk",
+          "voorkomen": 1,
+          "strongs": [
+            "G2992"
+          ],
+          "bronwoorden": [
+            "λαοῦ"
+          ],
+          "transliteraties": [
+            "laou"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "82B7D4FF3E36F3FAFC4B38ADF5A9D1FD4277DEF650C71E380FD6652B51754E6C",
+            "referentie": "JUDITH 12:8",
+            "bronindices": [
+              17
+            ],
+            "grondindices": [
+              17
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "text1637": "En inkomende, bleef zij rein in de tent, totdat men haar haar spijs bracht tegen de avond.",
+      "textSV1888": "En inkomende, bleef zij rein in de tent, totdat men haar haar spijs bracht tegen de avond.",
+      "text2026": "En inkomende, bleef zij rein in de tent, totdat men haar haar voedsel bracht tegen de avond.",
+      "marginNotes": [],
+      "text2026_html": "En inkomende, bleef zij rein in de tent, totdat men haar haar voedsel bracht tegen de avond.",
+      "grondtekst": [
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "εἰσπορευομένη",
+          "strongs": "G1531",
+          "transliteratie": "eisporeuomenē"
+        },
+        {
+          "woord": "καθαρὰ",
+          "strongs": "G2513",
+          "transliteratie": "kathara"
+        },
+        {
+          "woord": "παρέμενεν",
+          "strongs": "G3887",
+          "transliteratie": "paremenen"
+        },
+        {
+          "woord": "ἐν",
+          "strongs": "G1722",
+          "transliteratie": "en"
+        },
+        {
+          "woord": "τῇ",
+          "strongs": "G3588",
+          "transliteratie": "tē"
+        },
+        {
+          "woord": "σκηνῇ",
+          "strongs": "G4633",
+          "transliteratie": "skēnē"
+        },
+        {
+          "woord": "μέχρι",
+          "strongs": "G3360",
+          "transliteratie": "mechri"
+        },
+        {
+          "woord": "οὗ",
+          "strongs": "G3739",
+          "transliteratie": "hou"
+        },
+        {
+          "woord": "προσηνέγκατο",
+          "strongs": "G4374",
+          "transliteratie": "prosēnenkato"
+        },
+        {
+          "woord": "τὴν",
+          "strongs": "G3588",
+          "transliteratie": "tēn"
+        },
+        {
+          "woord": "τροφὴν",
+          "strongs": "G5160",
+          "transliteratie": "trophēn"
+        },
+        {
+          "woord": "αὐτῆς",
+          "strongs": "G846",
+          "transliteratie": "autēs"
+        },
+        {
+          "woord": "πρὸς",
+          "strongs": "G4314",
+          "transliteratie": "pros"
+        },
+        {
+          "woord": "ἑσπέραν",
+          "strongs": "G2073",
+          "transliteratie": "hesperan"
+        }
+      ],
+      "phraseDiff": [
+        {
+          "old": "spijs",
+          "new": "voedsel",
+          "principe": "V526"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "En",
+          "voorkomen": 1,
+          "strongs": [
+            "G2532"
+          ],
+          "bronwoorden": [
+            "καὶ"
+          ],
+          "transliteraties": [
+            "kai"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "82B7D4FF3E36F3FAFC4B38ADF5A9D1FD4277DEF650C71E380FD6652B51754E6C",
+            "referentie": "JUDITH 12:9",
+            "bronindices": [
+              0
+            ],
+            "grondindices": [
+              0
+            ]
+          }
+        },
+        {
+          "tekst": "rein",
+          "voorkomen": 1,
+          "strongs": [
+            "G2513"
+          ],
+          "bronwoorden": [
+            "καθαρὰ"
+          ],
+          "transliteraties": [
+            "kathara"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "82B7D4FF3E36F3FAFC4B38ADF5A9D1FD4277DEF650C71E380FD6652B51754E6C",
+            "referentie": "JUDITH 12:9",
+            "bronindices": [
+              2
+            ],
+            "grondindices": [
+              2
+            ]
+          }
+        },
+        {
+          "tekst": "tent",
+          "voorkomen": 1,
+          "strongs": [
+            "G4633"
+          ],
+          "bronwoorden": [
+            "σκηνῇ"
+          ],
+          "transliteraties": [
+            "skēnē"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "82B7D4FF3E36F3FAFC4B38ADF5A9D1FD4277DEF650C71E380FD6652B51754E6C",
+            "referentie": "JUDITH 12:9",
+            "bronindices": [
+              6
+            ],
+            "grondindices": [
+              6
+            ]
+          }
+        },
+        {
+          "tekst": "totdat",
+          "voorkomen": 1,
+          "strongs": [
+            "G3360"
+          ],
+          "bronwoorden": [
+            "μέχρι"
+          ],
+          "transliteraties": [
+            "mechri"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "82B7D4FF3E36F3FAFC4B38ADF5A9D1FD4277DEF650C71E380FD6652B51754E6C",
+            "referentie": "JUDITH 12:9",
+            "bronindices": [
+              7
+            ],
+            "grondindices": [
+              7
+            ]
+          }
+        },
+        {
+          "tekst": "voedsel",
+          "voorkomen": 1,
+          "strongs": [
+            "G5160"
+          ],
+          "bronwoorden": [
+            "τροφὴν"
+          ],
+          "transliteraties": [
+            "trophēn"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "82B7D4FF3E36F3FAFC4B38ADF5A9D1FD4277DEF650C71E380FD6652B51754E6C",
+            "referentie": "JUDITH 12:9",
+            "bronindices": [
+              11
+            ],
+            "grondindices": [
+              11
+            ]
+          }
+        },
+        {
+          "tekst": "avond",
+          "voorkomen": 1,
+          "strongs": [
+            "G2073"
+          ],
+          "bronwoorden": [
+            "ἑσπέραν"
+          ],
+          "transliteraties": [
+            "hesperan"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "82B7D4FF3E36F3FAFC4B38ADF5A9D1FD4277DEF650C71E380FD6652B51754E6C",
+            "referentie": "JUDITH 12:9",
+            "bronindices": [
+              14
+            ],
+            "grondindices": [
+              14
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "text1637": "En het geschiedde op de vierde dag, dat Holofernes een maaltijd aanrichtte, alleen voor zijn dienstknechten, en riep niemand daartoe dergenen, die over de gemene zaken waren, en hij zeide tot Bagoas de kamerling, welke over alles gesteld was dat hem toebehoorde: Ga toch heen en overreed de Hebreeuwse vrouw die bij u is, dat zij bij ons kome, en met ons ete en drinke.",
+      "textSV1888": "En het geschiedde op de vierde dag, dat Holofernes een maaltijd aanrichtte, alleen voor zijn dienstknechten, en riep niemand daartoe dergenen, die over de gemene zaken waren, en hij zeide tot Bagoas de kamerling, welke over alles gesteld was dat hem toebehoorde: Ga toch heen en overreed de Hebreeuwse vrouw die bij u is, dat zij bij ons kome, en met ons ete en drinke.",
+      "text2026": "En het gebeurde op de vierde dag, dat Holofernes een maaltijd aanrichtte, alleen voor zijn dienaren, en riep niemand daartoe van degenen, die over de gemene zaken waren, en hij zei tot Bagoas de kamerling, die over alles gesteld was dat hem toebehoorde: Ga toch heen en overreed de Hebreeuwse vrouw die bij u is, dat zij bij ons kome, en met ons ete en drinke.",
+      "marginNotes": [],
+      "text2026_html": "En het gebeurde op de vierde dag, dat Holofernes een maaltijd aanrichtte, alleen voor zijn dienaren, en riep niemand daartoe van degenen, die over de gemene zaken waren, en hij zei tot Bagoas de kamerling, die over alles gesteld was dat hem toebehoorde: <span class=\"direct-speech\"><i>Ga toch heen en overreed de Hebreeuwse vrouw die bij u is, dat zij bij ons kome, en met ons ete en drinke.</i></span>",
+      "phraseDiff": [
+        {
+          "old": "geschiedde",
+          "new": "gebeurde",
+          "principe": null
+        },
+        {
+          "old": "dienstknechten,",
+          "new": "dienaren,",
+          "principe": "V744"
+        },
+        {
+          "old": "dergenen,",
+          "new": "van degenen,",
+          "principe": "V302"
+        },
+        {
+          "old": "zeide",
+          "new": "zei",
+          "principe": "W1"
+        },
+        {
+          "old": "welke",
+          "new": "die",
+          "principe": "V808"
+        }
+      ],
+      "grondtekst": [
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ἐγένετο",
+          "strongs": "G1096",
+          "transliteratie": "egeneto"
+        },
+        {
+          "woord": "ἐν",
+          "strongs": "G1722",
+          "transliteratie": "en"
+        },
+        {
+          "woord": "τῇ",
+          "strongs": "G3588",
+          "transliteratie": "tē"
+        },
+        {
+          "woord": "ἡμέρᾳ",
+          "strongs": "G2250",
+          "transliteratie": "hēmera"
+        },
+        {
+          "woord": "τῇ",
+          "strongs": "G3588",
+          "transliteratie": "tē"
+        },
+        {
+          "woord": "τετάρτῃ",
+          "strongs": "G5067",
+          "transliteratie": "tetartē"
+        },
+        {
+          "woord": "ἐποίησεν",
+          "strongs": "G4160",
+          "transliteratie": "epoiēsen"
+        },
+        {
+          "woord": "Ολοφέρνης",
+          "transliteratie": "olophernēs"
+        },
+        {
+          "woord": "πότον",
+          "strongs": "G4224",
+          "transliteratie": "poton"
+        },
+        {
+          "woord": "τοῖς",
+          "strongs": "G3588",
+          "transliteratie": "tois"
+        },
+        {
+          "woord": "δούλοις",
+          "strongs": "G1401",
+          "transliteratie": "doulois"
+        },
+        {
+          "woord": "αὐτοῦ",
+          "strongs": "G846",
+          "transliteratie": "autou"
+        },
+        {
+          "woord": "μόνοις",
+          "strongs": "G3441",
+          "transliteratie": "monois"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "οὐκ",
+          "strongs": "G3756",
+          "transliteratie": "ouk"
+        },
+        {
+          "woord": "ἐκάλεσεν",
+          "strongs": "G2564",
+          "transliteratie": "ekalesen"
+        },
+        {
+          "woord": "εἰς",
+          "strongs": "G1519",
+          "transliteratie": "eis"
+        },
+        {
+          "woord": "τὴν",
+          "strongs": "G3588",
+          "transliteratie": "tēn"
+        },
+        {
+          "woord": "κλῆσιν",
+          "strongs": "G2821",
+          "transliteratie": "klēsin"
+        },
+        {
+          "woord": "οὐδένα",
+          "strongs": "G3762",
+          "transliteratie": "oudena"
+        },
+        {
+          "woord": "τῶν",
+          "strongs": "G3588",
+          "transliteratie": "tōn"
+        },
+        {
+          "woord": "πρὸς",
+          "strongs": "G4314",
+          "transliteratie": "pros"
+        },
+        {
+          "woord": "ταῖς",
+          "strongs": "G3588",
+          "transliteratie": "tais"
+        },
+        {
+          "woord": "χρείαις",
+          "strongs": "G5532",
+          "transliteratie": "chreiais"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "vierde",
+          "voorkomen": 1,
+          "strongs": [
+            "G5067"
+          ],
+          "bronwoorden": [
+            "τετάρτῃ"
+          ],
+          "transliteraties": [
+            "tetartē"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "82B7D4FF3E36F3FAFC4B38ADF5A9D1FD4277DEF650C71E380FD6652B51754E6C",
+            "referentie": "JUDITH 12:10",
+            "bronindices": [
+              6
+            ],
+            "grondindices": [
+              6
+            ]
+          }
+        },
+        {
+          "tekst": "dag",
+          "voorkomen": 1,
+          "strongs": [
+            "G2250"
+          ],
+          "bronwoorden": [
+            "ἡμέρᾳ"
+          ],
+          "transliteraties": [
+            "hēmera"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "82B7D4FF3E36F3FAFC4B38ADF5A9D1FD4277DEF650C71E380FD6652B51754E6C",
+            "referentie": "JUDITH 12:10",
+            "bronindices": [
+              4
+            ],
+            "grondindices": [
+              4
+            ]
+          }
+        },
+        {
+          "tekst": "alleen",
+          "voorkomen": 1,
+          "strongs": [
+            "G3441"
+          ],
+          "bronwoorden": [
+            "μόνοις"
+          ],
+          "transliteraties": [
+            "monois"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "82B7D4FF3E36F3FAFC4B38ADF5A9D1FD4277DEF650C71E380FD6652B51754E6C",
+            "referentie": "JUDITH 12:10",
+            "bronindices": [
+              13
+            ],
+            "grondindices": [
+              13
+            ]
+          }
+        },
+        {
+          "tekst": "niemand",
+          "voorkomen": 1,
+          "strongs": [
+            "G3762"
+          ],
+          "bronwoorden": [
+            "οὐδένα"
+          ],
+          "transliteraties": [
+            "oudena"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "82B7D4FF3E36F3FAFC4B38ADF5A9D1FD4277DEF650C71E380FD6652B51754E6C",
+            "referentie": "JUDITH 12:10",
+            "bronindices": [
+              20
+            ],
+            "grondindices": [
+              20
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "text1637": "Want zie, het is schande voor ons dat wij zodanige vrouw zouden laten gaan, zonder gemeenschap met haar te hebben, want zo wij haar niet tot ons trekken, zij zal ons bespotten.",
+      "textSV1888": "Want zie, het is schande voor ons dat wij zodanige vrouw zouden laten gaan, zonder gemeenschap met haar te hebben, want zo wij haar niet tot ons trekken, zij zal ons bespotten.",
+      "text2026": "Want zie, het is schande voor ons dat wij zulk een vrouw zouden laten gaan, zonder gemeenschap met haar te hebben, want zo wij haar niet tot ons trekken, zij zal ons bespotten.",
+      "marginNotes": [],
+      "text2026_html": "<span class=\"direct-speech\"><i>Want zie, het is schande voor ons dat wij zulk een vrouw zouden laten gaan, zonder gemeenschap met haar te hebben, want zo wij haar niet tot ons trekken, zij zal ons bespotten.</i></span>",
+      "grondtekst": [
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "εἶπεν",
+          "strongs": "G2036",
+          "transliteratie": "eipen"
+        },
+        {
+          "woord": "Βαγώᾳ",
+          "transliteratie": "bagōa"
+        },
+        {
+          "woord": "τῷ",
+          "strongs": "G3588",
+          "transliteratie": "tō"
+        },
+        {
+          "woord": "εὐνούχῳ",
+          "strongs": "G2135",
+          "transliteratie": "eunouchō"
+        },
+        {
+          "woord": "ὃς",
+          "strongs": "G3739",
+          "transliteratie": "hos"
+        },
+        {
+          "woord": "ἦν",
+          "strongs": "G1510",
+          "transliteratie": "ēn"
+        },
+        {
+          "woord": "ἐφεστηκὼς",
+          "strongs": "G2186",
+          "transliteratie": "ephestēkōs"
+        },
+        {
+          "woord": "ἐπὶ",
+          "strongs": "G1909",
+          "transliteratie": "epi"
+        },
+        {
+          "woord": "πάντων",
+          "strongs": "G3956",
+          "transliteratie": "pantōn"
+        },
+        {
+          "woord": "τῶν",
+          "strongs": "G3588",
+          "transliteratie": "tōn"
+        },
+        {
+          "woord": "αὐτοῦ",
+          "strongs": "G846",
+          "transliteratie": "autou"
+        },
+        {
+          "woord": "πεῖσον",
+          "strongs": "G3982",
+          "transliteratie": "peison"
+        },
+        {
+          "woord": "δὴ",
+          "strongs": "G1211",
+          "transliteratie": "dē"
+        },
+        {
+          "woord": "πορευθεὶς",
+          "strongs": "G4198",
+          "transliteratie": "poreutheis"
+        },
+        {
+          "woord": "τὴν",
+          "strongs": "G3588",
+          "transliteratie": "tēn"
+        },
+        {
+          "woord": "γυναῖκα",
+          "strongs": "G1135",
+          "transliteratie": "gynaika"
+        },
+        {
+          "woord": "τὴν",
+          "strongs": "G3588",
+          "transliteratie": "tēn"
+        },
+        {
+          "woord": "Εβραίαν",
+          "strongs": "G1445",
+          "transliteratie": "ebraian"
+        },
+        {
+          "woord": "ἥ",
+          "strongs": "G3739",
+          "transliteratie": "hē"
+        },
+        {
+          "woord": "ἐστιν",
+          "strongs": "G1510",
+          "transliteratie": "estin"
+        },
+        {
+          "woord": "παρὰ",
+          "strongs": "G3844",
+          "transliteratie": "para"
+        },
+        {
+          "woord": "σοί",
+          "strongs": "G4671",
+          "transliteratie": "soi"
+        },
+        {
+          "woord": "τοῦ",
+          "strongs": "G3588",
+          "transliteratie": "tou"
+        },
+        {
+          "woord": "ἐλθεῖν",
+          "strongs": "G2064",
+          "transliteratie": "elthein"
+        },
+        {
+          "woord": "πρὸς",
+          "strongs": "G4314",
+          "transliteratie": "pros"
+        },
+        {
+          "woord": "ἡμᾶς",
+          "strongs": "G2248",
+          "transliteratie": "hēmas"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "φαγεῖν",
+          "strongs": "G5315",
+          "transliteratie": "phagein"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "πιεῖν",
+          "strongs": "G4095",
+          "transliteratie": "piein"
+        },
+        {
+          "woord": "μεθ᾿",
+          "strongs": "G3326",
+          "transliteratie": "meth᾿"
+        },
+        {
+          "woord": "ἡμῶν",
+          "strongs": "G2257",
+          "transliteratie": "hēmōn"
+        }
+      ],
+      "phraseDiff": [
+        {
+          "old": "zodanige",
+          "new": "zulk een",
+          "principe": null
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "vrouw",
+          "voorkomen": 1,
+          "strongs": [
+            "G1135"
+          ],
+          "bronwoorden": [
+            "γυναῖκα"
+          ],
+          "transliteraties": [
+            "gynaika"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "82B7D4FF3E36F3FAFC4B38ADF5A9D1FD4277DEF650C71E380FD6652B51754E6C",
+            "referentie": "JUDITH 12:11",
+            "bronindices": [
+              16
+            ],
+            "grondindices": [
+              16
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "text1637": "En Bagoas ging uit van Holofernes, en kwam tot haar en zeide: Dat de schone jonkvrouw zich niet bezware zelf tot mijn heer te komen, om door zijn aanschijn verheerlijkt te worden, en met ons tot vrolijkheid wijn te drinken, en op deze dag te worden als een van de dochteren der Assyriërs, welke in het huis van Nabuchodonosor staan.",
+      "textSV1888": "En Bagoas ging uit van Holofernes, en kwam tot haar en zeide: Dat de schone jonkvrouw zich niet bezware zelf tot mijn heer te komen, om door zijn aanschijn verheerlijkt te worden, en met ons tot vrolijkheid wijn te drinken, en op deze dag te worden als een van de dochteren der Assyriërs, welke in het huis van Nabuchodonosor staan.",
+      "text2026": "En Bagoas ging uit van Holofernes, en kwam tot haar en zei: Dat de schone jonkvrouw zich niet bezware om zelf tot mijn heer te komen, om door zijn aangezicht verheerlijkt te worden, en met ons tot vrolijkheid wijn te drinken, en op deze dag te worden als een van de dochters van de Assyriërs, die in het huis van Nabuchodonosor staan.",
+      "marginNotes": [],
+      "text2026_html": "En Bagoas ging uit van Holofernes, en kwam tot haar en zei: <span class=\"direct-speech\"><i>Dat de schone jonkvrouw zich niet bezware om zelf tot mijn heer te komen, om door zijn aangezicht verheerlijkt te worden, en met ons tot vrolijkheid wijn te drinken, en op deze dag te worden als een van de dochters van de Assyriërs, die in het huis van Nabuchodonosor staan.</i></span>",
+      "phraseDiff": [
+        {
+          "old": "zeide:",
+          "new": "zei:",
+          "principe": "W1"
+        },
+        {
+          "old": "",
+          "new": "om",
+          "principe": null
+        },
+        {
+          "old": "aanschijn",
+          "new": "aangezicht",
+          "principe": "V465"
+        },
+        {
+          "old": "dochteren der",
+          "new": "dochters van de",
+          "principe": "N2"
+        },
+        {
+          "old": "welke",
+          "new": "die",
+          "principe": "V808"
+        }
+      ],
+      "grondtekst": [
+        {
+          "woord": "ἰδοὺ",
+          "strongs": "G2400",
+          "transliteratie": "idou"
+        },
+        {
+          "woord": "γὰρ",
+          "strongs": "G1063",
+          "transliteratie": "gar"
+        },
+        {
+          "woord": "αἰσχρὸν",
+          "strongs": "G150",
+          "transliteratie": "aischron"
+        },
+        {
+          "woord": "τῷ",
+          "strongs": "G3588",
+          "transliteratie": "tō"
+        },
+        {
+          "woord": "προσώπῳ",
+          "strongs": "G4383",
+          "transliteratie": "prosōpō"
+        },
+        {
+          "woord": "ἡμῶν",
+          "strongs": "G2257",
+          "transliteratie": "hēmōn"
+        },
+        {
+          "woord": "εἰ",
+          "strongs": "G1487",
+          "transliteratie": "ei"
+        },
+        {
+          "woord": "γυναῖκα",
+          "strongs": "G1135",
+          "transliteratie": "gynaika"
+        },
+        {
+          "woord": "τοιαύτην",
+          "strongs": "G5108",
+          "transliteratie": "toiautēn"
+        },
+        {
+          "woord": "παρήσομεν",
+          "strongs": "G3935",
+          "transliteratie": "parēsomen"
+        },
+        {
+          "woord": "οὐχ",
+          "strongs": "G3756",
+          "transliteratie": "ouch"
+        },
+        {
+          "woord": "ὁμιλήσαντες",
+          "strongs": "G3656",
+          "transliteratie": "homilēsantes"
+        },
+        {
+          "woord": "αὐτῇ",
+          "strongs": "G846",
+          "transliteratie": "autē"
+        },
+        {
+          "woord": "ὅτι",
+          "strongs": "G3754",
+          "transliteratie": "hoti"
+        },
+        {
+          "woord": "ἐὰν",
+          "strongs": "G1437",
+          "transliteratie": "ean"
+        },
+        {
+          "woord": "ταύτην",
+          "strongs": "G3778",
+          "transliteratie": "tautēn"
+        },
+        {
+          "woord": "μὴ",
+          "strongs": "G3361",
+          "transliteratie": "mē"
+        },
+        {
+          "woord": "ἐπισπασώμεθα",
+          "strongs": "G1986",
+          "transliteratie": "epispasōmetha"
+        },
+        {
+          "woord": "καταγελάσεται",
+          "strongs": "G2606",
+          "transliteratie": "katagelasetai"
+        },
+        {
+          "woord": "ἡμῶν",
+          "strongs": "G2257",
+          "transliteratie": "hēmōn"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "niet",
+          "voorkomen": 1,
+          "strongs": [
+            "G3756"
+          ],
+          "bronwoorden": [
+            "οὐχ"
+          ],
+          "transliteraties": [
+            "ouch"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "82B7D4FF3E36F3FAFC4B38ADF5A9D1FD4277DEF650C71E380FD6652B51754E6C",
+            "referentie": "JUDITH 12:12",
+            "bronindices": [
+              10
+            ],
+            "grondindices": [
+              10
+            ]
+          }
+        },
+        {
+          "tekst": "zelf",
+          "voorkomen": 1,
+          "strongs": [
+            "G846"
+          ],
+          "bronwoorden": [
+            "αὐτῇ"
+          ],
+          "transliteraties": [
+            "autē"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "82B7D4FF3E36F3FAFC4B38ADF5A9D1FD4277DEF650C71E380FD6652B51754E6C",
+            "referentie": "JUDITH 12:12",
+            "bronindices": [
+              12
+            ],
+            "grondindices": [
+              12
+            ]
+          }
+        },
+        {
+          "tekst": "deze",
+          "voorkomen": 1,
+          "strongs": [
+            "G3778"
+          ],
+          "bronwoorden": [
+            "ταύτην"
+          ],
+          "transliteraties": [
+            "tautēn"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "82B7D4FF3E36F3FAFC4B38ADF5A9D1FD4277DEF650C71E380FD6652B51754E6C",
+            "referentie": "JUDITH 12:12",
+            "bronindices": [
+              15
+            ],
+            "grondindices": [
+              15
+            ]
+          }
+        },
+        {
+          "tekst": "Dat",
+          "voorkomen": 1,
+          "strongs": [
+            "G3754"
+          ],
+          "bronwoorden": [
+            "ὅτι"
+          ],
+          "transliteraties": [
+            "hoti"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "82B7D4FF3E36F3FAFC4B38ADF5A9D1FD4277DEF650C71E380FD6652B51754E6C",
+            "referentie": "JUDITH 12:12",
+            "bronindices": [
+              13
+            ],
+            "grondindices": [
+              13
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "text1637": "En Judith zeide tot hem: Wie ben ik, die mijn heer zou tegenspreken?",
+      "textSV1888": "En Judith zeide tot hem: Wie ben ik, die mijn heer zou tegenspreken?",
+      "text2026": "En Judith zei tot hem: Wie ben ik, die mijn heer zou tegenspreken?",
+      "marginNotes": [],
+      "text2026_html": "En Judith zei tot hem: <span class=\"direct-speech\"><i>Wie ben ik, die mijn heer zou tegenspreken?</i></span>",
+      "phraseDiff": [
+        {
+          "old": "zeide",
+          "new": "zei",
+          "principe": "W1"
+        }
+      ],
+      "grondtekst": [
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ἐξῆλθεν",
+          "strongs": "G1831",
+          "transliteratie": "exēlthen"
+        },
+        {
+          "woord": "Βαγώας",
+          "transliteratie": "bagōas"
+        },
+        {
+          "woord": "ἀπὸ",
+          "strongs": "G575",
+          "transliteratie": "apo"
+        },
+        {
+          "woord": "προσώπου",
+          "strongs": "G4383",
+          "transliteratie": "prosōpou"
+        },
+        {
+          "woord": "Ολοφέρνου",
+          "transliteratie": "olophernou"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "εἰσῆλθεν",
+          "strongs": "G1525",
+          "transliteratie": "eisēlthen"
+        },
+        {
+          "woord": "πρὸς",
+          "strongs": "G4314",
+          "transliteratie": "pros"
+        },
+        {
+          "woord": "αὐτὴν",
+          "strongs": "G846",
+          "transliteratie": "autēn"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "εἶπεν",
+          "strongs": "G2036",
+          "transliteratie": "eipen"
+        },
+        {
+          "woord": "μὴ",
+          "strongs": "G3361",
+          "transliteratie": "mē"
+        },
+        {
+          "woord": "ὀκνησάτω",
+          "strongs": "G3635",
+          "transliteratie": "oknēsatō"
+        },
+        {
+          "woord": "δὴ",
+          "strongs": "G1211",
+          "transliteratie": "dē"
+        },
+        {
+          "woord": "ἡ",
+          "strongs": "G3588",
+          "transliteratie": "hē"
+        },
+        {
+          "woord": "παιδίσκη",
+          "strongs": "G3814",
+          "transliteratie": "paidiskē"
+        },
+        {
+          "woord": "ἡ",
+          "strongs": "G3588",
+          "transliteratie": "hē"
+        },
+        {
+          "woord": "καλὴ",
+          "strongs": "G2570",
+          "transliteratie": "kalē"
+        },
+        {
+          "woord": "αὕτη",
+          "strongs": "G3778",
+          "transliteratie": "hautē"
+        },
+        {
+          "woord": "ἐλθοῦσα",
+          "strongs": "G2064",
+          "transliteratie": "elthousa"
+        },
+        {
+          "woord": "πρὸς",
+          "strongs": "G4314",
+          "transliteratie": "pros"
+        },
+        {
+          "woord": "τὸν",
+          "strongs": "G3588",
+          "transliteratie": "ton"
+        },
+        {
+          "woord": "κύριόν",
+          "strongs": "G2962",
+          "transliteratie": "kyrion"
+        },
+        {
+          "woord": "μου",
+          "strongs": "G3450",
+          "transliteratie": "mou"
+        },
+        {
+          "woord": "δοξασθῆναι",
+          "strongs": "G1392",
+          "transliteratie": "doxasthēnai"
+        },
+        {
+          "woord": "κατὰ",
+          "strongs": "G2596",
+          "transliteratie": "kata"
+        },
+        {
+          "woord": "πρόσωπον",
+          "strongs": "G4383",
+          "transliteratie": "prosōpon"
+        },
+        {
+          "woord": "αὐτοῦ",
+          "strongs": "G846",
+          "transliteratie": "autou"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "πίεσαι",
+          "strongs": "G4095",
+          "transliteratie": "piesai"
+        },
+        {
+          "woord": "μεθ᾿",
+          "strongs": "G3326",
+          "transliteratie": "meth᾿"
+        },
+        {
+          "woord": "ἡμῶν",
+          "strongs": "G2257",
+          "transliteratie": "hēmōn"
+        },
+        {
+          "woord": "εἰς",
+          "strongs": "G1519",
+          "transliteratie": "eis"
+        },
+        {
+          "woord": "εὐφροσύνην",
+          "strongs": "G2167",
+          "transliteratie": "euphrosynēn"
+        },
+        {
+          "woord": "οἶνον",
+          "strongs": "G3631",
+          "transliteratie": "oinon"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "γενηθῆναι",
+          "strongs": "G1096",
+          "transliteratie": "genēthēnai"
+        },
+        {
+          "woord": "ἐν",
+          "strongs": "G1722",
+          "transliteratie": "en"
+        },
+        {
+          "woord": "τῇ",
+          "strongs": "G3588",
+          "transliteratie": "tē"
+        },
+        {
+          "woord": "ἡμέρᾳ",
+          "strongs": "G2250",
+          "transliteratie": "hēmera"
+        },
+        {
+          "woord": "ταύτῃ",
+          "strongs": "G3778",
+          "transliteratie": "tautē"
+        },
+        {
+          "woord": "ὡς",
+          "strongs": "G5613",
+          "transliteratie": "hōs"
+        },
+        {
+          "woord": "θυγάτηρ",
+          "strongs": "G2364",
+          "transliteratie": "thygatēr"
+        },
+        {
+          "woord": "μία",
+          "strongs": "G1520",
+          "transliteratie": "mia"
+        },
+        {
+          "woord": "τῶν",
+          "strongs": "G3588",
+          "transliteratie": "tōn"
+        },
+        {
+          "woord": "υἱῶν",
+          "strongs": "G5207",
+          "transliteratie": "huiōn"
+        },
+        {
+          "woord": "Ασσουρ",
+          "transliteratie": "assour"
+        },
+        {
+          "woord": "αἳ",
+          "strongs": "G3739",
+          "transliteratie": "hai"
+        },
+        {
+          "woord": "παρεστήκασιν",
+          "strongs": "G3936",
+          "transliteratie": "parestēkasin"
+        },
+        {
+          "woord": "ἐν",
+          "strongs": "G1722",
+          "transliteratie": "en"
+        },
+        {
+          "woord": "οἴκῳ",
+          "strongs": "G3624",
+          "transliteratie": "oikō"
+        },
+        {
+          "woord": "Ναβουχοδονοσορ",
+          "transliteratie": "nabouchodonosor"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "En",
+          "voorkomen": 1,
+          "strongs": [
+            "G2532"
+          ],
+          "bronwoorden": [
+            "καὶ"
+          ],
+          "transliteraties": [
+            "kai"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "82B7D4FF3E36F3FAFC4B38ADF5A9D1FD4277DEF650C71E380FD6652B51754E6C",
+            "referentie": "JUDITH 12:13",
+            "bronindices": [
+              0
+            ],
+            "grondindices": [
+              0
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "text1637": "Want al wat behagelijk zal zijn in zijn ogen, dat zal ik vlijtig doen; en dit zal mij een verheuging zijn, tot aan de dag mijns doods.",
+      "textSV1888": "Want al wat behagelijk zal zijn in zijn ogen, dat zal ik vlijtig doen; en dit zal mij een verheuging zijn, tot aan de dag mijns doods.",
+      "text2026": "Want al wat behagelijk zal zijn in zijn ogen, dat zal ik vlijtig doen; en dit zal mij een verheuging zijn, tot aan de dag van mijn dood.",
+      "marginNotes": [],
+      "text2026_html": "<span class=\"direct-speech\"><i>Want al wat behagelijk zal zijn in zijn ogen, dat zal ik vlijtig doen; en dit zal mij een verheuging zijn, tot aan de dag van mijn dood.</i></span>",
+      "phraseDiff": [
+        {
+          "old": "mijns doods.",
+          "new": "van mijn dood.",
+          "principe": "V213"
+        }
+      ],
+      "grondtekst": [
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "εἶπεν",
+          "strongs": "G2036",
+          "transliteratie": "eipen"
+        },
+        {
+          "woord": "πρὸς",
+          "strongs": "G4314",
+          "transliteratie": "pros"
+        },
+        {
+          "woord": "αὐτὸν",
+          "strongs": "G846",
+          "transliteratie": "auton"
+        },
+        {
+          "woord": "Ιουδιθ",
+          "transliteratie": "ioudith"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "τίς",
+          "strongs": "G5101",
+          "transliteratie": "tis"
+        },
+        {
+          "woord": "εἰμι",
+          "strongs": "G1510",
+          "transliteratie": "eimi"
+        },
+        {
+          "woord": "ἐγὼ",
+          "strongs": "G1473",
+          "transliteratie": "egō"
+        },
+        {
+          "woord": "ἀντεροῦσα",
+          "strongs": "G471",
+          "transliteratie": "anterousa"
+        },
+        {
+          "woord": "τῷ",
+          "strongs": "G3588",
+          "transliteratie": "tō"
+        },
+        {
+          "woord": "κυρίῳ",
+          "strongs": "G2962",
+          "transliteratie": "kyriō"
+        },
+        {
+          "woord": "μου",
+          "strongs": "G3450",
+          "transliteratie": "mou"
+        },
+        {
+          "woord": "ὅτι",
+          "strongs": "G3754",
+          "transliteratie": "hoti"
+        },
+        {
+          "woord": "πᾶν",
+          "strongs": "G3956",
+          "transliteratie": "pan"
+        },
+        {
+          "woord": "ὃ",
+          "strongs": "G3739",
+          "transliteratie": "ho"
+        },
+        {
+          "woord": "ἔσται",
+          "strongs": "G1510",
+          "transliteratie": "estai"
+        },
+        {
+          "woord": "ἐν",
+          "strongs": "G1722",
+          "transliteratie": "en"
+        },
+        {
+          "woord": "τοῖς",
+          "strongs": "G3588",
+          "transliteratie": "tois"
+        },
+        {
+          "woord": "ὀφθαλμοῖς",
+          "strongs": "G3788",
+          "transliteratie": "ophthalmois"
+        },
+        {
+          "woord": "αὐτοῦ",
+          "strongs": "G846",
+          "transliteratie": "autou"
+        },
+        {
+          "woord": "ἀρεστόν",
+          "strongs": "G701",
+          "transliteratie": "areston"
+        },
+        {
+          "woord": "σπεύσασα",
+          "strongs": "G4692",
+          "transliteratie": "speusasa"
+        },
+        {
+          "woord": "ποιήσω",
+          "strongs": "G4160",
+          "transliteratie": "poiēsō"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ἔσται",
+          "strongs": "G1510",
+          "transliteratie": "estai"
+        },
+        {
+          "woord": "τοῦτό",
+          "strongs": "G3778",
+          "transliteratie": "touto"
+        },
+        {
+          "woord": "μοι",
+          "strongs": "G3427",
+          "transliteratie": "moi"
+        },
+        {
+          "woord": "ἀγαλλίαμα",
+          "transliteratie": "agalliama"
+        },
+        {
+          "woord": "ἕως",
+          "strongs": "G2193",
+          "transliteratie": "heōs"
+        },
+        {
+          "woord": "ἡμέρας",
+          "strongs": "G2250",
+          "transliteratie": "hēmeras"
+        },
+        {
+          "woord": "θανάτου",
+          "strongs": "G2288",
+          "transliteratie": "thanatou"
+        },
+        {
+          "woord": "μου",
+          "strongs": "G3450",
+          "transliteratie": "mou"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "dat",
+          "voorkomen": 1,
+          "strongs": [
+            "G3754"
+          ],
+          "bronwoorden": [
+            "ὅτι"
+          ],
+          "transliteraties": [
+            "hoti"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "82B7D4FF3E36F3FAFC4B38ADF5A9D1FD4277DEF650C71E380FD6652B51754E6C",
+            "referentie": "JUDITH 12:14",
+            "bronindices": [
+              13
+            ],
+            "grondindices": [
+              13
+            ]
+          }
+        },
+        {
+          "tekst": "ik",
+          "voorkomen": 1,
+          "strongs": [
+            "G1473"
+          ],
+          "bronwoorden": [
+            "ἐγὼ"
+          ],
+          "transliteraties": [
+            "egō"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "82B7D4FF3E36F3FAFC4B38ADF5A9D1FD4277DEF650C71E380FD6652B51754E6C",
+            "referentie": "JUDITH 12:14",
+            "bronindices": [
+              8
+            ],
+            "grondindices": [
+              8
+            ]
+          }
+        },
+        {
+          "tekst": "dag",
+          "voorkomen": 1,
+          "strongs": [
+            "G2250"
+          ],
+          "bronwoorden": [
+            "ἡμέρας"
+          ],
+          "transliteraties": [
+            "hēmeras"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "82B7D4FF3E36F3FAFC4B38ADF5A9D1FD4277DEF650C71E380FD6652B51754E6C",
+            "referentie": "JUDITH 12:14",
+            "bronindices": [
+              30
+            ],
+            "grondindices": [
+              30
+            ]
+          }
+        },
+        {
+          "tekst": "dood",
+          "voorkomen": 1,
+          "strongs": [
+            "G2288"
+          ],
+          "bronwoorden": [
+            "θανάτου"
+          ],
+          "transliteraties": [
+            "thanatou"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "82B7D4FF3E36F3FAFC4B38ADF5A9D1FD4277DEF650C71E380FD6652B51754E6C",
+            "referentie": "JUDITH 12:14",
+            "bronindices": [
+              31
+            ],
+            "grondindices": [
+              31
+            ]
+          }
+        },
+        {
+          "tekst": "al",
+          "voorkomen": 1,
+          "strongs": [
+            "G3956"
+          ],
+          "bronwoorden": [
+            "πᾶν"
+          ],
+          "transliteraties": [
+            "pan"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "82B7D4FF3E36F3FAFC4B38ADF5A9D1FD4277DEF650C71E380FD6652B51754E6C",
+            "referentie": "JUDITH 12:14",
+            "bronindices": [
+              14
+            ],
+            "grondindices": [
+              14
+            ]
+          }
+        },
+        {
+          "tekst": "en",
+          "voorkomen": 1,
+          "strongs": [
+            "G2532"
+          ],
+          "bronwoorden": [
+            "καὶ"
+          ],
+          "transliteraties": [
+            "kai"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "82B7D4FF3E36F3FAFC4B38ADF5A9D1FD4277DEF650C71E380FD6652B51754E6C",
+            "referentie": "JUDITH 12:14",
+            "bronindices": [
+              24
+            ],
+            "grondindices": [
+              24
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "text1637": "Zo stond zij op en versierde zich met haar kleding, en met al haar vrouwensiersel; en haar dienstmaagd kwam toe, en spreidde voor haar, recht over Holofernes, op de aarde, de vellen, die zij van Baogas ontvangen had tot haar dagelijks gebruik, opdat zij daarop nederzitten, en eten mocht; en Judith kwam in, en zat neder.",
+      "textSV1888": "Zo stond zij op en versierde zich met haar kleding, en met al haar vrouwensiersel; en haar dienstmaagd kwam toe, en spreidde voor haar, recht over Holofernes, op de aarde, de vellen, die zij van Baogas ontvangen had tot haar dagelijks gebruik, opdat zij daarop nederzitten, en eten mocht; en Judith kwam in, en zat neder.",
+      "text2026": "Zo stond zij op en versierde zich met haar kleding, en met al haar vrouwensiersel; en haar dienstmaagd kwam toe, en spreidde voor haar, recht over Holofernes, op de aarde, de vellen, die zij van Baogas ontvangen had tot haar dagelijks gebruik, opdat zij daarop neerzitten, en eten mocht; en Judith kwam in, en zat neer.",
+      "marginNotes": [],
+      "text2026_html": "Zo stond zij op en versierde zich met haar kleding, en met al haar vrouwensiersel; en haar dienstmaagd kwam toe, en spreidde voor haar, recht over Holofernes, op de aarde, de vellen, die zij van Baogas ontvangen had tot haar dagelijks gebruik, opdat zij daarop neerzitten, en eten mocht; en Judith kwam in, en zat neer.",
+      "grondtekst": [
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "διαναστᾶσα",
+          "transliteratie": "dianastasa"
+        },
+        {
+          "woord": "ἐκοσμήθη",
+          "strongs": "G2885",
+          "transliteratie": "ekosmēthē"
+        },
+        {
+          "woord": "τῷ",
+          "strongs": "G3588",
+          "transliteratie": "tō"
+        },
+        {
+          "woord": "ἱματισμῷ",
+          "strongs": "G2441",
+          "transliteratie": "himatismō"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "παντὶ",
+          "strongs": "G3956",
+          "transliteratie": "panti"
+        },
+        {
+          "woord": "τῷ",
+          "strongs": "G3588",
+          "transliteratie": "tō"
+        },
+        {
+          "woord": "κόσμῳ",
+          "strongs": "G2889",
+          "transliteratie": "kosmō"
+        },
+        {
+          "woord": "τῷ",
+          "strongs": "G3588",
+          "transliteratie": "tō"
+        },
+        {
+          "woord": "γυναικείῳ",
+          "strongs": "G1134",
+          "transliteratie": "gynaikeiō"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "προσῆλθεν",
+          "strongs": "G4334",
+          "transliteratie": "prosēlthen"
+        },
+        {
+          "woord": "ἡ",
+          "strongs": "G3588",
+          "transliteratie": "hē"
+        },
+        {
+          "woord": "δούλη",
+          "strongs": "G1399",
+          "transliteratie": "doulē"
+        },
+        {
+          "woord": "αὐτῆς",
+          "strongs": "G846",
+          "transliteratie": "autēs"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ἔστρωσεν",
+          "strongs": "G4766",
+          "transliteratie": "estrōsen"
+        },
+        {
+          "woord": "αὐτῇ",
+          "strongs": "G846",
+          "transliteratie": "autē"
+        },
+        {
+          "woord": "κατέναντι",
+          "strongs": "G2713",
+          "transliteratie": "katenanti"
+        },
+        {
+          "woord": "Ολοφέρνου",
+          "transliteratie": "olophernou"
+        },
+        {
+          "woord": "χαμαὶ",
+          "strongs": "G5476",
+          "transliteratie": "chamai"
+        },
+        {
+          "woord": "τὰ",
+          "strongs": "G3588",
+          "transliteratie": "ta"
+        },
+        {
+          "woord": "κώδια",
+          "transliteratie": "kōdia"
+        },
+        {
+          "woord": "ἃ",
+          "strongs": "G3739",
+          "transliteratie": "ha"
+        },
+        {
+          "woord": "ἔλαβεν",
+          "strongs": "G2983",
+          "transliteratie": "elaben"
+        },
+        {
+          "woord": "παρὰ",
+          "strongs": "G3844",
+          "transliteratie": "para"
+        },
+        {
+          "woord": "Βαγώου",
+          "transliteratie": "bagōou"
+        },
+        {
+          "woord": "εἰς",
+          "strongs": "G1519",
+          "transliteratie": "eis"
+        },
+        {
+          "woord": "τὴν",
+          "strongs": "G3588",
+          "transliteratie": "tēn"
+        },
+        {
+          "woord": "καθημερινὴν",
+          "strongs": "G2522",
+          "transliteratie": "kathēmerinēn"
+        },
+        {
+          "woord": "δίαιταν",
+          "transliteratie": "diaitan"
+        },
+        {
+          "woord": "αὐτῆς",
+          "strongs": "G846",
+          "transliteratie": "autēs"
+        },
+        {
+          "woord": "εἰς",
+          "strongs": "G1519",
+          "transliteratie": "eis"
+        },
+        {
+          "woord": "τὸ",
+          "strongs": "G3588",
+          "transliteratie": "to"
+        },
+        {
+          "woord": "ἐσθίειν",
+          "strongs": "G2068",
+          "transliteratie": "esthiein"
+        },
+        {
+          "woord": "κατακλινομένην",
+          "strongs": "G2625",
+          "transliteratie": "kataklinomenēn"
+        },
+        {
+          "woord": "ἐπ᾿",
+          "strongs": "G1909",
+          "transliteratie": "ep᾿"
+        },
+        {
+          "woord": "αὐτῶν",
+          "strongs": "G846",
+          "transliteratie": "autōn"
+        }
+      ],
+      "phraseDiff": [
+        {
+          "old": "nederzitten,",
+          "new": "neerzitten,",
+          "principe": "V"
+        },
+        {
+          "old": "neder.",
+          "new": "neer.",
+          "principe": "V354"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "kleding",
+          "voorkomen": 1,
+          "strongs": [
+            "G2441"
+          ],
+          "bronwoorden": [
+            "ἱματισμῷ"
+          ],
+          "transliteraties": [
+            "himatismō"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "82B7D4FF3E36F3FAFC4B38ADF5A9D1FD4277DEF650C71E380FD6652B51754E6C",
+            "referentie": "JUDITH 12:15",
+            "bronindices": [
+              4
+            ],
+            "grondindices": [
+              4
+            ]
+          }
+        },
+        {
+          "tekst": "al",
+          "voorkomen": 1,
+          "strongs": [
+            "G3956"
+          ],
+          "bronwoorden": [
+            "παντὶ"
+          ],
+          "transliteraties": [
+            "panti"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "82B7D4FF3E36F3FAFC4B38ADF5A9D1FD4277DEF650C71E380FD6652B51754E6C",
+            "referentie": "JUDITH 12:15",
+            "bronindices": [
+              6
+            ],
+            "grondindices": [
+              6
+            ]
+          }
+        },
+        {
+          "tekst": "dagelijks",
+          "voorkomen": 1,
+          "strongs": [
+            "G2522"
+          ],
+          "bronwoorden": [
+            "καθημερινὴν"
+          ],
+          "transliteraties": [
+            "kathēmerinēn"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "82B7D4FF3E36F3FAFC4B38ADF5A9D1FD4277DEF650C71E380FD6652B51754E6C",
+            "referentie": "JUDITH 12:15",
+            "bronindices": [
+              30
+            ],
+            "grondindices": [
+              30
+            ]
+          }
+        },
+        {
+          "tekst": "eten",
+          "voorkomen": 1,
+          "strongs": [
+            "G2068"
+          ],
+          "bronwoorden": [
+            "ἐσθίειν"
+          ],
+          "transliteraties": [
+            "esthiein"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "82B7D4FF3E36F3FAFC4B38ADF5A9D1FD4277DEF650C71E380FD6652B51754E6C",
+            "referentie": "JUDITH 12:15",
+            "bronindices": [
+              35
+            ],
+            "grondindices": [
+              35
+            ]
+          }
+        },
+        {
+          "tekst": "toe",
+          "voorkomen": 1,
+          "strongs": [
+            "G1519"
+          ],
+          "bronwoorden": [
+            "εἰς"
+          ],
+          "transliteraties": [
+            "eis"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "82B7D4FF3E36F3FAFC4B38ADF5A9D1FD4277DEF650C71E380FD6652B51754E6C",
+            "referentie": "JUDITH 12:15",
+            "bronindices": [
+              28
+            ],
+            "grondindices": [
+              28
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "text1637": "En het hart van Holofernes ontzette zich tegen haar, en zijn ziel werd bewogen, en was uitermate begerig om met haar gemeenschap te hebben, en hij zocht de gelegene tijd, om haar te verleiden, van de dag af dat hij haar gezien had.",
+      "textSV1888": "En het hart van Holofernes ontzette zich tegen haar, en zijn ziel werd bewogen, en was uitermate begerig om met haar gemeenschap te hebben, en hij zocht de gelegene tijd, om haar te verleiden, van de dag af dat hij haar gezien had.",
+      "text2026": "En het hart van Holofernes ontzette zich tegen haar, en zijn ziel werd bewogen, en was bovenmate begerig om met haar gemeenschap te hebben, en hij zocht de gelegene tijd, om haar te verleiden, van de dag af dat hij haar gezien had.",
+      "marginNotes": [],
+      "text2026_html": "En het hart van Holofernes ontzette zich tegen haar, en zijn ziel werd bewogen, en was bovenmate begerig om met haar gemeenschap te hebben, en hij zocht de gelegene tijd, om haar te verleiden, van de dag af dat hij haar gezien had.",
+      "grondtekst": [
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "εἰσελθοῦσα",
+          "strongs": "G1525",
+          "transliteratie": "eiselthousa"
+        },
+        {
+          "woord": "ἀνέπεσεν",
+          "strongs": "G377",
+          "transliteratie": "anepesen"
+        },
+        {
+          "woord": "Ιουδιθ",
+          "transliteratie": "ioudith"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ἐξέστη",
+          "strongs": "G1839",
+          "transliteratie": "exestē"
+        },
+        {
+          "woord": "ἡ",
+          "strongs": "G3588",
+          "transliteratie": "hē"
+        },
+        {
+          "woord": "καρδία",
+          "strongs": "G2588",
+          "transliteratie": "kardia"
+        },
+        {
+          "woord": "Ολοφέρνου",
+          "transliteratie": "olophernou"
+        },
+        {
+          "woord": "ἐπ᾿",
+          "strongs": "G1909",
+          "transliteratie": "ep᾿"
+        },
+        {
+          "woord": "αὐτήν",
+          "strongs": "G846",
+          "transliteratie": "autēn"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ἐσαλεύθη",
+          "strongs": "G4531",
+          "transliteratie": "esaleuthē"
+        },
+        {
+          "woord": "ἡ",
+          "strongs": "G3588",
+          "transliteratie": "hē"
+        },
+        {
+          "woord": "ψυχὴ",
+          "strongs": "G5590",
+          "transliteratie": "psychē"
+        },
+        {
+          "woord": "αὐτοῦ",
+          "strongs": "G846",
+          "transliteratie": "autou"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ἦν",
+          "strongs": "G1510",
+          "transliteratie": "ēn"
+        },
+        {
+          "woord": "κατεπίθυμος",
+          "transliteratie": "katepithymos"
+        },
+        {
+          "woord": "σφόδρα",
+          "strongs": "G4970",
+          "transliteratie": "sphodra"
+        },
+        {
+          "woord": "τοῦ",
+          "strongs": "G3588",
+          "transliteratie": "tou"
+        },
+        {
+          "woord": "συγγενέσθαι",
+          "transliteratie": "syngenesthai"
+        },
+        {
+          "woord": "μετ᾿",
+          "strongs": "G3326",
+          "transliteratie": "met᾿"
+        },
+        {
+          "woord": "αὐτῆς",
+          "strongs": "G846",
+          "transliteratie": "autēs"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ἐτήρει",
+          "strongs": "G5083",
+          "transliteratie": "etērei"
+        },
+        {
+          "woord": "καιρὸν",
+          "strongs": "G2540",
+          "transliteratie": "kairon"
+        },
+        {
+          "woord": "τοῦ",
+          "strongs": "G3588",
+          "transliteratie": "tou"
+        },
+        {
+          "woord": "ἀπατῆσαι",
+          "strongs": "G538",
+          "transliteratie": "apatēsai"
+        },
+        {
+          "woord": "αὐτὴν",
+          "strongs": "G846",
+          "transliteratie": "autēn"
+        },
+        {
+          "woord": "ἀφ᾿",
+          "strongs": "G575",
+          "transliteratie": "aph᾿"
+        },
+        {
+          "woord": "ἧς",
+          "strongs": "G3739",
+          "transliteratie": "hēs"
+        },
+        {
+          "woord": "ἡμέρας",
+          "strongs": "G2250",
+          "transliteratie": "hēmeras"
+        },
+        {
+          "woord": "εἶδεν",
+          "strongs": "G1492",
+          "transliteratie": "eiden"
+        },
+        {
+          "woord": "αὐτήν",
+          "strongs": "G846",
+          "transliteratie": "autēn"
+        }
+      ],
+      "phraseDiff": [
+        {
+          "old": "uitermate",
+          "new": "bovenmate",
+          "principe": "V613"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "hart",
+          "voorkomen": 1,
+          "strongs": [
+            "G2588"
+          ],
+          "bronwoorden": [
+            "καρδία"
+          ],
+          "transliteraties": [
+            "kardia"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "82B7D4FF3E36F3FAFC4B38ADF5A9D1FD4277DEF650C71E380FD6652B51754E6C",
+            "referentie": "JUDITH 12:16",
+            "bronindices": [
+              7
+            ],
+            "grondindices": [
+              7
+            ]
+          }
+        },
+        {
+          "tekst": "dag",
+          "voorkomen": 1,
+          "strongs": [
+            "G2250"
+          ],
+          "bronwoorden": [
+            "ἡμέρας"
+          ],
+          "transliteraties": [
+            "hēmeras"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "82B7D4FF3E36F3FAFC4B38ADF5A9D1FD4277DEF650C71E380FD6652B51754E6C",
+            "referentie": "JUDITH 12:16",
+            "bronindices": [
+              32
+            ],
+            "grondindices": [
+              32
+            ]
+          }
+        },
+        {
+          "tekst": "gezien",
+          "voorkomen": 1,
+          "strongs": [
+            "G1492"
+          ],
+          "bronwoorden": [
+            "εἶδεν"
+          ],
+          "transliteraties": [
+            "eiden"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "82B7D4FF3E36F3FAFC4B38ADF5A9D1FD4277DEF650C71E380FD6652B51754E6C",
+            "referentie": "JUDITH 12:16",
+            "bronindices": [
+              33
+            ],
+            "grondindices": [
+              33
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "text1637": "En Holofernes zeide tot haar: Drink toch, en zijt met ons vrolijk.",
+      "textSV1888": "En Holofernes zeide tot haar: Drink toch, en zijt met ons vrolijk.",
+      "text2026": "En Holofernes zei tot haar: Drink toch, en wees met ons vrolijk.",
+      "marginNotes": [],
+      "text2026_html": "En Holofernes zei tot haar: <span class=\"direct-speech\"><i>Drink toch, en wees met ons vrolijk.</i></span>",
+      "phraseDiff": [
+        {
+          "old": "zeide",
+          "new": "zei",
+          "principe": "W1"
+        },
+        {
+          "old": "zijt",
+          "new": "wees",
+          "principe": null
+        }
+      ],
+      "grondtekst": [
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "εἶπεν",
+          "strongs": "G2036",
+          "transliteratie": "eipen"
+        },
+        {
+          "woord": "πρὸς",
+          "strongs": "G4314",
+          "transliteratie": "pros"
+        },
+        {
+          "woord": "αὐτὴν",
+          "strongs": "G846",
+          "transliteratie": "autēn"
+        },
+        {
+          "woord": "Ολοφέρνης",
+          "transliteratie": "olophernēs"
+        },
+        {
+          "woord": "πίε",
+          "strongs": "G4095",
+          "transliteratie": "pie"
+        },
+        {
+          "woord": "δὴ",
+          "strongs": "G1211",
+          "transliteratie": "dē"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "γενήθητι",
+          "strongs": "G1096",
+          "transliteratie": "genēthēti"
+        },
+        {
+          "woord": "μεθ᾿",
+          "strongs": "G3326",
+          "transliteratie": "meth᾿"
+        },
+        {
+          "woord": "ἡμῶν",
+          "strongs": "G2257",
+          "transliteratie": "hēmōn"
+        },
+        {
+          "woord": "εἰς",
+          "strongs": "G1519",
+          "transliteratie": "eis"
+        },
+        {
+          "woord": "εὐφροσύνην",
+          "strongs": "G2167",
+          "transliteratie": "euphrosynēn"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "vrolijk",
+          "voorkomen": 1,
+          "strongs": [
+            "G2167"
+          ],
+          "bronwoorden": [
+            "εὐφροσύνην"
+          ],
+          "transliteraties": [
+            "euphrosynēn"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "82B7D4FF3E36F3FAFC4B38ADF5A9D1FD4277DEF650C71E380FD6652B51754E6C",
+            "referentie": "JUDITH 12:17",
+            "bronindices": [
+              12
+            ],
+            "grondindices": [
+              12
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "text1637": "En Judith zeide: Ja, Heer, ik wil drinken, want mijn leven is op deze dag meer verheven dan het geweest is van al de dagen mijner geboorte.",
+      "textSV1888": "En Judith zeide: Ja, Heer, ik wil drinken, want mijn leven is op deze dag meer verheven dan het geweest is van al de dagen mijner geboorte.",
+      "text2026": "En Judith zei: Ja, Heer, ik wil drinken, want mijn leven is op deze dag meer verheven dan het geweest is van al de dagen van mijn geboorte.",
+      "marginNotes": [],
+      "text2026_html": "En Judith zei: <span class=\"direct-speech\"><i>Ja, Heer, ik wil drinken, want mijn leven is op deze dag meer verheven dan het geweest is van al de dagen van mijn geboorte.</i></span>",
+      "phraseDiff": [
+        {
+          "old": "zeide:",
+          "new": "zei:",
+          "principe": "W1"
+        },
+        {
+          "old": "mijner",
+          "new": "van mijn",
+          "principe": "N7"
+        }
+      ],
+      "grondtekst": [
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "εἶπεν",
+          "strongs": "G2036",
+          "transliteratie": "eipen"
+        },
+        {
+          "woord": "Ιουδιθ",
+          "transliteratie": "ioudith"
+        },
+        {
+          "woord": "πίομαι",
+          "strongs": "G4095",
+          "transliteratie": "piomai"
+        },
+        {
+          "woord": "δή",
+          "strongs": "G1211",
+          "transliteratie": "dē"
+        },
+        {
+          "woord": "κύριε",
+          "strongs": "G2962",
+          "transliteratie": "kyrie"
+        },
+        {
+          "woord": "ὅτι",
+          "strongs": "G3754",
+          "transliteratie": "hoti"
+        },
+        {
+          "woord": "ἐμεγαλύνθη",
+          "strongs": "G3170",
+          "transliteratie": "emegalynthē"
+        },
+        {
+          "woord": "τὸ",
+          "strongs": "G3588",
+          "transliteratie": "to"
+        },
+        {
+          "woord": "ζῆν",
+          "strongs": "G2198",
+          "transliteratie": "zēn"
+        },
+        {
+          "woord": "μου",
+          "strongs": "G3450",
+          "transliteratie": "mou"
+        },
+        {
+          "woord": "ἐν",
+          "strongs": "G1722",
+          "transliteratie": "en"
+        },
+        {
+          "woord": "ἐμοὶ",
+          "strongs": "G1698",
+          "transliteratie": "emoi"
+        },
+        {
+          "woord": "σήμερον",
+          "strongs": "G4594",
+          "transliteratie": "sēmeron"
+        },
+        {
+          "woord": "παρὰ",
+          "strongs": "G3844",
+          "transliteratie": "para"
+        },
+        {
+          "woord": "πάσας",
+          "strongs": "G3956",
+          "transliteratie": "pasas"
+        },
+        {
+          "woord": "τὰς",
+          "strongs": "G3588",
+          "transliteratie": "tas"
+        },
+        {
+          "woord": "ἡμέρας",
+          "strongs": "G2250",
+          "transliteratie": "hēmeras"
+        },
+        {
+          "woord": "τῆς",
+          "strongs": "G3588",
+          "transliteratie": "tēs"
+        },
+        {
+          "woord": "γενέσεώς",
+          "strongs": "G1078",
+          "transliteratie": "geneseōs"
+        },
+        {
+          "woord": "μου",
+          "strongs": "G3450",
+          "transliteratie": "mou"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "En",
+          "voorkomen": 1,
+          "strongs": [
+            "G2532"
+          ],
+          "bronwoorden": [
+            "καὶ"
+          ],
+          "transliteraties": [
+            "kai"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "82B7D4FF3E36F3FAFC4B38ADF5A9D1FD4277DEF650C71E380FD6652B51754E6C",
+            "referentie": "JUDITH 12:18",
+            "bronindices": [
+              0
+            ],
+            "grondindices": [
+              0
+            ]
+          }
+        },
+        {
+          "tekst": "drinken",
+          "voorkomen": 1,
+          "strongs": [
+            "G4095"
+          ],
+          "bronwoorden": [
+            "πίομαι"
+          ],
+          "transliteraties": [
+            "piomai"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "82B7D4FF3E36F3FAFC4B38ADF5A9D1FD4277DEF650C71E380FD6652B51754E6C",
+            "referentie": "JUDITH 12:18",
+            "bronindices": [
+              3
+            ],
+            "grondindices": [
+              3
+            ]
+          }
+        },
+        {
+          "tekst": "leven",
+          "voorkomen": 1,
+          "strongs": [
+            "G2198"
+          ],
+          "bronwoorden": [
+            "ζῆν"
+          ],
+          "transliteraties": [
+            "zēn"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "82B7D4FF3E36F3FAFC4B38ADF5A9D1FD4277DEF650C71E380FD6652B51754E6C",
+            "referentie": "JUDITH 12:18",
+            "bronindices": [
+              9
+            ],
+            "grondindices": [
+              9
+            ]
+          }
+        },
+        {
+          "tekst": "al",
+          "voorkomen": 1,
+          "strongs": [
+            "G3956"
+          ],
+          "bronwoorden": [
+            "πάσας"
+          ],
+          "transliteraties": [
+            "pasas"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "82B7D4FF3E36F3FAFC4B38ADF5A9D1FD4277DEF650C71E380FD6652B51754E6C",
+            "referentie": "JUDITH 12:18",
+            "bronindices": [
+              15
+            ],
+            "grondindices": [
+              15
+            ]
+          }
+        },
+        {
+          "tekst": "dag",
+          "voorkomen": 1,
+          "strongs": [
+            "G2250"
+          ],
+          "bronwoorden": [
+            "ἡμέρας"
+          ],
+          "transliteraties": [
+            "hēmeras"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "82B7D4FF3E36F3FAFC4B38ADF5A9D1FD4277DEF650C71E380FD6652B51754E6C",
+            "referentie": "JUDITH 12:18",
+            "bronindices": [
+              17
+            ],
+            "grondindices": [
+              17
+            ]
+          }
+        },
+        {
+          "tekst": "dan",
+          "voorkomen": 1,
+          "strongs": [
+            "G1211"
+          ],
+          "bronwoorden": [
+            "δή"
+          ],
+          "transliteraties": [
+            "dē"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "82B7D4FF3E36F3FAFC4B38ADF5A9D1FD4277DEF650C71E380FD6652B51754E6C",
+            "referentie": "JUDITH 12:18",
+            "bronindices": [
+              4
+            ],
+            "grondindices": [
+              4
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "text1637": "En zij nam, en at, en dronk voor hem, hetgeen haar dienstmaagd bereid had.",
+      "textSV1888": "En zij nam, en at, en dronk voor hem, hetgeen haar dienstmaagd bereid had.",
+      "text2026": "En zij nam, en at, en dronk voor hem, wat haar dienstmaagd bereid had.",
+      "marginNotes": [],
+      "text2026_html": "En zij nam, en at, en dronk voor hem, wat haar dienstmaagd bereid had.",
+      "phraseDiff": [
+        {
+          "old": "hetgeen",
+          "new": "wat",
+          "principe": "V4"
+        }
+      ],
+      "grondtekst": [
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "λαβοῦσα",
+          "strongs": "G2983",
+          "transliteratie": "labousa"
+        },
+        {
+          "woord": "ἔφαγεν",
+          "strongs": "G5315",
+          "transliteratie": "ephagen"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ἔπιεν",
+          "strongs": "G4095",
+          "transliteratie": "epien"
+        },
+        {
+          "woord": "κατέναντι",
+          "strongs": "G2713",
+          "transliteratie": "katenanti"
+        },
+        {
+          "woord": "αὐτοῦ",
+          "strongs": "G846",
+          "transliteratie": "autou"
+        },
+        {
+          "woord": "ἃ",
+          "strongs": "G3739",
+          "transliteratie": "ha"
+        },
+        {
+          "woord": "ἡτοίμασεν",
+          "strongs": "G2090",
+          "transliteratie": "hētoimasen"
+        },
+        {
+          "woord": "ἡ",
+          "strongs": "G3588",
+          "transliteratie": "hē"
+        },
+        {
+          "woord": "δούλη",
+          "strongs": "G1399",
+          "transliteratie": "doulē"
+        },
+        {
+          "woord": "αὐτῆς",
+          "strongs": "G846",
+          "transliteratie": "autēs"
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "text1637": "En Holofernes was vrolijk over haar, en dronk zeer veel wijn, zodat hij nooit zo veel op één dag gedronken had, van dat hij geboren was.",
+      "textSV1888": "En Holofernes was vrolijk over haar, en dronk zeer veel wijn, zodat hij nooit zo veel op één dag gedronken had, van dat hij geboren was.",
+      "text2026": "En Holofernes was vrolijk over haar, en dronk zeer veel wijn, zodat hij nooit zo veel op één dag gedronken had, sinds hij geboren was.",
+      "marginNotes": [],
+      "text2026_html": "En Holofernes was vrolijk over haar, en dronk zeer veel wijn, zodat hij nooit zo veel op één dag gedronken had, sinds hij geboren was.",
+      "grondtekst": [
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ηὐφράνθη",
+          "strongs": "G2165",
+          "transliteratie": "ēuphranthē"
+        },
+        {
+          "woord": "Ολοφέρνης",
+          "transliteratie": "olophernēs"
+        },
+        {
+          "woord": "ἀπ᾿",
+          "strongs": "G575",
+          "transliteratie": "ap᾿"
+        },
+        {
+          "woord": "αὐτῆς",
+          "strongs": "G846",
+          "transliteratie": "autēs"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ἔπιεν",
+          "strongs": "G4095",
+          "transliteratie": "epien"
+        },
+        {
+          "woord": "οἶνον",
+          "strongs": "G3631",
+          "transliteratie": "oinon"
+        },
+        {
+          "woord": "πολὺν",
+          "strongs": "G4183",
+          "transliteratie": "polyn"
+        },
+        {
+          "woord": "σφόδρα",
+          "strongs": "G4970",
+          "transliteratie": "sphodra"
+        },
+        {
+          "woord": "ὅσον",
+          "strongs": "G3745",
+          "transliteratie": "hoson"
+        },
+        {
+          "woord": "οὐκ",
+          "strongs": "G3756",
+          "transliteratie": "ouk"
+        },
+        {
+          "woord": "ἔπιεν",
+          "strongs": "G4095",
+          "transliteratie": "epien"
+        },
+        {
+          "woord": "πώποτε",
+          "strongs": "G4455",
+          "transliteratie": "pōpote"
+        },
+        {
+          "woord": "ἐν",
+          "strongs": "G1722",
+          "transliteratie": "en"
+        },
+        {
+          "woord": "ἡμέρᾳ",
+          "strongs": "G2250",
+          "transliteratie": "hēmera"
+        },
+        {
+          "woord": "μιᾷ",
+          "strongs": "G1520",
+          "transliteratie": "mia"
+        },
+        {
+          "woord": "ἀφ᾿",
+          "strongs": "G575",
+          "transliteratie": "aph᾿"
+        },
+        {
+          "woord": "οὗ",
+          "strongs": "G3739",
+          "transliteratie": "hou"
+        },
+        {
+          "woord": "ἐγεννήθη",
+          "strongs": "G1080",
+          "transliteratie": "egennēthē"
+        }
+      ],
+      "phraseDiff": [
+        {
+          "old": "van dat",
+          "new": "sinds",
+          "principe": null
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "zeer",
+          "voorkomen": 1,
+          "strongs": [
+            "G4970"
+          ],
+          "bronwoorden": [
+            "σφόδρα"
+          ],
+          "transliteraties": [
+            "sphodra"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "82B7D4FF3E36F3FAFC4B38ADF5A9D1FD4277DEF650C71E380FD6652B51754E6C",
+            "referentie": "JUDITH 12:20",
+            "bronindices": [
+              9
+            ],
+            "grondindices": [
+              9
+            ]
+          }
+        },
+        {
+          "tekst": "wijn",
+          "voorkomen": 1,
+          "strongs": [
+            "G3631"
+          ],
+          "bronwoorden": [
+            "οἶνον"
+          ],
+          "transliteraties": [
+            "oinon"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "82B7D4FF3E36F3FAFC4B38ADF5A9D1FD4277DEF650C71E380FD6652B51754E6C",
+            "referentie": "JUDITH 12:20",
+            "bronindices": [
+              7
+            ],
+            "grondindices": [
+              7
+            ]
+          }
+        },
+        {
+          "tekst": "één",
+          "voorkomen": 1,
+          "strongs": [
+            "G1520"
+          ],
+          "bronwoorden": [
+            "μιᾷ"
+          ],
+          "transliteraties": [
+            "mia"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "82B7D4FF3E36F3FAFC4B38ADF5A9D1FD4277DEF650C71E380FD6652B51754E6C",
+            "referentie": "JUDITH 12:20",
+            "bronindices": [
+              16
+            ],
+            "grondindices": [
+              16
+            ]
+          }
+        },
+        {
+          "tekst": "dag",
+          "voorkomen": 1,
+          "strongs": [
+            "G2250"
+          ],
+          "bronwoorden": [
+            "ἡμέρᾳ"
+          ],
+          "transliteraties": [
+            "hēmera"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "82B7D4FF3E36F3FAFC4B38ADF5A9D1FD4277DEF650C71E380FD6652B51754E6C",
+            "referentie": "JUDITH 12:20",
+            "bronindices": [
+              15
+            ],
+            "grondindices": [
+              15
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "chapterIntro": {
+    "text1637": "1 Iudith weygert te eten van Holophernis spijse. 6 Versoeckt te mogen uyt gaen om te bidden, 7 blijft drie dagen in’t leger. 10 Holophernes noodt haer door Bagoas by hem te komen op sijne maeltijt, ende met hem vrolick te zijn. 13 ’t welck Iudith, haer verciert hebbende, doet, 17 ende wort van Holophernes seer getoeft.",
+    "text2026": "1 Judit weigert te eten van de spijze van Holofernes. 6 Vraagt of zij naar buiten mag gaan om te bidden, 7 blijft drie dagen in het legerkamp. 10 Holofernes nodigt haar door Bagoas uit om bij hem te komen op zijn maaltijd, en met hem vrolijk te zijn. 13 Wat Judit, nadat zij zich getooid heeft, doet, 17 en zij wordt door Holofernes zeer onthaald."
+  }
+}

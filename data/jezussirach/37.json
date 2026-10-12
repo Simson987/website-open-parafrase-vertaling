@@ -1,0 +1,3772 @@
+{
+  "number": 37,
+  "verses": [
+    {
+      "number": 1,
+      "text1637": "IEDER vriend zal wel zeggen: Ik heb ook vriendschap gehouden, maar menige vriend is alleen vriend met de naam.",
+      "textSV1888": "IEDER vriend zal wel zeggen: Ik heb ook vriendschap gehouden, maar menige vriend is alleen vriend met de naam.",
+      "text2026": "IEDER vriend zal wel zeggen: Ik heb ook vriendschap gehouden, maar menige vriend is alleen vriend met de naam.",
+      "marginNotes": [],
+      "text2026_html": "IEDER vriend zal wel zeggen: <span class=\"direct-speech\"><i>Ik heb ook vriendschap gehouden,</i></span> maar menige vriend is alleen vriend met de naam.",
+      "grondtekst": [
+        {
+          "woord": "πᾶς",
+          "strongs": "G3956",
+          "transliteratie": "pas"
+        },
+        {
+          "woord": "φίλος",
+          "strongs": "G5384",
+          "transliteratie": "philos"
+        },
+        {
+          "woord": "ἐρεῖ",
+          "strongs": "G2046",
+          "transliteratie": "erei"
+        },
+        {
+          "woord": "ἐφιλίασα",
+          "transliteratie": "ephiliasa"
+        },
+        {
+          "woord": "κἀγώ",
+          "strongs": "G2504",
+          "transliteratie": "kagō"
+        },
+        {
+          "woord": "ἀλλ᾿",
+          "strongs": "G235",
+          "transliteratie": "all᾿"
+        },
+        {
+          "woord": "ἔστιν",
+          "strongs": "G1510",
+          "transliteratie": "estin"
+        },
+        {
+          "woord": "φίλος",
+          "strongs": "G5384",
+          "transliteratie": "philos"
+        },
+        {
+          "woord": "ὀνόματι",
+          "strongs": "G3686",
+          "transliteratie": "onomati"
+        },
+        {
+          "woord": "μόνον",
+          "strongs": "G3440",
+          "transliteratie": "monon"
+        },
+        {
+          "woord": "φίλος",
+          "strongs": "G5384",
+          "transliteratie": "philos"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "maar",
+          "voorkomen": 1,
+          "strongs": [
+            "G235"
+          ],
+          "bronwoorden": [
+            "ἀλλ᾿"
+          ],
+          "transliteraties": [
+            "all᾿"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "98977BF523AE2EE7B0C211BCC0C31263A5AC9FBC2CAE2BB28AE1286C877953A3",
+            "referentie": "JEZUSSIRACH 37:1",
+            "bronindices": [
+              5
+            ],
+            "grondindices": [
+              5
+            ]
+          }
+        },
+        {
+          "tekst": "naam",
+          "voorkomen": 1,
+          "strongs": [
+            "G3686"
+          ],
+          "bronwoorden": [
+            "ὀνόματι"
+          ],
+          "transliteraties": [
+            "onomati"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "98977BF523AE2EE7B0C211BCC0C31263A5AC9FBC2CAE2BB28AE1286C877953A3",
+            "referentie": "JEZUSSIRACH 37:1",
+            "bronindices": [
+              8
+            ],
+            "grondindices": [
+              8
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "text1637": "Blijft de droefheid niet tot de dood toe wanneer een metgezel en een vriend tot vijanden worden?",
+      "textSV1888": "Blijft de droefheid niet tot de dood toe wanneer een metgezel en een vriend tot vijanden worden?",
+      "text2026": "Blijft het verdriet niet tot de dood toe wanneer een metgezel en een vriend tot vijanden worden?",
+      "marginNotes": [],
+      "text2026_html": "Blijft het verdriet niet tot de dood toe wanneer een metgezel en een vriend tot vijanden worden?",
+      "phraseDiff": [
+        {
+          "old": "de droefheid",
+          "new": "het verdriet",
+          "principe": null
+        }
+      ],
+      "grondtekst": [
+        {
+          "woord": "οὐχὶ",
+          "strongs": "G3780",
+          "transliteratie": "ouchi"
+        },
+        {
+          "woord": "λύπη",
+          "strongs": "G3077",
+          "transliteratie": "lypē"
+        },
+        {
+          "woord": "ἔνι",
+          "strongs": "G1762",
+          "transliteratie": "eni"
+        },
+        {
+          "woord": "ἕως",
+          "strongs": "G2193",
+          "transliteratie": "heōs"
+        },
+        {
+          "woord": "θανάτου",
+          "strongs": "G2288",
+          "transliteratie": "thanatou"
+        },
+        {
+          "woord": "ἑταῖρος",
+          "strongs": "G2083",
+          "transliteratie": "hetairos"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "φίλος",
+          "strongs": "G5384",
+          "transliteratie": "philos"
+        },
+        {
+          "woord": "τρεπόμενος",
+          "transliteratie": "trepomenos"
+        },
+        {
+          "woord": "εἰς",
+          "strongs": "G1519",
+          "transliteratie": "eis"
+        },
+        {
+          "woord": "ἔχθραν",
+          "strongs": "G2190",
+          "transliteratie": "echthran"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "verdriet",
+          "voorkomen": 1,
+          "strongs": [
+            "G3077"
+          ],
+          "bronwoorden": [
+            "λύπη"
+          ],
+          "transliteraties": [
+            "lypē"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "98977BF523AE2EE7B0C211BCC0C31263A5AC9FBC2CAE2BB28AE1286C877953A3",
+            "referentie": "JEZUSSIRACH 37:2",
+            "bronindices": [
+              1
+            ],
+            "grondindices": [
+              1
+            ]
+          }
+        },
+        {
+          "tekst": "dood",
+          "voorkomen": 1,
+          "strongs": [
+            "G2288"
+          ],
+          "bronwoorden": [
+            "θανάτου"
+          ],
+          "transliteraties": [
+            "thanatou"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "98977BF523AE2EE7B0C211BCC0C31263A5AC9FBC2CAE2BB28AE1286C877953A3",
+            "referentie": "JEZUSSIRACH 37:2",
+            "bronindices": [
+              4
+            ],
+            "grondindices": [
+              4
+            ]
+          }
+        },
+        {
+          "tekst": "metgezel",
+          "voorkomen": 1,
+          "strongs": [
+            "G2083"
+          ],
+          "bronwoorden": [
+            "ἑταῖρος"
+          ],
+          "transliteraties": [
+            "hetairos"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "98977BF523AE2EE7B0C211BCC0C31263A5AC9FBC2CAE2BB28AE1286C877953A3",
+            "referentie": "JEZUSSIRACH 37:2",
+            "bronindices": [
+              5
+            ],
+            "grondindices": [
+              5
+            ]
+          }
+        },
+        {
+          "tekst": "en",
+          "voorkomen": 1,
+          "strongs": [
+            "G2532"
+          ],
+          "bronwoorden": [
+            "καὶ"
+          ],
+          "transliteraties": [
+            "kai"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "98977BF523AE2EE7B0C211BCC0C31263A5AC9FBC2CAE2BB28AE1286C877953A3",
+            "referentie": "JEZUSSIRACH 37:2",
+            "bronindices": [
+              6
+            ],
+            "grondindices": [
+              6
+            ]
+          }
+        },
+        {
+          "tekst": "toe",
+          "voorkomen": 1,
+          "strongs": [
+            "G1519"
+          ],
+          "bronwoorden": [
+            "εἰς"
+          ],
+          "transliteraties": [
+            "eis"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "98977BF523AE2EE7B0C211BCC0C31263A5AC9FBC2CAE2BB28AE1286C877953A3",
+            "referentie": "JEZUSSIRACH 37:2",
+            "bronindices": [
+              9
+            ],
+            "grondindices": [
+              9
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "text1637": "O boze gedachte, vanwaar komt gij gerold om de aarde met bedriegerij te bedekken?",
+      "textSV1888": "O boze gedachte, vanwaar komt gij gerold om de aarde met bedriegerij te bedekken?",
+      "text2026": "O boze gedachte, vanwaar komt u gerold om de aarde met bedriegerij te bedekken?",
+      "marginNotes": [],
+      "text2026_html": "O boze gedachte, vanwaar komt u gerold om de aarde met bedriegerij te bedekken?",
+      "phraseDiff": [
+        {
+          "old": "gij",
+          "new": "u",
+          "principe": "A1"
+        }
+      ],
+      "grondtekst": [
+        {
+          "woord": "ὦ",
+          "strongs": "G5599",
+          "transliteratie": "ō"
+        },
+        {
+          "woord": "πονηρὸν",
+          "strongs": "G4190",
+          "transliteratie": "ponēron"
+        },
+        {
+          "woord": "ἐνθύμημα",
+          "transliteratie": "enthymēma"
+        },
+        {
+          "woord": "πόθεν",
+          "strongs": "G4159",
+          "transliteratie": "pothen"
+        },
+        {
+          "woord": "ἐνεκυλίσθης",
+          "transliteratie": "enekylisthēs"
+        },
+        {
+          "woord": "καλύψαι",
+          "strongs": "G2572",
+          "transliteratie": "kalypsai"
+        },
+        {
+          "woord": "τὴν",
+          "strongs": "G3588",
+          "transliteratie": "tēn"
+        },
+        {
+          "woord": "ξηρὰν",
+          "strongs": "G3584",
+          "transliteratie": "xēran"
+        },
+        {
+          "woord": "ἐν",
+          "strongs": "G1722",
+          "transliteratie": "en"
+        },
+        {
+          "woord": "δολιότητι",
+          "transliteratie": "doliotēti"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "O",
+          "voorkomen": 1,
+          "strongs": [
+            "G5599"
+          ],
+          "bronwoorden": [
+            "ὦ"
+          ],
+          "transliteraties": [
+            "ō"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "98977BF523AE2EE7B0C211BCC0C31263A5AC9FBC2CAE2BB28AE1286C877953A3",
+            "referentie": "JEZUSSIRACH 37:3",
+            "bronindices": [
+              0
+            ],
+            "grondindices": [
+              0
+            ]
+          }
+        },
+        {
+          "tekst": "vanwaar",
+          "voorkomen": 1,
+          "strongs": [
+            "G4159"
+          ],
+          "bronwoorden": [
+            "πόθεν"
+          ],
+          "transliteraties": [
+            "pothen"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "98977BF523AE2EE7B0C211BCC0C31263A5AC9FBC2CAE2BB28AE1286C877953A3",
+            "referentie": "JEZUSSIRACH 37:3",
+            "bronindices": [
+              3
+            ],
+            "grondindices": [
+              3
+            ]
+          }
+        },
+        {
+          "tekst": "bedekken",
+          "voorkomen": 1,
+          "strongs": [
+            "G2572"
+          ],
+          "bronwoorden": [
+            "καλύψαι"
+          ],
+          "transliteraties": [
+            "kalypsai"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "98977BF523AE2EE7B0C211BCC0C31263A5AC9FBC2CAE2BB28AE1286C877953A3",
+            "referentie": "JEZUSSIRACH 37:3",
+            "bronindices": [
+              5
+            ],
+            "grondindices": [
+              5
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "text1637": "Een metgezel leeft met zijn vriend in verheuging, en in de tijd van verdrukking zal hij hem tegen zijn.",
+      "textSV1888": "Een metgezel leeft met zijn vriend in verheuging, en in de tijd van verdrukking zal hij hem tegen zijn.",
+      "text2026": "Een metgezel leeft met zijn vriend in verheuging, en in de tijd van verdrukking zal hij hem tegen zijn.",
+      "marginNotes": [],
+      "text2026_html": "Een metgezel leeft met zijn vriend in verheuging, en in de tijd van verdrukking zal hij hem tegen zijn.",
+      "grondtekst": [
+        {
+          "woord": "ἑταῖρος",
+          "strongs": "G2083",
+          "transliteratie": "hetairos"
+        },
+        {
+          "woord": "φίλου",
+          "strongs": "G5384",
+          "transliteratie": "philou"
+        },
+        {
+          "woord": "ἐν",
+          "strongs": "G1722",
+          "transliteratie": "en"
+        },
+        {
+          "woord": "εὐφροσύνῃ",
+          "strongs": "G2167",
+          "transliteratie": "euphrosynē"
+        },
+        {
+          "woord": "ἥδεται",
+          "transliteratie": "hēdetai"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ἐν",
+          "strongs": "G1722",
+          "transliteratie": "en"
+        },
+        {
+          "woord": "καιρῷ",
+          "strongs": "G2540",
+          "transliteratie": "kairō"
+        },
+        {
+          "woord": "θλίψεως",
+          "strongs": "G2347",
+          "transliteratie": "thlipseōs"
+        },
+        {
+          "woord": "ἔσται",
+          "strongs": "G1510",
+          "transliteratie": "estai"
+        },
+        {
+          "woord": "ἀπέναντι",
+          "strongs": "G561",
+          "transliteratie": "apenanti"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "metgezel",
+          "voorkomen": 1,
+          "strongs": [
+            "G2083"
+          ],
+          "bronwoorden": [
+            "ἑταῖρος"
+          ],
+          "transliteraties": [
+            "hetairos"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "98977BF523AE2EE7B0C211BCC0C31263A5AC9FBC2CAE2BB28AE1286C877953A3",
+            "referentie": "JEZUSSIRACH 37:4",
+            "bronindices": [
+              0
+            ],
+            "grondindices": [
+              0
+            ]
+          }
+        },
+        {
+          "tekst": "en",
+          "voorkomen": 1,
+          "strongs": [
+            "G2532"
+          ],
+          "bronwoorden": [
+            "καὶ"
+          ],
+          "transliteraties": [
+            "kai"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "98977BF523AE2EE7B0C211BCC0C31263A5AC9FBC2CAE2BB28AE1286C877953A3",
+            "referentie": "JEZUSSIRACH 37:4",
+            "bronindices": [
+              5
+            ],
+            "grondindices": [
+              5
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "text1637": "Een metgezel arbeidt met zijn vriend om des buiks wil, en neemt een schild tegen de vijand.",
+      "textSV1888": "Een metgezel arbeidt met zijn vriend om des buiks wil, en neemt een schild tegen de vijand.",
+      "text2026": "Een metgezel arbeidt met zijn vriend vanwege de buik, en neemt een schild tegen de vijand.",
+      "marginNotes": [],
+      "text2026_html": "Een metgezel arbeidt met zijn vriend vanwege de buik, en neemt een schild tegen de vijand.",
+      "phraseDiff": [
+        {
+          "old": "om des buiks wil,",
+          "new": "vanwege de buik,",
+          "principe": null
+        }
+      ],
+      "grondtekst": [
+        {
+          "woord": "ἑταῖρος",
+          "strongs": "G2083",
+          "transliteratie": "hetairos"
+        },
+        {
+          "woord": "φίλῳ",
+          "strongs": "G5384",
+          "transliteratie": "philō"
+        },
+        {
+          "woord": "συμπονεῖ",
+          "transliteratie": "symponei"
+        },
+        {
+          "woord": "χάριν",
+          "strongs": "G5485",
+          "transliteratie": "charin"
+        },
+        {
+          "woord": "γαστρός",
+          "strongs": "G1064",
+          "transliteratie": "gastros"
+        },
+        {
+          "woord": "ἔναντι",
+          "strongs": "G1725",
+          "transliteratie": "enanti"
+        },
+        {
+          "woord": "πολέμου",
+          "strongs": "G4171",
+          "transliteratie": "polemou"
+        },
+        {
+          "woord": "λήμψεται",
+          "strongs": "G2983",
+          "transliteratie": "lēmpsetai"
+        },
+        {
+          "woord": "ἀσπίδα",
+          "strongs": "G785",
+          "transliteratie": "aspida"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "metgezel",
+          "voorkomen": 1,
+          "strongs": [
+            "G2083"
+          ],
+          "bronwoorden": [
+            "ἑταῖρος"
+          ],
+          "transliteraties": [
+            "hetairos"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "98977BF523AE2EE7B0C211BCC0C31263A5AC9FBC2CAE2BB28AE1286C877953A3",
+            "referentie": "JEZUSSIRACH 37:5",
+            "bronindices": [
+              0
+            ],
+            "grondindices": [
+              0
+            ]
+          }
+        },
+        {
+          "tekst": "buik",
+          "voorkomen": 1,
+          "strongs": [
+            "G1064"
+          ],
+          "bronwoorden": [
+            "γαστρός"
+          ],
+          "transliteraties": [
+            "gastros"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "98977BF523AE2EE7B0C211BCC0C31263A5AC9FBC2CAE2BB28AE1286C877953A3",
+            "referentie": "JEZUSSIRACH 37:5",
+            "bronindices": [
+              4
+            ],
+            "grondindices": [
+              4
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "text1637": "Vergeet uw vriend niet in uw hart, en stel hem niet in vergetelheid, wanneer gij geld hebt.",
+      "textSV1888": "Vergeet uw vriend niet in uw hart, en stel hem niet in vergetelheid, wanneer gij geld hebt.",
+      "text2026": "Vergeet uw vriend niet in uw hart, en stel hem niet in vergetelheid, wanneer u geld hebt.",
+      "marginNotes": [],
+      "text2026_html": "Vergeet uw vriend niet in uw hart, en stel hem niet in vergetelheid, wanneer u geld hebt.",
+      "phraseDiff": [
+        {
+          "old": "gij",
+          "new": "u",
+          "principe": "A1"
+        }
+      ],
+      "grondtekst": [
+        {
+          "woord": "μὴ",
+          "strongs": "G3361",
+          "transliteratie": "mē"
+        },
+        {
+          "woord": "ἐπιλάθῃ",
+          "strongs": "G1950",
+          "transliteratie": "epilathē"
+        },
+        {
+          "woord": "φίλου",
+          "strongs": "G5384",
+          "transliteratie": "philou"
+        },
+        {
+          "woord": "ἐν",
+          "strongs": "G1722",
+          "transliteratie": "en"
+        },
+        {
+          "woord": "τῇ",
+          "strongs": "G3588",
+          "transliteratie": "tē"
+        },
+        {
+          "woord": "ψυχῇ",
+          "strongs": "G5590",
+          "transliteratie": "psychē"
+        },
+        {
+          "woord": "σου",
+          "strongs": "G4675",
+          "transliteratie": "sou"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "μὴ",
+          "strongs": "G3361",
+          "transliteratie": "mē"
+        },
+        {
+          "woord": "ἀμνημονήσῃς",
+          "transliteratie": "amnēmonēsēs"
+        },
+        {
+          "woord": "αὐτοῦ",
+          "strongs": "G846",
+          "transliteratie": "autou"
+        },
+        {
+          "woord": "ἐν",
+          "strongs": "G1722",
+          "transliteratie": "en"
+        },
+        {
+          "woord": "χρήμασίν",
+          "strongs": "G5536",
+          "transliteratie": "chrēmasin"
+        },
+        {
+          "woord": "σου",
+          "strongs": "G4675",
+          "transliteratie": "sou"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "en",
+          "voorkomen": 1,
+          "strongs": [
+            "G2532"
+          ],
+          "bronwoorden": [
+            "καὶ"
+          ],
+          "transliteraties": [
+            "kai"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "98977BF523AE2EE7B0C211BCC0C31263A5AC9FBC2CAE2BB28AE1286C877953A3",
+            "referentie": "JEZUSSIRACH 37:6",
+            "bronindices": [
+              7
+            ],
+            "grondindices": [
+              7
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "text1637": "Beraad u niet met hem die u overdwars aanziet, en verberg uw raad voor degenen die u benijden.",
+      "textSV1888": "Beraad u niet met hem die u overdwars aanziet, en verberg uw raad voor degenen die u benijden.",
+      "text2026": "Beraad u niet met hem die u overdwars aanziet, en verberg uw raad voor degenen die u benijden.",
+      "marginNotes": [],
+      "text2026_html": "Beraad u niet met hem die u overdwars aanziet, en verberg uw raad voor degenen die u benijden.",
+      "grondtekst": [
+        {
+          "woord": "πᾶς",
+          "strongs": "G3956",
+          "transliteratie": "pas"
+        },
+        {
+          "woord": "σύμβουλος",
+          "strongs": "G4825",
+          "transliteratie": "symboulos"
+        },
+        {
+          "woord": "ἐξαίρει",
+          "strongs": "G1808",
+          "transliteratie": "exairei"
+        },
+        {
+          "woord": "βουλήν",
+          "strongs": "G1012",
+          "transliteratie": "boulēn"
+        },
+        {
+          "woord": "ἀλλ᾿",
+          "strongs": "G235",
+          "transliteratie": "all᾿"
+        },
+        {
+          "woord": "ἔστιν",
+          "strongs": "G1510",
+          "transliteratie": "estin"
+        },
+        {
+          "woord": "συμβουλεύων",
+          "strongs": "G4823",
+          "transliteratie": "symbouleuōn"
+        },
+        {
+          "woord": "εἰς",
+          "strongs": "G1519",
+          "transliteratie": "eis"
+        },
+        {
+          "woord": "ἑαυτόν",
+          "strongs": "G1438",
+          "transliteratie": "heauton"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "raad",
+          "voorkomen": 1,
+          "strongs": [
+            "G1012"
+          ],
+          "bronwoorden": [
+            "βουλήν"
+          ],
+          "transliteraties": [
+            "boulēn"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "98977BF523AE2EE7B0C211BCC0C31263A5AC9FBC2CAE2BB28AE1286C877953A3",
+            "referentie": "JEZUSSIRACH 37:7",
+            "bronindices": [
+              3
+            ],
+            "grondindices": [
+              3
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "text1637": "Een ieder die raad geeft, verheft zijn raad, maar menigeen geeft voor zichzelf raad.",
+      "textSV1888": "Een ieder die raad geeft, verheft zijn raad, maar menigeen geeft voor zichzelf raad.",
+      "text2026": "Een ieder die raad geeft, verheft zijn raad, maar menigeen geeft voor zichzelf raad.",
+      "marginNotes": [],
+      "text2026_html": "Een ieder die raad geeft, verheft zijn raad, maar menigeen geeft voor zichzelf raad.",
+      "grondtekst": [
+        {
+          "woord": "ἀπὸ",
+          "strongs": "G575",
+          "transliteratie": "apo"
+        },
+        {
+          "woord": "συμβούλου",
+          "strongs": "G4825",
+          "transliteratie": "symboulou"
+        },
+        {
+          "woord": "φύλαξον",
+          "strongs": "G5442",
+          "transliteratie": "phylaxon"
+        },
+        {
+          "woord": "τὴν",
+          "strongs": "G3588",
+          "transliteratie": "tēn"
+        },
+        {
+          "woord": "ψυχήν",
+          "strongs": "G5590",
+          "transliteratie": "psychēn"
+        },
+        {
+          "woord": "σου",
+          "strongs": "G4675",
+          "transliteratie": "sou"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "γνῶθι",
+          "strongs": "G1097",
+          "transliteratie": "gnōthi"
+        },
+        {
+          "woord": "πρότερον",
+          "strongs": "G4386",
+          "transliteratie": "proteron"
+        },
+        {
+          "woord": "τίς",
+          "strongs": "G5101",
+          "transliteratie": "tis"
+        },
+        {
+          "woord": "αὐτοῦ",
+          "strongs": "G846",
+          "transliteratie": "autou"
+        },
+        {
+          "woord": "χρεία",
+          "strongs": "G5532",
+          "transliteratie": "chreia"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "γὰρ",
+          "strongs": "G1063",
+          "transliteratie": "gar"
+        },
+        {
+          "woord": "αὐτὸς",
+          "strongs": "G846",
+          "transliteratie": "autos"
+        },
+        {
+          "woord": "ἑαυτῷ",
+          "strongs": "G1438",
+          "transliteratie": "heautō"
+        },
+        {
+          "woord": "βουλεύσεται",
+          "strongs": "G1011",
+          "transliteratie": "bouleusetai"
+        },
+        {
+          "woord": "μήποτε",
+          "strongs": "G3379",
+          "transliteratie": "mēpote"
+        },
+        {
+          "woord": "βάλῃ",
+          "strongs": "G906",
+          "transliteratie": "balē"
+        },
+        {
+          "woord": "ἐπὶ",
+          "strongs": "G1909",
+          "transliteratie": "epi"
+        },
+        {
+          "woord": "σοὶ",
+          "strongs": "G4671",
+          "transliteratie": "soi"
+        },
+        {
+          "woord": "κλῆρον",
+          "strongs": "G2819",
+          "transliteratie": "klēron"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "zichzelf",
+          "voorkomen": 1,
+          "strongs": [
+            "G1438"
+          ],
+          "bronwoorden": [
+            "ἑαυτῷ"
+          ],
+          "transliteraties": [
+            "heautō"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "98977BF523AE2EE7B0C211BCC0C31263A5AC9FBC2CAE2BB28AE1286C877953A3",
+            "referentie": "JEZUSSIRACH 37:8",
+            "bronindices": [
+              15
+            ],
+            "grondindices": [
+              15
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "text1637": "Bewaar uw ziel voor de raadgever, en verneem eerst wat zijn behoefte is, want hij zal zichzelf raad geven, opdat hij niet misschien het lot over u werpe,",
+      "textSV1888": "Bewaar uw ziel voor de raadgever, en verneem eerst wat zijn behoefte is, want hij zal zichzelf raad geven, opdat hij niet misschien het lot over u werpe,",
+      "text2026": "Bewaar uw ziel voor de raadgever, en verneem eerst wat zijn behoefte is, want hij zal zichzelf raad geven, opdat hij niet misschien het lot over u werpe,",
+      "marginNotes": [],
+      "text2026_html": "Bewaar uw ziel voor de raadgever, en verneem eerst wat zijn behoefte is, want hij zal zichzelf raad geven, opdat hij niet misschien het lot over u werpe,",
+      "grondtekst": [
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "εἴπῃ",
+          "strongs": "G2036",
+          "transliteratie": "eipē"
+        },
+        {
+          "woord": "σοι",
+          "strongs": "G4671",
+          "transliteratie": "soi"
+        },
+        {
+          "woord": "καλὴ",
+          "strongs": "G2570",
+          "transliteratie": "kalē"
+        },
+        {
+          "woord": "ἡ",
+          "strongs": "G3588",
+          "transliteratie": "hē"
+        },
+        {
+          "woord": "ὁδός",
+          "strongs": "G3598",
+          "transliteratie": "hodos"
+        },
+        {
+          "woord": "σου",
+          "strongs": "G4675",
+          "transliteratie": "sou"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "στήσεται",
+          "strongs": "G2476",
+          "transliteratie": "stēsetai"
+        },
+        {
+          "woord": "ἐξ",
+          "strongs": "G1537",
+          "transliteratie": "ex"
+        },
+        {
+          "woord": "ἀναντίας",
+          "transliteratie": "anantias"
+        },
+        {
+          "woord": "ἰδεῖν",
+          "strongs": "G3708",
+          "transliteratie": "idein"
+        },
+        {
+          "woord": "τὸ",
+          "strongs": "G3588",
+          "transliteratie": "to"
+        },
+        {
+          "woord": "συμβησόμενόν",
+          "strongs": "G4819",
+          "transliteratie": "symbēsomenon"
+        },
+        {
+          "woord": "σοι",
+          "strongs": "G4671",
+          "transliteratie": "soi"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "en",
+          "voorkomen": 1,
+          "strongs": [
+            "G2532"
+          ],
+          "bronwoorden": [
+            "καὶ"
+          ],
+          "transliteraties": [
+            "kai"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "98977BF523AE2EE7B0C211BCC0C31263A5AC9FBC2CAE2BB28AE1286C877953A3",
+            "referentie": "JEZUSSIRACH 37:9",
+            "bronindices": [
+              0
+            ],
+            "grondindices": [
+              0
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "text1637": "En zegge tot u: Uw weg is goed, en stelle zich tegenover u om te zien hetgeen u overkomen zal.",
+      "textSV1888": "En zegge tot u: Uw weg is goed, en stelle zich tegenover u om te zien hetgeen u overkomen zal.",
+      "text2026": "En zeg tot u: Uw weg is goed, en stelle zich tegenover u om te zien wat u overkomen zal.",
+      "marginNotes": [],
+      "text2026_html": "En zeg tot u: <span class=\"direct-speech\"><i>Uw weg is goed,</i></span> en stelle zich tegenover u om te zien wat u overkomen zal.",
+      "phraseDiff": [
+        {
+          "old": "zegge",
+          "new": "zeg",
+          "principe": "V401"
+        },
+        {
+          "old": "hetgeen",
+          "new": "wat",
+          "principe": "V4"
+        }
+      ],
+      "grondtekst": [
+        {
+          "woord": "μὴ",
+          "strongs": "G3361",
+          "transliteratie": "mē"
+        },
+        {
+          "woord": "βουλεύου",
+          "strongs": "G1011",
+          "transliteratie": "bouleuou"
+        },
+        {
+          "woord": "μετὰ",
+          "strongs": "G3326",
+          "transliteratie": "meta"
+        },
+        {
+          "woord": "τοῦ",
+          "strongs": "G3588",
+          "transliteratie": "tou"
+        },
+        {
+          "woord": "ὑποβλεπομένου",
+          "transliteratie": "hypoblepomenou"
+        },
+        {
+          "woord": "σε",
+          "strongs": "G4571",
+          "transliteratie": "se"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ἀπὸ",
+          "strongs": "G575",
+          "transliteratie": "apo"
+        },
+        {
+          "woord": "τῶν",
+          "strongs": "G3588",
+          "transliteratie": "tōn"
+        },
+        {
+          "woord": "ζηλούντων",
+          "strongs": "G2206",
+          "transliteratie": "zēlountōn"
+        },
+        {
+          "woord": "σε",
+          "strongs": "G4571",
+          "transliteratie": "se"
+        },
+        {
+          "woord": "κρύψον",
+          "strongs": "G2928",
+          "transliteratie": "krypson"
+        },
+        {
+          "woord": "βουλήν",
+          "strongs": "G1012",
+          "transliteratie": "boulēn"
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "text1637": "Beraad u niet met hem, die u overdwars aanziet, en verberg uw raadslag voor degenen, die u benijden;",
+      "textSV1888": "Beraad u niet met hem, die u overdwars aanziet, en verberg uw raadslag voor degenen, die u benijden;",
+      "text2026": "Beraad u niet met hem, die u overdwars aanziet, en verberg uw raadslag voor degenen, die u benijden;",
+      "marginNotes": [],
+      "text2026_html": "Beraad u niet met hem, die u overdwars aanziet, en verberg uw raadslag voor degenen, die u benijden;",
+      "grondtekst": [
+        {
+          "woord": "μετὰ",
+          "strongs": "G3326",
+          "transliteratie": "meta"
+        },
+        {
+          "woord": "γυναικὸς",
+          "strongs": "G1135",
+          "transliteratie": "gynaikos"
+        },
+        {
+          "woord": "περὶ",
+          "strongs": "G4012",
+          "transliteratie": "peri"
+        },
+        {
+          "woord": "τῆς",
+          "strongs": "G3588",
+          "transliteratie": "tēs"
+        },
+        {
+          "woord": "ἀντιζήλου",
+          "transliteratie": "antizēlou"
+        },
+        {
+          "woord": "αὐτῆς",
+          "strongs": "G846",
+          "transliteratie": "autēs"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "μετὰ",
+          "strongs": "G3326",
+          "transliteratie": "meta"
+        },
+        {
+          "woord": "δειλοῦ",
+          "strongs": "G1169",
+          "transliteratie": "deilou"
+        },
+        {
+          "woord": "περὶ",
+          "strongs": "G4012",
+          "transliteratie": "peri"
+        },
+        {
+          "woord": "πολέμου",
+          "strongs": "G4171",
+          "transliteratie": "polemou"
+        },
+        {
+          "woord": "μετὰ",
+          "strongs": "G3326",
+          "transliteratie": "meta"
+        },
+        {
+          "woord": "ἐμπόρου",
+          "strongs": "G1713",
+          "transliteratie": "emporou"
+        },
+        {
+          "woord": "περὶ",
+          "strongs": "G4012",
+          "transliteratie": "peri"
+        },
+        {
+          "woord": "μεταβολίας",
+          "transliteratie": "metabolias"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "μετὰ",
+          "strongs": "G3326",
+          "transliteratie": "meta"
+        },
+        {
+          "woord": "ἀγοράζοντος",
+          "strongs": "G59",
+          "transliteratie": "agorazontos"
+        },
+        {
+          "woord": "περὶ",
+          "strongs": "G4012",
+          "transliteratie": "peri"
+        },
+        {
+          "woord": "πράσεως",
+          "transliteratie": "praseōs"
+        },
+        {
+          "woord": "μετὰ",
+          "strongs": "G3326",
+          "transliteratie": "meta"
+        },
+        {
+          "woord": "βασκάνου",
+          "transliteratie": "baskanou"
+        },
+        {
+          "woord": "περὶ",
+          "strongs": "G4012",
+          "transliteratie": "peri"
+        },
+        {
+          "woord": "εὐχαριστίας",
+          "strongs": "G2169",
+          "transliteratie": "eucharistias"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "μετὰ",
+          "strongs": "G3326",
+          "transliteratie": "meta"
+        },
+        {
+          "woord": "ἀνελεήμονος",
+          "strongs": "G415",
+          "transliteratie": "aneleēmonos"
+        },
+        {
+          "woord": "περὶ",
+          "strongs": "G4012",
+          "transliteratie": "peri"
+        },
+        {
+          "woord": "χρηστοηθείας",
+          "transliteratie": "chrēstoētheias"
+        },
+        {
+          "woord": "μετὰ",
+          "strongs": "G3326",
+          "transliteratie": "meta"
+        },
+        {
+          "woord": "ὀκνηροῦ",
+          "strongs": "G3636",
+          "transliteratie": "oknērou"
+        },
+        {
+          "woord": "περὶ",
+          "strongs": "G4012",
+          "transliteratie": "peri"
+        },
+        {
+          "woord": "παντὸς",
+          "strongs": "G3956",
+          "transliteratie": "pantos"
+        },
+        {
+          "woord": "ἔργου",
+          "strongs": "G2041",
+          "transliteratie": "ergou"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "μετὰ",
+          "strongs": "G3326",
+          "transliteratie": "meta"
+        },
+        {
+          "woord": "μισθίου",
+          "strongs": "G3407",
+          "transliteratie": "misthiou"
+        },
+        {
+          "woord": "ἐφετίου",
+          "transliteratie": "ephetiou"
+        },
+        {
+          "woord": "περὶ",
+          "strongs": "G4012",
+          "transliteratie": "peri"
+        },
+        {
+          "woord": "συντελείας",
+          "strongs": "G4930",
+          "transliteratie": "synteleias"
+        },
+        {
+          "woord": "οἰκέτῃ",
+          "strongs": "G3610",
+          "transliteratie": "oiketē"
+        },
+        {
+          "woord": "ἀργῷ",
+          "strongs": "G692",
+          "transliteratie": "argō"
+        },
+        {
+          "woord": "περὶ",
+          "strongs": "G4012",
+          "transliteratie": "peri"
+        },
+        {
+          "woord": "πολλῆς",
+          "strongs": "G4183",
+          "transliteratie": "pollēs"
+        },
+        {
+          "woord": "ἐργασίας",
+          "strongs": "G2039",
+          "transliteratie": "ergasias"
+        },
+        {
+          "woord": "μὴ",
+          "strongs": "G3361",
+          "transliteratie": "mē"
+        },
+        {
+          "woord": "ἔπεχε",
+          "strongs": "G1907",
+          "transliteratie": "epeche"
+        },
+        {
+          "woord": "ἐπὶ",
+          "strongs": "G1909",
+          "transliteratie": "epi"
+        },
+        {
+          "woord": "τούτοις",
+          "strongs": "G3778",
+          "transliteratie": "toutois"
+        },
+        {
+          "woord": "περὶ",
+          "strongs": "G4012",
+          "transliteratie": "peri"
+        },
+        {
+          "woord": "πάσης",
+          "strongs": "G3956",
+          "transliteratie": "pasēs"
+        },
+        {
+          "woord": "συμβουλίας",
+          "transliteratie": "symboulias"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "niet",
+          "voorkomen": 1,
+          "strongs": [
+            "G3361"
+          ],
+          "bronwoorden": [
+            "μὴ"
+          ],
+          "transliteraties": [
+            "mē"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "98977BF523AE2EE7B0C211BCC0C31263A5AC9FBC2CAE2BB28AE1286C877953A3",
+            "referentie": "JEZUSSIRACH 37:11",
+            "bronindices": [
+              45
+            ],
+            "grondindices": [
+              45
+            ]
+          }
+        },
+        {
+          "tekst": "en",
+          "voorkomen": 1,
+          "strongs": [
+            "G2532"
+          ],
+          "bronwoorden": [
+            "καὶ"
+          ],
+          "transliteraties": [
+            "kai"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "98977BF523AE2EE7B0C211BCC0C31263A5AC9FBC2CAE2BB28AE1286C877953A3",
+            "referentie": "JEZUSSIRACH 37:11",
+            "bronindices": [
+              24
+            ],
+            "grondindices": [
+              24
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "text1637": "Noch met een vrouw, aangaande degene waartegen zij jaloërs is; noch met een vreesachtige over de oorlog; noch met een koopman over de wissel; noch met degene, die koopt over de verkoop; noch met een nijdig mens over de dankbaarheid, noch met een onbarmhartige over de weldadigheid; noch met een luie over enig werk; noch met een huurling, die gij een jaar gehuurd hebt over de voleinding van het werk, noch met een trage huisknecht over veel arbeid.",
+      "textSV1888": "Noch met een vrouw, aangaande degene waartegen zij jaloërs is; noch met een vreesachtige over de oorlog; noch met een koopman over de wissel; noch met degene, die koopt over de verkoop; noch met een nijdig mens over de dankbaarheid, noch met een onbarmhartige over de weldadigheid; noch met een luie over enig werk; noch met een huurling, die gij een jaar gehuurd hebt over de voleinding van het werk, noch met een trage huisknecht over veel arbeid.",
+      "text2026": "Noch met een vrouw, aangaande degene waartegen zij jaloers is; noch met een vreesachtige over de oorlog; noch met een koopman over de wissel; noch met degene, die koopt over de verkoop; noch met een nijdig mens over de dankbaarheid, noch met een onbarmhartige over de goedertierenheid; noch met een luie over enig werk; noch met een huurling, die u een jaar gehuurd hebt over de voleinding van het werk, noch met een trage huisknecht over veel arbeid.",
+      "marginNotes": [],
+      "text2026_html": "Noch met een vrouw, aangaande degene waartegen zij jaloers is; noch met een vreesachtige over de oorlog; noch met een koopman over de wissel; noch met degene, die koopt over de verkoop; noch met een nijdig mens over de dankbaarheid, noch met een onbarmhartige over de goedertierenheid; noch met een luie over enig werk; noch met een huurling, die u een jaar gehuurd hebt over de voleinding van het werk, noch met een trage huisknecht over veel arbeid.",
+      "phraseDiff": [
+        {
+          "old": "jaloërs",
+          "new": "jaloers",
+          "principe": null
+        },
+        {
+          "old": "weldadigheid;",
+          "new": "goedertierenheid;",
+          "principe": "V937"
+        },
+        {
+          "old": "gij",
+          "new": "u",
+          "principe": "A1"
+        }
+      ],
+      "grondtekst": [
+        {
+          "woord": "ἀλλ᾿",
+          "strongs": "G235",
+          "transliteratie": "all᾿"
+        },
+        {
+          "woord": "ἢ",
+          "strongs": "G2228",
+          "transliteratie": "ē"
+        },
+        {
+          "woord": "μετὰ",
+          "strongs": "G3326",
+          "transliteratie": "meta"
+        },
+        {
+          "woord": "ἀνδρὸς",
+          "strongs": "G435",
+          "transliteratie": "andros"
+        },
+        {
+          "woord": "εὐσεβοῦς",
+          "strongs": "G2152",
+          "transliteratie": "eusebous"
+        },
+        {
+          "woord": "ἐνδελέχιζε",
+          "transliteratie": "endelechize"
+        },
+        {
+          "woord": "ὃν",
+          "strongs": "G3739",
+          "transliteratie": "hon"
+        },
+        {
+          "woord": "ἂν",
+          "strongs": "G302",
+          "transliteratie": "an"
+        },
+        {
+          "woord": "ἐπιγνῷς",
+          "strongs": "G1921",
+          "transliteratie": "epignōs"
+        },
+        {
+          "woord": "συντηροῦντα",
+          "strongs": "G4933",
+          "transliteratie": "syntērounta"
+        },
+        {
+          "woord": "ἐντολάς",
+          "strongs": "G1785",
+          "transliteratie": "entolas"
+        },
+        {
+          "woord": "ὃς",
+          "strongs": "G3739",
+          "transliteratie": "hos"
+        },
+        {
+          "woord": "ἐν",
+          "strongs": "G1722",
+          "transliteratie": "en"
+        },
+        {
+          "woord": "τῇ",
+          "strongs": "G3588",
+          "transliteratie": "tē"
+        },
+        {
+          "woord": "ψυχῇ",
+          "strongs": "G5590",
+          "transliteratie": "psychē"
+        },
+        {
+          "woord": "αὐτοῦ",
+          "strongs": "G846",
+          "transliteratie": "autou"
+        },
+        {
+          "woord": "κατὰ",
+          "strongs": "G2596",
+          "transliteratie": "kata"
+        },
+        {
+          "woord": "τὴν",
+          "strongs": "G3588",
+          "transliteratie": "tēn"
+        },
+        {
+          "woord": "ψυχήν",
+          "strongs": "G5590",
+          "transliteratie": "psychēn"
+        },
+        {
+          "woord": "σου",
+          "strongs": "G4675",
+          "transliteratie": "sou"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ἐὰν",
+          "strongs": "G1437",
+          "transliteratie": "ean"
+        },
+        {
+          "woord": "πταίσῃς",
+          "strongs": "G4417",
+          "transliteratie": "ptaisēs"
+        },
+        {
+          "woord": "συναλγήσει",
+          "transliteratie": "synalgēsei"
+        },
+        {
+          "woord": "σοι",
+          "strongs": "G4671",
+          "transliteratie": "soi"
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "text1637": "Acht op deze niet in een van al uw beraadslagingen, maar houdt u steeds bij een godvrezende man, van wie gij weet dat hij de geboden des Heren bewaart, die gezind is gelijk gij, en indien gij zoudt komen te struikelen, die met u bedroefd is.",
+      "textSV1888": "Acht op deze niet in een van al uw beraadslagingen, maar houdt u steeds bij een godvrezende man, van wie gij weet dat hij de geboden des Heren bewaart, die gezind is gelijk gij, en indien gij zoudt komen te struikelen, die met u bedroefd is.",
+      "text2026": "Acht op deze niet in een van al uw beraadslagingen, maar houdt u steeds bij een godvrezende man, van wie u weet dat hij de geboden van Heere bewaart, die gezind is zoals u, en als u zou komen te struikelen, die met u bedroefd is.",
+      "marginNotes": [],
+      "text2026_html": "Acht op deze niet in een van al uw beraadslagingen, maar houdt u steeds bij een godvrezende man, van wie u weet dat hij de geboden van Heere bewaart, die gezind is zoals u, en als u zou komen te struikelen, die met u bedroefd is.",
+      "phraseDiff": [
+        {
+          "old": "gij",
+          "new": "u",
+          "principe": "A1"
+        },
+        {
+          "old": "des Heren",
+          "new": "van Heere",
+          "principe": null
+        },
+        {
+          "old": "gelijk gij,",
+          "new": "zoals u,",
+          "principe": "A1"
+        },
+        {
+          "old": "indien gij zoudt",
+          "new": "als u zou",
+          "principe": "A1"
+        }
+      ],
+      "grondtekst": [
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "βουλὴν",
+          "strongs": "G1012",
+          "transliteratie": "boulēn"
+        },
+        {
+          "woord": "καρδίας",
+          "strongs": "G2588",
+          "transliteratie": "kardias"
+        },
+        {
+          "woord": "στῆσον",
+          "strongs": "G2476",
+          "transliteratie": "stēson"
+        },
+        {
+          "woord": "οὐ",
+          "strongs": "G3756",
+          "transliteratie": "ou"
+        },
+        {
+          "woord": "γὰρ",
+          "strongs": "G1063",
+          "transliteratie": "gar"
+        },
+        {
+          "woord": "ἔστιν",
+          "strongs": "G1510",
+          "transliteratie": "estin"
+        },
+        {
+          "woord": "σοι",
+          "strongs": "G4671",
+          "transliteratie": "soi"
+        },
+        {
+          "woord": "πιστότερος",
+          "strongs": "G4103",
+          "transliteratie": "pistoteros"
+        },
+        {
+          "woord": "αὐτῆς",
+          "strongs": "G846",
+          "transliteratie": "autēs"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "en",
+          "voorkomen": 1,
+          "strongs": [
+            "G2532"
+          ],
+          "bronwoorden": [
+            "καὶ"
+          ],
+          "transliteraties": [
+            "kai"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "98977BF523AE2EE7B0C211BCC0C31263A5AC9FBC2CAE2BB28AE1286C877953A3",
+            "referentie": "JEZUSSIRACH 37:13",
+            "bronindices": [
+              0
+            ],
+            "grondindices": [
+              0
+            ]
+          }
+        },
+        {
+          "tekst": "niet",
+          "voorkomen": 1,
+          "strongs": [
+            "G3756"
+          ],
+          "bronwoorden": [
+            "οὐ"
+          ],
+          "transliteraties": [
+            "ou"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "98977BF523AE2EE7B0C211BCC0C31263A5AC9FBC2CAE2BB28AE1286C877953A3",
+            "referentie": "JEZUSSIRACH 37:13",
+            "bronindices": [
+              4
+            ],
+            "grondindices": [
+              4
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "text1637": "Blijf vast bij de raadslag uws harten, want gij hebt niemand getrouwer dan hem.",
+      "textSV1888": "Blijf vast bij de raadslag uws harten, want gij hebt niemand getrouwer dan hem.",
+      "text2026": "Blijf vast bij de raadslag van uw hart, want u hebt niemand getrouwer dan hem.",
+      "marginNotes": [],
+      "text2026_html": "Blijf vast bij de raadslag van uw hart, want u hebt niemand getrouwer dan hem.",
+      "phraseDiff": [
+        {
+          "old": "uws harten,",
+          "new": "van uw hart,",
+          "principe": "V200"
+        },
+        {
+          "old": "gij",
+          "new": "u",
+          "principe": "A1"
+        }
+      ],
+      "grondtekst": [
+        {
+          "woord": "ψυχὴ",
+          "strongs": "G5590",
+          "transliteratie": "psychē"
+        },
+        {
+          "woord": "γὰρ",
+          "strongs": "G1063",
+          "transliteratie": "gar"
+        },
+        {
+          "woord": "ἀνδρὸς",
+          "strongs": "G435",
+          "transliteratie": "andros"
+        },
+        {
+          "woord": "ἀπαγγέλλειν",
+          "strongs": "G518",
+          "transliteratie": "apangellein"
+        },
+        {
+          "woord": "ἐνίοτε",
+          "transliteratie": "eniote"
+        },
+        {
+          "woord": "εἴωθεν",
+          "strongs": "G1486",
+          "transliteratie": "eiōthen"
+        },
+        {
+          "woord": "ἢ",
+          "strongs": "G2228",
+          "transliteratie": "ē"
+        },
+        {
+          "woord": "ἑπτὰ",
+          "strongs": "G2033",
+          "transliteratie": "hepta"
+        },
+        {
+          "woord": "σκοποὶ",
+          "strongs": "G4649",
+          "transliteratie": "skopoi"
+        },
+        {
+          "woord": "ἐπὶ",
+          "strongs": "G1909",
+          "transliteratie": "epi"
+        },
+        {
+          "woord": "μετεώρου",
+          "transliteratie": "meteōrou"
+        },
+        {
+          "woord": "καθήμενοι",
+          "strongs": "G2521",
+          "transliteratie": "kathēmenoi"
+        },
+        {
+          "woord": "ἐπὶ",
+          "strongs": "G1909",
+          "transliteratie": "epi"
+        },
+        {
+          "woord": "σκοπῆς",
+          "transliteratie": "skopēs"
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "text1637": "Want de ziel van de man pleegt somtijds wat beters te verkondigen, dan zeven wachters die op een hoge wachttoren zitten.",
+      "textSV1888": "Want de ziel van de man pleegt somtijds wat beters te verkondigen, dan zeven wachters die op een hoge wachttoren zitten.",
+      "text2026": "Want de ziel van de man pleegt soms wat beters te verkondigen, dan zeven wachters die op een hoge wachttoren zitten.",
+      "marginNotes": [],
+      "text2026_html": "Want de ziel van de man pleegt soms wat beters te verkondigen, dan zeven wachters die op een hoge wachttoren zitten.",
+      "grondtekst": [
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ἐπὶ",
+          "strongs": "G1909",
+          "transliteratie": "epi"
+        },
+        {
+          "woord": "πᾶσι",
+          "strongs": "G3956",
+          "transliteratie": "pasi"
+        },
+        {
+          "woord": "τούτοις",
+          "strongs": "G3778",
+          "transliteratie": "toutois"
+        },
+        {
+          "woord": "δεήθητι",
+          "strongs": "G1210",
+          "transliteratie": "deēthēti"
+        },
+        {
+          "woord": "ὑψίστου",
+          "strongs": "G5310",
+          "transliteratie": "hypsistou"
+        },
+        {
+          "woord": "ἵνα",
+          "strongs": "G2443",
+          "transliteratie": "hina"
+        },
+        {
+          "woord": "εὐθύνῃ",
+          "strongs": "G2116",
+          "transliteratie": "euthynē"
+        },
+        {
+          "woord": "ἐν",
+          "strongs": "G1722",
+          "transliteratie": "en"
+        },
+        {
+          "woord": "ἀληθείᾳ",
+          "strongs": "G225",
+          "transliteratie": "alētheia"
+        },
+        {
+          "woord": "τὴν",
+          "strongs": "G3588",
+          "transliteratie": "tēn"
+        },
+        {
+          "woord": "ὁδόν",
+          "strongs": "G3598",
+          "transliteratie": "hodon"
+        },
+        {
+          "woord": "σου",
+          "strongs": "G4675",
+          "transliteratie": "sou"
+        }
+      ],
+      "phraseDiff": [
+        {
+          "old": "somtijds",
+          "new": "soms",
+          "principe": "V1644"
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "text1637": "En in alle deze bid de Allerhoogste, opdat de waarheid uw weg recht make.",
+      "textSV1888": "En in alle deze bid de Allerhoogste, opdat de waarheid uw weg recht make.",
+      "text2026": "En in alle deze bid de Allerhoogste, opdat de waarheid uw weg recht make.",
+      "marginNotes": [],
+      "text2026_html": "En in alle deze bid de Allerhoogste, opdat de waarheid uw weg recht make.",
+      "grondtekst": [
+        {
+          "woord": "ἀρχὴ",
+          "strongs": "G746",
+          "transliteratie": "archē"
+        },
+        {
+          "woord": "παντὸς",
+          "strongs": "G3956",
+          "transliteratie": "pantos"
+        },
+        {
+          "woord": "ἔργου",
+          "strongs": "G2041",
+          "transliteratie": "ergou"
+        },
+        {
+          "woord": "λόγος",
+          "strongs": "G3056",
+          "transliteratie": "logos"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "πρὸ",
+          "strongs": "G4253",
+          "transliteratie": "pro"
+        },
+        {
+          "woord": "πάσης",
+          "strongs": "G3956",
+          "transliteratie": "pasēs"
+        },
+        {
+          "woord": "πράξεως",
+          "strongs": "G4234",
+          "transliteratie": "praxeōs"
+        },
+        {
+          "woord": "βουλή",
+          "strongs": "G1012",
+          "transliteratie": "boulē"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "En",
+          "voorkomen": 1,
+          "strongs": [
+            "G2532"
+          ],
+          "bronwoorden": [
+            "καὶ"
+          ],
+          "transliteraties": [
+            "kai"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "98977BF523AE2EE7B0C211BCC0C31263A5AC9FBC2CAE2BB28AE1286C877953A3",
+            "referentie": "JEZUSSIRACH 37:16",
+            "bronindices": [
+              4
+            ],
+            "grondindices": [
+              4
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "text1637": "Het begin van het werk is de rede, en beraadslaging gaat voor alle handeling heen.",
+      "textSV1888": "Het begin van het werk is de rede, en beraadslaging gaat voor alle handeling heen.",
+      "text2026": "Het begin van het werk is de rede, en beraadslaging gaat voor alle handeling heen.",
+      "marginNotes": [],
+      "text2026_html": "Het begin van het werk is de rede, en beraadslaging gaat voor alle handeling heen.",
+      "grondtekst": [
+        {
+          "woord": "ἴχνος",
+          "strongs": "G2487",
+          "transliteratie": "ichnos"
+        },
+        {
+          "woord": "ἀλλοιώσεως",
+          "transliteratie": "alloiōseōs"
+        },
+        {
+          "woord": "καρδίας",
+          "strongs": "G2588",
+          "transliteratie": "kardias"
+        },
+        {
+          "woord": "τέσσαρα",
+          "strongs": "G5064",
+          "transliteratie": "tessara"
+        },
+        {
+          "woord": "μέρη",
+          "strongs": "G3313",
+          "transliteratie": "merē"
+        },
+        {
+          "woord": "ἀνατέλλει",
+          "strongs": "G393",
+          "transliteratie": "anatellei"
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "text1637": "Het aangezicht is een teken van de verandering der vreugde.",
+      "textSV1888": "Het aangezicht is een teken van de verandering der vreugde.",
+      "text2026": "Het aangezicht is een teken van de verandering van de vreugde.",
+      "marginNotes": [],
+      "text2026_html": "Het aangezicht is een teken van de verandering van de vreugde.",
+      "phraseDiff": [
+        {
+          "old": "der",
+          "new": "van de",
+          "principe": "N2"
+        }
+      ],
+      "grondtekst": [
+        {
+          "woord": "ἀγαθὸν",
+          "strongs": "G18",
+          "transliteratie": "agathon"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "κακόν",
+          "strongs": "G2556",
+          "transliteratie": "kakon"
+        },
+        {
+          "woord": "ζωὴ",
+          "strongs": "G2222",
+          "transliteratie": "zōē"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "θάνατος",
+          "strongs": "G2288",
+          "transliteratie": "thanatos"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ἡ",
+          "strongs": "G3588",
+          "transliteratie": "hē"
+        },
+        {
+          "woord": "κυριεύουσα",
+          "strongs": "G2961",
+          "transliteratie": "kyrieuousa"
+        },
+        {
+          "woord": "ἐνδελεχῶς",
+          "transliteratie": "endelechōs"
+        },
+        {
+          "woord": "αὐτῶν",
+          "strongs": "G846",
+          "transliteratie": "autōn"
+        },
+        {
+          "woord": "γλῶσσά",
+          "strongs": "G1100",
+          "transliteratie": "glōssa"
+        },
+        {
+          "woord": "ἐστιν",
+          "strongs": "G1510",
+          "transliteratie": "estin"
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "text1637": "Vier soorten van dingen vertonen zich: namelijk het goede, het kwade, het leven en de dood en de tong is het, die gedurig daarover heerst.",
+      "textSV1888": "Vier soorten van dingen vertonen zich: namelijk het goede, het kwade, het leven en de dood en de tong is het, die gedurig daarover heerst.",
+      "text2026": "Vier soorten van dingen vertonen zich: namelijk het goede, het kwade, het leven en de dood en de tong is het, die steeds daarover heerst.",
+      "marginNotes": [],
+      "text2026_html": "Vier soorten van dingen vertonen zich: namelijk het goede, het kwade, het leven en de dood en de tong is het, die steeds daarover heerst.",
+      "phraseDiff": [
+        {
+          "old": "gedurig",
+          "new": "steeds",
+          "principe": null
+        }
+      ],
+      "grondtekst": [
+        {
+          "woord": "ἔστιν",
+          "strongs": "G1510",
+          "transliteratie": "estin"
+        },
+        {
+          "woord": "ἀνὴρ",
+          "strongs": "G435",
+          "transliteratie": "anēr"
+        },
+        {
+          "woord": "πανοῦργος",
+          "strongs": "G3835",
+          "transliteratie": "panourgos"
+        },
+        {
+          "woord": "πολλῶν",
+          "strongs": "G4183",
+          "transliteratie": "pollōn"
+        },
+        {
+          "woord": "παιδευτής",
+          "strongs": "G3810",
+          "transliteratie": "paideutēs"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "τῇ",
+          "strongs": "G3588",
+          "transliteratie": "tē"
+        },
+        {
+          "woord": "ἰδίᾳ",
+          "strongs": "G2398",
+          "transliteratie": "idia"
+        },
+        {
+          "woord": "ψυχῇ",
+          "strongs": "G5590",
+          "transliteratie": "psychē"
+        },
+        {
+          "woord": "ἐστιν",
+          "strongs": "G1510",
+          "transliteratie": "estin"
+        },
+        {
+          "woord": "ἄχρηστος",
+          "strongs": "G890",
+          "transliteratie": "achrēstos"
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "text1637": "Daar is menig arglistig man, een onderwijzer van velen, en hij is zijn ziel niet nut.",
+      "textSV1888": "Daar is menig arglistig man, een onderwijzer van velen, en hij is zijn ziel niet nut.",
+      "text2026": "Daar is menig sluw man, een onderwijzer van velen, en hij is zijn ziel niet nut.",
+      "marginNotes": [],
+      "text2026_html": "Daar is menig sluw man, een onderwijzer van velen, en hij is zijn ziel niet nut.",
+      "grondtekst": [
+        {
+          "woord": "ἔστιν",
+          "strongs": "G1510",
+          "transliteratie": "estin"
+        },
+        {
+          "woord": "σοφιζόμενος",
+          "strongs": "G4679",
+          "transliteratie": "sophizomenos"
+        },
+        {
+          "woord": "ἐν",
+          "strongs": "G1722",
+          "transliteratie": "en"
+        },
+        {
+          "woord": "λόγοις",
+          "strongs": "G3056",
+          "transliteratie": "logois"
+        },
+        {
+          "woord": "μισητός",
+          "transliteratie": "misētos"
+        },
+        {
+          "woord": "οὗτος",
+          "strongs": "G3778",
+          "transliteratie": "houtos"
+        },
+        {
+          "woord": "πάσης",
+          "strongs": "G3956",
+          "transliteratie": "pasēs"
+        },
+        {
+          "woord": "τροφῆς",
+          "strongs": "G5160",
+          "transliteratie": "trophēs"
+        },
+        {
+          "woord": "καθυστερήσει",
+          "transliteratie": "kathysterēsei"
+        }
+      ],
+      "phraseDiff": [
+        {
+          "old": "arglistig",
+          "new": "sluw",
+          "principe": "V784"
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "text1637": "Daar is menigeen die wijsheid voorgeeft met woorden en is hatelijk; deze ontbreekt het aan alle wijsheid.",
+      "textSV1888": "Daar is menigeen die wijsheid voorgeeft met woorden en is hatelijk; deze ontbreekt het aan alle wijsheid.",
+      "text2026": "Daar is menigeen die wijsheid voorgeeft met woorden en is hatelijk; deze ontbreekt het aan alle wijsheid.",
+      "marginNotes": [],
+      "text2026_html": "Daar is menigeen die wijsheid voorgeeft met woorden en is hatelijk; deze ontbreekt het aan alle wijsheid.",
+      "grondtekst": [
+        {
+          "woord": "οὐ",
+          "strongs": "G3756",
+          "transliteratie": "ou"
+        },
+        {
+          "woord": "γὰρ",
+          "strongs": "G1063",
+          "transliteratie": "gar"
+        },
+        {
+          "woord": "ἐδόθη",
+          "strongs": "G1325",
+          "transliteratie": "edothē"
+        },
+        {
+          "woord": "αὐτῷ",
+          "strongs": "G846",
+          "transliteratie": "autō"
+        },
+        {
+          "woord": "παρὰ",
+          "strongs": "G3844",
+          "transliteratie": "para"
+        },
+        {
+          "woord": "κυρίου",
+          "strongs": "G2962",
+          "transliteratie": "kyriou"
+        },
+        {
+          "woord": "χάρις",
+          "strongs": "G5485",
+          "transliteratie": "charis"
+        },
+        {
+          "woord": "ὅτι",
+          "strongs": "G3754",
+          "transliteratie": "hoti"
+        },
+        {
+          "woord": "πάσης",
+          "strongs": "G3956",
+          "transliteratie": "pasēs"
+        },
+        {
+          "woord": "σοφίας",
+          "strongs": "G4678",
+          "transliteratie": "sophias"
+        },
+        {
+          "woord": "ἐστερήθη",
+          "strongs": "G4732",
+          "transliteratie": "esterēthē"
+        }
+      ]
+    },
+    {
+      "number": 22,
+      "text1637": "Want hem is door de Here die genade niet gegeven, dewijl hij van alle wijsheid beroofd is.",
+      "textSV1888": "Want hem is door de Here die genade niet gegeven, dewijl hij van alle wijsheid beroofd is.",
+      "text2026": "Want hem is door Heere die genade niet gegeven, omdat hij van alle wijsheid beroofd is.",
+      "marginNotes": [],
+      "text2026_html": "Want hem is door Heere die genade niet gegeven, omdat hij van alle wijsheid beroofd is.",
+      "phraseDiff": [
+        {
+          "old": "de Here",
+          "new": "Heere",
+          "principe": null
+        },
+        {
+          "old": "dewijl",
+          "new": "omdat",
+          "principe": null
+        }
+      ],
+      "grondtekst": [
+        {
+          "woord": "ἔστιν",
+          "strongs": "G1510",
+          "transliteratie": "estin"
+        },
+        {
+          "woord": "σοφὸς",
+          "strongs": "G4680",
+          "transliteratie": "sophos"
+        },
+        {
+          "woord": "τῇ",
+          "strongs": "G3588",
+          "transliteratie": "tē"
+        },
+        {
+          "woord": "ἰδίᾳ",
+          "strongs": "G2398",
+          "transliteratie": "idia"
+        },
+        {
+          "woord": "ψυχῇ",
+          "strongs": "G5590",
+          "transliteratie": "psychē"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "οἱ",
+          "strongs": "G3588",
+          "transliteratie": "hoi"
+        },
+        {
+          "woord": "καρποὶ",
+          "strongs": "G2590",
+          "transliteratie": "karpoi"
+        },
+        {
+          "woord": "τῆς",
+          "strongs": "G3588",
+          "transliteratie": "tēs"
+        },
+        {
+          "woord": "συνέσεως",
+          "strongs": "G4907",
+          "transliteratie": "syneseōs"
+        },
+        {
+          "woord": "αὐτοῦ",
+          "strongs": "G846",
+          "transliteratie": "autou"
+        },
+        {
+          "woord": "ἐπὶ",
+          "strongs": "G1909",
+          "transliteratie": "epi"
+        },
+        {
+          "woord": "στόματος",
+          "strongs": "G4750",
+          "transliteratie": "stomatos"
+        },
+        {
+          "woord": "πιστοί",
+          "strongs": "G4103",
+          "transliteratie": "pistoi"
+        }
+      ]
+    },
+    {
+      "number": 23,
+      "text1637": "Menigeen is wijs voor zichzelf, en de vruchten van zijn verstand in zijn mond zijn prijzenswaardig.",
+      "textSV1888": "Menigeen is wijs voor zichzelf, en de vruchten van zijn verstand in zijn mond zijn prijzenswaardig.",
+      "text2026": "Menigeen is wijs voor zichzelf, en de vruchten van zijn verstand in zijn mond zijn prijzenswaardig.",
+      "marginNotes": [],
+      "text2026_html": "Menigeen is wijs voor zichzelf, en de vruchten van zijn verstand in zijn mond zijn prijzenswaardig.",
+      "grondtekst": [
+        {
+          "woord": "ἀνὴρ",
+          "strongs": "G435",
+          "transliteratie": "anēr"
+        },
+        {
+          "woord": "σοφὸς",
+          "strongs": "G4680",
+          "transliteratie": "sophos"
+        },
+        {
+          "woord": "τὸν",
+          "strongs": "G3588",
+          "transliteratie": "ton"
+        },
+        {
+          "woord": "ἑαυτοῦ",
+          "strongs": "G1438",
+          "transliteratie": "heautou"
+        },
+        {
+          "woord": "λαὸν",
+          "strongs": "G2992",
+          "transliteratie": "laon"
+        },
+        {
+          "woord": "παιδεύσει",
+          "strongs": "G3811",
+          "transliteratie": "paideusei"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "οἱ",
+          "strongs": "G3588",
+          "transliteratie": "hoi"
+        },
+        {
+          "woord": "καρποὶ",
+          "strongs": "G2590",
+          "transliteratie": "karpoi"
+        },
+        {
+          "woord": "τῆς",
+          "strongs": "G3588",
+          "transliteratie": "tēs"
+        },
+        {
+          "woord": "συνέσεως",
+          "strongs": "G4907",
+          "transliteratie": "syneseōs"
+        },
+        {
+          "woord": "αὐτοῦ",
+          "strongs": "G846",
+          "transliteratie": "autou"
+        },
+        {
+          "woord": "πιστοί",
+          "strongs": "G4103",
+          "transliteratie": "pistoi"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "wijs",
+          "voorkomen": 1,
+          "strongs": [
+            "G4680"
+          ],
+          "bronwoorden": [
+            "σοφὸς"
+          ],
+          "transliteraties": [
+            "sophos"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "98977BF523AE2EE7B0C211BCC0C31263A5AC9FBC2CAE2BB28AE1286C877953A3",
+            "referentie": "JEZUSSIRACH 37:23",
+            "bronindices": [
+              1
+            ],
+            "grondindices": [
+              1
+            ]
+          }
+        },
+        {
+          "tekst": "zichzelf",
+          "voorkomen": 1,
+          "strongs": [
+            "G1438"
+          ],
+          "bronwoorden": [
+            "ἑαυτοῦ"
+          ],
+          "transliteraties": [
+            "heautou"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "98977BF523AE2EE7B0C211BCC0C31263A5AC9FBC2CAE2BB28AE1286C877953A3",
+            "referentie": "JEZUSSIRACH 37:23",
+            "bronindices": [
+              3
+            ],
+            "grondindices": [
+              3
+            ]
+          }
+        },
+        {
+          "tekst": "en",
+          "voorkomen": 1,
+          "strongs": [
+            "G2532"
+          ],
+          "bronwoorden": [
+            "καὶ"
+          ],
+          "transliteraties": [
+            "kai"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "98977BF523AE2EE7B0C211BCC0C31263A5AC9FBC2CAE2BB28AE1286C877953A3",
+            "referentie": "JEZUSSIRACH 37:23",
+            "bronindices": [
+              6
+            ],
+            "grondindices": [
+              6
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 24,
+      "text1637": "Een wijs man onderwijst zijn eigen volk, en de vruchten van zijn verstand zijn gewis.",
+      "textSV1888": "Een wijs man onderwijst zijn eigen volk, en de vruchten van zijn verstand zijn gewis.",
+      "text2026": "Een wijs man onderwijst zijn eigen volk, en de vruchten van zijn verstand zijn zeker.",
+      "marginNotes": [],
+      "text2026_html": "Een wijs man onderwijst zijn eigen volk, en de vruchten van zijn verstand zijn zeker.",
+      "grondtekst": [
+        {
+          "woord": "ἀνὴρ",
+          "strongs": "G435",
+          "transliteratie": "anēr"
+        },
+        {
+          "woord": "σοφὸς",
+          "strongs": "G4680",
+          "transliteratie": "sophos"
+        },
+        {
+          "woord": "πλησθήσεται",
+          "strongs": "G4130",
+          "transliteratie": "plēsthēsetai"
+        },
+        {
+          "woord": "εὐλογίας",
+          "strongs": "G2129",
+          "transliteratie": "eulogias"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "μακαριοῦσιν",
+          "strongs": "G3106",
+          "transliteratie": "makariousin"
+        },
+        {
+          "woord": "αὐτὸν",
+          "strongs": "G846",
+          "transliteratie": "auton"
+        },
+        {
+          "woord": "πάντες",
+          "strongs": "G3956",
+          "transliteratie": "pantes"
+        },
+        {
+          "woord": "οἱ",
+          "strongs": "G3588",
+          "transliteratie": "hoi"
+        },
+        {
+          "woord": "ὁρῶντες",
+          "strongs": "G3708",
+          "transliteratie": "horōntes"
+        }
+      ],
+      "phraseDiff": [
+        {
+          "old": "gewis.",
+          "new": "zeker.",
+          "principe": "V1533"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "wijs",
+          "voorkomen": 1,
+          "strongs": [
+            "G4680"
+          ],
+          "bronwoorden": [
+            "σοφὸς"
+          ],
+          "transliteraties": [
+            "sophos"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "98977BF523AE2EE7B0C211BCC0C31263A5AC9FBC2CAE2BB28AE1286C877953A3",
+            "referentie": "JEZUSSIRACH 37:24",
+            "bronindices": [
+              1
+            ],
+            "grondindices": [
+              1
+            ]
+          }
+        },
+        {
+          "tekst": "man",
+          "voorkomen": 1,
+          "strongs": [
+            "G435"
+          ],
+          "bronwoorden": [
+            "ἀνὴρ"
+          ],
+          "transliteraties": [
+            "anēr"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "98977BF523AE2EE7B0C211BCC0C31263A5AC9FBC2CAE2BB28AE1286C877953A3",
+            "referentie": "JEZUSSIRACH 37:24",
+            "bronindices": [
+              0
+            ],
+            "grondindices": [
+              0
+            ]
+          }
+        },
+        {
+          "tekst": "en",
+          "voorkomen": 1,
+          "strongs": [
+            "G2532"
+          ],
+          "bronwoorden": [
+            "καὶ"
+          ],
+          "transliteraties": [
+            "kai"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "98977BF523AE2EE7B0C211BCC0C31263A5AC9FBC2CAE2BB28AE1286C877953A3",
+            "referentie": "JEZUSSIRACH 37:24",
+            "bronindices": [
+              4
+            ],
+            "grondindices": [
+              4
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 25,
+      "text1637": "Een wijs man zal vervuld worden met zegen, en allen die hem zien, zullen hem gelukzalig prijzen.",
+      "textSV1888": "Een wijs man zal vervuld worden met zegen, en allen die hem zien, zullen hem gelukzalig prijzen.",
+      "text2026": "Een wijs man zal vervuld worden met zegen, en allen die hem zien, zullen hem gelukzalig prijzen.",
+      "marginNotes": [],
+      "text2026_html": "Een wijs man zal vervuld worden met zegen, en allen die hem zien, zullen hem gelukzalig prijzen.",
+      "grondtekst": [
+        {
+          "woord": "ζωὴ",
+          "strongs": "G2222",
+          "transliteratie": "zōē"
+        },
+        {
+          "woord": "ἀνδρὸς",
+          "strongs": "G435",
+          "transliteratie": "andros"
+        },
+        {
+          "woord": "ἐν",
+          "strongs": "G1722",
+          "transliteratie": "en"
+        },
+        {
+          "woord": "ἀριθμῷ",
+          "strongs": "G706",
+          "transliteratie": "arithmō"
+        },
+        {
+          "woord": "ἡμερῶν",
+          "strongs": "G2250",
+          "transliteratie": "hēmerōn"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "αἱ",
+          "strongs": "G3588",
+          "transliteratie": "hai"
+        },
+        {
+          "woord": "ἡμέραι",
+          "strongs": "G2250",
+          "transliteratie": "hēmerai"
+        },
+        {
+          "woord": "τοῦ",
+          "strongs": "G3588",
+          "transliteratie": "tou"
+        },
+        {
+          "woord": "Ισραηλ",
+          "strongs": "G2474",
+          "transliteratie": "israēl"
+        },
+        {
+          "woord": "ἀναρίθμητοι",
+          "strongs": "G382",
+          "transliteratie": "anarithmētoi"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "man",
+          "voorkomen": 1,
+          "strongs": [
+            "G435"
+          ],
+          "bronwoorden": [
+            "ἀνδρὸς"
+          ],
+          "transliteraties": [
+            "andros"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "98977BF523AE2EE7B0C211BCC0C31263A5AC9FBC2CAE2BB28AE1286C877953A3",
+            "referentie": "JEZUSSIRACH 37:25",
+            "bronindices": [
+              1
+            ],
+            "grondindices": [
+              1
+            ]
+          }
+        },
+        {
+          "tekst": "en",
+          "voorkomen": 1,
+          "strongs": [
+            "G2532"
+          ],
+          "bronwoorden": [
+            "καὶ"
+          ],
+          "transliteraties": [
+            "kai"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "98977BF523AE2EE7B0C211BCC0C31263A5AC9FBC2CAE2BB28AE1286C877953A3",
+            "referentie": "JEZUSSIRACH 37:25",
+            "bronindices": [
+              5
+            ],
+            "grondindices": [
+              5
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 26,
+      "text1637": "Het leven van een man heeft een getal der dagen, maar de dagen van Israël zijn ontelbaar.",
+      "textSV1888": "Het leven van een man heeft een getal der dagen, maar de dagen van Israël zijn ontelbaar.",
+      "text2026": "Het leven van een man heeft een getal van de dagen, maar de dagen van Israël zijn ontelbaar.",
+      "marginNotes": [],
+      "text2026_html": "Het leven van een man heeft een getal van de dagen, maar de dagen van Israël zijn ontelbaar.",
+      "phraseDiff": [
+        {
+          "old": "der",
+          "new": "van de",
+          "principe": "N2"
+        }
+      ],
+      "grondtekst": [
+        {
+          "woord": "ὁ",
+          "strongs": "G3588",
+          "transliteratie": "ho"
+        },
+        {
+          "woord": "σοφὸς",
+          "strongs": "G4680",
+          "transliteratie": "sophos"
+        },
+        {
+          "woord": "ἐν",
+          "strongs": "G1722",
+          "transliteratie": "en"
+        },
+        {
+          "woord": "τῷ",
+          "strongs": "G3588",
+          "transliteratie": "tō"
+        },
+        {
+          "woord": "λαῷ",
+          "strongs": "G2992",
+          "transliteratie": "laō"
+        },
+        {
+          "woord": "αὐτοῦ",
+          "strongs": "G846",
+          "transliteratie": "autou"
+        },
+        {
+          "woord": "κληρονομήσει",
+          "strongs": "G2816",
+          "transliteratie": "klēronomēsei"
+        },
+        {
+          "woord": "πίστιν",
+          "strongs": "G4102",
+          "transliteratie": "pistin"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "τὸ",
+          "strongs": "G3588",
+          "transliteratie": "to"
+        },
+        {
+          "woord": "ὄνομα",
+          "strongs": "G3686",
+          "transliteratie": "onoma"
+        },
+        {
+          "woord": "αὐτοῦ",
+          "strongs": "G846",
+          "transliteratie": "autou"
+        },
+        {
+          "woord": "ζήσεται",
+          "strongs": "G2198",
+          "transliteratie": "zēsetai"
+        },
+        {
+          "woord": "εἰς",
+          "strongs": "G1519",
+          "transliteratie": "eis"
+        },
+        {
+          "woord": "τὸν",
+          "strongs": "G3588",
+          "transliteratie": "ton"
+        },
+        {
+          "woord": "αἰῶνα",
+          "strongs": "G165",
+          "transliteratie": "aiōna"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "leven",
+          "voorkomen": 1,
+          "strongs": [
+            "G2198"
+          ],
+          "bronwoorden": [
+            "ζήσεται"
+          ],
+          "transliteraties": [
+            "zēsetai"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "98977BF523AE2EE7B0C211BCC0C31263A5AC9FBC2CAE2BB28AE1286C877953A3",
+            "referentie": "JEZUSSIRACH 37:26",
+            "bronindices": [
+              12
+            ],
+            "grondindices": [
+              12
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 27,
+      "text1637": "Een wijze zal heerlijkheid beërven onder zijn volk, en zijn naam zal in eeuwigheid blijven.",
+      "textSV1888": "Een wijze zal heerlijkheid beërven onder zijn volk, en zijn naam zal in eeuwigheid blijven.",
+      "text2026": "Een wijze zal heerlijkheid beërven onder zijn volk, en zijn naam zal in eeuwigheid blijven.",
+      "marginNotes": [],
+      "text2026_html": "Een wijze zal heerlijkheid beërven onder zijn volk, en zijn naam zal in eeuwigheid blijven.",
+      "grondtekst": [
+        {
+          "woord": "τέκνον",
+          "strongs": "G5043",
+          "transliteratie": "teknon"
+        },
+        {
+          "woord": "ἐν",
+          "strongs": "G1722",
+          "transliteratie": "en"
+        },
+        {
+          "woord": "ζωῇ",
+          "strongs": "G2222",
+          "transliteratie": "zōē"
+        },
+        {
+          "woord": "σου",
+          "strongs": "G4675",
+          "transliteratie": "sou"
+        },
+        {
+          "woord": "πείρασον",
+          "strongs": "G3985",
+          "transliteratie": "peirason"
+        },
+        {
+          "woord": "τὴν",
+          "strongs": "G3588",
+          "transliteratie": "tēn"
+        },
+        {
+          "woord": "ψυχήν",
+          "strongs": "G5590",
+          "transliteratie": "psychēn"
+        },
+        {
+          "woord": "σου",
+          "strongs": "G4675",
+          "transliteratie": "sou"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ἰδὲ",
+          "strongs": "G3708",
+          "transliteratie": "ide"
+        },
+        {
+          "woord": "τί",
+          "strongs": "G5101",
+          "transliteratie": "ti"
+        },
+        {
+          "woord": "πονηρὸν",
+          "strongs": "G4190",
+          "transliteratie": "ponēron"
+        },
+        {
+          "woord": "αὐτῇ",
+          "strongs": "G846",
+          "transliteratie": "autē"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "μὴ",
+          "strongs": "G3361",
+          "transliteratie": "mē"
+        },
+        {
+          "woord": "δῷς",
+          "strongs": "G1325",
+          "transliteratie": "dōs"
+        },
+        {
+          "woord": "αὐτῇ",
+          "strongs": "G846",
+          "transliteratie": "autē"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "en",
+          "voorkomen": 1,
+          "strongs": [
+            "G2532"
+          ],
+          "bronwoorden": [
+            "καὶ"
+          ],
+          "transliteraties": [
+            "kai"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "98977BF523AE2EE7B0C211BCC0C31263A5AC9FBC2CAE2BB28AE1286C877953A3",
+            "referentie": "JEZUSSIRACH 37:27",
+            "bronindices": [
+              8
+            ],
+            "grondindices": [
+              8
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 28,
+      "text1637": "Mijn kind beproef uw ziel terwijl gij leeft, en zie wat voor haar schadelijk is, en geef het haar niet.",
+      "textSV1888": "Mijn kind beproef uw ziel terwijl gij leeft, en zie wat voor haar schadelijk is, en geef het haar niet.",
+      "text2026": "Mijn kind beproef uw ziel terwijl u leeft, en zie wat voor haar schadelijk is, en geef het haar niet.",
+      "marginNotes": [],
+      "text2026_html": "Mijn kind beproef uw ziel terwijl u leeft, en zie wat voor haar schadelijk is, en geef het haar niet.",
+      "phraseDiff": [
+        {
+          "old": "gij",
+          "new": "u",
+          "principe": "A1"
+        }
+      ],
+      "grondtekst": [
+        {
+          "woord": "οὐ",
+          "strongs": "G3756",
+          "transliteratie": "ou"
+        },
+        {
+          "woord": "γὰρ",
+          "strongs": "G1063",
+          "transliteratie": "gar"
+        },
+        {
+          "woord": "πάντα",
+          "strongs": "G3956",
+          "transliteratie": "panta"
+        },
+        {
+          "woord": "πᾶσιν",
+          "strongs": "G3956",
+          "transliteratie": "pasin"
+        },
+        {
+          "woord": "συμφέρει",
+          "strongs": "G4851",
+          "transliteratie": "sympherei"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "οὐ",
+          "strongs": "G3756",
+          "transliteratie": "ou"
+        },
+        {
+          "woord": "πᾶσα",
+          "strongs": "G3956",
+          "transliteratie": "pasa"
+        },
+        {
+          "woord": "ψυχὴ",
+          "strongs": "G5590",
+          "transliteratie": "psychē"
+        },
+        {
+          "woord": "ἐν",
+          "strongs": "G1722",
+          "transliteratie": "en"
+        },
+        {
+          "woord": "παντὶ",
+          "strongs": "G3956",
+          "transliteratie": "panti"
+        },
+        {
+          "woord": "εὐδοκεῖ",
+          "strongs": "G2106",
+          "transliteratie": "eudokei"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "niet",
+          "voorkomen": 1,
+          "strongs": [
+            "G3756"
+          ],
+          "bronwoorden": [
+            "οὐ"
+          ],
+          "transliteraties": [
+            "ou"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "98977BF523AE2EE7B0C211BCC0C31263A5AC9FBC2CAE2BB28AE1286C877953A3",
+            "referentie": "JEZUSSIRACH 37:28",
+            "bronindices": [
+              6
+            ],
+            "grondindices": [
+              6
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 29,
+      "text1637": "Want alle dingen zijn allen niet nut, en ieder neemt geen vermaak in alles.",
+      "textSV1888": "Want alle dingen zijn allen niet nut, en ieder neemt geen vermaak in alles.",
+      "text2026": "Want alle dingen zijn allen niet nut, en ieder neemt geen vermaak in alles.",
+      "marginNotes": [],
+      "text2026_html": "Want alle dingen zijn allen niet nut, en ieder neemt geen vermaak in alles.",
+      "grondtekst": [
+        {
+          "woord": "μὴ",
+          "strongs": "G3361",
+          "transliteratie": "mē"
+        },
+        {
+          "woord": "ἀπληστεύου",
+          "transliteratie": "aplēsteuou"
+        },
+        {
+          "woord": "ἐν",
+          "strongs": "G1722",
+          "transliteratie": "en"
+        },
+        {
+          "woord": "πάσῃ",
+          "strongs": "G3956",
+          "transliteratie": "pasē"
+        },
+        {
+          "woord": "τρυφῇ",
+          "strongs": "G5172",
+          "transliteratie": "tryphē"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "μὴ",
+          "strongs": "G3361",
+          "transliteratie": "mē"
+        },
+        {
+          "woord": "ἐκχυθῇς",
+          "strongs": "G1632",
+          "transliteratie": "ekchythēs"
+        },
+        {
+          "woord": "ἐπὶ",
+          "strongs": "G1909",
+          "transliteratie": "epi"
+        },
+        {
+          "woord": "ἐδεσμάτων",
+          "transliteratie": "edesmatōn"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "en",
+          "voorkomen": 1,
+          "strongs": [
+            "G2532"
+          ],
+          "bronwoorden": [
+            "καὶ"
+          ],
+          "transliteraties": [
+            "kai"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "98977BF523AE2EE7B0C211BCC0C31263A5AC9FBC2CAE2BB28AE1286C877953A3",
+            "referentie": "JEZUSSIRACH 37:29",
+            "bronindices": [
+              5
+            ],
+            "grondindices": [
+              5
+            ]
+          }
+        },
+        {
+          "tekst": "niet",
+          "voorkomen": 1,
+          "strongs": [
+            "G3361"
+          ],
+          "bronwoorden": [
+            "μὴ"
+          ],
+          "transliteraties": [
+            "mē"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "98977BF523AE2EE7B0C211BCC0C31263A5AC9FBC2CAE2BB28AE1286C877953A3",
+            "referentie": "JEZUSSIRACH 37:29",
+            "bronindices": [
+              6
+            ],
+            "grondindices": [
+              6
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 30,
+      "text1637": "Zijt niet onverzadelijk in alle lekkernijen, en stort u niet heen op de spijzen.",
+      "textSV1888": "Zijt niet onverzadelijk in alle lekkernijen, en stort u niet heen op de spijzen.",
+      "text2026": "Wees niet onverzadigbaar in alle lekkernijen, en stort u niet heen op de spijzen.",
+      "marginNotes": [],
+      "text2026_html": "Wees niet onverzadigbaar in alle lekkernijen, en stort u niet heen op de spijzen.",
+      "grondtekst": [
+        {
+          "woord": "ἐν",
+          "strongs": "G1722",
+          "transliteratie": "en"
+        },
+        {
+          "woord": "πολλοῖς",
+          "strongs": "G4183",
+          "transliteratie": "pollois"
+        },
+        {
+          "woord": "γὰρ",
+          "strongs": "G1063",
+          "transliteratie": "gar"
+        },
+        {
+          "woord": "βρώμασιν",
+          "strongs": "G1033",
+          "transliteratie": "brōmasin"
+        },
+        {
+          "woord": "ἔσται",
+          "strongs": "G1510",
+          "transliteratie": "estai"
+        },
+        {
+          "woord": "νόσος",
+          "strongs": "G3554",
+          "transliteratie": "nosos"
+        },
+        {
+          "woord": "καὶ",
+          "strongs": "G2532",
+          "transliteratie": "kai"
+        },
+        {
+          "woord": "ἡ",
+          "strongs": "G3588",
+          "transliteratie": "hē"
+        },
+        {
+          "woord": "ἀπληστία",
+          "transliteratie": "aplēstia"
+        },
+        {
+          "woord": "ἐγγιεῖ",
+          "strongs": "G1448",
+          "transliteratie": "engiei"
+        },
+        {
+          "woord": "ἕως",
+          "strongs": "G2193",
+          "transliteratie": "heōs"
+        },
+        {
+          "woord": "χολέρας",
+          "transliteratie": "choleras"
+        }
+      ],
+      "phraseDiff": [
+        {
+          "old": "Zijt",
+          "new": "Wees",
+          "principe": null
+        },
+        {
+          "old": "onverzadelijk",
+          "new": "onverzadigbaar",
+          "principe": "V1622"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "en",
+          "voorkomen": 1,
+          "strongs": [
+            "G2532"
+          ],
+          "bronwoorden": [
+            "καὶ"
+          ],
+          "transliteraties": [
+            "kai"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "98977BF523AE2EE7B0C211BCC0C31263A5AC9FBC2CAE2BB28AE1286C877953A3",
+            "referentie": "JEZUSSIRACH 37:30",
+            "bronindices": [
+              6
+            ],
+            "grondindices": [
+              6
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 31,
+      "text1637": "Want door veel spijs komt ziekte, en de onverzadelijkheid nadert tot buikpijn.",
+      "textSV1888": "Want door veel spijs komt ziekte, en de onverzadelijkheid nadert tot buikpijn.",
+      "text2026": "Want door veel voedsel komt ziekte, en de onverzadigbaarheid nadert tot buikpijn.",
+      "marginNotes": [],
+      "text2026_html": "Want door veel voedsel komt ziekte, en de onverzadigbaarheid nadert tot buikpijn.",
+      "grondtekst": [
+        {
+          "woord": "δι᾿",
+          "strongs": "G1223",
+          "transliteratie": "di᾿"
+        },
+        {
+          "woord": "ἀπληστίαν",
+          "transliteratie": "aplēstian"
+        },
+        {
+          "woord": "πολλοὶ",
+          "strongs": "G4183",
+          "transliteratie": "polloi"
+        },
+        {
+          "woord": "ἐτελεύτησαν",
+          "strongs": "G5053",
+          "transliteratie": "eteleutēsan"
+        },
+        {
+          "woord": "ὁ",
+          "strongs": "G3588",
+          "transliteratie": "ho"
+        },
+        {
+          "woord": "δὲ",
+          "strongs": "G1161",
+          "transliteratie": "de"
+        },
+        {
+          "woord": "προσέχων",
+          "strongs": "G4337",
+          "transliteratie": "prosechōn"
+        },
+        {
+          "woord": "προσθήσει",
+          "strongs": "G4369",
+          "transliteratie": "prosthēsei"
+        },
+        {
+          "woord": "ζωήν",
+          "strongs": "G2222",
+          "transliteratie": "zōēn"
+        }
+      ],
+      "phraseDiff": [
+        {
+          "old": "spijs",
+          "new": "voedsel",
+          "principe": "V526"
+        },
+        {
+          "old": "onverzadelijkheid",
+          "new": "onverzadigbaarheid",
+          "principe": "V1622"
+        }
+      ],
+      "woordnummers": [
+        {
+          "tekst": "veel",
+          "voorkomen": 1,
+          "strongs": [
+            "G4183"
+          ],
+          "bronwoorden": [
+            "πολλοὶ"
+          ],
+          "transliteraties": [
+            "polloi"
+          ],
+          "glossen": [
+            ""
+          ],
+          "confidence": 1.0,
+          "reviewstatus": "handmatig_gecontroleerd",
+          "herkomst": {
+            "dataset": "lokale-grondtekst",
+            "versie": "1",
+            "sha256": "98977BF523AE2EE7B0C211BCC0C31263A5AC9FBC2CAE2BB28AE1286C877953A3",
+            "referentie": "JEZUSSIRACH 37:31",
+            "bronindices": [
+              2
+            ],
+            "grondindices": [
+              2
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 32,
+      "text1637": "Door de onverzadelijkheid zijn er velen gestorven, maar die daarop let zal zijn leven verlengen.",
+      "textSV1888": "Door de onverzadelijkheid zijn er velen gestorven, maar die daarop let zal zijn leven verlengen.",
+      "text2026": "Door de onverzadigbaarheid zijn er velen gestorven, maar die daarop let zal zijn leven verlengen.",
+      "marginNotes": [],
+      "text2026_html": "Door de onverzadigbaarheid zijn er velen gestorven, maar die daarop let zal zijn leven verlengen.",
+      "grondtekst": null,
+      "phraseDiff": [
+        {
+          "old": "onverzadelijkheid",
+          "new": "onverzadigbaarheid",
+          "principe": "V1622"
+        }
+      ]
+    }
+  ],
+  "chapterIntro": {
+    "text1637": "1 Van rechte ende geveynsde vrientschap. 17 Met wien men hem moet beraden, ende niet beraden. 18 Het aenschijn toont de dingen die in ’t herte zijn. 20 Sommige zijn wijs voor andere, sommige alleen voor haer selven, ende sommige voor beyde. 30 Vermaningen tot matigheyt in het gebruyck van spijse.",
+    "text2026": "1 Over echte en geveinsde vriendschap. 17 Met wie men zich moet beraden, en niet beraden. 18 Het gezicht toont de dingen die in het hart zijn. 20 Sommigen zijn wijs voor anderen, sommigen alleen voor zichzelf, en sommigen voor beiden. 30 Vermaningen tot matigheid in het gebruik van voedsel."
+  }
+}
