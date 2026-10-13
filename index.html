@@ -7,7 +7,6 @@
     <!-- Zonder #boek/hoofdstuk opent het startscherm; meteen zetten, zodat de lezer niet eerst knippert. -->
     <script>if (!location.hash) document.documentElement.classList.add('opv-startscherm');</script>
     <link rel="stylesheet" href="css/verification.css">
-
     <link rel="icon" type="image/svg+xml" href="/favicon.svg">
     <link rel="manifest" href="/manifest.json">
     <meta name="theme-color" content="#142e42">
@@ -17,7 +16,7 @@
     <!-- SEO:start (auto — seo_build.py) -->
     <meta name="description" content="Open Parafrase Vertaling (proef). De Bijbel in eenvoudig, hedendaags Nederlands, naverteld vanuit de Statenvertaling; vrij van rechten. Met de Open Vertaling als vergelijking.">
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
-    <link rel="canonical" href="https://openparafrase.nl/">
+    <link rel="canonical" href="https://open-parafrase-weergave.nl/">
     <meta name="author" content="Open Parafrase Vertaling — de kleine ark">
     <meta name="theme-color" content="#142e42">
     <meta property="og:type" content="website">
@@ -25,19 +24,13 @@
     <meta property="og:locale" content="nl_NL">
     <meta property="og:title" content="Open Parafrase Vertaling — De Bijbel in eenvoudig Nederlands">
     <meta property="og:description" content="Open Parafrase Vertaling (proef). De Bijbel in eenvoudig, hedendaags Nederlands, naverteld vanuit de Statenvertaling; vrij van rechten. Met de Open Vertaling als vergelijking.">
-    <meta property="og:url" content="https://openparafrase.nl/">
-    <meta property="og:image" content="https://openparafrase.nl/icons/icon-512.png">
+    <meta property="og:url" content="https://open-parafrase-weergave.nl/">
+    <meta property="og:image" content="https://open-parafrase-weergave.nl/icons/icon-512.png">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Open Parafrase Vertaling — De Bijbel in eenvoudig Nederlands">
     <meta name="twitter:description" content="Open Parafrase Vertaling (proef). De Bijbel in eenvoudig, hedendaags Nederlands, naverteld vanuit de Statenvertaling; vrij van rechten. Met de Open Vertaling als vergelijking.">
-    <meta name="twitter:image" content="https://openparafrase.nl/icons/icon-512.png">
+    <meta name="twitter:image" content="https://open-parafrase-weergave.nl/icons/icon-512.png">
     <!-- SEO:end -->
-
-
-
-
-
-
     <!-- Auto-open Search bij ?q=... van andere pagina's -->
     <script>window.addEventListener('load',function(){try{var p=new URLSearchParams(location.search);var q=p.get('q');if(p.has('q')&&typeof Search!=='undefined'){setTimeout(function(){Search.open(q);},200);history.replaceState(null,'',location.pathname+location.hash);}}catch(e){}});</script>
     <link rel="stylesheet" href="css/fonts.css">
@@ -45,7 +38,6 @@
     <link rel="stylesheet" href="css/verwijzing-popup.css">
     <link rel="stylesheet" href="css/opv.css?v=1.0.0">
     <link rel="stylesheet" href="css/print.css" media="print">
-
     <!-- JSONLD:start (auto) -->
     <script type="application/ld+json">
     {
@@ -53,39 +45,39 @@
       "@graph": [
         {
           "@type": "WebSite",
-          "@id": "https://openparafrase.nl/#website",
-          "url": "https://openparafrase.nl/",
+          "@id": "https://open-parafrase-weergave.nl/#website",
+          "url": "https://open-parafrase-weergave.nl/",
           "name": "Open Parafrase Vertaling",
           "alternateName": "Open Parafrase Vertaling — de kleine ark",
           "description": "Open Parafrase Vertaling (proef). De Bijbel in eenvoudig, hedendaags Nederlands, naverteld vanuit de Statenvertaling; vrij van rechten. Met de Open Vertaling als vergelijking.",
           "inLanguage": "nl-NL",
-          "publisher": { "@id": "https://openparafrase.nl/#org" },
+          "publisher": { "@id": "https://open-parafrase-weergave.nl/#org" },
           "potentialAction": {
             "@type": "SearchAction",
-            "target": { "@type": "EntryPoint", "urlTemplate": "https://openparafrase.nl/index.html?q={search_term_string}" },
+            "target": { "@type": "EntryPoint", "urlTemplate": "https://open-parafrase-weergave.nl/index.html?q={search_term_string}" },
             "query-input": "required name=search_term_string"
           }
         },
         {
           "@type": "Organization",
-          "@id": "https://openparafrase.nl/#org",
+          "@id": "https://open-parafrase-weergave.nl/#org",
           "name": "Open Parafrase Vertaling — de kleine ark",
-          "url": "https://openparafrase.nl/",
-          "logo": "https://openparafrase.nl/icons/icon-512.png"
+          "url": "https://open-parafrase-weergave.nl/",
+          "logo": "https://open-parafrase-weergave.nl/icons/icon-512.png"
         },
         {
           "@type": "Book",
-          "@id": "https://openparafrase.nl/#book",
+          "@id": "https://open-parafrase-weergave.nl/#book",
           "name": "Open Parafrase Vertaling",
           "bookFormat": "https://schema.org/EBook",
           "inLanguage": "nl-NL",
           "isBasedOn": "Statenvertaling (1637/1888)",
           "genre": "Bijbel",
-          "author": { "@id": "https://openparafrase.nl/#org" },
+          "author": { "@id": "https://open-parafrase-weergave.nl/#org" },
           "isAccessibleForFree": true,
           "license": "https://creativecommons.org/publicdomain/zero/1.0/",
           "description": "Herziening van de Statenvertaling in hedendaags Nederlands: alle 88 boeken, ook de apocriefe en de Ethiopische, vrij van rechten (CC0).",
-          "url": "https://openparafrase.nl/"
+          "url": "https://open-parafrase-weergave.nl/"
         }
       ]
     }
@@ -887,7 +879,6 @@
             html = html.replace(/\n\n/g, '<br><br>');
             return html;
         }
-
         async function loadWoordenlijst() {
             if (loaded) return;
             try {
@@ -900,7 +891,6 @@
                 container.innerHTML = '<p style="color:#c00;">Kon woordenlijst niet laden.</p>';
             }
         }
-
         searchInput.addEventListener('input', () => {
             const q = searchInput.value.trim().toLowerCase();
             const entries = container.querySelectorAll('.wl-entry');
@@ -908,11 +898,9 @@
                 el.style.display = el.textContent.toLowerCase().includes(q) ? '' : 'none';
             });
         });
-
         document.querySelector('[onclick*="woordenlijst-modal"]').addEventListener('click', loadWoordenlijst);
     })();
     </script>
-
     <script>
     // Dyslexie-modus herstellen uit localStorage
     if (localStorage.getItem('dyslexia') === 'true') {
@@ -977,7 +965,6 @@
     <script src="js/cloud-highlights.js"></script>
     <script src="js/cloud-opties.js"></script>
     <script src="js/feedback.js?v=0.46.1"></script>
-
     <!-- Service Worker: offline-cache + instant 2e bezoek -->
     <script>
     if ('serviceWorker' in navigator) {
@@ -997,7 +984,6 @@
         });
     }
     </script>
-
     <!-- Begrippen popover -->
     <div id="begrip-popover" style="display:none;position:absolute;z-index:600;background:#fff;border:1px solid #e5e1d8;border-left:3px solid var(--gold);border-radius:0 8px 8px 0;padding:14px 18px;box-shadow:0 4px 16px rgba(0,0,0,0.15);max-width:350px;font-family:var(--font-body);font-size:14px;line-height:1.6;">
         <div id="begrip-woord" style="font-size:18px;font-weight:600;color:var(--navy);margin-bottom:4px;"></div>

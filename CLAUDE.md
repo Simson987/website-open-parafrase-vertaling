@@ -26,5 +26,6 @@ Lokaal: OV :8000, OGW :8001, OPV :8002.
 
 ## Werkstijl
 
-- Nog geen deploy: er is geen deploy-workflow en geen remote. Push of
-  publiceer niets zonder uitdrukkelijke opdracht.
+- Een push naar `main` publiceert via `.github/workflows/deploy.yml` op
+  `https://open-parafrase-weergave.nl`. Push of publiceer alleen wanneer de
+  gebruiker daarvoor opdracht heeft gegeven.

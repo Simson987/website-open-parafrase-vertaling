@@ -25,8 +25,8 @@ OV en OPV verwijzen voor achtergrond- en broninformatie naar OGW.
 - **Eén plek voor de site-adressen.** `js/sites.js` (`window.KASites`) kent de
   adressen van de drie sites. Lokaal (localhost/127.0.0.1) wijst het naar
   `:8000` (OV), `:8001` (OGW) en `:8002` (OPV). In productie naar
-  placeholder-domeinen (`opengodsword.com`, `openvertaling.nl`,
-  `openparafrase.nl`), die vóór livegang worden vastgesteld.
+  de domeinen `opengodsword.com`, `openvertaling.nl` en
+  `open-parafrase-weergave.nl`.
   Statische links gebruiken `data-ogw-href="pad"`; `sites.js` vult de `href`.
 
 ## Indeling OV

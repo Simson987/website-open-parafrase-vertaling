@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
-"""Genereer sitemap.xml voor openparafrase.nl.
+"""Genereer sitemap.xml voor open-parafrase-weergave.nl.
 
 Bevat: de vaste hoofdpagina's + alle per-boek handschriftenpagina's
 (handschriften/<boek>.html). Draai vanuit de repo-root:  python3 scripts/build_sitemap.py
 """
 import json, glob, os, datetime
 
-BASE = "https://openparafrase.nl"
+BASE = "https://open-parafrase-weergave.nl"
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 # Vaste hoofdpagina's met prioriteit + wijzigingsfrequentie

@@ -4,21 +4,6 @@
  * Injecteert de canonieke balk (merk, links, zoekbalk, thema-knop, auth-slot, hamburger)
  * en zet de actieve link op basis van de huidige pagina. Zo blijft de nav overal gelijk. */
 (function () {
-    /* www doorsturen naar het kale domein.
-       De site is op twee adressen bereikbaar, en dat zijn voor de browser en
-       voor externe diensten twee losse werelden: aparte sessie, aparte
-       localStorage met je instellingen en markeringen, aparte caches, en een
-       tweede versie voor zoekmachines terwijl de canonical naar het kale
-       domein wijst. Het feedbackformulier werkte er ook niet, omdat de
-       maildienst per domein moet worden vrijgegeven.
-       Hoort eigenlijk als 301 in de serverconfiguratie; tot die er is doen we
-       het hier. replace() en geen href, zodat de terugknop niet vastloopt. */
-    if (location.hostname === 'www.openparafrase.nl') {
-        location.replace('https://openparafrase.nl' + location.pathname +
-                         location.search + location.hash);
-        return;
-    }
-
     /* Adressen van de zustersites (OGW voor wiki en achtergrond). Pagina's
        die ze al bij het laden nodig hebben, laden sites.js zelf vooraan. */
     if (!window.KASites && !document.querySelector('script[src$="sites.js"]')) {
