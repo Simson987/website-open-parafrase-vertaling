@@ -46,13 +46,12 @@
 
     nav.setAttribute('aria-label', 'Hoofdmenu');
     nav.innerHTML =
-        /* Familie: de drie zustersites van de kleine ark, de huidige in goud. */
+        /* De drie zustersites, de huidige in goud. */
         '<div class="opv-zus">' +
             '<span class="opv-zus-l">Zustersites</span>' +
             '<a href="https://openvertaling.nl/" data-ov-href="">Open Vertaling ' + PIJL + '</a>' +
             '<a href="https://opengodsword.com/" data-ogw-href="">Open Gods Woord ' + PIJL + '</a>' +
             '<a href="index.html" aria-current="page">Open Parafrase<span class="opv-lang"> Weergave</span></a>' +
-            '<span class="opv-zus-ark">de kleine ark</span>' +
         '</div>' +
         '<div class="opv-balk">' +
             '<a class="topnav-brand-link opv-merk" href="index.html" aria-label="Open Parafrase Weergave, naar de startpagina">' + ZON + '<img class="opv-carey" src="images/branding/william-carey-missions.png" width="40" height="40" alt="William Carey">' +
