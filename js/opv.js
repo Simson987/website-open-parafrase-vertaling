@@ -1,4 +1,4 @@
-/* Open Parafrase Vertaling — ontwerplaag van de lezer.
+/* Open Parafrase Weergave — ontwerplaag van de lezer.
  *
  * Kleine, losse gedragingen bovenop de bestaande lezer, zonder de logica
  * ervan te veranderen:
@@ -23,7 +23,7 @@
 
     function reactie(knop) {
         if (window.Feedback && typeof window.Feedback.open === 'function') {
-            window.Feedback.open({ ref: 'Open Parafrase Vertaling (algemeen)', text: '' });
+            window.Feedback.open({ ref: 'Open Parafrase Weergave (algemeen)', text: '' });
         } else {
             location.href = 'over-opv.html#status';
         }

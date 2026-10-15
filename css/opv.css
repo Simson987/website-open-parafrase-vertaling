@@ -1,5 +1,5 @@
 /* ==========================================================================
-   Open Parafrase Vertaling — ontwerplaag ("De Bijbel, gewoon verteld")
+   Open Parafrase Weergave — ontwerplaag ("De Bijbel, gewoon verteld")
    --------------------------------------------------------------------------
    Laadt ná style.css en legt daar de visuele taal van de OPV overheen:
    warm, rustig, één kolom. Zand naast navy en goud, Literata voor de
@@ -180,10 +180,12 @@ html { scrollbar-color: var(--opv-sand-line) transparent; }
     color: var(--opv-kop); text-decoration: none;
 }
 .opv-zon { flex: none; width: 40px; height: 40px; }
+.opv-carey { flex: none; width: 40px; height: 40px; object-fit: contain; }
+:root[data-theme="donker"] .opv-carey { filter: brightness(0) invert(.9); }
 :root[data-theme="donker"] .opv-zon-vlak { fill: #1f3546; }
 .opv-merk-naam {
     font: 500 19px/1.1 var(--opv-serif); letter-spacing: -.005em;
-    color: var(--opv-kop); white-space: nowrap;
+    color: var(--opv-kop); white-space: normal; max-width: 190px;
 }
 .opv-merk-naam small {
     display: block; margin-top: 2px;
@@ -300,6 +302,11 @@ html.opv-startscherm .opv-hfst { display: none !important; }
     transition: transform .15s, box-shadow .15s;
 }
 .opv-tegel:hover { transform: translateY(-2px); box-shadow: var(--opv-shadow); }
+.opv-verhaalbeeld {
+    display: block; width: calc(100% + 44px); max-width: none; height: auto;
+    aspect-ratio: 3 / 2; object-fit: cover; margin: -22px -22px 8px;
+    border-radius: 17px 17px 0 0;
+}
 .opv-tegel-t { font-size: 18px; font-weight: 600; color: var(--opv-kop); }
 .opv-tegel-r { font-size: 13.5px; color: var(--opv-muted); }
 .opv-tegel q { margin-top: auto; font: 400 16.5px/1.55 var(--opv-serif); color: var(--opv-ink-soft); quotes: "\2018" "\2019"; }
@@ -417,7 +424,7 @@ body.hoofdstuknummers-uit #verses-container .opv-boven { display: none; }
 body.pericopen-uit #content #verses-container .pericope-heading { display: none; }
 body.dyslexia-mode #content #verses-container .pericope-heading { font-size: .9em; }
 
-/* Verzen lopen door als alinea's; nieuwe alinea na elke blokkop */
+/* Verzen lopen door; de renderer voegt regeleinden tussen zinnen toe. */
 #content #verses-container .verse-row,
 body.hide-verse-numbers #content #verses-container .verse-row {
     display: inline !important;
@@ -881,9 +888,11 @@ body.dyslexia-mode .opv-voorbeeld { font-family: var(--opv-sans); font-size: cal
     .opv-zus-l, .opv-zus-ark { display: none; }
     .opv-balk { grid-template-columns: auto minmax(0, 1fr) auto; padding: 0 6px 0 14px; gap: 6px; }
     .opv-zon { width: 36px; height: 36px; }
+    .opv-carey { width: 32px; height: 32px; }
+    .opv-merk { gap: 6px; }
     .opv-zus .opv-lang { display: none; }
     .opv-merk-naam { display: none; }
-    html.opv-startscherm .opv-merk-naam, body:not(.opv-lezerpagina) .opv-merk-naam { display: inline; font-size: 18px; }
+    html.opv-startscherm .opv-merk-naam, body:not(.opv-lezerpagina) .opv-merk-naam { display: inline; font-size: 16px; max-width: 140px; }
     .opv-hfst {
         justify-self: center; max-width: 100%; min-height: 44px; padding: 0 8px;
         background: none; box-shadow: none; color: var(--opv-muted); font-size: 15px;

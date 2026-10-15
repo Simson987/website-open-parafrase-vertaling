@@ -1,4 +1,4 @@
-# Open Parafrase Vertaling (OPV)
+# Open Parafrase Weergave (OPW)
 
 De Bijbel in eenvoudig, hedendaags Nederlands, naverteld vanuit de
 Statenvertaling. **Proef**: alle verzen hebben de status *concept*.
@@ -8,8 +8,9 @@ Statenvertaling. **Proef**: alle verzen hebben de status *concept*.
 ## Publicatie
 
 Elke push naar `main` publiceert deze repository op
-**https://open-parafrase-weergave.nl**. De workflow bouwt eerst de zoekindex voor
-`nl-opv` en synchroniseert daarna naar `/var/www/open-parafrase-weergave.nl` op
+**https://open-parafrase-weergave.nl**. De workflow bouwt de zoekindex voor
+`nl-opv`, de HTML-leespagina's, tekstbestanden, AI-bronnengids en sitemap.
+Daarna synchroniseert hij naar `/var/www/open-parafrase-weergave.nl` op
 `167.235.54.105`. Handmatig publiceren kan via **Actions → Deploy website → Run workflow**.
 
 De repository heeft `DEPLOY_SSH_KEY` als repositorysecret, omdat private repositories
@@ -30,7 +31,7 @@ worden door de deployment uitgesloten; de leeseditie gaat wel naar de website.
 
 | Site | Repo | Inhoud |
 |---|---|---|
-| Open Parafrase Vertaling | deze repo | de parafrase |
+| Open Parafrase Weergave | deze repo | de parafrase |
 | Open Vertaling | `website-open-bijbelvertaling` | de herziene Statenvertaling met alle opties |
 | Open Gods Woord | `website-open-gods-woord` | wiki, Bijbelachtergrond en broninformatie |
 
@@ -44,11 +45,15 @@ De adressen van de drie sites staan op één plek: `js/sites.js`.
   `data/vertalingen/nl-opv/` en werkt `data/vertalingen/manifest.json` bij.
 - Controleren: `python3 scripts/validate_opv.py`.
 - Zoekindex: `python3 scripts/build_search_index.py --editie nl-opv`.
+- Publieke leespagina's, tekstbestanden, sitemap en AI-bronnengids:
+  `python3 scripts/build_leespaginas.py`. Dezelfde stap draait bij elke publicatie.
+  De gegenereerde map `bijbel/` en `llms-full.txt` worden niet in Git bewaard.
+  `llms.txt` en `LLM.txt` worden samen uit de beschikbare leeseditie opgebouwd.
 - Redactionele besluiten: `docs/opv/besluitregister.md`.
 
 De directe bron is SV1888 in `data/{boek}/{hoofdstuk}.json` (veld
-`textSV1888`). Die hoofdstukken komen uit de Open Vertaling en dienen ook als
-vergelijkingskolom in de lezer.
+`textSV1888`). Die hoofdstukken komen uit de Open Vertaling en dienen als
+controlebron. De lezer op deze site toont alleen de parafrase.
 
 ## Lokaal draaien
 

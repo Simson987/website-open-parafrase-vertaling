@@ -23,8 +23,10 @@ jobs:
       # Bestaande nginx-site en HTTPS-configuratie: deploy/nginx.conf.
       deploy_path: /var/www/open-parafrase-weergave.nl
       deploy_source: .
-      # Zoekindex uit de parafrase (niet uit de OV-tekst).
-      build_command: python scripts/build_search_index.py --editie nl-opv
+      # Zoekindex en vindbare leespagina's uit dezelfde openbare leeseditie.
+      build_command: |
+        python scripts/build_search_index.py --editie nl-opv
+        python scripts/build_leespaginas.py
       rsync_excludes: |
         .git/
         .github/

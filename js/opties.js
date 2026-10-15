@@ -6,11 +6,11 @@ const Opties = {
 
     DEFAULTS: {
         godsnaam: 'ov',          // 'ov' (JAHWEH) | 'klassiek' (HEERE) | 'jehovah' (Jehovah) | 'yehovah' (Yehováh) | 'jhwh' (יהוה)
-        godsnaamOPV: 'heere',    // Open Parafrase Vertaling: 'heere' (zoals geschreven) | 'jahweh' | 'jehovah' | 'yehovah' | 'jhwh'
+        godsnaamOPV: 'heere',    // Open Parafrase Weergave: 'heere' (zoals geschreven) | 'jahweh' | 'jehovah' | 'yehovah' | 'jhwh'
         heereNT: 'heere',        // NT-aanspreektitel (Kurios): 'heere' (OSV) | 'here' (Heere → Here)
         kolomLayout: 'naast',    // 'naast' (parallelle kolom) | 'eronder' (nieuwe regel onder OV2026)
         boekvolgorde: 'canoniek',// 'canoniek' | 'tenach' | 'chronologisch' | 'auteur' | 'lengte'
-        versnummers: 'aan',      // 'aan' | 'uit'
+        versnummers: 'uit',      // 'aan' | 'uit'
         citaten: 'aan',          // 'aan' | 'uit' — citaatmarkering en sprekerkleuren
         otSheol: 'dodenrijk',    // 'dodenrijk' (OT-context, modern) | 'hel' (SV-traditioneel)
         thema: 'auto',           // 'auto' (systeem) | 'licht' | 'donker'
@@ -653,7 +653,7 @@ const Opties = {
     },
 
     /**
-     * De Godsnaam in de Open Parafrase Vertaling. Die tekst schrijft HEERE, dus
+     * De Godsnaam in de Open Parafrase Weergave. Die tekst schrijft HEERE, dus
      * dit werkt andersom dan transformOV: HEERE is de bron, JAHWEH de keuze.
      * Een eigen optie, omdat de OPV een andere standaard heeft dan de OV.
      *

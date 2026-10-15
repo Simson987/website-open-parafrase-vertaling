@@ -12,32 +12,36 @@
     <meta name="theme-color" content="#142e42">
     <link rel="apple-touch-icon" href="/icons/icon-192.png">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
-    <title>Open Parafrase Vertaling — De Bijbel in eenvoudig Nederlands</title>
-    <!-- SEO:start (auto — seo_build.py) -->
-    <meta name="description" content="Open Parafrase Vertaling (proef). De Bijbel in eenvoudig, hedendaags Nederlands, naverteld vanuit de Statenvertaling; vrij van rechten. Met de Open Vertaling als vergelijking.">
+    <title>Open Parafrase Weergave — De Bijbel in eenvoudig Nederlands</title>
+    <!-- SEO:start -->
+    <meta name="description" content="Lees de Bijbel gratis in eenvoudig Nederlands. Open Parafrase Weergave: 88 boeken, naverteld vanuit de Statenvertaling. Proefversie; publiek domein.">
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
     <link rel="canonical" href="https://open-parafrase-weergave.nl/">
-    <meta name="author" content="Open Parafrase Vertaling — de kleine ark">
-    <meta name="theme-color" content="#142e42">
+    <link rel="alternate" type="text/plain" href="/llms.txt" title="Informatie voor AI en hergebruik">
+    <meta name="author" content="Open Parafrase Weergave — de kleine ark">
     <meta property="og:type" content="website">
-    <meta property="og:site_name" content="Open Parafrase Vertaling">
+    <meta property="og:site_name" content="Open Parafrase Weergave">
     <meta property="og:locale" content="nl_NL">
-    <meta property="og:title" content="Open Parafrase Vertaling — De Bijbel in eenvoudig Nederlands">
-    <meta property="og:description" content="Open Parafrase Vertaling (proef). De Bijbel in eenvoudig, hedendaags Nederlands, naverteld vanuit de Statenvertaling; vrij van rechten. Met de Open Vertaling als vergelijking.">
+    <meta property="og:title" content="Open Parafrase Weergave — De Bijbel in eenvoudig Nederlands">
+    <meta property="og:description" content="Lees de Bijbel gratis in eenvoudig Nederlands. Open Parafrase Weergave: 88 boeken, naverteld vanuit de Statenvertaling. Proefversie; publiek domein.">
     <meta property="og:url" content="https://open-parafrase-weergave.nl/">
-    <meta property="og:image" content="https://open-parafrase-weergave.nl/icons/icon-512.png">
+    <meta property="og:image" content="https://open-parafrase-weergave.nl/images/psalm-23-herder.webp">
+    <meta property="og:image:width" content="1536">
+    <meta property="og:image:height" content="1024">
+    <meta property="og:image:alt" content="Een herder met schapen bij stil water, illustratie bij Psalm 23">
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Open Parafrase Vertaling — De Bijbel in eenvoudig Nederlands">
-    <meta name="twitter:description" content="Open Parafrase Vertaling (proef). De Bijbel in eenvoudig, hedendaags Nederlands, naverteld vanuit de Statenvertaling; vrij van rechten. Met de Open Vertaling als vergelijking.">
-    <meta name="twitter:image" content="https://open-parafrase-weergave.nl/icons/icon-512.png">
+    <meta name="twitter:title" content="Open Parafrase Weergave — De Bijbel in eenvoudig Nederlands">
+    <meta name="twitter:description" content="Lees de Bijbel gratis in eenvoudig Nederlands. Open Parafrase Weergave: 88 boeken, naverteld vanuit de Statenvertaling. Proefversie; publiek domein.">
+    <meta name="twitter:image" content="https://open-parafrase-weergave.nl/images/psalm-23-herder.webp">
     <!-- SEO:end -->
     <!-- Auto-open Search bij ?q=... van andere pagina's -->
     <script>window.addEventListener('load',function(){try{var p=new URLSearchParams(location.search);var q=p.get('q');if(p.has('q')&&typeof Search!=='undefined'){setTimeout(function(){Search.open(q);},200);history.replaceState(null,'',location.pathname+location.hash);}}catch(e){}});</script>
     <link rel="stylesheet" href="css/fonts.css">
   <link rel="stylesheet" href="css/style.css?v=0.58.9">
     <link rel="stylesheet" href="css/verwijzing-popup.css">
-    <link rel="stylesheet" href="css/opv.css?v=1.0.0">
+    <link rel="stylesheet" href="css/opv.css?v=1.0.1">
     <link rel="stylesheet" href="css/print.css" media="print">
+    <noscript><style>#opv-start { display: block; } #app-header, #content, #mobile-footer-nav { display: none !important; }</style></noscript>
     <!-- JSONLD:start (auto) -->
     <script type="application/ld+json">
     {
@@ -47,9 +51,9 @@
           "@type": "WebSite",
           "@id": "https://open-parafrase-weergave.nl/#website",
           "url": "https://open-parafrase-weergave.nl/",
-          "name": "Open Parafrase Vertaling",
-          "alternateName": "Open Parafrase Vertaling — de kleine ark",
-          "description": "Open Parafrase Vertaling (proef). De Bijbel in eenvoudig, hedendaags Nederlands, naverteld vanuit de Statenvertaling; vrij van rechten. Met de Open Vertaling als vergelijking.",
+          "name": "Open Parafrase Weergave",
+          "alternateName": "Open Parafrase Weergave — de kleine ark",
+          "description": "Lees de Bijbel gratis in eenvoudig Nederlands. Open Parafrase Weergave: 88 boeken, naverteld vanuit de Statenvertaling. Proefversie; publiek domein.",
           "inLanguage": "nl-NL",
           "publisher": { "@id": "https://open-parafrase-weergave.nl/#org" },
           "potentialAction": {
@@ -61,23 +65,24 @@
         {
           "@type": "Organization",
           "@id": "https://open-parafrase-weergave.nl/#org",
-          "name": "Open Parafrase Vertaling — de kleine ark",
+          "name": "Open Parafrase Weergave — de kleine ark",
           "url": "https://open-parafrase-weergave.nl/",
           "logo": "https://open-parafrase-weergave.nl/icons/icon-512.png"
         },
         {
           "@type": "Book",
           "@id": "https://open-parafrase-weergave.nl/#book",
-          "name": "Open Parafrase Vertaling",
+          "name": "Open Parafrase Weergave",
           "bookFormat": "https://schema.org/EBook",
           "inLanguage": "nl-NL",
           "isBasedOn": "Statenvertaling (1637/1888)",
           "genre": "Bijbel",
-          "author": { "@id": "https://open-parafrase-weergave.nl/#org" },
+          "publisher": { "@id": "https://open-parafrase-weergave.nl/#org" },
+          "creativeWorkStatus": "Concept",
           "isAccessibleForFree": true,
           "license": "https://creativecommons.org/publicdomain/zero/1.0/",
-          "description": "Herziening van de Statenvertaling in hedendaags Nederlands: alle 88 boeken, ook de apocriefe en de Ethiopische, vrij van rechten (CC0).",
-          "url": "https://open-parafrase-weergave.nl/"
+          "description": "De Bijbel naverteld in eenvoudig Nederlands vanuit de Statenvertaling. Proefversie met 88 boeken, inclusief apocriefe en Ethiopische boeken. De tekst is publiek domein.",
+          "url": "https://open-parafrase-weergave.nl/bijbel/"
         }
       ]
     }
@@ -87,7 +92,7 @@
 <body class="opv-lezerpagina">
     <!-- Top navigatie -->
     <nav id="topnav"></nav>
-    <script src="js/topnav.js?v=0.38.3"></script>
+    <script src="js/topnav.js?v=0.38.4"></script>
 
     <!-- Mobiele picker-overlay: fullscreen, eerst boek-grid, dan hoofdstuk-grid -->
     <div id="mobile-picker" class="mp-overlay hidden" aria-hidden="true">
@@ -124,18 +129,19 @@
             <div class="opv-hero-tekst">
                 <span class="opv-pil">Proefversie · alle teksten nog concept</span>
                 <h1 id="opv-start-titel">De Bijbel,<br><em>gewoon</em> verteld.</h1>
-                <p class="opv-intro">De Open Parafrase Vertaling vertelt de Bijbel na in eenvoudig, hedendaags Nederlands. Elk vers gaat terug op de Statenvertaling, maar is zo geschreven dat je het op je zestiende zonder hulp kunt lezen.</p>
+                <p class="opv-intro">De Open Parafrase Weergave vertelt de Bijbel na in eenvoudig, hedendaags Nederlands. Elk vers gaat terug op de Statenvertaling, maar is zo geschreven dat je het op je zestiende zonder hulp kunt lezen.</p>
                 <div class="opv-acties">
-                    <a class="opv-knop" href="#johannes/1">Begin bij Johannes <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a>
-                    <button type="button" class="opv-knop opv-knop-zacht" data-opv-kies-boek>Kies zelf een boek</button>
+                    <a class="opv-knop" href="/bijbel/johannes/1.html">Begin bij Johannes <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a>
+                    <a class="opv-knop opv-knop-zacht" href="/bijbel/">Kies zelf een boek</a>
                 </div>
                 <p class="opv-hint">Johannes vertelt wie Jezus is, rustig en vanaf het begin. Een goede plek om te starten.</p>
+                <p class="opv-hint"><a href="/bijbel/">Bekijk alle Bijbelboeken en hoofdstukken</a></p>
             </div>
             <div class="opv-proefkaart">
                 <p class="opv-ref">Johannes 1</p>
                 <h2>Het Woord en het Licht</h2>
-                <p class="opv-proefkaart-tekst">In het begin was het Woord er al. Het Woord was bij God en het Woord was God. In Hem was het leven. Dat leven was het Licht voor de mensen.</p>
-                <a class="opv-meer" href="#johannes/1">Lees verder <span aria-hidden="true">→</span></a>
+                <p class="opv-proefkaart-tekst">In het begin was het Woord er al.<br>Het Woord was bij God en het Woord was God.<br>In Hem was het leven.<br>Dat leven was het Licht voor de mensen.</p>
+                <a class="opv-meer" href="/bijbel/johannes/1.html">Lees verder <span aria-hidden="true">→</span></a>
             </div>
         </div>
 
@@ -143,12 +149,12 @@
             <h2>Waar wil je beginnen?</h2>
             <p class="opv-sub">Een paar bekende verhalen om mee te starten. Elk hoofdstuk is in een paar minuten uit.</p>
             <div class="opv-tegels">
-                <a class="opv-tegel opv-tegel-eerst" href="#johannes/1"><span class="opv-tegel-t">Het Woord wordt mens</span><span class="opv-tegel-r">Johannes 1 · ongeveer 6 minuten</span><q>Het Licht schijnt in het donker, maar het donker heeft het Licht niet begrepen.</q></a>
-                <a class="opv-tegel" href="#genesis/1"><span class="opv-tegel-t">Het begin</span><span class="opv-tegel-r">Genesis 1 · ongeveer 4 minuten</span><q>In het begin maakte God de hemel en de aarde.</q></a>
-                <a class="opv-tegel" href="#psalmen/23"><span class="opv-tegel-t">Mij ontbreekt niets</span><span class="opv-tegel-r">Psalm 23 · 1 minuut</span><q>Hij laat mij liggen in groene weiden. Hij brengt mij rustig naar stil water.</q></a>
-                <a class="opv-tegel" href="#lukas/15"><span class="opv-tegel-t">De verloren zoon</span><span class="opv-tegel-r">Lukas 15 · ongeveer 5 minuten</span><q>Toen hij nog ver weg was, zag zijn vader hem al en kreeg diep medelijden.</q></a>
-                <a class="opv-tegel" href="#ruth/1"><span class="opv-tegel-t">Ruth blijft bij Naomi</span><span class="opv-tegel-r">Ruth 1 · ongeveer 4 minuten</span><q>Uw volk is mijn volk, en uw God is mijn God.</q></a>
-                <a class="opv-tegel" href="#mattheus/5"><span class="opv-tegel-t">Wie werkelijk gelukkig zijn</span><span class="opv-tegel-r">Mattheüs 5 · ongeveer 7 minuten</span><q>Jullie zijn het licht van de wereld.</q></a>
+                <a class="opv-tegel opv-tegel-eerst" href="/bijbel/johannes/1.html"><span class="opv-tegel-t">Het Woord wordt mens</span><span class="opv-tegel-r">Johannes 1 · ongeveer 6 minuten</span><q>Het Licht schijnt in het donker, maar het donker heeft het Licht niet begrepen.</q></a>
+                <a class="opv-tegel" href="/bijbel/genesis/1.html"><span class="opv-tegel-t">Het begin</span><span class="opv-tegel-r">Genesis 1 · ongeveer 4 minuten</span><q>In het begin maakte God de hemel en de aarde.</q></a>
+                <a class="opv-tegel" href="/bijbel/mattheus/5.html"><span class="opv-tegel-t">Wie werkelijk gelukkig zijn</span><span class="opv-tegel-r">Mattheüs 5 · ongeveer 7 minuten</span><q>Jullie zijn het licht van de wereld.</q></a>
+                <a class="opv-tegel" href="/bijbel/psalmen/23.html"><img class="opv-verhaalbeeld" src="images/psalm-23-herder.webp" width="1536" height="1024" loading="lazy" alt=""><span class="opv-tegel-t">Mij ontbreekt niets</span><span class="opv-tegel-r">Psalm 23 · 1 minuut</span><q>Hij laat mij liggen in groene weiden. Hij brengt mij rustig naar stil water.</q></a>
+                <a class="opv-tegel" href="/bijbel/lukas/15.html"><img class="opv-verhaalbeeld" src="images/verloren-zoon.webp" width="1536" height="1024" loading="lazy" alt=""><span class="opv-tegel-t">De verloren zoon</span><span class="opv-tegel-r">Lukas 15 · ongeveer 5 minuten</span><q>Toen hij nog ver weg was, zag zijn vader hem al en kreeg diep medelijden.</q></a>
+                <a class="opv-tegel" href="/bijbel/ruth/1.html"><img class="opv-verhaalbeeld" src="images/ruth-en-naomi.webp" width="1536" height="1024" loading="lazy" alt=""><span class="opv-tegel-t">Ruth blijft bij Naomi</span><span class="opv-tegel-r">Ruth 1 · ongeveer 4 minuten</span><q>Uw volk is mijn volk, en uw God is mijn God.</q></a>
             </div>
         </div>
 
@@ -236,7 +242,7 @@
 
     <footer class="opv-voet">
         <span class="opv-ark">de kleine ark</span>
-        <nav aria-label="Zustersites"><a href="https://openvertaling.nl/" data-ov-href="">Open Vertaling</a><a href="https://opengodsword.com/" data-ogw-href="">Open Gods Woord</a><a href="index.html" aria-current="page">Open Parafrase Vertaling</a></nav>
+        <nav aria-label="Zustersites"><a href="https://openvertaling.nl/" data-ov-href="">Open Vertaling</a><a href="https://opengodsword.com/" data-ogw-href="">Open Gods Woord</a><a href="index.html" aria-current="page">Open Parafrase Weergave</a></nav>
         <span>Tekst vrij te gebruiken · publiek domein</span>
     </footer>
 
@@ -614,7 +620,7 @@
                     <label class="option-row option-row-with-icon"><img class="option-icon" loading="lazy" src="images/iconen/instellingen/hoofdstukinleiding.png" alt="" aria-hidden="true"><span><strong>Hoofdstukinleiding</strong><small>Toon de inleiding boven het hoofdstuk.</small></span><input type="checkbox" id="toggle-chapter-intro" onchange="document.body.classList.toggle('show-chapter-intro', this.checked)"></label>
                     <label class="option-row option-row-with-icon"><img class="option-icon" loading="lazy" src="images/iconen/instellingen/dyslexiemodus.png" alt="" aria-hidden="true"><span><strong>Makkelijk-lezen-letter</strong><small>Lexend met extra ruimte, fijn bij dyslexie</small></span><input type="checkbox" id="toggle-dyslexia" onchange="document.body.classList.toggle('dyslexia-mode', this.checked);localStorage.setItem('dyslexia', this.checked)"></label>
                     <label class="option-row option-row-with-icon"><img class="option-icon" loading="lazy" src="images/iconen/instellingen/citaatopmaak.png" alt="" aria-hidden="true"><span><strong>Woorden van Jezus en God</strong><small>Citaatopmaak: in een warme kleur</small></span><input type="checkbox" id="toggle-citaten" data-optie="citaten" value="aan"></label>
-                    <label class="option-row option-row-with-icon"><img class="option-icon" loading="lazy" src="images/iconen/instellingen/versnummers.png" alt="" aria-hidden="true"><span><strong>Versnummers</strong></span><input type="checkbox" id="toggle-versnummers" checked onchange="Opties.state.versnummers=this.checked?'aan':'uit';Opties.applyVerseNumbersClass();Opties.save();"></label>
+                    <label class="option-row option-row-with-icon"><img class="option-icon" loading="lazy" src="images/iconen/instellingen/versnummers.png" alt="" aria-hidden="true"><span><strong>Versnummers</strong></span><input type="checkbox" id="toggle-versnummers" onchange="Opties.state.versnummers=this.checked?'aan':'uit';Opties.applyVerseNumbersClass();Opties.save();"></label>
                     <label class="option-row option-row-with-icon"><img class="option-icon" loading="lazy" src="images/iconen/instellingen/hoofdstuknummers.png" alt="" aria-hidden="true"><span><strong>Hoofdstuknummers</strong><small>Boek en hoofdstuk boven de titel</small></span><input type="checkbox" id="toggle-hoofdstuknummers" checked onchange="document.body.classList.toggle('hoofdstuknummers-uit', !this.checked);localStorage.setItem('hoofdstuknummers', this.checked)"></label>
                     <label class="option-row option-row-with-icon"><img class="option-icon" loading="lazy" src="images/iconen/instellingen/perikoopkopjes.png" alt="" aria-hidden="true"><span><strong>Tussenkopjes</strong><small>Een kopje boven elk gedeelte</small></span><input type="checkbox" id="toggle-pericopen" checked onchange="document.body.classList.toggle('pericopen-uit', !this.checked);localStorage.setItem('pericopen', this.checked)"></label>
                     <label class="option-row option-row-with-icon"><img class="option-icon" loading="lazy" src="images/iconen/instellingen/doorlopend-lezen.png" alt="" aria-hidden="true"><span><strong>Doorlopend lezen</strong><small>Volgend hoofdstuk laadt vanzelf</small></span><input type="checkbox" id="toggle-doorlopend" onchange="localStorage.setItem('doorlopend', this.checked); document.body.classList.toggle('doorlopend-aan', this.checked); if (typeof App !== 'undefined' && typeof Navigation !== 'undefined' && Navigation.currentBook) { App.renderChapter(Navigation.currentBook, Navigation.currentChapter); }"></label>
@@ -705,12 +711,12 @@
                 <div class="options-section-heading"><div><h3>Teksten naast elkaar</h3><p>Vergelijk vertalingen en kanttekeningen.</p></div></div>
                 <div class="options-list">
                     <label class="option-row option-row-with-icon"><img class="option-icon" loading="lazy" src="images/iconen/instellingen/voorkeurseditie.png" alt="" aria-hidden="true"><span><strong>Bijbeltekst</strong><small>De bediening blijft Nederlands.</small></span><select id="opt-teksteditie" data-optie="teksteditie" aria-label="Bijbeltekst">
-                        <option value="nl-opv">Open Parafrase Vertaling</option>
+                        <option value="nl-opv">Open Parafrase Weergave</option>
                         <option value="nl-ov">Open Vertaling (herziene Statenvertaling)</option>
                     </select></label>
                     <fieldset id="parallel-editions-choice" class="option-choice option-choice-with-icon"><legend><span class="option-label-with-icon"><img class="option-icon" loading="lazy" src="images/iconen/instellingen/vergelijkingsedities.png" alt="" aria-hidden="true"><span>Parallelle edities <small>maximaal 3</small></span></span></legend><div class="option-choice-values option-choice-grid">
                         <label><input type="checkbox" data-parallel-editie="nl-ov"> Open Vertaling</label>
-                        <label><input type="checkbox" data-parallel-editie="nl-opv"> Open Parafrase Vertaling</label>
+                        <label><input type="checkbox" data-parallel-editie="nl-opv"> Open Parafrase Weergave</label>
                         <label><input type="checkbox" data-toggle-col="1637"> SV 1637</label>
                         <label><input type="checkbox" data-toggle-col="sv1888"> SV 1888</label>
                         <label><input type="checkbox" data-toggle-col="2026" checked> Primaire Bijbeltekst</label>
@@ -930,7 +936,7 @@
     <script src="js/options-panel.js?v=0.58.1"></script>
     <script src="js/sidebar.js?v=0.44.3"></script>
     <script src="js/mobile-nav.js"></script>
-    <script src="js/opv.js?v=1.0.0"></script>
+    <script src="js/opv.js?v=1.0.1"></script>
     <script src="js/column-resize.js"></script>
     <script src="js/column-reorder.js"></script>
     <script src="js/verse-select.js"></script>

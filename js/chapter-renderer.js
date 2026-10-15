@@ -319,7 +319,8 @@ const ChapterRenderer = {
                 }
             }
 
-            let editionTextHtml = openVertaling;
+            let editionTextHtml = primaryEditionCode === 'nl-opv'
+                ? this._opvZinsregels(openVertaling) : openVertaling;
             if (parallelEditions.length) {
                 const primaryName = translationMeta ? translationMeta.naam : 'Open Vertaling';
                 const layout = (typeof Opties !== 'undefined' && Opties.state.kolomLayout === 'eronder') ? 'eronder' : 'naast';
@@ -401,6 +402,41 @@ const ChapterRenderer = {
         document.dispatchEvent(new CustomEvent('opv:hoofdstuk-getoond', {
             detail: { bookId, chapter: chapterNum, append, prepend },
         }));
+    },
+
+    // Voeg alleen regeleinden toe; versankers en inline opmaak blijven intact.
+    _opvZinsregels(html) {
+        const template = document.createElement('template');
+        template.innerHTML = html;
+        const nodes = [];
+        let text = '';
+        const walker = document.createTreeWalker(template.content, NodeFilter.SHOW_TEXT);
+        let node;
+        while ((node = walker.nextNode())) {
+            if (node.parentElement?.closest('.note-marker, .strongs-inline')) continue;
+            nodes.push({ node, start: text.length, end: text.length + node.length });
+            text += node.data;
+        }
+        if (!text.trim()) return html;
+        const starts = typeof Intl.Segmenter === 'function'
+            ? Array.from(new Intl.Segmenter('nl', { granularity: 'sentence' }).segment(text), part => part.index).slice(1)
+            : Array.from(text.matchAll(/[.!?…][”’"')\]]*\s+(?=\S)/gu), match => match.index + match[0].length);
+        // Achterwaarts invoegen houdt alle oorspronkelijke tekstposities geldig.
+        for (const start of starts.reverse()) {
+            const entry = nodes.find(item => start >= item.start && start < item.end);
+            if (!entry) continue;
+            const range = document.createRange();
+            let target = entry.node;
+            const offset = start - entry.start;
+            if (offset === 0) {
+                while (target.parentNode !== template.content && !target.previousSibling) target = target.parentNode;
+                range.setStartBefore(target);
+            } else range.setStart(target, offset);
+            range.insertNode(document.createElement('br'));
+        }
+        // Een zin kan over meerdere verzen lopen: breek pas na het sluitende leesteken.
+        if (/[.!?…][”’"')\]]*\s*$/u.test(text)) template.content.appendChild(document.createElement('br'));
+        return template.innerHTML;
     },
 
     // Leestijd in hele minuten, op een rustig leestempo (150 woorden per minuut).

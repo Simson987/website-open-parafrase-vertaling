@@ -1,6 +1,6 @@
-# Claude — projectinstructies (Open Parafrase Vertaling)
+# Claude — projectinstructies (Open Parafrase Weergave)
 
-Deze repo is de site van de Open Parafrase Vertaling (OPV). Ze is op
+Deze repo is de site van de Open Parafrase Weergave (OPV). Ze is op
 2026-10-08 afgesplitst van de Open Vertaling; zie
 `docs/superpowers/specs/2026-10-08-splitsing-drie-sites-design.md`.
 

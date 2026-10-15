@@ -1,4 +1,4 @@
-/* Teksteditie-laag. De site van de Open Parafrase Vertaling toont alleen de
+/* Teksteditie-laag. De site van de Open Parafrase Weergave toont alleen de
  * parafrase (nl-opv); de OV staat op zijn eigen site (link in de bovenbalk). */
 (function (global) {
     'use strict';

@@ -87,7 +87,7 @@ const OptionsPanel = {
         const body = document.getElementById('sidebar-right-body');
         if (!body || body.dataset.categoriesBuilt === 'true') return;
 
-        // Open Parafrase Vertaling: alleen opties die iets doen voor de
+        // Open Parafrase Weergave: alleen opties die iets doen voor de
         // parafrase. Geen andere edities, geen OV-weergaveopties, geen
         // onderzoekslagen en geen voorlezen. Wat hier niet staat, verdwijnt.
         const definitions = [

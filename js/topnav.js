@@ -1,4 +1,4 @@
-/* Open Parafrase Vertaling — gedeelde bovenbalk (shared nav).
+/* Open Parafrase Weergave — gedeelde bovenbalk (shared nav).
  * Gebruik: laad /js/auth-bootstrap.js als module in de head; plaats
  * <nav id="topnav"></nav> in de body en laad dit script er direct na.
  * Injecteert de canonieke balk (merk, links, zoekbalk, thema-knop, auth-slot, hamburger)
@@ -51,12 +51,12 @@
             '<span class="opv-zus-l">Zustersites</span>' +
             '<a href="https://openvertaling.nl/" data-ov-href="">Open Vertaling ' + PIJL + '</a>' +
             '<a href="https://opengodsword.com/" data-ogw-href="">Open Gods Woord ' + PIJL + '</a>' +
-            '<a href="index.html" aria-current="page">Open Parafrase<span class="opv-lang"> Vertaling</span></a>' +
+            '<a href="index.html" aria-current="page">Open Parafrase<span class="opv-lang"> Weergave</span></a>' +
             '<span class="opv-zus-ark">de kleine ark</span>' +
         '</div>' +
         '<div class="opv-balk">' +
-            '<a class="topnav-brand-link opv-merk" href="index.html" aria-label="Open Parafrase Vertaling, naar de startpagina">' + ZON +
-                '<span class="opv-merk-naam">Open Parafrase<small>de Bijbel, gewoon verteld</small></span>' +
+            '<a class="topnav-brand-link opv-merk" href="index.html" aria-label="Open Parafrase Weergave, naar de startpagina">' + ZON + '<img class="opv-carey" src="images/branding/william-carey-missions.png" width="40" height="40" alt="William Carey">' +
+                '<span class="opv-merk-naam">Open Parafrase Weergave<small>de Bijbel, gewoon verteld</small></span>' +
             '</a>' +
             (lezer ? '<button type="button" class="opv-hfst" id="opv-hfst" aria-label="Kies boek en hoofdstuk" aria-haspopup="dialog">' +
                 '<span class="mp-label">Kies een boek</span>' +
@@ -64,8 +64,8 @@
             '</button>' : '') +
             '<div class="opv-rechts">' +
                 '<div class="opv-links" id="topnav-links">' +
-                    '<a href="index.html#johannes/1">Lezen</a>' +
-                    '<a href="over-opv.html">Over OPV</a>' +
+                    '<a href="/bijbel/">Alle boeken</a>' +
+                    '<a href="over-opv.html">Over OPW</a>' +
                     '<a href="https://opengodsword.com/wiki.html" data-ogw-href="wiki.html" title="Wiki, Bijbelachtergrond en broninformatie op Open Gods Woord">Achtergrond ' + PIJL + '</a>' +
                 '</div>' +
                 '<button type="button" class="opv-icoon" id="topnav-zoek" aria-label="Zoeken" title="Zoeken (Ctrl+K)">' +

@@ -1,0 +1,110 @@
+# Open Parafrase Weergave — de Bijbel in eenvoudig Nederlands
+
+> Nederlandse parafrase van de Bijbel, naverteld vanuit de Statenvertaling 1888. Proefversie: alle verzen hebben de status concept. Uitgever: de kleine ark. De Bijbeltekst is publiek domein.
+
+Er zijn 88 boeken en 1604 hoofdstukken beschikbaar. De collectie omvat het Oude en Nieuwe Testament en daarnaast apocriefe en Ethiopische boeken. Die aanvullende boeken behoren niet in alle tradities tot de Bijbelcanon.
+
+## Lezen en vinden
+- [Alle Bijbelboeken](https://open-parafrase-weergave.nl/bijbel/): boekenoverzicht met links naar ieder hoofdstuk; volledig leesbaar zonder JavaScript.
+- [Over de weergave](https://open-parafrase-weergave.nl/over-opv.html): doelgroep, bronbeleid, proefstatus en hergebruik.
+- [Volledige tekst](https://open-parafrase-weergave.nl/llms-full.txt): alle beschikbare hoofdstukken als UTF-8-tekst; groot bestand.
+- [Sitemap](https://open-parafrase-weergave.nl/sitemap.xml): canonieke HTML-adressen van boeken en hoofdstukken.
+
+## Bronvermelding en gebruik
+Noem de tekst "Open Parafrase Weergave (proef)". Vermeld boek, hoofdstuk en waar nodig vers. Dit is een parafrase en geen woordelijke vertaling uit de grondtekst. Presenteer de proeftekst niet als onafhankelijk door mensen goedgekeurd. De tekst is vrij te gebruiken, te kopiëren en te verspreiden.
+
+Hoofdstukken staan op `/bijbel/BOEK/NUMMER.html`, met dezelfde tekst als platte tekst op `/bijbel/BOEK/NUMMER.txt`. Een specifiek vers heeft een anker `#vers-NUMMER`. De interactieve lezer staat op `/index.html#BOEK/NUMMER` en heeft leesinstellingen. Interne editiecode: `nl-opv`.
+
+## Boeken en tekstbestanden
+- [Genesis](https://open-parafrase-weergave.nl/bijbel/genesis/): 50 hoofdstukken; [platte tekst](https://open-parafrase-weergave.nl/bijbel/genesis/tekst.txt).
+- [Exodus](https://open-parafrase-weergave.nl/bijbel/exodus/): 40 hoofdstukken; [platte tekst](https://open-parafrase-weergave.nl/bijbel/exodus/tekst.txt).
+- [Leviticus](https://open-parafrase-weergave.nl/bijbel/leviticus/): 27 hoofdstukken; [platte tekst](https://open-parafrase-weergave.nl/bijbel/leviticus/tekst.txt).
+- [Numeri](https://open-parafrase-weergave.nl/bijbel/numeri/): 36 hoofdstukken; [platte tekst](https://open-parafrase-weergave.nl/bijbel/numeri/tekst.txt).
+- [Deuteronomium](https://open-parafrase-weergave.nl/bijbel/deuteronomium/): 34 hoofdstukken; [platte tekst](https://open-parafrase-weergave.nl/bijbel/deuteronomium/tekst.txt).
+- [Jozua](https://open-parafrase-weergave.nl/bijbel/jozua/): 24 hoofdstukken; [platte tekst](https://open-parafrase-weergave.nl/bijbel/jozua/tekst.txt).
+- [Richteren](https://open-parafrase-weergave.nl/bijbel/richteren/): 21 hoofdstukken; [platte tekst](https://open-parafrase-weergave.nl/bijbel/richteren/tekst.txt).
+- [Ruth](https://open-parafrase-weergave.nl/bijbel/ruth/): 4 hoofdstukken; [platte tekst](https://open-parafrase-weergave.nl/bijbel/ruth/tekst.txt).
+- [1 Samuel](https://open-parafrase-weergave.nl/bijbel/1samuel/): 31 hoofdstukken; [platte tekst](https://open-parafrase-weergave.nl/bijbel/1samuel/tekst.txt).
+- [2 Samuel](https://open-parafrase-weergave.nl/bijbel/2samuel/): 24 hoofdstukken; [platte tekst](https://open-parafrase-weergave.nl/bijbel/2samuel/tekst.txt).
+- [1 Koningen](https://open-parafrase-weergave.nl/bijbel/1koningen/): 22 hoofdstukken; [platte tekst](https://open-parafrase-weergave.nl/bijbel/1koningen/tekst.txt).
+- [2 Koningen](https://open-parafrase-weergave.nl/bijbel/2koningen/): 25 hoofdstukken; [platte tekst](https://open-parafrase-weergave.nl/bijbel/2koningen/tekst.txt).
+- [1 Kronieken](https://open-parafrase-weergave.nl/bijbel/1kronieken/): 29 hoofdstukken; [platte tekst](https://open-parafrase-weergave.nl/bijbel/1kronieken/tekst.txt).
+- [2 Kronieken](https://open-parafrase-weergave.nl/bijbel/2kronieken/): 36 hoofdstukken; [platte tekst](https://open-parafrase-weergave.nl/bijbel/2kronieken/tekst.txt).
+- [Ezra](https://open-parafrase-weergave.nl/bijbel/ezra/): 10 hoofdstukken; [platte tekst](https://open-parafrase-weergave.nl/bijbel/ezra/tekst.txt).
+- [Nehemia](https://open-parafrase-weergave.nl/bijbel/nehemia/): 13 hoofdstukken; [platte tekst](https://open-parafrase-weergave.nl/bijbel/nehemia/tekst.txt).
+- [Esther](https://open-parafrase-weergave.nl/bijbel/esther/): 10 hoofdstukken; [platte tekst](https://open-parafrase-weergave.nl/bijbel/esther/tekst.txt).
+- [Job](https://open-parafrase-weergave.nl/bijbel/job/): 42 hoofdstukken; [platte tekst](https://open-parafrase-weergave.nl/bijbel/job/tekst.txt).
+- [Psalmen](https://open-parafrase-weergave.nl/bijbel/psalmen/): 150 hoofdstukken; [platte tekst](https://open-parafrase-weergave.nl/bijbel/psalmen/tekst.txt).
+- [Spreuken](https://open-parafrase-weergave.nl/bijbel/spreuken/): 31 hoofdstukken; [platte tekst](https://open-parafrase-weergave.nl/bijbel/spreuken/tekst.txt).
+- [Prediker](https://open-parafrase-weergave.nl/bijbel/prediker/): 12 hoofdstukken; [platte tekst](https://open-parafrase-weergave.nl/bijbel/prediker/tekst.txt).
+- [Hooglied](https://open-parafrase-weergave.nl/bijbel/hooglied/): 8 hoofdstukken; [platte tekst](https://open-parafrase-weergave.nl/bijbel/hooglied/tekst.txt).
+- [Jesaja](https://open-parafrase-weergave.nl/bijbel/jesaja/): 66 hoofdstukken; [platte tekst](https://open-parafrase-weergave.nl/bijbel/jesaja/tekst.txt).
+- [Jeremia](https://open-parafrase-weergave.nl/bijbel/jeremia/): 52 hoofdstukken; [platte tekst](https://open-parafrase-weergave.nl/bijbel/jeremia/tekst.txt).
+- [Klaagliederen](https://open-parafrase-weergave.nl/bijbel/klaagliederen/): 5 hoofdstukken; [platte tekst](https://open-parafrase-weergave.nl/bijbel/klaagliederen/tekst.txt).
+- [Ezechiël](https://open-parafrase-weergave.nl/bijbel/ezechiel/): 48 hoofdstukken; [platte tekst](https://open-parafrase-weergave.nl/bijbel/ezechiel/tekst.txt).
+- [Daniël](https://open-parafrase-weergave.nl/bijbel/daniel/): 12 hoofdstukken; [platte tekst](https://open-parafrase-weergave.nl/bijbel/daniel/tekst.txt).
+- [Hosea](https://open-parafrase-weergave.nl/bijbel/hosea/): 14 hoofdstukken; [platte tekst](https://open-parafrase-weergave.nl/bijbel/hosea/tekst.txt).
+- [Joël](https://open-parafrase-weergave.nl/bijbel/joel/): 3 hoofdstukken; [platte tekst](https://open-parafrase-weergave.nl/bijbel/joel/tekst.txt).
+- [Amos](https://open-parafrase-weergave.nl/bijbel/amos/): 9 hoofdstukken; [platte tekst](https://open-parafrase-weergave.nl/bijbel/amos/tekst.txt).
+- [Obadja](https://open-parafrase-weergave.nl/bijbel/obadja/): 1 hoofdstukken; [platte tekst](https://open-parafrase-weergave.nl/bijbel/obadja/tekst.txt).
+- [Jona](https://open-parafrase-weergave.nl/bijbel/jona/): 4 hoofdstukken; [platte tekst](https://open-parafrase-weergave.nl/bijbel/jona/tekst.txt).
+- [Micha](https://open-parafrase-weergave.nl/bijbel/micha/): 7 hoofdstukken; [platte tekst](https://open-parafrase-weergave.nl/bijbel/micha/tekst.txt).
+- [Nahum](https://open-parafrase-weergave.nl/bijbel/nahum/): 3 hoofdstukken; [platte tekst](https://open-parafrase-weergave.nl/bijbel/nahum/tekst.txt).
+- [Habakuk](https://open-parafrase-weergave.nl/bijbel/habakuk/): 3 hoofdstukken; [platte tekst](https://open-parafrase-weergave.nl/bijbel/habakuk/tekst.txt).
+- [Zefanja](https://open-parafrase-weergave.nl/bijbel/zefanja/): 3 hoofdstukken; [platte tekst](https://open-parafrase-weergave.nl/bijbel/zefanja/tekst.txt).
+- [Haggaï](https://open-parafrase-weergave.nl/bijbel/haggai/): 2 hoofdstukken; [platte tekst](https://open-parafrase-weergave.nl/bijbel/haggai/tekst.txt).
+- [Zacharia](https://open-parafrase-weergave.nl/bijbel/zacharia/): 14 hoofdstukken; [platte tekst](https://open-parafrase-weergave.nl/bijbel/zacharia/tekst.txt).
+- [Maleachi](https://open-parafrase-weergave.nl/bijbel/maleachi/): 4 hoofdstukken; [platte tekst](https://open-parafrase-weergave.nl/bijbel/maleachi/tekst.txt).
+- [Mattheüs](https://open-parafrase-weergave.nl/bijbel/mattheus/): 28 hoofdstukken; [platte tekst](https://open-parafrase-weergave.nl/bijbel/mattheus/tekst.txt).
+- [Markus](https://open-parafrase-weergave.nl/bijbel/markus/): 16 hoofdstukken; [platte tekst](https://open-parafrase-weergave.nl/bijbel/markus/tekst.txt).
+- [Lukas](https://open-parafrase-weergave.nl/bijbel/lukas/): 24 hoofdstukken; [platte tekst](https://open-parafrase-weergave.nl/bijbel/lukas/tekst.txt).
+- [Johannes](https://open-parafrase-weergave.nl/bijbel/johannes/): 21 hoofdstukken; [platte tekst](https://open-parafrase-weergave.nl/bijbel/johannes/tekst.txt).
+- [Handelingen](https://open-parafrase-weergave.nl/bijbel/handelingen/): 28 hoofdstukken; [platte tekst](https://open-parafrase-weergave.nl/bijbel/handelingen/tekst.txt).
+- [Romeinen](https://open-parafrase-weergave.nl/bijbel/romeinen/): 16 hoofdstukken; [platte tekst](https://open-parafrase-weergave.nl/bijbel/romeinen/tekst.txt).
+- [1 Korintiërs](https://open-parafrase-weergave.nl/bijbel/1korinthiers/): 16 hoofdstukken; [platte tekst](https://open-parafrase-weergave.nl/bijbel/1korinthiers/tekst.txt).
+- [2 Korintiërs](https://open-parafrase-weergave.nl/bijbel/2korinthiers/): 13 hoofdstukken; [platte tekst](https://open-parafrase-weergave.nl/bijbel/2korinthiers/tekst.txt).
+- [Galaten](https://open-parafrase-weergave.nl/bijbel/galaten/): 6 hoofdstukken; [platte tekst](https://open-parafrase-weergave.nl/bijbel/galaten/tekst.txt).
+- [Efeziers](https://open-parafrase-weergave.nl/bijbel/efeziers/): 6 hoofdstukken; [platte tekst](https://open-parafrase-weergave.nl/bijbel/efeziers/tekst.txt).
+- [Filippenzen](https://open-parafrase-weergave.nl/bijbel/filippenzen/): 4 hoofdstukken; [platte tekst](https://open-parafrase-weergave.nl/bijbel/filippenzen/tekst.txt).
+- [Kolossenzen](https://open-parafrase-weergave.nl/bijbel/kolossenzen/): 4 hoofdstukken; [platte tekst](https://open-parafrase-weergave.nl/bijbel/kolossenzen/tekst.txt).
+- [1 Thessalonicenzen](https://open-parafrase-weergave.nl/bijbel/1tessalonicensen/): 5 hoofdstukken; [platte tekst](https://open-parafrase-weergave.nl/bijbel/1tessalonicensen/tekst.txt).
+- [2 Thessalonicenzen](https://open-parafrase-weergave.nl/bijbel/2tessalonicensen/): 3 hoofdstukken; [platte tekst](https://open-parafrase-weergave.nl/bijbel/2tessalonicensen/tekst.txt).
+- [1 Timotheüs](https://open-parafrase-weergave.nl/bijbel/1timotheus/): 6 hoofdstukken; [platte tekst](https://open-parafrase-weergave.nl/bijbel/1timotheus/tekst.txt).
+- [2 Timotheüs](https://open-parafrase-weergave.nl/bijbel/2timotheus/): 4 hoofdstukken; [platte tekst](https://open-parafrase-weergave.nl/bijbel/2timotheus/tekst.txt).
+- [Titus](https://open-parafrase-weergave.nl/bijbel/titus/): 3 hoofdstukken; [platte tekst](https://open-parafrase-weergave.nl/bijbel/titus/tekst.txt).
+- [Filemon](https://open-parafrase-weergave.nl/bijbel/filemon/): 1 hoofdstukken; [platte tekst](https://open-parafrase-weergave.nl/bijbel/filemon/tekst.txt).
+- [Hebreeën](https://open-parafrase-weergave.nl/bijbel/hebreeen/): 13 hoofdstukken; [platte tekst](https://open-parafrase-weergave.nl/bijbel/hebreeen/tekst.txt).
+- [Jakobus](https://open-parafrase-weergave.nl/bijbel/jakobus/): 5 hoofdstukken; [platte tekst](https://open-parafrase-weergave.nl/bijbel/jakobus/tekst.txt).
+- [1 Petrus](https://open-parafrase-weergave.nl/bijbel/1petrus/): 5 hoofdstukken; [platte tekst](https://open-parafrase-weergave.nl/bijbel/1petrus/tekst.txt).
+- [2 Petrus](https://open-parafrase-weergave.nl/bijbel/2petrus/): 3 hoofdstukken; [platte tekst](https://open-parafrase-weergave.nl/bijbel/2petrus/tekst.txt).
+- [1 Johannes](https://open-parafrase-weergave.nl/bijbel/1johannes/): 5 hoofdstukken; [platte tekst](https://open-parafrase-weergave.nl/bijbel/1johannes/tekst.txt).
+- [2 Johannes](https://open-parafrase-weergave.nl/bijbel/2johannes/): 1 hoofdstukken; [platte tekst](https://open-parafrase-weergave.nl/bijbel/2johannes/tekst.txt).
+- [3 Johannes](https://open-parafrase-weergave.nl/bijbel/3johannes/): 1 hoofdstukken; [platte tekst](https://open-parafrase-weergave.nl/bijbel/3johannes/tekst.txt).
+- [Judas](https://open-parafrase-weergave.nl/bijbel/judas/): 1 hoofdstukken; [platte tekst](https://open-parafrase-weergave.nl/bijbel/judas/tekst.txt).
+- [Openbaring](https://open-parafrase-weergave.nl/bijbel/openbaring/): 22 hoofdstukken; [platte tekst](https://open-parafrase-weergave.nl/bijbel/openbaring/tekst.txt).
+- [3 Ezra](https://open-parafrase-weergave.nl/bijbel/3ezra/): 9 hoofdstukken; [platte tekst](https://open-parafrase-weergave.nl/bijbel/3ezra/tekst.txt).
+- [4 Ezra](https://open-parafrase-weergave.nl/bijbel/4ezra/): 16 hoofdstukken; [platte tekst](https://open-parafrase-weergave.nl/bijbel/4ezra/tekst.txt).
+- [Tobit](https://open-parafrase-weergave.nl/bijbel/tobit/): 14 hoofdstukken; [platte tekst](https://open-parafrase-weergave.nl/bijbel/tobit/tekst.txt).
+- [Judith](https://open-parafrase-weergave.nl/bijbel/judith/): 16 hoofdstukken; [platte tekst](https://open-parafrase-weergave.nl/bijbel/judith/tekst.txt).
+- [Boek der Wijsheid](https://open-parafrase-weergave.nl/bijbel/boekderwijsheid/): 19 hoofdstukken; [platte tekst](https://open-parafrase-weergave.nl/bijbel/boekderwijsheid/tekst.txt).
+- [Jezus Sirach](https://open-parafrase-weergave.nl/bijbel/jezussirach/): 51 hoofdstukken; [platte tekst](https://open-parafrase-weergave.nl/bijbel/jezussirach/tekst.txt).
+- [Baruch](https://open-parafrase-weergave.nl/bijbel/baruch/): 6 hoofdstukken; [platte tekst](https://open-parafrase-weergave.nl/bijbel/baruch/tekst.txt).
+- [Esther (apocrief)](https://open-parafrase-weergave.nl/bijbel/estherapocrief/): 7 hoofdstukken; [platte tekst](https://open-parafrase-weergave.nl/bijbel/estherapocrief/tekst.txt).
+- [Gebed van Azaria](https://open-parafrase-weergave.nl/bijbel/gebedvanazaria/): 1 hoofdstukken; [platte tekst](https://open-parafrase-weergave.nl/bijbel/gebedvanazaria/tekst.txt).
+- [Gezang in de vuuroven](https://open-parafrase-weergave.nl/bijbel/gezangindevuuroven/): 1 hoofdstukken; [platte tekst](https://open-parafrase-weergave.nl/bijbel/gezangindevuuroven/tekst.txt).
+- [Susanna](https://open-parafrase-weergave.nl/bijbel/susanna/): 1 hoofdstukken; [platte tekst](https://open-parafrase-weergave.nl/bijbel/susanna/tekst.txt).
+- [Bel en de draak](https://open-parafrase-weergave.nl/bijbel/belenddedraak/): 1 hoofdstukken; [platte tekst](https://open-parafrase-weergave.nl/bijbel/belenddedraak/tekst.txt).
+- [Gebed van Manasse](https://open-parafrase-weergave.nl/bijbel/gebedvanmanasse/): 1 hoofdstukken; [platte tekst](https://open-parafrase-weergave.nl/bijbel/gebedvanmanasse/tekst.txt).
+- [1 Makkabeeën](https://open-parafrase-weergave.nl/bijbel/1makkabeeen/): 16 hoofdstukken; [platte tekst](https://open-parafrase-weergave.nl/bijbel/1makkabeeen/tekst.txt).
+- [2 Makkabeeën](https://open-parafrase-weergave.nl/bijbel/2makkabeeen/): 15 hoofdstukken; [platte tekst](https://open-parafrase-weergave.nl/bijbel/2makkabeeen/tekst.txt).
+- [3 Makkabeeën](https://open-parafrase-weergave.nl/bijbel/3makkabeeen/): 7 hoofdstukken; [platte tekst](https://open-parafrase-weergave.nl/bijbel/3makkabeeen/tekst.txt).
+- [Henoch](https://open-parafrase-weergave.nl/bijbel/henoch/): 108 hoofdstukken; [platte tekst](https://open-parafrase-weergave.nl/bijbel/henoch/tekst.txt).
+- [Jubileeën](https://open-parafrase-weergave.nl/bijbel/jubileeen/): 50 hoofdstukken; [platte tekst](https://open-parafrase-weergave.nl/bijbel/jubileeen/tekst.txt).
+- [1 Meqabyan](https://open-parafrase-weergave.nl/bijbel/1meqabyan/): 36 hoofdstukken; [platte tekst](https://open-parafrase-weergave.nl/bijbel/1meqabyan/tekst.txt).
+- [2 Meqabyan](https://open-parafrase-weergave.nl/bijbel/2meqabyan/): 21 hoofdstukken; [platte tekst](https://open-parafrase-weergave.nl/bijbel/2meqabyan/tekst.txt).
+- [3 Meqabyan](https://open-parafrase-weergave.nl/bijbel/3meqabyan/): 10 hoofdstukken; [platte tekst](https://open-parafrase-weergave.nl/bijbel/3meqabyan/tekst.txt).
+- [4 Baruch](https://open-parafrase-weergave.nl/bijbel/4baruch/): 9 hoofdstukken; [platte tekst](https://open-parafrase-weergave.nl/bijbel/4baruch/tekst.txt).
+
+## Verwante bronnen
+- [Open Vertaling](https://openvertaling.nl/): herziene Statenvertaling voor wie een meer woordelijke weergave wil lezen.
+- [Open Gods Woord](https://opengodsword.com/wiki.html): Bijbelachtergrond en broninformatie.

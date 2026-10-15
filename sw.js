@@ -1,4 +1,4 @@
-/* Open Parafrase Vertaling — Service Worker
+/* Open Parafrase Weergave — Service Worker
  *
  * Strategieën:
  *   - shell (HTML/CSS/JS): cache-first met background network-update
@@ -8,7 +8,7 @@
  * Versionering: bump VERSION bij elke deploy om alle caches te vernieuwen.
  */
 
-const VERSION = 'v0.59.7';
+const VERSION = 'v0.59.9';
 // New reader modules must not be mixed with HTML from before verification.
 const CACHE_VERSION = `${VERSION}-opv2-ontwerp`;
 const SHELL_CACHE   = `shell-${CACHE_VERSION}`;

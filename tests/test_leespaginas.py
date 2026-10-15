@@ -1,0 +1,91 @@
+"""Publieke hoofdstukken blijven leesbaar en vindbaar zonder JavaScript."""
+import importlib.util
+import json
+from pathlib import Path
+import xml.etree.ElementTree as ET
+
+ROOT = Path(__file__).resolve().parents[1]
+
+
+def builder():
+    spec = importlib.util.spec_from_file_location("leespaginas", ROOT / "scripts/build_leespaginas.py")
+    module = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(module)
+    return module
+
+
+def fixture_site(tmp_path):
+    books = [
+        {"id": "genesis", "nameDutch": "Genesis", "testament": "OT"},
+        {"id": "johannes", "nameDutch": "Johannes", "testament": "NT"},
+    ]
+    (tmp_path / "data").mkdir()
+    (tmp_path / "data/books.json").write_text(json.dumps({"books": books}), encoding="utf-8")
+    edition = tmp_path / "data/vertalingen/nl-opv"
+    edition.mkdir(parents=True)
+    (edition.parent / "manifest.json").write_text(json.dumps({"edities": [
+        {"code": "nl-opv", "boeken": ["genesis", "johannes"]}
+    ]}), encoding="utf-8")
+    for book, chapter, text in [
+        ("genesis", 1, "In het begin. Daarna was er licht!"),
+        ("genesis", 2, 'Een tuin met <bomen> & water. Hij rustte.'),
+        ("johannes", 1, "In het begin was het Woord er al."),
+    ]:
+        folder = edition / book
+        folder.mkdir(exist_ok=True)
+        (folder / f"{chapter}.json").write_text(json.dumps({
+            "boek": book, "hoofdstuk": chapter, "kop": "Het begin",
+            "blokken": [{"vers": 1, "tekst": "Een nieuw begin"}],
+            "verzen": [{"nummer": 1, "tekst": text}],
+        }), encoding="utf-8")
+    return tmp_path
+
+
+def test_volledige_tekst_metadata_en_navigatie(tmp_path):
+    root = fixture_site(tmp_path)
+    result = builder().build_site(root)
+    assert result == {"boeken": 2, "hoofdstukken": 3}
+    first = (root / "bijbel/genesis/1.html").read_text(encoding="utf-8")
+    assert "In het begin.<br>Daarna was er licht!" in first
+    assert '<link rel="canonical" href="https://open-parafrase-weergave.nl/bijbel/genesis/1.html">' in first
+    assert 'href="/bijbel/genesis/2.html" rel="next"' in first
+    assert 'id="vers-1"' in first
+    assert "Proeftekst" in first
+    assert 'href="/index.html#genesis/1"' in first.split("</header>", 1)[0]
+    assert 'type="application/ld+json"' in first
+    second = (root / "bijbel/genesis/2.html").read_text(encoding="utf-8")
+    assert '&lt;bomen&gt; &amp; water' in second
+    assert 'href="/bijbel/johannes/1.html" rel="next"' in second
+    assert 'href="/bijbel/genesis/1.html" rel="prev"' in second
+    plain = (root / "bijbel/genesis/2.txt").read_text(encoding="utf-8")
+    assert 'Een tuin met <bomen> & water. Hij rustte.' in plain
+    assert 'href="/bijbel/genesis/"' in (root / "bijbel/index.html").read_text(encoding="utf-8")
+
+
+def test_sitemap_en_ai_ingangen_volgen_de_beschikbare_tekst(tmp_path):
+    root = fixture_site(tmp_path)
+    module = builder()
+    module.build_site(root)
+    sitemap = ET.parse(root / "sitemap.xml")
+    urls = [el.text for el in sitemap.findall(".//{*}loc")]
+    assert len(urls) == len(set(urls)) == 8
+    assert all("#" not in url for url in urls)
+    assert "https://open-parafrase-weergave.nl/bijbel/johannes/1.html" in urls
+    guide = (root / "llms.txt").read_text(encoding="utf-8")
+    assert "2 boeken" in guide and "3 hoofdstukken" in guide
+    assert "concept" in guide and "publiek domein" in guide
+    assert "vergelijkingskolom" not in guide
+    assert (root / "LLM.txt").read_text(encoding="utf-8") == guide
+    assert "In het begin was het Woord er al." in (root / "llms-full.txt").read_text(encoding="utf-8")
+    before = (root / "sitemap.xml").read_bytes()
+    module.build_site(root)
+    assert (root / "sitemap.xml").read_bytes() == before
+
+
+def test_boekvolgorde_is_niet_de_importvolgorde(tmp_path):
+    root = fixture_site(tmp_path)
+    path = root / "data/books.json"
+    data = json.loads(path.read_text(encoding="utf-8"))
+    data["books"].reverse()
+    path.write_text(json.dumps(data), encoding="utf-8")
+    assert [book["id"] for book in builder().catalog(root)] == ["genesis", "johannes"]
