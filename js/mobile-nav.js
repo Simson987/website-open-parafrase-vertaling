@@ -231,7 +231,7 @@ const MobileNav = {
                     const chapters = b.chaptersIncluded || [];
                     if (chapters.length === 1) {
                         // 1-hoofdstuk-boek: direct navigeren, picker dicht
-                        location.hash = `#${b.id}/${chapters[0]}`;
+                        location.href = Navigation.chapterUrl(b.id, chapters[0]);
                         this.closePicker();
                         setTimeout(() => this.syncFromState(), 80);
                     } else {
@@ -268,7 +268,7 @@ const MobileNav = {
                 document.querySelectorAll('#mobile-book-btn .mp-label, #opv-hfst .mp-label').forEach(lbl => {
                     lbl.textContent = `${book.nameDutch} ${ch}`;
                 });
-                location.hash = `#${book.id}/${ch}`;
+                location.href = Navigation.chapterUrl(book.id, ch);
                 this.closePicker();
                 // Backup: sync na korte delay (na Navigation hashchange handler)
                 setTimeout(() => this.syncFromState(), 80);
@@ -385,14 +385,14 @@ const MobileNav = {
 
     syncFromState() {
         if (!this.bookById) return;
-        // De URL-hash is leidend (boek én hoofdstuk samen). Navigation.* kan kort
-        // achterlopen na een boekwissel → gaf bv. 'Genesis 91' (oud hoofdstuk bij
-        // nieuw boek). Daarom hash eerst, Navigation alleen als fallback.
-        const hashMatch = (location.hash || '').match(/#([a-z0-9]+)(?:\/(\d+))?/i);
-        const bookId = (hashMatch && hashMatch[1]) || Navigation.currentBook;
+        // Boek en hoofdstuk samen uit het vaste adres halen; een versanker
+        // zoals #vers-3 is geen boeknaam.
+        const route = location.pathname.match(/^\/bijbel\/([a-z0-9]+)\/(\d+)\.html$/) ||
+            (location.hash || '').match(/^#([a-z0-9]+)\/(\d+)/i);
+        const bookId = (route && route[1]) || Navigation.currentBook;
         if (!bookId) return;
         const book = this.bookById[bookId];
-        let ch = (hashMatch && hashMatch[2]) ? parseInt(hashMatch[2], 10)
+        let ch = (route && route[2]) ? parseInt(route[2], 10)
                  : (Navigation.currentChapter || 1);
         // Valideer tegen de hoofdstukken van dít boek (voorkomt onmogelijke nummers).
         if (book && Array.isArray(book.chaptersIncluded) && book.chaptersIncluded.indexOf(ch) === -1) {

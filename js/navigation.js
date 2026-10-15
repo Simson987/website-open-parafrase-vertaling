@@ -4,6 +4,11 @@ const Navigation = {
     currentBook: null,
     currentChapter: null,
 
+    chapterUrl(bookId, chapter, verse) {
+        return `/bijbel/${encodeURIComponent(bookId)}/${Number(chapter)}.html` +
+            (verse ? `#vers-${Number(verse)}` : '');
+    },
+
     init() {
         window.addEventListener('hashchange', () => this.handleHash());
     },
@@ -35,7 +40,7 @@ const Navigation = {
                 btn.dataset.bookId = book.id;
                 btn.addEventListener('click', () => {
                     const firstCh = book.chaptersIncluded[0];
-                    location.hash = `#${book.id}/${firstCh}`;
+                    location.href = Navigation.chapterUrl(book.id, firstCh);
                 });
                 group.appendChild(btn);
             }
@@ -70,7 +75,7 @@ const Navigation = {
             btn.textContent = ch;
             btn.dataset.chapter = ch;
             btn.addEventListener('click', () => {
-                location.hash = `#${bookId}/${ch}`;
+                location.href = Navigation.chapterUrl(bookId, ch);
             });
 
             // Groen kleuren als alle verzen "final" zijn
@@ -98,7 +103,18 @@ const Navigation = {
     },
 
     async handleHash() {
-        const hash = location.hash.slice(1); // verwijder #
+        let hash = location.hash.slice(1);
+        const legacy = hash.match(/^([a-z0-9]+)\/(\d+)(?:\/(\d+)|\?v=(\d+))?$/);
+        if (legacy) {
+            const target = this.chapterUrl(legacy[1], legacy[2], legacy[3] || legacy[4]);
+            location.replace(target);
+            return;
+        }
+        const route = location.pathname.match(/^\/bijbel\/([a-z0-9]+)\/(\d+)\.html$/);
+        if (route) {
+            const verse = hash.match(/^vers-(\d+)$/);
+            hash = `${route[1]}/${route[2]}` + (verse ? `/${verse[1]}` : '');
+        }
         if (!hash) {
             // Zonder #boek/hoofdstuk toont de site het startscherm (opv.js).
             if (document.getElementById('opv-start')) {
@@ -110,7 +126,7 @@ const Navigation = {
             const manifest = await DataLoader.loadManifest();
             if (manifest.books.length > 0) {
                 const first = manifest.books[0];
-                location.hash = `#${first.id}/${first.chaptersIncluded[0]}`;
+                location.href = Navigation.chapterUrl(first.id, first.chaptersIncluded[0]);
             }
             return;
         }
@@ -156,7 +172,7 @@ const Navigation = {
         const idx = chapters.indexOf(this.currentChapter);
         const newIdx = idx + offset;
         if (newIdx >= 0 && newIdx < chapters.length) {
-            location.hash = `#${this.currentBook}/${chapters[newIdx]}`;
+            location.href = Navigation.chapterUrl(this.currentBook, chapters[newIdx]);
             return;
         }
         // Voorbij de boekgrens → naar het aangrenzende boek (in de actieve volgorde)
@@ -173,11 +189,11 @@ const Navigation = {
                 // Laatste hoofdstuk van het vorige boek
                 const prev = byId[orderIds[bIdx - 1]];
                 const last = prev.chaptersIncluded[prev.chaptersIncluded.length - 1];
-                location.hash = `#${prev.id}/${last}`;
+                location.href = Navigation.chapterUrl(prev.id, last);
             } else if (newIdx >= chapters.length && bIdx < orderIds.length - 1) {
                 // Eerste hoofdstuk van het volgende boek
                 const next = byId[orderIds[bIdx + 1]];
-                location.hash = `#${next.id}/${next.chaptersIncluded[0]}`;
+                location.href = Navigation.chapterUrl(next.id, next.chaptersIncluded[0]);
             }
         } catch (e) { console.warn('[Navigation] cross-book nav faalde:', e); }
     }

@@ -23,7 +23,7 @@
 
     function plaatsDialoog() {
         if (document.getElementById('sidebar-right')) return Promise.resolve();
-        return fetch('index.html')
+        return fetch('/index.html')
             .then(function (response) { return response.ok ? response.text() : Promise.reject(new Error('opties ontbreken')); })
             .then(function (html) {
                 var bron = new DOMParser().parseFromString(html, 'text/html');
@@ -37,11 +37,10 @@
     function ensure() {
         if (ready) return ready;
         ready = Promise.all([
-            laadScript('js/optie-maten.js', function () { return !!global.OptieMaten; })
-                .then(function () { return laadScript('js/opties.js', function () { return !!global.Opties; }); }),
-            laadScript('js/tekstweergave.js', function () { return !!global.OVTekstweergave; }),
-            laadScript('embed.js', function () { return !!global.OSV; }),
-            laadScript('js/options-panel.js', function () { return !!global.OptionsPanel; })
+            laadScript('/js/optie-maten.js', function () { return !!global.OptieMaten; })
+                .then(function () { return laadScript('/js/opties.js', function () { return !!global.Opties; }); }),
+            laadScript('/js/tekstweergave.js', function () { return !!global.OVTekstweergave; }),
+            laadScript('/js/options-panel.js', function () { return !!global.OptionsPanel; })
         ]).then(function () {
             return plaatsDialoog();
         }).then(function () {

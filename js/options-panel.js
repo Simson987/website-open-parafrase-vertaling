@@ -95,7 +95,7 @@ const OptionsPanel = {
                 key: 'leestekst', label: 'Leestekst',
                 selectors: [
                     '#toggle-citaten', '#toggle-doorlopend',
-                    '#toggle-versnummers', '#toggle-hoofdstuknummers',
+                    '#toggle-hoofdstuknummers',
                     '#toggle-lettertype-alternatief', '[data-optie="thema"]',
                     '#opt-regelafstand', '#toggle-pericopen', '#options-zoom', '#toggle-dyslexia',
                 ],

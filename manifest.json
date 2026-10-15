@@ -1,22 +1,44 @@
 {
   "name": "Open Parafrase Weergave",
   "short_name": "OPW",
-  "description": "De Bijbel in eenvoudig, hedendaags Nederlands, naverteld vanuit de Statenvertaling.",
+  "description": "Gods Woord in begrijpelijke taal. De Bijbel in eenvoudig, hedendaags Nederlands.",
   "lang": "nl",
   "dir": "ltr",
-  "start_url": "/index.html#johannes/1",
+  "start_url": "/bijbel/johannes/1.html",
   "scope": "/",
   "display": "standalone",
   "orientation": "portrait-primary",
   "background_color": "#142e42",
   "theme_color": "#142e42",
-  "categories": ["books", "education", "lifestyle"],
+  "categories": [
+    "books",
+    "education",
+    "lifestyle"
+  ],
   "icons": [
-    { "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
-    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
-    { "src": "/icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
   ],
   "shortcuts": [
-    { "name": "Tekst lezen", "url": "/index.html#johannes/1" }
+    {
+      "name": "Tekst lezen",
+      "url": "/bijbel/johannes/1.html"
+    }
   ]
 }

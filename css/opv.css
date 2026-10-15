@@ -24,7 +24,7 @@
     --opv-kop: #142e42;
     --opv-accent: #cba449;      /* goud: vlakken en lijnen, nooit kleine tekst */
     --opv-accent-ink: #8a6512;  /* goud als tekstkleur: 4,8:1 */
-    --opv-jz: #7a4d0f;          /* woorden van Jezus en God: 6,6:1 */
+    --opv-jz: #a32020;          /* gesproken citaten */
     --opv-btn: #142e42;
     --opv-btn-ink: #fbf8f2;
     --opv-line: #e7e0d3;
@@ -51,7 +51,7 @@
     --opv-kop: #e3c879;         /* koppen worden goud */
     --opv-accent: #cba449;
     --opv-accent-ink: #e0c27a;
-    --opv-jz: #e8c983;
+    --opv-jz: #ff9d91;
     --opv-btn: #cba449;
     --opv-btn-ink: #142e42;
     --opv-line: #233747;
@@ -474,6 +474,7 @@ body.hide-verse-numbers #content #verses-container .verse-row {
 #content #verses-container .verse-row .verse-num::after,
 #content #verses-container .verse-row .verse-num::before { display: none; content: none; }
 body.hide-verse-numbers #content #verses-container .verse-row .verse-num { display: none !important; }
+.opv-lezerpagina #content #verses-container .verse-row .verse-num { display: none !important; }
 #content #verses-container .verse-row:first-of-type .verse-num { margin-left: 0; }
 /* Geen sierinitiaal: de OPV opent met de titel, niet met een versierde letter */
 #content #verses-container .dropcap {
@@ -508,15 +509,13 @@ body.dyslexia-mode #content #verses-container .verse-row .col-2026 {
 }
 body.dyslexia-mode, body.dyslexia-mode main { background: var(--opv-paper); }
 
-/* ---------- 6. Citaten: woorden van Jezus en God ---------- */
-/* Rechtop, in warm bruin-goud, tussen aanhalingstekens. Andere sprekers
-   krijgen alleen aanhalingstekens; geen rood, geen cursief, geen vet. */
+/* ---------- 6. Citaten: rood en cursief, met aanhalingstekens ---------- */
 :root :is(#verses-container, #sidebar-right) :is(span.direct-speech, span.god-speaks, span.angel-speaks, span.devil-speaks),
 :root :is(#verses-container, #sidebar-right) :is(span.direct-speech, span.god-speaks, span.angel-speaks, span.devil-speaks) i {
-    font-style: normal !important;
+    font-style: italic !important;
     font-weight: inherit !important;
     text-decoration: none !important;
-    color: inherit !important;
+    color: var(--opv-jz) !important;
 }
 :root :is(#verses-container, #sidebar-right) span.god-speaks,
 :root :is(#verses-container, #sidebar-right) span.god-speaks i,
@@ -526,9 +525,8 @@ body.dyslexia-mode, body.dyslexia-mode main { background: var(--opv-paper); }
 :root :is(#verses-container, #sidebar-right) :is(span.direct-speech, span.angel-speaks, span.devil-speaks) span.god-speaks i {
     color: var(--opv-jz) !important;
 }
-body.citaten-uit :is(#verses-container, #sidebar-right) span.god-speaks,
-body.citaten-uit :is(#verses-container, #sidebar-right) span.god-speaks i,
-body.citaten-uit :is(#verses-container, #sidebar-right) span.god-speaks :is(span, i) { color: inherit !important; }
+body.citaten-uit :is(#verses-container, #sidebar-right) :is(span.god-speaks, span.direct-speech, span.angel-speaks, span.devil-speaks),
+body.citaten-uit :is(#verses-container, #sidebar-right) :is(span.god-speaks, span.direct-speech, span.angel-speaks, span.devil-speaks) :is(span, i) { color: inherit !important; font-style: normal !important; }
 :root :is(#verses-container, #sidebar-right) :is(span.direct-speech, span.god-speaks, span.angel-speaks, span.devil-speaks)::before {
     content: "\2018";
     display: inline;
@@ -543,6 +541,9 @@ body.citaten-uit :is(#verses-container, #sidebar-right) span.god-speaks :is(span
 :root :is(#verses-container, #sidebar-right) :is(span.direct-speech, span.god-speaks, span.angel-speaks, span.devil-speaks) :is(span.direct-speech, span.god-speaks, span.angel-speaks, span.devil-speaks)::after { content: "\201D"; }
 
 /* ---------- 7. Verder lezen en zijpijlen ---------- */
+.opw-hoofdstukbeeld { margin: 28px 0 36px; }
+.opw-hoofdstukbeeld img { display: block; width: 100%; height: auto; aspect-ratio: 3 / 2; object-fit: cover; border-radius: 16px; }
+.opv-hoofdstuktitel { margin: 0 0 20px; font: 400 clamp(22px, 3vw, 28px)/1.4 var(--opv-serif); color: var(--opv-ink-soft); }
 .opv-verder {
     display: flex; flex-wrap: wrap; gap: 12px;
     max-width: 36em; margin: 48px auto 0; padding: 0 24px; box-sizing: content-box;

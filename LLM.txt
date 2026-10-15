@@ -1,6 +1,6 @@
 # Open Parafrase Weergave — de Bijbel in eenvoudig Nederlands
 
-> Nederlandse parafrase van de Bijbel, naverteld vanuit de Statenvertaling 1888. Proefversie: alle verzen hebben de status concept. Uitgever: de kleine ark. De Bijbeltekst is publiek domein.
+> Gods Woord in begrijpelijke taal. Nederlandse parafrase van de Bijbel. Proefversie: alle verzen hebben de status concept. De Bijbeltekst is publiek domein.
 
 Er zijn 88 boeken en 1604 hoofdstukken beschikbaar. De collectie omvat het Oude en Nieuwe Testament en daarnaast apocriefe en Ethiopische boeken. Die aanvullende boeken behoren niet in alle tradities tot de Bijbelcanon.
 
@@ -13,7 +13,7 @@ Er zijn 88 boeken en 1604 hoofdstukken beschikbaar. De collectie omvat het Oude 
 ## Bronvermelding en gebruik
 Noem de tekst "Open Parafrase Weergave (proef)". Vermeld boek, hoofdstuk en waar nodig vers. Dit is een parafrase en geen woordelijke vertaling uit de grondtekst. Presenteer de proeftekst niet als onafhankelijk door mensen goedgekeurd. De tekst is vrij te gebruiken, te kopiëren en te verspreiden.
 
-Hoofdstukken staan op `/bijbel/BOEK/NUMMER.html`, met dezelfde tekst als platte tekst op `/bijbel/BOEK/NUMMER.txt`. Een specifiek vers heeft een anker `#vers-NUMMER`. De interactieve lezer staat op `/index.html#BOEK/NUMMER` en heeft leesinstellingen. Interne editiecode: `nl-opv`.
+Hoofdstukken staan op `/bijbel/BOEK/NUMMER.html`, met dezelfde tekst als platte tekst op `/bijbel/BOEK/NUMMER.txt`. Een specifiek vers heeft een anker `#vers-NUMMER`. Ieder hoofdstuk bevat direct de tekst en dezelfde leesinstellingen. Oude links op `/index.html#BOEK/NUMMER` verwijzen naar het bijbehorende hoofdstuk. Interne editiecode: `nl-opv`.
 
 ## Boeken en tekstbestanden
 - [Genesis](https://open-parafrase-weergave.nl/bijbel/genesis/): 50 hoofdstukken; [platte tekst](https://open-parafrase-weergave.nl/bijbel/genesis/tekst.txt).
@@ -106,5 +106,5 @@ Hoofdstukken staan op `/bijbel/BOEK/NUMMER.html`, met dezelfde tekst als platte 
 - [4 Baruch](https://open-parafrase-weergave.nl/bijbel/4baruch/): 9 hoofdstukken; [platte tekst](https://open-parafrase-weergave.nl/bijbel/4baruch/tekst.txt).
 
 ## Verwante bronnen
-- [Open Vertaling](https://openvertaling.nl/): herziene Statenvertaling voor wie een meer woordelijke weergave wil lezen.
+- [Open Vertaling](https://openvertaling.nl/): voor wie een meer woordelijke weergave wil lezen.
 - [Open Gods Woord](https://opengodsword.com/wiki.html): Bijbelachtergrond en broninformatie.

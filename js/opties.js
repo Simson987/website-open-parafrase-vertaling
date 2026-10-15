@@ -54,6 +54,7 @@ const Opties = {
         } catch (e) {
             this.state = { ...defaults };
         }
+        this.state.versnummers = 'uit';
         // Een geldige URL-keuze heeft in deze tab voorrang op de opslag.
         if (typeof TekstEditie !== 'undefined') this.state.teksteditie = TekstEditie.code();
         // Een oudere versie bewaarde citaatopmaak onder een losse sleutel.

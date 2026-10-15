@@ -124,12 +124,12 @@
             if (generatie !== verderGeneratie) return;
             var html = '';
             if (b.vorige) {
-                html += '<a class="opv-verder-terug" href="#' + b.vorige.boek.id + '/' + b.vorige.ch + '">' +
+                html += '<a class="opv-verder-terug" href="' + Navigation.chapterUrl(b.vorige.boek.id, b.vorige.ch) + '">' +
                     '<span><span aria-hidden="true">← </span>Vorige</span><b>' + esc(b.vorige.boek.nameDutch + ' ' + b.vorige.ch) + '</b></a>';
             }
             if (b.volgende) {
                 var naam = b.volgende.boek.nameDutch + ' ' + b.volgende.ch;
-                html += '<a class="opv-verder-vol" href="#' + b.volgende.boek.id + '/' + b.volgende.ch + '">' +
+                html += '<a class="opv-verder-vol" href="' + Navigation.chapterUrl(b.volgende.boek.id, b.volgende.ch) + '">' +
                     '<span>Lees verder<span aria-hidden="true"> →</span></span><b>' + esc(naam) +
                     (titel ? '<span class="opv-verder-titel"> · ' + esc(titel) + '</span>' : '') + '</b></a>';
             }
@@ -206,8 +206,8 @@
         vb.className = 'opv-voorbeeld';
         vb.setAttribute('aria-hidden', 'true');
         vb.innerHTML =
-            '<p><sup class="opv-vn">1</sup><span data-gn>De HEERE is mijn Herder</span>; mij ontbreekt niets.</p>' +
-            '<p><sup class="opv-vn">40</sup>Hij zei tegen hen: <span class="god-speaks"><i>Kom maar kijken.</i></span> Ze gingen mee en zagen waar Hij verbleef.</p>';
+            '<p><span data-gn>De HEERE is mijn Herder</span>; mij ontbreekt niets.</p>' +
+            '<p>Hij zei tegen hen: <span class="god-speaks"><i>Kom maar kijken.</i></span> Ze gingen mee en zagen waar Hij verbleef.</p>';
         body.insertBefore(vb, body.firstChild);
 
         dialoog.querySelectorAll('input[type="range"]').forEach(segmentVoor);

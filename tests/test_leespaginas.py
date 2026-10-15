@@ -15,6 +15,7 @@ def builder():
 
 
 def fixture_site(tmp_path):
+    (tmp_path / "index.html").write_text((ROOT / "index.html").read_text(encoding="utf-8"), encoding="utf-8")
     books = [
         {"id": "genesis", "nameDutch": "Genesis", "testament": "OT"},
         {"id": "johannes", "nameDutch": "Johannes", "testament": "NT"},
@@ -50,10 +51,14 @@ def test_volledige_tekst_metadata_en_navigatie(tmp_path):
     assert '<link rel="canonical" href="https://open-parafrase-weergave.nl/bijbel/genesis/1.html">' in first
     assert 'href="/bijbel/genesis/2.html" rel="next"' in first
     assert 'id="vers-1"' in first
-    assert '<h1 id="hoofdstuk-titel">Genesis 1</h1>' in first
-    assert '<p class="opw-hoofdstuktitel">Het begin</p>' in first
+    assert '<h1 class="opv-titel" id="hoofdstuk-titel">Genesis 1</h1>' in first
+    assert '<p class="opv-hoofdstuktitel opw-hoofdstuktitel">Het begin</p>' in first
     assert "Proeftekst" in first
-    assert 'href="/index.html#genesis/1"' in first.split("</header>", 1)[0]
+    assert '<base href="/">' in first
+    assert 'id="sidebar-right"' in first
+    assert 'js/app.js' in first
+    assert 'Lees met instellingen' not in first
+    assert 'Lezer met instellingen' not in first
     assert 'type="application/ld+json"' in first
     second = (root / "bijbel/genesis/2.html").read_text(encoding="utf-8")
     assert '&lt;bomen&gt; &amp; water' in second
@@ -91,3 +96,12 @@ def test_boekvolgorde_is_niet_de_importvolgorde(tmp_path):
     data["books"].reverse()
     path.write_text(json.dumps(data), encoding="utf-8")
     assert [book["id"] for book in builder().catalog(root)] == ["genesis", "johannes"]
+
+
+def test_citaatopmaak_en_zinsregels_blijven_behouden():
+    rendered = builder().verse_html({
+        "tekst": "God zei: Licht! Het werd licht. Toen begon de dag.",
+        "html": 'God zei: <span class="god-speaks" onclick="onveilig()"><i>Licht!</i></span> Het werd licht. Toen begon de dag.',
+    })
+    assert '<span class="god-speaks"><i>Licht!</i></span><br>Het werd licht.<br>Toen begon de dag.<br>' in rendered
+    assert 'onclick' not in rendered

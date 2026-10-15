@@ -454,24 +454,13 @@
 
         _goTo(bookId, chapter, verse) {
             this.close();
-            // Bouw hash. We gebruiken `?v=N` — beide pagina-types kunnen dat
-            // parsen, en het bestaande hashchange in app.js/lees.js negeert
-            // de querystring.
-            const newHash = `#${bookId}/${chapter}?v=${verse}`;
-
-            // Als we al op de juiste pagina + boek/hoofdstuk zitten: scroll meteen.
-            const currentHash = location.hash.replace(/^#/, '').split('?')[0];
-            if (currentHash === `${bookId}/${chapter}`) {
-                // Force re-trigger via assignment niet nodig; gewoon scroll.
+            const target = `/bijbel/${bookId}/${chapter}.html`;
+            if (location.pathname === target) {
                 this._scrollAndHighlight(verse);
-                // Update hash zodat de query bewaard blijft (zonder scroll-jump)
-                history.replaceState(null, '', newHash);
+                history.replaceState(null, '', `${target}#vers-${verse}`);
                 return;
             }
-            // Anders: nieuwe hash, en wacht tot pagina hoofdstuk gerenderd heeft.
-            location.hash = newHash;
-            // Probeer de target-versel periodiek te vinden (max 3s)
-            this._scrollAndHighlightWhenReady(verse, 30);
+            location.href = `${target}#vers-${verse}`;
         },
 
         _scrollAndHighlightWhenReady(verseNum, maxAttempts) {

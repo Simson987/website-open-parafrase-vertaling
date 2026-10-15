@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import argparse
 from html import escape
+from html.parser import HTMLParser
 import json
 from pathlib import Path
 import re
@@ -66,7 +67,8 @@ def schema_json(value: dict) -> str:
 
 def page(title: str, description: str, path: str, body: str, crumbs: list[tuple[str, str]],
          creative_work: dict | None = None, text_path: str | None = None,
-         reader_path: str = "/index.html#johannes/1") -> str:
+         reader_path: str = "/bijbel/johannes/1.html", image: str = IMAGE,
+         image_alt: str = "Een herder met schapen bij stil water, illustratie bij Psalm 23") -> str:
     graph = [{"@type": "WebPage", "@id": BASE + path, "url": BASE + path,
               "name": title, "description": description, "inLanguage": "nl-NL",
               "isPartOf": {"@id": BASE + "/#website"}},
@@ -83,6 +85,7 @@ def page(title: str, description: str, path: str, body: str, crumbs: list[tuple[
     return f'''<!DOCTYPE html>
 <html lang="nl">
 <head>
+<base href="/">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{escape(title)} | {NAME}</title>
@@ -100,26 +103,28 @@ def page(title: str, description: str, path: str, body: str, crumbs: list[tuple[
 <meta property="og:title" content="{escape(title, quote=True)}">
 <meta property="og:description" content="{escape(description, quote=True)}">
 <meta property="og:url" content="{BASE}{escape(path)}">
-<meta property="og:image" content="{BASE}{IMAGE}">
-<meta property="og:image:alt" content="Een herder met schapen bij stil water, illustratie bij Psalm 23">
+<meta property="og:image" content="{BASE}{escape(image, quote=True)}">
+<meta property="og:image:alt" content="{escape(image_alt, quote=True)}">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="{escape(title, quote=True)}">
 <meta name="twitter:description" content="{escape(description, quote=True)}">
-<meta name="twitter:image" content="{BASE}{IMAGE}">
+<meta name="twitter:image" content="{BASE}{escape(image, quote=True)}">
+<meta name="twitter:image:alt" content="{escape(image_alt, quote=True)}">
 <script type="application/ld+json">{schema_json({'@context': 'https://schema.org', '@graph': graph})}</script>
 <script src="/js/theme.js"></script>
 <script src="/js/sites.js" defer></script>
 <link rel="stylesheet" href="/css/fonts.css">
 <link rel="stylesheet" href="/css/style.css">
-<link rel="stylesheet" href="/css/opv.css?v=1.0.2">
-<link rel="stylesheet" href="/css/leespaginas.css?v=1.0.1">
+<link rel="stylesheet" href="/css/opv.css?v=1.0.3">
+<link rel="stylesheet" href="/css/leespaginas.css?v=1.0.2">
 </head>
 <body class="opw-statisch">
-<a class="opw-skip" href="#inhoud">Direct naar de inhoud</a>
-<header class="opw-sitekop">
-<a class="opv-merk" href="/"><img class="opv-carey" src="/images/branding/william-carey-missions.png" width="40" height="40" alt="William Carey"><span class="opv-merk-naam">{NAME}<small>de Bijbel, gewoon verteld</small></span></a>
-<nav aria-label="Hoofdmenu"><a href="/bijbel/">Alle boeken</a><a href="{escape(reader_path)}">Lezer met instellingen</a><a href="/over-opv.html">Over OPW</a></nav>
+<a class="opw-skip" href="{escape(path)}#inhoud">Direct naar de inhoud</a>
+<header class="opw-sitekop" id="topnav">
+<a class="opv-merk" href="/"><img class="opv-carey" src="/images/branding/william-carey-missions.png" width="40" height="40" alt="William Carey"><span class="opv-merk-naam">{NAME}<small>Gods Woord in begrijpelijke taal</small></span></a>
+<nav aria-label="Hoofdmenu"><a href="/bijbel/">Alle boeken</a><a href="{escape(reader_path)}">Lezen</a><a href="/over-opv.html">Over OPW</a></nav>
 </header>
+<script src="/js/topnav.js?v=0.38.6"></script>
 <main class="opv-pagina" id="inhoud" tabindex="-1">
 <nav class="opw-kruimels" aria-label="Broodkruimelpad">{breadcrumb}</nav>
 {body}
@@ -136,15 +141,78 @@ def sentence_lines(text: str) -> str:
     return re.sub(r'([.!?…][”’"\')\]]*)\s+(?=\S)', r'\1<br>', escape(text, quote=False))
 
 
+class CitationHTML(HTMLParser):
+    """Bewaar uitsluitend de bekende inline citaatopmaak van de leeseditie."""
+    def __init__(self):
+        super().__init__()
+        self.parts = []
+        self.stack = []
+
+    def handle_starttag(self, tag, attrs):
+        if tag not in ("span", "i", "em", "strong"):
+            self.stack.append((tag, False))
+            return
+        classes = dict(attrs).get("class", "").split()
+        allowed = [name for name in classes if name in (
+            "god-speaks", "direct-speech", "angel-speaks", "devil-speaks", "nested-quote")]
+        attribute = f' class="{" ".join(allowed)}"' if allowed else ""
+        self.parts.append(f"<{tag}{attribute}>")
+        self.stack.append((tag, True))
+
+    def handle_endtag(self, tag):
+        if self.stack and self.stack[-1][0] == tag:
+            _, allowed = self.stack.pop()
+            if allowed:
+                self.parts.append(f"</{tag}>")
+
+    def handle_data(self, text):
+        self.parts.append(escape(text, quote=False))
+
+
+def verse_html(verse: dict) -> str:
+    if not verse.get("html"):
+        html = sentence_lines(verse["tekst"])
+    else:
+        parser = CitationHTML()
+        parser.feed(verse["html"])
+        html = "".join(parser.parts)
+        html = re.sub(r'([.!?…](?:[”’"\')\]]|</(?:span|i|em|strong)>)*\s*)\s+(?=\S)',
+                      lambda match: match[1].rstrip() + "<br>", html)
+    if re.search(r'[.!?…][”’"\')\]]*\s*$', verse["tekst"]):
+        html += "<br>"
+    return html
+
+
+def integrated_reader(template: str, document: str, path: str) -> str:
+    """Gebruik dezelfde lezer, met vooraf gerenderde tekst als eerste weergave."""
+    head = document.split("</head>", 1)[0]
+    content = re.search(r'<main class="opv-pagina"[^>]*>(.*?)</main>', document, re.S).group(1)
+    content = re.sub(r'<nav class="opw-kruimels"[^>]*>.*?</nav>', '', content, flags=re.S)
+    body = re.search(r'<body[^>]*>(.*?)</body>', template, re.S).group(1)
+    body = re.sub(r'<section id="opv-start"[^>]*>.*?</section>', '', body, flags=re.S)
+    placeholder = '<div id="verses-container"></div>'
+    if placeholder not in body:
+        raise ValueError("De gedeelde lezer mist zijn teksthouder")
+    body = body.replace(placeholder, f'<div id="verses-container">{content}</div>', 1)
+    body = body.replace('<main id="content">', '<main id="content" tabindex="-1">', 1)
+    skip = f'<a class="opw-skip" href="{path}#content" onclick="event.preventDefault();document.getElementById(\'content\').focus();document.getElementById(\'content\').scrollIntoView()">Direct naar de inhoud</a>'
+    return head + '''<link rel="stylesheet" href="/css/verification.css">
+<link rel="stylesheet" href="/css/verwijzing-popup.css">
+<link rel="stylesheet" href="/css/print.css" media="print">
+<noscript><style>#mobile-footer-nav,#chapter-footer,.chapter-swipe-nav {display:none!important}</style></noscript>
+</head><body class="opv-lezerpagina opw-hoofdstukpagina">''' + skip + body + '</body></html>\n'
+
+
 def build_site(root: Path = ROOT) -> dict:
     books = catalog(root)
+    reader_template = (root / "index.html").read_text(encoding="utf-8")
     sequence = [(book, chapter) for book in books for chapter in book["chapters"]]
     # De bron heeft geen publicatiedatum: checkouttijd is geen inhoudswijziging.
     # Daarom geen verzonnen lastmod-datums in de sitemap.
     urls = [("/", None), ("/over-opv.html", None), ("/bijbel/", None)]
     guide = f'''# {NAME} — de Bijbel in eenvoudig Nederlands
 
-> Nederlandse parafrase van de Bijbel, naverteld vanuit de Statenvertaling 1888. Proefversie: alle verzen hebben de status concept. Uitgever: de kleine ark. De Bijbeltekst is publiek domein.
+> Gods Woord in begrijpelijke taal. Nederlandse parafrase van de Bijbel. Proefversie: alle verzen hebben de status concept. De Bijbeltekst is publiek domein.
 
 Er zijn {len(books)} boeken en {len(sequence)} hoofdstukken beschikbaar. De collectie omvat het Oude en Nieuwe Testament en daarnaast apocriefe en Ethiopische boeken. Die aanvullende boeken behoren niet in alle tradities tot de Bijbelcanon.
 
@@ -157,7 +225,7 @@ Er zijn {len(books)} boeken en {len(sequence)} hoofdstukken beschikbaar. De coll
 ## Bronvermelding en gebruik
 Noem de tekst "Open Parafrase Weergave (proef)". Vermeld boek, hoofdstuk en waar nodig vers. Dit is een parafrase en geen woordelijke vertaling uit de grondtekst. Presenteer de proeftekst niet als onafhankelijk door mensen goedgekeurd. De tekst is vrij te gebruiken, te kopiëren en te verspreiden.
 
-Hoofdstukken staan op `/bijbel/BOEK/NUMMER.html`, met dezelfde tekst als platte tekst op `/bijbel/BOEK/NUMMER.txt`. Een specifiek vers heeft een anker `#vers-NUMMER`. De interactieve lezer staat op `/index.html#BOEK/NUMMER` en heeft leesinstellingen. Interne editiecode: `nl-opv`.
+Hoofdstukken staan op `/bijbel/BOEK/NUMMER.html`, met dezelfde tekst als platte tekst op `/bijbel/BOEK/NUMMER.txt`. Een specifiek vers heeft een anker `#vers-NUMMER`. Ieder hoofdstuk bevat direct de tekst en dezelfde leesinstellingen. Oude links op `/index.html#BOEK/NUMMER` verwijzen naar het bijbehorende hoofdstuk. Interne editiecode: `nl-opv`.
 
 ## Boeken en tekstbestanden
 '''
@@ -167,11 +235,12 @@ Hoofdstukken staan op `/bijbel/BOEK/NUMMER.html`, met dezelfde tekst als platte 
         urls.append((book_path, None))
         title = book["nameDutch"]
         links = "".join(f'<li><a href="{chapter_path(book, chapter)}">Hoofdstuk {chapter["hoofdstuk"]}<span>{escape(chapter.get("kop", ""))}</span></a></li>' for chapter in book["chapters"])
-        body = f'<h1>{escape(title)} in eenvoudig Nederlands</h1><p class="opv-lead">Lees {escape(title)} in de {NAME}. Kies een hoofdstuk om te beginnen.</p><p class="opv-pil">Proeftekst · alle verzen concept</p><ol class="opw-hoofdstukken">{links}</ol>'
+        body = f'<div class="opw-boekintro"><div><h1>{escape(title)} in eenvoudig Nederlands</h1><p class="opv-lead">Lees {escape(title)} in de {NAME}. Kies een hoofdstuk om te beginnen.</p><p class="opv-pil">Proeftekst · alle verzen concept</p></div><img class="opw-boekillustratie" src="/images/boeken/{book["id"]}.webp" width="1024" height="1024" alt=""></div><ol class="opw-hoofdstukken">{links}</ol>'
         write(root / book_path.strip("/") / "index.html", page(
             f"{title} in eenvoudig Nederlands", f"Lees alle {len(book['chapters'])} hoofdstukken van {title} in de Open Parafrase Weergave. Gratis Bijbeltekst in eenvoudig Nederlands; proefversie.",
             book_path, body, [("Start", "/"), ("Bijbel", "/bijbel/"), (title, book_path)],
-            reader_path=f"/index.html#{book['id']}/{book['chapters'][0]['hoofdstuk']}"))
+            reader_path=chapter_path(book, book['chapters'][0]),
+            image=f"/images/boeken/{book['id']}.webp", image_alt=f"Illustratie bij {title}"))
         guide += f'- [{title}]({BASE}{book_path}): {len(book["chapters"])} hoofdstukken; [platte tekst]({BASE}{book_path}tekst.txt).\n'
         book_text = [f"# {title} — {NAME} (proef)\n\nBijbeltekst: publiek domein.\n"]
         for chapter in book["chapters"]:
@@ -194,43 +263,49 @@ Hoofdstukken staan op `/bijbel/BOEK/NUMMER.html`, met dezelfde tekst als platte 
         verses = []
         for verse in chapter["verzen"]:
             if int(verse["nummer"]) in headings:
-                verses.append(f'<h2>{escape(headings[int(verse["nummer"])])}</h2>')
-            verses.append(f'<p id="vers-{int(verse["nummer"])}">{sentence_lines(verse["tekst"])}</p>')
+                verses.append(f'<div class="pericope-heading" role="heading" aria-level="2">{escape(headings[int(verse["nummer"])])}</div>')
+            verses.append(f'<div class="verse-row" id="vers-{int(verse["nummer"])}" data-book="{book["id"]}" data-chapter="{number}" data-verse="{int(verse["nummer"])}"><div class="verse-cell col-2026" lang="nl">{verse_html(verse)}</div></div>')
         navigation = []
         for neighbor, relation, label in [(index - 1, "prev", "Vorige"), (index + 1, "next", "Volgende")]:
             if 0 <= neighbor < len(sequence):
                 nb, nc = sequence[neighbor]
                 navigation.append(f'<a href="{chapter_path(nb, nc)}" rel="{relation}">{label}: {escape(nb["nameDutch"])} {nc["hoofdstuk"]}</a>')
-        subtitle = f'<p class="opw-hoofdstuktitel">{escape(heading)}</p>' if heading != ref else ''
-        body = f'''<header class="opw-hoofdstukkop" aria-labelledby="hoofdstuk-titel">
+        subtitle = f'<p class="opv-hoofdstuktitel opw-hoofdstuktitel">{escape(heading)}</p>' if heading != ref else ''
+        minutes = max(1, int(sum(len(v['tekst'].split()) for v in chapter['verzen']) / 150 + .5))
+        read_time = '1 minuut' if minutes == 1 else f'ongeveer {minutes} minuten'
+        illustration = (f'<figure class="opw-hoofdstukbeeld"><img src="/images/hoofdstukken/genesis/{number}.webp" width="1536" height="1024" alt="Illustratie bij {escape(ref)}: {escape(heading)}"></figure>' if book['id'] == 'genesis' else '')
+        body = f'''<header class="opv-hoofdstukkop" aria-labelledby="hoofdstuk-titel">
 <p class="opv-boven">{escape(GROUPS.get(book['testament'], 'Bijbel'))}</p>
-<h1 id="hoofdstuk-titel">{escape(ref)}</h1>
+<h1 class="opv-titel" id="hoofdstuk-titel">{escape(ref)}</h1>
 {subtitle}
-<p class="opv-pil">Proeftekst · alle verzen concept</p>
+<div class="opv-meta"><span class="opv-pil" title="Alle verzen hebben nog de status concept">Proeftekst</span><span>Gods Woord in begrijpelijke taal · {read_time}</span></div>
 </header>
-<p class="opw-leeshulp">Naverteld vanuit de Statenvertaling. <a href="/over-opv.html#status">Over deze proeftekst</a>.</p>
+{illustration}
 <div class="opw-bijbeltekst">{''.join(verses)}</div>
 <nav class="opw-hoofdstuknav" aria-label="Hoofdstukken">{''.join(navigation)}</nav>
-<div class="opv-acties"><a class="opv-knop" href="/index.html#{book['id']}/{number}">Lees met instellingen</a><a class="opv-knop opv-knop-zacht" href="{path.removesuffix('.html')}.txt">Platte tekst</a></div>'''
+<p class="opw-tekstdownload"><a href="{path.removesuffix('.html')}.txt" download>Download hoofdstuk als tekstbestand</a></p>'''
         work = {"@type": "Chapter", "@id": BASE + path + "#hoofdstuk", "name": f"{ref}: {heading}",
                 "position": number, "inLanguage": "nl-NL", "isAccessibleForFree": True,
                 "creativeWorkStatus": "Concept", "copyrightNotice": "Bijbeltekst: publiek domein",
                 "isPartOf": {"@type": "Book", "name": f"{book['nameDutch']} — {NAME}",
                              "url": f"{BASE}/bijbel/{book['id']}/"}}
-        write(root / path.lstrip("/"), page(f"{ref} — {heading}", description, path, body,
+        document = page(f"{ref} — {heading}", description, path, body,
               [("Start", "/"), ("Bijbel", "/bijbel/"), (book["nameDutch"], f"/bijbel/{book['id']}/"), (ref, path)], work, path.removesuffix(".html") + ".txt",
-              reader_path=f"/index.html#{book['id']}/{number}"))
+              reader_path=path,
+              image=f"/images/hoofdstukken/genesis/{number}.webp" if book['id'] == 'genesis' else f"/images/boeken/{book['id']}.webp",
+              image_alt=f"Illustratie bij {ref}: {heading}")
+        write(root / path.lstrip("/"), integrated_reader(reader_template, document, path))
         urls.append((path, None))
 
     sections = []
     for group, label in GROUPS.items():
-        links = "".join(f'<li><a href="/bijbel/{book["id"]}/">{escape(book["nameDutch"])}<span>{len(book["chapters"])} hoofdstukken</span></a></li>' for book in books if book["testament"] == group)
+        links = "".join(f'<li><a href="/bijbel/{book["id"]}/"><img class="opw-boekbeeld" src="/images/boeken/{book["id"]}.webp" width="1024" height="1024" loading="lazy" decoding="async" alt=""><span class="opw-boeknaam">{escape(book["nameDutch"])}</span><span>{len(book["chapters"])} hoofdstukken</span></a></li>' for book in books if book["testament"] == group)
         if links:
             sections.append(f'<section aria-labelledby="groep-{group}"><h2 id="groep-{group}">{label}</h2><ul class="opw-boeken">{links}</ul></section>')
     body = f'<h1>De Bijbel in eenvoudig Nederlands</h1><p class="opv-lead">Alle {len(books)} boeken en {len(sequence)} hoofdstukken van de {NAME}. Kies een boek en daarna een hoofdstuk.</p><p class="opv-pil">Proeftekst · alle verzen concept</p><p>De apocriefe en Ethiopische boeken staan apart; hun plaats in de Bijbelcanon verschilt per traditie.</p>{"".join(sections)}'
     write(root / "bijbel/index.html", page("Alle Bijbelboeken in eenvoudig Nederlands", f"Lees de Bijbel gratis in eenvoudig Nederlands: {len(books)} boeken en {len(sequence)} hoofdstukken. Open Parafrase Weergave, proefversie.", "/bijbel/", body, [("Start", "/"), ("Bijbel", "/bijbel/")]))
     guide += f'''\n## Verwante bronnen
-- [Open Vertaling](https://openvertaling.nl/): herziene Statenvertaling voor wie een meer woordelijke weergave wil lezen.
+- [Open Vertaling](https://openvertaling.nl/): voor wie een meer woordelijke weergave wil lezen.
 - [Open Gods Woord](https://opengodsword.com/wiki.html): Bijbelachtergrond en broninformatie.
 '''
     write(root / "llms.txt", guide)

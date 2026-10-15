@@ -14,6 +14,7 @@
 
     var nav = document.getElementById('topnav');
     if (!nav) return;
+    nav.classList.remove('opw-sitekop');
 
     if (!document.querySelector('script[src$="global-options-host.js"]')) {
         var hostScript = document.createElement('script');
@@ -55,7 +56,7 @@
         '</div>' +
         '<div class="opv-balk">' +
             '<a class="topnav-brand-link opv-merk" href="index.html" aria-label="Open Parafrase Weergave, naar de startpagina">' + ZON + '<img class="opv-carey" src="images/branding/william-carey-missions.png" width="40" height="40" alt="William Carey">' +
-                '<span class="opv-merk-naam">Open Parafrase Weergave<small>de Bijbel, gewoon verteld</small></span>' +
+                '<span class="opv-merk-naam">Open Parafrase Weergave<small>Gods Woord in begrijpelijke taal</small></span>' +
             '</a>' +
             (lezer ? '<button type="button" class="opv-hfst" id="opv-hfst" aria-label="Kies boek en hoofdstuk" aria-haspopup="dialog">' +
                 '<span class="mp-label">Kies een boek</span>' +
@@ -101,9 +102,16 @@
         document.getElementById('topnav-weergave')
     ].filter(Boolean);
     function openWeergave(trigger) {
+            if (lezer && document.readyState === 'loading') {
+                document.addEventListener('DOMContentLoaded', function () {
+                    openWeergave(trigger);
+                }, { once: true });
+                return;
+            }
             if (window.OptionsPanel && document.getElementById('sidebar-right')) {
                 // De hoofdlezer heeft het paneel al in het document; daar
                 // hoeft de host niet eerst asynchroon te worden geladen.
+                window.OptionsPanel.init();
                 window.OptionsPanel.open(trigger);
             } else if (window.GlobalOptionsHost) {
                 window.GlobalOptionsHost.ensure().then(function () {
@@ -164,7 +172,7 @@
 
     // Scherm aan houden — alleen waar daadwerkelijk gelezen wordt, niet op
     // contact- of overzichtspagina's waar niemand lang blijft.
-    var leespagina = (page === 'index.html' || page === 'lees.html' || page === '');
+    var leespagina = lezer || (page === 'index.html' || page === 'lees.html' || page === '');
     if (leespagina && !document.querySelector('script[src$="wake-lock.js"]')) {
         var ws = document.createElement('script'); ws.src = 'js/wake-lock.js'; ws.async = false;
         document.head.appendChild(ws);

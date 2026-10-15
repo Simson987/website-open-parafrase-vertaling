@@ -603,7 +603,12 @@ const App = {
             Navigation.currentBook = bookId;
             Navigation.currentChapter = ch;
         }
-        try { history.replaceState(null, '', `#${bookId}/${ch}`); } catch (e) {}
+        try {
+            const path = `/bijbel/${bookId}/${ch}.html`;
+            history.replaceState(null, '', path);
+            const canonical = document.querySelector('link[rel="canonical"]');
+            if (canonical) canonical.href = 'https://open-parafrase-weergave.nl' + path;
+        } catch (e) {}
         // replaceState vuurt geen 'hashchange' → mobiele topbalk-knop zelf bijwerken,
         // anders blijft die het oude hoofdstuk tonen tijdens doorlopend scrollen.
         if (typeof MobileNav !== 'undefined' && MobileNav.syncFromState) {

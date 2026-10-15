@@ -1,7 +1,6 @@
 # Open Parafrase Weergave (OPW)
 
-De Bijbel in eenvoudig, hedendaags Nederlands, naverteld vanuit de
-Statenvertaling. **Proef**: alle verzen hebben de status *concept*.
+Gods Woord in begrijpelijke taal. **Proef**: alle verzen hebben de status *concept*.
 
 🌐 **open-parafrase-weergave.nl** (definitief domein)
 
@@ -49,6 +48,11 @@ De adressen van de drie sites staan op één plek: `js/sites.js`.
   `python3 scripts/build_leespaginas.py`. Dezelfde stap draait bij elke publicatie.
   De gegenereerde map `bijbel/` en `llms-full.txt` worden niet in Git bewaard.
   `llms.txt` en `LLM.txt` worden samen uit de beschikbare leeseditie opgebouwd.
+  Elk hoofdstuk op `/bijbel/{boek}/{hoofdstuk}.html` gebruikt de volledige
+  lezer met instellingen en bevat de tekst ook zonder JavaScript.
+  Oude links zoals `/index.html#genesis/1` openen hetzelfde hoofdstuk.
+  Boekillustraties staan in `images/boeken/`; Genesis heeft daarnaast
+  per hoofdstuk een afbeelding in `images/hoofdstukken/genesis/`.
 - Redactionele besluiten: `docs/opv/besluitregister.md`.
 
 De directe bron is SV1888 in `data/{boek}/{hoofdstuk}.json` (veld

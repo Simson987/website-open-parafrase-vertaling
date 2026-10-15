@@ -116,9 +116,21 @@ const ChapterRenderer = {
                 container.appendChild(unavailable);
             }
         }
-        // Hoofdstukkop: titel eerst, nummer klein erboven. Bij doorlopend lezen
+        // Hoofdstukkop: boek en hoofdstuk boven het onderwerp. Bij doorlopend lezen
         // is dezelfde kop ook de scheiding tussen twee hoofdstukken.
         sink.appendChild(this._hoofdstukKop(book, chapter, chapterNum, append || prepend));
+        if (bookId === 'genesis') {
+            const figure = document.createElement('figure');
+            figure.className = 'opw-hoofdstukbeeld';
+            const illustration = document.createElement('img');
+            illustration.src = `/images/hoofdstukken/genesis/${chapterNum}.webp`;
+            illustration.width = 1536;
+            illustration.height = 1024;
+            illustration.alt = `Illustratie bij Genesis ${chapterNum}: ${chapter.heading || ''}`;
+            illustration.loading = append || prepend ? 'lazy' : 'eager';
+            figure.appendChild(illustration);
+            sink.appendChild(figure);
+        }
 
         // Boekinleiding inline in de tekstkolom (alleen bij hoofdstuk 1, onder de
         // hoofdstukkop), zichtbaar via instelling (body.show-book-intro)
@@ -456,15 +468,15 @@ const ChapterRenderer = {
         kop.dataset.chapter = chapterNum;
         const boven = document.createElement('p');
         boven.className = 'opv-boven';
-        boven.textContent = `${book.nameDutch} · hoofdstuk ${chapterNum}`;
+        boven.textContent = ({ OT: 'Oude Testament', NT: 'Nieuwe Testament', AP: 'Apocriefe boeken', ET: 'Ethiopische boeken' })[book.testament] || 'Bijbel';
         const titel = document.createElement(doorlopend ? 'h2' : 'h1');
         titel.className = 'opv-titel';
-        let titelTekst = chapter.heading || `${book.nameDutch} ${chapterNum}`;
-        if (chapter.heading && typeof Opties !== 'undefined' && Opties.transformOPV) {
-            titel.innerHTML = Opties.transformOPV(titelTekst);
-        } else {
-            titel.textContent = titelTekst;
-        }
+        titel.textContent = `${book.nameDutch} ${chapterNum}`;
+        const ondertitel = document.createElement('p');
+        ondertitel.className = 'opv-hoofdstuktitel';
+        const titelTekst = chapter.heading || '';
+        ondertitel.innerHTML = (typeof Opties !== 'undefined' && Opties.transformOPV)
+            ? Opties.transformOPV(App._escapeStrongHtml(titelTekst)) : App._escapeStrongHtml(titelTekst);
         const meta = document.createElement('div');
         meta.className = 'opv-meta';
         const pil = document.createElement('span');
@@ -474,10 +486,12 @@ const ChapterRenderer = {
         const uitleg = document.createElement('span');
         const bron = document.createElement('span');
         bron.className = 'opv-meta-bron';
-        bron.textContent = 'Naverteld vanuit de Statenvertaling · ';
+        bron.textContent = 'Gods Woord in begrijpelijke taal · ';
         uitleg.append(bron, this._leestijd(chapter));
         meta.append(pil, uitleg);
-        kop.append(boven, titel, meta);
+        kop.append(boven, titel);
+        if (titelTekst) kop.appendChild(ondertitel);
+        kop.appendChild(meta);
         return kop;
     },
 };
