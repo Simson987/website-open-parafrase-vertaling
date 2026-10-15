@@ -112,7 +112,7 @@ def page(title: str, description: str, path: str, body: str, crumbs: list[tuple[
 <link rel="stylesheet" href="/css/fonts.css">
 <link rel="stylesheet" href="/css/style.css">
 <link rel="stylesheet" href="/css/opv.css?v=1.0.2">
-<link rel="stylesheet" href="/css/leespaginas.css?v=1.0.0">
+<link rel="stylesheet" href="/css/leespaginas.css?v=1.0.1">
 </head>
 <body class="opw-statisch">
 <a class="opw-skip" href="#inhoud">Direct naar de inhoud</a>
@@ -201,8 +201,13 @@ Hoofdstukken staan op `/bijbel/BOEK/NUMMER.html`, met dezelfde tekst als platte 
             if 0 <= neighbor < len(sequence):
                 nb, nc = sequence[neighbor]
                 navigation.append(f'<a href="{chapter_path(nb, nc)}" rel="{relation}">{label}: {escape(nb["nameDutch"])} {nc["hoofdstuk"]}</a>')
-        body = f'''<p class="opv-boven">{escape(ref)} · eenvoudig Nederlands</p>
-<h1>{escape(heading)}</h1><p class="opv-pil">Proeftekst · alle verzen concept</p>
+        subtitle = f'<p class="opw-hoofdstuktitel">{escape(heading)}</p>' if heading != ref else ''
+        body = f'''<header class="opw-hoofdstukkop" aria-labelledby="hoofdstuk-titel">
+<p class="opv-boven">{escape(GROUPS.get(book['testament'], 'Bijbel'))}</p>
+<h1 id="hoofdstuk-titel">{escape(ref)}</h1>
+{subtitle}
+<p class="opv-pil">Proeftekst · alle verzen concept</p>
+</header>
 <p class="opw-leeshulp">Naverteld vanuit de Statenvertaling. <a href="/over-opv.html#status">Over deze proeftekst</a>.</p>
 <div class="opw-bijbeltekst">{''.join(verses)}</div>
 <nav class="opw-hoofdstuknav" aria-label="Hoofdstukken">{''.join(navigation)}</nav>

@@ -50,6 +50,8 @@ def test_volledige_tekst_metadata_en_navigatie(tmp_path):
     assert '<link rel="canonical" href="https://open-parafrase-weergave.nl/bijbel/genesis/1.html">' in first
     assert 'href="/bijbel/genesis/2.html" rel="next"' in first
     assert 'id="vers-1"' in first
+    assert '<h1 id="hoofdstuk-titel">Genesis 1</h1>' in first
+    assert '<p class="opw-hoofdstuktitel">Het begin</p>' in first
     assert "Proeftekst" in first
     assert 'href="/index.html#genesis/1"' in first.split("</header>", 1)[0]
     assert 'type="application/ld+json"' in first

@@ -13,6 +13,10 @@
 .opw-statisch a:hover { text-decoration: underline; }
 .opw-statisch :focus-visible { outline: 3px solid var(--opv-accent-ink); outline-offset: 4px; }
 .opw-leeshulp { color: var(--opv-muted); font-size: 14px; }
+.opw-hoofdstukkop { margin-bottom: 20px; padding-bottom: 24px; border-bottom: 1px solid var(--opv-line); }
+.opw-hoofdstukkop h1 { margin-bottom: 8px; }
+.opw-statisch .opw-hoofdstuktitel { margin: 0 0 20px; font: 400 clamp(22px, 3vw, 28px)/1.4 var(--opv-serif); color: var(--opv-ink-soft); }
+.opw-hoofdstukkop .opv-pil { margin-bottom: 0; }
 .opw-bijbeltekst { max-width: 36em; margin: 36px auto; font: 400 20px/1.78 var(--opv-serif); color: var(--opv-ink); }
 .opw-statisch .opw-bijbeltekst p { margin: 0 0 .4em; font: inherit; color: inherit; }
 .opw-bijbeltekst h2 { margin: 1.8em 0 .8em; font: 500 16px/1.5 var(--opv-sans); }
