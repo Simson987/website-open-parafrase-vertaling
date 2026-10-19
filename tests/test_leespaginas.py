@@ -105,3 +105,28 @@ def test_citaatopmaak_en_zinsregels_blijven_behouden():
     })
     assert '<span class="god-speaks"><i>Licht!</i></span><br>Het werd licht.<br>Toen begon de dag.<br>' in rendered
     assert 'onclick' not in rendered
+
+
+def test_exodus_heeft_hoofdstukbeeld_in_tekst_en_deelvoorbeeld(tmp_path):
+    root = fixture_site(tmp_path)
+    books_path = root / 'data/books.json'
+    books = json.loads(books_path.read_text(encoding='utf-8'))
+    books['books'].append({'id': 'exodus', 'nameDutch': 'Exodus', 'testament': 'OT'})
+    books_path.write_text(json.dumps(books), encoding='utf-8')
+    manifest_path = root / 'data/vertalingen/manifest.json'
+    manifest = json.loads(manifest_path.read_text(encoding='utf-8'))
+    manifest['edities'][0]['boeken'].append('exodus')
+    manifest_path.write_text(json.dumps(manifest), encoding='utf-8')
+    folder = root / 'data/vertalingen/nl-opv/exodus'
+    folder.mkdir()
+    for number in (1, 40):
+        (folder / f'{number}.json').write_text(json.dumps({
+            'boek': 'exodus', 'hoofdstuk': number, 'kop': 'Het volk en de tabernakel',
+            'verzen': [{'nummer': 1, 'tekst': 'De HEERE sprak tot Mozes.'}],
+        }), encoding='utf-8')
+    builder().build_site(root)
+    for number in (1, 40):
+        html = (root / f'bijbel/exodus/{number}.html').read_text(encoding='utf-8')
+        assert f'<figure class="opw-hoofdstukbeeld"><img src="/images/hoofdstukken/exodus/{number}.webp"' in html
+        assert f'<meta property="og:image" content="https://open-parafrase-weergave.nl/images/hoofdstukken/exodus/{number}.webp">' in html
+        assert f'alt="Illustratie bij Exodus {number}:' in html

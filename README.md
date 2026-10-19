@@ -51,8 +51,8 @@ De adressen van de drie sites staan op één plek: `js/sites.js`.
   Elk hoofdstuk op `/bijbel/{boek}/{hoofdstuk}.html` gebruikt de volledige
   lezer met instellingen en bevat de tekst ook zonder JavaScript.
   Oude links zoals `/index.html#genesis/1` openen hetzelfde hoofdstuk.
-  Boekillustraties staan in `images/boeken/`; Genesis heeft daarnaast
-  per hoofdstuk een afbeelding in `images/hoofdstukken/genesis/`.
+  Boekillustraties staan in `images/boeken/`; Genesis en Exodus hebben daarnaast
+  per hoofdstuk een afbeelding in `images/hoofdstukken/{boek}/`.
 - Redactionele besluiten: `docs/opv/besluitregister.md`.
 
 De directe bron is SV1888 in `data/{boek}/{hoofdstuk}.json` (veld

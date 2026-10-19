@@ -110,3 +110,19 @@ def test_startbeelden_en_laatste_genesishoofdstuk_laden_op_mobiel(browser, site)
     page.locator('.verse-row[data-verse="1"]').wait_for(timeout=20000)
     page.wait_for_function("document.querySelector('.opw-hoofdstukbeeld img').naturalWidth === 1536")
     assert page.locator(".opw-hoofdstukbeeld img").get_attribute("src") == "/images/hoofdstukken/genesis/50.webp"
+
+
+@pytest.mark.parametrize("chapter,width", [(1, 1440), (40, 390)])
+def test_exodusbeelden_in_dezelfde_lezer(browser, site, chapter, width):
+    page = page_for(browser, site, viewport={"width": width, "height": 900})
+    page.goto(site + f"/index.html#exodus/{chapter}", wait_until="domcontentloaded")
+    page.wait_for_url(f"**/bijbel/exodus/{chapter}.html")
+    page.locator(".verse-num").first.wait_for(state="attached", timeout=20000)
+    assert page.locator("#verses-container h1").inner_text() == f"Exodus {chapter}"
+    assert page.locator(".opw-hoofdstukbeeld img").count() == 1
+    assert page.locator(".opw-hoofdstukbeeld img").get_attribute("src") == f"/images/hoofdstukken/exodus/{chapter}.webp"
+    page.wait_for_function("document.querySelector('.opw-hoofdstukbeeld img').naturalWidth === 1536")
+    assert page.locator(".verse-num").first.evaluate("el => getComputedStyle(el).display") == "none"
+    assert page.evaluate("document.documentElement.scrollWidth <= innerWidth")
+    page.locator("#topnav-weergave" if width > 640 else "#opv-duim-aa").click()
+    assert page.locator("#sidebar-right").is_visible()

@@ -119,14 +119,14 @@ const ChapterRenderer = {
         // Hoofdstukkop: boek en hoofdstuk boven het onderwerp. Bij doorlopend lezen
         // is dezelfde kop ook de scheiding tussen twee hoofdstukken.
         sink.appendChild(this._hoofdstukKop(book, chapter, chapterNum, append || prepend));
-        if (bookId === 'genesis') {
+        if (['genesis', 'exodus'].includes(bookId)) {
             const figure = document.createElement('figure');
             figure.className = 'opw-hoofdstukbeeld';
             const illustration = document.createElement('img');
-            illustration.src = `/images/hoofdstukken/genesis/${chapterNum}.webp`;
+            illustration.src = `/images/hoofdstukken/${bookId}/${chapterNum}.webp`;
             illustration.width = 1536;
             illustration.height = 1024;
-            illustration.alt = `Illustratie bij Genesis ${chapterNum}: ${chapter.heading || ''}`;
+            illustration.alt = `Illustratie bij ${book.nameDutch} ${chapterNum}: ${chapter.heading || ''}`;
             illustration.loading = append || prepend ? 'lazy' : 'eager';
             figure.appendChild(illustration);
             sink.appendChild(figure);

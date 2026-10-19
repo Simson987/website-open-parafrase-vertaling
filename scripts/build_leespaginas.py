@@ -16,6 +16,7 @@ NAME = "Open Parafrase Weergave"
 GROUPS = {"OT": "Oude Testament", "NT": "Nieuwe Testament",
           "AP": "Apocriefe boeken", "ET": "Ethiopische boeken"}
 IMAGE = "/images/psalm-23-herder.webp"
+ILLUSTRATED_BOOKS = {"genesis", "exodus"}
 BOOK_ORDER = """genesis exodus leviticus numeri deuteronomium jozua richteren ruth
 1samuel 2samuel 1koningen 2koningen 1kronieken 2kronieken ezra nehemia esther
 job psalmen spreuken prediker hooglied jesaja jeremia klaagliederen ezechiel daniel
@@ -273,7 +274,7 @@ Hoofdstukken staan op `/bijbel/BOEK/NUMMER.html`, met dezelfde tekst als platte 
         subtitle = f'<p class="opv-hoofdstuktitel opw-hoofdstuktitel">{escape(heading)}</p>' if heading != ref else ''
         minutes = max(1, int(sum(len(v['tekst'].split()) for v in chapter['verzen']) / 150 + .5))
         read_time = '1 minuut' if minutes == 1 else f'ongeveer {minutes} minuten'
-        illustration = (f'<figure class="opw-hoofdstukbeeld"><img src="/images/hoofdstukken/genesis/{number}.webp" width="1536" height="1024" alt="Illustratie bij {escape(ref)}: {escape(heading)}"></figure>' if book['id'] == 'genesis' else '')
+        illustration = (f'<figure class="opw-hoofdstukbeeld"><img src="/images/hoofdstukken/{book["id"]}/{number}.webp" width="1536" height="1024" alt="Illustratie bij {escape(ref)}: {escape(heading)}"></figure>' if book['id'] in ILLUSTRATED_BOOKS else '')
         body = f'''<header class="opv-hoofdstukkop" aria-labelledby="hoofdstuk-titel">
 <p class="opv-boven">{escape(GROUPS.get(book['testament'], 'Bijbel'))}</p>
 <h1 class="opv-titel" id="hoofdstuk-titel">{escape(ref)}</h1>
@@ -292,7 +293,7 @@ Hoofdstukken staan op `/bijbel/BOEK/NUMMER.html`, met dezelfde tekst als platte 
         document = page(f"{ref} — {heading}", description, path, body,
               [("Start", "/"), ("Bijbel", "/bijbel/"), (book["nameDutch"], f"/bijbel/{book['id']}/"), (ref, path)], work, path.removesuffix(".html") + ".txt",
               reader_path=path,
-              image=f"/images/hoofdstukken/genesis/{number}.webp" if book['id'] == 'genesis' else f"/images/boeken/{book['id']}.webp",
+              image=f"/images/hoofdstukken/{book['id']}/{number}.webp" if book['id'] in ILLUSTRATED_BOOKS else f"/images/boeken/{book['id']}.webp",
               image_alt=f"Illustratie bij {ref}: {heading}")
         write(root / path.lstrip("/"), integrated_reader(reader_template, document, path))
         urls.append((path, None))
