@@ -179,8 +179,6 @@ html { scrollbar-color: var(--opv-sand-line) transparent; }
     color: var(--opv-kop); text-decoration: none;
 }
 .opv-zon { flex: none; width: 40px; height: 40px; }
-.opv-carey { flex: none; width: 40px; height: 40px; object-fit: contain; }
-:root[data-theme="donker"] .opv-carey { filter: brightness(0) invert(.9); }
 :root[data-theme="donker"] .opv-zon-vlak { fill: #1f3546; }
 .opv-merk-naam {
     font: 500 19px/1.1 var(--opv-serif); letter-spacing: -.005em;
@@ -541,8 +539,10 @@ body.citaten-uit :is(#verses-container, #sidebar-right) :is(span.god-speaks, spa
 :root :is(#verses-container, #sidebar-right) :is(span.direct-speech, span.god-speaks, span.angel-speaks, span.devil-speaks) :is(span.direct-speech, span.god-speaks, span.angel-speaks, span.devil-speaks)::after { content: "\201D"; }
 
 /* ---------- 7. Verder lezen en zijpijlen ---------- */
-.opw-hoofdstukbeeld { margin: 28px 0 36px; }
+.opw-hoofdstukbeelden { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 12px; margin: 28px 0 36px; }
+.opw-hoofdstukbeeld { margin: 0; }
 .opw-hoofdstukbeeld img { display: block; width: 100%; height: auto; aspect-ratio: 3 / 2; object-fit: cover; border-radius: 16px; }
+@media (max-width: 700px) { .opw-hoofdstukbeelden { grid-template-columns: 1fr; } }
 .opv-hoofdstuktitel { margin: 0 0 20px; font: 400 clamp(22px, 3vw, 28px)/1.4 var(--opv-serif); color: var(--opv-ink-soft); }
 .opv-verder {
     display: flex; flex-wrap: wrap; gap: 12px;
@@ -888,7 +888,6 @@ body.dyslexia-mode .opv-voorbeeld { font-family: var(--opv-sans); font-size: cal
     .opv-zus-l { display: none; }
     .opv-balk { grid-template-columns: auto minmax(0, 1fr) auto; padding: 0 6px 0 14px; gap: 6px; }
     .opv-zon { width: 36px; height: 36px; }
-    .opv-carey { width: 32px; height: 32px; }
     .opv-merk { gap: 6px; }
     .opv-zus .opv-lang { display: none; }
     .opv-merk-naam { display: none; }

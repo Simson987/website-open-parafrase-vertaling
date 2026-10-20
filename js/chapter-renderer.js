@@ -1,5 +1,14 @@
 /* Reader presentation, shared through the main controller object. */
 const ChapterRenderer = {
+    async _bookImages() {
+        if (!this._bookImagesPromise) {
+            this._bookImagesPromise = fetch('/data/book-images.json')
+                .then(response => response.ok ? response.json() : { books: {} })
+                .then(data => data.books || {})
+                .catch(() => ({}));
+        }
+        return this._bookImagesPromise;
+    },
     async renderChapter(bookId, chapterNum, opts = {}) {
         if (!opts.append && !opts.prepend) document.getElementById('chapter-verification')?.remove();
         await App._laadVerified();   // banner mag niet op verouderde info draaien
@@ -119,18 +128,24 @@ const ChapterRenderer = {
         // Hoofdstukkop: boek en hoofdstuk boven het onderwerp. Bij doorlopend lezen
         // is dezelfde kop ook de scheiding tussen twee hoofdstukken.
         sink.appendChild(this._hoofdstukKop(book, chapter, chapterNum, append || prepend));
-        if (['genesis', 'exodus'].includes(bookId)) {
+        const bookImages = await this._bookImages();
+        const chapterImages = (bookImages[bookId] || []).filter(item => Number(item.chapter) === Number(chapterNum));
+        const imageGallery = document.createElement('div');
+        imageGallery.className = 'opw-hoofdstukbeelden';
+        imageGallery.setAttribute('aria-label', 'Beelden bij dit hoofdstuk');
+        for (const bookImage of chapterImages) {
             const figure = document.createElement('figure');
             figure.className = 'opw-hoofdstukbeeld';
             const illustration = document.createElement('img');
-            illustration.src = `/images/hoofdstukken/${bookId}/${chapterNum}.webp`;
+            illustration.src = `/images/boekseries/${bookId}/${bookImage.file}`;
             illustration.width = 1536;
             illustration.height = 1024;
-            illustration.alt = `Illustratie bij ${book.nameDutch} ${chapterNum}: ${chapter.heading || ''}`;
+            illustration.alt = bookImage.alt;
             illustration.loading = append || prepend ? 'lazy' : 'eager';
             figure.appendChild(illustration);
-            sink.appendChild(figure);
+            imageGallery.appendChild(figure);
         }
+        if (chapterImages.length) sink.appendChild(imageGallery);
 
         // Boekinleiding inline in de tekstkolom (alleen bij hoofdstuk 1, onder de
         // hoofdstukkop), zichtbaar via instelling (body.show-book-intro)
