@@ -135,7 +135,7 @@ html { scrollbar-color: var(--opv-sand-line) transparent; }
     color: var(--opv-ink);
     border-bottom: 0;
     position: sticky;
-    top: calc(-1 * var(--opv-zus-h));
+    top: 0;
     z-index: 300;
     font-family: var(--opv-sans);
 }
@@ -151,13 +151,13 @@ html { scrollbar-color: var(--opv-sand-line) transparent; }
 }
 :root[data-theme="donker"] .opv-zus { background: #0a141c; }
 .opv-zus-l { color: #93a6b4; letter-spacing: .08em; text-transform: uppercase; font-size: 11px; }
-#topnav .opv-zus a, :root[data-theme="donker"] #topnav .opv-zus a {
+.opv-zus a, :root[data-theme="donker"] .opv-zus a {
     display: inline-block; height: 100%; line-height: calc(var(--opv-zus-h) - 4px);
     color: #e6ebef; text-decoration: none;
     border-bottom: 2px solid transparent; box-sizing: border-box; padding-top: 2px;
 }
-#topnav .opv-zus a:hover { color: #fff; border-bottom-color: rgba(203, 164, 73, .5); }
-#topnav .opv-zus a[aria-current] { color: #fff; border-bottom-color: #cba449; }
+.opv-zus a:hover { color: #fff; border-bottom-color: rgba(203, 164, 73, .5); }
+.opv-zus a[aria-current] { color: #fff; border-bottom-color: #cba449; }
 .opv-ext { margin-left: .25em; font-size: .9em; opacity: .7; }
 
 .opv-balk {

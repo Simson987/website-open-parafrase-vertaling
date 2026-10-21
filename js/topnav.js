@@ -46,14 +46,14 @@
     var lezer = document.body.classList.contains('opv-lezerpagina');
 
     nav.setAttribute('aria-label', 'Hoofdmenu');
-    nav.innerHTML =
-        /* De drie zustersites, de huidige in goud. */
-        '<div class="opv-zus">' +
+    nav.insertAdjacentHTML('beforebegin',
+        '<div class="opv-zus" role="navigation" aria-label="Zustersites van de kleine ark">' +
             '<span class="opv-zus-l">Zustersites</span>' +
             '<a href="https://openvertaling.nl/" data-ov-href="">Open Vertaling ' + PIJL + '</a>' +
             '<a href="https://opengodsword.com/" data-ogw-href="">Open Gods Woord ' + PIJL + '</a>' +
             '<a href="index.html" aria-current="page">Open Parafrase<span class="opv-lang"> Weergave</span></a>' +
-        '</div>' +
+        '</div>');
+    nav.innerHTML =
         '<div class="opv-balk">' +
             '<a class="topnav-brand-link opv-merk" href="index.html" aria-label="Open Parafrase Weergave, naar de startpagina">' + ZON +
                 '<span class="opv-merk-naam">Open Parafrase Weergave<small>Gods Woord in begrijpelijke taal</small></span>' +
