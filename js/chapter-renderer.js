@@ -134,12 +134,13 @@ const ChapterRenderer = {
         textColumn.appendChild(this._hoofdstukKop(book, chapter, chapterNum, append || prepend));
         const bookImages = await this._bookImages();
         const chapterImages = (bookImages[bookId] || []).filter(item => Number(item.chapter) === Number(chapterNum));
-        const imageGallery = document.createElement('div');
+        const imageGallery = document.createElement('aside');
         imageGallery.className = 'opw-hoofdstukbeelden';
         imageGallery.setAttribute('aria-label', 'Beelden bij dit hoofdstuk');
         for (const bookImage of chapterImages) {
             const figure = document.createElement('figure');
             figure.className = 'opw-hoofdstukbeeld';
+            if (bookImage.verse) figure.dataset.verse = bookImage.verse;
             const illustration = document.createElement('img');
             illustration.src = `/images/boekseries/${bookId}/${bookImage.file}`;
             illustration.width = 1536;
@@ -147,6 +148,11 @@ const ChapterRenderer = {
             illustration.alt = bookImage.alt;
             illustration.loading = append || prepend ? 'lazy' : 'eager';
             figure.appendChild(illustration);
+            if (bookImage.scene) {
+                const caption = document.createElement('figcaption');
+                caption.textContent = bookImage.scene;
+                figure.appendChild(caption);
+            }
             imageGallery.appendChild(figure);
         }
         if (chapterImages.length) layout.classList.add('heeft-beelden');

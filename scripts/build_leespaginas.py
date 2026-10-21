@@ -189,6 +189,14 @@ def verse_html(verse: dict) -> str:
     return html
 
 
+def reading_image(book_id: str, scene: dict) -> str:
+    anchor = f' data-verse="{int(scene["verse"])}"' if scene.get("verse") else ""
+    return (f'<figure class="opw-hoofdstukbeeld"{anchor}>'
+            f'<img src="/images/boekseries/{book_id}/{escape(scene["file"], quote=True)}" '
+            f'width="1536" height="1024" alt="{escape(scene["alt"], quote=True)}" loading="lazy">'
+            f'<figcaption>{escape(scene["scene"])}</figcaption></figure>')
+
+
 def integrated_reader(template: str, document: str, path: str) -> str:
     """Gebruik dezelfde lezer, met vooraf gerenderde tekst als eerste weergave."""
     head = document.split("</head>", 1)[0]
@@ -205,6 +213,7 @@ def integrated_reader(template: str, document: str, path: str) -> str:
     return head + '''<link rel="stylesheet" href="/css/verification.css">
 <link rel="stylesheet" href="/css/verwijzing-popup.css">
 <link rel="stylesheet" href="/css/print.css" media="print">
+<script src="/js/reading-support.js?v=1" defer></script>
 <noscript><style>#mobile-footer-nav,#chapter-footer,.chapter-swipe-nav {display:none!important}</style></noscript>
 </head><body class="opv-lezerpagina opw-hoofdstukpagina">''' + skip + body + '</body></html>\n'
 
@@ -233,7 +242,7 @@ def build_site(root: Path = ROOT) -> dict:
     sequence = [(book, chapter) for book in books for chapter in book["chapters"]]
     # De bron heeft geen publicatiedatum: checkouttijd is geen inhoudswijziging.
     # Daarom geen verzonnen lastmod-datums in de sitemap.
-    urls = [("/", None), ("/over-opv.html", None), ("/bijbel/", None)]
+    urls = [("/", None), ("/over-opv.html", None), ("/bijbel/", None), ("/woordenboek.html", None)]
     guide = f'''# {NAME} — de Bijbel in eenvoudig Nederlands
 
 > Gods Woord in begrijpelijke taal. Nederlandse parafrase van de Bijbel. Proefversie: alle verzen hebben de status concept. De Bijbeltekst is publiek domein.
@@ -242,6 +251,7 @@ Er zijn {len(books)} boeken en {len(sequence)} hoofdstukken beschikbaar. De coll
 
 ## Lezen en vinden
 - [Alle Bijbelboeken]({BASE}/bijbel/): boekenoverzicht met links naar ieder hoofdstuk; volledig leesbaar zonder JavaScript.
+- [Woordenboek]({BASE}/woordenboek.html): bestaande begrippenverklaringen, met conceptstatus.
 - [Over de weergave]({BASE}/over-opv.html): doelgroep, bronbeleid, proefstatus en hergebruik.
 - [Volledige tekst]({BASE}/llms-full.txt): alle beschikbare hoofdstukken als UTF-8-tekst; groot bestand.
 - [Sitemap]({BASE}/sitemap.xml): canonieke HTML-adressen van boeken en hoofdstukken.
@@ -303,9 +313,9 @@ Hoofdstukken staan op `/bijbel/BOEK/NUMMER.html`, met dezelfde tekst als platte 
         minutes = max(1, int(sum(len(v['tekst'].split()) for v in chapter['verzen']) / 150 + .5))
         read_time = '1 minuut' if minutes == 1 else f'ongeveer {minutes} minuten'
         chapter_images = [scene for scene in book_images.get(book['id'], []) if scene['chapter'] == number]
-        illustration = ('<div class="opw-hoofdstukbeelden" aria-label="Beelden bij dit hoofdstuk">' +
-                        ''.join(f'<figure class="opw-hoofdstukbeeld"><img src="/images/boekseries/{book["id"]}/{scene["file"]}" width="1536" height="1024" alt="{escape(scene["alt"], quote=True)}" loading="lazy"></figure>' for scene in chapter_images) +
-                        '</div>') if chapter_images else ''
+        illustration = ('<aside class="opw-hoofdstukbeelden" aria-label="Beelden en locaties bij dit hoofdstuk">' +
+                        ''.join(reading_image(book['id'], scene) for scene in chapter_images) +
+                        '</aside>') if chapter_images else ''
         body = f'''<section class="opw-leesindeling{' heeft-beelden' if chapter_images else ''}">
 <div class="opw-leeskolom"><header class="opv-hoofdstukkop" aria-labelledby="hoofdstuk-titel">
 <p class="opv-boven">{escape(GROUPS.get(book['testament'], 'Bijbel'))}</p>
