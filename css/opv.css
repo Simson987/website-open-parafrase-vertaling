@@ -34,7 +34,6 @@
     --opv-sans: 'Lexend', system-ui, -apple-system, 'Segoe UI', sans-serif;
     --opv-fs: 20px;
     --opv-lh: 1.78;
-    --opv-zus-h: 36px;
     --opv-balk-h: 68px;
 
     color-scheme: light;
@@ -84,9 +83,6 @@
 @media (max-width: 768px) {
     :root { --opv-fs: 19px; --opv-lh: 1.75; --opv-balk-h: 56px; }
 }
-@media (pointer: coarse) {
-    :root { --opv-zus-h: 44px; }
-}
 
 /* ---------- 2. Basis ---------- */
 html, body { background: var(--opv-paper); }
@@ -126,7 +122,8 @@ html { scrollbar-color: var(--opv-sand-line) transparent; }
 .opv-pil::before { content: ""; width: 7px; height: 7px; border-radius: 50%; background: var(--opv-accent); }
 
 /* ---------- 3. Bovenbalk ---------- */
-/* De zustersites-strook schuift weg; de balk eronder blijft staan. */
+/* De zustersites-strook (js/topnav.js, familiestrook) staat erboven en schuift weg;
+   de balk blijft staan. */
 #topnav {
     display: block;
     height: auto;
@@ -135,29 +132,10 @@ html { scrollbar-color: var(--opv-sand-line) transparent; }
     color: var(--opv-ink);
     border-bottom: 0;
     position: sticky;
-    top: calc(-1 * var(--opv-zus-h));
+    top: 0;
     z-index: 300;
     font-family: var(--opv-sans);
 }
-.opv-zus {
-    display: flex; align-items: center; gap: 0 18px;
-    height: var(--opv-zus-h);
-    padding: 0 24px;
-    background: #142e42;
-    color: #c9d3da;
-    font-size: 12.5px;
-    white-space: nowrap;
-    overflow: hidden;
-}
-:root[data-theme="donker"] .opv-zus { background: #0a141c; }
-.opv-zus-l { color: #93a6b4; letter-spacing: .08em; text-transform: uppercase; font-size: 11px; }
-#topnav .opv-zus a, :root[data-theme="donker"] #topnav .opv-zus a {
-    display: inline-block; height: 100%; line-height: calc(var(--opv-zus-h) - 4px);
-    color: #e6ebef; text-decoration: none;
-    border-bottom: 2px solid transparent; box-sizing: border-box; padding-top: 2px;
-}
-#topnav .opv-zus a:hover { color: #fff; border-bottom-color: rgba(203, 164, 73, .5); }
-#topnav .opv-zus a[aria-current] { color: #fff; border-bottom-color: #cba449; }
 .opv-ext { margin-left: .25em; font-size: .9em; opacity: .7; }
 
 .opv-balk {
@@ -884,13 +862,10 @@ body.dyslexia-mode .opv-voorbeeld { font-family: var(--opv-sans); font-size: cal
 
 /* ---------- 11. Mobiel: bovenbalk en duimbalk ---------- */
 @media (max-width: 768px) {
-    .opv-zus { padding: 0 16px; gap: 0 14px; font-size: 12px; }
-    .opv-zus-l { display: none; }
     .opv-balk { grid-template-columns: auto minmax(0, 1fr) auto; padding: 0 6px 0 14px; gap: 6px; }
     .opv-zon { width: 36px; height: 36px; }
     .opv-carey { width: 32px; height: 32px; }
     .opv-merk { gap: 6px; }
-    .opv-zus .opv-lang { display: none; }
     .opv-merk-naam { display: none; }
     html.opv-startscherm .opv-merk-naam, body:not(.opv-lezerpagina) .opv-merk-naam { display: inline; font-size: 16px; max-width: 140px; }
     .opv-hfst {

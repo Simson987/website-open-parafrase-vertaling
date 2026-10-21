@@ -116,7 +116,7 @@ def page(title: str, description: str, path: str, body: str, crumbs: list[tuple[
 <script src="/js/sites.js" defer></script>
 <link rel="stylesheet" href="/css/fonts.css">
 <link rel="stylesheet" href="/css/style.css">
-<link rel="stylesheet" href="/css/opv.css?v=1.0.3">
+<link rel="stylesheet" href="/css/opv.css?v=1.0.4">
 <link rel="stylesheet" href="/css/leespaginas.css?v=1.0.2">
 </head>
 <body class="opw-statisch">
@@ -125,7 +125,7 @@ def page(title: str, description: str, path: str, body: str, crumbs: list[tuple[
 <a class="opv-merk" href="/"><img class="opv-carey" src="/images/branding/william-carey-missions.png" width="40" height="40" alt="William Carey"><span class="opv-merk-naam">{NAME}<small>Gods Woord in begrijpelijke taal</small></span></a>
 <nav aria-label="Hoofdmenu"><a href="/bijbel/">Alle boeken</a><a href="{escape(reader_path)}">Lezen</a><a href="/over-opv.html">Over OPW</a></nav>
 </header>
-<script src="/js/topnav.js?v=0.38.6"></script>
+<script src="/js/topnav.js?v=0.38.7"></script>
 <main class="opv-pagina" id="inhoud" tabindex="-1">
 <nav class="opw-kruimels" aria-label="Broodkruimelpad">{breadcrumb}</nav>
 {body}
