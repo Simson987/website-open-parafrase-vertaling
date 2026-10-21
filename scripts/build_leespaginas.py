@@ -306,14 +306,16 @@ Hoofdstukken staan op `/bijbel/BOEK/NUMMER.html`, met dezelfde tekst als platte 
         illustration = ('<div class="opw-hoofdstukbeelden" aria-label="Beelden bij dit hoofdstuk">' +
                         ''.join(f'<figure class="opw-hoofdstukbeeld"><img src="/images/boekseries/{book["id"]}/{scene["file"]}" width="1536" height="1024" alt="{escape(scene["alt"], quote=True)}" loading="lazy"></figure>' for scene in chapter_images) +
                         '</div>') if chapter_images else ''
-        body = f'''<header class="opv-hoofdstukkop" aria-labelledby="hoofdstuk-titel">
+        body = f'''<section class="opw-leesindeling{' heeft-beelden' if chapter_images else ''}">
+<div class="opw-leeskolom"><header class="opv-hoofdstukkop" aria-labelledby="hoofdstuk-titel">
 <p class="opv-boven">{escape(GROUPS.get(book['testament'], 'Bijbel'))}</p>
 <h1 class="opv-titel" id="hoofdstuk-titel">{escape(ref)}</h1>
 {subtitle}
 <div class="opv-meta"><span class="opv-pil" title="Alle verzen hebben nog de status concept">Proeftekst</span><span>Gods Woord in begrijpelijke taal · {read_time}</span></div>
 </header>
+<div class="opw-bijbeltekst">{''.join(verses)}</div></div>
 {illustration}
-<div class="opw-bijbeltekst">{''.join(verses)}</div>
+</section>
 <nav class="opw-hoofdstuknav" aria-label="Hoofdstukken">{''.join(navigation)}</nav>
 <p class="opw-tekstdownload"><a href="{path.removesuffix('.html')}.txt" download>Download hoofdstuk als tekstbestand</a></p>'''
         work = {"@type": "Chapter", "@id": BASE + path + "#hoofdstuk", "name": f"{ref}: {heading}",

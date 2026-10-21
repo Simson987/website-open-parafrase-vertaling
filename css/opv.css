@@ -361,7 +361,7 @@ html.opv-startscherm .opv-hfst { display: none !important; }
     background: transparent;
 }
 #content #verses-container {
-    max-width: 36em;
+    max-width: 68em;
     margin: 0 auto;
     padding: 56px 24px 8px;
     font-size: var(--opv-fs);
@@ -370,6 +370,30 @@ html.opv-startscherm .opv-hfst { display: none !important; }
     font-family: var(--opv-serif);
     text-wrap: pretty;
     hyphens: manual;
+}
+.opw-leesindeling {
+    max-width: 36em;
+    margin: 0 auto;
+}
+.opw-leesindeling.heeft-beelden {
+    max-width: 68em;
+    display: grid;
+    grid-template-columns: minmax(0, 36em) minmax(220px, 17em);
+    justify-content: center;
+    align-items: start;
+    gap: clamp(24px, 4vw, 64px);
+}
+.opw-leeskolom { min-width: 0; }
+.opw-leesindeling .opw-hoofdstukbeelden {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 16px;
+    margin: 0;
+}
+.opw-leesindeling .opw-hoofdstukbeeld img { width: 100%; }
+@media (max-width: 800px) {
+    .opw-leesindeling.heeft-beelden { grid-template-columns: minmax(0, 36em); }
+    .opw-leesindeling .opw-hoofdstukbeelden { grid-template-columns: repeat(auto-fit, minmax(min(100%, 200px), 1fr)); margin-top: 28px; }
 }
 
 /* Hoofdstukkop: titel eerst, nummer klein erboven */
