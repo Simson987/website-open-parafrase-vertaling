@@ -218,31 +218,11 @@
       "file": "135-3.webp"
     }
   ],
-  "pending_images": [
-    {
-      "book": "psalmen",
-      "chapter": 134,
-      "verse": 3,
-      "scene": "Zegen van de Schepper",
-      "prompt": "Use case: historical-scene. Asset type: Bible chapter illustration. Fully photorealistic natural photograph, landscape 3:2, 1536x1024. Ancient Near East, historically simple linen and wool garments and sandals. All people fully clothed, exactly two arms each, natural five-finger hands and believable animal anatomy. No modern objects, text, watermark, painting, CGI, medieval architecture or human depiction of God. Poetic illustration of local Psalm 134:3. A wide luminous sunrise over Judean mountains and a modest ancient hill village, no deity or symbols, natural photograph."
-    },
-    {
-      "book": "psalmen",
-      "chapter": 135,
-      "verse": 7,
-      "scene": "Wolken, bliksem en regen",
-      "prompt": "Use case: historical-scene. Asset type: Bible chapter illustration. Fully photorealistic natural photograph, landscape 3:2, 1536x1024. Ancient Near East, historically simple linen and wool garments and sandals. All people fully clothed, exactly two arms each, natural five-finger hands and believable animal anatomy. No modern objects, text, watermark, painting, CGI, medieval architecture or human depiction of God. Poetic illustration of local Psalm 135:7. A real thunderstorm brings lightning and rain over a barren mountain valley, dramatic clouds and natural lighting, no people."
-    },
-    {
-      "book": "psalmen",
-      "chapter": 135,
-      "verse": 15,
-      "scene": "Stomme afgoden van metaal",
-      "prompt": "Use case: historical-scene. Asset type: Bible chapter illustration. Fully photorealistic natural photograph, landscape 3:2, 1536x1024. Ancient Near East, historically simple linen and wool garments and sandals. All people fully clothed, exactly two arms each, natural five-finger hands and believable animal anatomy. No modern objects, text, watermark, painting, CGI, medieval architecture or human depiction of God. Poetic illustration of local Psalm 135:15. Small lifeless silver and gold ancient idols sit on a dusty shelf beside simple metalworking tools, sober natural still life, no divine glow."
-    }
-  ],
+  "pending_images": [],
   "limitation": {
     "type": "usage_limit_reached",
     "resets_at_utc": "2026-10-22T04:00:30Z"
-  }
+  },
+  "resumed_at_utc": "2026-10-22T04:19:16Z",
+  "pending_images_resolved_at_utc": "2026-10-22T05:17:40.712692+00:00"
 }

@@ -218,24 +218,11 @@
       "file": "125-1.webp"
     }
   ],
-  "pending_images": [
-    {
-      "book": "psalmen",
-      "chapter": 125,
-      "verse": 2,
-      "scene": "Bergen rondom Jeruzalem",
-      "prompt": "Use case: historical-scene. Asset type: Bible chapter illustration. Fully photorealistic natural photograph, landscape 3:2, 1536x1024. Ancient Near East, historically simple linen and wool garments and sandals. All people fully clothed, exactly two arms each, natural five-finger hands and believable animal anatomy. No modern objects, text, watermark, painting, CGI, medieval architecture or human depiction of God. Poetic illustration of local Psalm 125:2. Wide elevated natural view across ridges surrounding a small ancient Jerusalem of simple flat roof stone houses, no dome or minaret or medieval tower."
-    },
-    {
-      "book": "psalmen",
-      "chapter": 125,
-      "verse": 4,
-      "scene": "Goedheid voor oprechte mensen",
-      "prompt": "Use case: historical-scene. Asset type: Bible chapter illustration. Fully photorealistic natural photograph, landscape 3:2, 1536x1024. Ancient Near East, historically simple linen and wool garments and sandals. All people fully clothed, exactly two arms each, natural five-finger hands and believable animal anatomy. No modern objects, text, watermark, painting, CGI, medieval architecture or human depiction of God. Poetic illustration of local Psalm 125:4. An ancient family helps an elderly neighbor carry a basket of harvested grain into a simple stone courtyard, natural hands, modest linen robes."
-    }
-  ],
+  "pending_images": [],
   "limitation": {
     "type": "usage_limit_reached",
     "resets_at_utc": "2026-10-22T04:00:30Z"
-  }
+  },
+  "resumed_at_utc": "2026-10-22T04:19:16Z",
+  "pending_images_resolved_at_utc": "2026-10-22T05:17:40.634734+00:00"
 }

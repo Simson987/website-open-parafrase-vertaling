@@ -210,38 +210,11 @@
       "file": "144-2.webp"
     }
   ],
-  "pending_images": [
-    {
-      "book": "psalmen",
-      "chapter": 144,
-      "verse": 13,
-      "scene": "Volle schuren en talrijke kudden",
-      "prompt": "Use case: historical-scene. Asset type: Bible chapter illustration. Fully photorealistic natural photograph, landscape 3:2, 1536x1024. Ancient Near East, historically simple linen and wool garments and sandals. All people fully clothed, exactly two arms each, natural five-finger hands and believable animal anatomy. No modern objects, text, watermark, painting, CGI, medieval architecture or human depiction of God. Poetic illustration of local Psalm 144:13. An ancient grain store with baskets and sacks of harvest, a flock of natural sheep grazing beyond an open courtyard gate, late afternoon light."
-    },
-    {
-      "book": "psalmen",
-      "chapter": 145,
-      "verse": 4,
-      "scene": "Het ene geslacht vertelt het andere",
-      "prompt": "Use case: historical-scene. Asset type: Bible chapter illustration. Fully photorealistic natural photograph, landscape 3:2, 1536x1024. Ancient Near East, historically simple linen and wool garments and sandals. All people fully clothed, exactly two arms each, natural five-finger hands and believable animal anatomy. No modern objects, text, watermark, painting, CGI, medieval architecture or human depiction of God. Poetic illustration of local Psalm 145:4. An ancient grandmother tells a story to three fully clothed grandchildren beside an olive tree, attentive joyful faces, modest linen robes."
-    },
-    {
-      "book": "psalmen",
-      "chapter": 145,
-      "verse": 14,
-      "scene": "Wie gebogen is wordt opgericht",
-      "prompt": "Use case: historical-scene. Asset type: Bible chapter illustration. Fully photorealistic natural photograph, landscape 3:2, 1536x1024. Ancient Near East, historically simple linen and wool garments and sandals. All people fully clothed, exactly two arms each, natural five-finger hands and believable animal anatomy. No modern objects, text, watermark, painting, CGI, medieval architecture or human depiction of God. Poetic illustration of local Psalm 145:14. Two compassionate ancient neighbors support an elderly adult rising from a low stone bench, realistic anatomy and separate natural arms, dignity."
-    },
-    {
-      "book": "psalmen",
-      "chapter": 145,
-      "verse": 15,
-      "scene": "Voedsel op de juiste tijd",
-      "prompt": "Use case: historical-scene. Asset type: Bible chapter illustration. Fully photorealistic natural photograph, landscape 3:2, 1536x1024. Ancient Near East, historically simple linen and wool garments and sandals. All people fully clothed, exactly two arms each, natural five-finger hands and believable animal anatomy. No modern objects, text, watermark, painting, CGI, medieval architecture or human depiction of God. Poetic illustration of local Psalm 145:15. Birds and sheep gather near a green spring with natural grasses in a Judean valley, accurate animal anatomy, warm morning wildlife photograph."
-    }
-  ],
+  "pending_images": [],
   "limitation": {
     "type": "usage_limit_reached",
     "resets_at_utc": "2026-10-22T04:00:30Z"
-  }
+  },
+  "resumed_at_utc": "2026-10-22T04:19:16Z",
+  "pending_images_resolved_at_utc": "2026-10-22T05:17:40.654389+00:00"
 }
