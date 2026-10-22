@@ -112,7 +112,7 @@
     nav.setAttribute('aria-label', 'Hoofdmenu');
     nav.innerHTML =
         '<div class="opv-balk">' +
-            '<a class="topnav-brand-link opv-merk" href="index.html" aria-label="Open Parafrase Weergave, naar de startpagina">' + ZON + '<img class="opv-carey" src="images/branding/william-carey-missions.png" width="40" height="40" alt="William Carey">' +
+            '<a class="topnav-brand-link opv-merk" href="index.html" aria-label="Open Parafrase Weergave, naar de startpagina">' + ZON +
                 '<span class="opv-merk-naam">Open Parafrase Weergave<small>Gods Woord in begrijpelijke taal</small></span>' +
             '</a>' +
             (lezer ? '<button type="button" class="opv-hfst" id="opv-hfst" aria-label="Kies boek en hoofdstuk" aria-haspopup="dialog">' +
