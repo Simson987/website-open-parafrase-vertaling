@@ -3,7 +3,7 @@
   "images": [],
   "run_started_at_utc": "2026-10-21T23:22:05Z",
   "baseline_commit": "f93e878",
-  "status": "generation_blocked_until_reset",
+  "status": "resumed_after_reset",
   "limitation": {
     "http_status": 429,
     "type": "usage_limit_reached",
@@ -46,5 +46,6 @@
     "chapter": 125
   },
   "site_build": "passed",
-  "source_asset_and_generated_page_checks": "passed"
+  "source_asset_and_generated_page_checks": "passed",
+  "resumed_at_utc": "2026-10-22T04:20:42Z"
 }
