@@ -121,7 +121,7 @@ def page(title: str, description: str, path: str, body: str, crumbs: list[tuple[
 <script src="/js/sites.js" defer></script>
 <link rel="stylesheet" href="/css/fonts.css">
 <link rel="stylesheet" href="/css/style.css">
-<link rel="stylesheet" href="/css/opv.css?v=1.0.3">
+<link rel="stylesheet" href="/css/opv.css?v=1.0.5">
 <link rel="stylesheet" href="/css/leespaginas.css?v=1.0.2">
 </head>
 <body class="opw-statisch">
@@ -130,7 +130,7 @@ def page(title: str, description: str, path: str, body: str, crumbs: list[tuple[
 <a class="opv-merk" href="/"><span class="opv-merk-naam">{NAME}<small>Gods Woord in begrijpelijke taal</small></span></a>
 <nav aria-label="Hoofdmenu"><a href="/bijbel/">Alle boeken</a><a href="{escape(reader_path)}">Lezen</a><a href="/over-opv.html">Over OPW</a></nav>
 </header>
-<script src="/js/topnav.js?v=0.38.6"></script>
+<script src="/js/topnav.js?v=0.38.7"></script>
 <main class="opv-pagina" id="inhoud" tabindex="-1">
 <nav class="opw-kruimels" aria-label="Broodkruimelpad">{breadcrumb}</nav>
 {body}
@@ -313,10 +313,18 @@ Hoofdstukken staan op `/bijbel/BOEK/NUMMER.html`, met dezelfde tekst als platte 
         minutes = max(1, int(sum(len(v['tekst'].split()) for v in chapter['verzen']) / 150 + .5))
         read_time = '1 minuut' if minutes == 1 else f'ongeveer {minutes} minuten'
         chapter_images = [scene for scene in book_images.get(book['id'], []) if scene['chapter'] == number]
+        legacy_image = f"/images/hoofdstukken/{book['id']}/{number}.webp"
+        has_legacy = (root / legacy_image.lstrip('/')).is_file()
+        chapter_cover = (f"/images/boekseries/{book['id']}/{chapter_images[0]['file']}" if chapter_images
+                         else legacy_image if has_legacy else f"/images/boeken/{book['id']}.webp")
         illustration = ('<aside class="opw-hoofdstukbeelden" aria-label="Beelden en locaties bij dit hoofdstuk">' +
                         ''.join(reading_image(book['id'], scene) for scene in chapter_images) +
                         '</aside>') if chapter_images else ''
-        body = f'''<section class="opw-leesindeling{' heeft-beelden' if chapter_images else ''}">
+        if not chapter_images and has_legacy:
+            illustration = (f'<aside class="opw-hoofdstukbeelden" aria-label="Beeld bij dit hoofdstuk">'
+                            f'<figure class="opw-hoofdstukbeeld"><img src="{legacy_image}" width="1536" height="1024" '
+                            f'alt="Illustratie bij {escape(ref)}: {escape(heading, quote=True)}" loading="lazy"></figure></aside>')
+        body = f'''<section class="opw-leesindeling{' heeft-beelden' if illustration else ''}">
 <div class="opw-leeskolom"><header class="opv-hoofdstukkop" aria-labelledby="hoofdstuk-titel">
 <p class="opv-boven">{escape(GROUPS.get(book['testament'], 'Bijbel'))}</p>
 <h1 class="opv-titel" id="hoofdstuk-titel">{escape(ref)}</h1>
@@ -336,7 +344,7 @@ Hoofdstukken staan op `/bijbel/BOEK/NUMMER.html`, met dezelfde tekst als platte 
         document = page(f"{ref} — {heading}", description, path, body,
               [("Start", "/"), ("Bijbel", "/bijbel/"), (book["nameDutch"], f"/bijbel/{book['id']}/"), (ref, path)], work, path.removesuffix(".html") + ".txt",
               reader_path=path,
-              image=f"/images/boekseries/{book['id']}/{chapter_images[0]['file']}" if chapter_images else f"/images/boeken/{book['id']}.webp",
+              image=chapter_cover,
               image_alt=f"Illustratie bij {ref}: {heading}")
         write(root / path.lstrip("/"), integrated_reader(reader_template, document, path))
         urls.append((path, None))
