@@ -1,6 +1,6 @@
 {
   "source": "Open Parafrase Weergave — beelden bij alle gepubliceerde boeken",
-  "description": "Fotorealistische beelden bij hoofdstukken. Doel: drie verschillende beelden per gepubliceerd hoofdstuk; de uitbreiding is in uitvoering.",
+  "description": "Minimaal drie basisbeelden per hoofdstuk. Extra scènes, stambomen, schema’s en poëtische beelden worden per hoofdstuk inhoudelijk gekozen; het aantal kan oplopen tot tien of meer.",
   "books": {
     "genesis": [
       {
@@ -1050,6 +1050,386 @@
         "file": "50-21.webp",
         "alt": "Beeld bij Genesis 50: Jozef stelt zijn broers gerust",
         "scene": "Jozef stelt zijn broers gerust"
+      },
+      {
+        "chapter": 1,
+        "verse": 31,
+        "file": "1-scheppingsdagen.svg",
+        "scene": "Schepping: dag voor dag",
+        "alt": "Overzicht van de zes scheppingsdagen uit Genesis 1 en de rustdag uit Genesis 2:1–3.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1330
+      },
+      {
+        "chapter": 2,
+        "verse": 10,
+        "file": "2-vier-rivieren.svg",
+        "scene": "De rivier splitst zich",
+        "alt": "Vanuit Eden stroomt één rivier die zich splitst in Pison, Gihon, Hiddekel en Frath. De ligging van Eden wordt niet op een kaart vastgelegd.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1118
+      },
+      {
+        "chapter": 4,
+        "verse": 18,
+        "file": "4-familie-kain.svg",
+        "scene": "De familie van Kaïn",
+        "alt": "Kaïn is de vader van Henoch; Henoch van Hirad; Hirad van Mechujael; Mechujael van Methusael; Methusael van Lamech. Lamech en Ada krijgen Jabal en Jubal; Lamech en Zilla krijgen Tubal-Kaïn en Naema.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1032
+      },
+      {
+        "chapter": 5,
+        "verse": 3,
+        "file": "5-stamboom-adam-noach.svg",
+        "scene": "Van Adam naar Noach",
+        "alt": "Stamboom: Adam, Seth, Enos, Kenan, Mahalal-el, Jered, Henoch, Methusalach, Lamech, Noach. Noachs zonen zijn Sem, Cham en Jafeth. Elke opeenvolgende naam is een zoon van de voorgaande.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1813
+      },
+      {
+        "chapter": 6,
+        "verse": 15,
+        "file": "6-ark-afmetingen.svg",
+        "scene": "De ark volgens de tekst",
+        "alt": "De ark: 300 el lang, 50 el breed en 30 el hoog, met drie verdiepingen, kamers, een lichtopening en een zijdeur; van goferhout en met pek bestreken.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1048
+      },
+      {
+        "chapter": 10,
+        "verse": 2,
+        "file": "10-nakomelingen-jafeth.svg",
+        "scene": "De nakomelingen van Jafeth",
+        "alt": "Jafeth heeft zonen Gomer, Magog, Madai, Javan, Tubal, Mesech en Thiras. Gomers zonen zijn Askenaz, Rifath en Togarma. Javans nakomelingen zijn Elisa, Tarsis, de Chittieten en de Dodanieten.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1012
+      },
+      {
+        "chapter": 10,
+        "verse": 6,
+        "file": "10-nakomelingen-cham.svg",
+        "scene": "De nakomelingen van Cham",
+        "alt": "Chams zonen zijn Cusch, Mitsraim, Put en Kanaän. Het schema splitst de genoemde nakomelingen van Cusch, Raema, Mitsraim en Kanaän uit volgens Genesis 10:6–20.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1482
+      },
+      {
+        "chapter": 10,
+        "verse": 21,
+        "file": "10-nakomelingen-sem.svg",
+        "scene": "De nakomelingen van Sem",
+        "alt": "Sems zonen: Elam, Assur, Arfachsad, Lud en Aram. Arams zonen: Uz, Hul, Gether en Maz. Arfachsad krijgt Selah; Selah Heber; Heber Peleg en Joktan. Joktans dertien genoemde zonen staan afzonderlijk vermeld.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1048
+      },
+      {
+        "chapter": 11,
+        "verse": 10,
+        "file": "11-stamboom-sem-abram.svg",
+        "scene": "Van Sem naar Abram",
+        "alt": "Afstammingslijn Sem, Arfachsad, Selah, Heber, Peleg, Rehu, Serug, Nahor, Terah. Terahs zonen zijn Abram, Nahor en Haran. Harans kinderen zijn Lot, Milka en Jiska; Abram trouwt met Sarai en Nahor met Milka.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1111
+      },
+      {
+        "chapter": 1,
+        "verse": 6,
+        "scene": "Het gewelf tussen de wateren",
+        "alt": "Het gewelf tussen de wateren — Genesis 1:6",
+        "file": "1-6-uitbreiding.webp",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 1,
+        "verse": 11,
+        "scene": "Planten die zaad en vruchten dragen",
+        "alt": "Planten die zaad en vruchten dragen — Genesis 1:11",
+        "file": "1-11-uitbreiding.webp",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 1,
+        "verse": 16,
+        "scene": "Maan en sterren aan de hemel",
+        "alt": "Maan en sterren aan de hemel — Genesis 1:16",
+        "file": "1-16-uitbreiding.webp",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 1,
+        "verse": 20,
+        "scene": "Leven in de zee en vogels in de lucht",
+        "alt": "Leven in de zee en vogels in de lucht — Genesis 1:20",
+        "file": "1-20-uitbreiding.webp",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 1,
+        "verse": 27,
+        "scene": "Man en vrouw geschapen",
+        "alt": "Man en vrouw geschapen — Genesis 1:27",
+        "file": "1-27-uitbreiding.webp",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 1,
+        "verse": 29,
+        "scene": "Vruchten en zaden als voedsel",
+        "alt": "Vruchten en zaden als voedsel — Genesis 1:29",
+        "file": "1-29-uitbreiding.webp",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 2,
+        "verse": 6,
+        "scene": "Damp maakt de aarde vochtig",
+        "alt": "Damp maakt de aarde vochtig — Genesis 2:6",
+        "file": "2-6-uitbreiding.webp",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 2,
+        "verse": 15,
+        "scene": "De tuin bewerken en bewaken",
+        "alt": "De tuin bewerken en bewaken — Genesis 2:15",
+        "file": "2-15-uitbreiding.webp",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 3,
+        "verse": 7,
+        "scene": "Vijgenbladeren als bedekking",
+        "alt": "Vijgenbladeren als bedekking — Genesis 3:7",
+        "file": "3-7-uitbreiding.webp",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 3,
+        "verse": 8,
+        "scene": "Adam en Eva verbergen zich",
+        "alt": "Adam en Eva verbergen zich — Genesis 3:8",
+        "file": "3-8-uitbreiding.webp",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 3,
+        "verse": 21,
+        "scene": "Gekleed in dierenhuiden",
+        "alt": "Gekleed in dierenhuiden — Genesis 3:21",
+        "file": "3-21-uitbreiding.webp",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 4,
+        "verse": 17,
+        "scene": "Kaïn bouwt de stad Henoch",
+        "alt": "Kaïn bouwt de stad Henoch — Genesis 4:17",
+        "file": "4-17-uitbreiding.webp",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 4,
+        "verse": 20,
+        "scene": "Jabal bij tenten en kudden",
+        "alt": "Jabal bij tenten en kudden — Genesis 4:20",
+        "file": "4-20-uitbreiding.webp",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 4,
+        "verse": 21,
+        "scene": "Jubal maakt muziek",
+        "alt": "Jubal maakt muziek — Genesis 4:21",
+        "file": "4-21-uitbreiding.webp",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 4,
+        "verse": 22,
+        "scene": "Tubal-Kaïn bewerkt metaal",
+        "alt": "Tubal-Kaïn bewerkt metaal — Genesis 4:22",
+        "file": "4-22-uitbreiding.webp",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 6,
+        "verse": 14,
+        "scene": "De ark met pek bestrijken",
+        "alt": "De ark met pek bestrijken — Genesis 6:14",
+        "file": "6-14-uitbreiding.webp",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 6,
+        "verse": 21,
+        "scene": "Voedsel voor het gezin en de dieren",
+        "alt": "Voedsel voor het gezin en de dieren — Genesis 6:21",
+        "file": "6-21-uitbreiding.webp",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 7,
+        "verse": 11,
+        "scene": "De stortregen begint",
+        "alt": "De stortregen begint — Genesis 7:11",
+        "file": "7-11-uitbreiding.webp",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 7,
+        "verse": 19,
+        "scene": "Zelfs de bergen zijn bedekt",
+        "alt": "Zelfs de bergen zijn bedekt — Genesis 7:19",
+        "file": "7-19-uitbreiding.webp",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 8,
+        "verse": 4,
+        "scene": "De ark rust op Ararat",
+        "alt": "De ark rust op Ararat — Genesis 8:4",
+        "file": "8-4-uitbreiding.webp",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 8,
+        "verse": 7,
+        "scene": "Noach laat de raaf los",
+        "alt": "Noach laat de raaf los — Genesis 8:7",
+        "file": "8-7-uitbreiding.webp",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 8,
+        "verse": 13,
+        "scene": "Noach kijkt naar droge aarde",
+        "alt": "Noach kijkt naar droge aarde — Genesis 8:13",
+        "file": "8-13-uitbreiding.webp",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 8,
+        "verse": 18,
+        "scene": "Het gezin verlaat de ark",
+        "alt": "Het gezin verlaat de ark — Genesis 8:18",
+        "file": "8-18-uitbreiding.webp",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 8,
+        "verse": 22,
+        "scene": "Zaaien en oogsten blijven doorgaan",
+        "alt": "Zaaien en oogsten blijven doorgaan — Genesis 8:22",
+        "file": "8-22-uitbreiding.webp",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 9,
+        "verse": 9,
+        "scene": "Het verbond met Noach en zijn zonen",
+        "alt": "Het verbond met Noach en zijn zonen — Genesis 9:9",
+        "file": "9-9-uitbreiding.webp",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 9,
+        "verse": 23,
+        "scene": "Sem en Jafeth bedekken hun vader",
+        "alt": "Sem en Jafeth bedekken hun vader — Genesis 9:23",
+        "file": "9-23-uitbreiding.webp",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 11,
+        "verse": 3,
+        "scene": "Bakstenen bakken in Sinear",
+        "alt": "Bakstenen bakken in Sinear — Genesis 11:3",
+        "file": "11-3-uitbreiding.webp",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 11,
+        "verse": 7,
+        "scene": "De taal wordt verward",
+        "alt": "De taal wordt verward — Genesis 11:7",
+        "file": "11-7-uitbreiding.webp",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 11,
+        "verse": 31,
+        "scene": "Aankomst in Haran",
+        "alt": "Aankomst in Haran — Genesis 11:31",
+        "file": "11-31-uitbreiding.webp",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       }
     ],
     "exodus": [
@@ -8183,6 +8563,36 @@
         "file": "147-2.webp",
         "alt": "Beeld bij Psalmen 147: Jeruzalem wordt herbouwd",
         "scene": "Jeruzalem wordt herbouwd"
+      },
+      {
+        "chapter": 1,
+        "verse": 6,
+        "file": "1-twee-wegen.svg",
+        "scene": "Twee wegen in Psalm 1",
+        "alt": "Psalm 1 vergelijkt twee wegen: de rechtvaardige als een vruchtbare boom aan het water en de goddeloze als kaf in de wind. Vers 6 sluit beide wegen af.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 949
+      },
+      {
+        "chapter": 23,
+        "verse": 6,
+        "file": "23-opbouw-psalm.svg",
+        "scene": "Van herder naar gastheer",
+        "alt": "Opbouw van Psalm 23: de herder leidt en geeft rust; in het dal spreekt de dichter God aan; de gastheer geeft een tafel, olie en overvloed; trouw en Gods huis vormen de afsluiting.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1098
+      },
+      {
+        "chapter": 23,
+        "verse": 5,
+        "scene": "Beeldspraak: gezalfd met olie",
+        "alt": "Beeldspraak: gezalfd met olie — Psalm 23:5",
+        "file": "23-5-uitbreiding.webp",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       }
     ],
     "spreuken": [

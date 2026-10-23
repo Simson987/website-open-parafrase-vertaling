@@ -191,10 +191,18 @@ def verse_html(verse: dict) -> str:
 
 def reading_image(book_id: str, scene: dict) -> str:
     anchor = f' data-verse="{int(scene["verse"])}"' if scene.get("verse") else ""
-    return (f'<figure class="opw-hoofdstukbeeld"{anchor}>'
+    illustration = (
             f'<img src="/images/boekseries/{book_id}/{escape(scene["file"], quote=True)}" '
-            f'width="1536" height="1024" alt="{escape(scene["alt"], quote=True)}" loading="lazy">'
-            f'<figcaption>{escape(scene["scene"])}</figcaption></figure>')
+            f'width="{int(scene.get("width", 1536))}" height="{int(scene.get("height", 1024))}" '
+            f'alt="{escape(scene["alt"], quote=True)}" loading="lazy">')
+    if scene.get("kind") == "diagram":
+        illustration = (f'<a href="/images/boekseries/{book_id}/{escape(scene["file"], quote=True)}" '
+                        f'target="_blank" rel="noopener" aria-label="Schema vergroot bekijken: '
+                        f'{escape(scene["scene"], quote=True)}">{illustration}</a>')
+    return (f'<figure class="opw-hoofdstukbeeld"{anchor}>{illustration}'
+            f'<figcaption>{escape(scene["scene"])}'
+            + (' · Klik om te vergroten' if scene.get("kind") == "diagram" else '')
+            + '</figcaption></figure>')
 
 
 def integrated_reader(template: str, document: str, path: str) -> str:
@@ -230,9 +238,6 @@ def build_site(root: Path = ROOT) -> dict:
         if not scenes or len({scene["file"] for scene in scenes}) != len(scenes):
             raise ValueError(f"Boekbeelden ontbreken of bestandsnamen zijn dubbel voor {book_id}")
         chapters = {chapter["hoofdstuk"] for chapter in catalog_by_id[book_id]["chapters"]}
-        chapter_counts = {chapter: sum(scene["chapter"] == chapter for scene in scenes) for chapter in chapters}
-        if any(count > 3 for count in chapter_counts.values()):
-            raise ValueError(f"Meer dan drie beelden in een hoofdstuk van {book_id}")
         for scene in scenes:
             if scene["chapter"] not in chapters:
                 raise ValueError(f"Geen gepubliceerd hoofdstuk voor boekbeeld: {book_id} {scene['chapter']}")
@@ -312,7 +317,9 @@ Hoofdstukken staan op `/bijbel/BOEK/NUMMER.html`, met dezelfde tekst als platte 
         subtitle = f'<p class="opv-hoofdstuktitel opw-hoofdstuktitel">{escape(heading)}</p>' if heading != ref else ''
         minutes = max(1, int(sum(len(v['tekst'].split()) for v in chapter['verzen']) / 150 + .5))
         read_time = '1 minuut' if minutes == 1 else f'ongeveer {minutes} minuten'
-        chapter_images = [scene for scene in book_images.get(book['id'], []) if scene['chapter'] == number]
+        chapter_images = sorted(
+            (scene for scene in book_images.get(book['id'], []) if scene['chapter'] == number),
+            key=lambda scene: scene.get('verse', 1))
         legacy_image = f"/images/hoofdstukken/{book['id']}/{number}.webp"
         has_legacy = (root / legacy_image.lstrip('/')).is_file()
         chapter_cover = (f"/images/boekseries/{book['id']}/{chapter_images[0]['file']}" if chapter_images

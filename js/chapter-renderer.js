@@ -133,7 +133,9 @@ const ChapterRenderer = {
         // is dezelfde kop ook de scheiding tussen twee hoofdstukken.
         textColumn.appendChild(this._hoofdstukKop(book, chapter, chapterNum, append || prepend));
         const bookImages = await this._bookImages();
-        const chapterImages = (bookImages[bookId] || []).filter(item => Number(item.chapter) === Number(chapterNum));
+        const chapterImages = (bookImages[bookId] || [])
+            .filter(item => Number(item.chapter) === Number(chapterNum))
+            .sort((a, b) => (Number(a.verse) || 1) - (Number(b.verse) || 1));
         const imageGallery = document.createElement('aside');
         imageGallery.className = 'opw-hoofdstukbeelden';
         imageGallery.setAttribute('aria-label', 'Beelden bij dit hoofdstuk');
@@ -143,14 +145,24 @@ const ChapterRenderer = {
             if (bookImage.verse) figure.dataset.verse = bookImage.verse;
             const illustration = document.createElement('img');
             illustration.src = `/images/boekseries/${bookId}/${bookImage.file}`;
-            illustration.width = 1536;
-            illustration.height = 1024;
+            illustration.width = bookImage.width || 1536;
+            illustration.height = bookImage.height || 1024;
             illustration.alt = bookImage.alt;
             illustration.loading = append || prepend ? 'lazy' : 'eager';
-            figure.appendChild(illustration);
+            if (bookImage.kind === 'diagram') {
+                const enlarged = document.createElement('a');
+                enlarged.href = illustration.src;
+                enlarged.target = '_blank';
+                enlarged.rel = 'noopener';
+                enlarged.setAttribute('aria-label', `Schema vergroot bekijken: ${bookImage.scene}`);
+                enlarged.appendChild(illustration);
+                figure.appendChild(enlarged);
+            } else {
+                figure.appendChild(illustration);
+            }
             if (bookImage.scene) {
                 const caption = document.createElement('figcaption');
-                caption.textContent = bookImage.scene;
+                caption.textContent = bookImage.scene + (bookImage.kind === 'diagram' ? ' · Klik om te vergroten' : '');
                 figure.appendChild(caption);
             }
             imageGallery.appendChild(figure);

@@ -1,0 +1,380 @@
+{
+  "minimum_images_per_chapter": 3,
+  "description": "Het aantal volgt uit gebeurtenissen, opsommingen en poëtische beelden. Tien is mogelijk, geen verplichte norm of harde bovengrens. Alleen inhoudelijk beoordeelde hoofdstukken hebben een aanvullend doel.",
+  "chapters": [
+    {
+      "book": "genesis",
+      "chapter": 1,
+      "status": "reviewed",
+      "target_images": 10,
+      "reason": "Scheppingsfasen, mensen en voedsel krijgen eigen beelden; het schema verbindt de dagen.",
+      "additions": [
+        {
+          "verse": 6,
+          "scene": "Het gewelf tussen de wateren",
+          "file": "1-6-uitbreiding.webp",
+          "kind": "scene"
+        },
+        {
+          "verse": 11,
+          "scene": "Planten die zaad en vruchten dragen",
+          "file": "1-11-uitbreiding.webp",
+          "kind": "scene"
+        },
+        {
+          "verse": 16,
+          "scene": "Maan en sterren aan de hemel",
+          "file": "1-16-uitbreiding.webp",
+          "kind": "scene"
+        },
+        {
+          "verse": 20,
+          "scene": "Leven in de zee en vogels in de lucht",
+          "file": "1-20-uitbreiding.webp",
+          "kind": "scene"
+        },
+        {
+          "verse": 27,
+          "scene": "Man en vrouw geschapen",
+          "file": "1-27-uitbreiding.webp",
+          "kind": "scene"
+        },
+        {
+          "verse": 29,
+          "scene": "Vruchten en zaden als voedsel",
+          "file": "1-29-uitbreiding.webp",
+          "kind": "scene"
+        },
+        {
+          "verse": 31,
+          "file": "1-scheppingsdagen.svg",
+          "scene": "Schepping: dag voor dag",
+          "kind": "diagram",
+          "source": "Genesis 1:1–31 en 2:1–3"
+        }
+      ]
+    },
+    {
+      "book": "genesis",
+      "chapter": 2,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "De tuin, de damp, de opdracht en de vier rivieren vragen verschillende visualisaties.",
+      "additions": [
+        {
+          "verse": 6,
+          "scene": "Damp maakt de aarde vochtig",
+          "file": "2-6-uitbreiding.webp",
+          "kind": "scene"
+        },
+        {
+          "verse": 15,
+          "scene": "De tuin bewerken en bewaken",
+          "file": "2-15-uitbreiding.webp",
+          "kind": "scene"
+        },
+        {
+          "verse": 10,
+          "file": "2-vier-rivieren.svg",
+          "scene": "De rivier splitst zich",
+          "kind": "diagram",
+          "source": "Genesis 2:10–14"
+        }
+      ]
+    },
+    {
+      "book": "genesis",
+      "chapter": 3,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Bedekking, verbergen en kleding vullen de gebeurtenissen rond de vrucht en de verdrijving aan.",
+      "additions": [
+        {
+          "verse": 7,
+          "scene": "Vijgenbladeren als bedekking",
+          "file": "3-7-uitbreiding.webp",
+          "kind": "scene"
+        },
+        {
+          "verse": 8,
+          "scene": "Adam en Eva verbergen zich",
+          "file": "3-8-uitbreiding.webp",
+          "kind": "scene"
+        },
+        {
+          "verse": 21,
+          "scene": "Gekleed in dierenhuiden",
+          "file": "3-21-uitbreiding.webp",
+          "kind": "scene"
+        }
+      ]
+    },
+    {
+      "book": "genesis",
+      "chapter": 4,
+      "status": "reviewed",
+      "target_images": 8,
+      "reason": "Naast Kaïn en Abel bevat dit hoofdstuk stad, veeteelt, muziek, metaalbewerking en een familielijn.",
+      "additions": [
+        {
+          "verse": 17,
+          "scene": "Kaïn bouwt de stad Henoch",
+          "file": "4-17-uitbreiding.webp",
+          "kind": "scene"
+        },
+        {
+          "verse": 20,
+          "scene": "Jabal bij tenten en kudden",
+          "file": "4-20-uitbreiding.webp",
+          "kind": "scene"
+        },
+        {
+          "verse": 21,
+          "scene": "Jubal maakt muziek",
+          "file": "4-21-uitbreiding.webp",
+          "kind": "scene"
+        },
+        {
+          "verse": 22,
+          "scene": "Tubal-Kaïn bewerkt metaal",
+          "file": "4-22-uitbreiding.webp",
+          "kind": "scene"
+        },
+        {
+          "verse": 18,
+          "file": "4-familie-kain.svg",
+          "scene": "De familie van Kaïn",
+          "kind": "diagram",
+          "source": "Genesis 4:17–22"
+        }
+      ]
+    },
+    {
+      "book": "genesis",
+      "chapter": 5,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "De stamboom verduidelijkt de generaties; geen reeks verzonnen familieportretten.",
+      "additions": [
+        {
+          "verse": 3,
+          "file": "5-stamboom-adam-noach.svg",
+          "scene": "Van Adam naar Noach",
+          "kind": "diagram",
+          "source": "Genesis 5:3–32"
+        }
+      ]
+    },
+    {
+      "book": "genesis",
+      "chapter": 6,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Bouwinstructies, pek en voedselopslag worden apart uitgelegd.",
+      "additions": [
+        {
+          "verse": 14,
+          "scene": "De ark met pek bestrijken",
+          "file": "6-14-uitbreiding.webp",
+          "kind": "scene"
+        },
+        {
+          "verse": 21,
+          "scene": "Voedsel voor het gezin en de dieren",
+          "file": "6-21-uitbreiding.webp",
+          "kind": "scene"
+        },
+        {
+          "verse": 15,
+          "file": "6-ark-afmetingen.svg",
+          "scene": "De ark volgens de tekst",
+          "kind": "diagram",
+          "source": "Genesis 6:14–16"
+        }
+      ]
+    },
+    {
+      "book": "genesis",
+      "chapter": 7,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Het begin van de regen en de volledig bedekte aarde zijn afzonderlijke fasen.",
+      "additions": [
+        {
+          "verse": 11,
+          "scene": "De stortregen begint",
+          "file": "7-11-uitbreiding.webp",
+          "kind": "scene"
+        },
+        {
+          "verse": 19,
+          "scene": "Zelfs de bergen zijn bedekt",
+          "file": "7-19-uitbreiding.webp",
+          "kind": "scene"
+        }
+      ]
+    },
+    {
+      "book": "genesis",
+      "chapter": 8,
+      "status": "reviewed",
+      "target_images": 8,
+      "reason": "Ararat, raaf, droog land, vertrek en blijvende seizoenen vullen de duif en het altaar aan.",
+      "additions": [
+        {
+          "verse": 4,
+          "scene": "De ark rust op Ararat",
+          "file": "8-4-uitbreiding.webp",
+          "kind": "scene"
+        },
+        {
+          "verse": 7,
+          "scene": "Noach laat de raaf los",
+          "file": "8-7-uitbreiding.webp",
+          "kind": "scene"
+        },
+        {
+          "verse": 13,
+          "scene": "Noach kijkt naar droge aarde",
+          "file": "8-13-uitbreiding.webp",
+          "kind": "scene"
+        },
+        {
+          "verse": 18,
+          "scene": "Het gezin verlaat de ark",
+          "file": "8-18-uitbreiding.webp",
+          "kind": "scene"
+        },
+        {
+          "verse": 22,
+          "scene": "Zaaien en oogsten blijven doorgaan",
+          "file": "8-22-uitbreiding.webp",
+          "kind": "scene"
+        }
+      ]
+    },
+    {
+      "book": "genesis",
+      "chapter": 9,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Het verbond en de zorg van Sem en Jafeth zijn afzonderlijke gebeurtenissen.",
+      "additions": [
+        {
+          "verse": 9,
+          "scene": "Het verbond met Noach en zijn zonen",
+          "file": "9-9-uitbreiding.webp",
+          "kind": "scene"
+        },
+        {
+          "verse": 23,
+          "scene": "Sem en Jafeth bedekken hun vader",
+          "file": "9-23-uitbreiding.webp",
+          "kind": "scene"
+        }
+      ]
+    },
+    {
+      "book": "genesis",
+      "chapter": 10,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Drie familietakken krijgen afzonderlijke schema’s met exact de namen uit de tekst.",
+      "additions": [
+        {
+          "verse": 2,
+          "file": "10-nakomelingen-jafeth.svg",
+          "scene": "De nakomelingen van Jafeth",
+          "kind": "diagram",
+          "source": "Genesis 10:2–5"
+        },
+        {
+          "verse": 6,
+          "file": "10-nakomelingen-cham.svg",
+          "scene": "De nakomelingen van Cham",
+          "kind": "diagram",
+          "source": "Genesis 10:6–20"
+        },
+        {
+          "verse": 21,
+          "file": "10-nakomelingen-sem.svg",
+          "scene": "De nakomelingen van Sem",
+          "kind": "diagram",
+          "source": "Genesis 10:21–31"
+        }
+      ]
+    },
+    {
+      "book": "genesis",
+      "chapter": 11,
+      "status": "reviewed",
+      "target_images": 7,
+      "reason": "Bakstenen, taalverwarring, de afstammingslijn en aankomst in Haran vullen de bestaande scènes aan.",
+      "additions": [
+        {
+          "verse": 3,
+          "scene": "Bakstenen bakken in Sinear",
+          "file": "11-3-uitbreiding.webp",
+          "kind": "scene"
+        },
+        {
+          "verse": 7,
+          "scene": "De taal wordt verward",
+          "file": "11-7-uitbreiding.webp",
+          "kind": "scene"
+        },
+        {
+          "verse": 31,
+          "scene": "Aankomst in Haran",
+          "file": "11-31-uitbreiding.webp",
+          "kind": "scene"
+        },
+        {
+          "verse": 10,
+          "file": "11-stamboom-sem-abram.svg",
+          "scene": "Van Sem naar Abram",
+          "kind": "diagram",
+          "source": "Genesis 11:10–29"
+        }
+      ]
+    },
+    {
+      "book": "psalmen",
+      "chapter": 1,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "Poëtische beeldspraak en opbouw; geen verzonnen historische scènes.",
+      "additions": [
+        {
+          "verse": 6,
+          "file": "1-twee-wegen.svg",
+          "scene": "Twee wegen in Psalm 1",
+          "kind": "diagram",
+          "source": "Psalm 1:1–6"
+        }
+      ]
+    },
+    {
+      "book": "psalmen",
+      "chapter": 23,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Poëtische beeldspraak en opbouw; geen verzonnen historische scènes.",
+      "additions": [
+        {
+          "verse": 5,
+          "scene": "Beeldspraak: gezalfd met olie",
+          "file": "23-5-uitbreiding.webp",
+          "kind": "poetic"
+        },
+        {
+          "verse": 6,
+          "file": "23-opbouw-psalm.svg",
+          "scene": "Van herder naar gastheer",
+          "kind": "diagram",
+          "source": "Psalm 23:1–6"
+        }
+      ]
+    }
+  ]
+}

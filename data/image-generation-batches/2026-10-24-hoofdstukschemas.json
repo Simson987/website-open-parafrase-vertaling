@@ -1,0 +1,422 @@
+{
+  "date": "2026-10-24",
+  "mode": "native-svg",
+  "description": "Schema’s op basis van de plaatselijke verzen; tekst en namen zijn direct uit de bron gecontroleerd.",
+  "images": [
+    {
+      "book": "genesis",
+      "chapter": 1,
+      "verse": 31,
+      "file": "1-scheppingsdagen.svg",
+      "scene": "Schepping: dag voor dag",
+      "alt": "Overzicht van de zes scheppingsdagen uit Genesis 1 en de rustdag uit Genesis 2:1–3.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1330,
+      "source": "Genesis 1:1–31 en 2:1–3",
+      "design": {
+        "rows": [
+          [
+            "Dag 1 · 1:3–5",
+            "Licht; scheiding tussen dag en nacht."
+          ],
+          [
+            "Dag 2 · 1:6–8",
+            "Het hemelgewelf scheidt de wateren."
+          ],
+          [
+            "Dag 3 · 1:9–13",
+            "Land en zee; planten en vruchtbomen."
+          ],
+          [
+            "Dag 4 · 1:14–19",
+            "Zon, maan en sterren."
+          ],
+          [
+            "Dag 5 · 1:20–23",
+            "Dieren in het water en vogels."
+          ],
+          [
+            "Dag 6 · 1:24–31",
+            "Landdieren; mensen als man en vrouw."
+          ],
+          [
+            "Dag 7 · 2:1–3",
+            "God rust en heiligt de zevende dag."
+          ]
+        ],
+        "note": "De rustdag wordt beschreven aan het begin van hoofdstuk 2."
+      }
+    },
+    {
+      "book": "genesis",
+      "chapter": 2,
+      "verse": 10,
+      "file": "2-vier-rivieren.svg",
+      "scene": "De rivier splitst zich",
+      "alt": "Vanuit Eden stroomt één rivier die zich splitst in Pison, Gihon, Hiddekel en Frath. De ligging van Eden wordt niet op een kaart vastgelegd.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1118,
+      "source": "Genesis 2:10–14",
+      "design": {
+        "rows": [
+          [
+            "Eden",
+            "Eén rivier geeft de tuin water en splitst zich vervolgens in vier rivieren."
+          ],
+          [
+            "1 · Pison",
+            "Stroomt om Havila, waar goud is."
+          ],
+          [
+            "2 · Gihon",
+            "Stroomt om het land Cusch."
+          ],
+          [
+            "3 · Hiddekel",
+            "Stroomt ten oosten van Assur."
+          ],
+          [
+            "4 · Frath",
+            "De vierde genoemde rivier."
+          ]
+        ],
+        "note": "Dit is een tekstschema, geen geografische reconstructie van Eden."
+      }
+    },
+    {
+      "book": "genesis",
+      "chapter": 4,
+      "verse": 18,
+      "file": "4-familie-kain.svg",
+      "scene": "De familie van Kaïn",
+      "alt": "Kaïn is de vader van Henoch; Henoch van Hirad; Hirad van Mechujael; Mechujael van Methusael; Methusael van Lamech. Lamech en Ada krijgen Jabal en Jubal; Lamech en Zilla krijgen Tubal-Kaïn en Naema.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1032,
+      "source": "Genesis 4:17–22",
+      "design": {
+        "rows": [
+          [
+            "Kaïn → Henoch",
+            "Kaïn noemt de stad naar zijn zoon."
+          ],
+          [
+            "Henoch → Hirad",
+            "Hirad → Mechujael → Methusael."
+          ],
+          [
+            "Methusael → Lamech",
+            "Deze Lamech behoort tot Kaïns lijn."
+          ],
+          [
+            "Lamech + Ada",
+            "Hun zonen: Jabal en Jubal."
+          ],
+          [
+            "Lamech + Zilla",
+            "Hun kinderen: Tubal-Kaïn en Naema."
+          ]
+        ],
+        "note": "Een pijl betekent: vader → kind. Dit is niet de Lamech uit Genesis 5."
+      }
+    },
+    {
+      "book": "genesis",
+      "chapter": 5,
+      "verse": 3,
+      "file": "5-stamboom-adam-noach.svg",
+      "scene": "Van Adam naar Noach",
+      "alt": "Stamboom: Adam, Seth, Enos, Kenan, Mahalal-el, Jered, Henoch, Methusalach, Lamech, Noach. Noachs zonen zijn Sem, Cham en Jafeth. Elke opeenvolgende naam is een zoon van de voorgaande.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1813,
+      "source": "Genesis 5:3–32",
+      "design": {
+        "rows": [
+          [
+            "1 · Adam → Seth",
+            "Genesis 5:3"
+          ],
+          [
+            "2 · Seth → Enos",
+            "Genesis 5:6"
+          ],
+          [
+            "3 · Enos → Kenan",
+            "Genesis 5:9"
+          ],
+          [
+            "4 · Kenan → Mahalal-el",
+            "Genesis 5:12"
+          ],
+          [
+            "5 · Mahalal-el → Jered",
+            "Genesis 5:15"
+          ],
+          [
+            "6 · Jered → Henoch",
+            "Genesis 5:18"
+          ],
+          [
+            "7 · Henoch → Methusalach",
+            "Genesis 5:21"
+          ],
+          [
+            "8 · Methusalach → Lamech",
+            "Genesis 5:25"
+          ],
+          [
+            "9 · Lamech → Noach",
+            "Genesis 5:28–29"
+          ],
+          [
+            "10 · Noachs zonen",
+            "Sem, Cham en Jafeth (5:32)."
+          ]
+        ],
+        "note": "De genoemde lijn is geen opsomming van alle kinderen; de tekst vermeldt ook zonen en dochters."
+      }
+    },
+    {
+      "book": "genesis",
+      "chapter": 6,
+      "verse": 15,
+      "file": "6-ark-afmetingen.svg",
+      "scene": "De ark volgens de tekst",
+      "alt": "De ark: 300 el lang, 50 el breed en 30 el hoog, met drie verdiepingen, kamers, een lichtopening en een zijdeur; van goferhout en met pek bestreken.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1048,
+      "source": "Genesis 6:14–16",
+      "design": {
+        "rows": [
+          [
+            "Afmetingen in el",
+            "Lengte 300 · breedte 50 · hoogte 30."
+          ],
+          [
+            "Drie verdiepingen",
+            "Een onderste, middelste en bovenste verdieping."
+          ],
+          [
+            "Bouwmateriaal",
+            "Goferhout; kamers; pek aan binnenkant en buitenkant."
+          ],
+          [
+            "Openingen",
+            "Een lichtopening bovenin en een deur aan de zijkant."
+          ]
+        ],
+        "note": "Schema van de beschrijving; geen bouwtekening. De el wordt niet naar een vaste moderne maat omgerekend."
+      }
+    },
+    {
+      "book": "genesis",
+      "chapter": 10,
+      "verse": 2,
+      "file": "10-nakomelingen-jafeth.svg",
+      "scene": "De nakomelingen van Jafeth",
+      "alt": "Jafeth heeft zonen Gomer, Magog, Madai, Javan, Tubal, Mesech en Thiras. Gomers zonen zijn Askenaz, Rifath en Togarma. Javans nakomelingen zijn Elisa, Tarsis, de Chittieten en de Dodanieten.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1012,
+      "source": "Genesis 10:2–5",
+      "design": {
+        "rows": [
+          [
+            "Noach → Jafeth",
+            "De eerste tak in het overzicht van Genesis 10."
+          ],
+          [
+            "Jafeth → zijn zonen",
+            "Gomer, Magog, Madai, Javan, Tubal, Mesech en Thiras."
+          ],
+          [
+            "Gomer → zijn zonen",
+            "Askenaz, Rifath en Togarma."
+          ],
+          [
+            "Javan → zijn nakomelingen",
+            "Elisa, Tarsis, de Chittieten en de Dodanieten."
+          ]
+        ],
+        "note": "Pijlen tonen de in de tekst genoemde afstamming; volken en personen staan in hetzelfde overzicht."
+      }
+    },
+    {
+      "book": "genesis",
+      "chapter": 10,
+      "verse": 6,
+      "file": "10-nakomelingen-cham.svg",
+      "scene": "De nakomelingen van Cham",
+      "alt": "Chams zonen zijn Cusch, Mitsraim, Put en Kanaän. Het schema splitst de genoemde nakomelingen van Cusch, Raema, Mitsraim en Kanaän uit volgens Genesis 10:6–20.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1482,
+      "source": "Genesis 10:6–20",
+      "design": {
+        "rows": [
+          [
+            "Noach → Cham",
+            "Cham → Cusch, Mitsraim, Put en Kanaän."
+          ],
+          [
+            "Cusch → zijn zonen",
+            "Seba, Havila, Sabta, Raema, Sabtecha en Nimrod."
+          ],
+          [
+            "Raema → zijn zonen",
+            "Scheba en Dedan."
+          ],
+          [
+            "Mitsraim → zijn nakomelingen",
+            "Ludieten, Anamieten, Lehabieten, Naftuchieten, Pathrusieten, Casluchieten en Caftorieten."
+          ],
+          [
+            "Casluchieten → Filistijnen",
+            "De Filistijnen komen volgens deze tekst uit de Casluchieten voort."
+          ],
+          [
+            "Kanaän → zijn nakomelingen",
+            "Sidon, Heth; Jebusieten, Amorieten, Girgasieten, Hivvieten, Arkieten, Sinieten, Arvadieten, Tsemarieten en Hamathieten."
+          ]
+        ],
+        "note": "Pijlen volgen de lokale hoofdstuktekst. Personen en volken worden samen genoemd."
+      }
+    },
+    {
+      "book": "genesis",
+      "chapter": 10,
+      "verse": 21,
+      "file": "10-nakomelingen-sem.svg",
+      "scene": "De nakomelingen van Sem",
+      "alt": "Sems zonen: Elam, Assur, Arfachsad, Lud en Aram. Arams zonen: Uz, Hul, Gether en Maz. Arfachsad krijgt Selah; Selah Heber; Heber Peleg en Joktan. Joktans dertien genoemde zonen staan afzonderlijk vermeld.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1048,
+      "source": "Genesis 10:21–31",
+      "design": {
+        "rows": [
+          [
+            "Noach → Sem",
+            "Sem → Elam, Assur, Arfachsad, Lud en Aram."
+          ],
+          [
+            "Aram → zijn zonen",
+            "Uz, Hul, Gether en Maz."
+          ],
+          [
+            "Arfachsad → Selah → Heber",
+            "Heber → Peleg en Joktan."
+          ],
+          [
+            "Joktan → zijn zonen",
+            "Almodad, Selef, Hatsarmaveth, Jarach, Hadoram, Usal, Dikla, Obal, Abimaël, Scheba, Ofir, Havila en Jobab."
+          ]
+        ],
+        "note": "Pijlen tonen de in dit hoofdstuk genoemde afstamming. De lijn via Peleg gaat verder in Genesis 11."
+      }
+    },
+    {
+      "book": "genesis",
+      "chapter": 11,
+      "verse": 10,
+      "file": "11-stamboom-sem-abram.svg",
+      "scene": "Van Sem naar Abram",
+      "alt": "Afstammingslijn Sem, Arfachsad, Selah, Heber, Peleg, Rehu, Serug, Nahor, Terah. Terahs zonen zijn Abram, Nahor en Haran. Harans kinderen zijn Lot, Milka en Jiska; Abram trouwt met Sarai en Nahor met Milka.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1111,
+      "source": "Genesis 11:10–29",
+      "design": {
+        "rows": [
+          [
+            "Sem → Arfachsad → Selah",
+            "Selah → Heber → Peleg."
+          ],
+          [
+            "Peleg → Rehu → Serug",
+            "Serug → Nahor → Terah."
+          ],
+          [
+            "Terah → zijn zonen",
+            "Abram, Nahor en Haran."
+          ],
+          [
+            "Haran → zijn kinderen",
+            "Lot, Milka en Jiska."
+          ],
+          [
+            "Huwelijken in de tekst",
+            "Abram trouwt met Sarai; Nahor trouwt met Milka, de dochter van Haran."
+          ]
+        ],
+        "note": "Nahor komt twee keer voor: als vader van Terah en als zoon van Terah. Dit zijn verschillende personen."
+      }
+    },
+    {
+      "book": "psalmen",
+      "chapter": 1,
+      "verse": 6,
+      "file": "1-twee-wegen.svg",
+      "scene": "Twee wegen in Psalm 1",
+      "alt": "Psalm 1 vergelijkt twee wegen: de rechtvaardige als een vruchtbare boom aan het water en de goddeloze als kaf in de wind. Vers 6 sluit beide wegen af.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 949,
+      "source": "Psalm 1:1–6",
+      "design": {
+        "rows": [
+          [
+            "De rechtvaardige · vers 1–3",
+            "Gaat niet mee met kwaad; houdt van Gods wet. Beeld: een vruchtbare boom aan het water."
+          ],
+          [
+            "De goddeloze · vers 4–5",
+            "Houdt geen stand. Beeld: kaf dat de wind wegblaast."
+          ],
+          [
+            "De afsluiting · vers 6",
+            "De HEERE kent de weg van de rechtvaardigen. De weg van de goddelozen loopt dood."
+          ]
+        ],
+        "note": "Dit overzicht volgt de beeldspraak van het gedicht; het is geen historische gebeurtenis."
+      }
+    },
+    {
+      "book": "psalmen",
+      "chapter": 23,
+      "verse": 6,
+      "file": "23-opbouw-psalm.svg",
+      "scene": "Van herder naar gastheer",
+      "alt": "Opbouw van Psalm 23: de herder leidt en geeft rust; in het dal spreekt de dichter God aan; de gastheer geeft een tafel, olie en overvloed; trouw en Gods huis vormen de afsluiting.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1098,
+      "source": "Psalm 23:1–6",
+      "design": {
+        "rows": [
+          [
+            "Vers 1–3 · Leiding en rust",
+            "De HEERE als herder: weiden, water, nieuwe kracht en het goede spoor."
+          ],
+          [
+            "Vers 4 · Nabijheid in gevaar",
+            "Het donkere dal: stok en staf geven moed. Het gedicht spreekt nu rechtstreeks tot U."
+          ],
+          [
+            "Vers 5 · Ontvangst en overvloed",
+            "De gedekte tafel, zalving met olie en een overvloeiende beker."
+          ],
+          [
+            "Vers 6 · Trouw en thuis",
+            "Geluk en trouw; blijven in het huis van de HEERE."
+          ]
+        ],
+        "note": "Een leeswijzer bij de poëzie, geen tijdlijn van gebeurtenissen uit Davids leven."
+      }
+    }
+  ]
+}
