@@ -3,7 +3,26 @@
   "started": "2026-10-24T01:54:08Z",
   "mode": "built-in rasters and native SVG schemas",
   "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
-  "metadata_corrections": [],
+  "metadata_corrections": [
+    {
+      "book": "numeri",
+      "file": "21-serpent.webp",
+      "before": {
+        "chapter": 21,
+        "file": "21-serpent.webp",
+        "alt": "Israëlieten kijken in het woestijnkamp naar de koperen slang",
+        "scene": "De koperen slang"
+      },
+      "after": {
+        "chapter": 21,
+        "file": "21-serpent.webp",
+        "alt": "Israëlieten kijken in het woestijnkamp naar de koperen slang",
+        "scene": "De koperen slang",
+        "verse": 9
+      },
+      "reason": "De koperen slang op de paal hoort bij vers 9."
+    }
+  ],
   "images": [
     {
       "book": "numeri",

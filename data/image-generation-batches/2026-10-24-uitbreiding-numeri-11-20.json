@@ -3,7 +3,48 @@
   "started": "2026-10-24T01:54:08Z",
   "mode": "built-in rasters and native SVG schemas",
   "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
-  "metadata_corrections": [],
+  "metadata_corrections": [
+    {
+      "book": "numeri",
+      "file": "17-8.webp",
+      "before": {
+        "chapter": 17,
+        "verse": 8,
+        "file": "17-8.webp",
+        "alt": "Beeld bij Numeri 17: Aärons staf bloeit",
+        "scene": "Aärons staf bloeit"
+      },
+      "after": {
+        "chapter": 17,
+        "verse": 8,
+        "file": "17-8.webp",
+        "alt": "Beeld bij Numeri 17: Aärons staf bloeit",
+        "scene": "Aärons staf bloeit",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "De staf ligt in de ontmoetingstent; de bestaande stenen tempelachtergrond wordt vervangen door de tabernakel."
+    },
+    {
+      "book": "numeri",
+      "file": "13-grapes.webp",
+      "before": {
+        "chapter": 13,
+        "file": "13-grapes.webp",
+        "alt": "Verspieders dragen een grote druiventros door het dal",
+        "scene": "De vrucht van het land"
+      },
+      "after": {
+        "chapter": 13,
+        "file": "13-grapes.webp",
+        "alt": "Verspieders dragen een grote druiventros door het dal",
+        "scene": "De vrucht van het land",
+        "verse": 23
+      },
+      "reason": "De twee dragers met druiventros horen bij vers 23."
+    }
+  ],
   "images": [
     {
       "book": "numeri",
@@ -557,6 +598,26 @@
         ],
         "note": "De opvolging wordt onderscheiden van de eerdere gebeurtenis bij Meriba."
       }
+    }
+  ],
+  "revised_images": [
+    {
+      "book": "numeri",
+      "chapter": 17,
+      "verse": 8,
+      "file": "17-8.webp",
+      "prompt": "Edit this Bible illustration of Numeri 17:8. Preserve the foreground wooden staffs and Aaron's one staff with buds, almond blossoms and ripe almonds, with natural wooden texture. Replace the entire stone temple architecture in the background with the interior of the CLOTH Sinai tabernacle, woven linen curtains and golden-covered wooden supports, sandy ground and woven mat. The ark may remain softly blurred in its correct inner sanctuary context. No stone building, masonry or monumental columns. Same photorealistic landscape framing, no lettering, no deity.",
+      "reason": "De staf ligt in de ontmoetingstent; de bestaande stenen tempelachtergrond wordt vervangen door de tabernakel."
+    }
+  ],
+  "generation_errors": [
+    {
+      "image": "20-29-uitbreiding.webp",
+      "first_attempt": {
+        "error": "image generation failed: http 400 Bad Request: Some(\"{\\n  \\\"error\\\": {\\n    \\\"message\\\": \\\"Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID 83c30dbd-a1d1-4f90-b9c3-6c40e4d29c84.\\\",\\n    \\\"type\\\": \\\"image_generation_user_error\\\",\\n    \\\"param\\\": null,\\n    \\\"code\\\": \\\"moderation_blocked\\\",\\n    \\\"moderation_details\\\": {\\n      \\\"moderation_stage\\\": \\\"output\\\",\\n      \\\"categories\\\": [\\n        \\\"other\\\"\\n      ]\\n    }\\n  }\\n}\")",
+        "prompt": "Use case: historical-scene. Photorealistic Bible illustration, landscape 3:2, Sinai desert camp with cloth tents and linen tabernacle, no stone temple or city. All people fully modestly robed, anatomically correct hands and exactly two arms each, no human-shaped deity, readable text or watermark. Fully clothed adult Hebrew families sit quietly in mourning among desert tents, sober faces and bowed heads, ordinary cloth garments, no body, funeral pyre, grave inscription, gore or human-shaped deity."
+      },
+      "resolution": "Een duidelijkere omschrijving van een rustige rouwende volwassen gemeenschap is gegenereerd en visueel gecontroleerd."
     }
   ]
 }
