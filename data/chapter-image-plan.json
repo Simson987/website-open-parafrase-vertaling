@@ -7836,6 +7836,83 @@
           "source": "2 Samuël 24:18–25"
         }
       ]
+    },
+    {
+      "book": "1koningen",
+      "chapter": 1,
+      "status": "reviewed",
+      "target_images": 7,
+      "reason": "Naast Bathseba, zalving en vrijlating ontbreken Jonathans nieuws en het altaar als afzonderlijke stappen. Twee schema’s maken kampen en volgorde duidelijk.",
+      "additions": [
+        {
+          "verse": 42,
+          "scene": "Jonathan vertelt Adonia het nieuws",
+          "kind": "scene",
+          "file": "1-42-inhoudelijk.webp"
+        },
+        {
+          "verse": 50,
+          "scene": "Adonia zoekt bescherming bij het altaar",
+          "kind": "scene",
+          "file": "1-50-inhoudelijk.webp"
+        },
+        {
+          "verse": 5,
+          "file": "1-twee-kandidaten.svg",
+          "scene": "Twee kandidaten en hun steun",
+          "kind": "diagram",
+          "source": "1 Koningen 1:5–14"
+        },
+        {
+          "verse": 28,
+          "file": "1-aanwijzing-en-altaar.svg",
+          "scene": "Aanwijzing, zalving en altaar",
+          "kind": "diagram",
+          "source": "1 Koningen 1:28–53"
+        }
+      ]
+    },
+    {
+      "book": "1koningen",
+      "chapter": 2,
+      "status": "reviewed",
+      "target_images": 8,
+      "reason": "Naast Davids wetsonderwijs, graf en Bathseba ontbreken Abjathars vertrek en Simeï’s reis. Drie schema’s onderscheiden opdrachten, verzoeken, straffen en nieuwe functies.",
+      "additions": [
+        {
+          "verse": 26,
+          "scene": "Abjathar vertrekt naar zijn akkers",
+          "kind": "scene",
+          "file": "2-26-inhoudelijk.webp"
+        },
+        {
+          "verse": 40,
+          "scene": "Simeï reist naar Gath",
+          "kind": "scene",
+          "file": "2-40-inhoudelijk.webp"
+        },
+        {
+          "verse": 1,
+          "file": "2-laatste-opdrachten.svg",
+          "scene": "Davids laatste opdrachten",
+          "kind": "diagram",
+          "source": "1 Koningen 2:1–12"
+        },
+        {
+          "verse": 13,
+          "file": "2-verzoeken-en-besluiten.svg",
+          "scene": "Verzoeken en de besluiten",
+          "kind": "diagram",
+          "source": "1 Koningen 2:13–35"
+        },
+        {
+          "verse": 36,
+          "file": "2-simei-grens-en-reis.svg",
+          "scene": "Simeï: de grens en de reis",
+          "kind": "diagram",
+          "source": "1 Koningen 2:36–46"
+        }
+      ]
     }
   ]
 }

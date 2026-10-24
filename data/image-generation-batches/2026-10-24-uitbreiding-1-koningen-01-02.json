@@ -1,0 +1,242 @@
+{
+  "date": "2026-10-24",
+  "started": "2026-10-24T22:33:42Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "1koningen",
+      "chapter": 1,
+      "verse": 42,
+      "scene": "Jonathan vertelt Adonia het nieuws",
+      "alt": "Jonathan vertelt Adonia het nieuws — 1 Koningen 1:42",
+      "kind": "scene",
+      "file": "1-42-inhoudelijk.webp",
+      "prompt": "Use case: historical scene. Photorealistic educational Bible illustration, landscape 3:2, ancient Israel, fully modest woven robes, natural hands and exactly two arms each. No modern objects, Roman armor, readable writing, watermark, visible deity, blood, nudity or graphic violence. An adult fully robed messenger Jonathan son of priest Abiathar urgently reports to fully robed adult Adonijah and a few sober startled dinner guests in an ancient outdoor gathering by a spring. Half-eaten simple meal and bowls; faces realize that Solomon has been appointed. No drunken revelry, weapons raised or anointing here.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "1koningen",
+      "chapter": 1,
+      "verse": 50,
+      "scene": "Adonia zoekt bescherming bij het altaar",
+      "alt": "Adonia zoekt bescherming bij het altaar — 1 Koningen 1:50",
+      "kind": "scene",
+      "file": "1-50-inhoudelijk.webp",
+      "prompt": "Use case: historical scene. Photorealistic educational Bible illustration, landscape 3:2, ancient Israel, fully modest woven robes, natural hands and exactly two arms each. No modern objects, Roman armor, readable writing, watermark, visible deity, blood, nudity or graphic violence. Fully modestly robed adult Adonijah stands anxiously at a simple ancient stone altar and holds the two near corner horns with natural hands, seeking sanctuary. All altar corners physically natural, no fire, sacrifice, blood, weapons or violence, no priest threatening him.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "1koningen",
+      "chapter": 2,
+      "verse": 26,
+      "scene": "Abjathar vertrekt naar zijn akkers",
+      "alt": "Abjathar vertrekt naar zijn akkers — 1 Koningen 2:26",
+      "kind": "scene",
+      "file": "2-26-inhoudelijk.webp",
+      "prompt": "Use case: historical scene. Photorealistic educational Bible illustration, landscape 3:2, ancient Israel, fully modest woven robes, natural hands and exactly two arms each. No modern objects, Roman armor, readable writing, watermark, visible deity, blood, nudity or graphic violence. An older fully robed Abiathar with a small travel bundle leaves the ancient city toward fields at Anathoth after removal from office. Quiet serious departure with one adult attendant, no chains, guards threatening, visible ark or rich high-priest jewels.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "1koningen",
+      "chapter": 2,
+      "verse": 40,
+      "scene": "Simeï reist naar Gath",
+      "alt": "Simeï reist naar Gath — 1 Koningen 2:40",
+      "kind": "scene",
+      "file": "2-40-inhoudelijk.webp",
+      "prompt": "Use case: historical scene. Photorealistic educational Bible illustration, landscape 3:2, ancient Israel, fully modest woven robes, natural hands and exactly two arms each. No modern objects, Roman armor, readable writing, watermark, visible deity, blood, nudity or graphic violence. Fully robed adult Shimei saddles a single donkey beside his ancient Jerusalem home before a journey to Gath, two adult attendants in simple woven clothes nearby. A sober travel preparation, no chains, beating, pursuit, battle or modern saddle.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "1koningen",
+      "chapter": 1,
+      "verse": 5,
+      "file": "1-twee-kandidaten.svg",
+      "scene": "Twee kandidaten en hun steun",
+      "alt": "De twee kampen, de uitgesloten genodigden en het plan voor de audiëntie.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1283,
+      "source": "1 Koningen 1:5–14",
+      "design": {
+        "rows": [
+          [
+            "Adonia",
+            "Zoon van David en Haggith; roept zichzelf uit tot koning; vijftig voorlopers."
+          ],
+          [
+            "Zijn bondgenoten",
+            "Joab en de priester Abjathar."
+          ],
+          [
+            "Wie niet voor hem kiezen",
+            "Zadok, Benaja, Nathan, Simeï, Reï en Davids helden."
+          ],
+          [
+            "Zijn maaltijd",
+            "Bij Zoheleth en de bron Rogel; Salomo en zijn medestanders niet uitgenodigd."
+          ],
+          [
+            "Nathans plan",
+            "Bathseba vraagt naar de eerdere eed; Nathan zal haar woorden bevestigen."
+          ]
+        ],
+        "note": "De benoemde Simeï bij de getrouwen wordt hier niet zonder nadere bron gelijkgesteld aan elke naamgenoot."
+      }
+    },
+    {
+      "book": "1koningen",
+      "chapter": 1,
+      "verse": 28,
+      "file": "1-aanwijzing-en-altaar.svg",
+      "scene": "Aanwijzing, zalving en altaar",
+      "alt": "De opdracht, publieke bevestiging, berichtgeving en voorwaardelijke vrijlating.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1290,
+      "source": "1 Koningen 1:28–53",
+      "design": {
+        "rows": [
+          [
+            "Davids bevestiging",
+            "Hij bevestigt zijn eed aan Bathseba: Salomo zal vandaag opvolgen."
+          ],
+          [
+            "De opdracht",
+            "Zadok, Nathan en Benaja; koninklijke muilezelin naar de Gihon."
+          ],
+          [
+            "De zalving",
+            "Hoorn met olie uit de tent; bazuin en vreugde; Salomo op de troon."
+          ],
+          [
+            "Jonathan brengt het nieuws",
+            "Zoon van Abjathar; Adonia’s gasten vertrekken verschrikt."
+          ],
+          [
+            "De bescherming",
+            "Adonia bij altaarhoorns; Salomo stelt betrouwbaarheid als voorwaarde en laat hem naar huis gaan."
+          ]
+        ],
+        "note": "Jonathan is de zoon van Abjathar; de overleden zoon van Saul is een andere persoon."
+      }
+    },
+    {
+      "book": "1koningen",
+      "chapter": 2,
+      "verse": 1,
+      "file": "2-laatste-opdrachten.svg",
+      "scene": "Davids laatste opdrachten",
+      "alt": "De verschillende personen en redenen in Davids laatste instructies.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1283,
+      "source": "1 Koningen 2:1–12",
+      "design": {
+        "rows": [
+          [
+            "Trouw aan de wet",
+            "Salomo moet Gods wegen en Mozes’ wet bewaren met hart en ziel."
+          ],
+          [
+            "Joab",
+            "David noemt de moorden op Abner en Amasa."
+          ],
+          [
+            "Barzillai’s zonen",
+            "Goedheid bewijzen en laten eten aan de koningstafel."
+          ],
+          [
+            "Simeï",
+            "De eerdere vloek en Davids eed worden genoemd; Salomo moet wijs handelen."
+          ],
+          [
+            "De overgang",
+            "David begraven in zijn stad; veertig jaar regering; Salomo op de troon."
+          ]
+        ],
+        "note": "De morele en politieke opdrachten worden naast elkaar weergegeven; gewelddadige gevolgen worden niet verzwegen."
+      }
+    },
+    {
+      "book": "1koningen",
+      "chapter": 2,
+      "verse": 13,
+      "file": "2-verzoeken-en-besluiten.svg",
+      "scene": "Verzoeken en de besluiten",
+      "alt": "De verzoeken, verschillende gronden voor besluiten en nieuwe ambten.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1333,
+      "source": "1 Koningen 2:13–35",
+      "design": {
+        "rows": [
+          [
+            "Adonia’s verzoek",
+            "Via Bathseba vraagt hij Abisag als vrouw."
+          ],
+          [
+            "Salomo’s uitleg",
+            "Hij ziet er een aanspraak op het koningschap in; Adonia wordt gedood."
+          ],
+          [
+            "Abjathar",
+            "Naar de akkers in Anathoth; wegens eerdere dienst en lijden gespaard maar uit het ambt gezet."
+          ],
+          [
+            "Joab",
+            "Vlucht naar het altaar; Benaja voert het doodvonnis uit wegens Abner en Amasa."
+          ],
+          [
+            "De nieuwe functies",
+            "Benaja over het leger; Zadok in Abjathars plaats."
+          ]
+        ],
+        "note": "De verplaatsing van Abjathar wordt onderscheiden van de doodvonnissen over Adonia en Joab."
+      }
+    },
+    {
+      "book": "1koningen",
+      "chapter": 2,
+      "verse": 36,
+      "file": "2-simei-grens-en-reis.svg",
+      "scene": "Simeï: de grens en de reis",
+      "alt": "Bevel, termijn, overtreding en de uitleg van het vonnis.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1204,
+      "source": "1 Koningen 2:36–46",
+      "design": {
+        "rows": [
+          [
+            "Het bevel",
+            "In Jeruzalem wonen en nergens heengaan."
+          ],
+          [
+            "De waarschuwing",
+            "Weggaan en Kidron oversteken betekent de dood; Simeï aanvaardt het."
+          ],
+          [
+            "Na drie jaar",
+            "Twee slaven naar Achis, zoon van Maächa, in Gath gevlucht."
+          ],
+          [
+            "De overtreding",
+            "Simeï zadelt zijn ezel, reist naar Gath en haalt hen terug."
+          ],
+          [
+            "Het oordeel",
+            "Salomo spreekt hem aan op eed en bevel; Benaja voert het vonnis uit."
+          ]
+        ],
+        "note": "De drie jaar slaan op het latere weglopen van de slaven, niet op de duur van Davids regering."
+      }
+    }
+  ]
+}
