@@ -6127,6 +6127,132 @@
           "source": "Richteren 17:2–13"
         }
       ]
+    },
+    {
+      "book": "ruth",
+      "chapter": 1,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Het vertrek van het oorspronkelijke gezin is een aparte beginfase naast afscheid, trouw en aankomst. Een schema maakt verliezen en familieposities zichtbaar.",
+      "additions": [
+        {
+          "verse": 2,
+          "scene": "Elimelechs gezin vertrekt naar Moab",
+          "kind": "scene",
+          "file": "1-2-inhoudelijk.webp"
+        },
+        {
+          "verse": 2,
+          "file": "1-familie-en-terugkeer.svg",
+          "scene": "Familie, verlies en terugkeer",
+          "kind": "diagram",
+          "source": "Ruth 1:2–22"
+        }
+      ]
+    },
+    {
+      "book": "ruth",
+      "chapter": 2,
+      "status": "reviewed",
+      "target_images": 7,
+      "reason": "Water, bewust achtergelaten aren en het uitkloppen ontbreken naast aren lezen, maaltijd en terugkeer. Een schema onderscheidt de verschillende voorzieningen.",
+      "additions": [
+        {
+          "verse": 9,
+          "scene": "Ruth mag van het water drinken",
+          "kind": "scene",
+          "file": "2-9-inhoudelijk.webp"
+        },
+        {
+          "verse": 16,
+          "scene": "De knechten laten aren liggen",
+          "kind": "scene",
+          "file": "2-16-inhoudelijk.webp"
+        },
+        {
+          "verse": 17,
+          "scene": "Ruth klopt de gerst uit",
+          "kind": "scene",
+          "file": "2-17-inhoudelijk.webp"
+        },
+        {
+          "verse": 8,
+          "file": "2-bescherming-en-voorziening.svg",
+          "scene": "Bescherming en voorziening",
+          "kind": "diagram",
+          "source": "Ruth 2:8–23"
+        }
+      ]
+    },
+    {
+      "book": "ruth",
+      "chapter": 3,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Wannen en het verslag aan Naomi zijn afzonderlijke stappen naast voorbereiding, nachtgesprek en de gerstgave. Een schema verduidelijkt twee lossers en beeldspraak.",
+      "additions": [
+        {
+          "verse": 2,
+          "scene": "Boaz want de gerst",
+          "kind": "scene",
+          "file": "3-2-inhoudelijk.webp"
+        },
+        {
+          "verse": 16,
+          "scene": "Ruth vertelt Naomi wat er is gebeurd",
+          "kind": "scene",
+          "file": "3-16-inhoudelijk.webp"
+        },
+        {
+          "verse": 9,
+          "file": "3-twee-lossers.svg",
+          "scene": "Het verzoek en twee lossers",
+          "kind": "diagram",
+          "source": "Ruth 3:9–18"
+        }
+      ]
+    },
+    {
+      "book": "ruth",
+      "chapter": 4,
+      "status": "reviewed",
+      "target_images": 8,
+      "reason": "De eerste bijeenroeping en het huwelijk zijn eigen stappen naast sandaal en kind. Twee schema’s plus een native stamboom controleren lossing, rollen en de tien generaties.",
+      "additions": [
+        {
+          "verse": 2,
+          "scene": "Boaz roept de oudsten bij de poort",
+          "kind": "scene",
+          "file": "4-2-inhoudelijk.webp"
+        },
+        {
+          "verse": 13,
+          "scene": "Ruth wordt de vrouw van Boaz",
+          "kind": "scene",
+          "file": "4-13-inhoudelijk.webp"
+        },
+        {
+          "verse": 1,
+          "file": "4-lossing-bij-de-poort.svg",
+          "scene": "Lossing bij de stadspoort",
+          "kind": "diagram",
+          "source": "Ruth 4:1–12"
+        },
+        {
+          "verse": 13,
+          "file": "4-obed-en-naomi.svg",
+          "scene": "Obed, Ruth en Naomi",
+          "kind": "diagram",
+          "source": "Ruth 4:13–17"
+        },
+        {
+          "verse": 18,
+          "file": "4-stamboom-perez-david.svg",
+          "scene": "Van Perez tot David",
+          "kind": "diagram",
+          "source": "Ruth 4:18–22"
+        }
+      ]
     }
   ]
 }
