@@ -1,0 +1,840 @@
+{
+  "date": "2026-10-24",
+  "started": "2026-10-24T23:31:06Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "1koningen",
+      "chapter": 3,
+      "verse": 15,
+      "scene": "Salomo geeft zijn dienaren een maaltijd",
+      "alt": "Salomo geeft zijn dienaren een maaltijd — 1 Koningen 3:15",
+      "kind": "scene",
+      "file": "3-15-inhoudelijk.webp",
+      "prompt": "Use case: historical scene. Photorealistic educational Bible illustration, landscape 3:2, ancient Israel in the era of Solomon. Modest woven robes, natural hands and exactly two arms per person, coherent objects. No modern objects, Roman armor, readable writing, watermark, visible deity, nudity, blood or graphic violence. Young adult king Solomon holds a peaceful simple royal feast in Jerusalem after returning from Gibeon, modest robed adult servants seated together at a long table with bread, fruit and earthen bowls. Grateful faces, warm daylight, no enthroned deity or dream figure.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "1koningen",
+      "chapter": 4,
+      "verse": 33,
+      "scene": "Salomo bespreekt planten en dieren",
+      "alt": "Salomo bespreekt planten en dieren — 1 Koningen 4:33",
+      "kind": "scene",
+      "file": "4-33-inhoudelijk.webp",
+      "prompt": "Use case: historical scene. Photorealistic educational Bible illustration, landscape 3:2, ancient Israel in the era of Solomon. Modest woven robes, natural hands and exactly two arms per person, coherent objects. No modern objects, Roman armor, readable writing, watermark, visible deity, nudity, blood or graphic violence. Adult Solomon in a simple palace garden discusses a cedar branch and a small hyssop plant beside a stone wall with two attentive adult scholars; a bird rests on the wall. A natural-history teaching conversation, no readable writing.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "1koningen",
+      "chapter": 5,
+      "verse": 11,
+      "scene": "Tarwe en olie voor Hirams hof",
+      "alt": "Tarwe en olie voor Hirams hof — 1 Koningen 5:11",
+      "kind": "scene",
+      "file": "5-11-inhoudelijk.webp",
+      "prompt": "Use case: historical scene. Photorealistic educational Bible illustration, landscape 3:2, ancient Israel in the era of Solomon. Modest woven robes, natural hands and exactly two arms per person, coherent objects. No modern objects, Roman armor, readable writing, watermark, visible deity, nudity, blood or graphic violence. Ancient port storehouse, adult Israelite and Tyrian workers record delivery of wheat sacks and sealed olive-oil jars for Hiram’s household, modest tunics, no readable markings, quiet cooperative exchange.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "1koningen",
+      "chapter": 6,
+      "verse": 34,
+      "scene": "Draaibare houten deurpanelen",
+      "alt": "Draaibare houten deurpanelen — 1 Koningen 6:34",
+      "kind": "scene",
+      "file": "6-34-inhoudelijk.webp",
+      "prompt": "Use case: historical scene. Photorealistic educational Bible illustration, landscape 3:2, ancient Israel in the era of Solomon. Modest woven robes, natural hands and exactly two arms per person, coherent objects. No modern objects, Roman armor, readable writing, watermark, visible deity, nudity, blood or graphic violence. Close architectural illustration of two ancient fir-wood temple doors, each with two hinged folding panels, subtle gilded palm and flower carvings. One adult craftsman checks a hinge. No Christian cross or modern hinges, no standing cherub statues.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "1koningen",
+      "chapter": 7,
+      "verse": 49,
+      "scene": "Gouden lampen voor het heiligdom",
+      "alt": "Gouden lampen voor het heiligdom — 1 Koningen 7:49",
+      "kind": "scene",
+      "file": "7-49-inhoudelijk.webp",
+      "prompt": "Use case: historical scene. Photorealistic educational Bible illustration, landscape 3:2, ancient Israel in the era of Solomon. Modest woven robes, natural hands and exactly two arms per person, coherent objects. No modern objects, Roman armor, readable writing, watermark, visible deity, nudity, blood or graphic violence. Temple workshop, fully robed artisans arrange golden oil lamps and their golden flower-shaped fittings on a worktable; polished metal, soft light, no medieval candelabrum or light bulbs. Emphasis on lamp-making rather than exact count of lampstands.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "1koningen",
+      "chapter": 8,
+      "verse": 55,
+      "scene": "Salomo zegent de gemeenschap",
+      "alt": "Salomo zegent de gemeenschap — 1 Koningen 8:55",
+      "kind": "scene",
+      "file": "8-55-inhoudelijk.webp",
+      "prompt": "Use case: historical scene. Photorealistic educational Bible illustration, landscape 3:2, ancient Israel in the era of Solomon. Modest woven robes, natural hands and exactly two arms per person, coherent objects. No modern objects, Roman armor, readable writing, watermark, visible deity, nudity, blood or graphic violence. Adult Solomon stands facing assembled fully robed Israelites in the open temple courtyard, addressing them in blessing after prayer. Hands low and open, natural anatomy; large stone altar at a distance, no sacrifice or visible deity.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "1koningen",
+      "chapter": 8,
+      "verse": 66,
+      "scene": "Het volk gaat opgewekt naar huis",
+      "alt": "Het volk gaat opgewekt naar huis — 1 Koningen 8:66",
+      "kind": "scene",
+      "file": "8-66-inhoudelijk.webp",
+      "prompt": "Use case: historical scene. Photorealistic educational Bible illustration, landscape 3:2, ancient Israel in the era of Solomon. Modest woven robes, natural hands and exactly two arms per person, coherent objects. No modern objects, Roman armor, readable writing, watermark, visible deity, nudity, blood or graphic violence. Families in modest ancient Israelite robes leave Jerusalem along a hillside path carrying travelling bundles, cheerful after temple dedication, olive trees and pale stone city behind, peaceful documentary scene.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "1koningen",
+      "chapter": 9,
+      "verse": 27,
+      "scene": "Ervaren zeelieden varen samen uit",
+      "alt": "Ervaren zeelieden varen samen uit — 1 Koningen 9:27",
+      "kind": "scene",
+      "file": "9-27-inhoudelijk.webp",
+      "prompt": "Use case: historical scene. Photorealistic educational Bible illustration, landscape 3:2, ancient Israel in the era of Solomon. Modest woven robes, natural hands and exactly two arms per person, coherent objects. No modern objects, Roman armor, readable writing, watermark, visible deity, nudity, blood or graphic violence. Tyrian and Israelite adult sailors in woven tunics cooperate aboard an ancient timber merchant ship leaving a dry Red Sea coastal harbor, modest square sail, natural rope handling and sea, no modern ship gear or compass.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "1koningen",
+      "chapter": 10,
+      "verse": 12,
+      "scene": "Harpen van almuggimhout",
+      "alt": "Harpen van almuggimhout — 1 Koningen 10:12",
+      "kind": "scene",
+      "file": "10-12-inhoudelijk.webp",
+      "prompt": "Use case: historical scene. Photorealistic educational Bible illustration, landscape 3:2, ancient Israel in the era of Solomon. Modest woven robes, natural hands and exactly two arms per person, coherent objects. No modern objects, Roman armor, readable writing, watermark, visible deity, nudity, blood or graphic violence. Ancient adult craftsmen make wooden harps and lyres in a Jerusalem workshop; curled wood shavings, careful hands string a single small lyre, other finished instruments nearby. No readable text, no modern guitars, no electric tools.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "1koningen",
+      "chapter": 10,
+      "verse": 22,
+      "scene": "Handelsschepen keren terug",
+      "alt": "Handelsschepen keren terug — 1 Koningen 10:22",
+      "kind": "scene",
+      "file": "10-22-inhoudelijk.webp",
+      "prompt": "Use case: historical scene. Photorealistic educational Bible illustration, landscape 3:2, ancient Israel in the era of Solomon. Modest woven robes, natural hands and exactly two arms per person, coherent objects. No modern objects, Roman armor, readable writing, watermark, visible deity, nudity, blood or graphic violence. Ancient merchant ship unloading precious-metal chests and ivory tusks at a Levantine port; a single peacock and small monkey safely beside an adult handler on the quay, no exotic zoo cages. Modest ancient sailors, natural animal anatomy.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "1koningen",
+      "chapter": 11,
+      "verse": 21,
+      "scene": "Hadad vraagt toestemming te vertrekken",
+      "alt": "Hadad vraagt toestemming te vertrekken — 1 Koningen 11:21",
+      "kind": "scene",
+      "file": "11-21-inhoudelijk.webp",
+      "prompt": "Use case: historical scene. Photorealistic educational Bible illustration, landscape 3:2, ancient Israel in the era of Solomon. Modest woven robes, natural hands and exactly two arms per person, coherent objects. No modern objects, Roman armor, readable writing, watermark, visible deity, nudity, blood or graphic violence. Adult Edomite prince Hadad, mature and modestly robed, speaks earnestly to Pharaoh in an ancient Egyptian palace courtyard requesting return to his homeland. Two adult attendants far behind, no battle, no child or violence.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "1koningen",
+      "chapter": 11,
+      "verse": 43,
+      "scene": "Rehabeam volgt Salomo op",
+      "alt": "Rehabeam volgt Salomo op — 1 Koningen 11:43",
+      "kind": "scene",
+      "file": "11-43-inhoudelijk.webp",
+      "prompt": "Use case: historical scene. Photorealistic educational Bible illustration, landscape 3:2, ancient Israel in the era of Solomon. Modest woven robes, natural hands and exactly two arms per person, coherent objects. No modern objects, Roman armor, readable writing, watermark, visible deity, nudity, blood or graphic violence. Adult Rehoboam in modest ceremonial robes stands before a subdued ancient Jerusalem court at succession after Solomon’s death, an older counsellor welcomes him, no other king depicted, no deathbed or corpse.",
+      "edit_prompt": "Edit the supplied illustration only: Rehoboam the standing crowned king must clearly look 41 years old, with mature face and full adult beard, not a young man. The elderly counselor to his right wears a plain cloth headband, not a crown. Preserve all other setting, robes, composition and anatomy.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "1koningen",
+      "chapter": 12,
+      "verse": 10,
+      "scene": "Rehabeam overlegt met zijn leeftijdgenoten",
+      "alt": "Rehabeam overlegt met zijn leeftijdgenoten — 1 Koningen 12:10",
+      "kind": "scene",
+      "file": "12-10-inhoudelijk.webp",
+      "prompt": "Use case: historical scene. Photorealistic educational Bible illustration, landscape 3:2, ancient Israel in the era of Solomon. Modest woven robes, natural hands and exactly two arms per person, coherent objects. No modern objects, Roman armor, readable writing, watermark, visible deity, nudity, blood or graphic violence. Adult king Rehoboam hears stern advice from three adult men of his own generation in a palace chamber, haughty confident gestures, natural hands, no weapons or literal scorpions.",
+      "edit_prompt": "Edit the supplied illustration only: Rehoboam the seated crowned king and all three standing advisors must look like men of the same generation, approximately 40–45 years old. Give the king a mature full beard and face; change the gray-haired advisor to age 40–45 with dark hair and modest gray at temples. No elderly white beards or youthful king. Preserve the three advisors, poses, clothing, palace and natural hands.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "1koningen",
+      "chapter": 12,
+      "verse": 29,
+      "scene": "Kalverbeelden in Bethel en Dan",
+      "alt": "Kalverbeelden in Bethel en Dan — 1 Koningen 12:29",
+      "kind": "scene",
+      "file": "12-29-inhoudelijk.webp",
+      "prompt": "Use case: historical scene. Photorealistic educational Bible illustration, landscape 3:2, ancient Israel in the era of Solomon. Modest woven robes, natural hands and exactly two arms per person, coherent objects. No modern objects, Roman armor, readable writing, watermark, visible deity, nudity, blood or graphic violence. A single golden calf statue placed on a plain ancient stone plinth at an outdoor sanctuary with adult workers completing installation. This illustrates one of Jeroboam’s two sanctuaries, not both places side by side. No live sacrificial animals, no violence, no Egyptian pyramids.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "1koningen",
+      "chapter": 3,
+      "verse": 5,
+      "file": "3-gebed-en-antwoord.svg",
+      "scene": "Wat Salomo vraagt",
+      "alt": "Verzoek, antwoord en voorwaarde in Salomo’s droom.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1247,
+      "source": "1 Koningen 3:5–15",
+      "design": {
+        "rows": [
+          [
+            "De vraag",
+            "In een droom in Gibeon mag Salomo vragen wat God hem zal geven."
+          ],
+          [
+            "Zijn verzoek",
+            "Een opmerkzaam hart om recht te spreken en goed van kwaad te onderscheiden."
+          ],
+          [
+            "Het antwoord",
+            "Een wijs en verstandig hart; ook ongevraagde rijkdom en eer."
+          ],
+          [
+            "De voorwaarde",
+            "Een lang leven wordt verbonden aan wandelen in Gods wegen."
+          ],
+          [
+            "Na het ontwaken",
+            "Naar Jeruzalem, offers voor de ark en een maaltijd voor zijn dienaren."
+          ]
+        ],
+        "note": "De droom en de gebeurtenissen na het ontwaken zijn verschillende momenten."
+      }
+    },
+    {
+      "book": "1koningen",
+      "chapter": 3,
+      "verse": 23,
+      "file": "3-rechtszaak.svg",
+      "scene": "De twee aanspraken",
+      "alt": "De opeenvolgende stappen en de bescherming van het kind in Salomo’s oordeel.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1247,
+      "source": "1 Koningen 3:23–28",
+      "design": {
+        "rows": [
+          [
+            "Het geschil",
+            "Beide vrouwen noemen het levende kind hun zoon."
+          ],
+          [
+            "De beproeving",
+            "De koning laat een zwaard brengen en beveelt een verdeling."
+          ],
+          [
+            "De moeder",
+            "Zij wil het levende kind afstaan om zijn leven te redden."
+          ],
+          [
+            "Het vonnis",
+            "Het kind moet blijven leven en wordt aan haar gegeven."
+          ],
+          [
+            "De reactie",
+            "Israël herkent Gods wijsheid in het rechtspreken."
+          ]
+        ],
+        "note": "Het kind wordt niet doorgesneden; het bevel wordt door het uiteindelijke vonnis voorkomen."
+      }
+    },
+    {
+      "book": "1koningen",
+      "chapter": 4,
+      "verse": 2,
+      "file": "4-hofambten.svg",
+      "scene": "Ambten aan het hof",
+      "alt": "Namen, vaders en functies van Salomo’s hoogste dienaren.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1247,
+      "source": "1 Koningen 4:2–6",
+      "design": {
+        "rows": [
+          [
+            "Azaria, zoon van Zadok",
+            "Eerste minister."
+          ],
+          [
+            "Elihoref en Ahia",
+            "Zonen van Sisa; schrijvers. Josafat, zoon van Ahilud, is kanselier."
+          ],
+          [
+            "Benaja en de priesters",
+            "Benaja, zoon van Jojada, over het leger; Zadok en Abjathar als priesters genoemd."
+          ],
+          [
+            "Nathans zonen",
+            "Azaria over de stadhouders; Zabud als hoge ambtenaar en vriend van de koning."
+          ],
+          [
+            "Ahisar en Adoniram",
+            "Ahisar is hofmeester; Adoniram, zoon van Abda, leidt de dwangarbeid."
+          ]
+        ],
+        "note": "De twee Azaria’s worden met hun verschillende vaders en ambten onderscheiden."
+      }
+    },
+    {
+      "book": "1koningen",
+      "chapter": 4,
+      "verse": 7,
+      "file": "4-twaalf-stadhouders.svg",
+      "scene": "Twaalf stadhouders",
+      "alt": "De twaalf bestuurders met onderscheid tussen naamgenoten en hun gebieden.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1263,
+      "source": "1 Koningen 4:7–19",
+      "design": {
+        "rows": [
+          [
+            "1–3",
+            "Zoon van Hur: Efraïm; zoon van Deker: Makaz en omgeving; zoon van Hesed: Arubboth en omgeving."
+          ],
+          [
+            "4–6",
+            "Zoon van Abinadab: Dor; Baëna, zoon van Ahilud: Taanach en omgeving; zoon van Geber: Ramoth in Gilead."
+          ],
+          [
+            "7–9",
+            "Abinadab, zoon van Iddo: Mahanaïm; Ahimaäz: Nafthali; Baëna, zoon van Husai: Aser en Aloth."
+          ],
+          [
+            "10–12",
+            "Josafat, zoon van Paruah: Issaschar; Simeï, zoon van Ela: Benjamin; Geber, zoon van Uri: Gilead."
+          ]
+        ],
+        "note": "Ieder verzorgt het hof één maand per jaar. De nummering volgt de lijst en noemt geen toegewezen kalendermaanden."
+      }
+    },
+    {
+      "book": "1koningen",
+      "chapter": 5,
+      "verse": 9,
+      "file": "5-uitwisseling-en-rooster.svg",
+      "scene": "Hout, voedsel en werkrooster",
+      "alt": "De wederzijdse leveringen en het beurtrooster voor de bouw.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1247,
+      "source": "1 Koningen 5:9–18",
+      "design": {
+        "rows": [
+          [
+            "Hiram levert",
+            "Ceder- en dennenhout via vlotten over zee."
+          ],
+          [
+            "Salomo levert jaarlijks",
+            "Ongeveer 4,4 miljoen liter tarwe en 4.400 liter zuivere olie."
+          ],
+          [
+            "Dertigduizend man",
+            "Maandelijks 10.000 naar de Libanon: één maand daar, twee maanden thuis."
+          ],
+          [
+            "Andere werkers",
+            "70.000 lastdragers, 80.000 steenhouwers en 3.300 opzichters."
+          ],
+          [
+            "De samenwerking",
+            "Bouwlieden van Salomo en Hiram met de Giblieten bereiden hout en steen voor."
+          ]
+        ],
+        "note": "De aantallen en omrekeningen volgen dit hoofdstuk van de Open Parafrase Weergave."
+      }
+    },
+    {
+      "book": "1koningen",
+      "chapter": 6,
+      "verse": 1,
+      "file": "6-bouwjaren.svg",
+      "scene": "Zeven bouwjaren",
+      "alt": "De maandnamen, regeringsjaren en genoemde bouwduur.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "1 Koningen 6:1, 37–38",
+      "design": {
+        "rows": [
+          [
+            "Begin",
+            "Vierde regeringsjaar van Salomo; Ziv, de tweede maand."
+          ],
+          [
+            "Plaats in de geschiedenis",
+            "Het 480ste jaar na de uittocht uit Egypte."
+          ],
+          [
+            "Voltooiing",
+            "Elfde regeringsjaar; Bul, de achtste maand."
+          ],
+          [
+            "Duur",
+            "Het hoofdstuk noemt zeven jaar bouwtijd."
+          ]
+        ],
+        "note": "De dertien jaar voor het paleis staan in het volgende hoofdstuk en worden hier niet opgeteld."
+      }
+    },
+    {
+      "book": "1koningen",
+      "chapter": 6,
+      "verse": 23,
+      "file": "6-cherubs-maten.svg",
+      "scene": "Maten van de cherubs",
+      "alt": "De tekstuele maten en het contact van de vier uitgespreide vleugels.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "1 Koningen 6:23–28",
+      "design": {
+        "rows": [
+          [
+            "Twee beelden",
+            "Olijfhout, bekleed met goud; gelijke maat en vorm."
+          ],
+          [
+            "Hoogte per cherub",
+            "Ongeveer 4,5 meter."
+          ],
+          [
+            "Vleugel per zijde",
+            "Ongeveer 2,25 meter; totale spanwijdte circa 4,5 meter."
+          ],
+          [
+            "De opstelling",
+            "Buitenste vleugels raken de tegenoverliggende muren; binnenste vleugels raken elkaar."
+          ]
+        ],
+        "note": "Deze maten beschrijven de grote beelden in het binnenste heiligdom."
+      }
+    },
+    {
+      "book": "1koningen",
+      "chapter": 7,
+      "verse": 13,
+      "file": "7-twee-hirams.svg",
+      "scene": "Twee mannen met de naam Hiram",
+      "alt": "Naamgenoten onderscheiden naar familie en taak.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1091,
+      "source": "1 Koningen 7:13–14; zie ook 5:1",
+      "design": {
+        "rows": [
+          [
+            "Hiram, de koning",
+            "Koning van Tyrus; vriend van David en leverancier van hout."
+          ],
+          [
+            "Hiram, de kopersmid",
+            "Zoon van een weduwe uit Nafthali en een man uit Tyrus die kopersmid was."
+          ],
+          [
+            "Zijn bekwaamheid",
+            "Wijsheid, inzicht en kennis om allerlei koperwerk te maken."
+          ],
+          [
+            "Zijn opdracht",
+            "Hij komt bij Salomo en maakt de koperen tempelvoorwerpen."
+          ]
+        ],
+        "note": "De koning uit hoofdstuk 5 en de vakman uit hoofdstuk 7 hebben dezelfde naam maar zijn verschillende personen."
+      }
+    },
+    {
+      "book": "1koningen",
+      "chapter": 7,
+      "verse": 23,
+      "file": "7-zee-en-wasvaten.svg",
+      "scene": "Zee en tien wasvaten",
+      "alt": "Aantallen, richtingen, maten en onderscheid van de watervoorwerpen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1283,
+      "source": "1 Koningen 7:23–39",
+      "design": {
+        "rows": [
+          [
+            "De gegoten zee",
+            "Rond: circa 4,5 meter breed, 2,25 meter hoog; omtrek circa 13,5 meter."
+          ],
+          [
+            "Twaalf runderen",
+            "Drie naar elke windrichting; achterlijven naar binnen."
+          ],
+          [
+            "Inhoud en wand",
+            "Circa 44.000 liter; wand ongeveer 7,5 centimeter dik."
+          ],
+          [
+            "Tien wasvaten",
+            "Elk circa 880 liter, op een koperen onderstel met vier wielen."
+          ],
+          [
+            "De plaats",
+            "Vijf onderstellen rechts en vijf links; de zee rechts naar het zuidoosten."
+          ]
+        ],
+        "note": "Maten en inhoud zijn de benaderingen in deze vertaling; de zee en wasvaten zijn verschillende voorwerpen."
+      }
+    },
+    {
+      "book": "1koningen",
+      "chapter": 8,
+      "verse": 31,
+      "file": "8-gebed-om-recht.svg",
+      "scene": "Gebed: recht en herstel",
+      "alt": "Verschillende gebedsvragen en hun voorwaardelijke situatie.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1240,
+      "source": "1 Koningen 8:31–43",
+      "design": {
+        "rows": [
+          [
+            "Bij een eed",
+            "Oordeel over schuld en onschuld."
+          ],
+          [
+            "Na een nederlaag",
+            "Terugkeer, belijdenis, vergeving en herstel in het land."
+          ],
+          [
+            "Bij droogte",
+            "Bekering, vergeving, onderwijs en regen."
+          ],
+          [
+            "Bij nood en ziekte",
+            "Ieders hart is bekend bij God; gebed om vergeving en ingrijpen."
+          ],
+          [
+            "Voor de buitenlander",
+            "Ook diens gebed wordt genoemd, opdat alle volken Gods naam kennen."
+          ]
+        ],
+        "note": "Dit zijn situaties waarvoor Salomo bidt, geen verslag dat al deze rampen tijdens het feest gebeuren."
+      }
+    },
+    {
+      "book": "1koningen",
+      "chapter": 8,
+      "verse": 44,
+      "file": "8-gebed-en-zegen.svg",
+      "scene": "Gebed, zegen en feest",
+      "alt": "De slotvragen van het gebed en de volgorde naar de afsluiting van het feest.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1247,
+      "source": "1 Koningen 8:44–66",
+      "design": {
+        "rows": [
+          [
+            "Onderweg ten strijde",
+            "Bidden naar de gekozen stad en het huis; gebed om recht."
+          ],
+          [
+            "In gevangenschap",
+            "Tot inkeer komen, zonde belijden en met hart en ziel terugkeren."
+          ],
+          [
+            "Salomo staat op",
+            "Na geknield gebed zegent hij de gemeenschap."
+          ],
+          [
+            "Het appel",
+            "Het hart volkomen toewijden en Gods geboden bewaren."
+          ],
+          [
+            "Het feest",
+            "Zeven dagen en nog zeven dagen; daarna gaat het volk opgewekt naar huis."
+          ]
+        ],
+        "note": "De buitenlandse gevangenschap is een mogelijke toekomstige situatie in het gebed."
+      }
+    },
+    {
+      "book": "1koningen",
+      "chapter": 9,
+      "verse": 3,
+      "file": "9-belofte-en-waarschuwing.svg",
+      "scene": "Belofte en waarschuwing",
+      "alt": "De voorwaarden in het tweede antwoord aan Salomo.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1091,
+      "source": "1 Koningen 9:3–9",
+      "design": {
+        "rows": [
+          [
+            "Het antwoord",
+            "God zegt het gebed gehoord en het huis geheiligd te hebben."
+          ],
+          [
+            "Bij trouw",
+            "Wandelen zoals David; het koningschap wordt bevestigd."
+          ],
+          [
+            "Bij afkeer",
+            "Andere goden dienen heeft verlies van land en huis tot gevolg."
+          ],
+          [
+            "De uitleg aan voorbijgangers",
+            "Het verlaten van de God van de uittocht verklaart het onheil."
+          ]
+        ],
+        "note": "De waarschuwing beschrijft een gevolg van afkeer, geen al plaatsgevonden verwoesting in dit hoofdstuk."
+      }
+    },
+    {
+      "book": "1koningen",
+      "chapter": 9,
+      "verse": 10,
+      "file": "9-bouwwerken-en-vaart.svg",
+      "scene": "Bouwwerken en zeevaart",
+      "alt": "De onderscheiden leveringen, bouwprojecten, arbeidsverhoudingen en vaart.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1240,
+      "source": "1 Koningen 9:10–28",
+      "design": {
+        "rows": [
+          [
+            "Twintig bouwjaren",
+            "Tempel en koninklijk paleis."
+          ],
+          [
+            "Twintig steden",
+            "In Galilea aan Hiram; hij noemt ze Kabul omdat ze hem niet bevallen."
+          ],
+          [
+            "De bouwplaatsen",
+            "Millo, Jeruzalems muur, Hazor, Megiddo, Gezer en meer steden."
+          ],
+          [
+            "De dwangarbeid",
+            "Vers 20–22 onderscheidt achtergebleven volken van de functies van Israëlieten."
+          ],
+          [
+            "De vloot",
+            "Ezeon-geber bij Eloth; Hirams zeelieden varen mee naar Ofir."
+          ]
+        ],
+        "note": "Ofirs precieze ligging wordt hier niet vastgelegd; het hoofdstuk noemt de bestemming zonder coördinaten."
+      }
+    },
+    {
+      "book": "1koningen",
+      "chapter": 10,
+      "verse": 18,
+      "file": "10-troon-en-schilden.svg",
+      "scene": "Troon, schilden en handel",
+      "alt": "De aantallen bij de rijkdom en troon van Salomo.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1247,
+      "source": "1 Koningen 10:14–29",
+      "design": {
+        "rows": [
+          [
+            "De schilden",
+            "200 grote en 300 kleine gouden schilden in het Libanonwoudhuis."
+          ],
+          [
+            "De troon",
+            "Ivoor met zuiver goud; zes treden en twee leeuwen bij de armleuningen."
+          ],
+          [
+            "Twaalf op de treden",
+            "Aan elke kant zes leeuwen; onderscheiden van de twee naast de zitting."
+          ],
+          [
+            "Om de drie jaar",
+            "Tarsisschepen keren terug met goud, zilver, ivoor, apen en pauwen."
+          ],
+          [
+            "Het wagenpark",
+            "1.400 wagens en 12.000 ruiters."
+          ]
+        ],
+        "note": "De twaalf leeuwen op de treden en de twee bij de zitting worden afzonderlijk geteld."
+      }
+    },
+    {
+      "book": "1koningen",
+      "chapter": 11,
+      "verse": 14,
+      "file": "11-drie-tegenstanders.svg",
+      "scene": "Drie tegenstanders",
+      "alt": "Achtergrond, relaties en tijdlijn van de drie tegenstanders.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1333,
+      "source": "1 Koningen 11:14–40",
+      "design": {
+        "rows": [
+          [
+            "Hadad",
+            "Edomitische koningszoon; als kind naar Egypte gevlucht; wil later terug naar zijn land."
+          ],
+          [
+            "Rezon, zoon van Eljada",
+            "Gevlucht voor Hadad-ezer; verzamelt een bende en regeert in Damaskus."
+          ],
+          [
+            "Jerobeam, zoon van Nebat",
+            "Uit Zereda; moeder Zerua; leidt eerst de dwangarbeid van het huis van Jozef."
+          ],
+          [
+            "Ahia’s boodschap",
+            "Tien mantelstukken voor Jerobeam; afscheuring uit de hand van Salomo’s zoon."
+          ],
+          [
+            "De vlucht",
+            "Salomo wil Jerobeam doden; Jerobeam verblijft bij Sisak tot Salomo sterft."
+          ]
+        ],
+        "note": "Hadad, Hadad-ezer en Rezon zijn verschillende personen."
+      }
+    },
+    {
+      "book": "1koningen",
+      "chapter": 11,
+      "verse": 9,
+      "file": "11-oordeel-en-opvolging.svg",
+      "scene": "Afkeer, oordeel en opvolging",
+      "alt": "Oorzaak, tijdstip, voorwaarden en opvolging in het oordeel.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1333,
+      "source": "1 Koningen 11:9–13, 31–43",
+      "design": {
+        "rows": [
+          [
+            "De oorzaak",
+            "Salomo houdt zich niet aan Gods verbod andere goden te volgen."
+          ],
+          [
+            "De timing",
+            "De afscheuring gebeurt uit de hand van zijn zoon, niet tijdens zijn eigen leven."
+          ],
+          [
+            "De belofte aan Jerobeam",
+            "Zijn blijvende huis wordt verbonden aan luisteren en gehoorzamen."
+          ],
+          [
+            "Davids huis",
+            "Behoud van een stam en een lamp in Jeruzalem; de vernedering is niet voor altijd."
+          ],
+          [
+            "De opvolger",
+            "Na veertig jaar regering sterft Salomo; Rehabeam wordt koning."
+          ]
+        ],
+        "note": "Het beeld van een lamp bij Davids huis verwoordt een belofte over zijn nakomelingen."
+      }
+    },
+    {
+      "book": "1koningen",
+      "chapter": 12,
+      "verse": 6,
+      "file": "12-twee-adviezen.svg",
+      "scene": "Twee adviezen, twee rijken",
+      "alt": "De tegengestelde raad en de politieke en profetische gevolgen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1247,
+      "source": "1 Koningen 12:6–24",
+      "design": {
+        "rows": [
+          [
+            "De oudsten",
+            "Dien het volk en geef een vriendelijk antwoord."
+          ],
+          [
+            "De leeftijdgenoten",
+            "Maak het juk zwaarder; Rehabeam kiest dit harde antwoord."
+          ],
+          [
+            "Het gevolg",
+            "Israël verbreekt de band met het huis van David; Jerobeam wordt koning."
+          ],
+          [
+            "Rehabeams aanhang",
+            "Juda en Benjamin worden voor de tegenactie bijeengeroepen."
+          ],
+          [
+            "Semaja’s woord",
+            "Niet tegen de broers optrekken; ieder gaat naar huis."
+          ]
+        ],
+        "note": "De taal over juk, zwepen en schorpioenen is onderdeel van de dreigende rede."
+      }
+    },
+    {
+      "book": "1koningen",
+      "chapter": 12,
+      "verse": 25,
+      "file": "12-twee-heiligdommen.svg",
+      "scene": "Jerobeams eigen eredienst",
+      "alt": "Motief, locaties, priesters en feestdatum van Jerobeams verandering.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1118,
+      "source": "1 Koningen 12:25–33",
+      "design": {
+        "rows": [
+          [
+            "Zijn angst",
+            "Wie in Jeruzalem offert, kan terugkeren naar Rehabeam."
+          ],
+          [
+            "Twee kalveren",
+            "Eén in Bethel en één in Dan."
+          ],
+          [
+            "Nieuwe priesters",
+            "Uit het gewone volk, niet uit Levi."
+          ],
+          [
+            "Eigen feestdatum",
+            "Vijftiende dag van de achtste maand; door Jerobeam zelf bedacht."
+          ],
+          [
+            "Het oordeel van de tekst",
+            "Deze eredienst wordt een zonde genoemd."
+          ]
+        ],
+        "note": "Bethel en Dan zijn afzonderlijke plaatsen; de kalveren staan niet samen bij één altaar."
+      }
+    },
+    {
+      "book": "1koningen",
+      "chapter": 6,
+      "verse": 2,
+      "file": "6-2-tempel-plattegrond.svg",
+      "scene": "Maten en indeling van het tempelhuis",
+      "alt": "Ruimteschema met grote zaal, kubusvormig binnenste heiligdom en voorhal, volgens 1 Koningen 6.",
+      "kind": "diagram",
+      "width": 1100,
+      "height": 690,
+      "source": "1 Koningen 6:2–3, 16–20",
+      "design": {
+        "geometry": "24 pixels per meter; 9+18 meter huis en 4,5 meter voorhal; geen wanddikten of oriëntatie aangenomen"
+      }
+    }
+  ]
+}
