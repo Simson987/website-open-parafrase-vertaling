@@ -5481,6 +5481,156 @@
           "source": "Jozua 23:3–16"
         }
       ]
+    },
+    {
+      "book": "richteren",
+      "chapter": 1,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "De Kenieten op reis vormen een eigen gebeurtenis naast samenwerking, Achsa en toegang tot Bethel. Twee schema’s controleren blijvende bewoners en het verschil tussen twee plaatsen Luz.",
+      "additions": [
+        {
+          "verse": 16,
+          "scene": "De Kenieten trekken naar de woestijn",
+          "kind": "scene",
+          "file": "1-16-uitbreiding.webp"
+        },
+        {
+          "verse": 21,
+          "file": "1-blijvende-bewoners.svg",
+          "scene": "De blijvende bewoners",
+          "kind": "diagram",
+          "source": "Richteren 1:21–35"
+        },
+        {
+          "verse": 23,
+          "file": "1-twee-luzen.svg",
+          "scene": "Bethel en een nieuw Luz",
+          "kind": "diagram",
+          "source": "Richteren 1:23–26"
+        }
+      ]
+    },
+    {
+      "book": "richteren",
+      "chapter": 3,
+      "status": "reviewed",
+      "target_images": 7,
+      "reason": "Ontsnapping en Samgars ossenstok ontbreken naast Othniël, schatting en ramshoorn. Twee schema’s geven verhaalvolgorde en exacte termijnen zonder gewelddetail.",
+      "additions": [
+        {
+          "verse": 23,
+          "scene": "Ehud sluit de deuren achter zich",
+          "kind": "scene",
+          "file": "3-23-uitbreiding.webp"
+        },
+        {
+          "verse": 31,
+          "scene": "Samgar en de ossenstok",
+          "kind": "poetic",
+          "file": "3-31-uitbreiding.webp"
+        },
+        {
+          "verse": 8,
+          "file": "3-rechters-en-jaren.svg",
+          "scene": "Rechters en genoemde jaren",
+          "kind": "diagram",
+          "source": "Richteren 3:8–31"
+        },
+        {
+          "verse": 15,
+          "file": "3-ehuds-verhaal.svg",
+          "scene": "Het verloop rond Ehud",
+          "kind": "diagram",
+          "source": "Richteren 3:15–30"
+        }
+      ]
+    },
+    {
+      "book": "richteren",
+      "chapter": 4,
+      "status": "reviewed",
+      "target_images": 7,
+      "reason": "De afdaling en de ontvangst bij de tent zijn afzonderlijke stappen naast rechtspraak, optrekken en melk. Twee schema’s ordenen personen, aantallen en plaatsen.",
+      "additions": [
+        {
+          "verse": 14,
+          "scene": "Barak daalt van de Tabor af",
+          "kind": "scene",
+          "file": "4-14-uitbreiding.webp"
+        },
+        {
+          "verse": 18,
+          "scene": "Jaël ontvangt de vluchtende Sisera",
+          "kind": "scene",
+          "file": "4-18-uitbreiding.webp"
+        },
+        {
+          "verse": 2,
+          "file": "4-personen-en-plaatsen.svg",
+          "scene": "Personen en hun rol",
+          "kind": "diagram",
+          "source": "Richteren 4:2–22"
+        },
+        {
+          "verse": 6,
+          "file": "4-tabor-kison-tent.svg",
+          "scene": "Tabor, Kison en de tent",
+          "kind": "diagram",
+          "source": "Richteren 4:6–24"
+        }
+      ]
+    },
+    {
+      "book": "richteren",
+      "chapter": 5,
+      "status": "reviewed",
+      "target_images": 7,
+      "reason": "De Kison en de wachtende moeder zijn eigen beelden en perspectieven naast zingen, waterput en zon. Twee leeswijzers onderscheiden deelname, poëzie en de verwachtingen van de moeder.",
+      "additions": [
+        {
+          "verse": 21,
+          "scene": "Liedbeeld: de beek Kison",
+          "kind": "poetic",
+          "file": "5-21-uitbreiding.webp"
+        },
+        {
+          "verse": 28,
+          "scene": "Sisera’s moeder kijkt uit",
+          "kind": "poetic",
+          "file": "5-28-uitbreiding.webp"
+        },
+        {
+          "verse": 14,
+          "file": "5-stammen-in-het-lied.svg",
+          "scene": "De stammen in het lied",
+          "kind": "diagram",
+          "source": "Richteren 5:14–18"
+        },
+        {
+          "verse": 1,
+          "file": "5-opbouw-deboralied.svg",
+          "scene": "De opbouw van het lied",
+          "kind": "diagram",
+          "source": "Richteren 5:1–31"
+        }
+      ]
+    },
+    {
+      "book": "richteren",
+      "chapter": 2,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "De drie bestaande scènes dekken boodschapper, huilen en redding. Een schema geeft het door de verteller genoemde terugkerende patroon.",
+      "additions": [
+        {
+          "verse": 10,
+          "file": "2-terugkerend-patroon.svg",
+          "scene": "Het terugkerende patroon",
+          "kind": "diagram",
+          "source": "Richteren 2:10–23"
+        }
+      ]
     }
   ]
 }
