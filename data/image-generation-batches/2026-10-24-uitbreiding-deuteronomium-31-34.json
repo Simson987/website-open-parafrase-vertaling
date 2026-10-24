@@ -1,0 +1,291 @@
+{
+  "date": "2026-10-24",
+  "started": "2026-10-24T02:53:36Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "deuteronomium",
+      "chapter": 31,
+      "verse": 15,
+      "scene": "Mozes en Jozua bij de wolkkolom",
+      "alt": "Mozes en Jozua bij de wolkkolom — Deuteronomium 31:15",
+      "kind": "scene",
+      "file": "31-15-uitbreiding.webp",
+      "prompt": "Photorealistic educational Bible image, landscape 3:2, natural anatomy, exactly two arms per person, modest full ancient Hebrew robes. No readable lettering, modern object, Roman armor, human-shaped deity, watermark or graphic death. Elderly Moses and adult Joshua stand together outside the entrance of a cloth meeting tent in a desert encampment. A distinct tall column of cloud rests over the tent entrance. Reverent calm, no human figure or face in the cloud, no stone temple, no exposed ark.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "deuteronomium",
+      "chapter": 31,
+      "verse": 22,
+      "scene": "Mozes schrijft het lied op",
+      "alt": "Mozes schrijft het lied op — Deuteronomium 31:22",
+      "kind": "scene",
+      "file": "31-22-uitbreiding.webp",
+      "prompt": "Photorealistic educational Bible image, landscape 3:2, natural anatomy, exactly two arms per person, modest full ancient Hebrew robes. No readable lettering, modern object, Roman armor, human-shaped deity, watermark or graphic death. Elderly Moses in complete woven robes sits by a desert tent and carefully writes an ancient parchment scroll using a simple reed pen, adult listeners in the distance. Writing is tiny and out of focus, not invented readable lyrics. Focus on recording the song, no musical instruments or printed book.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "deuteronomium",
+      "chapter": 32,
+      "verse": 7,
+      "scene": "Vraag het aan de ouderen",
+      "alt": "Vraag het aan de ouderen — Deuteronomium 32:7",
+      "kind": "poetic",
+      "file": "32-7-uitbreiding.webp",
+      "prompt": "Photorealistic educational Bible image, landscape 3:2, natural anatomy, exactly two arms per person, modest full ancient Hebrew robes. No readable lettering, modern object, Roman armor, human-shaped deity, watermark or graphic death. An elderly fully robed Hebrew man tells family history to two fully clothed adult younger listeners outside a desert tent. Attentive expressions and natural hands, no scroll quotation, divine apparition or flashback overlay. Illustrates the poetic instruction to ask older generations.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "deuteronomium",
+      "chapter": 32,
+      "verse": 4,
+      "scene": "Beeldspraak: een betrouwbare rots",
+      "alt": "Beeldspraak: een betrouwbare rots — Deuteronomium 32:4",
+      "kind": "poetic",
+      "file": "32-4-uitbreiding.webp",
+      "prompt": "Photorealistic educational Bible image, landscape 3:2, natural anatomy, exactly two arms per person, modest full ancient Hebrew robes. No readable lettering, modern object, Roman armor, human-shaped deity, watermark or graphic death. Poetic visual metaphor for the rock in the song: a massive stable natural rock formation stands over a quiet desert valley in warm dawn light, no people, carved face, idol or lettering. Photoreal landscape, metaphor not a literal picture of God.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "deuteronomium",
+      "chapter": 34,
+      "verse": 4,
+      "scene": "Mozes ziet het beloofde land",
+      "alt": "Mozes ziet het beloofde land — Deuteronomium 34:4",
+      "kind": "scene",
+      "file": "34-4-uitbreiding.webp",
+      "prompt": "Photorealistic educational Bible image, landscape 3:2, natural anatomy, exactly two arms per person, modest full ancient Hebrew robes. No readable lettering, modern object, Roman armor, human-shaped deity, watermark or graphic death. Elderly Moses fully robed stands STILL on a rocky summit east of the Jordan, seen from behind, gazing over a broad river valley and distant green hills. A quiet final view rather than another climbing scene. No human deity, labeled borders, impossible map view or funeral monument.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "deuteronomium",
+      "chapter": 31,
+      "verse": 10,
+      "file": "31-zevenjaarlijks-voorlezen.svg",
+      "scene": "Iedere zeven jaar voorlezen",
+      "alt": "De termijn, het feest, de deelnemers en het doel van de wetlezing.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1098,
+      "source": "Deuteronomium 31:9–13",
+      "design": {
+        "rows": [
+          [
+            "Wanneer?",
+            "Aan het eind van elke zeven jaar, in het jaar van kwijtschelding."
+          ],
+          [
+            "Welk feest?",
+            "Tijdens het loofhuttenfeest, op de gekozen plaats."
+          ],
+          [
+            "Wie luisteren?",
+            "Mannen, vrouwen, kinderen en de vreemdelingen."
+          ],
+          [
+            "Waarom?",
+            "Horen, leren vrezen en de woorden van de wet doen; ook de kinderen leren luisteren."
+          ]
+        ],
+        "note": "De scène illustreert de voorgeschreven toekomstige samenkomst."
+      }
+    },
+    {
+      "book": "deuteronomium",
+      "chapter": 31,
+      "verse": 19,
+      "file": "31-wet-en-lied.svg",
+      "scene": "Wet en lied als getuigen",
+      "alt": "Het verschillende vastleggen van lied en wetboek en de functie van beide als getuige.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1091,
+      "source": "Deuteronomium 31:19–30",
+      "design": {
+        "rows": [
+          [
+            "Het lied opschrijven",
+            "Mozes schrijft het die dag op en leert het de Israëlieten."
+          ],
+          [
+            "Van buiten kennen",
+            "Het lied blijft bekend bij de nakomelingen en zal tegen hen getuigen."
+          ],
+          [
+            "De wet afronden",
+            "Mozes schrijft de woorden van de wet volledig op."
+          ],
+          [
+            "Naast de ark",
+            "Het wetboek komt naast de ark als getuige, niet in de ark."
+          ]
+        ],
+        "note": "De plaats van het wetboek is uitdrukkelijk naast de ark; het lied en het wetboek worden onderscheiden."
+      }
+    },
+    {
+      "book": "deuteronomium",
+      "chapter": 32,
+      "verse": 1,
+      "file": "32-opbouw-lied.svg",
+      "scene": "De opbouw van het lied",
+      "alt": "De structuur van het lied en de daaropvolgende oproep aan de hoorders.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1326,
+      "source": "Deuteronomium 32:1–47",
+      "design": {
+        "rows": [
+          [
+            "Vers 1–14",
+            "Hemel en aarde aangesproken; Gods trouw en zorg worden bezongen."
+          ],
+          [
+            "Vers 15–18",
+            "Jesuruns overvloed gaat over in ontrouw en het vergeten van de Rots."
+          ],
+          [
+            "Vers 19–35",
+            "Oordeel, vijanden en gebrek aan inzicht worden uitgesproken."
+          ],
+          [
+            "Vers 36–43",
+            "Recht doen, ontferming en Gods unieke macht."
+          ],
+          [
+            "Vers 44–47",
+            "Mozes en Jozua spreken het lied; de woorden moeten ter harte worden genomen."
+          ]
+        ],
+        "note": "Regen, Rots en arend zijn beelden in een lied. Ze worden niet als één historisch tafereel samengevoegd."
+      }
+    },
+    {
+      "book": "deuteronomium",
+      "chapter": 33,
+      "verse": 6,
+      "file": "33-stamzegen-eerste-deel.svg",
+      "scene": "De stamzegen — eerste deel",
+      "alt": "De eerste vijf genoemde stammen in de zegen, met de eigen onderwerpen en versverwijzingen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1161,
+      "source": "Deuteronomium 33:6–17",
+      "design": {
+        "rows": [
+          [
+            "Ruben · vers 6",
+            "Leven, niet sterven en talrijke mannen."
+          ],
+          [
+            "Juda · vers 7",
+            "Gehoord worden, terugkeer en hulp tegenover vijanden."
+          ],
+          [
+            "Levi · vers 8–11",
+            "Urim en Thummim; het verbond bewaren, wet onderwijzen en offers brengen."
+          ],
+          [
+            "Benjamin · vers 12",
+            "Veiligheid en dagelijkse bescherming."
+          ],
+          [
+            "Jozef · vers 13–17",
+            "Land, dauw en opbrengst; Efraïm en Manasse worden afzonderlijk genoemd."
+          ]
+        ],
+        "note": "Dit is de volgorde van de zegen; Simeon krijgt in dit hoofdstuk geen afzonderlijke strofe."
+      }
+    },
+    {
+      "book": "deuteronomium",
+      "chapter": 33,
+      "verse": 18,
+      "file": "33-stamzegen-tweede-deel.svg",
+      "scene": "De stamzegen — tweede deel",
+      "alt": "De tweede helft van de stamzegen en de gezamenlijke afsluiting.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1439,
+      "source": "Deuteronomium 33:18–29",
+      "design": {
+        "rows": [
+          [
+            "Zebulon en Issaschar",
+            "Vers 18–19: vreugde bij uittrekken en in tenten; rijkdom van zee en zand."
+          ],
+          [
+            "Gad",
+            "Vers 20–21: ruimte, het gekozen eerste deel en optreden met de leiders."
+          ],
+          [
+            "Dan",
+            "Vers 22: het beeld van een jonge leeuw uit Basan."
+          ],
+          [
+            "Nafthali",
+            "Vers 23: gunst en zegen; het westen en zuiden in bezit nemen."
+          ],
+          [
+            "Aser",
+            "Vers 24–25: zegen, olie en grendels van ijzer en koper."
+          ],
+          [
+            "De gezamenlijke afsluiting",
+            "Vers 26–29: Gods hulp, toevlucht en de veiligheid van Israël."
+          ]
+        ],
+        "note": "Leeuw, olie en eeuwige armen zijn poëtische taal; geen gezinsportretten van de stamvaders."
+      }
+    },
+    {
+      "book": "deuteronomium",
+      "chapter": 34,
+      "verse": 1,
+      "file": "34-laatste-hoofdstuk.svg",
+      "scene": "Mozes en de opvolging",
+      "alt": "De laatste gebeurtenissen rond Mozes, de rouw en de overgang naar Jozua.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1439,
+      "source": "Deuteronomium 34:1–12",
+      "design": {
+        "rows": [
+          [
+            "Nebo en Pisga",
+            "Mozes ziet het land vanaf de hoogte tegenover Jericho, maar steekt niet over."
+          ],
+          [
+            "Sterven en begraven",
+            "Hij sterft in Moab; de tekst zegt dat niemand de plaats van zijn graf weet."
+          ],
+          [
+            "Zijn leeftijd",
+            "120 jaar; zijn ogen en kracht waren niet verdwenen."
+          ],
+          [
+            "Dertig dagen rouw",
+            "Israël rouwt in de vlakte van Moab."
+          ],
+          [
+            "Jozua",
+            "Vervuld met de geest van wijsheid; het volk luistert naar hem."
+          ],
+          [
+            "De slotgetuigenis",
+            "De tekst benadrukt de uitzonderlijke plaats van Mozes en zijn tekenen."
+          ]
+        ],
+        "note": "Er wordt geen grafplaats aangewezen en geen zichtbaar grafmonument verzonnen."
+      }
+    }
+  ]
+}

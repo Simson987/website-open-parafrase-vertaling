@@ -4767,6 +4767,114 @@
           "source": "Deuteronomium 30:1–20"
         }
       ]
+    },
+    {
+      "book": "deuteronomium",
+      "chapter": 31,
+      "status": "reviewed",
+      "target_images": 7,
+      "reason": "De wolkkolom en het vastleggen van het lied ontbreken naast moed, overdracht en lezing. Twee schema’s verduidelijken de zevenjaarlijkse lezing en het onderscheid tussen wet en lied.",
+      "additions": [
+        {
+          "verse": 15,
+          "scene": "Mozes en Jozua bij de wolkkolom",
+          "kind": "scene",
+          "file": "31-15-uitbreiding.webp"
+        },
+        {
+          "verse": 22,
+          "scene": "Mozes schrijft het lied op",
+          "kind": "scene",
+          "file": "31-22-uitbreiding.webp"
+        },
+        {
+          "verse": 10,
+          "file": "31-zevenjaarlijks-voorlezen.svg",
+          "scene": "Iedere zeven jaar voorlezen",
+          "kind": "diagram",
+          "source": "Deuteronomium 31:9–13"
+        },
+        {
+          "verse": 19,
+          "file": "31-wet-en-lied.svg",
+          "scene": "Wet en lied als getuigen",
+          "kind": "diagram",
+          "source": "Deuteronomium 31:19–30"
+        }
+      ]
+    },
+    {
+      "book": "deuteronomium",
+      "chapter": 32,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "De ouderen raadplegen en de Rots zijn eigen motieven naast regen, arend en de voordracht. Een leeswijzer bewaakt de opbouw en het poëtische karakter.",
+      "additions": [
+        {
+          "verse": 7,
+          "scene": "Vraag het aan de ouderen",
+          "kind": "poetic",
+          "file": "32-7-uitbreiding.webp"
+        },
+        {
+          "verse": 4,
+          "scene": "Beeldspraak: een betrouwbare rots",
+          "kind": "poetic",
+          "file": "32-4-uitbreiding.webp"
+        },
+        {
+          "verse": 1,
+          "file": "32-opbouw-lied.svg",
+          "scene": "De opbouw van het lied",
+          "kind": "diagram",
+          "source": "Deuteronomium 32:1–47"
+        }
+      ]
+    },
+    {
+      "book": "deuteronomium",
+      "chapter": 34,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Het daadwerkelijk uitzien vanaf de top ontbreekt naast klim, rouw en opvolging. Een schema bewaakt volgorde, leeftijden en de onbekende grafplaats.",
+      "additions": [
+        {
+          "verse": 4,
+          "scene": "Mozes ziet het beloofde land",
+          "kind": "scene",
+          "file": "34-4-uitbreiding.webp"
+        },
+        {
+          "verse": 1,
+          "file": "34-laatste-hoofdstuk.svg",
+          "scene": "Mozes en de opvolging",
+          "kind": "diagram",
+          "source": "Deuteronomium 34:1–12"
+        }
+      ]
+    },
+    {
+      "book": "deuteronomium",
+      "chapter": 33,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "De drie bestaande beelden geven zegen, dauw en veiligheid weer. Twee controleerbare schema’s voegen alle genoemde stamstrofen in exacte volgorde toe, zonder een ontbrekende Simeonstrofe te verzinnen.",
+      "additions": [
+        {
+          "verse": 6,
+          "file": "33-stamzegen-eerste-deel.svg",
+          "scene": "De stamzegen — eerste deel",
+          "kind": "diagram",
+          "source": "Deuteronomium 33:6–17"
+        },
+        {
+          "verse": 18,
+          "file": "33-stamzegen-tweede-deel.svg",
+          "scene": "De stamzegen — tweede deel",
+          "kind": "diagram",
+          "source": "Deuteronomium 33:18–29"
+        }
+      ]
     }
   ]
 }
