@@ -1735,6 +1735,186 @@
           "source": "Exodus 6:19–24"
         }
       ]
+    },
+    {
+      "book": "exodus",
+      "chapter": 12,
+      "status": "reviewed",
+      "target_images": 11,
+      "reason": "Dit lange hoofdstuk krijgt afzonderlijke scènes voor lamkeuze, zuurdeeg verwijderen, oudsten, nachtelijk vertrekbevel en deegkommen. Drie schema’s ordenen de kalender, maaltijd en deelnamevoorwaarden.",
+      "additions": [
+        {
+          "verse": 3,
+          "scene": "Een gaaf lam wordt gekozen",
+          "kind": "scene",
+          "file": "12-3-verhaal.webp"
+        },
+        {
+          "verse": 15,
+          "scene": "Het zuurdeeg wordt verwijderd",
+          "kind": "scene",
+          "file": "12-15-verhaal.webp"
+        },
+        {
+          "verse": 21,
+          "scene": "Mozes spreekt de oudsten over het Pascha",
+          "kind": "scene",
+          "file": "12-21-verhaal.webp"
+        },
+        {
+          "verse": 31,
+          "scene": "Farao beveelt die nacht te vertrekken",
+          "kind": "scene",
+          "file": "12-31-verhaal.webp"
+        },
+        {
+          "verse": 34,
+          "scene": "De deegkommen worden haastig meegenomen",
+          "kind": "scene",
+          "file": "12-34-verhaal.webp"
+        },
+        {
+          "verse": 3,
+          "file": "12-kalender-pascha.svg",
+          "scene": "De dagen rond het Pascha",
+          "kind": "diagram",
+          "source": "Exodus 12:2–18"
+        },
+        {
+          "verse": 8,
+          "file": "12-maaltijd-en-vertrek.svg",
+          "scene": "De maaltijd gereed voor vertrek",
+          "kind": "diagram",
+          "source": "Exodus 12:4–13, 22"
+        },
+        {
+          "verse": 48,
+          "file": "12-deelname-pascha.svg",
+          "scene": "Wie deelt in het Pascha?",
+          "kind": "diagram",
+          "source": "Exodus 12:43–49"
+        }
+      ]
+    },
+    {
+      "book": "exodus",
+      "chapter": 13,
+      "status": "reviewed",
+      "target_images": 8,
+      "reason": "Uitleg aan de volgende generatie, Etham en de nachtelijke vuurkolom vullen de dagreis aan. Twee schema’s ordenen vrijkopen en route zonder een verzonnen geografische zekerheid.",
+      "additions": [
+        {
+          "verse": 8,
+          "scene": "Een vader legt het gedenken uit",
+          "kind": "scene",
+          "file": "13-8-verhaal.webp"
+        },
+        {
+          "verse": 20,
+          "scene": "Het kamp bij Etham",
+          "kind": "scene",
+          "file": "13-20-verhaal.webp"
+        },
+        {
+          "verse": 22,
+          "scene": "De vuurkolom geeft licht in de nacht",
+          "kind": "scene",
+          "file": "13-22-verhaal.webp"
+        },
+        {
+          "verse": 13,
+          "file": "13-eerstgeborenen-en-vrijkopen.svg",
+          "scene": "Eerstgeborenen en vrijkopen",
+          "kind": "diagram",
+          "source": "Exodus 13:1–16"
+        },
+        {
+          "verse": 17,
+          "file": "13-route-en-leiding.svg",
+          "scene": "De route en de leiding",
+          "kind": "diagram",
+          "source": "Exodus 13:17–22"
+        }
+      ]
+    },
+    {
+      "book": "exodus",
+      "chapter": 14,
+      "status": "reviewed",
+      "target_images": 7,
+      "reason": "Het inspannen van Farao’s wagen, de beschermende wolk en vastlopende wagens zijn eigen gebeurtenissen. De tijdlijn verduidelijkt nacht en ochtend zonder verdrinking uit te beelden.",
+      "additions": [
+        {
+          "verse": 6,
+          "scene": "Farao laat zijn wagen inspannen",
+          "kind": "scene",
+          "file": "14-6-verhaal.webp"
+        },
+        {
+          "verse": 20,
+          "scene": "De wolkkolom staat tussen de legers",
+          "kind": "scene",
+          "file": "14-20-verhaal.webp"
+        },
+        {
+          "verse": 25,
+          "scene": "De strijdwagens komen moeilijk vooruit",
+          "kind": "scene",
+          "file": "14-25-verhaal.webp"
+        },
+        {
+          "verse": 21,
+          "file": "14-nacht-en-ochtend.svg",
+          "scene": "De doortocht: nacht en ochtend",
+          "kind": "diagram",
+          "source": "Exodus 14:19–31"
+        }
+      ]
+    },
+    {
+      "book": "exodus",
+      "chapter": 15,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Elim ontbreekt als afzonderlijke aankomst. Een liedwijzer onderscheidt beeldspraak; een reisschema controleert drie dagen, twaalf bronnen en zeventig palmen.",
+      "additions": [
+        {
+          "verse": 27,
+          "scene": "Het kamp bij de bronnen van Elim",
+          "kind": "scene",
+          "file": "15-27-verhaal.webp"
+        },
+        {
+          "verse": 1,
+          "file": "15-leeswijzer-lied.svg",
+          "scene": "Leeswijzer bij het lied",
+          "kind": "diagram",
+          "source": "Exodus 15:1–21"
+        },
+        {
+          "verse": 22,
+          "file": "15-sur-mara-elim.svg",
+          "scene": "Van Sur via Mara naar Elim",
+          "kind": "diagram",
+          "source": "Exodus 15:22–27"
+        }
+      ]
+    },
+    {
+      "book": "exodus",
+      "chapter": 11,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "De bestaande drie scènes dekken de gesprekken. Een leeswijzer onderscheidt aankondiging en latere uitvoering; nog een paleisgesprek zou dupliceren.",
+      "additions": [
+        {
+          "verse": 4,
+          "file": "11-aankondiging-laatste-plaag.svg",
+          "scene": "De laatste plaag aangekondigd",
+          "kind": "diagram",
+          "source": "Exodus 11:1–10"
+        }
+      ]
     }
   ]
 }

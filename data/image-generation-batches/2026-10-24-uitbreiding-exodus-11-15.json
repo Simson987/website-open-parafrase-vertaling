@@ -1,0 +1,470 @@
+{
+  "date": "2026-10-24",
+  "started": "2026-10-24T00:52:32Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "exodus",
+      "chapter": 12,
+      "verse": 3,
+      "scene": "Een gaaf lam wordt gekozen",
+      "alt": "Een gaaf lam wordt gekozen — Exodus 12:3",
+      "kind": "scene",
+      "file": "12-3-verhaal.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible illustration, landscape 3:2, authentic ancient Near Eastern materials, natural light, all people fully modestly clothed, natural faces, correct hands and anatomy, no modern objects, readable text, watermark or human-shaped deity. An adult Hebrew family head in full robes carefully selects a healthy one-year-old male sheep from a small flock beside an ancient Egyptian home, peaceful daylight, live animals only, no slaughter or weapons.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "exodus",
+      "chapter": 12,
+      "verse": 15,
+      "scene": "Het zuurdeeg wordt verwijderd",
+      "alt": "Het zuurdeeg wordt verwijderd — Exodus 12:15",
+      "kind": "scene",
+      "file": "12-15-verhaal.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible illustration, landscape 3:2, authentic ancient Near Eastern materials, natural light, all people fully modestly clothed, natural faces, correct hands and anatomy, no modern objects, readable text, watermark or human-shaped deity. Fully clothed adult Hebrew household members clean their ancient kitchen, removing old dough from clay bowls while preparing plain unleavened flatbread, no modern food packaging or equipment.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "exodus",
+      "chapter": 12,
+      "verse": 21,
+      "scene": "Mozes spreekt de oudsten over het Pascha",
+      "alt": "Mozes spreekt de oudsten over het Pascha — Exodus 12:21",
+      "kind": "scene",
+      "file": "12-21-verhaal.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible illustration, landscape 3:2, authentic ancient Near Eastern materials, natural light, all people fully modestly clothed, natural faces, correct hands and anatomy, no modern objects, readable text, watermark or human-shaped deity. Elderly eighty-year-old Moses with long gray beard and full robe addresses fully robed adult Hebrew elders in an ancient courtyard, giving solemn instructions before the Passover. No actual sacrifice, animals or scrolls.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "exodus",
+      "chapter": 12,
+      "verse": 31,
+      "scene": "Farao beveelt die nacht te vertrekken",
+      "alt": "Farao beveelt die nacht te vertrekken — Exodus 12:31",
+      "kind": "scene",
+      "file": "12-31-verhaal.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible illustration, landscape 3:2, authentic ancient Near Eastern materials, natural light, all people fully modestly clothed, natural faces, correct hands and anatomy, no modern objects, readable text, watermark or human-shaped deity. In an ancient Egyptian palace at night, adult Pharaoh in full modest robes speaks urgently to elderly eighty-year-old Moses and eighty-three-year-old Aaron, both gray-bearded and fully robed. Sober hurried audience, no children, bodies, violence or injuries.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "exodus",
+      "chapter": 12,
+      "verse": 34,
+      "scene": "De deegkommen worden haastig meegenomen",
+      "alt": "De deegkommen worden haastig meegenomen — Exodus 12:34",
+      "kind": "scene",
+      "file": "12-34-verhaal.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible illustration, landscape 3:2, authentic ancient Near Eastern materials, natural light, all people fully modestly clothed, natural faces, correct hands and anatomy, no modern objects, readable text, watermark or human-shaped deity. Fully clothed Hebrew adults prepare to leave ancient Egypt, carrying clay kneading bowls wrapped in cloth on their shoulders, hurried but orderly doorway scene, no bread already baked, no harm or weapons.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "exodus",
+      "chapter": 13,
+      "verse": 8,
+      "scene": "Een vader legt het gedenken uit",
+      "alt": "Een vader legt het gedenken uit — Exodus 13:8",
+      "kind": "scene",
+      "file": "13-8-verhaal.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible illustration, landscape 3:2, authentic ancient Near Eastern materials, natural light, all people fully modestly clothed, natural faces, correct hands and anatomy, no modern objects, readable text, watermark or human-shaped deity. An adult Hebrew father in full modest ancient robes talks gently with his fully clothed school-aged son beside simple unleavened bread at a family table, teaching the meaning of deliverance. No readable text, modern religious objects or danger.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "exodus",
+      "chapter": 13,
+      "verse": 20,
+      "scene": "Het kamp bij Etham",
+      "alt": "Het kamp bij Etham — Exodus 13:20",
+      "kind": "scene",
+      "file": "13-20-verhaal.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible illustration, landscape 3:2, authentic ancient Near Eastern materials, natural light, all people fully modestly clothed, natural faces, correct hands and anatomy, no modern objects, readable text, watermark or human-shaped deity. A large ancient Israelite traveling camp at the edge of a broad desert, modest cloth tents, loaded donkeys and healthy sheep, fully clothed travelers resting, no invented labels, geographical map or military battle.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "exodus",
+      "chapter": 13,
+      "verse": 22,
+      "scene": "De vuurkolom geeft licht in de nacht",
+      "alt": "De vuurkolom geeft licht in de nacht — Exodus 13:22",
+      "kind": "scene",
+      "file": "13-22-verhaal.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible illustration, landscape 3:2, authentic ancient Near Eastern materials, natural light, all people fully modestly clothed, natural faces, correct hands and anatomy, no modern objects, readable text, watermark or human-shaped deity. Ancient Israelite travelers in full modest robes follow a towering luminous column of fire at a safe distance across the desert at night, warm light on the path, no human figure in the fire, no burning tents or harm.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "exodus",
+      "chapter": 14,
+      "verse": 6,
+      "scene": "Farao laat zijn wagen inspannen",
+      "alt": "Farao laat zijn wagen inspannen — Exodus 14:6",
+      "kind": "scene",
+      "file": "14-6-verhaal.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible illustration, landscape 3:2, authentic ancient Near Eastern materials, natural light, all people fully modestly clothed, natural faces, correct hands and anatomy, no modern objects, readable text, watermark or human-shaped deity. Adult Egyptian Pharaoh in full modest royal robes watches adult attendants harness healthy horses to an ancient two-wheeled chariot at the palace gate, several chariots behind, no battle, attack or modern equipment.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "exodus",
+      "chapter": 14,
+      "verse": 20,
+      "scene": "De wolkkolom staat tussen de legers",
+      "alt": "De wolkkolom staat tussen de legers — Exodus 14:20",
+      "kind": "scene",
+      "file": "14-20-verhaal.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible illustration, landscape 3:2, authentic ancient Near Eastern materials, natural light, all people fully modestly clothed, natural faces, correct hands and anatomy, no modern objects, readable text, watermark or human-shaped deity. Wide nighttime view of an ancient coastal encampment, a great vertical cloud stands between a distant Egyptian chariot camp in darkness and an Israelite camp softly illuminated on the other side. No human figure in the cloud, no combat or drowning.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "exodus",
+      "chapter": 14,
+      "verse": 25,
+      "scene": "De strijdwagens komen moeilijk vooruit",
+      "alt": "De strijdwagens komen moeilijk vooruit — Exodus 14:25",
+      "kind": "scene",
+      "file": "14-25-verhaal.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible illustration, landscape 3:2, authentic ancient Near Eastern materials, natural light, all people fully modestly clothed, natural faces, correct hands and anatomy, no modern objects, readable text, watermark or human-shaped deity. At dawn adult Egyptian charioteers in full modest ancient robes struggle to move a stationary wooden chariot with one wheel dislodged on firm dry seabed, horses upright and healthy, distant walls of water, no injuries, deaths or actual drowning.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "exodus",
+      "chapter": 15,
+      "verse": 27,
+      "scene": "Het kamp bij de bronnen van Elim",
+      "alt": "Het kamp bij de bronnen van Elim — Exodus 15:27",
+      "kind": "scene",
+      "file": "15-27-verhaal.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible illustration, landscape 3:2, authentic ancient Near Eastern materials, natural light, all people fully modestly clothed, natural faces, correct hands and anatomy, no modern objects, readable text, watermark or human-shaped deity. Peaceful ancient Israelite tents among many date palms beside clear desert springs in an oasis, fully clothed families resting with sheep and donkeys. Wide photorealistic landscape, partial view of the oasis, do not imply exactly countable twelve springs or seventy palms in this view.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "exodus",
+      "chapter": 11,
+      "verse": 4,
+      "file": "11-aankondiging-laatste-plaag.svg",
+      "scene": "De laatste plaag aangekondigd",
+      "alt": "Exodus 11 kondigt de laatste plaag, het onderscheid voor Israël en het komende vertrek aan; de uitvoering wordt in Exodus 12 verteld.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1098,
+      "source": "Exodus 11:1–10",
+      "design": {
+        "rows": [
+          [
+            "Wat nu wordt gezegd",
+            "Mozes kondigt aan dat rond middernacht alle eerstgeborenen in Egypte zullen sterven."
+          ],
+          [
+            "Onderscheid voor Israël",
+            "God zal verschil maken tussen de Egyptenaren en de Israëlieten."
+          ],
+          [
+            "Aangekondigd vertrek",
+            "Farao’s dienaren zullen vragen om met het hele volk te vertrekken."
+          ],
+          [
+            "De volgende stap in het verhaal",
+            "De uitvoering en het daadwerkelijke vertrek staan in Exodus 12."
+          ]
+        ],
+        "note": "Dit hoofdstuk bevat de aankondiging. Het schema beeldt geen dood van mensen of dieren af."
+      }
+    },
+    {
+      "book": "exodus",
+      "chapter": 12,
+      "verse": 3,
+      "file": "12-kalender-pascha.svg",
+      "scene": "De dagen rond het Pascha",
+      "alt": "De tiende dag wordt het lam gekozen, op de veertiende dag in de avond geslacht; van avond veertien tot avond eenentwintig wordt ongezuurd brood gegeten.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1283,
+      "source": "Exodus 12:2–18",
+      "design": {
+        "rows": [
+          [
+            "Eerste maand",
+            "Deze maand wordt het begin van de maanden."
+          ],
+          [
+            "Dag 10",
+            "Ieder gezin kiest een lam; kleine gezinnen kunnen samen delen."
+          ],
+          [
+            "Dag 14, in de avond",
+            "Het lam wordt geslacht en die nacht gegeten."
+          ],
+          [
+            "Avond 14 tot avond 21",
+            "Ongezuurd brood eten; geen zuurdeeg in de huizen."
+          ],
+          [
+            "Eerste en zevende dag",
+            "Een heilige bijeenkomst; alleen voedselbereiding is toegestaan."
+          ]
+        ],
+        "note": "De kalender volgt de dag- en avondsaanduidingen van de tekst, zonder een moderne datum in te vullen."
+      }
+    },
+    {
+      "book": "exodus",
+      "chapter": 12,
+      "verse": 8,
+      "file": "12-maaltijd-en-vertrek.svg",
+      "scene": "De maaltijd gereed voor vertrek",
+      "alt": "De eerste paschamaaltijd bestaat uit geroosterd vlees, ongezuurd brood en bittere kruiden, gegeten gereed voor vertrek en onder het teken aan de deur.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1247,
+      "source": "Exodus 12:4–13, 22",
+      "design": {
+        "rows": [
+          [
+            "Wat wordt gegeten",
+            "Geroosterd vlees, ongezuurd brood en bittere kruiden."
+          ],
+          [
+            "Hoe het wordt bereid",
+            "Roosteren boven vuur; niet rauw eten of in water koken."
+          ],
+          [
+            "Houding bij de maaltijd",
+            "Kleding opgebonden, schoenen aan en staf in de hand; haastig eten."
+          ],
+          [
+            "Teken aan de deur",
+            "Bloed aan beide deurposten en de bovendorpel."
+          ],
+          [
+            "Binnenblijven",
+            "Niemand mag vóór de ochtend het huis uit."
+          ]
+        ],
+        "note": "Dit overzicht verklaart de eerste paschamaaltijd in de nacht van het vertrek."
+      }
+    },
+    {
+      "book": "exodus",
+      "chapter": 12,
+      "verse": 48,
+      "file": "12-deelname-pascha.svg",
+      "scene": "Wie deelt in het Pascha?",
+      "alt": "Het schema zet de deelnamevoorwaarden uit Exodus 12 naast elkaar, met dezelfde wet voor ingezetene en vreemdeling.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1326,
+      "source": "Exodus 12:43–49",
+      "design": {
+        "rows": [
+          [
+            "De gemeenschap van Israël",
+            "De hele gemeenschap moet het Pascha vieren."
+          ],
+          [
+            "Gekochte dienaar",
+            "Mag deelnemen nadat hij besneden is."
+          ],
+          [
+            "Inwonende buitenlander",
+            "Een inwonende buitenlander of ingehuurde arbeider neemt niet vanzelf deel."
+          ],
+          [
+            "Een vreemdeling die wil vieren",
+            "Alle mannen van zijn huishouden moeten besneden worden; daarna geldt hij als een ingezetene."
+          ],
+          [
+            "Eén wet",
+            "Voor ingezetene en vreemdeling geldt dezelfde wet."
+          ]
+        ],
+        "note": "De voorwaarden volgen deze passage en onderscheiden verblijf van deelname aan de verbondsviering."
+      }
+    },
+    {
+      "book": "exodus",
+      "chapter": 13,
+      "verse": 13,
+      "file": "13-eerstgeborenen-en-vrijkopen.svg",
+      "scene": "Eerstgeborenen en vrijkopen",
+      "alt": "Exodus 13 onderscheidt de wijding van eerstgeborenen, het vrijkopen van iedere zoon en van een ezel met een lam, en het doorvertellen van de bevrijding.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "Exodus 13:1–16",
+      "design": {
+        "rows": [
+          [
+            "Eerstgeboren mannetjes",
+            "Zonen en eerstgeboren mannelijk vee behoren aan de HEERE."
+          ],
+          [
+            "Iedere eerstgeboren zoon",
+            "Moet worden vrijgekocht."
+          ],
+          [
+            "Eerstgeboren ezel",
+            "Moet worden vrijgekocht met een lam. De tekst noemt ook het gevolg als dat niet gebeurt."
+          ],
+          [
+            "Uitleg aan de volgende generatie",
+            "Vertel hoe de HEERE Israël met sterke hand uit de slavernij leidde."
+          ]
+        ],
+        "note": "Het schema houdt mensen en dieren afzonderlijk; het beveelt geen mensenoffer."
+      }
+    },
+    {
+      "book": "exodus",
+      "chapter": 13,
+      "verse": 17,
+      "file": "13-route-en-leiding.svg",
+      "scene": "De route en de leiding",
+      "alt": "De route loopt via de woestijn en de Schelfzee, van Sukkoth naar Etham, met leiding door wolk en vuur en de vervulling van de belofte aan Jozef.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1283,
+      "source": "Exodus 13:17–22",
+      "design": {
+        "rows": [
+          [
+            "Niet de korte weg",
+            "De route door het land van de Filistijnen wordt vermeden vanwege mogelijke strijd."
+          ],
+          [
+            "Wel via de woestijn",
+            "De omweg leidt langs de Schelfzee."
+          ],
+          [
+            "Plaatsen in de tekst",
+            "Sukkoth → Etham, aan de rand van de woestijn."
+          ],
+          [
+            "Overdag en ’s nachts",
+            "De wolkkolom leidt overdag; de vuurkolom geeft ’s nachts licht."
+          ],
+          [
+            "Jozefs belofte",
+            "Mozes neemt Jozefs gebeente mee zoals was toegezegd."
+          ]
+        ],
+        "note": "Dit is een schematische leesroute; de tekst geeft hier geen exacte hedendaagse kaartcoördinaten."
+      }
+    },
+    {
+      "book": "exodus",
+      "chapter": 14,
+      "verse": 21,
+      "file": "14-nacht-en-ochtend.svg",
+      "scene": "De doortocht: nacht en ochtend",
+      "alt": "Van de beschermende wolk en oostenwind in de nacht via de droge doortocht naar verwarring en terugstromend water in de ochtend.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1247,
+      "source": "Exodus 14:19–31",
+      "design": {
+        "rows": [
+          [
+            "Scheiding tussen de legers",
+            "De wolkkolom gaat achter Israël staan."
+          ],
+          [
+            "De hele nacht",
+            "Een sterke oostenwind doet de zee terugwijken; de grond wordt droog."
+          ],
+          [
+            "De doortocht",
+            "Israël gaat door het midden; water staat rechts en links als een muur."
+          ],
+          [
+            "Vroeg in de ochtend",
+            "Het Egyptische leger raakt in verwarring en de wagens komen moeilijk vooruit."
+          ],
+          [
+            "Bij het aanbreken van de dag",
+            "Het water stroomt terug over het Egyptische leger. Israël is gered."
+          ]
+        ],
+        "note": "De volgorde volgt de tijdsaanduidingen van het hoofdstuk; de afloop wordt sober beschreven."
+      }
+    },
+    {
+      "book": "exodus",
+      "chapter": 15,
+      "verse": 1,
+      "file": "15-leeswijzer-lied.svg",
+      "scene": "Leeswijzer bij het lied",
+      "alt": "Het lied bezingt redding, kracht, leiding en koningschap; Mirjam en de vrouwen antwoorden met een refrein.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1177,
+      "source": "Exodus 15:1–21",
+      "design": {
+        "rows": [
+          [
+            "Verzen 1–5",
+            "Lof om de redding en het lot van Farao’s leger."
+          ],
+          [
+            "Verzen 6–12",
+            "Poëtische taal over Gods kracht, wind, water en overwinning."
+          ],
+          [
+            "Verzen 13–18",
+            "Leiding van het bevrijde volk, ontzag bij volken en Gods blijvende koningschap."
+          ],
+          [
+            "Verzen 19–21",
+            "Samenvatting van de doortocht; Mirjam en de vrouwen antwoorden met zang en trommels."
+          ]
+        ],
+        "note": "Rechterhand en adem zijn beeldspraak in het lied; zij worden niet als menselijke lichaamsdelen van God afgebeeld."
+      }
+    },
+    {
+      "book": "exodus",
+      "chapter": 15,
+      "verse": 22,
+      "file": "15-sur-mara-elim.svg",
+      "scene": "Van Sur via Mara naar Elim",
+      "alt": "Na drie dagen zonder water in Sur volgt Mara met bitter water dat zoet wordt, en daarna Elim met twaalf bronnen en zeventig palmen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1134,
+      "source": "Exodus 15:22–27",
+      "design": {
+        "rows": [
+          [
+            "Woestijn Sur",
+            "Drie dagen reizen zonder water te vinden."
+          ],
+          [
+            "Mara",
+            "Het water is bitter; het volk klaagt en Mozes roept tot de HEERE."
+          ],
+          [
+            "Het aangewezen hout",
+            "Mozes gooit het in het water; het water wordt zoet."
+          ],
+          [
+            "Elim",
+            "Twaalf waterbronnen en zeventig palmbomen; het volk slaat er zijn kamp op."
+          ]
+        ],
+        "note": "De aantallen bij Elim staan hier exact; een landschapsbeeld toont alleen een gedeelte van de oase."
+      }
+    }
+  ]
+}
