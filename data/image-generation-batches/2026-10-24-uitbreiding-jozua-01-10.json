@@ -3,7 +3,28 @@
   "started": "2026-10-24T02:53:36Z",
   "mode": "built-in rasters and native SVG schemas",
   "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
-  "metadata_corrections": [],
+  "metadata_corrections": [
+    {
+      "book": "jozua",
+      "before": {
+        "chapter": 3,
+        "file": "3-jordan.webp",
+        "alt": "Priesters dragen de ark naar de Jordaan",
+        "scene": "Over de Jordaan"
+      },
+      "after": {
+        "chapter": 3,
+        "file": "3-jordan-herzien.webp",
+        "alt": "Vier priesters dragen de bedekte ark vóór de overtocht — Jozua 3:14",
+        "scene": "De ark gaat voor het volk uit",
+        "verse": 14,
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "De draagscène toont een bedekte ark met vier dragers en wordt gekoppeld aan het vertrek vóór de overtocht in vers 14."
+    }
+  ],
   "images": [
     {
       "book": "jozua",
@@ -609,6 +630,17 @@
         ],
         "note": "Een tekstuele routevolgorde zonder verzonnen coördinaten, afstanden of precieze dagduur van de hele tocht."
       }
+    }
+  ],
+  "revised_images": [
+    {
+      "book": "jozua",
+      "chapter": 3,
+      "verse": 14,
+      "original_file": "3-jordan.webp",
+      "file": "3-jordan-herzien.webp",
+      "prompt": "Edit this educational ancient Bible scene for Joshua 3:14, the approach BEFORE the river crossing. Preserve the river flowing normally, landscape, natural photographic style and the priestly procession. Completely conceal the golden ark AND cherubim beneath opaque deep BLUE cloth forming one fully wrapped chest-shaped bundle; no gold, cherub or sacred detail showing. Arrange exactly FOUR fully robed adult priests carrying it on exactly TWO straight parallel wooden poles, one priest at each end of each pole; the fourth may be partly occluded but anatomically coherent. Remove the nearby following crowd and donkey; show only tiny distant camp silhouettes on the far background bank to respect separation from the ark. Keep all priests modestly clothed with natural hands and exactly two arms. No readable text, modern things, deity, Roman uniforms, tidal sea walls or people in danger.",
+      "reason": "De draagscène toont een bedekte ark met vier dragers en wordt gekoppeld aan het vertrek vóór de overtocht in vers 14."
     }
   ]
 }
