@@ -1,0 +1,546 @@
+{
+  "date": "2026-10-24",
+  "started": "2026-10-24T02:53:36Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "numeri",
+      "chapter": 30,
+      "verse": 4,
+      "scene": "Een vader hoort de gelofte",
+      "alt": "Een vader hoort de gelofte — Numeri 30:4",
+      "kind": "scene",
+      "file": "30-4-uitbreiding.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible educational illustration, landscape 3:2, ancient Hebrew adults fully modestly robed, natural hands and exactly two arms each, no modern tools, readable lettering, watermark, wounds or human-shaped deity. Illustrate the legal case in Numbers 30:4: an ADULT young Hebrew woman speaks earnestly near a cloth desert family tent while her adult father listens quietly without interrupting, sober respectful family scene, no priest, wedding, contract or magical effects.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "numeri",
+      "chapter": 31,
+      "verse": 23,
+      "scene": "Voorwerpen worden gereinigd",
+      "alt": "Voorwerpen worden gereinigd — Numeri 31:23",
+      "kind": "scene",
+      "file": "31-23-uitbreiding.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible educational illustration, landscape 3:2, ancient Hebrew adults fully modestly robed, natural hands and exactly two arms each, no modern tools, readable lettering, watermark, wounds or human-shaped deity. Illustrate the ritual instruction of Numbers 31:23 in the Moab wilderness camp: fully robed adult Hebrew men wash ancient metal bowls and tools in ceramic basins, a fully clothed priest supervises. Plain cloth tents in background, no captured persons, battle, weapons raised, blood, remains, injury or stone temple.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "numeri",
+      "chapter": 32,
+      "verse": 28,
+      "scene": "Mozes geeft de afspraak door",
+      "alt": "Mozes geeft de afspraak door — Numeri 32:28",
+      "kind": "scene",
+      "file": "32-28-uitbreiding.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible educational illustration, landscape 3:2, ancient Hebrew adults fully modestly robed, natural hands and exactly two arms each, no modern tools, readable lettering, watermark, wounds or human-shaped deity. Elderly fully robed Moses gives instructions to adult Joshua and the priest Eleazar with several adult tribal leaders listening on the east bank of the Jordan near a cloth camp. Focus on the formal delegation of the agreed land arrangement, no map with lettering, no modern scroll text, no fighting.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "numeri",
+      "chapter": 33,
+      "verse": 2,
+      "scene": "Mozes schrijft de vertrekpunten op",
+      "alt": "Mozes schrijft de vertrekpunten op — Numeri 33:2",
+      "kind": "scene",
+      "file": "33-2-uitbreiding.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible educational illustration, landscape 3:2, ancient Hebrew adults fully modestly robed, natural hands and exactly two arms each, no modern tools, readable lettering, watermark, wounds or human-shaped deity. Elderly fully robed Moses sits by a cloth desert tent and writes a list of journey stages on an ancient plain parchment with a reed pen, writing too small and unfocused to read. River valley of Moab visible distantly, no stone temple, books, modern pen, printed map or deity.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "numeri",
+      "chapter": 33,
+      "verse": 9,
+      "scene": "Herinnering aan de oase Elim",
+      "alt": "Herinnering aan de oase Elim — Numeri 33:9",
+      "kind": "scene",
+      "file": "33-9-uitbreiding.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible educational illustration, landscape 3:2, ancient Hebrew adults fully modestly robed, natural hands and exactly two arms each, no modern tools, readable lettering, watermark, wounds or human-shaped deity. Retrospective illustration of Elim in the wilderness journey: fully robed Hebrew adults rest with healthy donkeys beside freshwater springs and many date palms in a desert oasis. Focus on water and shade, no modern settlement or giant waterfalls. Do not imply the full counts of twelve springs and seventy palms are individually visible.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "numeri",
+      "chapter": 35,
+      "verse": 28,
+      "scene": "Terugkeer naar de eigen grond",
+      "alt": "Terugkeer naar de eigen grond — Numeri 35:28",
+      "kind": "scene",
+      "file": "35-28-uitbreiding.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible educational illustration, landscape 3:2, ancient Hebrew adults fully modestly robed, natural hands and exactly two arms each, no modern tools, readable lettering, watermark, wounds or human-shaped deity. Illustrate the future legal provision of Numbers 35:28: a fully robed adult Hebrew man returns to his ancestral farm after his required stay in a refuge city has ended, welcomed calmly by fully clothed adult family members at a simple rural stone house. No chase, weapons, official pardon scroll, death scene, funeral or extra limbs.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "numeri",
+      "chapter": 30,
+      "verse": 3,
+      "file": "30-geloften-en-gezin.svg",
+      "scene": "Geloften en het gezin",
+      "alt": "De onderscheiden gevallen voor man, dochter, getrouwde vrouw, weduwe en verstoten vrouw.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1290,
+      "source": "Numeri 30:2–16",
+      "design": {
+        "rows": [
+          [
+            "Een man",
+            "Hij moet uitvoeren wat hij heeft uitgesproken."
+          ],
+          [
+            "Jonge vrouw in vaders huis",
+            "Zwijgen bij het horen bekrachtigt de gelofte; verbieden op die dag maakt haar ongeldig."
+          ],
+          [
+            "Een getrouwde vrouw",
+            "De tekst onderscheidt zwijgen op de dag van horen van tijdig ongeldig maken."
+          ],
+          [
+            "Weduwe of verstoten vrouw",
+            "Alles waaraan zij zich gebonden heeft, blijft van kracht."
+          ],
+          [
+            "Pas later ongeldig gemaakt",
+            "De man draagt volgens vers 15 haar schuld."
+          ]
+        ],
+        "note": "Een vergelijking van de verschillende gevallen in deze historische gelofteregeling."
+      }
+    },
+    {
+      "book": "numeri",
+      "chapter": 31,
+      "verse": 19,
+      "file": "31-reiniging-en-buit.svg",
+      "scene": "Reiniging en verdeling",
+      "alt": "De reinigingsperiode en de twee verschillende bijdragen uit de twee helften van de buit.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1290,
+      "source": "Numeri 31:19–30",
+      "design": {
+        "rows": [
+          [
+            "Zeven dagen buiten het kamp",
+            "De genoemde betrokkenen reinigen zich op dag drie en zeven; op dag zeven kleding wassen."
+          ],
+          [
+            "De voorwerpen",
+            "Vuurvaste metalen door vuur én reinigingswater; wat niet tegen vuur kan door water."
+          ],
+          [
+            "Twee helften",
+            "Eén helft voor de strijders en één voor de gemeenschap."
+          ],
+          [
+            "Van het strijdersdeel",
+            "Eén op vijfhonderd voor de priester Eleazar."
+          ],
+          [
+            "Van het gemeenschapsdeel",
+            "Eén op vijftig voor de Levieten."
+          ]
+        ],
+        "note": "Dit ordent de tekst zonder gevangenen of geweld af te beelden."
+      }
+    },
+    {
+      "book": "numeri",
+      "chapter": 31,
+      "verse": 32,
+      "file": "31-verdeling-aantallen.svg",
+      "scene": "De aantallen in de verdeling",
+      "alt": "De genoemde totalen, helften en één-op-vijfhonderd-bijdragen uit Numeri 31.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1091,
+      "source": "Numeri 31:32–47",
+      "design": {
+        "rows": [
+          [
+            "Schapen",
+            "Totaal 675.000; per helft 337.500; bijdrage uit het strijdersdeel 675."
+          ],
+          [
+            "Runderen",
+            "Totaal 72.000; per helft 36.000; bijdrage uit het strijdersdeel 72."
+          ],
+          [
+            "Ezels",
+            "Totaal 61.000; per helft 30.500; bijdrage uit het strijdersdeel 61."
+          ],
+          [
+            "Personen",
+            "Totaal 32.000; per helft 16.000; bijdrage uit het strijdersdeel 32."
+          ]
+        ],
+        "note": "De aantallen beschrijven de buitverdeling in de historische tekst; mensen worden niet als handelswaar afgebeeld."
+      }
+    },
+    {
+      "book": "numeri",
+      "chapter": 32,
+      "verse": 16,
+      "file": "32-afspraak-oostjordaan.svg",
+      "scene": "De afspraak over Gilead",
+      "alt": "Verzoek, belofte, voorwaarde en toewijzing van het erfdeel ten oosten van de Jordaan.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1283,
+      "source": "Numeri 32:16–33",
+      "design": {
+        "rows": [
+          [
+            "Het verzoek",
+            "Ruben en Gad vragen het veerijke land ten oosten van de Jordaan."
+          ],
+          [
+            "Wat daar blijft",
+            "Gezinnen en vee blijven in steden en schaapskooien."
+          ],
+          [
+            "Wat zij beloven",
+            "Gewapend meegaan tot de andere Israëlieten hun erfdeel bezitten."
+          ],
+          [
+            "De voorwaarde",
+            "Bij nakomen krijgen zij Gilead; zonder meegaan bezit in Kanaän."
+          ],
+          [
+            "De toewijzing",
+            "Ruben, Gad en de halve stam Manasse krijgen land van Sihon en Og."
+          ]
+        ],
+        "note": "Het beloofde meegaan wordt niet verward met een vrijstelling van gezamenlijke verantwoordelijkheid."
+      }
+    },
+    {
+      "book": "numeri",
+      "chapter": 32,
+      "verse": 34,
+      "file": "32-steden-en-families.svg",
+      "scene": "Steden en families",
+      "alt": "De genoemde steden van Gad en Ruben en de afzonderlijke handelingen van Machir, Jaïr en Nobah.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1141,
+      "source": "Numeri 32:34–42",
+      "design": {
+        "rows": [
+          [
+            "Gad",
+            "Dibon, Ataroth, Aroër, Atroth-Sofan, Jaëzer, Jogbeha, Beth-Nimra en Beth-Haran."
+          ],
+          [
+            "Ruben",
+            "Hesbon, Eleale, Kirjathaïm, Nebo, Baäl-Meon en Sibma; de tekst vermeldt nieuwe namen."
+          ],
+          [
+            "Machir",
+            "Zoon van Manasse; zijn nakomelingen nemen Gilead in bezit."
+          ],
+          [
+            "Jaïr en Nobah",
+            "Jaïr noemt dorpen Havvoth-Jaïr; Nobah noemt Kenath met de dorpen Nobah."
+          ]
+        ],
+        "note": "Namen volgen dit hoofdstuk; er worden geen onbevestigde plaatscoördinaten ingevuld."
+      }
+    },
+    {
+      "book": "numeri",
+      "chapter": 33,
+      "verse": 3,
+      "file": "33-reisplaatsen-1-14.svg",
+      "scene": "Reisplaatsen 1–14",
+      "alt": "Geordend routeschema van Rameses tot Hazeroth, volgens Numeri 33:3–17.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1032,
+      "source": "Numeri 33:3–17",
+      "design": {
+        "rows": [
+          [
+            "Plaatsen 1–3",
+            "Rameses → Sukkoth → Etham"
+          ],
+          [
+            "Plaatsen 4–6",
+            "Pi-Hachiroth → Mara → Elim"
+          ],
+          [
+            "Plaatsen 7–9",
+            "Schelfzee → woestijn Sin → Dofka"
+          ],
+          [
+            "Plaatsen 10–12",
+            "Aluz → Rafidim → Sinaïwoestijn"
+          ],
+          [
+            "Plaatsen 13–14",
+            "Kibroth-Taava → Hazeroth"
+          ]
+        ],
+        "note": "Volgorde van de genoemde kampplaatsen; de nummering is een leessteun, geen moderne kaart."
+      }
+    },
+    {
+      "book": "numeri",
+      "chapter": 33,
+      "verse": 18,
+      "file": "33-reisplaatsen-15-34.svg",
+      "scene": "Reisplaatsen 15–34",
+      "alt": "Geordend routeschema van Rithma tot berg Hor, volgens Numeri 33:18–39.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1330,
+      "source": "Numeri 33:18–39",
+      "design": {
+        "rows": [
+          [
+            "Plaatsen 15–17",
+            "Rithma → Rimmon-Perez → Libna"
+          ],
+          [
+            "Plaatsen 18–20",
+            "Rissa → Kehelatha → berg Safer"
+          ],
+          [
+            "Plaatsen 21–23",
+            "Harada → Makheloth → Tachath"
+          ],
+          [
+            "Plaatsen 24–26",
+            "Tharah → Mithka → Hasmona"
+          ],
+          [
+            "Plaatsen 27–29",
+            "Moseroth → Bene-Jaakan → Hor-Gidgad"
+          ],
+          [
+            "Plaatsen 30–32",
+            "Jotbatha → Abrona → Ezeon-Geber"
+          ],
+          [
+            "Plaatsen 33–34",
+            "woestijn Zin (Kades) → berg Hor"
+          ]
+        ],
+        "note": "Volgorde van de genoemde kampplaatsen; de nummering is een leessteun, geen moderne kaart."
+      }
+    },
+    {
+      "book": "numeri",
+      "chapter": 33,
+      "verse": 41,
+      "file": "33-reisplaatsen-35-42.svg",
+      "scene": "Reisplaatsen 35–42",
+      "alt": "Geordend routeschema van Zalmona tot vlakte van Moab, volgens Numeri 33:41–49.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 777,
+      "source": "Numeri 33:41–49",
+      "design": {
+        "rows": [
+          [
+            "Plaatsen 35–37",
+            "Zalmona → Funon → Oboth"
+          ],
+          [
+            "Plaatsen 38–40",
+            "Ije-Abarim → Dibon-Gad → Almon-Diblathaim"
+          ],
+          [
+            "Plaatsen 41–42",
+            "Abarimgebergte → vlakte van Moab"
+          ]
+        ],
+        "note": "Volgorde van de genoemde kampplaatsen; de nummering is een leessteun, geen moderne kaart."
+      }
+    },
+    {
+      "book": "numeri",
+      "chapter": 34,
+      "verse": 3,
+      "file": "34-vier-landgrenzen.svg",
+      "scene": "De vier genoemde grenzen",
+      "alt": "De vier grenzen met de opeenvolgende plaatsnamen die Numeri 34 noemt.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1134,
+      "source": "Numeri 34:3–12",
+      "design": {
+        "rows": [
+          [
+            "Zuid",
+            "Zoutzee → langs Akrabbim en Zin → ten zuiden van Kades-Barnea → Hazar-Addar → Azmon → beek van Egypte → zee."
+          ],
+          [
+            "West",
+            "De Grote Zee."
+          ],
+          [
+            "Noord",
+            "Grote Zee → berg Hor → toegang tot Hamath → Zedad → Zifron → Hazar-Enan."
+          ],
+          [
+            "Oost",
+            "Hazar-Enan → Sefam → Ribla, ten oosten van Ain → oostoever Kinneret → Jordaan → Zoutzee."
+          ]
+        ],
+        "note": "Een tekstueel grensschema, geen exacte moderne landkaart. De noordelijke berg Hor wordt niet gelijkgesteld aan Aärons sterfplaats."
+      }
+    },
+    {
+      "book": "numeri",
+      "chapter": 34,
+      "verse": 17,
+      "file": "34-leiders-erfverdeling.svg",
+      "scene": "Leiders bij de erfverdeling",
+      "alt": "De twee hoofdverantwoordelijken en de tien genoemde stamleiders met hun vaders.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1247,
+      "source": "Numeri 34:17–29",
+      "design": {
+        "rows": [
+          [
+            "Samen aan het hoofd",
+            "De priester Eleazar en Jozua, zoon van Nun."
+          ],
+          [
+            "Juda · Simeon · Benjamin",
+            "Kaleb, zoon van Jefunne · Semuël, zoon van Ammihud · Elidad, zoon van Chislon."
+          ],
+          [
+            "Dan · Manasse · Efraïm",
+            "Bukki, zoon van Jogli · Hanniel, zoon van Efod · Kemuël, zoon van Siftan."
+          ],
+          [
+            "Zebulon · Issaschar",
+            "Elizafan, zoon van Parnach · Paltiel, zoon van Azzan."
+          ],
+          [
+            "Aser · Nafthali",
+            "Achihud, zoon van Selomi · Pedael, zoon van Ammihud."
+          ]
+        ],
+        "note": "Binnen elke rij horen namen en vadernamen in dezelfde volgorde bij de stammen."
+      }
+    },
+    {
+      "book": "numeri",
+      "chapter": 35,
+      "verse": 6,
+      "file": "35-achtenveertig-steden.svg",
+      "scene": "Achtenveertig Levietensteden",
+      "alt": "De verdeling van de 48 Levietensteden, met zes vrijsteden aan beide zijden van de Jordaan.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1204,
+      "source": "Numeri 35:2–15",
+      "design": {
+        "rows": [
+          [
+            "Zes vrijsteden",
+            "Drie aan deze kant van de Jordaan en drie in Kanaän."
+          ],
+          [
+            "Tweeënveertig andere steden",
+            "Naast de vrijsteden, met de weidegronden."
+          ],
+          [
+            "Samen achtenveertig",
+            "6 + 42 = 48 Levietensteden."
+          ],
+          [
+            "Uit de stamgebieden",
+            "Een grote stam geeft meer steden; een kleine stam minder."
+          ],
+          [
+            "Voor wie de toevlucht geldt",
+            "Israëliet, vreemdeling en tijdelijke bewoner bij onopzettelijk doden."
+          ]
+        ],
+        "note": "De tekst noemt hier de aantallen en spreiding, nog geen zes stadsnamen."
+      }
+    },
+    {
+      "book": "numeri",
+      "chapter": 35,
+      "verse": 24,
+      "file": "35-rechtspraak-en-verblijf.svg",
+      "scene": "Rechtspraak en verblijf",
+      "alt": "De volgorde van bescherming, onderzoek, verblijf en terugkeer en de bepalingen over getuigen en losgeld.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1369,
+      "source": "Numeri 35:11–32",
+      "design": {
+        "rows": [
+          [
+            "Eerst bescherming",
+            "De gevluchte persoon blijft in leven tot de gemeenschap rechtspreekt."
+          ],
+          [
+            "Het onderzoek",
+            "De tekst onderscheidt vijandschap en opzet van een onverwacht ongeval."
+          ],
+          [
+            "Bij onopzettelijk doden",
+            "De gemeenschap laat hem terugkeren naar de vrijstad."
+          ],
+          [
+            "De verblijfsgrens",
+            "Blijven tot de dood van de hogepriester; dan terug naar de eigen grond."
+          ],
+          [
+            "Getuigen en losgeld",
+            "Eén getuige volstaat niet voor de doodstraf; geen afkoop van de genoemde straffen of verblijfsduur."
+          ]
+        ],
+        "note": "Een leeswijzer bij de historische rechtsregeling, zonder terechtstellingen af te beelden."
+      }
+    },
+    {
+      "book": "numeri",
+      "chapter": 36,
+      "verse": 6,
+      "file": "36-erfdeel-en-huwelijk.svg",
+      "scene": "Erfdeel en huwelijk",
+      "alt": "Het verband tussen de vraag, de huwelijksbepaling, de vijf dochters en behoud van het erfdeel in Manasse.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1098,
+      "source": "Numeri 36:1–12",
+      "design": {
+        "rows": [
+          [
+            "De vraag",
+            "Een huwelijk buiten de stam zou het erfdeel naar een andere stam brengen."
+          ],
+          [
+            "De uitspraak",
+            "De dochters mogen kiezen met wie zij trouwen, binnen een familie van hun vaders stam."
+          ],
+          [
+            "De vijf dochters",
+            "Machla, Tirza, Hogla, Milka en Noa trouwen met de zonen van hun ooms."
+          ],
+          [
+            "Het gevolg",
+            "Het erfdeel blijft in de families van Manasse, zoon van Jozef."
+          ]
+        ],
+        "note": "Hetzelfde vijftal als in Numeri 27; dit hoofdstuk noemt hen in een andere volgorde."
+      }
+    }
+  ]
+}
