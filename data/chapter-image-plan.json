@@ -3637,6 +3637,118 @@
           "source": "Numeri 19:11–22"
         }
       ]
+    },
+    {
+      "book": "numeri",
+      "chapter": 21,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "De boden aan Sihon ontbreken naast slang, omweg en put. Twee schema’s onderscheiden de reisplaatsen en drie koningen zonder gevechten als opvulling.",
+      "additions": [
+        {
+          "verse": 21,
+          "scene": "Boden vragen Sihon om doortocht",
+          "kind": "scene",
+          "file": "21-21-uitbreiding.webp"
+        },
+        {
+          "verse": 10,
+          "file": "21-reisplaatsen.svg",
+          "scene": "De genoemde reisplaatsen",
+          "kind": "diagram",
+          "source": "Numeri 21:4–20"
+        },
+        {
+          "verse": 21,
+          "file": "21-koningen-en-gebieden.svg",
+          "scene": "Koningen en gebieden",
+          "kind": "diagram",
+          "source": "Numeri 21:1–3, 21–35"
+        }
+      ]
+    },
+    {
+      "book": "numeri",
+      "chapter": 22,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "De tweede delegatie en het spreken van de ezelin zijn afzonderlijke gebeurtenissen naast vertrek, engel en Balak. De tijdlijn bewaakt de volgorde.",
+      "additions": [
+        {
+          "verse": 15,
+          "scene": "Balak stuurt voornamere boden",
+          "kind": "scene",
+          "file": "22-15-uitbreiding.webp"
+        },
+        {
+          "verse": 28,
+          "scene": "Bileam hoort zijn ezelin spreken",
+          "kind": "scene",
+          "file": "22-28-uitbreiding.webp"
+        },
+        {
+          "verse": 7,
+          "file": "22-boden-en-ezelin.svg",
+          "scene": "Boden, weg en ezelin",
+          "kind": "diagram",
+          "source": "Numeri 22:7–38"
+        }
+      ]
+    },
+    {
+      "book": "numeri",
+      "chapter": 23,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "De bestaande hoogte, zegenspreuk en Peor volstaan. Een schema maakt zeven altaren per plaats en de spreukvolgorde exact.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "23-altaren-en-plaatsen.svg",
+          "scene": "Altaren en drie plaatsen",
+          "kind": "diagram",
+          "source": "Numeri 23:1–30"
+        }
+      ]
+    },
+    {
+      "book": "numeri",
+      "chapter": 24,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "De bestaande kampblik, woede van Balak en afscheid dekken de gebeurtenissen. Een leeswijzer onderscheidt de poëtische beeldspraak van een historische gebeurtenis.",
+      "additions": [
+        {
+          "verse": 5,
+          "file": "24-beeldspraak-onderscheiden.svg",
+          "scene": "Beeldspraak in de spreuken",
+          "kind": "diagram",
+          "source": "Numeri 24:5–9, 17–24"
+        }
+      ]
+    },
+    {
+      "book": "numeri",
+      "chapter": 25,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "De bestaande maaltijd, rouw en verbondsscène volstaan. Twee schema’s maken de verwantschappen en tekstvolgorde helder zonder geweld of opvulling.",
+      "additions": [
+        {
+          "verse": 7,
+          "file": "25-personen-en-verwantschap.svg",
+          "scene": "Personen en verwantschap",
+          "kind": "diagram",
+          "source": "Numeri 25:7–15"
+        },
+        {
+          "verse": 1,
+          "file": "25-peor-leeswijzer.svg",
+          "scene": "De gebeurtenissen bij Peor",
+          "kind": "diagram",
+          "source": "Numeri 25:1–18"
+        }
+      ]
     }
   ]
 }
