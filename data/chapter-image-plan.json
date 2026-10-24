@@ -3802,6 +3802,52 @@
           "source": "Numeri 27:15–23"
         }
       ]
+    },
+    {
+      "book": "numeri",
+      "chapter": 28,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Drie bestaande offer- en feesttaferelen volstaan. Twee schema’s verduidelijken het stapelen van dagelijks en bijzonder offer, de feestmomenten en de hoeveelheden per dier.",
+      "additions": [
+        {
+          "verse": 3,
+          "file": "28-dag-week-maand.svg",
+          "scene": "Dag, sabbat en nieuwe maand",
+          "kind": "diagram",
+          "source": "Numeri 28:3–15"
+        },
+        {
+          "verse": 16,
+          "file": "28-feestoffers-eerste-maand.svg",
+          "scene": "Feestoffers en hoeveelheden",
+          "kind": "diagram",
+          "source": "Numeri 28:12–31"
+        }
+      ]
+    },
+    {
+      "book": "numeri",
+      "chapter": 29,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Drie bestaande feesttaferelen blijven. Een kalender en een exact staafschema tonen de afzonderlijke dagen, het afnemende aantal stieren en de afwijkende slotdag.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "29-zevende-maand.svg",
+          "scene": "Feesten in de zevende maand",
+          "kind": "diagram",
+          "source": "Numeri 29:1–12, 35–39"
+        },
+        {
+          "verse": 13,
+          "file": "29-stieren-per-feestdag.svg",
+          "scene": "Het aantal stieren per feestdag",
+          "kind": "diagram",
+          "source": "Numeri 29:12–38"
+        }
+      ]
     }
   ]
 }

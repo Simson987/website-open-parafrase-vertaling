@@ -1,0 +1,167 @@
+{
+  "date": "2026-10-24",
+  "started": "2026-10-24T01:54:08Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "numeri",
+      "chapter": 28,
+      "verse": 3,
+      "file": "28-dag-week-maand.svg",
+      "scene": "Dag, sabbat en nieuwe maand",
+      "alt": "Het onderscheid tussen de dagelijkse, sabbat- en nieuwemaansoffers.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "Numeri 28:3–15",
+      "design": {
+        "rows": [
+          [
+            "Elke dag",
+            "Twee eenjarige lammeren: één in de ochtend en één tegen de avond."
+          ],
+          [
+            "Elke sabbat",
+            "Twee extra eenjarige lammeren, naast het dagelijkse offer."
+          ],
+          [
+            "Begin van de maand",
+            "Twee jonge stieren, één ram, zeven lammeren en een bok als zondoffer."
+          ],
+          [
+            "De vaste basis blijft",
+            "De offers van de nieuwe maand komen naast het dagelijkse offer."
+          ]
+        ],
+        "note": "De aanvullende offers vervangen het dagelijkse offer niet."
+      }
+    },
+    {
+      "book": "numeri",
+      "chapter": 28,
+      "verse": 16,
+      "file": "28-feestoffers-eerste-maand.svg",
+      "scene": "Feestoffers en hoeveelheden",
+      "alt": "De feestmomenten, aantallen dieren en hoeveelheden meel en wijn per dier.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1326,
+      "source": "Numeri 28:12–31",
+      "design": {
+        "rows": [
+          [
+            "Eerste maand",
+            "Dag 14 pascha; vanaf dag 15 zeven dagen ongezuurde broden."
+          ],
+          [
+            "Elke feestdag",
+            "Twee stieren, één ram, zeven lammeren en een bok, naast het dagelijkse offer."
+          ],
+          [
+            "Wekenfeest",
+            "Ook twee stieren, één ram, zeven lammeren en een bok, met de voorgeschreven gaven."
+          ],
+          [
+            "Meel per dier",
+            "Circa zes liter per stier, vier liter per ram en twee liter per lam."
+          ],
+          [
+            "Wijn per dier",
+            "Circa twee liter per stier, 1,3 liter per ram en één liter per lam."
+          ]
+        ],
+        "note": "De benaderingen volgen de plaatselijke vertaling; de tekst noemt ook de bijbehorende olie."
+      }
+    },
+    {
+      "book": "numeri",
+      "chapter": 29,
+      "verse": 1,
+      "file": "29-zevende-maand.svg",
+      "scene": "Feesten in de zevende maand",
+      "alt": "De eerste, tiende en vijftiende dag van de zevende maand en de achtste slotdag.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1227,
+      "source": "Numeri 29:1–12, 35–39",
+      "design": {
+        "rows": [
+          [
+            "Dag 1",
+            "Trompetgeschal: één stier, één ram, zeven lammeren en een bok; naast nieuwe maand en dagelijks offer."
+          ],
+          [
+            "Dag 10",
+            "Verootmoediging: één stier, één ram, zeven lammeren en een bok; naast verzoenings- en dagelijks offer."
+          ],
+          [
+            "Vanaf dag 15",
+            "Zeven dagen feest, met afnemend aantal stieren en de voorgeschreven andere dieren."
+          ],
+          [
+            "De achtste feestdag",
+            "Plechtige slotdag: één stier, één ram, zeven lammeren en een bok; naast het dagelijkse offer."
+          ]
+        ],
+        "note": "De verschillende feestdagen en hun aanvullende offers worden onderscheiden."
+      }
+    },
+    {
+      "book": "numeri",
+      "chapter": 29,
+      "verse": 13,
+      "file": "29-stieren-per-feestdag.svg",
+      "scene": "Het aantal stieren per feestdag",
+      "alt": "Staafschema van dertien, twaalf, elf, tien, negen, acht en zeven stieren op de eerste zeven feestdagen, en één op de achtste slotdag.",
+      "kind": "diagram",
+      "width": 1100,
+      "height": 1160,
+      "source": "Numeri 29:12–38",
+      "design": {
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"1100\" height=\"1160\" viewBox=\"0 0 1100 1160\" role=\"img\"><title>Het aantal stieren per feestdag</title><rect width=\"1100\" height=\"1160\" fill=\"#f7f5e9\"/><text x=\"50\" y=\"65\" font-family=\"DejaVu Sans\" font-size=\"40\" font-weight=\"700\" fill=\"#20483e\">Het aantal stieren per feestdag</text><text x=\"50\" y=\"112\" font-family=\"DejaVu Sans\" font-size=\"27\" font-weight=\"400\" fill=\"#20483e\">Numeri 29:12–38 — het zevendaagse feest en de slotdag</text><text x=\"50\" y=\"209\" font-family=\"DejaVu Sans\" font-size=\"30\" font-weight=\"700\" fill=\"#20483e\">Dag 1</text><rect x=\"220\" y=\"175\" width=\"650\" height=\"48\" rx=\"8\" fill=\"#497c6c\"/><text x=\"885\" y=\"209\" font-family=\"DejaVu Sans\" font-size=\"30\" font-weight=\"700\" fill=\"#20483e\">13</text><text x=\"50\" y=\"292\" font-family=\"DejaVu Sans\" font-size=\"30\" font-weight=\"700\" fill=\"#20483e\">Dag 2</text><rect x=\"220\" y=\"258\" width=\"600\" height=\"48\" rx=\"8\" fill=\"#497c6c\"/><text x=\"835\" y=\"292\" font-family=\"DejaVu Sans\" font-size=\"30\" font-weight=\"700\" fill=\"#20483e\">12</text><text x=\"50\" y=\"375\" font-family=\"DejaVu Sans\" font-size=\"30\" font-weight=\"700\" fill=\"#20483e\">Dag 3</text><rect x=\"220\" y=\"341\" width=\"550\" height=\"48\" rx=\"8\" fill=\"#497c6c\"/><text x=\"785\" y=\"375\" font-family=\"DejaVu Sans\" font-size=\"30\" font-weight=\"700\" fill=\"#20483e\">11</text><text x=\"50\" y=\"458\" font-family=\"DejaVu Sans\" font-size=\"30\" font-weight=\"700\" fill=\"#20483e\">Dag 4</text><rect x=\"220\" y=\"424\" width=\"500\" height=\"48\" rx=\"8\" fill=\"#497c6c\"/><text x=\"735\" y=\"458\" font-family=\"DejaVu Sans\" font-size=\"30\" font-weight=\"700\" fill=\"#20483e\">10</text><text x=\"50\" y=\"541\" font-family=\"DejaVu Sans\" font-size=\"30\" font-weight=\"700\" fill=\"#20483e\">Dag 5</text><rect x=\"220\" y=\"507\" width=\"450\" height=\"48\" rx=\"8\" fill=\"#497c6c\"/><text x=\"685\" y=\"541\" font-family=\"DejaVu Sans\" font-size=\"30\" font-weight=\"700\" fill=\"#20483e\">9</text><text x=\"50\" y=\"624\" font-family=\"DejaVu Sans\" font-size=\"30\" font-weight=\"700\" fill=\"#20483e\">Dag 6</text><rect x=\"220\" y=\"590\" width=\"400\" height=\"48\" rx=\"8\" fill=\"#497c6c\"/><text x=\"635\" y=\"624\" font-family=\"DejaVu Sans\" font-size=\"30\" font-weight=\"700\" fill=\"#20483e\">8</text><text x=\"50\" y=\"707\" font-family=\"DejaVu Sans\" font-size=\"30\" font-weight=\"700\" fill=\"#20483e\">Dag 7</text><rect x=\"220\" y=\"673\" width=\"350\" height=\"48\" rx=\"8\" fill=\"#497c6c\"/><text x=\"585\" y=\"707\" font-family=\"DejaVu Sans\" font-size=\"30\" font-weight=\"700\" fill=\"#20483e\">7</text><text x=\"50\" y=\"790\" font-family=\"DejaVu Sans\" font-size=\"30\" font-weight=\"700\" fill=\"#20483e\">Dag 8</text><rect x=\"220\" y=\"756\" width=\"50\" height=\"48\" rx=\"8\" fill=\"#497c6c\"/><text x=\"285\" y=\"790\" font-family=\"DejaVu Sans\" font-size=\"30\" font-weight=\"700\" fill=\"#20483e\">1</text><text x=\"50\" y=\"925\" font-family=\"DejaVu Sans\" font-size=\"28\" font-weight=\"400\" fill=\"#20483e\">Dag 1–7: daarnaast telkens 2 rammen, 14 lammeren en 1 bok.</text><text x=\"50\" y=\"975\" font-family=\"DejaVu Sans\" font-size=\"28\" font-weight=\"400\" fill=\"#20483e\">Dag 8: daarnaast 1 ram, 7 lammeren en 1 bok.</text><text x=\"50\" y=\"1025\" font-family=\"DejaVu Sans\" font-size=\"27\" font-weight=\"400\" fill=\"#20483e\">Iedere dag ook het vaste dagelijkse offer en de bijbehorende gaven.</text><text x=\"50\" y=\"1090\" font-family=\"DejaVu Sans\" font-size=\"27\" font-weight=\"400\" fill=\"#20483e\">De achtste dag is de afzonderlijke plechtige slotdag.</text></svg>",
+        "stieren_per_dag": [
+          13,
+          12,
+          11,
+          10,
+          9,
+          8,
+          7,
+          1
+        ],
+        "rammen_per_dag": [
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          1
+        ],
+        "lammeren_per_dag": [
+          14,
+          14,
+          14,
+          14,
+          14,
+          14,
+          14,
+          7
+        ],
+        "bokken_per_dag": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      }
+    }
+  ]
+}
