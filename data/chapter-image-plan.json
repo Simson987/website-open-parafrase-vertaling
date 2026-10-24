@@ -5955,6 +5955,178 @@
           "source": "Richteren 12:9 en 14"
         }
       ]
+    },
+    {
+      "book": "richteren",
+      "chapter": 16,
+      "status": "reviewed",
+      "target_images": 8,
+      "reason": "Gevangenschap en de gebeurtenissen bij Delila ontbreken naast poort en geleiding naar de pilaren. Drie scènes en twee schema’s onderscheiden de pogingen, het afscheren en het slot.",
+      "additions": [
+        {
+          "verse": 19,
+          "scene": "De zeven vlechten worden afgeschoren",
+          "kind": "scene",
+          "file": "16-19-inhoudelijk.webp"
+        },
+        {
+          "verse": 21,
+          "scene": "Simson maalt in de gevangenis",
+          "kind": "scene",
+          "file": "16-21-inhoudelijk.webp"
+        },
+        {
+          "verse": 28,
+          "scene": "Simson bidt tussen de pilaren",
+          "kind": "scene",
+          "file": "16-28-inhoudelijk.webp"
+        },
+        {
+          "verse": 7,
+          "file": "16-drie-antwoorden.svg",
+          "scene": "Drie antwoorden en het geheim",
+          "kind": "diagram",
+          "source": "Richteren 16:7–20"
+        },
+        {
+          "verse": 21,
+          "file": "16-gevangenis-en-slot.svg",
+          "scene": "Gaza, de pilaren en het slot",
+          "kind": "diagram",
+          "source": "Richteren 16:21–31"
+        }
+      ]
+    },
+    {
+      "book": "richteren",
+      "chapter": 18,
+      "status": "reviewed",
+      "target_images": 7,
+      "reason": "Het vertrek van de Leviet en Micha’s protest zijn afzonderlijke gebeurtenissen. Twee schema’s bewaren de route, aantallen en de naamvormen van de gebruikte bron.",
+      "additions": [
+        {
+          "verse": 20,
+          "scene": "De Leviet trekt met Dan mee",
+          "kind": "scene",
+          "file": "18-20-inhoudelijk.webp"
+        },
+        {
+          "verse": 24,
+          "scene": "Micha spreekt de Danieten aan",
+          "kind": "scene",
+          "file": "18-24-inhoudelijk.webp"
+        },
+        {
+          "verse": 2,
+          "file": "18-danieten-route.svg",
+          "scene": "De tocht van de Danieten",
+          "kind": "diagram",
+          "source": "Richteren 18:2–29"
+        },
+        {
+          "verse": 30,
+          "file": "18-priester-en-silo.svg",
+          "scene": "Priesterlijn en Silo",
+          "kind": "diagram",
+          "source": "Richteren 18:30–31"
+        }
+      ]
+    },
+    {
+      "book": "richteren",
+      "chapter": 19,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Het wachten op het plein is een eigen stap naast bezoek, maaltijd en onderdak. Twee leeswijzers tonen zowel reisvolgorde als het ernstige vervolg zonder slachtoffers grafisch af te beelden.",
+      "additions": [
+        {
+          "verse": 15,
+          "scene": "Reizigers wachten op het plein",
+          "kind": "scene",
+          "file": "19-15-inhoudelijk.webp"
+        },
+        {
+          "verse": 1,
+          "file": "19-reis-en-overnachting.svg",
+          "scene": "De reis en de overnachting",
+          "kind": "diagram",
+          "source": "Richteren 19:1–21"
+        },
+        {
+          "verse": 22,
+          "file": "19-geweld-en-oproep.svg",
+          "scene": "Het geweld en de oproep",
+          "kind": "diagram",
+          "source": "Richteren 19:22–30"
+        }
+      ]
+    },
+    {
+      "book": "richteren",
+      "chapter": 20,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Het verblijf bij Rimmon is een eigen slotgebeurtenis. Twee schema’s onderscheiden dagen, groepen en de twee tekstuele totaalcijfers.",
+      "additions": [
+        {
+          "verse": 47,
+          "scene": "Vier maanden bij de rots Rimmon",
+          "kind": "scene",
+          "file": "20-47-inhoudelijk.webp"
+        },
+        {
+          "verse": 18,
+          "file": "20-drie-strijddagen.svg",
+          "scene": "De drie strijddagen",
+          "kind": "diagram",
+          "source": "Richteren 20:18–46"
+        },
+        {
+          "verse": 15,
+          "file": "20-groepen-en-overlevenden.svg",
+          "scene": "Groepen en overlevenden",
+          "kind": "diagram",
+          "source": "Richteren 20:15–17 en 44–47"
+        }
+      ]
+    },
+    {
+      "book": "richteren",
+      "chapter": 21,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "De herbouw is een aparte slotgebeurtenis. Eén schema behandelt eden, aantallen en geweld zonder ontvoering als romantiek weer te geven.",
+      "additions": [
+        {
+          "verse": 23,
+          "scene": "De steden worden weer opgebouwd",
+          "kind": "scene",
+          "file": "21-23-inhoudelijk.webp"
+        },
+        {
+          "verse": 1,
+          "file": "21-eden-en-gevolgen.svg",
+          "scene": "Eden en ernstige gevolgen",
+          "kind": "diagram",
+          "source": "Richteren 21:1–25"
+        }
+      ]
+    },
+    {
+      "book": "richteren",
+      "chapter": 17,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "De bestaande zilverteruggave, edelsmid en ontmoeting zijn voldoende. Eén schema verduidelijkt de bedragen, opvolgende aanstellingen en Micha’s eigen verwachting.",
+      "additions": [
+        {
+          "verse": 2,
+          "file": "17-zilver-en-priester.svg",
+          "scene": "Zilver en een eigen priester",
+          "kind": "diagram",
+          "source": "Richteren 17:2–13"
+        }
+      ]
     }
   ]
 }
