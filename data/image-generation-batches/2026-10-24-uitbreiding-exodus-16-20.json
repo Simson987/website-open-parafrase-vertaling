@@ -3,7 +3,22 @@
   "started": "2026-10-24T00:52:32Z",
   "mode": "built-in rasters and native SVG schemas",
   "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
-  "metadata_corrections": [],
+  "metadata_corrections": [
+    {
+      "book": "exodus",
+      "chapter": 19,
+      "file": "19-camp.webp",
+      "verse": 2,
+      "reason": "Bestaand beeld koppelen aan het vers over het kamp of de zware wolk."
+    },
+    {
+      "book": "exodus",
+      "chapter": 19,
+      "file": "19-sinai.webp",
+      "verse": 16,
+      "reason": "Bestaand beeld koppelen aan het vers over het kamp of de zware wolk."
+    }
+  ],
   "images": [
     {
       "book": "exodus",
