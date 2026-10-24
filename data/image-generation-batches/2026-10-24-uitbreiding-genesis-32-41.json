@@ -1,0 +1,633 @@
+{
+  "date": "2026-10-24",
+  "started": "2026-10-24T00:52:32Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "genesis",
+      "chapter": 32,
+      "verse": 1,
+      "scene": "Jakob ontmoet engelen",
+      "alt": "Jakob ontmoet engelen — Genesis 32:1",
+      "kind": "scene",
+      "file": "32-1-verhaal.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible illustration, landscape 3:2, authentic ancient Near Eastern materials, natural light, full modest clothing, accurate anatomy and hands, no modern objects, readable text, watermark or human-shaped deity. Adult Jacob on a travel path encounters several peaceful fully robed angelic messengers in soft morning light, no human-shaped God, no battle, no threatening weapons, natural faces and hands.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "genesis",
+      "chapter": 32,
+      "verse": 23,
+      "scene": "Het gezin steekt de Jabbok over",
+      "alt": "Het gezin steekt de Jabbok over — Genesis 32:23",
+      "kind": "scene",
+      "file": "32-23-verhaal.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible illustration, landscape 3:2, authentic ancient Near Eastern materials, natural light, full modest clothing, accurate anatomy and hands, no modern objects, readable text, watermark or human-shaped deity. At night a fully clothed ancient traveling family carefully crosses a shallow stream at a ford with bundles and a pack donkey, adult Jacob assists at the near bank. A partial view of the larger household, no danger, injuries or drowning, natural anatomy.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "genesis",
+      "chapter": 33,
+      "verse": 5,
+      "scene": "Ezau ontmoet Jakobs gezin",
+      "alt": "Ezau ontmoet Jakobs gezin — Genesis 33:5",
+      "kind": "scene",
+      "file": "33-5-verhaal.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible illustration, landscape 3:2, authentic ancient Near Eastern materials, natural light, full modest clothing, accurate anatomy and hands, no modern objects, readable text, watermark or human-shaped deity. Adult Jacob introduces his modestly clothed wives and fully clothed children to his adult red-haired brother Esau beside an ancient family camp. Warm respectful family encounter, no weapons or violence.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "genesis",
+      "chapter": 33,
+      "verse": 11,
+      "scene": "Ezau neemt het geschenk aan",
+      "alt": "Ezau neemt het geschenk aan — Genesis 33:11",
+      "kind": "scene",
+      "file": "33-11-verhaal.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible illustration, landscape 3:2, authentic ancient Near Eastern materials, natural light, full modest clothing, accurate anatomy and hands, no modern objects, readable text, watermark or human-shaped deity. Two adult brothers Jacob and red-haired Esau stand beside a peaceful flock of sheep and goats as Jacob offers the flock and Esau finally accepts with open hand gesture, ancient clothing, natural anatomy, no embrace scene.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "genesis",
+      "chapter": 33,
+      "verse": 19,
+      "scene": "Jakob koopt de grond bij Sichem",
+      "alt": "Jakob koopt de grond bij Sichem — Genesis 33:19",
+      "kind": "scene",
+      "file": "33-19-verhaal.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible illustration, landscape 3:2, authentic ancient Near Eastern materials, natural light, full modest clothing, accurate anatomy and hands, no modern objects, readable text, watermark or human-shaped deity. Adult Jacob negotiates a field purchase with adult sons of Hamor near the edge of ancient Shechem, an ancient balance and pieces of silver on a low cloth, family tents in the field behind, no modern coins or documents.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "genesis",
+      "chapter": 35,
+      "verse": 8,
+      "scene": "Debora wordt onder de eik begraven",
+      "alt": "Debora wordt onder de eik begraven — Genesis 35:8",
+      "kind": "scene",
+      "file": "35-8-verhaal.webp",
+      "prompt": "Use case: historical-scene. Photorealistic landscape 3:2 of the ancient memorial place called Oak of Weeping near Bethel in Genesis 35:8. A large oak beside a simple low unmarked earthen mound in a peaceful empty landscape, soft evening light, no people, no visible remains, no text or modern objects. Respectful remembrance of Deborah.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "genesis",
+      "chapter": 35,
+      "verse": 29,
+      "scene": "Ezau en Jakob begraven Izak",
+      "alt": "Ezau en Jakob begraven Izak — Genesis 35:29",
+      "kind": "scene",
+      "file": "35-29-verhaal.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible illustration, landscape 3:2, authentic ancient Near Eastern materials, natural light, full modest clothing, accurate anatomy and hands, no modern objects, readable text, watermark or human-shaped deity. Two fully clothed adult brothers, red-haired Esau and dark-haired Jacob with graying beards, mourn their elderly father Isaac beside a completely covered burial bier near a rock tomb. No visible corpse, no wounds, peaceful dignified family scene.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "genesis",
+      "chapter": 37,
+      "verse": 15,
+      "scene": "Jozef vraagt de weg naar zijn broers",
+      "alt": "Jozef vraagt de weg naar zijn broers — Genesis 37:15",
+      "kind": "scene",
+      "file": "37-15-verhaal.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible illustration, landscape 3:2, authentic ancient Near Eastern materials, natural light, full modest clothing, accurate anatomy and hands, no modern objects, readable text, watermark or human-shaped deity. Joseph, a fully clothed seventeen-year-old youth in a long colorful ancient robe, calmly asks an adult shepherd for directions in a peaceful open field near Shechem. The shepherd points toward distant hills, no threat, weapons or distress.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "genesis",
+      "chapter": 37,
+      "verse": 34,
+      "scene": "Jakob rouwt om Jozef",
+      "alt": "Jakob rouwt om Jozef — Genesis 37:34",
+      "kind": "scene",
+      "file": "37-34-verhaal.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible illustration, landscape 3:2, authentic ancient Near Eastern materials, natural light, full modest clothing, accurate anatomy and hands, no modern objects, readable text, watermark or human-shaped deity. Elderly Jacob in a complete coarse mourning robe sits sorrowfully at the entrance of his tent as adult family members gently try to comfort him, no blood, torn exposed clothing or body, compassionate restrained grief.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "genesis",
+      "chapter": 38,
+      "verse": 21,
+      "scene": "Hira zoekt bij de twee bronnen",
+      "alt": "Hira zoekt bij de twee bronnen — Genesis 38:21",
+      "kind": "scene",
+      "file": "38-21-verhaal.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible illustration, landscape 3:2, authentic ancient Near Eastern materials, natural light, full modest clothing, accurate anatomy and hands, no modern objects, readable text, watermark or human-shaped deity. Adult Hirah from Adullam leads a small live goat along an ancient roadside near two springs and politely asks adult villagers about a traveler he cannot find. Neutral everyday inquiry, all adults modestly clothed, no romantic or sexual scene.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "genesis",
+      "chapter": 39,
+      "verse": 12,
+      "scene": "Jozef vlucht naar buiten",
+      "alt": "Jozef vlucht naar buiten — Genesis 39:12",
+      "kind": "scene",
+      "file": "39-12-verhaal.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible illustration, landscape 3:2, authentic ancient Near Eastern materials, natural light, full modest clothing, accurate anatomy and hands, no modern objects, readable text, watermark or human-shaped deity. Fully grown adult Joseph in a complete knee-length linen tunic hurries out through an ancient Egyptian house doorway into sunlight. Far behind him an adult woman in a complete modest ankle-length robe holds his abandoned outer cloak. No touching, exposed bodies, bedroom, romantic or sexual depiction.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "genesis",
+      "chapter": 40,
+      "verse": 23,
+      "scene": "De schenker vergeet Jozef",
+      "alt": "De schenker vergeet Jozef — Genesis 40:23",
+      "kind": "scene",
+      "file": "40-23-verhaal.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible illustration, landscape 3:2, authentic ancient Near Eastern materials, natural light, full modest clothing, accurate anatomy and hands, no modern objects, readable text, watermark or human-shaped deity. Adult Joseph sits quietly by a barred window inside a simple ancient Egyptian prison, still waiting and thoughtful while daylight enters, full modest tunic, no chains, injury or misery spectacle.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "genesis",
+      "chapter": 41,
+      "verse": 8,
+      "scene": "Farao vraagt de wijzen om uitleg",
+      "alt": "Farao vraagt de wijzen om uitleg — Genesis 41:8",
+      "kind": "scene",
+      "file": "41-8-verhaal.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible illustration, landscape 3:2, authentic ancient Near Eastern materials, natural light, full modest clothing, accurate anatomy and hands, no modern objects, readable text, watermark or human-shaped deity. An adult Egyptian pharaoh anxiously describes a dream to fully robed adult wise men and counselors in a palace hall at dawn, attentive puzzled faces, no readable hieroglyphs or dream imagery.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "genesis",
+      "chapter": 41,
+      "verse": 43,
+      "scene": "Jozef rijdt in de tweede wagen",
+      "alt": "Jozef rijdt in de tweede wagen — Genesis 41:43",
+      "kind": "scene",
+      "file": "41-43-verhaal.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible illustration, landscape 3:2, authentic ancient Near Eastern materials, natural light, full modest clothing, accurate anatomy and hands, no modern objects, readable text, watermark or human-shaped deity. Adult thirty-year-old Joseph in fine modest Egyptian linen and a golden necklace rides upright in an ancient Egyptian horse-drawn chariot through a city, respectful adult attendants make way, correct horses and hands, no battle or modern wheels.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "genesis",
+      "chapter": 41,
+      "verse": 50,
+      "scene": "Jozef met Asnath en zijn zonen",
+      "alt": "Jozef met Asnath en zijn zonen — Genesis 41:50",
+      "kind": "scene",
+      "file": "41-50-verhaal.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible illustration, landscape 3:2, authentic ancient Near Eastern materials, natural light, full modest clothing, accurate anatomy and hands, no modern objects, readable text, watermark or human-shaped deity. Adult Joseph and adult Asenath, both fully modestly clothed in ancient Egyptian linen, sit in a peaceful courtyard with exactly two fully clothed young boys Manasseh and Ephraim playing safely beside them. Natural family affection, no feeding or birth scene.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "genesis",
+      "chapter": 41,
+      "verse": 56,
+      "scene": "De voorraadschuren gaan open",
+      "alt": "De voorraadschuren gaan open — Genesis 41:56",
+      "kind": "scene",
+      "file": "41-56-verhaal.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible illustration, landscape 3:2, authentic ancient Near Eastern materials, natural light, full modest clothing, accurate anatomy and hands, no modern objects, readable text, watermark or human-shaped deity. Adult Joseph as an Egyptian administrator supervises grain being measured out of opened ancient mudbrick storage rooms to orderly modestly clothed families during a shortage, large grain baskets and wooden measures, no starvation injuries or modern equipment.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "genesis",
+      "chapter": 32,
+      "verse": 14,
+      "file": "32-geschenk-ezau.svg",
+      "scene": "Jakobs geschenk aan Ezau",
+      "alt": "Jakob geeft Ezau geiten, bokken, ooien, rammen, kamelen met jongen, koeien, stieren, ezelinnen en jonge ezels, verdeeld over afzonderlijke kudden.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1224,
+      "source": "Genesis 32:13–20",
+      "design": {
+        "rows": [
+          [
+            "Geiten en bokken",
+            "200 geiten en 20 bokken."
+          ],
+          [
+            "Schapen en rammen",
+            "200 ooien en 20 rammen."
+          ],
+          [
+            "Kamelen",
+            "30 zogende kamelen met hun jongen."
+          ],
+          [
+            "Runderen",
+            "40 koeien en 10 stieren."
+          ],
+          [
+            "Ezels",
+            "20 ezelinnen en 10 jonge ezels."
+          ],
+          [
+            "Afzonderlijke kudden",
+            "Elke kudde krijgt een dienaar mee; er blijft ruimte tussen de groepen."
+          ]
+        ],
+        "note": "Het aantal kameeljongen wordt niet afzonderlijk genoemd; daarom staat hier geen berekend totaal."
+      }
+    },
+    {
+      "book": "genesis",
+      "chapter": 34,
+      "verse": 26,
+      "file": "34-gebeurtenissen-sichem.svg",
+      "scene": "Dina en de stad Sichem",
+      "alt": "Genesis 34 beschrijft geweld tegen Dina, onderhandelingen, het bedrog van haar broers, de aanval op Sichem en Jakobs verwijt.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1369,
+      "source": "Genesis 34:1–31",
+      "design": {
+        "rows": [
+          [
+            "Dina wordt geweld aangedaan",
+            "Sichem verkracht haar; Jakob en haar broers horen wat is gebeurd."
+          ],
+          [
+            "Het voorstel",
+            "Hemor en Sichem vragen om een huwelijk en samenwonen."
+          ],
+          [
+            "Het bedrieglijke antwoord",
+            "Jakobs zonen eisen dat alle mannen besneden worden."
+          ],
+          [
+            "Geweld en vertrek",
+            "Simeon en Levi doden de mannen en halen Dina uit het huis; de stad wordt geplunderd."
+          ],
+          [
+            "Jakobs reactie",
+            "Jakob verwijt Simeon en Levi dat zij het hele gezin in gevaar hebben gebracht."
+          ]
+        ],
+        "note": "Een sober verhaaloverzicht dat het geweld benoemt; geen romantische voorstelling van Dina’s situatie."
+      }
+    },
+    {
+      "book": "genesis",
+      "chapter": 35,
+      "verse": 23,
+      "file": "35-twaalf-zonen-jakob.svg",
+      "scene": "De twaalf zonen van Jakob",
+      "alt": "Jakobs twaalf zonen per moeder: Lea heeft Ruben, Simeon, Levi, Juda, Issaschar en Zebulon; Rachel Jozef en Benjamin; Bilha Dan en Nafthali; Zilpa Gad en Aser.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 962,
+      "source": "Genesis 35:23–26",
+      "design": {
+        "rows": [
+          [
+            "Lea → zes zonen",
+            "Ruben, Simeon, Levi, Juda, Issaschar en Zebulon."
+          ],
+          [
+            "Rachel → twee zonen",
+            "Jozef en Benjamin."
+          ],
+          [
+            "Bilha → twee zonen",
+            "Dan en Nafthali."
+          ],
+          [
+            "Zilpa → twee zonen",
+            "Gad en Aser."
+          ]
+        ],
+        "note": "Dit overzicht gaat over de twaalf zonen. Dina is Jakobs dochter en staat daarom niet in deze zonenlijst."
+      }
+    },
+    {
+      "book": "genesis",
+      "chapter": 36,
+      "verse": 4,
+      "file": "36-familie-ezau.svg",
+      "scene": "Ezau en zijn familietakken",
+      "alt": "Ezau heeft familietakken via Ada en Elifaz, Basmath en Rehuël, en Aholibama met Jehus, Jaëlam en Korah.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 813,
+      "source": "Genesis 36:2–14",
+      "design": {
+        "rows": [
+          [
+            "Ada + Ezau → Elifaz",
+            "Elifaz → Teman, Omar, Zefo, Gaëtam en Kenaz. Elifaz en Timna → Amalek."
+          ],
+          [
+            "Basmath + Ezau → Rehuël",
+            "Rehuël → Nahath, Zerah, Samma en Mizza."
+          ],
+          [
+            "Aholibama + Ezau",
+            "Hun zonen: Jehus, Jaëlam en Korah."
+          ]
+        ],
+        "note": "De namen volgen Genesis 36; eerdere hoofdstukken gebruiken deels andere namen voor Ezau’s vrouwen."
+      }
+    },
+    {
+      "book": "genesis",
+      "chapter": 36,
+      "verse": 20,
+      "file": "36-horieten-eerste-takken.svg",
+      "scene": "De Horieten: eerste takken",
+      "alt": "De eerste Horietische takken in Genesis 36: nakomelingen van Seïr, met de lijnen van Lotan, Sobal, Zibeon en Ana.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1111,
+      "source": "Genesis 36:20–25",
+      "design": {
+        "rows": [
+          [
+            "Seïr → zijn nakomelingen",
+            "Lotan, Sobal, Zibeon, Ana, Dison, Ezer en Disan."
+          ],
+          [
+            "Lotan → zijn zonen",
+            "Hori en Hemam. Timna is Lotans zus."
+          ],
+          [
+            "Sobal → zijn zonen",
+            "Alvan, Manahath, Ebal, Sefo en Onam."
+          ],
+          [
+            "Zibeon → zijn zonen",
+            "Aja en Ana."
+          ],
+          [
+            "Ana → zijn kinderen",
+            "Dison en Aholibama worden genoemd."
+          ]
+        ],
+        "note": "Herhaalde namen blijven bij de relatie waarin de tekst ze noemt; gelijknamige personen worden niet samengevoegd."
+      }
+    },
+    {
+      "book": "genesis",
+      "chapter": 36,
+      "verse": 26,
+      "file": "36-horieten-overige-takken.svg",
+      "scene": "De Horieten: overige takken",
+      "alt": "De overige Horietische takken: Dison met Hemdan, Esban, Ithran en Cheran; Ezer met Bilhan, Zaävan en Akan; Disan met Uz en Aran.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 926,
+      "source": "Genesis 36:26–30",
+      "design": {
+        "rows": [
+          [
+            "Dison → zijn zonen",
+            "Hemdan, Esban, Ithran en Cheran."
+          ],
+          [
+            "Ezer → zijn zonen",
+            "Bilhan, Zaävan en Akan."
+          ],
+          [
+            "Disan → zijn zonen",
+            "Uz en Aran."
+          ],
+          [
+            "De zeven stamhoofden",
+            "Lotan, Sobal, Zibeon, Ana, Dison, Ezer en Disan."
+          ]
+        ],
+        "note": "Dison en Disan zijn verschillende namen in deze opsomming."
+      }
+    },
+    {
+      "book": "genesis",
+      "chapter": 36,
+      "verse": 31,
+      "file": "36-koningen-edom.svg",
+      "scene": "De koningen van Edom",
+      "alt": "De acht opeenvolgende koningen van Edom: Bela, Jobab, Husam, Hadad, Samla, Saul, Baäl-Hanan en Hadar.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1515,
+      "source": "Genesis 36:31–39",
+      "design": {
+        "rows": [
+          [
+            "1 · Bela",
+            "Zoon van Beor; stad Dinhaba."
+          ],
+          [
+            "2 · Jobab",
+            "Zoon van Zerah; uit Bozra."
+          ],
+          [
+            "3 · Husam",
+            "Uit het land van de Temanieten."
+          ],
+          [
+            "4 · Hadad",
+            "Zoon van Bedad; stad Avith."
+          ],
+          [
+            "5 · Samla",
+            "Uit Masreka."
+          ],
+          [
+            "6 · Saul",
+            "Uit Rehoboth aan de rivier."
+          ],
+          [
+            "7 · Baäl-Hanan",
+            "Zoon van Achbor."
+          ],
+          [
+            "8 · Hadar",
+            "Stad Pahu; zijn vrouw heet Mehetabeël."
+          ]
+        ],
+        "note": "Dit is een volgorde van koningen, geen vader-zoonstamboom. Er worden geen jaartallen berekend."
+      }
+    },
+    {
+      "book": "genesis",
+      "chapter": 37,
+      "verse": 7,
+      "file": "37-droom-schoven.svg",
+      "scene": "Jozefs droom van de schoven",
+      "alt": "In Jozefs eerste droom staat zijn schoof rechtop en buigen de schoven van zijn broers ervoor.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 969,
+      "source": "Genesis 37:5–8",
+      "design": {
+        "rows": [
+          [
+            "De setting",
+            "De broers binden schoven midden op het veld."
+          ],
+          [
+            "Jozefs schoof",
+            "Zijn schoof gaat rechtop staan."
+          ],
+          [
+            "De schoven van de broers",
+            "Zij komen eromheen en buigen ervoor."
+          ],
+          [
+            "De reactie",
+            "Zijn broers vragen of hij over hen denkt te regeren."
+          ]
+        ],
+        "note": "Dit is een droombeeld, geen werkelijk buigende oogst of historische kroning."
+      }
+    },
+    {
+      "book": "genesis",
+      "chapter": 37,
+      "verse": 9,
+      "file": "37-droom-hemellichten.svg",
+      "scene": "Zon, maan en elf sterren",
+      "alt": "Jozef droomt dat zon, maan en elf sterren voor hem buigen. Jakob vraagt naar de betekenis voor de familie en onthoudt de woorden.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1005,
+      "source": "Genesis 37:9–11",
+      "design": {
+        "rows": [
+          [
+            "Het droombeeld",
+            "De zon, de maan en elf sterren buigen voor Jozef."
+          ],
+          [
+            "De vraag van Jakob",
+            "Moeten je moeder, je broers en ik voor jou buigen?"
+          ],
+          [
+            "De reactie van de broers",
+            "Zij zijn jaloers."
+          ],
+          [
+            "De reactie van Jakob",
+            "Hij blijft over deze woorden nadenken."
+          ]
+        ],
+        "note": "De familiebetekenis wordt als Jakobs vraag weergegeven; het is geen natuurkundige gebeurtenis."
+      }
+    },
+    {
+      "book": "genesis",
+      "chapter": 38,
+      "verse": 30,
+      "file": "38-familie-juda-tamar.svg",
+      "scene": "De familie van Juda en Tamar",
+      "alt": "Juda krijgt Er, Onan en Sela bij de dochter van Sua. Tamar, eerst Ers vrouw, krijgt later bij Juda Perez en Zera. Perez wordt eerst geboren, Zera draagt de scharlaken draad.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1048,
+      "source": "Genesis 38:2–30",
+      "design": {
+        "rows": [
+          [
+            "Juda en de dochter van Sua",
+            "Hun zonen: Er, Onan en Sela."
+          ],
+          [
+            "Tamar en Er",
+            "Tamar trouwt met Er; hij sterft."
+          ],
+          [
+            "Onan en Sela",
+            "Onan sterft eveneens. Tamar wordt niet aan de volwassen Sela gegeven."
+          ],
+          [
+            "Juda en Tamar → hun zonen",
+            "De tweeling Perez en Zera. Zera draagt de scharlaken draad; Perez wordt als eerste geboren."
+          ]
+        ],
+        "note": "Familieoverzicht volgens dit hoofdstuk; de moeder van Er, Onan en Sela wordt niet bij naam genoemd."
+      }
+    },
+    {
+      "book": "genesis",
+      "chapter": 40,
+      "verse": 12,
+      "file": "40-dromen-schenker-bakker.svg",
+      "scene": "Twee dromen in de gevangenis",
+      "alt": "De schenker droomt van drie ranken en wordt na drie dagen hersteld. De bakker droomt van drie manden en wordt na drie dagen ter dood gebracht. De schenker vergeet Jozef.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1161,
+      "source": "Genesis 40:9–23",
+      "design": {
+        "rows": [
+          [
+            "De schenker: drie ranken",
+            "De wijnstok draagt druiven; hij geeft de beker aan Farao."
+          ],
+          [
+            "Uitleg: drie dagen",
+            "De schenker wordt hersteld in zijn ambt."
+          ],
+          [
+            "De bakker: drie manden",
+            "Vogels eten uit de bovenste mand met gebak."
+          ],
+          [
+            "Uitleg: drie dagen",
+            "De bakker wordt ter dood gebracht."
+          ],
+          [
+            "Na afloop",
+            "De schenker vergeet Jozef."
+          ]
+        ],
+        "note": "Het schema benoemt de verschillende uitkomsten zonder de executie af te beelden."
+      }
+    },
+    {
+      "book": "genesis",
+      "chapter": 41,
+      "verse": 26,
+      "file": "41-zeven-goede-en-slechte-jaren.svg",
+      "scene": "Zeven goede en slechte jaren",
+      "alt": "Farao’s twee dromen wijzen op zeven jaren overvloed gevolgd door zeven jaren hongersnood. Jozef stelt voor een vijfde van de oogst op te slaan.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1111,
+      "source": "Genesis 41:25–36",
+      "design": {
+        "rows": [
+          [
+            "Zeven vette koeien",
+            "Zeven jaren van overvloed."
+          ],
+          [
+            "Zeven volle korenaren",
+            "Dezelfde zeven goede jaren."
+          ],
+          [
+            "Zeven magere koeien",
+            "Zeven jaren van hongersnood volgen."
+          ],
+          [
+            "Zeven dunne korenaren",
+            "Dezelfde zeven jaren van hongersnood."
+          ],
+          [
+            "Het voorstel van Jozef",
+            "In de goede jaren een vijfde van de oogst innemen en bewaren als voorraad."
+          ]
+        ],
+        "note": "De twee dromen hebben volgens Jozef dezelfde betekenis; zij vormen geen vier afzonderlijke perioden."
+      }
+    }
+  ]
+}
