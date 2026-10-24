@@ -3,7 +3,27 @@
   "started": "2026-10-24T01:54:08Z",
   "mode": "built-in rasters and native SVG schemas",
   "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
-  "metadata_corrections": [],
+  "metadata_corrections": [
+    {
+      "book": "leviticus",
+      "chapter": 19,
+      "file": "19-neighbor.webp",
+      "before": {
+        "chapter": 19,
+        "file": "19-neighbor.webp",
+        "alt": "Israëlieten laten aren voor arme buren liggen",
+        "scene": "Heb je naaste lief"
+      },
+      "after": {
+        "chapter": 19,
+        "file": "19-neighbor.webp",
+        "alt": "Israëlieten laten aren voor armen en vreemdelingen liggen — Leviticus 19:9–10",
+        "scene": "De akkerrand blijft voor armen en vreemdelingen",
+        "verse": 9
+      },
+      "reason": "Het bestaande beeld toont de akkerrand uit vers 9–10 en hoort niet bij het hoofdstukbegin."
+    }
+  ],
   "images": [
     {
       "book": "leviticus",
