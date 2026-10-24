@@ -8701,13 +8701,15 @@
         "chapter": 8,
         "file": "8-ark.webp",
         "alt": "Priesters dragen de ark het met cederhout beklede heiligdom binnen",
-        "scene": "De ark in de tempel"
+        "scene": "De ark in de tempel",
+        "verse": 6
       },
       {
         "chapter": 8,
         "file": "8-prayer.webp",
         "alt": "Salomo bidt in de tempelvoorhof met het volk om zich heen",
-        "scene": "Salomo bidt voor het volk"
+        "scene": "Salomo bidt voor het volk",
+        "verse": 22
       },
       {
         "chapter": 9,
@@ -28628,13 +28630,18 @@
         "chapter": 2,
         "file": "2-jordan.webp",
         "alt": "Elia en Elisa lopen samen naar de Jordaan",
-        "scene": "Elia en Elisa"
+        "scene": "Elia en Elisa",
+        "verse": 6
       },
       {
         "chapter": 4,
-        "file": "4-oil.webp",
-        "alt": "Een weduwe vult kruiken met olie",
-        "scene": "De kruiken met olie"
+        "file": "4-oil-v2.webp",
+        "alt": "De weduwe vult kruiken met olie, geholpen door haar twee zonen",
+        "scene": "De kruiken met olie",
+        "verse": 5,
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 22,
@@ -28913,7 +28920,8 @@
         "verse": 9,
         "file": "14-9.webp",
         "alt": "Beeld bij 2 Koningen 14: De gelijkenis van de distel en de ceder op de Libanon.",
-        "scene": "De gelijkenis van de distel en de ceder op de Libanon."
+        "scene": "De gelijkenis van de distel en de ceder op de Libanon.",
+        "kind": "parable"
       },
       {
         "chapter": 14,
@@ -29025,7 +29033,8 @@
         "verse": 29,
         "file": "19-29.webp",
         "alt": "Beeld bij 2 Koningen 19: Het teken van herstel: zaaien en oogsten in Juda.",
-        "scene": "Het teken van herstel: zaaien en oogsten in Juda."
+        "scene": "Het teken van herstel: zaaien en oogsten in Juda.",
+        "kind": "poetic"
       },
       {
         "chapter": 20,

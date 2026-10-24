@@ -1,0 +1,114 @@
+{
+  "mode": "built-in edit and source metadata corrections",
+  "started": "2026-10-24T23:31:06Z",
+  "corrections": [
+    {
+      "book": "1koningen",
+      "before": {
+        "chapter": 8,
+        "file": "8-ark.webp",
+        "alt": "Priesters dragen de ark het met cederhout beklede heiligdom binnen",
+        "scene": "De ark in de tempel"
+      },
+      "after": {
+        "chapter": 8,
+        "file": "8-ark.webp",
+        "alt": "Priesters dragen de ark het met cederhout beklede heiligdom binnen",
+        "scene": "De ark in de tempel",
+        "verse": 6
+      }
+    },
+    {
+      "book": "1koningen",
+      "before": {
+        "chapter": 8,
+        "file": "8-prayer.webp",
+        "alt": "Salomo bidt in de tempelvoorhof met het volk om zich heen",
+        "scene": "Salomo bidt voor het volk"
+      },
+      "after": {
+        "chapter": 8,
+        "file": "8-prayer.webp",
+        "alt": "Salomo bidt in de tempelvoorhof met het volk om zich heen",
+        "scene": "Salomo bidt voor het volk",
+        "verse": 22
+      }
+    },
+    {
+      "book": "2koningen",
+      "before": {
+        "chapter": 2,
+        "file": "2-jordan.webp",
+        "alt": "Elia en Elisa lopen samen naar de Jordaan",
+        "scene": "Elia en Elisa"
+      },
+      "after": {
+        "chapter": 2,
+        "file": "2-jordan.webp",
+        "alt": "Elia en Elisa lopen samen naar de Jordaan",
+        "scene": "Elia en Elisa",
+        "verse": 6
+      }
+    },
+    {
+      "book": "2koningen",
+      "before": {
+        "chapter": 4,
+        "file": "4-oil.webp",
+        "alt": "Een weduwe vult kruiken met olie",
+        "scene": "De kruiken met olie"
+      },
+      "after": {
+        "chapter": 4,
+        "file": "4-oil-v2.webp",
+        "alt": "De weduwe vult kruiken met olie, geholpen door haar twee zonen",
+        "scene": "De kruiken met olie",
+        "verse": 5,
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      }
+    },
+    {
+      "book": "2koningen",
+      "before": {
+        "chapter": 14,
+        "verse": 9,
+        "file": "14-9.webp",
+        "alt": "Beeld bij 2 Koningen 14: De gelijkenis van de distel en de ceder op de Libanon.",
+        "scene": "De gelijkenis van de distel en de ceder op de Libanon."
+      },
+      "after": {
+        "chapter": 14,
+        "verse": 9,
+        "file": "14-9.webp",
+        "alt": "Beeld bij 2 Koningen 14: De gelijkenis van de distel en de ceder op de Libanon.",
+        "scene": "De gelijkenis van de distel en de ceder op de Libanon.",
+        "kind": "parable"
+      }
+    },
+    {
+      "book": "2koningen",
+      "before": {
+        "chapter": 19,
+        "verse": 29,
+        "file": "19-29.webp",
+        "alt": "Beeld bij 2 Koningen 19: Het teken van herstel: zaaien en oogsten in Juda.",
+        "scene": "Het teken van herstel: zaaien en oogsten in Juda."
+      },
+      "after": {
+        "chapter": 19,
+        "verse": 29,
+        "file": "19-29.webp",
+        "alt": "Beeld bij 2 Koningen 19: Het teken van herstel: zaaien en oogsten in Juda.",
+        "scene": "Het teken van herstel: zaaien en oogsten in Juda.",
+        "kind": "poetic"
+      }
+    }
+  ],
+  "edit": {
+    "prompt": "Edit this Bible illustration precisely: the widow has TWO SONS in 2 Kings 4:5. Change only the child on the left from a girl wearing a headscarf into a boy with short uncovered hair, age around 8–10, wearing a modest boy's woven tunic. Preserve the widow, the boy on the right, both boys' natural arms and hands, pouring oil and all jars, house and lighting. No additional people.",
+    "file": "images/boekseries/2koningen/4-oil-v2.webp",
+    "reason": "2 Koningen 4:1, 4–6 noemt twee zonen; het eerdere beeld had een meisje links. Oude bronafbeelding behouden."
+  }
+}
