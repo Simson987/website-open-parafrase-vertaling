@@ -4523,6 +4523,250 @@
           "source": "Deuteronomium 19:14–21"
         }
       ]
+    },
+    {
+      "book": "deuteronomium",
+      "chapter": 22,
+      "status": "reviewed",
+      "target_images": 7,
+      "reason": "Vogelvrijlating en het helpen van een gevallen dier zijn afzonderlijke voorschriften naast gevonden zaken en dakrand. Twee leeswijzers geven samenhang en maken de expliciete onschuld van het slachtoffer duidelijk.",
+      "additions": [
+        {
+          "verse": 7,
+          "scene": "De moedervogel wordt vrijgelaten",
+          "kind": "scene",
+          "file": "22-7-uitbreiding.webp"
+        },
+        {
+          "verse": 4,
+          "scene": "Samen de gevallen ezel helpen",
+          "kind": "scene",
+          "file": "22-4-uitbreiding.webp"
+        },
+        {
+          "verse": 1,
+          "file": "22-zorg-voor-naaste.svg",
+          "scene": "Zorg voor mens en dier",
+          "kind": "diagram",
+          "source": "Deuteronomium 22:1–12"
+        },
+        {
+          "verse": 25,
+          "file": "22-onschuldig-slachtoffer.svg",
+          "scene": "Geen schuld bij het slachtoffer",
+          "kind": "diagram",
+          "source": "Deuteronomium 22:25–27"
+        }
+      ]
+    },
+    {
+      "book": "deuteronomium",
+      "chapter": 24,
+      "status": "reviewed",
+      "target_images": 7,
+      "reason": "De handmolen en het achterlaten van olijven ontbreken naast mantel, loon en koren. Twee schema’s ordenen pandregels en de drie oogsten.",
+      "additions": [
+        {
+          "verse": 6,
+          "scene": "De handmolen blijft bij het gezin",
+          "kind": "scene",
+          "file": "24-6-uitbreiding.webp"
+        },
+        {
+          "verse": 20,
+          "scene": "Olijven achterlaten voor de ander",
+          "kind": "scene",
+          "file": "24-20-uitbreiding.webp"
+        },
+        {
+          "verse": 6,
+          "file": "24-pand-en-dagloon.svg",
+          "scene": "Pand, inkomen en dagloon",
+          "kind": "diagram",
+          "source": "Deuteronomium 24:6–18"
+        },
+        {
+          "verse": 19,
+          "file": "24-drie-oogsten.svg",
+          "scene": "Ruimte bij drie oogsten",
+          "kind": "diagram",
+          "source": "Deuteronomium 24:19–22"
+        }
+      ]
+    },
+    {
+      "book": "deuteronomium",
+      "chapter": 26,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "De plaatselijke tiende is een afzonderlijke regeling naast eerstelingen en de feestmaaltijd. Een schema toont de geschiedenis binnen de uitgesproken belijdenis.",
+      "additions": [
+        {
+          "verse": 12,
+          "scene": "De tiende in de woonplaats",
+          "kind": "scene",
+          "file": "26-12-uitbreiding.webp"
+        },
+        {
+          "verse": 5,
+          "file": "26-belijdenis-bij-eerstelingen.svg",
+          "scene": "De belijdenis bij de oogst",
+          "kind": "diagram",
+          "source": "Deuteronomium 26:5–11"
+        }
+      ]
+    },
+    {
+      "book": "deuteronomium",
+      "chapter": 27,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Het schrijven op de gekalkte stenen is een eigen stap naast kalken en altaar. Twee schema’s controleren de exacte stamverdeling en de twaalf amen-antwoorden.",
+      "additions": [
+        {
+          "verse": 8,
+          "scene": "Voorschrift: woorden op kalkstenen",
+          "kind": "scene",
+          "file": "27-8-uitbreiding.webp"
+        },
+        {
+          "verse": 11,
+          "file": "27-stammen-op-twee-bergen.svg",
+          "scene": "Stammen op de twee bergen",
+          "kind": "diagram",
+          "source": "Deuteronomium 27:11–14"
+        },
+        {
+          "verse": 15,
+          "file": "27-twaalf-antwoorden.svg",
+          "scene": "Twaalf keer antwoord: amen",
+          "kind": "diagram",
+          "source": "Deuteronomium 27:15–26"
+        }
+      ]
+    },
+    {
+      "book": "deuteronomium",
+      "chapter": 29,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Het dorre land illustreert een eigen toekomstwaarschuwing. Twee schema’s verduidelijken deelnemers en latere vraag en antwoord.",
+      "additions": [
+        {
+          "verse": 23,
+          "scene": "De waarschuwing voor een dor land",
+          "kind": "scene",
+          "file": "29-23-uitbreiding.webp"
+        },
+        {
+          "verse": 10,
+          "file": "29-wie-in-het-verbond.svg",
+          "scene": "Wie staan voor het verbond?",
+          "kind": "diagram",
+          "source": "Deuteronomium 29:10–15"
+        },
+        {
+          "verse": 22,
+          "file": "29-latere-vraag.svg",
+          "scene": "De latere vraag over het land",
+          "kind": "diagram",
+          "source": "Deuteronomium 29:22–29"
+        }
+      ]
+    },
+    {
+      "book": "deuteronomium",
+      "chapter": 21,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "De bestaande koe, onschuldsverklaring en erfdelen zijn voldoende als scènes. Twee schema’s verduidelijken de procedure bij onbekende dader en het exacte dubbele erfdeel.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "21-onbekende-dader.svg",
+          "scene": "Bij een onbekende dader",
+          "kind": "diagram",
+          "source": "Deuteronomium 21:1–9"
+        },
+        {
+          "verse": 17,
+          "file": "21-eerstgeboorterecht.svg",
+          "scene": "Het recht van de eerstgeborene",
+          "kind": "diagram",
+          "source": "Deuteronomium 21:15–17"
+        }
+      ]
+    },
+    {
+      "book": "deuteronomium",
+      "chapter": 23,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "De drie bestaande scènes dekken bescherming, druiven en aren. Een schema onderscheidt deze regels van rente en geloften zonder herhaling.",
+      "additions": [
+        {
+          "verse": 15,
+          "file": "23-bescherming-en-gebruik.svg",
+          "scene": "Bescherming en gebruik",
+          "kind": "diagram",
+          "source": "Deuteronomium 23:15–25"
+        }
+      ]
+    },
+    {
+      "book": "deuteronomium",
+      "chapter": 25,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "De bestaande os en twee vormen van eerlijke handel zijn voldoende. Familieprocedure en samenhang van de overige bepalingen worden met twee schema’s verduidelijkt.",
+      "additions": [
+        {
+          "verse": 5,
+          "file": "25-zwagerplicht.svg",
+          "scene": "De beschreven zwagerplicht",
+          "kind": "diagram",
+          "source": "Deuteronomium 25:5–10"
+        },
+        {
+          "verse": 13,
+          "file": "25-maten-en-herinnering.svg",
+          "scene": "Eerlijke maten en herinnering",
+          "kind": "diagram",
+          "source": "Deuteronomium 25:1–19"
+        }
+      ]
+    },
+    {
+      "book": "deuteronomium",
+      "chapter": 28,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "De drie bestaande beelden tonen toespraak, oogst en droogte. Eén leeswijzer geeft de veel langere hoofdstukstructuur weer zonder extreme geweldsscènes.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "28-zegen-en-waarschuwing.svg",
+          "scene": "Zegen en waarschuwing",
+          "kind": "diagram",
+          "source": "Deuteronomium 28:1–68"
+        }
+      ]
+    },
+    {
+      "book": "deuteronomium",
+      "chapter": 30,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "Terugkeer, nabij woord en levenskeuze hebben al drie passende scènes. Eén schema bewaakt samenhang en het beeldspraak-karakter van de hartbesnijdenis.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "30-terugkeer-en-nabijheid.svg",
+          "scene": "Terugkeer en het nabije woord",
+          "kind": "diagram",
+          "source": "Deuteronomium 30:1–20"
+        }
+      ]
     }
   ]
 }
