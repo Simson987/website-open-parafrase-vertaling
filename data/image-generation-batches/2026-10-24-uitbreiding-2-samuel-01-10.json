@@ -1,0 +1,819 @@
+{
+  "date": "2026-10-24",
+  "started": "2026-10-24T22:33:42Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "2samuel",
+      "chapter": 2,
+      "verse": 8,
+      "scene": "Abner brengt Isboseth naar Mahanaïm",
+      "alt": "Abner brengt Isboseth naar Mahanaïm — 2 Samuël 2:8",
+      "kind": "scene",
+      "file": "2-8-inhoudelijk.webp",
+      "prompt": "Use case: historical scene. Photorealistic educational Bible illustration, landscape 3:2, ancient Iron Age Israel, fully modest woven robes, natural hands exactly two arms each. No modern objects, Roman armor, readable writing, watermark, visible deity, nudity or graphic violence. Adult fully robed military commander Abner escorts adult Ishbosheth son of Saul into an ancient fortified town of Mahanaim to establish his rule. A few sober elders wait by the gate, no David or Samuel present, no anointing ritual invented, no battle.",
+      "edit_prompt": "Edit this historical illustration. Preserve composition, Abner the tall man in burgundy on the left, town elders, gate, clothing style and lighting. Change ONLY Ishbosheth, the man in blue walking beside Abner: according to 2 Samuel 2:10 he is FORTY YEARS OLD. Make him clearly a mature forty-year-old adult with an adult face, short full beard, naturally mature shoulders and adult proportions. He must not look like a teenager. Keep two natural arms and hands, fully modest blue woven robes, no other changes.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2samuel",
+      "chapter": 2,
+      "verse": 5,
+      "scene": "David eert de trouw van Jabes",
+      "alt": "David eert de trouw van Jabes — 2 Samuël 2:5",
+      "kind": "scene",
+      "file": "2-5-inhoudelijk.webp",
+      "prompt": "Use case: historical scene. Photorealistic educational Bible illustration, landscape 3:2, ancient Iron Age Israel, fully modest woven robes, natural hands exactly two arms each. No modern objects, Roman armor, readable writing, watermark, visible deity, nudity or graphic violence. Fully robed adult messengers from David respectfully speak to elders of Jabesh in Gilead at the gate of their town, expressing gratitude for care for Saul. No corpse, weapons raised, gifts invented or king David personally present.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2samuel",
+      "chapter": 3,
+      "verse": 16,
+      "scene": "Paltiël volgt Michal tot Bahurim",
+      "alt": "Paltiël volgt Michal tot Bahurim — 2 Samuël 3:16",
+      "kind": "scene",
+      "file": "3-16-inhoudelijk.webp",
+      "prompt": "Use case: historical scene. Photorealistic educational Bible illustration, landscape 3:2, ancient Iron Age Israel, fully modest woven robes, natural hands exactly two arms each. No modern objects, Roman armor, readable writing, watermark, visible deity, nudity or graphic violence. A fully robed adult woman Michal travels soberly with an escort led by adult Abner on an ancient road; behind at a respectful distance her grieving husband Paltiel stops as Abner gestures for him to return. No physical force, smiles, romance, weapons raised or modern cart.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2samuel",
+      "chapter": 6,
+      "verse": 3,
+      "scene": "De ark op de nieuwe wagen",
+      "alt": "De ark op de nieuwe wagen — 2 Samuël 6:3",
+      "kind": "scene",
+      "file": "6-3-inhoudelijk.webp",
+      "prompt": "Use case: historical scene. Photorealistic educational Bible illustration, landscape 3:2, ancient Iron Age Israel, fully modest woven robes, natural hands exactly two arms each. No modern objects, Roman armor, readable writing, watermark, visible deity, nudity or graphic violence. A new plain wooden cart pulled by two oxen on an ancient country road carries a gold covenant chest. Two fully robed adult men Uzzah and Ahio guide the procession, one man clearly walks ahead of the cart, nobody touches the sacred chest, everyone alive calm. Simple ancient settlement background, no stumbling or death scene.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2samuel",
+      "chapter": 6,
+      "verse": 16,
+      "scene": "Michal kijkt uit het raam",
+      "alt": "Michal kijkt uit het raam — 2 Samuël 6:16",
+      "kind": "scene",
+      "file": "6-16-inhoudelijk.webp",
+      "prompt": "Use case: historical scene. Photorealistic educational Bible illustration, landscape 3:2, ancient Iron Age Israel, fully modest woven robes, natural hands exactly two arms each. No modern objects, Roman armor, readable writing, watermark, visible deity, nudity or graphic violence. Portrait of a fully modestly robed adult Michal at a stone palace window, watching a distant joyful procession below with a troubled disapproving expression. Down in the street fully clothed robed adults and musicians; no nudity, no mockery gestures or visible deity.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2samuel",
+      "chapter": 7,
+      "verse": 4,
+      "scene": "Nathan ontvangt in de nacht het woord",
+      "alt": "Nathan ontvangt in de nacht het woord — 2 Samuël 7:4",
+      "kind": "scene",
+      "file": "7-4-inhoudelijk.webp",
+      "prompt": "Use case: historical scene. Photorealistic educational Bible illustration, landscape 3:2, ancient Iron Age Israel, fully modest woven robes, natural hands exactly two arms each. No modern objects, Roman armor, readable writing, watermark, visible deity, nudity or graphic violence. Adult fully robed prophet Nathan sits awake on a woven mat in a simple ancient room at night by a clay oil lamp, absorbed listening and reflection. NO apparition, dream figure, angel, divine person, writing, supernatural light or voice caption; quiet human response only.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2samuel",
+      "chapter": 8,
+      "verse": 17,
+      "scene": "Seraja is schrijver",
+      "alt": "Seraja is schrijver — 2 Samuël 8:17",
+      "kind": "scene",
+      "file": "8-17-inhoudelijk.webp",
+      "prompt": "Use case: historical scene. Photorealistic educational Bible illustration, landscape 3:2, ancient Iron Age Israel, fully modest woven robes, natural hands exactly two arms each. No modern objects, Roman armor, readable writing, watermark, visible deity, nudity or graphic violence. A modestly robed adult ancient scribe Seraiah works at a low wooden table with a reed pen and a rolled parchment, simple bookkeeping vessels and a seated royal official nearby. Writing turned away and not readable, no modern books or papers, no religious revelation or weapons.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2samuel",
+      "chapter": 9,
+      "verse": 10,
+      "scene": "Het land wordt voor Mefiboseth bewerkt",
+      "alt": "Het land wordt voor Mefiboseth bewerkt — 2 Samuël 9:10",
+      "kind": "scene",
+      "file": "9-10-inhoudelijk.webp",
+      "prompt": "Use case: historical scene. Photorealistic educational Bible illustration, landscape 3:2, ancient Iron Age Israel, fully modest woven robes, natural hands exactly two arms each. No modern objects, Roman armor, readable writing, watermark, visible deity, nudity or graphic violence. Fully robed adult estate manager Ziba directs a few adult field workers gathering grain into baskets on former royal farmland in ancient Israel. Peaceful provision for Mephibosheth, no implied exact count of workers, no slaves in chains or modern farm tools.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2samuel",
+      "chapter": 10,
+      "verse": 19,
+      "scene": "De koningen sluiten vrede",
+      "alt": "De koningen sluiten vrede — 2 Samuël 10:19",
+      "kind": "scene",
+      "file": "10-19-inhoudelijk.webp",
+      "prompt": "Use case: historical scene. Photorealistic educational Bible illustration, landscape 3:2, ancient Iron Age Israel, fully modest woven robes, natural hands exactly two arms each. No modern objects, Roman armor, readable writing, watermark, visible deity, nudity or graphic violence. A small group of adult robed neighboring rulers meet fully robed king David in a simple ancient courtyard, expressing agreement with open hands and calm serious faces after conflict. No written treaty, raised swords, chains, trophies or triumphant violence, no modern crowns.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2samuel",
+      "chapter": 1,
+      "verse": 2,
+      "file": "1-bericht-en-reactie.svg",
+      "scene": "Het bericht en de reactie",
+      "alt": "Bode, bewijsstukken, bewering en Davids reactie.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1204,
+      "source": "2 Samuël 1:2–16",
+      "design": {
+        "rows": [
+          [
+            "De aankomst",
+            "Derde dag; gescheurde kleren en aarde op het hoofd."
+          ],
+          [
+            "Het bericht",
+            "De Amalekiet meldt Sauls en Jonathans dood en beweert Saul te hebben gedood."
+          ],
+          [
+            "De voorwerpen",
+            "Hij brengt kroon en armband naar David."
+          ],
+          [
+            "Davids rouw",
+            "Kleren scheuren, huilen en vasten tot de avond."
+          ],
+          [
+            "Het oordeel",
+            "David laat de bode doden op grond van diens eigen uitspraak."
+          ]
+        ],
+        "note": "De bewering van de bode blijft onderscheiden van het vertellersverslag in 1 Samuël 31."
+      }
+    },
+    {
+      "book": "2samuel",
+      "chapter": 1,
+      "verse": 17,
+      "file": "1-klaaglied-leeswijzer.svg",
+      "scene": "Leeswijzer bij het klaaglied",
+      "alt": "De opbouw en beeldspraak van Davids rouwlied.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1204,
+      "source": "2 Samuël 1:17–27",
+      "design": {
+        "rows": [
+          [
+            "Het terugkerende refrein",
+            "Hoe zijn de helden gevallen!"
+          ],
+          [
+            "Wat niet moet gebeuren",
+            "Geen vreugdebericht voor Gath en Askelon."
+          ],
+          [
+            "Gilboa",
+            "De bergen en het weggegooide schild dragen de rouwtaal."
+          ],
+          [
+            "Saul en Jonathan",
+            "Samen geliefd; sneller dan arenden, sterker dan leeuwen."
+          ],
+          [
+            "Persoonlijk verdriet",
+            "David spreekt Jonathan als zijn dierbare broer aan."
+          ]
+        ],
+        "note": "Arenden en leeuwen zijn vergelijkingen in het lied, geen beschreven gedaanteveranderingen."
+      }
+    },
+    {
+      "book": "2samuel",
+      "chapter": 2,
+      "verse": 1,
+      "file": "2-twee-koninkrijken.svg",
+      "scene": "Twee koningen en twee huizen",
+      "alt": "Plaatsen, leiders, gebieden en verschillende regeringsduren.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1283,
+      "source": "2 Samuël 2:1–11",
+      "design": {
+        "rows": [
+          [
+            "David",
+            "Op raad naar Hebron; gezalfd door Juda."
+          ],
+          [
+            "Zijn gezin en mannen",
+            "Ahinoam en Abigaïl; mannen met hun gezinnen in omliggende steden."
+          ],
+          [
+            "Jabes in Gilead",
+            "David eert de trouw bij Sauls begrafenis."
+          ],
+          [
+            "Isboseth",
+            "Sauls zoon; door Abner in Mahanaïm als koning gevestigd."
+          ],
+          [
+            "De termijnen",
+            "Isboseth: veertig jaar oud, twee jaar regering. David in Hebron: zeven jaar en zes maanden."
+          ]
+        ],
+        "note": "De twee regeringsduren worden naast elkaar genoemd, zonder ze tot dezelfde periode te verklaren."
+      }
+    },
+    {
+      "book": "2samuel",
+      "chapter": 2,
+      "verse": 12,
+      "file": "2-gibeon-en-terugtocht.svg",
+      "scene": "Gibeon en de terugtocht",
+      "alt": "De partijen, familiebanden, verliezen en verschillende terugroutes.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1290,
+      "source": "2 Samuël 2:12–32",
+      "design": {
+        "rows": [
+          [
+            "De twee zijden",
+            "Abner met Isboseths dienaren; Joab met Davids dienaren bij de vijver."
+          ],
+          [
+            "De eerste mannen",
+            "Twaalf per kant; het gevecht eindigt dodelijk."
+          ],
+          [
+            "Asahel",
+            "Broer van Joab en Abisai; blijft Abner achtervolgen en wordt gedood."
+          ],
+          [
+            "De beëindiging",
+            "Abner roept; Joab blaast; de achtervolging stopt."
+          ],
+          [
+            "De nasleep",
+            "Negentien mannen plus Asahel bij David; 360 bij Abner. Abner naar Mahanaïm; Joab via Bethlehem naar Hebron."
+          ]
+        ],
+        "note": "De negentien vermisten en Asahel zijn in de tekst afzonderlijk genoemd."
+      }
+    },
+    {
+      "book": "2samuel",
+      "chapter": 3,
+      "verse": 2,
+      "file": "3-zonen-in-hebron.svg",
+      "scene": "Davids zonen in Hebron",
+      "alt": "De zes zonen van David in Hebron, ieder verbonden met David en gekoppeld aan de in de tekst genoemde moeder.",
+      "kind": "diagram",
+      "width": 1120,
+      "height": 1130,
+      "source": "2 Samuël 3:2–5",
+      "design": {
+        "father": "David",
+        "children": [
+          [
+            "Amnon",
+            "Ahinoam uit Jizreël"
+          ],
+          [
+            "Chileab",
+            "Abigaïl"
+          ],
+          [
+            "Absalom",
+            "Maächa"
+          ],
+          [
+            "Adonia",
+            "Haggith"
+          ],
+          [
+            "Sefatja",
+            "Abital"
+          ],
+          [
+            "Jithream",
+            "Egla"
+          ]
+        ],
+        "edge": "vader van",
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"1120\" height=\"1130\" viewBox=\"0 0 1120 1130\" role=\"img\" aria-labelledby=\"title desc\">\n<title id=\"title\">Davids zonen in Hebron</title>\n<desc id=\"desc\">David is de vader van zes genoemde zonen; per zoon staat de moeder. De volgorde is die van 2 Samuël 3:2–5.</desc>\n<rect width=\"1120\" height=\"1130\" rx=\"24\" fill=\"#f7f5ea\"/>\n<text x=\"42\" y=\"66\" font-family=\"DejaVu Sans\" font-size=\"39\" font-weight=\"700\" fill=\"#173c31\">Davids zonen in Hebron</text>\n<text x=\"42\" y=\"111\" font-family=\"DejaVu Sans\" font-size=\"28\" fill=\"#5e665e\">2 Samuël 3:2–5 · van oudste naar zesde</text>\n<rect x=\"42\" y=\"155\" width=\"250\" height=\"80\" rx=\"15\" fill=\"#dceadf\"/>\n<text x=\"167\" y=\"206\" text-anchor=\"middle\" font-family=\"DejaVu Sans\" font-size=\"34\" font-weight=\"700\" fill=\"#173c31\">David · vader</text>\n<path d=\"M90 235v680\" stroke=\"#467d64\" stroke-width=\"3\"/>\n<path d=\"M90 317h60\" stroke=\"#467d64\" stroke-width=\"3\"/>\n<rect x=\"150\" y=\"275\" width=\"410\" height=\"84\" rx=\"12\" fill=\"white\" stroke=\"#b9cbbd\"/>\n<text x=\"180\" y=\"328\" font-family=\"DejaVu Sans\" font-size=\"32\" font-weight=\"700\" fill=\"#173c31\">1. Amnon</text>\n<text x=\"590\" y=\"305\" font-family=\"DejaVu Sans\" font-size=\"25\" fill=\"#5e665e\">moeder</text>\n<text x=\"590\" y=\"340\" font-family=\"DejaVu Sans\" font-size=\"29\" font-weight=\"700\" fill=\"#173c31\">Ahinoam uit Jizreël</text>\n<path d=\"M90 432h60\" stroke=\"#467d64\" stroke-width=\"3\"/>\n<rect x=\"150\" y=\"390\" width=\"410\" height=\"84\" rx=\"12\" fill=\"white\" stroke=\"#b9cbbd\"/>\n<text x=\"180\" y=\"443\" font-family=\"DejaVu Sans\" font-size=\"32\" font-weight=\"700\" fill=\"#173c31\">2. Chileab</text>\n<text x=\"590\" y=\"420\" font-family=\"DejaVu Sans\" font-size=\"25\" fill=\"#5e665e\">moeder</text>\n<text x=\"590\" y=\"455\" font-family=\"DejaVu Sans\" font-size=\"29\" font-weight=\"700\" fill=\"#173c31\">Abigaïl</text>\n<path d=\"M90 547h60\" stroke=\"#467d64\" stroke-width=\"3\"/>\n<rect x=\"150\" y=\"505\" width=\"410\" height=\"84\" rx=\"12\" fill=\"white\" stroke=\"#b9cbbd\"/>\n<text x=\"180\" y=\"558\" font-family=\"DejaVu Sans\" font-size=\"32\" font-weight=\"700\" fill=\"#173c31\">3. Absalom</text>\n<text x=\"590\" y=\"535\" font-family=\"DejaVu Sans\" font-size=\"25\" fill=\"#5e665e\">moeder</text>\n<text x=\"590\" y=\"570\" font-family=\"DejaVu Sans\" font-size=\"29\" font-weight=\"700\" fill=\"#173c31\">Maächa</text>\n<path d=\"M90 662h60\" stroke=\"#467d64\" stroke-width=\"3\"/>\n<rect x=\"150\" y=\"620\" width=\"410\" height=\"84\" rx=\"12\" fill=\"white\" stroke=\"#b9cbbd\"/>\n<text x=\"180\" y=\"673\" font-family=\"DejaVu Sans\" font-size=\"32\" font-weight=\"700\" fill=\"#173c31\">4. Adonia</text>\n<text x=\"590\" y=\"650\" font-family=\"DejaVu Sans\" font-size=\"25\" fill=\"#5e665e\">moeder</text>\n<text x=\"590\" y=\"685\" font-family=\"DejaVu Sans\" font-size=\"29\" font-weight=\"700\" fill=\"#173c31\">Haggith</text>\n<path d=\"M90 777h60\" stroke=\"#467d64\" stroke-width=\"3\"/>\n<rect x=\"150\" y=\"735\" width=\"410\" height=\"84\" rx=\"12\" fill=\"white\" stroke=\"#b9cbbd\"/>\n<text x=\"180\" y=\"788\" font-family=\"DejaVu Sans\" font-size=\"32\" font-weight=\"700\" fill=\"#173c31\">5. Sefatja</text>\n<text x=\"590\" y=\"765\" font-family=\"DejaVu Sans\" font-size=\"25\" fill=\"#5e665e\">moeder</text>\n<text x=\"590\" y=\"800\" font-family=\"DejaVu Sans\" font-size=\"29\" font-weight=\"700\" fill=\"#173c31\">Abital</text>\n<path d=\"M90 892h60\" stroke=\"#467d64\" stroke-width=\"3\"/>\n<rect x=\"150\" y=\"850\" width=\"410\" height=\"84\" rx=\"12\" fill=\"white\" stroke=\"#b9cbbd\"/>\n<text x=\"180\" y=\"903\" font-family=\"DejaVu Sans\" font-size=\"32\" font-weight=\"700\" fill=\"#173c31\">6. Jithream</text>\n<text x=\"590\" y=\"880\" font-family=\"DejaVu Sans\" font-size=\"25\" fill=\"#5e665e\">moeder</text>\n<text x=\"590\" y=\"915\" font-family=\"DejaVu Sans\" font-size=\"29\" font-weight=\"700\" fill=\"#173c31\">Egla</text>\n<text x=\"42\" y=\"1005\" font-family=\"DejaVu Sans\" font-size=\"27\" fill=\"#5e665e\">Maächa is de dochter van Thalmai, koning van Gesur.</text>\n<text x=\"42\" y=\"1041\" font-family=\"DejaVu Sans\" font-size=\"27\" fill=\"#5e665e\">Abigaïl was de weduwe van Nabal uit Karmel.</text>\n<text x=\"42\" y=\"1077\" font-family=\"DejaVu Sans\" font-size=\"27\" fill=\"#5e665e\">Dit overzicht betreft de geboorten in Hebron.</text>\n</svg>"
+      }
+    },
+    {
+      "book": "2samuel",
+      "chapter": 3,
+      "verse": 6,
+      "file": "3-abners-omkeer.svg",
+      "scene": "Abners omkeer en zijn dood",
+      "alt": "Overleg, de verplaatsing van Michal en de onbevoegde terugroeping van Abner.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1290,
+      "source": "2 Samuël 3:6–39",
+      "design": {
+        "rows": [
+          [
+            "De breuk",
+            "Conflict met Isboseth; Abner wil Davids koningschap steunen."
+          ],
+          [
+            "De voorwaarde",
+            "Michal moet terug; Paltiël volgt haar huilend tot Bahurim."
+          ],
+          [
+            "De afspraak",
+            "Overleg met oudsten; Abner met twintig mannen bij David; in vrede vertrokken."
+          ],
+          [
+            "Joabs eigen actie",
+            "Boden halen Abner bij Sira terug zonder Davids weten; Joab doodt hem om Asahel."
+          ],
+          [
+            "Davids rouw",
+            "Hij loopt achter de baar, weent en vast tot zonsondergang; het volk ziet zijn onschuld."
+          ]
+        ],
+        "note": "Een politieke afspraak wordt onderscheiden van Joabs persoonlijke wraak."
+      }
+    },
+    {
+      "book": "2samuel",
+      "chapter": 4,
+      "verse": 2,
+      "file": "4-families-en-misdaad.svg",
+      "scene": "Families en de misdaad",
+      "alt": "De broers, de afzonderlijke terugblik en Davids afwijzing van de moord.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1412,
+      "source": "2 Samuël 4:2–12",
+      "design": {
+        "rows": [
+          [
+            "De twee broers",
+            "Baëna en Rechab, zonen van Rimmon, uit Beëroth en Benjamin."
+          ],
+          [
+            "Het aparte familiebericht",
+            "Mefiboseth is Jonathans zoon; vijf jaar bij de vlucht na Sauls dood; verlamd aan beide voeten."
+          ],
+          [
+            "De moord",
+            "De broers komen bij Isboseths middagrust onder het voorwendsel tarwe te halen."
+          ],
+          [
+            "Bij David",
+            "Zij presenteren hun daad als wraak voor de koning; David veroordeelt die."
+          ],
+          [
+            "De afloop",
+            "De daders worden gedood; Isboseths hoofd wordt in Abners graf te Hebron begraven."
+          ]
+        ],
+        "note": "Het bericht over de vijfjarige Mefiboseth is een terugblik, niet de leeftijd tijdens alle latere gebeurtenissen."
+      }
+    },
+    {
+      "book": "2samuel",
+      "chapter": 5,
+      "verse": 1,
+      "file": "5-hebron-en-jeruzalem.svg",
+      "scene": "Van Hebron naar Jeruzalem",
+      "alt": "Leiderschap, regeringsduren, burcht en paleisbouw.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1247,
+      "source": "2 Samuël 5:1–12",
+      "design": {
+        "rows": [
+          [
+            "Alle stammen",
+            "Erkennen David; verbond en zalving in Hebron."
+          ],
+          [
+            "De regeringsduur",
+            "Dertig jaar bij aanvang; veertig jaar totaal genoemd."
+          ],
+          [
+            "De twee steden",
+            "Zeven jaar en zes maanden in Hebron; 33 jaar in Jeruzalem."
+          ],
+          [
+            "Sion",
+            "De Jebusitische burcht wordt de stad van David; David bouwt rondom."
+          ],
+          [
+            "Hiram van Tyrus",
+            "Cederhout, timmerlieden en steenhouwers voor het paleis."
+          ]
+        ],
+        "note": "De totale en plaatselijke regeringsduren zijn overgenomen zoals de tekst ze noemt."
+      }
+    },
+    {
+      "book": "2samuel",
+      "chapter": 5,
+      "verse": 14,
+      "file": "5-zonen-in-jeruzalem.svg",
+      "scene": "Genoemde zonen in Jeruzalem",
+      "alt": "De elf namen gegroepeerd volgens de drie bronverzen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 770,
+      "source": "2 Samuël 5:14–16",
+      "design": {
+        "rows": [
+          [
+            "Vers 14",
+            "Sammua, Sobab, Nathan en Salomo."
+          ],
+          [
+            "Vers 15",
+            "Jibchar, Elisua, Nefeg en Jafia."
+          ],
+          [
+            "Vers 16",
+            "Elisama, Eljada en Elifeleth."
+          ]
+        ],
+        "note": "Hier staan elf namen. Dit hoofdstuk geeft bij deze lijst geen moeders aan; die worden dus niet ingevuld."
+      }
+    },
+    {
+      "book": "2samuel",
+      "chapter": 5,
+      "verse": 17,
+      "file": "5-twee-aanvallen.svg",
+      "scene": "Twee aanvallen in Refaïm",
+      "alt": "De verschillende opdrachten bij twee aanvallen in hetzelfde dal.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1204,
+      "source": "2 Samuël 5:17–25",
+      "design": {
+        "rows": [
+          [
+            "De aanleiding",
+            "Filistijnen zoeken de pas gezalfde David en verspreiden zich in Refaïm."
+          ],
+          [
+            "Eerste raad",
+            "Optrekken; overwinning bij Baäl-perazim; achtergelaten afgoden."
+          ],
+          [
+            "Tweede aanval",
+            "Opnieuw verspreiding in hetzelfde dal."
+          ],
+          [
+            "Tweede raad",
+            "Omgaan naar de moerbeziënbomen; wachten op het geluid in de toppen."
+          ],
+          [
+            "De uitvoering",
+            "David gehoorzaamt; overwinning van Geba tot Gezer."
+          ]
+        ],
+        "note": "Water dat doorbreekt is Davids vergelijking voor de eerste overwinning."
+      }
+    },
+    {
+      "book": "2samuel",
+      "chapter": 6,
+      "verse": 3,
+      "file": "6-wagen-dragers-en-tent.svg",
+      "scene": "Wagen, dragers en tent",
+      "alt": "Het verloop en het belangrijke verschil tussen beide tochten.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1326,
+      "source": "2 Samuël 6:3–19",
+      "design": {
+        "rows": [
+          [
+            "De nieuwe wagen",
+            "Uza en Ahio, zonen van Abinadab; Ahio loopt voorop."
+          ],
+          [
+            "Bij Nachon",
+            "Runderen struikelen, Uza grijpt de ark vast en sterft."
+          ],
+          [
+            "De onderbreking",
+            "David bang; drie maanden in het huis van Obed-edom en zegen voor diens gezin."
+          ],
+          [
+            "De nieuwe tocht",
+            "Dragers, zes stappen, offers, dans en bazuinen."
+          ],
+          [
+            "In de stad",
+            "Ark in de voorbereide tent; offers, zegen en voedsel voor iedereen."
+          ]
+        ],
+        "note": "De wagen in de eerste tocht en de dragers in de volgende tocht zijn verschillende vervoerswijzen."
+      }
+    },
+    {
+      "book": "2samuel",
+      "chapter": 6,
+      "verse": 16,
+      "file": "6-michal-en-david.svg",
+      "scene": "Michal en David",
+      "alt": "Tijdstippen en verschillende uitspraken in het conflict.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1283,
+      "source": "2 Samuël 6:16–23",
+      "design": {
+        "rows": [
+          [
+            "Uit het raam",
+            "Michal ziet het dansen en minacht David."
+          ],
+          [
+            "Na de uitdeling",
+            "David keert terug om zijn gezin te zegenen."
+          ],
+          [
+            "Michals verwijt",
+            "Zij spreekt over ontbloting en schaamteloosheid."
+          ],
+          [
+            "Davids antwoord",
+            "Hij heeft voor de HEERE gedanst; hij wil gering zijn in eigen ogen."
+          ],
+          [
+            "Het slotbericht",
+            "Michal krijgt geen kinderen tot haar dood."
+          ]
+        ],
+        "note": "Davids kleding wordt in vers 14 een linnen priesterkleed genoemd; de rasterbeelden blijven respectvol gekleed."
+      }
+    },
+    {
+      "book": "2samuel",
+      "chapter": 7,
+      "verse": 1,
+      "file": "7-huis-twee-betekenissen.svg",
+      "scene": "Een huis: twee betekenissen",
+      "alt": "Het onderscheid tussen gebouw, familie en koningschap.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1326,
+      "source": "2 Samuël 7:1–17",
+      "design": {
+        "rows": [
+          [
+            "Davids voornemen",
+            "Zijn paleis is van cederhout; de ark staat onder tentdoeken."
+          ],
+          [
+            "Nathans eerste antwoord",
+            "Doe wat u van plan bent."
+          ],
+          [
+            "Het woord in de nacht",
+            "God heeft rondgetrokken in tent en tabernakel en vraagt niet om Davids bouwplan."
+          ],
+          [
+            "Een huis voor David",
+            "De belofte betreft zijn nakomelingen en koningschap."
+          ],
+          [
+            "De komende zoon",
+            "Zal een huis voor Gods naam bouwen; een blijvende troon, vader-zoonrelatie en goedheid."
+          ]
+        ],
+        "note": "Huis betekent hier zowel een gebouw als een dynastie; de tekst noemt de komende zoon in dit hoofdstuk niet bij naam."
+      }
+    },
+    {
+      "book": "2samuel",
+      "chapter": 7,
+      "verse": 18,
+      "file": "7-gebed-als-antwoord.svg",
+      "scene": "Het gebed als antwoord",
+      "alt": "De vijf bewegingen in Davids antwoord op de belofte.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1247,
+      "source": "2 Samuël 7:18–29",
+      "design": {
+        "rows": [
+          [
+            "Wie ben ik?",
+            "David begint met verwondering over zichzelf en zijn familie."
+          ],
+          [
+            "Wie is God?",
+            "Niemand als de HEERE; Zijn woorden en grote daden."
+          ],
+          [
+            "Wie is het volk?",
+            "Uit Egypte verlost en tot Zijn volk gemaakt."
+          ],
+          [
+            "Het verzoek",
+            "Laat het gesproken woord vaststaan en maak Uw naam groot."
+          ],
+          [
+            "De afsluiting",
+            "Zegen het huis van Uw dienaar; Uw woorden zijn waarheid."
+          ]
+        ],
+        "note": "Deze opbouw is een leeswijzer bij Davids gebed, geen extra historische gebeurtenis."
+      }
+    },
+    {
+      "book": "2samuel",
+      "chapter": 8,
+      "verse": 1,
+      "file": "8-strijd-en-geschenken.svg",
+      "scene": "Veldtochten en geschenken",
+      "alt": "De partijen, plaatsen en herkomst van voorwerpen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1326,
+      "source": "2 Samuël 8:1–14",
+      "design": {
+        "rows": [
+          [
+            "Filistijnen en Moab",
+            "Meteg-amma ingenomen; Moab onderworpen na gewelddadig oordeel."
+          ],
+          [
+            "Zoba en Damaskus",
+            "Hadad-ezer, zoon van Rechob; wagens, ruiters en voetvolk; Syrische hulp verslagen."
+          ],
+          [
+            "De goederen",
+            "Gouden schilden; koper uit Betach en Berothai."
+          ],
+          [
+            "Hamath",
+            "Thoi stuurt zijn zoon Joram met zilveren, gouden en koperen voorwerpen."
+          ],
+          [
+            "Toewijding en bezetting",
+            "Goederen aan de HEERE gewijd; ook bezettingen in Edom genoemd."
+          ]
+        ],
+        "note": "De onderwerping en het geweld worden benoemd, zonder de overwonnenen als decor voor een feestbeeld te gebruiken."
+      }
+    },
+    {
+      "book": "2samuel",
+      "chapter": 8,
+      "verse": 15,
+      "file": "8-bestuurders.svg",
+      "scene": "Het bestuur onder David",
+      "alt": "Functies, namen en vaderrelaties uit de bestuurslijst.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1197,
+      "source": "2 Samuël 8:15–18",
+      "design": {
+        "rows": [
+          [
+            "De koning",
+            "David doet recht en gerechtigheid."
+          ],
+          [
+            "Leger en kanselier",
+            "Joab, zoon van Zeruja; Josafat, zoon van Achilud."
+          ],
+          [
+            "Priesters",
+            "Zadok, zoon van Ahitub; Achimelech, zoon van Abjathar."
+          ],
+          [
+            "Schrijver",
+            "Seraja."
+          ],
+          [
+            "Krethi en Plethi",
+            "Benaja, zoon van Jojada; Davids zonen worden prinsen genoemd."
+          ]
+        ],
+        "note": "De naam en vaderrelatie van Achimelech volgen precies deze lijst; niet verwisselen met eerdere naamgenoten."
+      }
+    },
+    {
+      "book": "2samuel",
+      "chapter": 9,
+      "verse": 1,
+      "file": "9-jonathan-mefiboseth.svg",
+      "scene": "Trouw aan Jonathans huis",
+      "alt": "Vier generaties, landbeheer en het blijvende plaatsaanbod aan tafel.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1204,
+      "source": "2 Samuël 9:1–13",
+      "design": {
+        "rows": [
+          [
+            "De familielijn",
+            "Saul → Jonathan → Mefiboseth → Micha."
+          ],
+          [
+            "De vindplaats",
+            "Huis van Machir, zoon van Ammiël, in Lodebar."
+          ],
+          [
+            "Davids toezegging",
+            "Sauls akkers terug; altijd eten aan de koningstafel."
+          ],
+          [
+            "Ziba’s opdracht",
+            "Met vijftien zonen en twintig slaven land bewerken en oogst binnenhalen."
+          ],
+          [
+            "De nieuwe woonplaats",
+            "Mefiboseth woont in Jeruzalem en eet als een koningszoon aan tafel."
+          ]
+        ],
+        "note": "Pijlen betekenen vader van. De zoon Micha is een andere persoon dan de profeet met die naam."
+      }
+    },
+    {
+      "book": "2samuel",
+      "chapter": 10,
+      "verse": 1,
+      "file": "10-gezanten-en-fronten.svg",
+      "scene": "Gezanten en twee fronten",
+      "alt": "Aanleiding, ingehuurde aantallen en de gedeelde verdediging.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1290,
+      "source": "2 Samuël 10:1–14",
+      "design": {
+        "rows": [
+          [
+            "Het begin",
+            "Nahas sterft; Hanun volgt hem op; David stuurt troosters."
+          ],
+          [
+            "De belediging",
+            "Hanun vertrouwt de vorsten; baarden en kleren van gezanten worden geschonden."
+          ],
+          [
+            "De bescherming",
+            "David laat hen in Jericho blijven tot de baarden zijn aangegroeid."
+          ],
+          [
+            "De troepen",
+            "20.000 uit Beth-rechob en Zoba; 1.000 van Maächa; 12.000 van Tob."
+          ],
+          [
+            "Twee kanten",
+            "Joab tegenover Syriërs; Abisai tegenover Ammonieten bij de stad; wederzijdse hulp afgesproken."
+          ]
+        ],
+        "note": "De vernedering wordt beschreven; de afbeeldingen tonen de mannen respectvol bedekt."
+      }
+    },
+    {
+      "book": "2samuel",
+      "chapter": 10,
+      "verse": 15,
+      "file": "10-helam-en-vrede.svg",
+      "scene": "Helam en de vrede",
+      "alt": "De tweede strijd en de politieke afloop.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1240,
+      "source": "2 Samuël 10:15–19",
+      "design": {
+        "rows": [
+          [
+            "Opnieuw verzamelen",
+            "Hadad-ezer roept Syriërs van over de rivier op; Sobach leidt hen."
+          ],
+          [
+            "David trekt op",
+            "Hij steekt de Jordaan over naar Helam."
+          ],
+          [
+            "De afloop",
+            "De tekst noemt 700 wagens en 40.000 ruiters; Sobach sterft."
+          ],
+          [
+            "De vrede",
+            "Ondergeschikte koningen van Hadad-ezer sluiten vrede met Israël."
+          ],
+          [
+            "Het gevolg",
+            "Syriërs durven Ammon niet meer te helpen."
+          ]
+        ],
+        "note": "De aantallen volgen dit hoofdstuk; andere parallelle tellingen worden hier niet stilzwijgend ingevoegd."
+      }
+    }
+  ]
+}
