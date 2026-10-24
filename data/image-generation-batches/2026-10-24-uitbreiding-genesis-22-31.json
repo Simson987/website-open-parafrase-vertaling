@@ -1,0 +1,569 @@
+{
+  "date": "2026-10-24",
+  "started": "2026-10-24T00:52:32Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [
+    {
+      "book": "genesis",
+      "chapter": 25,
+      "file": "25.webp",
+      "verse": 29,
+      "reason": "Linzenmoes hoort bij vers 29–34 in plaats van bij het hoofdstukbegin."
+    }
+  ],
+  "images": [
+    {
+      "book": "genesis",
+      "chapter": 22,
+      "verse": 19,
+      "scene": "Terug naar de dienaren",
+      "alt": "Terug naar de dienaren — Genesis 22:19",
+      "kind": "scene",
+      "file": "22-19-verhaal.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible illustration, landscape 3:2, natural light, authentic ancient Near Eastern materials, accurate hands and anatomy, fully modest clothing, no text watermark, modern objects or human-shaped deity. Elderly Abraham and fully clothed adolescent Isaac return peacefully down a mountain path to exactly two adult servants waiting with one donkey. All four people unharmed, relieved natural expressions, no altar, knives or threat.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "genesis",
+      "chapter": 23,
+      "verse": 16,
+      "scene": "Abraham weegt het zilver af",
+      "alt": "Abraham weegt het zilver af — Genesis 23:16",
+      "kind": "scene",
+      "file": "23-16-verhaal.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible illustration, landscape 3:2, natural light, authentic ancient Near Eastern materials, accurate hands and anatomy, fully modest clothing, no text watermark, modern objects or human-shaped deity. Elderly Abraham weighs pieces of silver on an ancient balance at a town gate in the presence of adult Ephron and Hittite witnesses. Simple stone weights, metal pieces rather than minted coins, correct hands, solemn transaction.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "genesis",
+      "chapter": 24,
+      "verse": 4,
+      "scene": "De dienaar krijgt zijn opdracht",
+      "alt": "De dienaar krijgt zijn opdracht — Genesis 24:4",
+      "kind": "scene",
+      "file": "24-4-verhaal.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible illustration, landscape 3:2, natural light, authentic ancient Near Eastern materials, accurate hands and anatomy, fully modest clothing, no text watermark, modern objects or human-shaped deity. Very elderly Abraham seated in a simple tent gives his trusted elderly adult servant a serious travel commission, two fully clothed men speaking calmly, bundles and a staff beside them, no vow gesture near private areas.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "genesis",
+      "chapter": 24,
+      "verse": 12,
+      "scene": "De dienaar bidt bij de bron",
+      "alt": "De dienaar bidt bij de bron — Genesis 24:12",
+      "kind": "scene",
+      "file": "24-12-verhaal.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible illustration, landscape 3:2, natural light, authentic ancient Near Eastern materials, accurate hands and anatomy, fully modest clothing, no text watermark, modern objects or human-shaped deity. An elderly modestly clothed servant of Abraham prays quietly beside a stone water well outside an ancient town at evening, kneeling resting camels and travel bundles in the background, nobody else foreground.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "genesis",
+      "chapter": 24,
+      "verse": 22,
+      "scene": "Geschenken voor Rebekka",
+      "alt": "Geschenken voor Rebekka — Genesis 24:22",
+      "kind": "scene",
+      "file": "24-22-verhaal.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible illustration, landscape 3:2, natural light, authentic ancient Near Eastern materials, accurate hands and anatomy, fully modest clothing, no text watermark, modern objects or human-shaped deity. An elderly adult servant offers exactly two gold bracelets and one small golden forehead ornament in his open hands to adult modestly robed Rebekah beside the well, calm respectful meeting, no touching or romantic framing.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "genesis",
+      "chapter": 24,
+      "verse": 33,
+      "scene": "De dienaar vertelt zijn opdracht",
+      "alt": "De dienaar vertelt zijn opdracht — Genesis 24:33",
+      "kind": "scene",
+      "file": "24-33-verhaal.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible illustration, landscape 3:2, natural light, authentic ancient Near Eastern materials, accurate hands and anatomy, fully modest clothing, no text watermark, modern objects or human-shaped deity. In an ancient household courtyard a modestly robed elderly servant holds one hand open while explaining his mission to adult Laban and Bethuel seated at a low table; untouched meal before him, respectful attentive listeners.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "genesis",
+      "chapter": 24,
+      "verse": 58,
+      "scene": "Rebekka kiest om mee te gaan",
+      "alt": "Rebekka kiest om mee te gaan — Genesis 24:58",
+      "kind": "scene",
+      "file": "24-58-verhaal.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible illustration, landscape 3:2, natural light, authentic ancient Near Eastern materials, accurate hands and anatomy, fully modest clothing, no text watermark, modern objects or human-shaped deity. Adult Rebekah in full modest ancient robe confidently answers her adult brother and mother in a household courtyard, the elderly traveling servant waits at a respectful distance, her expression conveys a free clear decision.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "genesis",
+      "chapter": 24,
+      "verse": 61,
+      "scene": "Rebekka vertrekt met haar dienaressen",
+      "alt": "Rebekka vertrekt met haar dienaressen — Genesis 24:61",
+      "kind": "scene",
+      "file": "24-61-verhaal.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible illustration, landscape 3:2, natural light, authentic ancient Near Eastern materials, accurate hands and anatomy, fully modest clothing, no text watermark, modern objects or human-shaped deity. Adult Rebekah and modestly clothed adult female attendants ride camels away from an ancient northern Mesopotamian settlement following Abraham’s elderly servant, a respectful travel scene with realistic animal anatomy.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "genesis",
+      "chapter": 24,
+      "verse": 63,
+      "scene": "Izak bidt in het veld",
+      "alt": "Izak bidt in het veld — Genesis 24:63",
+      "kind": "scene",
+      "file": "24-63-verhaal.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible illustration, landscape 3:2, natural light, authentic ancient Near Eastern materials, accurate hands and anatomy, fully modest clothing, no text watermark, modern objects or human-shaped deity. Adult bearded Isaac quietly prays alone in an open field in the south of Canaan at dusk, modest robe, very distant camel caravan just appearing on the horizon, natural quiet landscape.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "genesis",
+      "chapter": 25,
+      "verse": 9,
+      "scene": "Izak en Ismaël begraven Abraham",
+      "alt": "Izak en Ismaël begraven Abraham — Genesis 25:9",
+      "kind": "scene",
+      "file": "25-9-verhaal.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible illustration, landscape 3:2, natural light, authentic ancient Near Eastern materials, accurate hands and anatomy, fully modest clothing, no text watermark, modern objects or human-shaped deity. Two adult bearded brothers Isaac and Ishmael stand in solemn mourning beside a completely covered burial bier at the rocky entrance of Machpelah cave, fully modest robes, no visible corpse, no violence.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "genesis",
+      "chapter": 25,
+      "verse": 27,
+      "scene": "Ezau als ervaren jager",
+      "alt": "Ezau als ervaren jager — Genesis 25:27",
+      "kind": "scene",
+      "file": "25-27-verhaal.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible illustration, landscape 3:2, natural light, authentic ancient Near Eastern materials, accurate hands and anatomy, fully modest clothing, no text watermark, modern objects or human-shaped deity. Adult reddish-haired Esau in complete ancient travel clothing holds an unstrung bow while observing a distant deer in rugged open country, no arrow aimed or fired, no injured animal or modern gear.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "genesis",
+      "chapter": 26,
+      "verse": 15,
+      "scene": "De putten zijn dichtgestopt",
+      "alt": "De putten zijn dichtgestopt — Genesis 26:15",
+      "kind": "scene",
+      "file": "26-15-verhaal.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible illustration, landscape 3:2, natural light, authentic ancient Near Eastern materials, accurate hands and anatomy, fully modest clothing, no text watermark, modern objects or human-shaped deity. Adult Isaac and ancient workers examine an old stone water well filled with earth and rubble, disappointed practical expressions, fully clothed, simple baskets and wooden tools, dry Canaan landscape.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "genesis",
+      "chapter": 26,
+      "verse": 20,
+      "scene": "Ruzie bij de put Esek",
+      "alt": "Ruzie bij de put Esek — Genesis 26:20",
+      "kind": "scene",
+      "file": "26-20-verhaal.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible illustration, landscape 3:2, natural light, authentic ancient Near Eastern materials, accurate hands and anatomy, fully modest clothing, no text watermark, modern objects or human-shaped deity. Two groups of adult robed herdsmen dispute access to a freshly dug stone well with open hand gestures, sheep and goats nearby, no violence, no weapon in use, authentic ancient Canaan materials.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "genesis",
+      "chapter": 27,
+      "verse": 14,
+      "scene": "Rebekka bereidt de maaltijd",
+      "alt": "Rebekka bereidt de maaltijd — Genesis 27:14",
+      "kind": "scene",
+      "file": "27-14-verhaal.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible illustration, landscape 3:2, natural light, authentic ancient Near Eastern materials, accurate hands and anatomy, fully modest clothing, no text watermark, modern objects or human-shaped deity. Mature fully robed Rebekah cooks a savory stew in a clay pot at a simple ancient hearth while adult Jacob waits with bread, no slaughter, gore or modern kitchen items, correct hands.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "genesis",
+      "chapter": 27,
+      "verse": 43,
+      "scene": "Rebekka waarschuwt Jakob",
+      "alt": "Rebekka waarschuwt Jakob — Genesis 27:43",
+      "kind": "scene",
+      "file": "27-43-verhaal.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible illustration, landscape 3:2, natural light, authentic ancient Near Eastern materials, accurate hands and anatomy, fully modest clothing, no text watermark, modern objects or human-shaped deity. Mature Rebekah urgently counsels adult Jacob inside a modest ancient tent, a packed travel bundle and staff beside him, concerned faces and open natural hands, no violence or romantic contact.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "genesis",
+      "chapter": 28,
+      "verse": 3,
+      "scene": "Izak zegent Jakob voor de reis",
+      "alt": "Izak zegent Jakob voor de reis — Genesis 28:3",
+      "kind": "scene",
+      "file": "28-3-verhaal.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible illustration, landscape 3:2, natural light, authentic ancient Near Eastern materials, accurate hands and anatomy, fully modest clothing, no text watermark, modern objects or human-shaped deity. Elderly blind Isaac seated in a tent blesses adult Jacob standing ready for a long journey with a staff and bag, both fully clothed, two natural hands each, no food deception scene.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "genesis",
+      "chapter": 28,
+      "verse": 16,
+      "scene": "Jakob wordt wakker bij Beth-el",
+      "alt": "Jakob wordt wakker bij Beth-el — Genesis 28:16",
+      "kind": "scene",
+      "file": "28-16-verhaal.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible illustration, landscape 3:2, natural light, authentic ancient Near Eastern materials, accurate hands and anatomy, fully modest clothing, no text watermark, modern objects or human-shaped deity. Adult fully clothed Jacob has just awakened at dawn on bare stony ground beside the stone he used beneath his head, looking around in quiet awe, no ladder, angels or human-shaped deity in this waking scene.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "genesis",
+      "chapter": 29,
+      "verse": 13,
+      "scene": "Laban verwelkomt Jakob",
+      "alt": "Laban verwelkomt Jakob — Genesis 29:13",
+      "kind": "scene",
+      "file": "29-13-verhaal.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible illustration, landscape 3:2, natural light, authentic ancient Near Eastern materials, accurate hands and anatomy, fully modest clothing, no text watermark, modern objects or human-shaped deity. Two adult men, older Laban and his adult nephew Jacob, warmly embrace outside an ancient house as adult modestly robed Rachel stands nearby, natural family welcome, no romantic framing.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "genesis",
+      "chapter": 29,
+      "verse": 25,
+      "scene": "Jakob spreekt Laban aan over het bedrog",
+      "alt": "Jakob spreekt Laban aan over het bedrog — Genesis 29:25",
+      "kind": "scene",
+      "file": "29-25-verhaal.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible illustration, landscape 3:2, natural light, authentic ancient Near Eastern materials, accurate hands and anatomy, fully modest clothing, no text watermark, modern objects or human-shaped deity. Adult Jacob seriously questions older Laban in a sunlit courtyard after the wedding, adult modestly robed Leah and Rachel stand apart in the background, no bedroom, intimacy, anger violence or text.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "genesis",
+      "chapter": 30,
+      "verse": 32,
+      "scene": "Gespikkelde dieren worden apart gezet",
+      "alt": "Gespikkelde dieren worden apart gezet — Genesis 30:32",
+      "kind": "scene",
+      "file": "30-32-verhaal.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible illustration, landscape 3:2, natural light, authentic ancient Near Eastern materials, accurate hands and anatomy, fully modest clothing, no text watermark, modern objects or human-shaped deity. Adult Jacob carefully separates spotted goats and dark lambs from a mixed flock into a nearby simple stone enclosure, natural animal anatomy, ancient pastoral setting, no mating or modern fencing.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "genesis",
+      "chapter": 31,
+      "verse": 19,
+      "scene": "Rachel neemt de huisgoden mee",
+      "alt": "Rachel neemt de huisgoden mee — Genesis 31:19",
+      "kind": "scene",
+      "file": "31-19-verhaal.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible illustration, landscape 3:2, natural light, authentic ancient Near Eastern materials, accurate hands and anatomy, fully modest clothing, no text watermark, modern objects or human-shaped deity. Adult Rachel in a full modest travel robe secretly wraps two small ancient household idol figurines in a plain cloth while preparing travel bundles inside her father’s empty tent, no readable writing.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "genesis",
+      "chapter": 31,
+      "verse": 23,
+      "scene": "Laban achtervolgt Jakob",
+      "alt": "Laban achtervolgt Jakob — Genesis 31:23",
+      "kind": "scene",
+      "file": "31-23-verhaal.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible illustration, landscape 3:2, natural light, authentic ancient Near Eastern materials, accurate hands and anatomy, fully modest clothing, no text watermark, modern objects or human-shaped deity. Older adult Laban and several fully clothed male relatives travel rapidly across a rugged mountain pass toward a distant family camp in Gilead, walking with pack donkeys, no weapons in use or battle.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "genesis",
+      "chapter": 31,
+      "verse": 34,
+      "scene": "Laban doorzoekt de tent",
+      "alt": "Laban doorzoekt de tent — Genesis 31:34",
+      "kind": "scene",
+      "file": "31-34-verhaal.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible illustration, landscape 3:2, natural light, authentic ancient Near Eastern materials, accurate hands and anatomy, fully modest clothing, no text watermark, modern objects or human-shaped deity. Older adult Laban searches bundles inside an ancient tent while adult Rachel in a complete loose modest robe remains seated on a camel saddle cushion. Ordinary search scene, no medical, bodily or intimate detail.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "genesis",
+      "chapter": 31,
+      "verse": 55,
+      "scene": "Laban neemt afscheid",
+      "alt": "Laban neemt afscheid — Genesis 31:55",
+      "kind": "scene",
+      "file": "31-55-verhaal.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible illustration, landscape 3:2, natural light, authentic ancient Near Eastern materials, accurate hands and anatomy, fully modest clothing, no text watermark, modern objects or human-shaped deity. Older adult Laban affectionately says farewell to his two adult daughters Leah and Rachel and their fully clothed children beside a mountain camp, gentle family embrace, natural hands and anatomy.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "genesis",
+      "chapter": 22,
+      "verse": 23,
+      "file": "22-familie-nahor.svg",
+      "scene": "De familie van Nahor",
+      "alt": "Nahor en Milka hebben acht zonen: Uz, Buz, Kemuël, Chesed, Hazo, Pildas, Jidlaf en Bethuël. Kemuël is de vader van Aram, Bethuël van Rebekka. Reüma krijgt Tebah, Gaham, Tahas en Maächa.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1091,
+      "source": "Genesis 22:20–24",
+      "design": {
+        "rows": [
+          [
+            "Nahor + Milka",
+            "Hun acht zonen: Uz, Buz, Kemuël, Chesed, Hazo, Pildas, Jidlaf en Bethuël."
+          ],
+          [
+            "Kemuël → Aram",
+            "Kemuël wordt als vader van Aram genoemd."
+          ],
+          [
+            "Bethuël → Rebekka",
+            "Zo introduceert dit hoofdstuk Rebekka."
+          ],
+          [
+            "Nahor + Reüma",
+            "Hun zonen: Tebah, Gaham, Tahas en Maächa."
+          ]
+        ],
+        "note": "Milka en Reüma hebben verschillende familietakken; de naam Aram staat hier bij Kemuël."
+      }
+    },
+    {
+      "book": "genesis",
+      "chapter": 25,
+      "verse": 2,
+      "file": "25-familie-ketura.svg",
+      "scene": "De nakomelingen van Ketura",
+      "alt": "Abraham en Ketura hebben zes zonen. Joksan krijgt Seba en Dedan. Dedans nakomelingen zijn Assurieten, Letusieten en Leummieten. Midian krijgt Efa, Efer, Henoch, Abida en Eldaa.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 926,
+      "source": "Genesis 25:1–4",
+      "design": {
+        "rows": [
+          [
+            "Abraham + Ketura",
+            "Zimran, Joksan, Medan, Midian, Jisbak en Suah."
+          ],
+          [
+            "Joksan → zijn zonen",
+            "Seba en Dedan."
+          ],
+          [
+            "Dedan → zijn nakomelingen",
+            "Assurieten, Letusieten en Leummieten."
+          ],
+          [
+            "Midian → zijn zonen",
+            "Efa, Efer, Henoch, Abida en Eldaa."
+          ]
+        ],
+        "note": "Deze familietak staat naast de lijnen van Izak en Ismaël."
+      }
+    },
+    {
+      "book": "genesis",
+      "chapter": 25,
+      "verse": 16,
+      "file": "25-zonen-ismael.svg",
+      "scene": "De twaalf zonen van Ismaël",
+      "alt": "Ismaëls twaalf zonen in volgorde: Nabajoth, Kedar, Adbeel, Mibsam, Misma, Duma, Massa, Hadar, Thema, Jetur, Nafis en Kedma.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 969,
+      "source": "Genesis 25:12–16",
+      "design": {
+        "rows": [
+          [
+            "1–4",
+            "Nabajoth, Kedar, Adbeel en Mibsam."
+          ],
+          [
+            "5–8",
+            "Misma, Duma, Massa en Hadar."
+          ],
+          [
+            "9–12",
+            "Thema, Jetur, Nafis en Kedma."
+          ],
+          [
+            "Twaalf stammen",
+            "Elke zoon wordt leider van een stam; dorpen en tentenkampen dragen hun namen."
+          ]
+        ],
+        "note": "De volgorde en schrijfwijze volgen de plaatselijke hoofdstuktekst."
+      }
+    },
+    {
+      "book": "genesis",
+      "chapter": 26,
+      "verse": 22,
+      "file": "26-namen-waterputten.svg",
+      "scene": "Van ruzie naar ruimte",
+      "alt": "Esek en Sitna zijn omstreden putten; bij Rehoboth is ruimte zonder ruzie. Daarna volgt Berseba, het verbond en de vondst van water bij de put Seba.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "Genesis 26:18–33",
+      "design": {
+        "rows": [
+          [
+            "Esek · vers 20",
+            "De herders van Gerar maken ruzie om het water."
+          ],
+          [
+            "Sitna · vers 21",
+            "Ook over de tweede put ontstaat ruzie."
+          ],
+          [
+            "Rehoboth · vers 22",
+            "Over deze put is geen ruzie: de HEERE heeft ruimte gemaakt."
+          ],
+          [
+            "Berseba · vers 23–33",
+            "Izak bouwt een altaar en sluit een verbond. Zijn dienaren vinden water; de put heet Seba."
+          ]
+        ],
+        "note": "Een volgorde van gebeurtenissen en namen, geen kaart met berekende locaties."
+      }
+    },
+    {
+      "book": "genesis",
+      "chapter": 28,
+      "verse": 15,
+      "file": "28-beloften-bethel.svg",
+      "scene": "De beloften bij Beth-el",
+      "alt": "Bij Beth-el ontvangt Jakob beloften van land, veel nakomelingen, zegen, bescherming en terugkeer.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1098,
+      "source": "Genesis 28:13–15",
+      "design": {
+        "rows": [
+          [
+            "Het land · vers 13",
+            "Het land waarop Jakob ligt wordt aan hem en zijn nakomelingen gegeven."
+          ],
+          [
+            "Nakomelingen · vers 14",
+            "Talrijk als het stof; verspreiding naar alle windrichtingen; zegen voor alle families."
+          ],
+          [
+            "Nabijheid · vers 15",
+            "Ik ben bij je en zal je overal beschermen."
+          ],
+          [
+            "Terugkeer · vers 15",
+            "Ik zal je terugbrengen naar dit land en je niet verlaten."
+          ]
+        ],
+        "note": "Een overzicht van de belofte in de droom; geen afbeelding van God als mens."
+      }
+    },
+    {
+      "book": "genesis",
+      "chapter": 29,
+      "verse": 35,
+      "file": "29-zonen-lea.svg",
+      "scene": "De eerste vier zonen van Lea",
+      "alt": "Lea krijgt achtereenvolgens Ruben, Simeon, Levi en Juda. Bij elke naam beschrijft de tekst haar woorden en verlangen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1012,
+      "source": "Genesis 29:32–35",
+      "design": {
+        "rows": [
+          [
+            "Ruben · vers 32",
+            "Lea zegt dat de HEERE haar ellende heeft gezien."
+          ],
+          [
+            "Simeon · vers 33",
+            "Zij zegt dat de HEERE heeft gehoord dat zij niet geliefd is."
+          ],
+          [
+            "Levi · vers 34",
+            "Zij hoopt dat haar man zich aan haar hecht."
+          ],
+          [
+            "Juda · vers 35",
+            "Deze keer zal ik de HEERE loven."
+          ]
+        ],
+        "note": "Dit zijn Lea’s eerste vier zonen. Meer kinderen worden in Genesis 30 genoemd."
+      }
+    },
+    {
+      "book": "genesis",
+      "chapter": 30,
+      "verse": 24,
+      "file": "30-kinderen-jakob.svg",
+      "scene": "Jakobs gezin tot Genesis 30",
+      "alt": "Tot en met Genesis 30: Lea heeft Ruben, Simeon, Levi, Juda, Issaschar, Zebulon en Dina; Bilha Dan en Nafthali; Zilpa Gad en Aser; Rachel Jozef. Benjamin wordt later geboren.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1005,
+      "source": "Genesis 29:32–35; 30:1–24",
+      "design": {
+        "rows": [
+          [
+            "Lea → haar kinderen",
+            "Ruben, Simeon, Levi, Juda, Issaschar, Zebulon en Dina."
+          ],
+          [
+            "Bilha → haar zonen",
+            "Dan en Nafthali."
+          ],
+          [
+            "Zilpa → haar zonen",
+            "Gad en Aser."
+          ],
+          [
+            "Rachel → haar zoon",
+            "Jozef. Benjamin is op dit punt nog niet geboren."
+          ]
+        ],
+        "note": "Overzicht van de in deze hoofdstukken geboren kinderen; de volgorde van de moeders is geen huwelijksrangorde."
+      }
+    },
+    {
+      "book": "genesis",
+      "chapter": 31,
+      "verse": 41,
+      "file": "31-twintig-dienstjaren.svg",
+      "scene": "Jakobs twintig dienstjaren",
+      "alt": "Jakob beschrijft twintig jaar bij Laban: veertien jaar voor de twee dochters en zes voor de kudde. Hij noemt tien loonwijzigingen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 926,
+      "source": "Genesis 31:38–42",
+      "design": {
+        "rows": [
+          [
+            "14 jaar",
+            "Jakob werkt voor Labans twee dochters."
+          ],
+          [
+            "6 jaar",
+            "Jakob werkt voor de kudde."
+          ],
+          [
+            "Samen 20 jaar",
+            "Veertien plus zes jaar in Labans huis."
+          ],
+          [
+            "10 wijzigingen van het loon",
+            "Jakob verwijt Laban dat hij zijn loon zo vaak heeft veranderd."
+          ]
+        ],
+        "note": "Dit zijn de aantallen uit Jakobs terugblik, geen reconstructie van absolute jaartallen."
+      }
+    }
+  ]
+}

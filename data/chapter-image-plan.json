@@ -639,6 +639,296 @@
           "source": "Genesis 17:5, 15–21"
         }
       ]
+    },
+    {
+      "book": "genesis",
+      "chapter": 22,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "De terugkeer sluit de reis naar Moria af; Nahors familielijst introduceert Rebekka en verdient een schema.",
+      "additions": [
+        {
+          "verse": 19,
+          "scene": "Terug naar de dienaren",
+          "kind": "scene",
+          "file": "22-19-verhaal.webp"
+        },
+        {
+          "verse": 23,
+          "file": "22-familie-nahor.svg",
+          "scene": "De familie van Nahor",
+          "kind": "diagram",
+          "source": "Genesis 22:20–24"
+        }
+      ]
+    },
+    {
+      "book": "genesis",
+      "chapter": 23,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "Het afwegen van zilver is de ontbrekende juridische overdrachtsfase naast overleg, rouw en begrafenis.",
+      "additions": [
+        {
+          "verse": 16,
+          "scene": "Abraham weegt het zilver af",
+          "kind": "scene",
+          "file": "23-16-verhaal.webp"
+        }
+      ]
+    },
+    {
+      "book": "genesis",
+      "chapter": 24,
+      "status": "reviewed",
+      "target_images": 10,
+      "reason": "Dit lange hoofdstuk bevat opdracht, gebed, geschenken, familiegesprek, eigen instemming, vertrek en Izaks gebed naast de bestaande drie ontmoetingsscènes.",
+      "additions": [
+        {
+          "verse": 4,
+          "scene": "De dienaar krijgt zijn opdracht",
+          "kind": "scene",
+          "file": "24-4-verhaal.webp"
+        },
+        {
+          "verse": 12,
+          "scene": "De dienaar bidt bij de bron",
+          "kind": "scene",
+          "file": "24-12-verhaal.webp"
+        },
+        {
+          "verse": 22,
+          "scene": "Geschenken voor Rebekka",
+          "kind": "scene",
+          "file": "24-22-verhaal.webp"
+        },
+        {
+          "verse": 33,
+          "scene": "De dienaar vertelt zijn opdracht",
+          "kind": "scene",
+          "file": "24-33-verhaal.webp"
+        },
+        {
+          "verse": 58,
+          "scene": "Rebekka kiest om mee te gaan",
+          "kind": "scene",
+          "file": "24-58-verhaal.webp"
+        },
+        {
+          "verse": 61,
+          "scene": "Rebekka vertrekt met haar dienaressen",
+          "kind": "scene",
+          "file": "24-61-verhaal.webp"
+        },
+        {
+          "verse": 63,
+          "scene": "Izak bidt in het veld",
+          "kind": "scene",
+          "file": "24-63-verhaal.webp"
+        }
+      ]
+    },
+    {
+      "book": "genesis",
+      "chapter": 25,
+      "status": "reviewed",
+      "target_images": 7,
+      "reason": "Abrahams begrafenis en Ezau als jager vullen het verhaal aan; de takken van Ketura en Ismaël krijgen schema’s.",
+      "additions": [
+        {
+          "verse": 9,
+          "scene": "Izak en Ismaël begraven Abraham",
+          "kind": "scene",
+          "file": "25-9-verhaal.webp"
+        },
+        {
+          "verse": 27,
+          "scene": "Ezau als ervaren jager",
+          "kind": "scene",
+          "file": "25-27-verhaal.webp"
+        },
+        {
+          "verse": 2,
+          "file": "25-familie-ketura.svg",
+          "scene": "De nakomelingen van Ketura",
+          "kind": "diagram",
+          "source": "Genesis 25:1–4"
+        },
+        {
+          "verse": 16,
+          "file": "25-zonen-ismael.svg",
+          "scene": "De twaalf zonen van Ismaël",
+          "kind": "diagram",
+          "source": "Genesis 25:12–16"
+        }
+      ]
+    },
+    {
+      "book": "genesis",
+      "chapter": 26,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Dichtgestopte putten en de ruzie bij Esek zijn afzonderlijke fasen; de namen van de putten worden geordend.",
+      "additions": [
+        {
+          "verse": 15,
+          "scene": "De putten zijn dichtgestopt",
+          "kind": "scene",
+          "file": "26-15-verhaal.webp"
+        },
+        {
+          "verse": 20,
+          "scene": "Ruzie bij de put Esek",
+          "kind": "scene",
+          "file": "26-20-verhaal.webp"
+        },
+        {
+          "verse": 22,
+          "file": "26-namen-waterputten.svg",
+          "scene": "Van ruzie naar ruimte",
+          "kind": "diagram",
+          "source": "Genesis 26:18–33"
+        }
+      ]
+    },
+    {
+      "book": "genesis",
+      "chapter": 27,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "De maaltijdvoorbereiding en waarschuwing om te vluchten vullen het bedrog en de twee zegeningsscènes aan.",
+      "additions": [
+        {
+          "verse": 14,
+          "scene": "Rebekka bereidt de maaltijd",
+          "kind": "scene",
+          "file": "27-14-verhaal.webp"
+        },
+        {
+          "verse": 43,
+          "scene": "Rebekka waarschuwt Jakob",
+          "kind": "scene",
+          "file": "27-43-verhaal.webp"
+        }
+      ]
+    },
+    {
+      "book": "genesis",
+      "chapter": 28,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "De vertrekzegen en het ontwaken zijn andere gebeurtenissen dan de droom en de olie; de beloften worden geordend.",
+      "additions": [
+        {
+          "verse": 3,
+          "scene": "Izak zegent Jakob voor de reis",
+          "kind": "scene",
+          "file": "28-3-verhaal.webp"
+        },
+        {
+          "verse": 16,
+          "scene": "Jakob wordt wakker bij Beth-el",
+          "kind": "scene",
+          "file": "28-16-verhaal.webp"
+        },
+        {
+          "verse": 15,
+          "file": "28-beloften-bethel.svg",
+          "scene": "De beloften bij Beth-el",
+          "kind": "diagram",
+          "source": "Genesis 28:13–15"
+        }
+      ]
+    },
+    {
+      "book": "genesis",
+      "chapter": 29,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Labans welkom en de confrontatie over het bedrog zijn afzonderlijke gebeurtenissen; Lea’s eerste zonen krijgen een naamoverzicht.",
+      "additions": [
+        {
+          "verse": 13,
+          "scene": "Laban verwelkomt Jakob",
+          "kind": "scene",
+          "file": "29-13-verhaal.webp"
+        },
+        {
+          "verse": 25,
+          "scene": "Jakob spreekt Laban aan over het bedrog",
+          "kind": "scene",
+          "file": "29-25-verhaal.webp"
+        },
+        {
+          "verse": 35,
+          "file": "29-zonen-lea.svg",
+          "scene": "De eerste vier zonen van Lea",
+          "kind": "diagram",
+          "source": "Genesis 29:32–35"
+        }
+      ]
+    },
+    {
+      "book": "genesis",
+      "chapter": 30,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "De scheiding van de dieren is een andere handeling dan de takken; het gezin wordt zonder de nog ongeboren Benjamin weergegeven.",
+      "additions": [
+        {
+          "verse": 32,
+          "scene": "Gespikkelde dieren worden apart gezet",
+          "kind": "scene",
+          "file": "30-32-verhaal.webp"
+        },
+        {
+          "verse": 24,
+          "file": "30-kinderen-jakob.svg",
+          "scene": "Jakobs gezin tot Genesis 30",
+          "kind": "diagram",
+          "source": "Genesis 29:32–35; 30:1–24"
+        }
+      ]
+    },
+    {
+      "book": "genesis",
+      "chapter": 31,
+      "status": "reviewed",
+      "target_images": 8,
+      "reason": "Diefstal, achtervolging, doorzoeking en afscheid vullen vertrek en verbond aan; Jakobs twintig dienstjaren krijgen een schema.",
+      "additions": [
+        {
+          "verse": 19,
+          "scene": "Rachel neemt de huisgoden mee",
+          "kind": "scene",
+          "file": "31-19-verhaal.webp"
+        },
+        {
+          "verse": 23,
+          "scene": "Laban achtervolgt Jakob",
+          "kind": "scene",
+          "file": "31-23-verhaal.webp"
+        },
+        {
+          "verse": 34,
+          "scene": "Laban doorzoekt de tent",
+          "kind": "scene",
+          "file": "31-34-verhaal.webp"
+        },
+        {
+          "verse": 55,
+          "scene": "Laban neemt afscheid",
+          "kind": "scene",
+          "file": "31-55-verhaal.webp"
+        },
+        {
+          "verse": 41,
+          "file": "31-twintig-dienstjaren.svg",
+          "scene": "Jakobs twintig dienstjaren",
+          "kind": "diagram",
+          "source": "Genesis 31:38–42"
+        }
+      ]
     }
   ]
 }
