@@ -3,7 +3,42 @@
   "started": "2026-10-24T02:53:36Z",
   "mode": "built-in rasters and native SVG schemas",
   "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
-  "metadata_corrections": [],
+  "metadata_corrections": [
+    {
+      "book": "richteren",
+      "before": {
+        "chapter": 13,
+        "file": "13.webp",
+        "alt": "De vrouw van Manoach luistert bij haar huis naar de aankondiging van Simsons geboorte",
+        "scene": "De geboorte van Simson aangekondigd"
+      },
+      "after": {
+        "chapter": 13,
+        "file": "13.webp",
+        "alt": "De vrouw van Manoach luistert bij haar huis naar de aankondiging van Simsons geboorte",
+        "scene": "De geboorte van Simson aangekondigd",
+        "verse": 3
+      },
+      "reason": "De bestaande scène aan het inhoudelijk juiste vers gekoppeld in plaats van de standaardpositie bij vers 1."
+    },
+    {
+      "book": "richteren",
+      "before": {
+        "chapter": 15,
+        "file": "15.webp",
+        "alt": "Simson staat uitgeput in het rotslandschap met een ezelskaak in zijn hand",
+        "scene": "Simson en de ezelskaak"
+      },
+      "after": {
+        "chapter": 15,
+        "file": "15.webp",
+        "alt": "Simson staat uitgeput in het rotslandschap met een ezelskaak in zijn hand",
+        "scene": "Simson en de ezelskaak",
+        "verse": 15
+      },
+      "reason": "De bestaande scène aan het inhoudelijk juiste vers gekoppeld in plaats van de standaardpositie bij vers 1."
+    }
+  ],
   "images": [
     {
       "book": "richteren",
