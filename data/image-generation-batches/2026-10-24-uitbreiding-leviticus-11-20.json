@@ -1,0 +1,609 @@
+{
+  "date": "2026-10-24",
+  "started": "2026-10-24T01:54:08Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "leviticus",
+      "chapter": 14,
+      "verse": 36,
+      "scene": "Voorschrift: het huis eerst leeghalen",
+      "alt": "Voorschrift: het huis eerst leeghalen — Leviticus 14:36",
+      "kind": "scene",
+      "file": "14-36-uitbreiding.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible educational illustration, landscape 3:2. Ancient Hebrew context, all people fully and modestly robed, natural hands and exactly two arms each, no modern objects, readable lettering, watermark, injury or human-shaped deity. Illustrate the prescribed future situation in Canaan, not the Sinai camp: adult household members carry ceramic jars, baskets and folded fabrics out of a simple small stone village house before the priest enters to inspect a wall. No monumental buildings.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "leviticus",
+      "chapter": 14,
+      "verse": 40,
+      "scene": "Aangetaste stenen worden verwijderd",
+      "alt": "Aangetaste stenen worden verwijderd — Leviticus 14:40",
+      "kind": "scene",
+      "file": "14-40-uitbreiding.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible educational illustration, landscape 3:2. Ancient Hebrew context, all people fully and modestly robed, natural hands and exactly two arms each, no modern objects, readable lettering, watermark, injury or human-shaped deity. Illustrate the prescribed future situation in Canaan: two fully clothed adult stoneworkers carefully remove a few discolored stones from a low stone house wall under an adult priest's supervision. Distinct safe positions, no bodily illness or injury, no modern machinery.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "leviticus",
+      "chapter": 14,
+      "verse": 42,
+      "scene": "De muur wordt opnieuw bepleisterd",
+      "alt": "De muur wordt opnieuw bepleisterd — Leviticus 14:42",
+      "kind": "scene",
+      "file": "14-42-uitbreiding.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible educational illustration, landscape 3:2. Ancient Hebrew context, all people fully and modestly robed, natural hands and exactly two arms each, no modern objects, readable lettering, watermark, injury or human-shaped deity. Illustrate the prescribed future situation in Canaan: fully clothed adult ancient Hebrew builders fit replacement stones and spread fresh clay plaster on a small stone house wall, simple wooden tools, no modern cement, scaffolding or temple.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "leviticus",
+      "chapter": 16,
+      "verse": 12,
+      "scene": "Wierook achter het voorhangsel",
+      "alt": "Wierook achter het voorhangsel — Leviticus 16:12",
+      "kind": "scene",
+      "file": "16-12-uitbreiding.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible educational illustration, landscape 3:2. Ancient Hebrew context, all people fully and modestly robed, natural hands and exactly two arms each, no modern objects, readable lettering, watermark, injury or human-shaped deity. Sinai cloth tabernacle interior, no stone architecture. Elderly Aaron in a complete plain WHITE linen robe, plain white linen sash and simple white linen head covering, no blue robe, jewels or gold breastplate, holds an ancient metal censer near a heavy woven veil. Thick incense cloud hides the inner chamber background, no visible God, ark or bodies. Sober reverent side view.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "leviticus",
+      "chapter": 19,
+      "verse": 13,
+      "scene": "De dagloner ontvangt zijn loon",
+      "alt": "De dagloner ontvangt zijn loon — Leviticus 19:13",
+      "kind": "scene",
+      "file": "19-13-uitbreiding.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible educational illustration, landscape 3:2. Ancient Hebrew context, all people fully and modestly robed, natural hands and exactly two arms each, no modern objects, readable lettering, watermark, injury or human-shaped deity. Illustrate the law in an ancient Canaan field: a fully robed adult Hebrew landowner weighs small pieces of UNMINTED silver on a small balance and pays a fully clothed adult day laborer before sunset, warm late afternoon light, no stamped coins, banknotes, text, exploitation or weapons.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "leviticus",
+      "chapter": 11,
+      "verse": 3,
+      "file": "11-voedselgroepen.svg",
+      "scene": "Voedselgroepen in de tekst",
+      "alt": "De vier voedselgroepen en de gecombineerde kenmerken uit Leviticus 11.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "Leviticus 11:1–23",
+      "design": {
+        "rows": [
+          [
+            "Landdieren",
+            "Herkauwen én volledig gespleten hoeven: beide kenmerken samen."
+          ],
+          [
+            "Waterdieren",
+            "Vinnen én schubben: beide kenmerken samen."
+          ],
+          [
+            "Vogels",
+            "De tekst noemt de uitgesloten vogelsoorten bij naam."
+          ],
+          [
+            "Gevleugelde insecten",
+            "De genoemde soorten met springpoten vormen een uitzondering."
+          ]
+        ],
+        "note": "Dit schema volgt de categorieën van het hoofdstuk."
+      }
+    },
+    {
+      "book": "leviticus",
+      "chapter": 11,
+      "verse": 24,
+      "file": "11-aanraking-en-voorwerpen.svg",
+      "scene": "Aanraking en voorwerpen",
+      "alt": "Aanraking van kadavers en de verschillende bepalingen voor aardewerk, bronwater en zaaigoed.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "Leviticus 11:24–40",
+      "design": {
+        "rows": [
+          [
+            "Kadavers aanraken",
+            "Onrein tot de avond; bij dragen ook kleding wassen."
+          ],
+          [
+            "Aardewerk",
+            "Een pot waarin een kadaver valt, moet worden gebroken."
+          ],
+          [
+            "Bron en waterput",
+            "Blijven rein; wie het kadaver aanraakt, wordt onrein."
+          ],
+          [
+            "Zaad",
+            "Droog zaaigoed blijft rein; natgemaakt zaad met een kadaver erop wordt onrein."
+          ]
+        ],
+        "note": "Het gaat om de rituele categorieën van dit hoofdstuk."
+      }
+    },
+    {
+      "book": "leviticus",
+      "chapter": 12,
+      "verse": 2,
+      "file": "12-reinigingsperioden.svg",
+      "scene": "De genoemde perioden",
+      "alt": "Tijdlijn met de afzonderlijke perioden na de geboorte en de twee offermogelijkheden.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1012,
+      "source": "Leviticus 12:2–8",
+      "design": {
+        "rows": [
+          [
+            "Na de geboorte van een zoon",
+            "Zeven dagen; op de achtste dag de besnijdenis; daarna nog 33 dagen."
+          ],
+          [
+            "Na de geboorte van een dochter",
+            "Veertien dagen; daarna nog 66 dagen."
+          ],
+          [
+            "Na de periode",
+            "Een eenjarig lam en een tortelduif of jonge duif."
+          ],
+          [
+            "Naar draagkracht",
+            "Wie geen lam kan betalen, brengt twee tortelduiven of twee jonge duiven."
+          ]
+        ],
+        "note": "Rituele reinigingsperioden uit de tekst; 7 + 33 = 40 en 14 + 66 = 80 dagen."
+      }
+    },
+    {
+      "book": "leviticus",
+      "chapter": 13,
+      "verse": 2,
+      "file": "13-onderzoek-en-heronderzoek.svg",
+      "scene": "Onderzoek en heronderzoek",
+      "alt": "De opeenvolgende onderzoeken bij een onduidelijke huidaantasting in Leviticus 13:2–8.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1098,
+      "source": "Leviticus 13:2–8",
+      "design": {
+        "rows": [
+          [
+            "Naar de priester",
+            "Bij een zwelling, uitslag of lichte plek."
+          ],
+          [
+            "Bij een onduidelijk geval",
+            "Zeven dagen afzonderen; de priester onderzoekt opnieuw."
+          ],
+          [
+            "Nog niet uitgebreid",
+            "Nog zeven dagen afzonderen en opnieuw onderzoeken."
+          ],
+          [
+            "Verbleekt en niet uitgebreid",
+            "Rein verklaren en kleding wassen; bij latere uitbreiding terug naar de priester."
+          ]
+        ],
+        "note": "Dit ordent alleen verzen 2–8; het is geen volledige of moderne medische diagnose."
+      }
+    },
+    {
+      "book": "leviticus",
+      "chapter": 13,
+      "verse": 47,
+      "file": "13-onderzoek-kleding.svg",
+      "scene": "Aantasting van kleding",
+      "alt": "Onderzoek, wassen, heronderzoek en de verschillende uitkomsten voor aangetaste kleding.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1118,
+      "source": "Leviticus 13:47–59",
+      "design": {
+        "rows": [
+          [
+            "Eerste onderzoek",
+            "De priester bekijkt de aantasting en sluit het voorwerp zeven dagen op."
+          ],
+          [
+            "Als het zich uitbreidt",
+            "Het aangetaste voorwerp wordt verbrand."
+          ],
+          [
+            "Als het niet uitbreidt",
+            "Wassen en nog zeven dagen opsluiten; opnieuw onderzoeken."
+          ],
+          [
+            "Als de plek verdwijnt",
+            "Nogmaals wassen; het voorwerp is rein."
+          ],
+          [
+            "Als de plek terugkomt",
+            "Het voorwerp wordt verbrand."
+          ]
+        ],
+        "note": "De tekst onderscheidt kledingonderzoek van het onderzoek van mensen."
+      }
+    },
+    {
+      "book": "leviticus",
+      "chapter": 14,
+      "verse": 3,
+      "file": "14-persoon-reinigingsfasen.svg",
+      "scene": "De reiniging in fasen",
+      "alt": "De fasen vanaf het onderzoek buiten het kamp tot de offers op de achtste dag.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1141,
+      "source": "Leviticus 14:3–20",
+      "design": {
+        "rows": [
+          [
+            "Buiten het kamp",
+            "De priester onderzoekt of de aantasting genezen is."
+          ],
+          [
+            "Twee vogels",
+            "Met cederhout, rode wol en hysop; zevenmaal besprenkelen en de levende vogel vrijlaten."
+          ],
+          [
+            "Wassen en wachten",
+            "Wassen, scheren en zeven dagen buiten de eigen tent blijven; op dag zeven opnieuw wassen en scheren."
+          ],
+          [
+            "De achtste dag",
+            "Offers bij de ingang van de ontmoetingstent."
+          ]
+        ],
+        "note": "De vrijgelaten vogel en de wachtdagen zijn afzonderlijke onderdelen."
+      }
+    },
+    {
+      "book": "leviticus",
+      "chapter": 14,
+      "verse": 21,
+      "file": "14-offers-naar-draagkracht.svg",
+      "scene": "Offers naar draagkracht",
+      "alt": "De twee offerregelingen van Leviticus 14 naast elkaar, met aantallen dieren, meel en olie.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 992,
+      "source": "Leviticus 14:10–32",
+      "design": {
+        "rows": [
+          [
+            "Gewone regeling",
+            "Twee mannelijke lammeren en één vrouwelijk lam; ongeveer zes liter meel en 0,3 liter olie."
+          ],
+          [
+            "Bij onvoldoende middelen",
+            "Eén mannelijk lam, twee tortelduiven of jonge duiven; ongeveer twee liter meel en 0,3 liter olie."
+          ],
+          [
+            "Wat gelijk blijft",
+            "Het schuldoffer en de olie blijven onderdeel van de reiniging op de achtste dag."
+          ]
+        ],
+        "note": "De hoeveelheden volgen de benaderingen van de plaatselijke vertaling."
+      }
+    },
+    {
+      "book": "leviticus",
+      "chapter": 14,
+      "verse": 36,
+      "file": "14-huis-onderzoek-herstel.svg",
+      "scene": "Onderzoek van een huis",
+      "alt": "De volgorde van leeghalen, onderzoek, herstel en de verschillende uitkomsten voor een huis.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1247,
+      "source": "Leviticus 14:33–53",
+      "design": {
+        "rows": [
+          [
+            "Vóór het onderzoek",
+            "Het huis eerst leeghalen; daarna bekijkt de priester de muren."
+          ],
+          [
+            "Zeven dagen",
+            "Het huis wordt gesloten; daarna volgt heronderzoek."
+          ],
+          [
+            "Bij uitbreiding",
+            "Aangetaste stenen verwijderen, afschrapen en opnieuw bepleisteren."
+          ],
+          [
+            "Bij terugkeer",
+            "Het huis afbreken en het materiaal buiten de stad brengen."
+          ],
+          [
+            "Zonder uitbreiding",
+            "Rein verklaren; de beschreven reiniging met twee vogels volgt."
+          ]
+        ],
+        "note": "Dit voorschrift betreft huizen na de intocht in Kanaän."
+      }
+    },
+    {
+      "book": "leviticus",
+      "chapter": 15,
+      "verse": 13,
+      "file": "15-perioden-en-reiniging.svg",
+      "scene": "Perioden en reiniging",
+      "alt": "Onderscheid tussen de genoemde perioden en de offers na langdurige afscheiding of bloeding.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "Leviticus 15:13–30",
+      "design": {
+        "rows": [
+          [
+            "Abnormale afscheiding bij een man",
+            "Na het stoppen zeven dagen tellen, wassen; op dag acht twee vogels brengen."
+          ],
+          [
+            "Gewone zaadlozing",
+            "Wassen; onrein tot de avond."
+          ],
+          [
+            "Gewone menstruatie",
+            "Zeven dagen in de genoemde rituele categorie."
+          ],
+          [
+            "Langdurige bloeding bij een vrouw",
+            "Na het stoppen zeven dagen tellen; op dag acht twee vogels brengen."
+          ]
+        ],
+        "note": "Een leeswijzer bij rituele bepalingen, zonder lichamelijke afbeeldingen."
+      }
+    },
+    {
+      "book": "leviticus",
+      "chapter": 16,
+      "verse": 8,
+      "file": "16-twee-bokken.svg",
+      "scene": "Twee bokken, twee taken",
+      "alt": "De loting en de afzonderlijke rollen van de twee bokken op de Verzoendag.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "Leviticus 16:5–22",
+      "design": {
+        "rows": [
+          [
+            "De loting",
+            "Eén lot voor de HEERE, één voor de bok die wordt weggestuurd."
+          ],
+          [
+            "De eerste bok",
+            "Zondoffer voor het volk; het bloed wordt voor verzoening gebruikt."
+          ],
+          [
+            "De levende bok",
+            "Aäron legt beide handen op zijn kop en belijdt de ongerechtigheden."
+          ],
+          [
+            "Naar de woestijn",
+            "Een aangewezen man leidt hem weg; de bok wordt daar vrijgelaten."
+          ]
+        ],
+        "note": "De twee bokken en hun verschillende rollen mogen niet worden verwisseld."
+      }
+    },
+    {
+      "book": "leviticus",
+      "chapter": 16,
+      "verse": 29,
+      "file": "16-jaarlijkse-verzoendag.svg",
+      "scene": "De jaarlijkse Verzoendag",
+      "alt": "De hogepriester, verzoeningshandelingen en de datum van de jaarlijkse Verzoendag.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1333,
+      "source": "Leviticus 16:3–34",
+      "design": {
+        "rows": [
+          [
+            "De hogepriester",
+            "Wast zich en draagt de voorgeschreven linnen kleding."
+          ],
+          [
+            "Eerst voor het priesterhuis",
+            "Een stier als zondoffer voor Aäron en zijn huis."
+          ],
+          [
+            "Wierook en bloed",
+            "De wierookwolk bedekt het verzoendeksel; daarna volgen de bloedrituelen."
+          ],
+          [
+            "Voor het volk",
+            "Verzoening voor heiligdom, tent, altaar, priesters en gemeenschap."
+          ],
+          [
+            "Vaste dag",
+            "De tiende dag van de zevende maand: verootmoediging en volledige rust, ieder jaar."
+          ]
+        ],
+        "note": "Het schema ordent de handelingen; de levende bok staat in het afzonderlijke schema."
+      }
+    },
+    {
+      "book": "leviticus",
+      "chapter": 17,
+      "verse": 5,
+      "file": "17-bloed-en-plaats.svg",
+      "scene": "Offerplaats en bloed",
+      "alt": "De centrale offerplaats, de betekenis van bloed en het bedekken van jachtbloed.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "Leviticus 17:1–16",
+      "design": {
+        "rows": [
+          [
+            "De offerplaats",
+            "De genoemde offers worden bij de ingang van de ontmoetingstent gebracht."
+          ],
+          [
+            "Het bloed",
+            "De tekst verbindt bloed met het leven en de verzoening."
+          ],
+          [
+            "Bij de jacht",
+            "Het bloed van eetbaar wild of gevogelte uitgieten en met aarde bedekken."
+          ],
+          [
+            "Eén toepassing",
+            "De bepalingen noemen Israëlieten én inwonende vreemdelingen."
+          ]
+        ],
+        "note": "Een overzicht van de verbanden in dit hoofdstuk, zonder slachtbeelden."
+      }
+    },
+    {
+      "book": "leviticus",
+      "chapter": 18,
+      "verse": 6,
+      "file": "18-familierelaties.svg",
+      "scene": "Verwantschap en grenzen",
+      "alt": "De in Leviticus 18:6–18 genoemde groepen van naaste familie.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1333,
+      "source": "Leviticus 18:6–18",
+      "design": {
+        "rows": [
+          [
+            "Ouders en kinderen",
+            "De tekst sluit de genoemde relaties met moeder, vaders vrouw en kleindochter uit."
+          ],
+          [
+            "Broers en zussen",
+            "Ook de genoemde zuster en halfzuster vallen onder de bepalingen."
+          ],
+          [
+            "Andere naaste familie",
+            "Tantes, ooms vrouw, schoondochter en broers vrouw worden afzonderlijk genoemd."
+          ],
+          [
+            "Meerdere generaties",
+            "Geen vrouw samen met haar dochter of kleindochter."
+          ],
+          [
+            "Zusters als rivalen",
+            "Niet ook de zus van de vrouw nemen zolang de vrouw leeft."
+          ]
+        ],
+        "note": "Een niet-grafische leeswijzer bij de verwantschappen die de tekst opsomt."
+      }
+    },
+    {
+      "book": "leviticus",
+      "chapter": 19,
+      "verse": 9,
+      "file": "19-naastenliefde-in-praktijk.svg",
+      "scene": "Zorg voor de naaste",
+      "alt": "Sociale bepalingen over oogst, loon, kwetsbaren, rechtspraak, vreemdelingen en eerlijke maten.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1247,
+      "source": "Leviticus 19:9–18, 33–36",
+      "design": {
+        "rows": [
+          [
+            "Armen en vreemdelingen",
+            "Akkerranden en achtergebleven oogst voor hen laten liggen."
+          ],
+          [
+            "Loon en kwetsbaarheid",
+            "Loon niet tot de morgen achterhouden; een dove of blinde niet benadelen."
+          ],
+          [
+            "Rechtspraak",
+            "Geen partij kiezen voor arm of rijk; eerlijk oordelen."
+          ],
+          [
+            "Onderlinge omgang",
+            "Geen wrok of wraak; de naaste liefhebben."
+          ],
+          [
+            "De vreemdeling",
+            "Hem liefhebben als jezelf; eerlijk wegen en meten."
+          ]
+        ],
+        "note": "De afzonderlijke voorbeelden geven inhoud aan het gebod van naastenliefde."
+      }
+    },
+    {
+      "book": "leviticus",
+      "chapter": 19,
+      "verse": 23,
+      "file": "19-vruchtbomen-jaren.svg",
+      "scene": "De eerste vijf boomjaren",
+      "alt": "Tijdlijn van de eerste drie jaren, het vierde jaar en het vijfde jaar van een fruitboom.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 820,
+      "source": "Leviticus 19:23–25",
+      "design": {
+        "rows": [
+          [
+            "Jaar 1, 2 en 3",
+            "Van de vruchten van pas geplante fruitbomen niet eten."
+          ],
+          [
+            "Jaar 4",
+            "Alle vruchten zijn heilig: een lofgave aan de HEERE."
+          ],
+          [
+            "Vanaf jaar 5",
+            "De vruchten mogen worden gegeten."
+          ]
+        ],
+        "note": "Dit voorschrift betreft het planten van fruitbomen na de intocht in het land."
+      }
+    },
+    {
+      "book": "leviticus",
+      "chapter": 20,
+      "verse": 22,
+      "file": "20-hoofdstuk-leeswijzer.svg",
+      "scene": "Leeswijzer bij hoofdstuk 20",
+      "alt": "De opbouw van Leviticus 20 met verwijzingen naar de verschillende tekstgedeelten.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1141,
+      "source": "Leviticus 20:1–27",
+      "design": {
+        "rows": [
+          [
+            "Verzen 1–8",
+            "Molech, raadplegen van geesten en de oproep tot heiliging."
+          ],
+          [
+            "Verzen 9–21",
+            "De tekst noemt familierelaties, seksuele overtredingen en verschillende straffen."
+          ],
+          [
+            "Verzen 22–26",
+            "Verband tussen het land, gehoorzaamheid, heiligheid en rein of onrein."
+          ],
+          [
+            "Vers 27",
+            "Afsluitende bepaling over het oproepen van doden en geesten."
+          ]
+        ],
+        "note": "Een beschrijving van historische religieuze wetstekst; straffen worden niet afgebeeld."
+      }
+    }
+  ]
+}

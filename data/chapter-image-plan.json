@@ -2737,6 +2737,238 @@
           "source": "Leviticus 7:6–10, 30–36"
         }
       ]
+    },
+    {
+      "book": "leviticus",
+      "chapter": 14,
+      "status": "reviewed",
+      "target_images": 9,
+      "reason": "Drie afzonderlijke handelingen bij een huis ontbreken. Drie schema’s onderscheiden persoonsreiniging, draagkracht en huisonderzoek.",
+      "additions": [
+        {
+          "verse": 36,
+          "scene": "Voorschrift: het huis eerst leeghalen",
+          "kind": "scene",
+          "file": "14-36-uitbreiding.webp"
+        },
+        {
+          "verse": 40,
+          "scene": "Aangetaste stenen worden verwijderd",
+          "kind": "scene",
+          "file": "14-40-uitbreiding.webp"
+        },
+        {
+          "verse": 42,
+          "scene": "De muur wordt opnieuw bepleisterd",
+          "kind": "scene",
+          "file": "14-42-uitbreiding.webp"
+        },
+        {
+          "verse": 3,
+          "file": "14-persoon-reinigingsfasen.svg",
+          "scene": "De reiniging in fasen",
+          "kind": "diagram",
+          "source": "Leviticus 14:3–20"
+        },
+        {
+          "verse": 21,
+          "file": "14-offers-naar-draagkracht.svg",
+          "scene": "Offers naar draagkracht",
+          "kind": "diagram",
+          "source": "Leviticus 14:10–32"
+        },
+        {
+          "verse": 36,
+          "file": "14-huis-onderzoek-herstel.svg",
+          "scene": "Onderzoek van een huis",
+          "kind": "diagram",
+          "source": "Leviticus 14:33–53"
+        }
+      ]
+    },
+    {
+      "book": "leviticus",
+      "chapter": 16,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "De bestaande linnen kleding, loting en weggeleide bok blijven. Wierook in het binnenste en twee schema’s vullen andere fasen en rollen aan.",
+      "additions": [
+        {
+          "verse": 12,
+          "scene": "Wierook achter het voorhangsel",
+          "kind": "scene",
+          "file": "16-12-uitbreiding.webp"
+        },
+        {
+          "verse": 8,
+          "file": "16-twee-bokken.svg",
+          "scene": "Twee bokken, twee taken",
+          "kind": "diagram",
+          "source": "Leviticus 16:5–22"
+        },
+        {
+          "verse": 29,
+          "file": "16-jaarlijkse-verzoendag.svg",
+          "scene": "De jaarlijkse Verzoendag",
+          "kind": "diagram",
+          "source": "Leviticus 16:3–34"
+        }
+      ]
+    },
+    {
+      "book": "leviticus",
+      "chapter": 19,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Loonbetaling is een andere praktische bepaling dan oogstranden, ouderen en gewichten. Twee schema’s maken de sociale verbanden en boomjaren leesbaar.",
+      "additions": [
+        {
+          "verse": 13,
+          "scene": "De dagloner ontvangt zijn loon",
+          "kind": "scene",
+          "file": "19-13-uitbreiding.webp"
+        },
+        {
+          "verse": 9,
+          "file": "19-naastenliefde-in-praktijk.svg",
+          "scene": "Zorg voor de naaste",
+          "kind": "diagram",
+          "source": "Leviticus 19:9–18, 33–36"
+        },
+        {
+          "verse": 23,
+          "file": "19-vruchtbomen-jaren.svg",
+          "scene": "De eerste vijf boomjaren",
+          "kind": "diagram",
+          "source": "Leviticus 19:23–25"
+        }
+      ]
+    },
+    {
+      "book": "leviticus",
+      "chapter": 11,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "De bestaande dieren en uitleg blijven; twee schema’s verduidelijken de gecombineerde kenmerken en uitzonderingen voor voorwerpen.",
+      "additions": [
+        {
+          "verse": 3,
+          "file": "11-voedselgroepen.svg",
+          "scene": "Voedselgroepen in de tekst",
+          "kind": "diagram",
+          "source": "Leviticus 11:1–23"
+        },
+        {
+          "verse": 24,
+          "file": "11-aanraking-en-voorwerpen.svg",
+          "scene": "Aanraking en voorwerpen",
+          "kind": "diagram",
+          "source": "Leviticus 11:24–40"
+        }
+      ]
+    },
+    {
+      "book": "leviticus",
+      "chapter": 12,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "De drie bestaande familietaferelen zijn voldoende. Een tijdlijn maakt de onderscheiden perioden en draagkrachtregeling exact leesbaar.",
+      "additions": [
+        {
+          "verse": 2,
+          "file": "12-reinigingsperioden.svg",
+          "scene": "De genoemde perioden",
+          "kind": "diagram",
+          "source": "Leviticus 12:2–8"
+        }
+      ]
+    },
+    {
+      "book": "leviticus",
+      "chapter": 13,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Bestaande onderzoeken en wassen worden aangevuld met twee leeswijzers voor heronderzoek, zonder ziektebeelden te herhalen.",
+      "additions": [
+        {
+          "verse": 2,
+          "file": "13-onderzoek-en-heronderzoek.svg",
+          "scene": "Onderzoek en heronderzoek",
+          "kind": "diagram",
+          "source": "Leviticus 13:2–8"
+        },
+        {
+          "verse": 47,
+          "file": "13-onderzoek-kleding.svg",
+          "scene": "Aantasting van kleding",
+          "kind": "diagram",
+          "source": "Leviticus 13:47–59"
+        }
+      ]
+    },
+    {
+      "book": "leviticus",
+      "chapter": 15,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "De bestaande washandeling en vogeloffers blijven. Een leeswijzer voorkomt verwarring tussen verschillende perioden en rituele categorieën.",
+      "additions": [
+        {
+          "verse": 13,
+          "file": "15-perioden-en-reiniging.svg",
+          "scene": "Perioden en reiniging",
+          "kind": "diagram",
+          "source": "Leviticus 15:13–30"
+        }
+      ]
+    },
+    {
+      "book": "leviticus",
+      "chapter": 17,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "Drie bestaande scènes tonen de handelingen; een schema verduidelijkt hun samenhang en toepassing.",
+      "additions": [
+        {
+          "verse": 5,
+          "file": "17-bloed-en-plaats.svg",
+          "scene": "Offerplaats en bloed",
+          "kind": "diagram",
+          "source": "Leviticus 17:1–16"
+        }
+      ]
+    },
+    {
+      "book": "leviticus",
+      "chapter": 18,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "De bestaande onderwijsbeelden blijven. Een verwantschapsoverzicht maakt de opsomming leesbaar zonder expliciete scènes.",
+      "additions": [
+        {
+          "verse": 6,
+          "file": "18-familierelaties.svg",
+          "scene": "Verwantschap en grenzen",
+          "kind": "diagram",
+          "source": "Leviticus 18:6–18"
+        }
+      ]
+    },
+    {
+      "book": "leviticus",
+      "chapter": 20,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "De drie bestaande onderwijs- en landschapsbeelden volstaan. Een leeswijzer onderscheidt tekstgroepen zonder strafbeelden of opvulling.",
+      "additions": [
+        {
+          "verse": 22,
+          "file": "20-hoofdstuk-leeswijzer.svg",
+          "scene": "Leeswijzer bij hoofdstuk 20",
+          "kind": "diagram",
+          "source": "Leviticus 20:1–27"
+        }
+      ]
     }
   ]
 }
