@@ -2521,6 +2521,222 @@
           "source": "Exodus 39:30–43"
         }
       ]
+    },
+    {
+      "book": "leviticus",
+      "chapter": 1,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Een vogeloffer ontbreekt naast het rund en altaar; een schema onderscheidt de drie mogelijkheden.",
+      "additions": [
+        {
+          "verse": 14,
+          "scene": "Een vogel wordt als brandoffer gebracht",
+          "kind": "scene",
+          "file": "1-14-uitbreiding.webp"
+        },
+        {
+          "verse": 3,
+          "file": "1-drie-brandoffers.svg",
+          "scene": "Drie vormen van brandoffer",
+          "kind": "diagram",
+          "source": "Leviticus 1:3–17"
+        }
+      ]
+    },
+    {
+      "book": "leviticus",
+      "chapter": 2,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Het bakken in de oven is een eigen bereidingsvorm. Het schema ordent vormen, ingrediënten en uitzonderingen.",
+      "additions": [
+        {
+          "verse": 4,
+          "scene": "Ongezuurde koeken uit de oven",
+          "kind": "scene",
+          "file": "2-4-uitbreiding.webp"
+        },
+        {
+          "verse": 4,
+          "file": "2-graanoffer-vormen.svg",
+          "scene": "Vormen van het graanoffer",
+          "kind": "diagram",
+          "source": "Leviticus 2:1–16"
+        }
+      ]
+    },
+    {
+      "book": "leviticus",
+      "chapter": 4,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Een leider met een bok is de nog ontbrekende categorie. Het schema onderscheidt de vier groepen en bloedrituelen.",
+      "additions": [
+        {
+          "verse": 23,
+          "scene": "Een leider brengt een jonge bok",
+          "kind": "scene",
+          "file": "4-23-uitbreiding.webp"
+        },
+        {
+          "verse": 3,
+          "file": "4-zondoffer-per-persoon.svg",
+          "scene": "Zondoffer: voor wie?",
+          "kind": "diagram",
+          "source": "Leviticus 4:3–35"
+        }
+      ]
+    },
+    {
+      "book": "leviticus",
+      "chapter": 6,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "As buiten het kamp brengen is een andere handeling dan hout toevoegen. Een schema ordent vuur, as en de uitzonderingen voor maaltijden.",
+      "additions": [
+        {
+          "verse": 11,
+          "scene": "De as gaat naar een reine plaats",
+          "kind": "scene",
+          "file": "6-11-uitbreiding.webp"
+        },
+        {
+          "verse": 9,
+          "file": "6-vuur-as-en-maaltijd.svg",
+          "scene": "Vuur, as en het priesterdeel",
+          "kind": "diagram",
+          "source": "Leviticus 6:9–30"
+        }
+      ]
+    },
+    {
+      "book": "leviticus",
+      "chapter": 8,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Het verblijf van zeven dagen is een afzonderlijke fase; een schema ordent de hele inwijding.",
+      "additions": [
+        {
+          "verse": 33,
+          "scene": "De priesters blijven bij de ingang",
+          "kind": "scene",
+          "file": "8-33-uitbreiding.webp"
+        },
+        {
+          "verse": 6,
+          "file": "8-volgorde-inwijding.svg",
+          "scene": "De volgorde van de inwijding",
+          "kind": "diagram",
+          "source": "Leviticus 8:6–36"
+        }
+      ]
+    },
+    {
+      "book": "leviticus",
+      "chapter": 9,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "De gezamenlijke terugkeer van Mozes en Aäron vult Aärons zegen aan. Een schema onderscheidt priester- en volksoffers en de achtste dag.",
+      "additions": [
+        {
+          "verse": 23,
+          "scene": "Mozes en Aäron komen uit de tent",
+          "kind": "scene",
+          "file": "9-23-uitbreiding.webp"
+        },
+        {
+          "verse": 1,
+          "file": "9-achtste-dag.svg",
+          "scene": "De achtste dag",
+          "kind": "diagram",
+          "source": "Leviticus 9:1–24"
+        }
+      ]
+    },
+    {
+      "book": "leviticus",
+      "chapter": 10,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "De twee wierookvaten tonen de aanleiding naast de bestaande rouw en gesprekken. Het schema controleert de familiebanden en het vervolg zonder sterfscène.",
+      "additions": [
+        {
+          "verse": 1,
+          "scene": "Nadab en Abihu nemen hun wierookvaten",
+          "kind": "scene",
+          "file": "10-1-uitbreiding.webp"
+        },
+        {
+          "verse": 1,
+          "file": "10-familie-en-gebeurtenis.svg",
+          "scene": "Aäron en zijn zonen",
+          "kind": "diagram",
+          "source": "Leviticus 10:1–20"
+        }
+      ]
+    },
+    {
+      "book": "leviticus",
+      "chapter": 3,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "Drie bestaande scènes dekken rund, kleinvee en altaar. Een schema verduidelijkt geslacht, taakverdeling en delen zonder dubbel offerbeeld.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "3-dankoffer-en-delen.svg",
+          "scene": "Het dankoffer en de delen",
+          "kind": "diagram",
+          "source": "Leviticus 3:1–17"
+        }
+      ]
+    },
+    {
+      "book": "leviticus",
+      "chapter": 5,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "De drie bestaande scènes tonen belijdenis, vogels en meel. Twee schema’s verduidelijken draagkracht en de afzonderlijke herstelbetaling.",
+      "additions": [
+        {
+          "verse": 7,
+          "file": "5-naar-draagkracht.svg",
+          "scene": "Het offer naar draagkracht",
+          "kind": "diagram",
+          "source": "Leviticus 5:5–13"
+        },
+        {
+          "verse": 16,
+          "file": "5-herstel-heilige-dingen.svg",
+          "scene": "Herstel van heilige dingen",
+          "kind": "diagram",
+          "source": "Leviticus 5:14–19"
+        }
+      ]
+    },
+    {
+      "book": "leviticus",
+      "chapter": 7,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "De bestaande verdeling, broden en maaltijd blijven. Twee schema’s maken termijnen en priesterlijke delen precies leesbaar.",
+      "additions": [
+        {
+          "verse": 15,
+          "file": "7-dagen-dankmaaltijd.svg",
+          "scene": "Wanneer wordt het offer gegeten?",
+          "kind": "diagram",
+          "source": "Leviticus 7:15–21"
+        },
+        {
+          "verse": 30,
+          "file": "7-delen-van-de-offers.svg",
+          "scene": "Welke delen voor de priesters?",
+          "kind": "diagram",
+          "source": "Leviticus 7:6–10, 30–36"
+        }
+      ]
     }
   ]
 }
