@@ -1,0 +1,572 @@
+{
+  "date": "2026-10-24",
+  "started": "2026-10-24T01:54:08Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "leviticus",
+      "chapter": 23,
+      "verse": 5,
+      "scene": "Het pascha bij het vallen van de avond",
+      "alt": "Het pascha bij het vallen van de avond — Leviticus 23:5",
+      "kind": "scene",
+      "file": "23-5-uitbreiding.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible educational illustration, landscape 3:2, fully modestly robed ancient Hebrew adults, correct anatomy with two arms per person, natural hands, no readable text, watermark, modern objects or human-shaped deity. An ancient Hebrew household shares the prescribed Passover meal at dusk, simple roasted meat on a platter and thin unleavened bread, quiet setting by cloth tents, no living animal on table, no modern cutlery, no temple or church.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "leviticus",
+      "chapter": 23,
+      "verse": 24,
+      "scene": "Een dag met trompetgeschal",
+      "alt": "Een dag met trompetgeschal — Leviticus 23:24",
+      "kind": "scene",
+      "file": "23-24-uitbreiding.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible educational illustration, landscape 3:2, fully modestly robed ancient Hebrew adults, correct anatomy with two arms per person, natural hands, no readable text, watermark, modern objects or human-shaped deity. A fully robed ancient Hebrew adult herald sounds one simple long straight silver trumpet before a gathered community near a CLOTH tabernacle in the Sinai wilderness, full hands naturally holding the instrument, no stone architecture or monumental city.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "leviticus",
+      "chapter": 24,
+      "verse": 3,
+      "scene": "Aäron verzorgt de lampen",
+      "alt": "Aäron verzorgt de lampen — Leviticus 24:3",
+      "kind": "scene",
+      "file": "24-3-uitbreiding.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible educational illustration, landscape 3:2, fully modestly robed ancient Hebrew adults, correct anatomy with two arms per person, natural hands, no readable text, watermark, modern objects or human-shaped deity. Inside the CLOTH Sinai tabernacle, elderly Aaron in full modest ancient priestly attire carefully tends a single seven-branched golden lampstand, exactly SEVEN small oil flames total, one central flame and three on each side. No candles, electric lights, stone architecture or deity.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "leviticus",
+      "chapter": 25,
+      "verse": 25,
+      "scene": "Een familielid koopt de grond terug",
+      "alt": "Een familielid koopt de grond terug — Leviticus 25:25",
+      "kind": "scene",
+      "file": "25-25-uitbreiding.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible educational illustration, landscape 3:2, fully modestly robed ancient Hebrew adults, correct anatomy with two arms per person, natural hands, no readable text, watermark, modern objects or human-shaped deity. Illustration of the prescribed situation in Canaan: three fully robed adult Hebrew men meet at the edge of a cultivated family field, a close kinsman weighs small unminted silver pieces to buy back the land for an impoverished relative, simple balance and purse, no readable deeds or minted coins, no chains.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "leviticus",
+      "chapter": 26,
+      "verse": 10,
+      "scene": "Plaats voor de nieuwe oogst",
+      "alt": "Plaats voor de nieuwe oogst — Leviticus 26:10",
+      "kind": "scene",
+      "file": "26-10-uitbreiding.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible educational illustration, landscape 3:2, fully modestly robed ancient Hebrew adults, correct anatomy with two arms per person, natural hands, no readable text, watermark, modern objects or human-shaped deity. Illustrate a promised future blessing in Canaan: fully clothed adult Hebrew workers move older grain baskets out of a simple stone and mudbrick granary while bringing a fresh harvest in wicker baskets, abundant stored grain, no modern sacks, printed signs, machinery or temple.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "leviticus",
+      "chapter": 21,
+      "verse": 1,
+      "file": "21-priesters-onderscheid.svg",
+      "scene": "Priester en hogepriester",
+      "alt": "De verschillende bepalingen voor priester en hogepriester bij rouw en familie.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 949,
+      "source": "Leviticus 21:1–15",
+      "design": {
+        "rows": [
+          [
+            "Priester: naaste familie",
+            "De tekst noemt uitzonderingen bij overlijden van ouders, kinderen, broer en de genoemde ongehuwde zus."
+          ],
+          [
+            "Hogepriester",
+            "Ook bij overlijden van vader of moeder niet bij de dode komen of een begrafenis volgen."
+          ],
+          [
+            "Rouw en heiliging",
+            "Kleding, haar, huwelijk en dienst krijgen afzonderlijke voorschriften."
+          ]
+        ],
+        "note": "Dit schema beschrijft de verschillen in deze historische priesterwet."
+      }
+    },
+    {
+      "book": "leviticus",
+      "chapter": 21,
+      "verse": 22,
+      "file": "21-voedsel-en-dienst.svg",
+      "scene": "Voedsel en altaardienst",
+      "alt": "Het onderscheid tussen deelname aan het heilige voedsel en de genoemde altaardienst in Leviticus 21.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 906,
+      "source": "Leviticus 21:16–24",
+      "design": {
+        "rows": [
+          [
+            "De genoemde beperking",
+            "Een nakomeling van Aäron met een genoemde lichamelijke beperking mag de offers niet aanbieden."
+          ],
+          [
+            "Wel het voedsel",
+            "Hij mag eten van zowel de allerheiligste als de heilige gaven."
+          ],
+          [
+            "Grens van de dienst",
+            "De tekst noemt het voorhangsel en het altaar afzonderlijk."
+          ]
+        ],
+        "note": "Een beschrijving van de tekst; het voedselrecht blijft uitdrukkelijk zichtbaar."
+      }
+    },
+    {
+      "book": "leviticus",
+      "chapter": 22,
+      "verse": 6,
+      "file": "22-heilige-gaven.svg",
+      "scene": "Wie eet van heilige gaven?",
+      "alt": "Reiniging, huishoudelijke categorieën en vergoeding bij de heilige gaven.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1098,
+      "source": "Leviticus 22:1–16",
+      "design": {
+        "rows": [
+          [
+            "Reiniging",
+            "Na de genoemde aanraking: wassen en wachten tot na zonsondergang."
+          ],
+          [
+            "Priesterlijk huishouden",
+            "De tekst onderscheidt familie en huisgenoten van gasten en dagloners."
+          ],
+          [
+            "Een teruggekeerde dochter",
+            "Weduwe of gescheiden, zonder kinderen en weer in het ouderlijk huis: zij mag weer mee-eten."
+          ],
+          [
+            "Per ongeluk gegeten",
+            "De waarde vergoeden en een vijfde toevoegen."
+          ]
+        ],
+        "note": "De uitzonderingen worden naast de algemene regels gelezen."
+      }
+    },
+    {
+      "book": "leviticus",
+      "chapter": 22,
+      "verse": 27,
+      "file": "22-dieren-en-termijnen.svg",
+      "scene": "Offerdieren en termijnen",
+      "alt": "De voorwaarden voor offerdieren, de eerste zeven dagen en de termijn van het lofoffer.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1141,
+      "source": "Leviticus 22:17–30",
+      "design": {
+        "rows": [
+          [
+            "Brandoffer en gelofte",
+            "De genoemde dieren moeten zonder gebrek zijn."
+          ],
+          [
+            "Vrijwillig offer",
+            "Vers 23 noemt een beperkte uitzondering bij een te lang of te kort lichaamsdeel."
+          ],
+          [
+            "Moeder en jong",
+            "Het jong blijft zeven dagen bij de moeder; vanaf dag acht aanvaard. Niet beide op dezelfde dag slachten."
+          ],
+          [
+            "Lofoffer",
+            "Op dezelfde dag eten; niets bewaren tot de morgen."
+          ]
+        ],
+        "note": "Het schema houdt de uitzondering en de verschillende termijnen uit elkaar."
+      }
+    },
+    {
+      "book": "leviticus",
+      "chapter": 23,
+      "verse": 5,
+      "file": "23-feestkalender.svg",
+      "scene": "De vaste feestdagen",
+      "alt": "Overzicht van de wekelijkse sabbat en de vaste feestdagen in de eerste en zevende maand.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1290,
+      "source": "Leviticus 23:3–44",
+      "design": {
+        "rows": [
+          [
+            "Elke zevende dag",
+            "Sabbat: volledige rust en een heilige bijeenkomst."
+          ],
+          [
+            "Eerste maand",
+            "Dag 14 tegen de avond: pascha. Vanaf dag 15: zeven dagen ongezuurde broden."
+          ],
+          [
+            "Na de eerste schoof",
+            "Zeven volle weken tellen; op de vijftigste dag een nieuw graanoffer."
+          ],
+          [
+            "Zevende maand",
+            "Dag 1: trompetgeschal. Dag 10: Verzoendag. Vanaf dag 15: loofhuttenfeest."
+          ],
+          [
+            "Loofhuttenfeest",
+            "Zeven dagen feest; de achtste dag is een plechtige slot- en rustdag."
+          ]
+        ],
+        "note": "De maandnummers volgen de tekst; moderne kalenderdatums worden niet ingevuld."
+      }
+    },
+    {
+      "book": "leviticus",
+      "chapter": 23,
+      "verse": 15,
+      "file": "23-zeven-weken.svg",
+      "scene": "Van schoof naar twee broden",
+      "alt": "De volgorde van eerste schoof, zeven weken, vijftigste dag en twee broden.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1012,
+      "source": "Leviticus 23:9–22",
+      "design": {
+        "rows": [
+          [
+            "Eerste opbrengst",
+            "De priester beweegt de eerste schoof op de dag na de sabbat."
+          ],
+          [
+            "Zeven volle weken",
+            "Vanaf die dag zeven weken tellen."
+          ],
+          [
+            "De vijftigste dag",
+            "Een nieuw graanoffer: twee met desem gebakken broden."
+          ],
+          [
+            "Bij de oogst",
+            "De akkerranden en achtergebleven aren blijven voor arme en vreemdeling."
+          ]
+        ],
+        "note": "Het schema volgt de telling en de daarbij genoemde zorg voor de naaste."
+      }
+    },
+    {
+      "book": "leviticus",
+      "chapter": 24,
+      "verse": 5,
+      "file": "24-brood-en-lampen.svg",
+      "scene": "Lampen en toonbroden",
+      "alt": "De olie voor de lampen en het aantal, de ordening en vervanging van de toonbroden.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1098,
+      "source": "Leviticus 24:1–9",
+      "design": {
+        "rows": [
+          [
+            "Licht",
+            "Zuivere olijfolie; Aäron verzorgt de lampen van avond tot ochtend."
+          ],
+          [
+            "Twaalf broden",
+            "Twee rijen van zes broden op de zuiver gouden tafel."
+          ],
+          [
+            "Wierook",
+            "Op elke rij zuivere wierook als gedenkoffer."
+          ],
+          [
+            "Elke sabbat",
+            "De broden opnieuw neerleggen; Aäron en zijn zonen eten ze op een heilige plaats."
+          ]
+        ],
+        "note": "Het ritme van de lampen en het wekelijkse brood worden apart genoemd."
+      }
+    },
+    {
+      "book": "leviticus",
+      "chapter": 24,
+      "verse": 11,
+      "file": "24-familie-en-rechtsregel.svg",
+      "scene": "Familie en rechtsregel",
+      "alt": "De afstamming van de genoemde man en het verband met één wet voor inwoner en vreemdeling.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "Leviticus 24:10–23",
+      "design": {
+        "rows": [
+          [
+            "De moeder",
+            "Selomith, dochter van Dibri, uit de stam Dan."
+          ],
+          [
+            "De vader",
+            "Een Egyptische man; zijn naam wordt hier niet genoemd."
+          ],
+          [
+            "De gebeurtenis",
+            "Hun zoon lastert de naam en wordt vastgehouden tot er een uitspraak komt."
+          ],
+          [
+            "De rechtsregel",
+            "De tekst noemt dezelfde wet voor vreemdeling en geboren Israëliet."
+          ]
+        ],
+        "note": "De afstamming wordt exact benoemd; de terechtstelling wordt niet afgebeeld."
+      }
+    },
+    {
+      "book": "leviticus",
+      "chapter": 25,
+      "verse": 8,
+      "file": "25-rust-en-jubeljaar.svg",
+      "scene": "Rustjaar en jubeljaar",
+      "alt": "De telling van sabbatsjaren en de afkondiging en betekenis van het jubeljaar.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1204,
+      "source": "Leviticus 25:1–22",
+      "design": {
+        "rows": [
+          [
+            "Zes werkjaren",
+            "Zaaien, snoeien en oogsten."
+          ],
+          [
+            "Het zevende jaar",
+            "Volledige rust voor het land; wat vanzelf groeit, dient als voedsel."
+          ],
+          [
+            "Zeven maal zeven",
+            "Zeven perioden van zeven jaar vormen 49 jaar."
+          ],
+          [
+            "Het vijftigste jaar",
+            "Jubeljaar: vrijheid afkondigen en terugkeer naar familie en familiebezit."
+          ],
+          [
+            "De afkondiging",
+            "Ramshoorn op de tiende dag van de zevende maand, de Verzoendag."
+          ]
+        ],
+        "note": "De rust van het zevende jaar en het vijftigste jaar worden onderscheiden."
+      }
+    },
+    {
+      "book": "leviticus",
+      "chapter": 25,
+      "verse": 23,
+      "file": "25-grond-en-huizen.svg",
+      "scene": "Grond, huizen en terugkoop",
+      "alt": "De verschillende regels voor terugkoop en jubeljaar bij grond en huizen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1184,
+      "source": "Leviticus 25:23–34",
+      "design": {
+        "rows": [
+          [
+            "Familiegrond",
+            "Terugkoop door naaste verwant of later door de verkoper; anders terug bij het jubeljaar."
+          ],
+          [
+            "Ommuurde stad",
+            "Een woonhuis kan één jaar worden teruggekocht; daarna geen vrijgave in het jubeljaar."
+          ],
+          [
+            "Dorp zonder muur",
+            "Huizen gelden als landbouwgrond en komen in het jubeljaar vrij."
+          ],
+          [
+            "Levietensteden",
+            "Blijvend terugkooprecht; verkochte huizen komen in het jubeljaar vrij. De weidegrond blijft behouden."
+          ]
+        ],
+        "note": "De tekst maakt verschillende uitzonderingen voor stad, dorp en Levieten."
+      }
+    },
+    {
+      "book": "leviticus",
+      "chapter": 25,
+      "verse": 39,
+      "file": "25-mensen-en-vrijkoop.svg",
+      "scene": "Dienstbaarheid en vrijkoop",
+      "alt": "Ondersteuning, dienstbaarheid, vrijkoop en het onderscheid tussen volksgenoten en buitenlandse slaven in de tekst.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1141,
+      "source": "Leviticus 25:35–55",
+      "design": {
+        "rows": [
+          [
+            "Een verarmde volksgenoot",
+            "Ondersteunen zonder rente; niet hardvochtig behandelen."
+          ],
+          [
+            "Dienst bij een volksgenoot",
+            "Als dagloner behandelen; in het jubeljaar terug naar familie en bezit."
+          ],
+          [
+            "Dienst bij een vreemdeling",
+            "Vrĳkoop door familie of zichzelf; het bedrag hangt af van de resterende jaren."
+          ],
+          [
+            "Een blijvend onderscheid",
+            "Verzen 44–46 staan blijvend slavenbezit uit andere volken toe; deze regeling is niet gelijk aan die voor volksgenoten."
+          ]
+        ],
+        "note": "Een beschrijving van de historische wetstekst, met het onderscheid tussen de groepen zichtbaar."
+      }
+    },
+    {
+      "book": "leviticus",
+      "chapter": 26,
+      "verse": 3,
+      "file": "26-verbond-en-gevolgen.svg",
+      "scene": "Verbond en gevolgen",
+      "alt": "De opbouw van de verbondsbeloften en opeenvolgende waarschuwingen in Leviticus 26.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1091,
+      "source": "Leviticus 26:1–39",
+      "design": {
+        "rows": [
+          [
+            "Bij gehoorzaamheid",
+            "Regen, opbrengst, vrede, talrijk worden en Gods wonen in hun midden."
+          ],
+          [
+            "Bij verwerping",
+            "De tekst waarschuwt voor ziekte, nederlaag en verlies van opbrengst."
+          ],
+          [
+            "Bij volhardend verzet",
+            "De waarschuwingen nemen toe: droogte, oorlog, verwoesting en verstrooiing."
+          ],
+          [
+            "Het verlaten land",
+            "Het krijgt de sabbatsrust die het eerder niet ontving."
+          ]
+        ],
+        "note": "De tekst spreekt over beloften en waarschuwingen, niet over gebeurtenissen die hier al plaatsvinden."
+      }
+    },
+    {
+      "book": "leviticus",
+      "chapter": 26,
+      "verse": 40,
+      "file": "26-belijdenis-en-verbond.svg",
+      "scene": "Belijdenis en het verbond",
+      "alt": "De afsluiting met schuldbelijdenis, verootmoediging en het herinnerde verbond.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "Leviticus 26:40–45",
+      "design": {
+        "rows": [
+          [
+            "Belijdenis",
+            "Eigen schuld en de schuld van de voorouders erkennen."
+          ],
+          [
+            "Verootmoediging",
+            "Het koppige hart verootmoedigt zich en aanvaardt de straf."
+          ],
+          [
+            "Het herinnerde verbond",
+            "Jakob, Izak en Abraham worden uitdrukkelijk genoemd."
+          ],
+          [
+            "Ook in het vijandige land",
+            "De HEERE zal hen niet geheel verwerpen of zijn verbond verbreken."
+          ]
+        ],
+        "note": "Dit slot vormt een eigen beweging na de eerdere waarschuwingen."
+      }
+    },
+    {
+      "book": "leviticus",
+      "chapter": 27,
+      "verse": 3,
+      "file": "27-waardering-bij-gelofte.svg",
+      "scene": "Bedragen bij een gelofte",
+      "alt": "De leeftijdsgroepen, bedragen in gram zilver en de draagkrachtuitzondering van Leviticus 27.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1283,
+      "source": "Leviticus 27:2–8",
+      "design": {
+        "rows": [
+          [
+            "Van één maand tot vijf jaar",
+            "Jongen: circa 55 gram zilver. Meisje: circa 33 gram."
+          ],
+          [
+            "Van vijf tot twintig jaar",
+            "Mannelijk: circa 220 gram. Vrouwelijk: circa 110 gram."
+          ],
+          [
+            "Van twintig tot zestig jaar",
+            "Man: circa 550 gram. Vrouw: circa 330 gram."
+          ],
+          [
+            "Vanaf zestig jaar",
+            "Man: circa 165 gram. Vrouw: circa 110 gram."
+          ],
+          [
+            "Bij onvoldoende middelen",
+            "De priester stelt een bedrag vast dat de geloftegever kan betalen."
+          ]
+        ],
+        "note": "Bedragen uit de plaatselijke vertaling voor deze gelofteregeling; geen waardering van menselijke waardigheid."
+      }
+    },
+    {
+      "book": "leviticus",
+      "chapter": 27,
+      "verse": 13,
+      "file": "27-terugkoop-en-tiende.svg",
+      "scene": "Terugkoop en de tiende",
+      "alt": "De toeslag bij toegestane terugkoop, het verband met het jubeljaar en de tienden van land en kudde.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1419,
+      "source": "Leviticus 27:9–33",
+      "design": {
+        "rows": [
+          [
+            "Dier en huis",
+            "Waar terugkoop is toegestaan: de vastgestelde waarde plus twintig procent."
+          ],
+          [
+            "Erfgrond en gekochte grond",
+            "Verschillende regelingen; waarde en bestemming hangen samen met het jubeljaar."
+          ],
+          [
+            "Wat al toebehoort",
+            "Een eerstgeboren offerdier kan niet nogmaals door een gelofte worden gewijd."
+          ],
+          [
+            "Opbrengst van het land",
+            "Een tiende behoort aan de HEERE; bij toegestane terugkoop twintig procent erbij."
+          ],
+          [
+            "De kudde",
+            "Elk tiende dier onder de staf is heilig; niet selecteren of omruilen."
+          ]
+        ],
+        "note": "De regels voor terugkoop zijn niet op alle soorten wijding gelijk toepasbaar."
+      }
+    }
+  ]
+}

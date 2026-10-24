@@ -2969,6 +2969,204 @@
           "source": "Leviticus 20:1–27"
         }
       ]
+    },
+    {
+      "book": "leviticus",
+      "chapter": 23,
+      "status": "reviewed",
+      "target_images": 7,
+      "reason": "Pascha en trompetgeschal ontbreken naast schoof, twee broden en loofhutten. Twee schema’s ordenen kalender en de vijftigdagentelling.",
+      "additions": [
+        {
+          "verse": 5,
+          "scene": "Het pascha bij het vallen van de avond",
+          "kind": "scene",
+          "file": "23-5-uitbreiding.webp"
+        },
+        {
+          "verse": 24,
+          "scene": "Een dag met trompetgeschal",
+          "kind": "scene",
+          "file": "23-24-uitbreiding.webp"
+        },
+        {
+          "verse": 5,
+          "file": "23-feestkalender.svg",
+          "scene": "De vaste feestdagen",
+          "kind": "diagram",
+          "source": "Leviticus 23:3–44"
+        },
+        {
+          "verse": 15,
+          "file": "23-zeven-weken.svg",
+          "scene": "Van schoof naar twee broden",
+          "kind": "diagram",
+          "source": "Leviticus 23:9–22"
+        }
+      ]
+    },
+    {
+      "book": "leviticus",
+      "chapter": 24,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "De verzorging van de lampen is een eigen handeling naast olie brengen en brood. Twee schema’s leggen weekritme, afstamming en rechtsverband uit.",
+      "additions": [
+        {
+          "verse": 3,
+          "scene": "Aäron verzorgt de lampen",
+          "kind": "scene",
+          "file": "24-3-uitbreiding.webp"
+        },
+        {
+          "verse": 5,
+          "file": "24-brood-en-lampen.svg",
+          "scene": "Lampen en toonbroden",
+          "kind": "diagram",
+          "source": "Leviticus 24:1–9"
+        },
+        {
+          "verse": 11,
+          "file": "24-familie-en-rechtsregel.svg",
+          "scene": "Familie en rechtsregel",
+          "kind": "diagram",
+          "source": "Leviticus 24:10–23"
+        }
+      ]
+    },
+    {
+      "book": "leviticus",
+      "chapter": 25,
+      "status": "reviewed",
+      "target_images": 7,
+      "reason": "Terugkoop door een familielid ontbreekt naast rustjaar, terugkeer en ondersteuning. Drie schema’s onderscheiden tijdrekening, bezitsuitzonderingen en groepen in de wet.",
+      "additions": [
+        {
+          "verse": 25,
+          "scene": "Een familielid koopt de grond terug",
+          "kind": "scene",
+          "file": "25-25-uitbreiding.webp"
+        },
+        {
+          "verse": 8,
+          "file": "25-rust-en-jubeljaar.svg",
+          "scene": "Rustjaar en jubeljaar",
+          "kind": "diagram",
+          "source": "Leviticus 25:1–22"
+        },
+        {
+          "verse": 23,
+          "file": "25-grond-en-huizen.svg",
+          "scene": "Grond, huizen en terugkoop",
+          "kind": "diagram",
+          "source": "Leviticus 25:23–34"
+        },
+        {
+          "verse": 39,
+          "file": "25-mensen-en-vrijkoop.svg",
+          "scene": "Dienstbaarheid en vrijkoop",
+          "kind": "diagram",
+          "source": "Leviticus 25:35–55"
+        }
+      ]
+    },
+    {
+      "book": "leviticus",
+      "chapter": 26,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "De graanvoorraad is een concrete andere belofte. Twee leeswijzers onderscheiden beloften, oplopende waarschuwingen en het slot over belijdenis; geen fictieve historische rampbeelden.",
+      "additions": [
+        {
+          "verse": 10,
+          "scene": "Plaats voor de nieuwe oogst",
+          "kind": "scene",
+          "file": "26-10-uitbreiding.webp"
+        },
+        {
+          "verse": 3,
+          "file": "26-verbond-en-gevolgen.svg",
+          "scene": "Verbond en gevolgen",
+          "kind": "diagram",
+          "source": "Leviticus 26:1–39"
+        },
+        {
+          "verse": 40,
+          "file": "26-belijdenis-en-verbond.svg",
+          "scene": "Belijdenis en het verbond",
+          "kind": "diagram",
+          "source": "Leviticus 26:40–45"
+        }
+      ]
+    },
+    {
+      "book": "leviticus",
+      "chapter": 21,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "De drie bestaande priestertaferelen blijven. Twee schema’s verduidelijken rouwuitzonderingen en het nadrukkelijke voedselrecht naast de grens aan de altaardienst.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "21-priesters-onderscheid.svg",
+          "scene": "Priester en hogepriester",
+          "kind": "diagram",
+          "source": "Leviticus 21:1–15"
+        },
+        {
+          "verse": 22,
+          "file": "21-voedsel-en-dienst.svg",
+          "scene": "Voedsel en altaardienst",
+          "kind": "diagram",
+          "source": "Leviticus 21:16–24"
+        }
+      ]
+    },
+    {
+      "book": "leviticus",
+      "chapter": 22,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "De bestaande maaltijd en dierenbeelden volstaan. Twee schema’s maken huishoudelijke uitzonderingen, reiniging en termijnen leesbaar.",
+      "additions": [
+        {
+          "verse": 6,
+          "file": "22-heilige-gaven.svg",
+          "scene": "Wie eet van heilige gaven?",
+          "kind": "diagram",
+          "source": "Leviticus 22:1–16"
+        },
+        {
+          "verse": 27,
+          "file": "22-dieren-en-termijnen.svg",
+          "scene": "Offerdieren en termijnen",
+          "kind": "diagram",
+          "source": "Leviticus 22:17–30"
+        }
+      ]
+    },
+    {
+      "book": "leviticus",
+      "chapter": 27,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "De bestaande huiswaardering en tienden blijven. Twee schema’s maken de exacte bedragen en verschillende terugkoopregelingen controleerbaar.",
+      "additions": [
+        {
+          "verse": 3,
+          "file": "27-waardering-bij-gelofte.svg",
+          "scene": "Bedragen bij een gelofte",
+          "kind": "diagram",
+          "source": "Leviticus 27:2–8"
+        },
+        {
+          "verse": 13,
+          "file": "27-terugkoop-en-tiende.svg",
+          "scene": "Terugkoop en de tiende",
+          "kind": "diagram",
+          "source": "Leviticus 27:9–33"
+        }
+      ]
     }
   ]
 }
