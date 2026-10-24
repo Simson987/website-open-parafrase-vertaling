@@ -4038,6 +4038,241 @@
           "source": "Numeri 36:1–12"
         }
       ]
+    },
+    {
+      "book": "deuteronomium",
+      "chapter": 1,
+      "status": "reviewed",
+      "target_images": 7,
+      "reason": "Terugkeer van de verkenners en gemopper in de tenten ontbreken naast vertrek en rechtspraak. Twee schema’s verduidelijken leiding en de opeenvolgende keuzes.",
+      "additions": [
+        {
+          "verse": 25,
+          "scene": "Terugblik: de verkenners keren terug",
+          "kind": "scene",
+          "file": "1-25-uitbreiding.webp"
+        },
+        {
+          "verse": 27,
+          "scene": "Terugblik: gemopper in de tenten",
+          "kind": "scene",
+          "file": "1-27-uitbreiding.webp"
+        },
+        {
+          "verse": 15,
+          "file": "1-leiders-en-rechters.svg",
+          "scene": "Leiders en rechtspraak",
+          "kind": "diagram",
+          "source": "Deuteronomium 1:9–18"
+        },
+        {
+          "verse": 22,
+          "file": "1-kades-keuzes.svg",
+          "scene": "De terugblik op Kades",
+          "kind": "diagram",
+          "source": "Deuteronomium 1:19–46"
+        }
+      ]
+    },
+    {
+      "book": "deuteronomium",
+      "chapter": 2,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Voedsel en water betalen is een eigen instructie naast de tocht en de Zered. Een gebiedsoverzicht maakt de verschillen tussen buren en Sihon duidelijk.",
+      "additions": [
+        {
+          "verse": 6,
+          "scene": "Voedsel en water worden gekocht",
+          "kind": "scene",
+          "file": "2-6-uitbreiding.webp"
+        },
+        {
+          "verse": 5,
+          "file": "2-gebieden-en-doortocht.svg",
+          "scene": "Gebieden en doortocht",
+          "kind": "diagram",
+          "source": "Deuteronomium 2:1–37"
+        }
+      ]
+    },
+    {
+      "book": "deuteronomium",
+      "chapter": 4,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "De herinnering aan Horeb vult onderwijs en vrijstad aan. Twee schema’s verduidelijken horen zonder gestalte en de drie exacte stadsnamen.",
+      "additions": [
+        {
+          "verse": 11,
+          "scene": "Herinnering aan Horeb",
+          "kind": "scene",
+          "file": "4-11-uitbreiding.webp"
+        },
+        {
+          "verse": 12,
+          "file": "4-horen-zonder-gestalte.svg",
+          "scene": "Horen zonder een gestalte",
+          "kind": "diagram",
+          "source": "Deuteronomium 4:9–31"
+        },
+        {
+          "verse": 43,
+          "file": "4-drie-oostelijke-vrijsteden.svg",
+          "scene": "Drie oostelijke vrijsteden",
+          "kind": "diagram",
+          "source": "Deuteronomium 4:41–43"
+        }
+      ]
+    },
+    {
+      "book": "deuteronomium",
+      "chapter": 5,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "De vraag van de oudsten om bemiddeling is een andere scène dan het algemene bijeenroepen. Een leeswijzer maakt alle tien woorden vindbaar.",
+      "additions": [
+        {
+          "verse": 27,
+          "scene": "De oudsten vragen Mozes te luisteren",
+          "kind": "scene",
+          "file": "5-27-uitbreiding.webp"
+        },
+        {
+          "verse": 6,
+          "file": "5-tien-woorden.svg",
+          "scene": "De tien woorden: leeswijzer",
+          "kind": "diagram",
+          "source": "Deuteronomium 5:6–21"
+        }
+      ]
+    },
+    {
+      "book": "deuteronomium",
+      "chapter": 6,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "De deurpost is een afzonderlijk herinneringsteken naast de bestaande drie onderwijsscènes. Een schema verbindt de genoemde contexten.",
+      "additions": [
+        {
+          "verse": 9,
+          "scene": "Woorden bij de deurpost",
+          "kind": "scene",
+          "file": "6-9-uitbreiding.webp"
+        },
+        {
+          "verse": 4,
+          "file": "6-onderwijs-en-herinnering.svg",
+          "scene": "Liefde en dagelijks onderwijs",
+          "kind": "diagram",
+          "source": "Deuteronomium 6:4–25"
+        }
+      ]
+    },
+    {
+      "book": "deuteronomium",
+      "chapter": 8,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Koper winnen ontbreekt naast manna, producten en dankbaarheid. Een schema verbindt de landbeschrijving met de waarschuwing voor hoogmoed.",
+      "additions": [
+        {
+          "verse": 9,
+          "scene": "Koper uit de bergen",
+          "kind": "scene",
+          "file": "8-9-uitbreiding.webp"
+        },
+        {
+          "verse": 2,
+          "file": "8-woestijn-en-overvloed.svg",
+          "scene": "Woestijn en overvloed",
+          "kind": "diagram",
+          "source": "Deuteronomium 8:2–20"
+        }
+      ]
+    },
+    {
+      "book": "deuteronomium",
+      "chapter": 9,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "De verwijdering van het kalf naar de beek is een eigen handeling naast berg, gebroken platen en voorbede. Een schema houdt het verloop en het argument bijeen.",
+      "additions": [
+        {
+          "verse": 21,
+          "scene": "Het vergruisde kalf gaat in de beek",
+          "kind": "scene",
+          "file": "9-21-uitbreiding.webp"
+        },
+        {
+          "verse": 9,
+          "file": "9-platen-en-voorbede.svg",
+          "scene": "Platen, opstand en voorbede",
+          "kind": "diagram",
+          "source": "Deuteronomium 9:7–29"
+        }
+      ]
+    },
+    {
+      "book": "deuteronomium",
+      "chapter": 10,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Het dragen door Levi ontbreekt naast nieuwe platen, opbergen en naastenliefde. Een schema ordent de taken en de ethische oproep.",
+      "additions": [
+        {
+          "verse": 8,
+          "scene": "Levieten dragen de ark",
+          "kind": "scene",
+          "file": "10-8-uitbreiding.webp"
+        },
+        {
+          "verse": 1,
+          "file": "10-nieuwe-platen-en-dienst.svg",
+          "scene": "Nieuwe platen en dienst",
+          "kind": "diagram",
+          "source": "Deuteronomium 10:1–22"
+        }
+      ]
+    },
+    {
+      "book": "deuteronomium",
+      "chapter": 3,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "De drie bestaande taferelen dekken erfdeel, uitzicht en bemoediging. Twee schema’s verduidelijken toewijzing en de exacte bedmaten zonder een verzonnen reuzenportret.",
+      "additions": [
+        {
+          "verse": 12,
+          "file": "3-oostelijke-erfdelen.svg",
+          "scene": "Oostelijke erfdelen",
+          "kind": "diagram",
+          "source": "Deuteronomium 3:8–20"
+        },
+        {
+          "verse": 11,
+          "file": "3-bed-van-og.svg",
+          "scene": "Het bed van Og",
+          "kind": "diagram",
+          "source": "Deuteronomium 3:11"
+        }
+      ]
+    },
+    {
+      "book": "deuteronomium",
+      "chapter": 7,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "De bestaande heiliging, generaties en oogst zijn voldoende. Een schema maakt de zeven namen en de redenering van het hoofdstuk leesbaar.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "7-volken-en-verbond.svg",
+          "scene": "De volken en het verbond",
+          "kind": "diagram",
+          "source": "Deuteronomium 7:1–26"
+        }
+      ]
     }
   ]
 }
