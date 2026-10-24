@@ -1,0 +1,769 @@
+{
+  "date": "2026-10-24",
+  "started": "2026-10-24T02:53:36Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "jozua",
+      "chapter": 11,
+      "verse": 13,
+      "scene": "Hazor wordt verbrand",
+      "alt": "Hazor wordt verbrand — Jozua 11:13",
+      "kind": "scene",
+      "file": "11-13-uitbreiding.webp",
+      "prompt": "Photorealistic educational ancient Bible image, landscape 3:2. Modest fully clothed adults, anatomically natural hands and exactly two arms each. No Roman or medieval uniforms, readable text, modern objects, watermark, human-shaped deity, injured people or animals. A distant ancient hill city with smoke rising from burning empty roof structures, seen from a safe quiet ridge. No people inside the burning city visible, no bodies, no celebratory destruction, no fantasy explosions. Illustrates Hazor as distinguished from the other hill cities in Joshua 11:13.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "jozua",
+      "chapter": 17,
+      "verse": 16,
+      "scene": "Wagens in de vlakte",
+      "alt": "Wagens in de vlakte — Jozua 17:16",
+      "kind": "scene",
+      "file": "17-16-uitbreiding.webp",
+      "prompt": "Photorealistic educational ancient Bible image, landscape 3:2. Modest fully clothed adults, anatomically natural hands and exactly two arms each. No Roman or medieval uniforms, readable text, modern objects, watermark, human-shaped deity, injured people or animals. Distant ancient Canaanite horse-drawn war chariots standing still on a broad valley plain seen from a wooded hillside, simple wooden vehicles with dark metal reinforcement, robed adult occupants. No Roman charioteer dress, modern iron vehicles, racing, charging or combat. Illustration of the concern spoken in Joshua 17:16, not a separate battle.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "jozua",
+      "chapter": 20,
+      "verse": 6,
+      "scene": "Terug naar eigen huis",
+      "alt": "Terug naar eigen huis — Jozua 20:6",
+      "kind": "scene",
+      "file": "20-6-uitbreiding.webp",
+      "prompt": "Photorealistic educational ancient Bible image, landscape 3:2. Modest fully clothed adults, anatomically natural hands and exactly two arms each. No Roman or medieval uniforms, readable text, modern objects, watermark, human-shaped deity, injured people or animals. A fully robed adult ancient Hebrew traveler returns peacefully to his own small stone house and is welcomed by his fully clothed adult family. Small travel pack, no restraints, guards or threat. Illustration of the permitted return after the conditions of the refuge-city law are met; no named historical individual.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "jozua",
+      "chapter": 11,
+      "verse": 1,
+      "file": "11-noordelijke-coalitie.svg",
+      "scene": "De noordelijke coalitie",
+      "alt": "De coalitie, het verloop en het onderscheid tussen Hazor en andere heuvelsteden.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1369,
+      "source": "Jozua 11:1–23",
+      "design": {
+        "rows": [
+          [
+            "De oproep",
+            "Jabin van Hazor roept Jobab van Madon en de koningen van Simron en Achsaf, met andere gebieden."
+          ],
+          [
+            "De verzamelplaats",
+            "Het water van Merom; veel mensen, paarden en wagens."
+          ],
+          [
+            "De overval",
+            "Jozua valt onverwacht aan; achtervolging tot Sidon, Misrefoth-Maim en het dal van Mizpa."
+          ],
+          [
+            "De steden",
+            "Hazor wordt verbrand; de andere genoemde heuvelsteden niet."
+          ],
+          [
+            "De duur en de afsluiting",
+            "Lange tijd oorlog; daarna verdeling van het land en rust."
+          ]
+        ],
+        "note": "Het hoofdstuk noemt zowel een snelle overval als een lange oorlogstijd; die duren worden niet gelijkgesteld."
+      }
+    },
+    {
+      "book": "jozua",
+      "chapter": 12,
+      "verse": 9,
+      "file": "12-koningen-1-16.svg",
+      "scene": "De 31 koningen — deel 1",
+      "alt": "De westelijke koningslijst in exacte tekstvolgorde, 1 tot 16.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "Jozua 12:9–24",
+      "design": {
+        "rows": [
+          [
+            "1–4",
+            "1. Jericho · 2. Ai bij Bethel · 3. Jeruzalem · 4. Hebron"
+          ],
+          [
+            "5–8",
+            "5. Jarmuth · 6. Lachis · 7. Eglon · 8. Gezer"
+          ],
+          [
+            "9–12",
+            "9. Debir · 10. Geder · 11. Horma · 12. Arad"
+          ],
+          [
+            "13–16",
+            "13. Libna · 14. Adullam · 15. Makkeda · 16. Bethel"
+          ]
+        ],
+        "note": "De nummers maken alleen de volgorde van de lijst zichtbaar; de tekst noemt bij iedere koning één."
+      }
+    },
+    {
+      "book": "jozua",
+      "chapter": 12,
+      "verse": 17,
+      "file": "12-koningen-17-31.svg",
+      "scene": "De 31 koningen — deel 2",
+      "alt": "De westelijke koningslijst in exacte tekstvolgorde, 17 tot 31.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "Jozua 12:9–24",
+      "design": {
+        "rows": [
+          [
+            "17–20",
+            "17. Tappuah · 18. Hefer · 19. Afek · 20. Lassaron"
+          ],
+          [
+            "21–24",
+            "21. Madon · 22. Hazor · 23. Simron-Meron · 24. Achsaf"
+          ],
+          [
+            "25–28",
+            "25. Taänach · 26. Megiddo · 27. Kedes · 28. Jokneam bij de Karmel"
+          ],
+          [
+            "29–31",
+            "29. Dor in Nafath-Dor · 30. De volken bij Gilgal · 31. Tirza"
+          ]
+        ],
+        "note": "De nummers maken alleen de volgorde van de lijst zichtbaar; de tekst noemt bij iedere koning één."
+      }
+    },
+    {
+      "book": "jozua",
+      "chapter": 12,
+      "verse": 1,
+      "file": "12-oost-en-west.svg",
+      "scene": "Oost en west van de Jordaan",
+      "alt": "De twee kanten van het hoofdstuk en de verschillende rollen van Mozes en Jozua.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1012,
+      "source": "Jozua 12:1–8",
+      "design": {
+        "rows": [
+          [
+            "Ten oosten: vers 1–6",
+            "Sihon van Hesbon en Og van Basan; door Mozes en Israël verslagen."
+          ],
+          [
+            "Het oostelijke erfdeel",
+            "Ruben, Gad en de halve stam Manasse."
+          ],
+          [
+            "Ten westen: vers 7–24",
+            "De koningen in de daaropvolgende lijst; Jozua verdeelt hun land."
+          ],
+          [
+            "De landschappen",
+            "Bergland, laagland, vlakte, hellingen, woestijn en zuiden."
+          ]
+        ],
+        "note": "Twee oostelijke koningen staan vóór de afzonderlijke lijst van 31 westelijke koningen."
+      }
+    },
+    {
+      "book": "jozua",
+      "chapter": 13,
+      "verse": 1,
+      "file": "13-nog-over-en-al-verdeeld.svg",
+      "scene": "Nog over en al verdeeld",
+      "alt": "Het verschil tussen overblijvend land, opdracht tot verdeling en eerder toegewezen erfdelen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1247,
+      "source": "Jozua 13:1–14",
+      "design": {
+        "rows": [
+          [
+            "Nog te verwerven",
+            "Filistijns gebied, Gesuri, gebieden bij Sidon, Libanon en de ingang van Hamath."
+          ],
+          [
+            "De opdracht nu",
+            "Alvast verdelen onder negen stammen en de halve stam Manasse."
+          ],
+          [
+            "Al eerder toegewezen",
+            "Ruben, Gad en de andere helft van Manasse ten oosten van de Jordaan."
+          ],
+          [
+            "Niet geheel verdreven",
+            "Gesurieten en Maächathieten wonen nog onder Israël."
+          ],
+          [
+            "Levi",
+            "Geen stamgebied: de HEERE en de offers worden als hun erfdeel genoemd."
+          ]
+        ],
+        "note": "Een toewijzing en feitelijke beheersing zijn in deze tekst niet automatisch hetzelfde."
+      }
+    },
+    {
+      "book": "jozua",
+      "chapter": 13,
+      "verse": 15,
+      "file": "13-oostelijke-toewijzing.svg",
+      "scene": "De oostelijke toewijzing",
+      "alt": "De drie oostelijke toewijzingen met onderscheid van het erfdeel van Levi.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1333,
+      "source": "Jozua 13:15–33",
+      "design": {
+        "rows": [
+          [
+            "Ruben · vers 15–23",
+            "Aroër, de hoogvlakte bij Medeba en steden van het vroegere gebied van Sihon; de Jordaan als grens."
+          ],
+          [
+            "Gad · vers 24–28",
+            "Jaëzer, steden van Gilead en het dal; tot het einde van het meer Kinnereth aan de oostzijde."
+          ],
+          [
+            "Half Manasse · vers 29–31",
+            "Basan, het rijk van Og, zestig dorpen van Jaïr en de genoemde helft van Gilead."
+          ],
+          [
+            "Machirs nakomelingen",
+            "Astharoth en Edreï bij de genoemde helft van zijn nakomelingen."
+          ],
+          [
+            "Levi · vers 33",
+            "De HEERE zelf als erfdeel."
+          ]
+        ],
+        "note": "Dit zijn samenvattende tekstankers, geen ingetekende moderne grenzen."
+      }
+    },
+    {
+      "book": "jozua",
+      "chapter": 14,
+      "verse": 7,
+      "file": "14-kaleb-leeftijd.svg",
+      "scene": "Kaleb: veertig naar vijfentachtig",
+      "alt": "De controleerbare tijdlijn van Kalebs verkenning tot de toewijzing van Hebron.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1012,
+      "source": "Jozua 14:7–14",
+      "design": {
+        "rows": [
+          [
+            "40 jaar",
+            "Toen Mozes hem vanuit Kades-Barnea als verkenner uitstuurde."
+          ],
+          [
+            "45 jaren later",
+            "De genoemde tijd sinds de belofte."
+          ],
+          [
+            "85 jaar",
+            "Kalebs leeftijd bij het verzoek om het bergland."
+          ],
+          [
+            "De uitkomst",
+            "Jozua zegent hem en geeft Hebron als erfdeel."
+          ]
+        ],
+        "note": "40 + 45 = 85. De tekst spreekt over zijn kracht zonder een nieuwe leeftijd te verzinnen."
+      }
+    },
+    {
+      "book": "jozua",
+      "chapter": 14,
+      "verse": 1,
+      "file": "14-stammen-en-verdeling.svg",
+      "scene": "Stammen en de verdeling",
+      "alt": "De verhoudingen van de landverdeling en de bijzondere plaats van Jozef en Levi.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1204,
+      "source": "Jozua 14:1–5",
+      "design": {
+        "rows": [
+          [
+            "De verdelers",
+            "Priester Eleazar, Jozua en de familiehoofden."
+          ],
+          [
+            "In Kanaän",
+            "Negen stammen en een halve stam via het lot."
+          ],
+          [
+            "Ten oosten",
+            "Twee stammen en een halve stam hadden hun erfdeel al."
+          ],
+          [
+            "Jozef telt als twee",
+            "Efraïm en Manasse vormen twee stammen."
+          ],
+          [
+            "Levi",
+            "Geen stamgebied, wel woonsteden met weidegrond."
+          ]
+        ],
+        "note": "De twee helften van Manasse horen bij dezelfde stam; Levi krijgt wel woonplaatsen."
+      }
+    },
+    {
+      "book": "jozua",
+      "chapter": 15,
+      "verse": 2,
+      "file": "15-grensankers-juda.svg",
+      "scene": "Grensankers van Juda",
+      "alt": "De vier grenszijden van Juda en enkele gecontroleerde herkenningspunten.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1290,
+      "source": "Jozua 15:2–12",
+      "design": {
+        "rows": [
+          [
+            "Zuid",
+            "Zuidpunt van de Zoutzee, langs onder meer Kades-Barnea, tot de beek van Egypte en de zee."
+          ],
+          [
+            "Oost",
+            "De Zoutzee tot aan de monding van de Jordaan."
+          ],
+          [
+            "Noord",
+            "Vanaf de Jordaanmonding langs onder meer En-Rogel, de zuidkant van Jeruzalem en Kirjath-Jearim."
+          ],
+          [
+            "Verder naar het westen",
+            "Via onder meer Beth-Semes, Timna en Jabneël naar de zee."
+          ],
+          [
+            "West",
+            "De Grote Zee met de kust."
+          ]
+        ],
+        "note": "Geselecteerde tekstankers; tussenpunten staan in de verzen. Geen schaal of moderne grenslijn."
+      }
+    },
+    {
+      "book": "jozua",
+      "chapter": 15,
+      "verse": 13,
+      "file": "15-kaleb-en-achsa.svg",
+      "scene": "Kaleb, Othniël en Achsa",
+      "alt": "De personen, onderlinge relaties en het verzoek met de dubbele bronnengave.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1204,
+      "source": "Jozua 15:13–19",
+      "design": {
+        "rows": [
+          [
+            "Kaleb",
+            "Krijgt Hebron; verdrijft Sesai, Ahiman en Talmai."
+          ],
+          [
+            "Debir",
+            "De vroegere naam is Kirjath-Sefer."
+          ],
+          [
+            "Othniël",
+            "Zoon van Kenaz, die als broer van Kaleb wordt genoemd; hij neemt de stad in."
+          ],
+          [
+            "Achsa",
+            "Dochter van Kaleb, trouwt met Othniël en vraagt waterbronnen."
+          ],
+          [
+            "De gave",
+            "Kaleb geeft de bovenste én de onderste bronnen."
+          ]
+        ],
+        "note": "Relaties en plaatsnamen volgen dit hoofdstuk; de twee soorten bronnen blijven afzonderlijk."
+      }
+    },
+    {
+      "book": "jozua",
+      "chapter": 15,
+      "verse": 20,
+      "file": "15-stedengroepen-juda.svg",
+      "scene": "De stedengroepen van Juda",
+      "alt": "De regio’s en de door het hoofdstuk zelf gegeven stedentotalen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1475,
+      "source": "Jozua 15:20–63",
+      "design": {
+        "rows": [
+          [
+            "Het zuiden · vers 21–32",
+            "Een lange naamlijst; de tekst sluit af met 29 steden met hun dorpen."
+          ],
+          [
+            "Het laagland · vers 33–44",
+            "Drie groepen met in de tekst 14, 16 en 9 steden."
+          ],
+          [
+            "De kust · vers 45–47",
+            "Ekron, Asdod en Gaza met omliggende plaatsen tot aan de beek en zee."
+          ],
+          [
+            "Het bergland · vers 48–60",
+            "Achtereenvolgens groepen van 11, 9, 10, 6 en 2 steden."
+          ],
+          [
+            "De woestijn · vers 61–62",
+            "Zes steden, waaronder de Zoutstad en Engedi."
+          ],
+          [
+            "Jeruzalem · vers 63",
+            "De Jebusieten worden niet verdreven en blijven er wonen."
+          ]
+        ],
+        "note": "Aantallen zijn de afsluitende aantallen van de tekst, niet een nieuwe telling van aliassen of naamvormen."
+      }
+    },
+    {
+      "book": "jozua",
+      "chapter": 16,
+      "verse": 1,
+      "file": "16-jozef-en-efraim.svg",
+      "scene": "Jozef en het deel van Efraïm",
+      "alt": "Het verband tussen Jozefs twee stammen, Efraïms grens en steden binnen Manasse.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1290,
+      "source": "Jozua 16:1–10",
+      "design": {
+        "rows": [
+          [
+            "Jozef",
+            "Manasse en Efraïm ontvangen hun erfdeel."
+          ],
+          [
+            "De gemeenschappelijke aanzet",
+            "Jordaan bij Jericho, omhoog naar Bethel en verder richting Gezer en zee."
+          ],
+          [
+            "Het deel van Efraïm",
+            "Eigen grensverloop met onder meer Beth-Horon, Janoah, de Jordaan, Tappuah en de beek Kana."
+          ],
+          [
+            "Steden binnen Manasse",
+            "Enkele steden met dorpen zijn apart voor Efraïm."
+          ],
+          [
+            "Gezer",
+            "De Kanaänieten blijven wonen en worden tot dwangarbeid verplicht."
+          ]
+        ],
+        "note": "De tekst noemt zowel grensverloop als ingesloten steden; geen vereenvoudigde gesloten kaartvorm."
+      }
+    },
+    {
+      "book": "jozua",
+      "chapter": 17,
+      "verse": 3,
+      "file": "17-zelafeads-gezin.svg",
+      "scene": "Zelafead en zijn vijf dochters",
+      "alt": "De afstammingslijn, alle vijf namen en de toekenning van het erfdeel.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1247,
+      "source": "Jozua 17:1–6",
+      "design": {
+        "rows": [
+          [
+            "De lijn naar Zelafead",
+            "Manasse → Machir → Gilead → Hefer → Zelafead."
+          ],
+          [
+            "Zijn kinderen",
+            "Geen zonen; Machla, Noa, Hogla, Milka en Tirza."
+          ],
+          [
+            "Het verzoek",
+            "Voor Eleazar, Jozua en de leiders verwijzen zij naar het bevel aan Mozes."
+          ],
+          [
+            "De uitkomst",
+            "Een erfdeel tussen de broers van hun vader."
+          ],
+          [
+            "Tien delen",
+            "De tekst noemt tien delen voor Manasse naast Gilead en Basan in het oosten."
+          ]
+        ],
+        "note": "De naamvolgorde van de dochters volgt vers 3; aantallen gebieden zijn geen aantallen kinderen."
+      }
+    },
+    {
+      "book": "jozua",
+      "chapter": 17,
+      "verse": 7,
+      "file": "17-efraim-manasse-grens.svg",
+      "scene": "Efraïm en Manasse naast elkaar",
+      "alt": "De bijzondere grensverhoudingen en de vraag naar meer ruimte.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1247,
+      "source": "Jozua 17:7–18",
+      "design": {
+        "rows": [
+          [
+            "Beek Kana",
+            "Manasse ten noorden, Efraïm ten zuiden volgens de beschrijving."
+          ],
+          [
+            "Tappuah",
+            "Het land is van Manasse, de stad zelf van Efraïm."
+          ],
+          [
+            "Verspreide steden",
+            "Manasse heeft steden binnen Issaschar en Aser; inwoners blijven wonen."
+          ],
+          [
+            "Het bezwaar",
+            "Het huis van Jozef vraagt meer ruimte en noemt ijzeren wagens in de vlakte."
+          ],
+          [
+            "Jozua’s antwoord",
+            "Ruimte in het beboste bergland maken en de sterke tegenstanders verdrijven."
+          ]
+        ],
+        "note": "De ruimtelijke verhoudingen volgen de tekst; ze vervangen geen volledige geografische kaart."
+      }
+    },
+    {
+      "book": "jozua",
+      "chapter": 18,
+      "verse": 1,
+      "file": "18-silo-en-zeven-delen.svg",
+      "scene": "Silo en de zeven delen",
+      "alt": "De procedure van landbeschrijving tot loting in Silo.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1240,
+      "source": "Jozua 18:1–11",
+      "design": {
+        "rows": [
+          [
+            "De ontmoetingsplaats",
+            "De ontmoetingstent wordt in Silo opgericht."
+          ],
+          [
+            "De zeven stammen",
+            "Hun erfdeel is nog niet verdeeld."
+          ],
+          [
+            "De verkenners",
+            "Drie mannen per stam worden uitgezonden om het land te beschrijven."
+          ],
+          [
+            "De beschrijving",
+            "Stad voor stad in een boek, verdeeld in zeven delen."
+          ],
+          [
+            "Het lot",
+            "Terug in Silo werpt Jozua het lot; Benjamin krijgt het eerste deel."
+          ]
+        ],
+        "note": "Drie mannen per stam is de opdrachtformulering; er wordt geen niet genoemd totaal aan mannen toegevoegd."
+      }
+    },
+    {
+      "book": "jozua",
+      "chapter": 18,
+      "verse": 11,
+      "file": "18-benjamin-steden.svg",
+      "scene": "Benjamin: twee stedengroepen",
+      "alt": "Alle 26 genoemde steden in twee groepen en de ligging van Benjamin.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1035,
+      "source": "Jozua 18:11–28",
+      "design": {
+        "rows": [
+          [
+            "De ligging",
+            "Tussen Juda en het huis van Jozef; de Jordaan is de oostgrens."
+          ],
+          [
+            "Eerste twaalf · vers 21–24",
+            "Jericho · Beth-Hogla · Emek-Keziz · Beth-Araba · Zemaraïm · Bethel · Haävvim · Para · Ofra · Chefar-Haämmonai · Ofni · Gaba."
+          ],
+          [
+            "Volgende veertien · vers 25–28",
+            "Gibeon · Rama · Beëroth · Mizpe · Chefira · Moza · Rekem · Jirpeël · Tharala · Zela · Elef · Jebusi (Jeruzalem) · Gibath · Kirjath."
+          ]
+        ],
+        "note": "De twee groepen en aliassen volgen de verzen; Jeruzalem wordt als alias niet dubbel geteld."
+      }
+    },
+    {
+      "book": "jozua",
+      "chapter": 19,
+      "verse": 1,
+      "file": "19-zeven-loten.svg",
+      "scene": "De zeven loten op volgorde",
+      "alt": "De exacte volgorde van de zeven stammen en de daaropvolgende gave aan Jozua.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1075,
+      "source": "Jozua 18:11 en 19:1–48",
+      "design": {
+        "rows": [
+          [
+            "Eerste lot",
+            "Benjamin — Jozua 18:11."
+          ],
+          [
+            "Tweede en derde lot",
+            "Simeon binnen Juda; daarna Zebulon."
+          ],
+          [
+            "Vierde en vijfde lot",
+            "Issaschar; daarna Aser."
+          ],
+          [
+            "Zesde en zevende lot",
+            "Nafthali; daarna Dan."
+          ],
+          [
+            "Na de loten",
+            "Jozua krijgt Timnath-Serah, op zijn verzoek, in het bergland van Efraïm."
+          ]
+        ],
+        "note": "Het eerste lot staat in het vorige hoofdstuk; de andere zes worden hier voortgezet."
+      }
+    },
+    {
+      "book": "jozua",
+      "chapter": 19,
+      "verse": 9,
+      "file": "19-bijzondere-toewijzingen.svg",
+      "scene": "Bijzondere toewijzingen",
+      "alt": "De uitzonderingen en afsluiting van de verdeling zonder gefingeerde grenzen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1326,
+      "source": "Jozua 19:1–51",
+      "design": {
+        "rows": [
+          [
+            "Simeon",
+            "Midden in Juda, omdat Juda’s toegewezen gebied te groot was."
+          ],
+          [
+            "Zebulon en Issaschar",
+            "Eigen grenzen en stedengroepen worden afzonderlijk beschreven."
+          ],
+          [
+            "Aser en Nafthali",
+            "Eigen noordelijke grens- en stedennamen; ook zee en Jordaan spelen een rol."
+          ],
+          [
+            "Dan",
+            "De stam neemt Lesem in en noemt de stad voortaan Dan."
+          ],
+          [
+            "Jozua en de voltooiing",
+            "Timnath-Serah wordt opgebouwd; in Silo bij de tent is de verdeling voltooid."
+          ]
+        ],
+        "note": "Lesem → Dan is een naamsverandering; Timnath-Serah wordt aan Jozua gegeven na de stamverdeling."
+      }
+    },
+    {
+      "book": "jozua",
+      "chapter": 20,
+      "verse": 7,
+      "file": "20-zes-vrijsteden.svg",
+      "scene": "De zes vrijsteden",
+      "alt": "De zes vrijsteden met de juiste stam en kant van de Jordaan.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1181,
+      "source": "Jozua 20:7–9",
+      "design": {
+        "rows": [
+          [
+            "West · Nafthali",
+            "Kedes in Galilea."
+          ],
+          [
+            "West · Efraïm",
+            "Sichem in het bergland."
+          ],
+          [
+            "West · Juda",
+            "Kirjath-Arba, dat is Hebron."
+          ],
+          [
+            "Oost · Ruben",
+            "Bezer op de woestijnhoogvlakte."
+          ],
+          [
+            "Oost · Gad",
+            "Ramoth in Gilead."
+          ],
+          [
+            "Oost · Manasse",
+            "Golan in Basan."
+          ]
+        ],
+        "note": "Drie aan iedere kant van de Jordaan; ook inwonende vreemdelingen hebben toegang."
+      }
+    },
+    {
+      "book": "jozua",
+      "chapter": 20,
+      "verse": 3,
+      "file": "20-vrijstad-procedure.svg",
+      "scene": "De weg door de vrijstad",
+      "alt": "De opeenvolging van opvang, onderzoek, verblijf en toegestane terugkeer.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1326,
+      "source": "Jozua 20:3–6",
+      "design": {
+        "rows": [
+          [
+            "Zonder opzet",
+            "Het beschreven geval betreft doden zonder opzet of eerdere haat."
+          ],
+          [
+            "Bij de poort",
+            "De vluchteling vertelt de oudsten wat er is gebeurd."
+          ],
+          [
+            "Opvang en bescherming",
+            "De stad geeft woonruimte; niet aan de bloedwreker uitleveren."
+          ],
+          [
+            "Rechtspraak en verblijf",
+            "Terechtstaan voor de gemeenschap; verblijf tot de dood van de hogepriester."
+          ],
+          [
+            "Daarna",
+            "Terugkeer naar eigen stad en eigen huis is toegestaan."
+          ]
+        ],
+        "note": "Opvang is niet hetzelfde als het overslaan van rechtspraak; de voorwaarden worden apart vermeld."
+      }
+    }
+  ]
+}

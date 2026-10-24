@@ -5122,6 +5122,254 @@
           "source": "Jozua 5:8–15"
         }
       ]
+    },
+    {
+      "book": "jozua",
+      "chapter": 11,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Het specifieke verschil bij Hazor ontbreekt naast leger, instructie en rust. Een schema bewaakt coalitie, tijd en plaats.",
+      "additions": [
+        {
+          "verse": 13,
+          "scene": "Hazor wordt verbrand",
+          "kind": "scene",
+          "file": "11-13-uitbreiding.webp"
+        },
+        {
+          "verse": 1,
+          "file": "11-noordelijke-coalitie.svg",
+          "scene": "De noordelijke coalitie",
+          "kind": "diagram",
+          "source": "Jozua 11:1–23"
+        }
+      ]
+    },
+    {
+      "book": "jozua",
+      "chapter": 17,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "De ijzeren wagens zijn een afzonderlijk genoemd bezwaar naast dochters, vraag en ontginning. Twee schema’s controleren afstamming en grensverhoudingen.",
+      "additions": [
+        {
+          "verse": 16,
+          "scene": "Wagens in de vlakte",
+          "kind": "scene",
+          "file": "17-16-uitbreiding.webp"
+        },
+        {
+          "verse": 3,
+          "file": "17-zelafeads-gezin.svg",
+          "scene": "Zelafead en zijn vijf dochters",
+          "kind": "diagram",
+          "source": "Jozua 17:1–6"
+        },
+        {
+          "verse": 7,
+          "file": "17-efraim-manasse-grens.svg",
+          "scene": "Efraïm en Manasse naast elkaar",
+          "kind": "diagram",
+          "source": "Jozua 17:7–18"
+        }
+      ]
+    },
+    {
+      "book": "jozua",
+      "chapter": 20,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "De terugkeer na de wettelijke voorwaarden ontbreekt naast opvang en stad. Twee schema’s controleren alle zes steden en de procedure.",
+      "additions": [
+        {
+          "verse": 6,
+          "scene": "Terug naar eigen huis",
+          "kind": "scene",
+          "file": "20-6-uitbreiding.webp"
+        },
+        {
+          "verse": 7,
+          "file": "20-zes-vrijsteden.svg",
+          "scene": "De zes vrijsteden",
+          "kind": "diagram",
+          "source": "Jozua 20:7–9"
+        },
+        {
+          "verse": 3,
+          "file": "20-vrijstad-procedure.svg",
+          "scene": "De weg door de vrijstad",
+          "kind": "diagram",
+          "source": "Jozua 20:3–6"
+        }
+      ]
+    },
+    {
+      "book": "jozua",
+      "chapter": 12,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "De drie bestaande landschappen zijn passend. Drie schema’s voegen de volledige lijst van 31 koningen en het onderscheid met twee oostelijke rijken toe.",
+      "additions": [
+        {
+          "verse": 9,
+          "file": "12-koningen-1-16.svg",
+          "scene": "De 31 koningen — deel 1",
+          "kind": "diagram",
+          "source": "Jozua 12:9–24"
+        },
+        {
+          "verse": 17,
+          "file": "12-koningen-17-31.svg",
+          "scene": "De 31 koningen — deel 2",
+          "kind": "diagram",
+          "source": "Jozua 12:9–24"
+        },
+        {
+          "verse": 1,
+          "file": "12-oost-en-west.svg",
+          "scene": "Oost en west van de Jordaan",
+          "kind": "diagram",
+          "source": "Jozua 12:1–8"
+        }
+      ]
+    },
+    {
+      "book": "jozua",
+      "chapter": 13,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Leeftijd, verdeling en Levi zijn al afgebeeld. Twee schema’s onderscheiden nog te verwerven land van toewijzing en geven de oostelijke erfdelen.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "13-nog-over-en-al-verdeeld.svg",
+          "scene": "Nog over en al verdeeld",
+          "kind": "diagram",
+          "source": "Jozua 13:1–14"
+        },
+        {
+          "verse": 15,
+          "file": "13-oostelijke-toewijzing.svg",
+          "scene": "De oostelijke toewijzing",
+          "kind": "diagram",
+          "source": "Jozua 13:15–33"
+        }
+      ]
+    },
+    {
+      "book": "jozua",
+      "chapter": 14,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Lot, verzoek en zegen zijn al passende scènes. Twee schema’s voegen de exacte leeftijden en de verhouding van stammen toe.",
+      "additions": [
+        {
+          "verse": 7,
+          "file": "14-kaleb-leeftijd.svg",
+          "scene": "Kaleb: veertig naar vijfentachtig",
+          "kind": "diagram",
+          "source": "Jozua 14:7–14"
+        },
+        {
+          "verse": 1,
+          "file": "14-stammen-en-verdeling.svg",
+          "scene": "Stammen en de verdeling",
+          "kind": "diagram",
+          "source": "Jozua 14:1–5"
+        }
+      ]
+    },
+    {
+      "book": "jozua",
+      "chapter": 15,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "De bestaande zuidgrens, Hebron en Achsa zijn voldoende scènes. Drie schema’s verduidelijken grenzen, familierelaties en de stedengroepen met teksttotalen.",
+      "additions": [
+        {
+          "verse": 2,
+          "file": "15-grensankers-juda.svg",
+          "scene": "Grensankers van Juda",
+          "kind": "diagram",
+          "source": "Jozua 15:2–12"
+        },
+        {
+          "verse": 13,
+          "file": "15-kaleb-en-achsa.svg",
+          "scene": "Kaleb, Othniël en Achsa",
+          "kind": "diagram",
+          "source": "Jozua 15:13–19"
+        },
+        {
+          "verse": 20,
+          "file": "15-stedengroepen-juda.svg",
+          "scene": "De stedengroepen van Juda",
+          "kind": "diagram",
+          "source": "Jozua 15:20–63"
+        }
+      ]
+    },
+    {
+      "book": "jozua",
+      "chapter": 16,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "De drie bestaande geografische scènes zijn voldoende. Een schema verduidelijkt de samenhang en de bijzondere steden binnen een ander erfdeel.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "16-jozef-en-efraim.svg",
+          "scene": "Jozef en het deel van Efraïm",
+          "kind": "diagram",
+          "source": "Jozua 16:1–10"
+        }
+      ]
+    },
+    {
+      "book": "jozua",
+      "chapter": 18,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Tent, beschrijving en loting zijn passend afgebeeld. Twee schema’s tonen procedure en de complete twee stedengroepen van Benjamin.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "18-silo-en-zeven-delen.svg",
+          "scene": "Silo en de zeven delen",
+          "kind": "diagram",
+          "source": "Jozua 18:1–11"
+        },
+        {
+          "verse": 11,
+          "file": "18-benjamin-steden.svg",
+          "scene": "Benjamin: twee stedengroepen",
+          "kind": "diagram",
+          "source": "Jozua 18:11–28"
+        }
+      ]
+    },
+    {
+      "book": "jozua",
+      "chapter": 19,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "De drie bestaande beelden tonen opbrengst, Jozua’s vestiging en afronding. Twee schema’s geven de lotvolgorde en bijzondere toewijzingen.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "19-zeven-loten.svg",
+          "scene": "De zeven loten op volgorde",
+          "kind": "diagram",
+          "source": "Jozua 18:11 en 19:1–48"
+        },
+        {
+          "verse": 9,
+          "file": "19-bijzondere-toewijzingen.svg",
+          "scene": "Bijzondere toewijzingen",
+          "kind": "diagram",
+          "source": "Jozua 19:1–51"
+        }
+      ]
     }
   ]
 }
