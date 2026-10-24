@@ -5370,6 +5370,117 @@
           "source": "Jozua 19:1–51"
         }
       ]
+    },
+    {
+      "book": "jozua",
+      "chapter": 22,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Het teruggebrachte verslag is een aparte gebeurtenis naast zegen, altaar en het gesprek. Een schema maakt het verschil tussen vermoeden en bedoeling duidelijk.",
+      "additions": [
+        {
+          "verse": 32,
+          "scene": "Pinehas brengt het verslag terug",
+          "kind": "scene",
+          "file": "22-32-uitbreiding.webp"
+        },
+        {
+          "verse": 10,
+          "file": "22-altaar-en-uitleg.svg",
+          "scene": "Het altaar en de uitleg",
+          "kind": "diagram",
+          "source": "Jozua 22:10–34"
+        }
+      ]
+    },
+    {
+      "book": "jozua",
+      "chapter": 24,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Het schriftelijk vastleggen is een eigen handeling naast keuze, steen en vertrek. Twee schema’s verduidelijken terugblik en de drie verschillende slotvermeldingen.",
+      "additions": [
+        {
+          "verse": 26,
+          "scene": "Jozua legt de woorden vast",
+          "kind": "scene",
+          "file": "24-26-uitbreiding.webp"
+        },
+        {
+          "verse": 2,
+          "file": "24-herinnerde-geschiedenis.svg",
+          "scene": "De herinnerde geschiedenis",
+          "kind": "diagram",
+          "source": "Jozua 24:2–13"
+        },
+        {
+          "verse": 29,
+          "file": "24-drie-slotvermeldingen.svg",
+          "scene": "Drie slotvermeldingen",
+          "kind": "diagram",
+          "source": "Jozua 24:29–33"
+        }
+      ]
+    },
+    {
+      "book": "jozua",
+      "chapter": 21,
+      "status": "reviewed",
+      "target_images": 8,
+      "reason": "De bestaande vraag, woonomgeving en rust passen. Vijf schema’s voegen de volledige stedentoewijzing en de optelling 48 toe met alle namen en bijzondere gevallen.",
+      "additions": [
+        {
+          "verse": 4,
+          "file": "21-achtenveertig-steden.svg",
+          "scene": "Samen achtenveertig steden",
+          "kind": "diagram",
+          "source": "Jozua 21:4–8 en 41–42"
+        },
+        {
+          "verse": 13,
+          "file": "21-aaron-steden.svg",
+          "scene": "De dertien steden voor Aäron",
+          "kind": "diagram",
+          "source": "Jozua 21:9–19"
+        },
+        {
+          "verse": 20,
+          "file": "21-overige-kahath-steden.svg",
+          "scene": "De overige Kahathieten",
+          "kind": "diagram",
+          "source": "Jozua 21:20–26"
+        },
+        {
+          "verse": 27,
+          "file": "21-gerson-steden.svg",
+          "scene": "De dertien steden van Gerson",
+          "kind": "diagram",
+          "source": "Jozua 21:27–33"
+        },
+        {
+          "verse": 34,
+          "file": "21-merari-steden.svg",
+          "scene": "De twaalf steden van Merari",
+          "kind": "diagram",
+          "source": "Jozua 21:34–40"
+        }
+      ]
+    },
+    {
+      "book": "jozua",
+      "chapter": 23,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "De bestaande drie toespraakbeelden zijn voldoende. Een leeswijzer voegt de waarschuwing en herkenning van beeldspraak toe.",
+      "additions": [
+        {
+          "verse": 3,
+          "file": "23-afscheidswoorden.svg",
+          "scene": "De afscheidswoorden van Jozua",
+          "kind": "diagram",
+          "source": "Jozua 23:3–16"
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,342 @@
+{
+  "date": "2026-10-24",
+  "started": "2026-10-24T02:53:36Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "jozua",
+      "chapter": 22,
+      "verse": 32,
+      "scene": "Pinehas brengt het verslag terug",
+      "alt": "Pinehas brengt het verslag terug — Jozua 22:32",
+      "kind": "scene",
+      "file": "22-32-uitbreiding.webp",
+      "prompt": "Photorealistic educational ancient Bible scene, landscape 3:2, fully modestly robed Hebrew adults, natural hands and exactly two arms each. No modern object, Roman uniform, readable text, watermark, visible deity, injuries or bodies. An adult Hebrew priest in modest complete linen robes returns with adult clan leaders to a peaceful Israelite assembly by a cloth camp at Shiloh. He reports reassuring news, listeners visibly relax. No altar in foreground, threats, battle, extravagant later temple or invented manuscript.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "jozua",
+      "chapter": 24,
+      "verse": 26,
+      "scene": "Jozua legt de woorden vast",
+      "alt": "Jozua legt de woorden vast — Jozua 24:26",
+      "kind": "scene",
+      "file": "24-26-uitbreiding.webp",
+      "prompt": "Photorealistic educational ancient Bible scene, landscape 3:2, fully modestly robed Hebrew adults, natural hands and exactly two arms each. No modern object, Roman uniform, readable text, watermark, visible deity, injuries or bodies. Elderly Joshua in a modest full woven robe carefully records the covenant words on a parchment scroll at a low table beneath an oak tree near Shechem. Small out-of-focus ancient writing, gathered community at a distance, a large upright natural stone nearby. No modern book or lettering, no invented quotation.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "jozua",
+      "chapter": 21,
+      "verse": 4,
+      "file": "21-achtenveertig-steden.svg",
+      "scene": "Samen achtenveertig steden",
+      "alt": "De vier toewijzingsgroepen en hun controleerbare optelling tot 48 steden.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1204,
+      "source": "Jozua 21:4–8 en 41–42",
+      "design": {
+        "rows": [
+          [
+            "Aärons nakomelingen",
+            "Kahathieten: 13 steden uit Juda, Simeon en Benjamin."
+          ],
+          [
+            "Overige Kahathieten",
+            "10 steden uit Efraïm, Dan en half Manasse."
+          ],
+          [
+            "Gersonieten",
+            "13 steden uit Issaschar, Aser, Nafthali en half Manasse in Basan."
+          ],
+          [
+            "Merarieten",
+            "12 steden uit Ruben, Gad en Zebulon."
+          ],
+          [
+            "Totaal",
+            "13 + 10 + 13 + 12 = 48; iedere stad heeft weidegronden."
+          ]
+        ],
+        "note": "Aärons nakomelingen zijn onderdeel van Kahath, niet een vierde zoon van Levi."
+      }
+    },
+    {
+      "book": "jozua",
+      "chapter": 21,
+      "verse": 13,
+      "file": "21-aaron-steden.svg",
+      "scene": "De dertien steden voor Aäron",
+      "alt": "Alle dertien steden en het onderscheid tussen Hebron en Kalebs omliggende bezit.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 942,
+      "source": "Jozua 21:9–19",
+      "design": {
+        "rows": [
+          [
+            "Uit Juda en Simeon · negen",
+            "Hebron · Libna · Jatthir · Esthemoa · Holon · Debir · Ain · Jutta · Beth-Semes."
+          ],
+          [
+            "Uit Benjamin · vier",
+            "Gibeon · Geba · Anathoth · Almon."
+          ],
+          [
+            "Bij Hebron",
+            "De stad en weidegronden voor de priesters; het omliggende land en dorpen voor Kaleb."
+          ]
+        ],
+        "note": "De tekst behandelt Juda en Simeon samen; de negen steden worden hier niet alsnog over die twee verdeeld."
+      }
+    },
+    {
+      "book": "jozua",
+      "chapter": 21,
+      "verse": 20,
+      "file": "21-overige-kahath-steden.svg",
+      "scene": "De overige Kahathieten",
+      "alt": "De tien toewijzingen aan de overige Kahathieten, gegroepeerd naar stam.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 962,
+      "source": "Jozua 21:20–26",
+      "design": {
+        "rows": [
+          [
+            "Efraïm · vier",
+            "Sichem · Gezer · Kibzaïm · Beth-Horon."
+          ],
+          [
+            "Dan · vier",
+            "Elteke · Gibbethon · Ajalon · Gath-Rimmon."
+          ],
+          [
+            "Half Manasse · twee",
+            "Taänach · Gath-Rimmon."
+          ],
+          [
+            "Samen",
+            "Tien steden met hun weidegronden."
+          ]
+        ],
+        "note": "Gath-Rimmon staat in de plaatselijke tekst zowel bij Dan als bij half Manasse; beide vermeldingen blijven behouden."
+      }
+    },
+    {
+      "book": "jozua",
+      "chapter": 21,
+      "verse": 27,
+      "file": "21-gerson-steden.svg",
+      "scene": "De dertien steden van Gerson",
+      "alt": "De dertien steden voor Gerson in de vier genoemde stamgebieden.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 926,
+      "source": "Jozua 21:27–33",
+      "design": {
+        "rows": [
+          [
+            "Half Manasse · twee",
+            "Golan in Basan · Beesthera."
+          ],
+          [
+            "Issaschar · vier",
+            "Kisjon · Dobrath · Jarmuth · En-Gannim."
+          ],
+          [
+            "Aser · vier",
+            "Misal · Abdon · Helkath · Rehob."
+          ],
+          [
+            "Nafthali · drie",
+            "Kedes in Galilea · Hammoth-Dor · Karthan."
+          ]
+        ],
+        "note": "Alle genoemde steden hebben weidegronden; Golan en Kedes zijn tevens vrijsteden."
+      }
+    },
+    {
+      "book": "jozua",
+      "chapter": 21,
+      "verse": 34,
+      "file": "21-merari-steden.svg",
+      "scene": "De twaalf steden van Merari",
+      "alt": "De twaalf steden van Merari, vier per genoemde stam.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 962,
+      "source": "Jozua 21:34–40",
+      "design": {
+        "rows": [
+          [
+            "Zebulon · vier",
+            "Jokneam · Kartha · Dimna · Nahalal."
+          ],
+          [
+            "Ruben · vier",
+            "Bezer · Jahza · Kedemoth · Mefaäth."
+          ],
+          [
+            "Gad · vier",
+            "Ramoth in Gilead · Mahanaïm · Hesbon · Jaëzer."
+          ],
+          [
+            "Samen",
+            "Twaalf steden met hun weidegronden."
+          ]
+        ],
+        "note": "Namen en telling volgen deze vertaling; Bezer en Ramoth horen ook bij de vrijsteden van hoofdstuk 20."
+      }
+    },
+    {
+      "book": "jozua",
+      "chapter": 22,
+      "verse": 10,
+      "file": "22-altaar-en-uitleg.svg",
+      "scene": "Het altaar en de uitleg",
+      "alt": "De aanleiding, het gesprek en de vreedzame oplossing van het altaarmisverstand.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1204,
+      "source": "Jozua 22:10–34",
+      "design": {
+        "rows": [
+          [
+            "Wat men ziet en hoort",
+            "Een groot altaar bij de Jordaan; vrees voor ontrouw en een tweede offerplaats."
+          ],
+          [
+            "Eerst een afvaardiging",
+            "Pinehas en tien leiders gaan luisteren."
+          ],
+          [
+            "Wat de bouwers bedoelen",
+            "Een getuige voor latere generaties dat beide kanten bij de HEERE horen."
+          ],
+          [
+            "Wat het niet dient",
+            "Geen eigen plaats voor brandoffers, graanoffers of dankoffers."
+          ],
+          [
+            "De uitkomst",
+            "Pinehas brengt verslag; Israël ziet af van oorlog en looft God."
+          ]
+        ],
+        "note": "Het vermoeden van de toehoorders wordt van de door de bouwers gegeven bedoeling onderscheiden."
+      }
+    },
+    {
+      "book": "jozua",
+      "chapter": 23,
+      "verse": 3,
+      "file": "23-afscheidswoorden.svg",
+      "scene": "De afscheidswoorden van Jozua",
+      "alt": "De opbouw van terugblik, oproep en waarschuwing, met herkenning van beeldspraak.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1283,
+      "source": "Jozua 23:3–16",
+      "design": {
+        "rows": [
+          [
+            "Terugblik",
+            "De HEERE heeft gestreden en de goede beloften gehouden."
+          ],
+          [
+            "Wat nog volgt",
+            "Overblijvende volken worden nog genoemd naast het toegewezen erfdeel."
+          ],
+          [
+            "De oproep",
+            "De wet nauwkeurig doen; liefhebben en zich aan de HEERE vasthouden."
+          ],
+          [
+            "De waarschuwing",
+            "Afval en het dienen van andere goden brengen verlies van het goede land."
+          ],
+          [
+            "De beelden",
+            "Valstrik, net, zweep en doorns verwoorden de aangekondigde gevolgen."
+          ]
+        ],
+        "note": "De waarschuwing staat naast de herinnering aan vervulde beloften; beide horen bij Jozua’s toespraak."
+      }
+    },
+    {
+      "book": "jozua",
+      "chapter": 24,
+      "verse": 2,
+      "file": "24-herinnerde-geschiedenis.svg",
+      "scene": "De herinnerde geschiedenis",
+      "alt": "De chronologische hoofdlijn van de historische terugblik in Jozua 24.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1283,
+      "source": "Jozua 24:2–13",
+      "design": {
+        "rows": [
+          [
+            "De voorouders",
+            "Terah, Abraham en Nahor; Abraham wordt geroepen en krijgt Izak."
+          ],
+          [
+            "Izak en zijn zonen",
+            "Jakob en Ezau; Ezau krijgt Seïr, Jakob en zijn zonen gaan naar Egypte."
+          ],
+          [
+            "Mozes en Aäron",
+            "Plagen, uittocht, zee en de lange tijd in de woestijn."
+          ],
+          [
+            "Ten oosten van de Jordaan",
+            "Amorieten; Balak en Bileam, waarbij vloek in zegen verandert."
+          ],
+          [
+            "Ten westen",
+            "Overtocht, Jericho en andere volken; steden en opbrengst als ontvangen gave."
+          ]
+        ],
+        "note": "Dit is de geschiedenis die in de toespraak wordt herinnerd, geen reeks nieuwe gebeurtenissen in Sichem."
+      }
+    },
+    {
+      "book": "jozua",
+      "chapter": 24,
+      "verse": 29,
+      "file": "24-drie-slotvermeldingen.svg",
+      "scene": "Drie slotvermeldingen",
+      "alt": "De drie afzonderlijke begrafenisvermeldingen met gecontroleerde leeftijden en familierelaties.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1177,
+      "source": "Jozua 24:29–33",
+      "design": {
+        "rows": [
+          [
+            "Jozua",
+            "Sterft op 110-jarige leeftijd; begraven in zijn eigen Timnath-Serah, ten noorden van de berg Gaäs."
+          ],
+          [
+            "Jozefs beenderen",
+            "Uit Egypte meegenomen, nu begraven in Sichem op het eerder door Jakob gekochte land."
+          ],
+          [
+            "Eleazar",
+            "Zoon van Aäron; begraven op de heuvel van zijn zoon Pinehas in Efraïm."
+          ],
+          [
+            "De tussenliggende getuigenis",
+            "Israël dient de HEERE in de dagen van Jozua en de oudsten die hem overleven."
+          ]
+        ],
+        "note": "Dit zijn drie verschillende personen en plaatsen; er wordt geen gezamenlijk graf getekend."
+      }
+    }
+  ]
+}
