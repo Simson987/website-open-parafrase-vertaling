@@ -4875,6 +4875,253 @@
           "source": "Deuteronomium 33:18–29"
         }
       ]
+    },
+    {
+      "book": "jozua",
+      "chapter": 2,
+      "status": "reviewed",
+      "target_images": 7,
+      "reason": "Afdalen, verbergen in de bergen en het verslag zijn drie eigen gebeurtenissen naast vlas, eed en koord. Een schema legt voorwaarden en volgorde vast.",
+      "additions": [
+        {
+          "verse": 15,
+          "scene": "De verkenners dalen af",
+          "kind": "scene",
+          "file": "2-15-uitbreiding.webp"
+        },
+        {
+          "verse": 22,
+          "scene": "Drie dagen in het gebergte",
+          "kind": "scene",
+          "file": "2-22-uitbreiding.webp"
+        },
+        {
+          "verse": 23,
+          "scene": "De verkenners brengen verslag uit",
+          "kind": "scene",
+          "file": "2-23-uitbreiding.webp"
+        },
+        {
+          "verse": 14,
+          "file": "2-eed-en-ontsnapping.svg",
+          "scene": "De eed en de ontsnapping",
+          "kind": "diagram",
+          "source": "Jozua 2:14–24"
+        }
+      ]
+    },
+    {
+      "book": "jozua",
+      "chapter": 3,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Het eerste contact met water ontbreekt naast oproep en droge overtocht. Een schema corrigeert de ruimtelijke lezing van de verre waterwal en de afstand.",
+      "additions": [
+        {
+          "verse": 15,
+          "scene": "De voeten raken het water",
+          "kind": "scene",
+          "file": "3-15-uitbreiding.webp"
+        },
+        {
+          "verse": 3,
+          "file": "3-volgorde-overtocht.svg",
+          "scene": "De volgorde bij de overtocht",
+          "kind": "diagram",
+          "source": "Jozua 3:3–17"
+        }
+      ]
+    },
+    {
+      "book": "jozua",
+      "chapter": 4,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "De terugkeer van het rivierwater is een aparte gebeurtenis. Een schema maakt onderscheid tussen de twee groepen van twaalf stenen.",
+      "additions": [
+        {
+          "verse": 18,
+          "scene": "Het Jordaanwater keert terug",
+          "kind": "scene",
+          "file": "4-18-uitbreiding.webp"
+        },
+        {
+          "verse": 3,
+          "file": "4-twee-groepen-stenen.svg",
+          "scene": "Twee groepen van twaalf stenen",
+          "kind": "diagram",
+          "source": "Jozua 4:3–9 en 19–24"
+        }
+      ]
+    },
+    {
+      "book": "jozua",
+      "chapter": 6,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Het apart brengen van de metalen is een eigen gebeurtenis naast rondgang, muur en redding. Een schema verduidelijkt zeven dagen, ronden, hoorns en stilte.",
+      "additions": [
+        {
+          "verse": 24,
+          "scene": "De metalen worden apart gebracht",
+          "kind": "scene",
+          "file": "6-24-uitbreiding.webp"
+        },
+        {
+          "verse": 3,
+          "file": "6-zeven-dagen.svg",
+          "scene": "Zes dagen en de zevende dag",
+          "kind": "diagram",
+          "source": "Jozua 6:3–20"
+        }
+      ]
+    },
+    {
+      "book": "jozua",
+      "chapter": 7,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "De verkenning vóór de mislukking ontbreekt naast verootmoediging, bekentenis en vondst. Twee schema’s controleren afstamming en exacte voorwerpen met gewichten.",
+      "additions": [
+        {
+          "verse": 2,
+          "scene": "Verkenners bekijken Ai",
+          "kind": "scene",
+          "file": "7-2-uitbreiding.webp"
+        },
+        {
+          "verse": 1,
+          "file": "7-achans-afstamming.svg",
+          "scene": "De afstamming van Achan",
+          "kind": "diagram",
+          "source": "Jozua 7:1 en 16–18"
+        },
+        {
+          "verse": 21,
+          "file": "7-bekentenis-en-vondst.svg",
+          "scene": "Bekentenis en vondst",
+          "kind": "diagram",
+          "source": "Jozua 7:21–23"
+        }
+      ]
+    },
+    {
+      "book": "jozua",
+      "chapter": 8,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "De wachttijd in de hinderlaag ontbreekt bij de uitsluitend op Ebal gerichte bestaande scènes. Twee schema’s geven aanvalsfases en de latere wetlezing weer.",
+      "additions": [
+        {
+          "verse": 9,
+          "scene": "De hinderlaag ten westen van Ai",
+          "kind": "scene",
+          "file": "8-9-uitbreiding.webp"
+        },
+        {
+          "verse": 3,
+          "file": "8-hinderlaag-en-aanval.svg",
+          "scene": "De hinderlaag bij Ai",
+          "kind": "diagram",
+          "source": "Jozua 8:3–22"
+        },
+        {
+          "verse": 30,
+          "file": "8-ebal-en-de-wet.svg",
+          "scene": "Ebal en de woorden van de wet",
+          "kind": "diagram",
+          "source": "Jozua 8:30–35"
+        }
+      ]
+    },
+    {
+      "book": "jozua",
+      "chapter": 9,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "De vraag naar het bedrog is een nieuwe fase naast voorwendsel, eed en werkzaamheden. Een schema bewaakt volgorde en de vier steden.",
+      "additions": [
+        {
+          "verse": 22,
+          "scene": "Jozua vraagt naar het bedrog",
+          "kind": "scene",
+          "file": "9-22-uitbreiding.webp"
+        },
+        {
+          "verse": 14,
+          "file": "9-list-eed-en-gevolg.svg",
+          "scene": "List, eed en gevolg",
+          "kind": "diagram",
+          "source": "Jozua 9:3–27"
+        }
+      ]
+    },
+    {
+      "book": "jozua",
+      "chapter": 10,
+      "status": "reviewed",
+      "target_images": 7,
+      "reason": "Hagel en de bewaakte grot zijn aparte gebeurtenissen naast hulpvraag, nachtmars en gebed. Twee schema’s verduidelijken koningen en stedenvolgorde.",
+      "additions": [
+        {
+          "verse": 11,
+          "scene": "Hagel op de helling",
+          "kind": "scene",
+          "file": "10-11-uitbreiding.webp"
+        },
+        {
+          "verse": 18,
+          "scene": "De grot wordt bewaakt",
+          "kind": "scene",
+          "file": "10-18-uitbreiding.webp"
+        },
+        {
+          "verse": 3,
+          "file": "10-vijf-koninkrijken.svg",
+          "scene": "De vijf aanvallende koningen",
+          "kind": "diagram",
+          "source": "Jozua 10:3–6"
+        },
+        {
+          "verse": 28,
+          "file": "10-zuidelijke-veldtocht.svg",
+          "scene": "De verdere veldtocht",
+          "kind": "diagram",
+          "source": "Jozua 10:28–43"
+        }
+      ]
+    },
+    {
+      "book": "jozua",
+      "chapter": 1,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "De bestaande Jordaanblik, wetlezing en proviand zijn passend. De nog niet zichtbare afspraak met de oostelijke stammen krijgt een schema.",
+      "additions": [
+        {
+          "verse": 12,
+          "file": "1-hulp-over-de-jordaan.svg",
+          "scene": "Hulp over de Jordaan",
+          "kind": "diagram",
+          "source": "Jozua 1:12–18"
+        }
+      ]
+    },
+    {
+      "book": "jozua",
+      "chapter": 5,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "De drie bestaande beelden dekken pascha, koren en sandalen. Een tijdlijn geeft herstel en de precieze overgang van manna naar landopbrengst weer.",
+      "additions": [
+        {
+          "verse": 8,
+          "file": "5-gilgal-tijdlijn.svg",
+          "scene": "De eerste dagen in Gilgal",
+          "kind": "diagram",
+          "source": "Jozua 5:8–15"
+        }
+      ]
     }
   ]
 }
