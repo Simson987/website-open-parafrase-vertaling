@@ -3,7 +3,48 @@
   "started": "2026-10-24T01:54:08Z",
   "mode": "built-in rasters and native SVG schemas",
   "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
-  "metadata_corrections": [],
+  "metadata_corrections": [
+    {
+      "book": "numeri",
+      "file": "6-15.webp",
+      "before": {
+        "chapter": 6,
+        "verse": 15,
+        "file": "6-15.webp",
+        "alt": "Beeld bij Numeri 6: Een korf ongezuurde koeken",
+        "scene": "Een korf ongezuurde koeken"
+      },
+      "after": {
+        "chapter": 6,
+        "verse": 15,
+        "file": "6-15.webp",
+        "alt": "Beeld bij Numeri 6: Een korf ongezuurde koeken",
+        "scene": "Een korf ongezuurde koeken",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "De bestaande achtergrond toonde een stenen tempel; dit voorschrift staat bij de tabernakel in de woestijn."
+    },
+    {
+      "book": "numeri",
+      "file": "6-blessing.webp",
+      "before": {
+        "chapter": 6,
+        "file": "6-blessing.webp",
+        "alt": "Een priester zegent gezinnen in het kamp",
+        "scene": "De priesterlijke zegen"
+      },
+      "after": {
+        "chapter": 6,
+        "file": "6-blessing.webp",
+        "alt": "Een priester zegent gezinnen in het kamp",
+        "scene": "De priesterlijke zegen",
+        "verse": 24
+      },
+      "reason": "De bestaande zegen hoort bij de zegenwoorden vanaf vers 24."
+    }
+  ],
   "images": [
     {
       "book": "numeri",
@@ -801,6 +842,16 @@
         ],
         "note": "De ark die voor hen uitgaat wordt in verzen 33–36 afzonderlijk beschreven."
       }
+    }
+  ],
+  "revised_images": [
+    {
+      "book": "numeri",
+      "chapter": 6,
+      "verse": 15,
+      "file": "6-15.webp",
+      "prompt": "Edit this Bible illustration of Numeri 6:15. Preserve the foreground basket with the two kinds of unleavened cakes, ceramic jug, grain and the existing adults. Replace ALL stone columns, masonry temple walls and architecture in the background with the CLOTH tabernacle of the Sinai wilderness and plain linen courtyard curtains, sandy desert and distant rocky hills. Keep the altar and fully robed priest plausible in the cloth sanctuary courtyard. Photorealistic, same landscape framing, natural anatomy, no lettering, no stone temple or city.",
+      "reason": "De bestaande achtergrond toonde een stenen tempel; dit voorschrift staat bij de tabernakel in de woestijn."
     }
   ]
 }
