@@ -1,0 +1,806 @@
+{
+  "date": "2026-10-24",
+  "started": "2026-10-24T01:54:08Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "numeri",
+      "chapter": 6,
+      "verse": 13,
+      "scene": "Een nazireeër voltooit haar gelofte",
+      "alt": "Een nazireeër voltooit haar gelofte — Numeri 6:13",
+      "kind": "scene",
+      "file": "6-13-uitbreiding.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible educational illustration, landscape 3:2, Sinai desert camp with CLOTH tabernacle and linen curtains, no stone temple or city. All adults fully modestly robed, accurate hands and two arms each, no text or watermark, no human-shaped deity. A fully clothed adult Hebrew woman with long natural hair, head and hair visible without bodily exposure, stands respectfully beside a fully robed adult priest at the entrance of the cloth sanctuary at the end of her Nazirite vow. She holds a simple basket with unleavened bread, healthy sheep stand separately nearby, no shaving action, blades, blood or wine.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "numeri",
+      "chapter": 8,
+      "verse": 7,
+      "scene": "De Levieten wassen hun kleding",
+      "alt": "De Levieten wassen hun kleding — Numeri 8:7",
+      "kind": "scene",
+      "file": "8-7-uitbreiding.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible educational illustration, landscape 3:2, Sinai desert camp with CLOTH tabernacle and linen curtains, no stone temple or city. All adults fully modestly robed, accurate hands and two arms each, no text or watermark, no human-shaped deity. A group of fully clothed adult Hebrew Levite men wash folded spare linen garments in large ceramic basins outdoors beside their desert tents, calm ritual preparation. Every person remains completely clothed. No naked bathing, wounds, shaving blades or modern tubs.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "numeri",
+      "chapter": 9,
+      "verse": 17,
+      "scene": "De wolk stijgt en het kamp breekt op",
+      "alt": "De wolk stijgt en het kamp breekt op — Numeri 9:17",
+      "kind": "scene",
+      "file": "9-17-uitbreiding.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible educational illustration, landscape 3:2, Sinai desert camp with CLOTH tabernacle and linen curtains, no stone temple or city. All adults fully modestly robed, accurate hands and two arms each, no text or watermark, no human-shaped deity. Wide daytime view of fully clothed Hebrew families folding tent cloth and packing baskets as a single luminous natural cloud rises above the distant cloth tabernacle; sandy Sinai camp, clear direction of movement, no fire, face or bodily form in the cloud.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "numeri",
+      "chapter": 10,
+      "verse": 3,
+      "scene": "Twee trompetten roepen het volk",
+      "alt": "Twee trompetten roepen het volk — Numeri 10:3",
+      "kind": "scene",
+      "file": "10-3-uitbreiding.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible educational illustration, landscape 3:2, Sinai desert camp with CLOTH tabernacle and linen curtains, no stone temple or city. All adults fully modestly robed, accurate hands and two arms each, no text or watermark, no human-shaped deity. Exactly two fully robed adult priests side by side each blows one simple LONG STRAIGHT SILVER TRUMPET, two trumpets total, gathered fully clothed Hebrew adults in the background near the cloth sanctuary entrance, natural instrument grips and hands, no ram horns or other instruments.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "numeri",
+      "chapter": 1,
+      "verse": 20,
+      "file": "1-telling-per-stam.svg",
+      "scene": "De telling per stam",
+      "alt": "De twaalf getelde stammen met hun afzonderlijke aantallen en het totaal van 603.550.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 2111,
+      "source": "Numeri 1:20–49",
+      "design": {
+        "rows": [
+          [
+            "Ruben",
+            "46.500 getelde mannen."
+          ],
+          [
+            "Simeon",
+            "59.300 getelde mannen."
+          ],
+          [
+            "Gad",
+            "45.650 getelde mannen."
+          ],
+          [
+            "Juda",
+            "74.600 getelde mannen."
+          ],
+          [
+            "Issaschar",
+            "54.400 getelde mannen."
+          ],
+          [
+            "Zebulon",
+            "57.400 getelde mannen."
+          ],
+          [
+            "Efraïm",
+            "40.500 getelde mannen."
+          ],
+          [
+            "Manasse",
+            "32.200 getelde mannen."
+          ],
+          [
+            "Benjamin",
+            "35.400 getelde mannen."
+          ],
+          [
+            "Dan",
+            "62.700 getelde mannen."
+          ],
+          [
+            "Aser",
+            "41.500 getelde mannen."
+          ],
+          [
+            "Nafthali",
+            "53.400 getelde mannen."
+          ]
+        ],
+        "note": "Mannen van twintig jaar en ouder die in het leger kunnen dienen: totaal 603.550. Levi wordt apart gehouden."
+      }
+    },
+    {
+      "book": "numeri",
+      "chapter": 1,
+      "verse": 5,
+      "file": "1-twaalf-leiders.svg",
+      "scene": "De twaalf aangewezen leiders",
+      "alt": "De twaalf stamleiders met hun vaders, zoals aangewezen om Mozes en Aäron te helpen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 2075,
+      "source": "Numeri 1:5–16",
+      "design": {
+        "rows": [
+          [
+            "Ruben",
+            "Elizur — zoon van Sedeür"
+          ],
+          [
+            "Simeon",
+            "Selumiël — zoon van Zurisaddai"
+          ],
+          [
+            "Juda",
+            "Nahesson — zoon van Amminadab"
+          ],
+          [
+            "Issaschar",
+            "Nethaneël — zoon van Zuar"
+          ],
+          [
+            "Zebulon",
+            "Eliab — zoon van Helon"
+          ],
+          [
+            "Efraïm",
+            "Elisama — zoon van Ammihud"
+          ],
+          [
+            "Manasse",
+            "Gamaliël — zoon van Pedazur"
+          ],
+          [
+            "Benjamin",
+            "Abidan — zoon van Gideoni"
+          ],
+          [
+            "Dan",
+            "Ahiëzer — zoon van Ammisaddai"
+          ],
+          [
+            "Aser",
+            "Pagiël — zoon van Ochran"
+          ],
+          [
+            "Gad",
+            "Eljasaf — zoon van Dehuël"
+          ],
+          [
+            "Nafthali",
+            "Ahira — zoon van Enan"
+          ]
+        ],
+        "note": "Namen en vadernamen volgen de plaatselijke tekst van Numeri 1."
+      }
+    },
+    {
+      "book": "numeri",
+      "chapter": 2,
+      "verse": 9,
+      "file": "2-vertrekvolgorde.svg",
+      "scene": "Volgorde van de kampgroepen",
+      "alt": "De vier kampgroepen en hun totalen, met de Levieten in het midden.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1111,
+      "source": "Numeri 2:9–31",
+      "design": {
+        "rows": [
+          [
+            "Eerste: Juda",
+            "Juda, Issaschar en Zebulon: 186.400."
+          ],
+          [
+            "Tweede: Ruben",
+            "Ruben, Simeon en Gad: 151.450."
+          ],
+          [
+            "In het midden",
+            "De ontmoetingstent met het kamp van de Levieten."
+          ],
+          [
+            "Derde: Efraïm",
+            "Efraïm, Manasse en Benjamin: 108.100."
+          ],
+          [
+            "Laatste: Dan",
+            "Dan, Aser en Nafthali: 157.600."
+          ]
+        ],
+        "note": "Dit is de groepsvolgorde uit Numeri 2; hoofdstuk 10 beschrijft de draaggroepen bij het vertrek nader."
+      }
+    },
+    {
+      "book": "numeri",
+      "chapter": 2,
+      "verse": 2,
+      "file": "2-kamp-richtingen.svg",
+      "scene": "Het kamp rondom de ontmoetingstent",
+      "alt": "Richtingsschema met Dan in het noorden, Juda in het oosten, Ruben in het zuiden en Efraïm in het westen, met de Levieten rondom de tent.",
+      "kind": "diagram",
+      "width": 1100,
+      "height": 1140,
+      "source": "Numeri 2:1–34",
+      "design": {
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"1100\" height=\"1140\" viewBox=\"0 0 1100 1140\" role=\"img\"><title>Het kamp rondom de ontmoetingstent</title><rect width=\"1100\" height=\"1140\" fill=\"#f7f5e9\"/><text x=\"550\" y=\"65\" text-anchor=\"middle\" font-family=\"DejaVu Sans\" font-size=\"40\" font-weight=\"700\" fill=\"#20483e\">Het kamp rondom de tent</text><text x=\"550\" y=\"110\" text-anchor=\"middle\" font-family=\"DejaVu Sans\" font-size=\"27\" font-weight=\"400\" fill=\"#20483e\">Numeri 2:1–34</text><rect x=\"300\" y=\"160\" width=\"500\" height=\"190\" rx=\"18\" fill=\"white\" stroke=\"#9db3a7\" stroke-width=\"2\"/><text x=\"550.0\" y=\"205\" text-anchor=\"middle\" font-family=\"DejaVu Sans\" font-size=\"30\" font-weight=\"700\" fill=\"#20483e\">NOORD — Dan</text><text x=\"550.0\" y=\"247\" text-anchor=\"middle\" font-family=\"DejaVu Sans\" font-size=\"30\" font-weight=\"400\" fill=\"#20483e\">Dan · Aser · Nafthali</text><text x=\"550.0\" y=\"289\" text-anchor=\"middle\" font-family=\"DejaVu Sans\" font-size=\"30\" font-weight=\"400\" fill=\"#20483e\">157.600</text><rect x=\"30\" y=\"400\" width=\"340\" height=\"230\" rx=\"18\" fill=\"white\" stroke=\"#9db3a7\" stroke-width=\"2\"/><text x=\"200.0\" y=\"445\" text-anchor=\"middle\" font-family=\"DejaVu Sans\" font-size=\"30\" font-weight=\"700\" fill=\"#20483e\">WEST — Efraïm</text><text x=\"200.0\" y=\"487\" text-anchor=\"middle\" font-family=\"DejaVu Sans\" font-size=\"30\" font-weight=\"400\" fill=\"#20483e\">Efraïm · Manasse</text><text x=\"200.0\" y=\"529\" text-anchor=\"middle\" font-family=\"DejaVu Sans\" font-size=\"30\" font-weight=\"400\" fill=\"#20483e\">Benjamin</text><text x=\"200.0\" y=\"571\" text-anchor=\"middle\" font-family=\"DejaVu Sans\" font-size=\"30\" font-weight=\"400\" fill=\"#20483e\">108.100</text><rect x=\"730\" y=\"400\" width=\"340\" height=\"230\" rx=\"18\" fill=\"white\" stroke=\"#9db3a7\" stroke-width=\"2\"/><text x=\"900.0\" y=\"445\" text-anchor=\"middle\" font-family=\"DejaVu Sans\" font-size=\"30\" font-weight=\"700\" fill=\"#20483e\">OOST — Juda</text><text x=\"900.0\" y=\"487\" text-anchor=\"middle\" font-family=\"DejaVu Sans\" font-size=\"30\" font-weight=\"400\" fill=\"#20483e\">Juda · Issaschar</text><text x=\"900.0\" y=\"529\" text-anchor=\"middle\" font-family=\"DejaVu Sans\" font-size=\"30\" font-weight=\"400\" fill=\"#20483e\">Zebulon</text><text x=\"900.0\" y=\"571\" text-anchor=\"middle\" font-family=\"DejaVu Sans\" font-size=\"30\" font-weight=\"400\" fill=\"#20483e\">186.400</text><rect x=\"400\" y=\"420\" width=\"300\" height=\"190\" rx=\"18\" fill=\"white\" stroke=\"#9db3a7\" stroke-width=\"2\"/><text x=\"550.0\" y=\"465\" text-anchor=\"middle\" font-family=\"DejaVu Sans\" font-size=\"30\" font-weight=\"700\" fill=\"#20483e\">Ontmoetingstent</text><text x=\"550.0\" y=\"507\" text-anchor=\"middle\" font-family=\"DejaVu Sans\" font-size=\"30\" font-weight=\"400\" fill=\"#20483e\">Levieten rondom</text><text x=\"550.0\" y=\"549\" text-anchor=\"middle\" font-family=\"DejaVu Sans\" font-size=\"30\" font-weight=\"400\" fill=\"#20483e\">het heiligdom</text><rect x=\"300\" y=\"720\" width=\"500\" height=\"190\" rx=\"18\" fill=\"white\" stroke=\"#9db3a7\" stroke-width=\"2\"/><text x=\"550.0\" y=\"765\" text-anchor=\"middle\" font-family=\"DejaVu Sans\" font-size=\"30\" font-weight=\"700\" fill=\"#20483e\">ZUID — Ruben</text><text x=\"550.0\" y=\"807\" text-anchor=\"middle\" font-family=\"DejaVu Sans\" font-size=\"30\" font-weight=\"400\" fill=\"#20483e\">Ruben · Simeon · Gad</text><text x=\"550.0\" y=\"849\" text-anchor=\"middle\" font-family=\"DejaVu Sans\" font-size=\"30\" font-weight=\"400\" fill=\"#20483e\">151.450</text><text x=\"550\" y=\"990\" text-anchor=\"middle\" font-family=\"DejaVu Sans\" font-size=\"31\" font-weight=\"700\" fill=\"#20483e\">Totaal getelde mannen: 603.550</text><text x=\"550\" y=\"1040\" text-anchor=\"middle\" font-family=\"DejaVu Sans\" font-size=\"25\" font-weight=\"400\" fill=\"#20483e\">Schematische richtingen; geen afstanden of stamaantallen op schaal.</text><text x=\"550\" y=\"1085\" text-anchor=\"middle\" font-family=\"DejaVu Sans\" font-size=\"25\" font-weight=\"400\" fill=\"#20483e\">De Levieten vallen buiten deze legertelling.</text></svg>"
+      }
+    },
+    {
+      "book": "numeri",
+      "chapter": 3,
+      "verse": 17,
+      "file": "3-families-van-levi.svg",
+      "scene": "Levi en zijn families",
+      "alt": "De drie zonen van Levi, hun zonen, kampzijden en taken.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1247,
+      "source": "Numeri 3:17–38",
+      "design": {
+        "rows": [
+          [
+            "Gerson",
+            "Zonen: Libni en Simeï. Westkant; tentkleden, gordijnen en touwen."
+          ],
+          [
+            "Kahath",
+            "Zonen: Amram, Izhar, Hebron en Uzziël. Zuidkant; heilige voorwerpen."
+          ],
+          [
+            "Merari",
+            "Zonen: Maheli en Musi. Noordkant; planken, balken, palen en voetstukken."
+          ],
+          [
+            "Aan de oostkant",
+            "Mozes, Aäron en zijn zonen bij de ingang van de ontmoetingstent."
+          ],
+          [
+            "Toezicht",
+            "Eleazar, zoon van Aäron, houdt toezicht op de dienst aan het heiligdom."
+          ]
+        ],
+        "note": "De namen volgen Numeri 3; andere hoofdstukken gebruiken ook de schrijfwijze Kehath."
+      }
+    },
+    {
+      "book": "numeri",
+      "chapter": 3,
+      "verse": 43,
+      "file": "3-eerstgeborenen-losgeld.svg",
+      "scene": "Eerstgeborenen en losgeld",
+      "alt": "De vergelijking en exacte berekening van het losgeld voor de 273 overgebleven eerstgeborenen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1240,
+      "source": "Numeri 3:39–51",
+      "design": {
+        "rows": [
+          [
+            "De genoemde totalen",
+            "22.000 Levieten tegenover 22.273 mannelijke eerstgeborenen, vanaf één maand."
+          ],
+          [
+            "Het verschil",
+            "22.273 − 22.000 = 273 eerstgeborenen."
+          ],
+          [
+            "Per persoon",
+            "Vijf heiligdomssikkels, ongeveer 55 gram zilver."
+          ],
+          [
+            "Samen",
+            "273 × 5 = 1.365 heiligdomssikkels."
+          ],
+          [
+            "De overdracht",
+            "Mozes geeft het losgeld aan Aäron en zijn zonen."
+          ]
+        ],
+        "note": "Dit gebruikt het totaal uit vers 39 en de daaropvolgende berekening; de familietellingen worden hier niet opgeteld."
+      }
+    },
+    {
+      "book": "numeri",
+      "chapter": 4,
+      "verse": 5,
+      "file": "4-voorwerpen-inpakken.svg",
+      "scene": "Eerst bedekken, dan dragen",
+      "alt": "De volgorde en verschillende lagen bij het inpakken van heilige voorwerpen voor de reis.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1290,
+      "source": "Numeri 4:5–20",
+      "design": {
+        "rows": [
+          [
+            "Aäron en zijn zonen",
+            "Bedekken de heilige voorwerpen vóór de dragers binnenkomen."
+          ],
+          [
+            "Ark en tafel",
+            "Ark: voorhangsel, dekkleed, blauw. Tafel: blauw, scharlaken en dekkleed."
+          ],
+          [
+            "Kandelaar en gouden altaar",
+            "Blauw kleed en dekkleed; de kandelaar gaat op een draagbaar."
+          ],
+          [
+            "Offeraltaar",
+            "As verwijderen, purperen kleed, gereedschap en dekkleed."
+          ],
+          [
+            "Daarna de Kohathieten",
+            "Dragen de ingepakte voorwerpen zonder ze rechtstreeks aan te raken of bij het inpakken toe te kijken."
+          ]
+        ],
+        "note": "De afzonderlijke taken van priesters en dragers blijven onderscheiden."
+      }
+    },
+    {
+      "book": "numeri",
+      "chapter": 4,
+      "verse": 34,
+      "file": "4-draaggroepen-aantallen.svg",
+      "scene": "De getelde draaggroepen",
+      "alt": "Taken en aantallen van de drie groepen, met de leeftijdsgrens en het totaal.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1141,
+      "source": "Numeri 4:22–49",
+      "design": {
+        "rows": [
+          [
+            "Kohathieten: 2.750",
+            "Zorg en draagtaak voor de heilige voorwerpen."
+          ],
+          [
+            "Gersonieten: 2.630",
+            "Tentkleden, gordijnen, dekkleden en touwen; toezicht door Ithamar."
+          ],
+          [
+            "Merarieten: 3.200",
+            "Planken, balken, palen, voetstukken en voorhofbenodigdheden; toezicht door Ithamar."
+          ],
+          [
+            "Totaal: 8.580",
+            "Mannen van dertig tot en met vijftig jaar, ieder met zijn eigen taak en draaglast."
+          ]
+        ],
+        "note": "Dit is de diensttelling van Numeri 4, niet de telling vanaf één maand uit hoofdstuk 3."
+      }
+    },
+    {
+      "book": "numeri",
+      "chapter": 5,
+      "verse": 6,
+      "file": "5-schade-en-jaloezie.svg",
+      "scene": "Schadeherstel en verdenking",
+      "alt": "De regeling voor schadevergoeding en het onderscheid tussen verdenking, schuld en onschuld.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1290,
+      "source": "Numeri 5:5–31",
+      "design": {
+        "rows": [
+          [
+            "Schade aan de naaste",
+            "Schuld belijden, volledig vergoeden en een vijfde toevoegen."
+          ],
+          [
+            "Zonder naaste verwant",
+            "Het bedrag komt aan de priester; daarnaast een ram als verzoeningsoffer."
+          ],
+          [
+            "Verdenking van ontrouw",
+            "De tekst beschrijft ook de mogelijkheid dat de vrouw onschuldig is."
+          ],
+          [
+            "De beschreven procedure",
+            "Priester, gerstemeel zonder olie of wierook, eed en het water met stof."
+          ],
+          [
+            "Twee uitkomsten",
+            "De tekst onderscheidt schuld van onschuld; de onschuldige blijft ongedeerd."
+          ]
+        ],
+        "note": "Een leeswijzer bij de historische procedure, zonder vernederende of lichamelijke beelden."
+      }
+    },
+    {
+      "book": "numeri",
+      "chapter": 6,
+      "verse": 2,
+      "file": "6-nazireeer-tijdlijn.svg",
+      "scene": "De nazireeërsgelofte",
+      "alt": "De regels, mogelijke onderbreking en afsluiting van de nazireeërsgelofte voor mannen en vrouwen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1333,
+      "source": "Numeri 6:2–21",
+      "design": {
+        "rows": [
+          [
+            "Voor man of vrouw",
+            "Een bijzondere periode van toewijding aan de HEERE."
+          ],
+          [
+            "Tijdens de periode",
+            "Niets van de wijnstok, het haar laten groeien en niet bij een dode komen."
+          ],
+          [
+            "Bij onverwachte verontreiniging",
+            "Reiniging, offers en een nieuwe volledige periode; de vorige dagen tellen niet mee."
+          ],
+          [
+            "Bij de voltooiing",
+            "Mannelijk lam, ooilam, ram en ongezuurde koeken; de voorgeschreven handelingen bij de tent."
+          ],
+          [
+            "Na de afsluiting",
+            "De tekst staat weer toe wijn te drinken."
+          ]
+        ],
+        "note": "Het schema onderscheidt een onderbroken gelofte van een voltooide gelofte."
+      }
+    },
+    {
+      "book": "numeri",
+      "chapter": 6,
+      "verse": 24,
+      "file": "6-priesterzegen.svg",
+      "scene": "De priesterlijke zegen",
+      "alt": "De drie regels van de priesterlijke zegen, gegroepeerd naar bescherming, genade en vrede.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1048,
+      "source": "Numeri 6:22–27",
+      "design": {
+        "rows": [
+          [
+            "Zegen en bescherming",
+            "Moge de HEERE u zegenen en beschermen."
+          ],
+          [
+            "Licht en genade",
+            "Moge de HEERE Zijn aangezicht over u laten stralen en u genadig zijn."
+          ],
+          [
+            "Toewending en vrede",
+            "Moge de HEERE Zijn aangezicht naar u toekeren en u vrede geven."
+          ],
+          [
+            "De opdracht",
+            "Aäron en zijn zonen leggen zo Gods naam op de Israëlieten."
+          ]
+        ],
+        "note": "De drie zegenregels worden als tekst zichtbaar gemaakt; Gods aangezicht wordt niet letterlijk afgebeeld."
+      }
+    },
+    {
+      "book": "numeri",
+      "chapter": 7,
+      "verse": 12,
+      "file": "7-twaalf-gavedagen.svg",
+      "scene": "Twaalf dagen van gaven",
+      "alt": "De twaalf dagen, stammen en leiders bij de inwijding van het altaar.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 2075,
+      "source": "Numeri 7:12–83",
+      "design": {
+        "rows": [
+          [
+            "Dag 1 — Juda",
+            "Nahesson — zoon van Amminadab"
+          ],
+          [
+            "Dag 2 — Issaschar",
+            "Nethaneël — zoon van Zuar"
+          ],
+          [
+            "Dag 3 — Zebulon",
+            "Eliab — zoon van Helon"
+          ],
+          [
+            "Dag 4 — Ruben",
+            "Elizur — zoon van Sedeür"
+          ],
+          [
+            "Dag 5 — Simeon",
+            "Selumiël — zoon van Zurisaddai"
+          ],
+          [
+            "Dag 6 — Gad",
+            "Eljasaf — zoon van Dehuël"
+          ],
+          [
+            "Dag 7 — Efraïm",
+            "Elisama — zoon van Ammihud"
+          ],
+          [
+            "Dag 8 — Manasse",
+            "Gamaliël — zoon van Pedazur"
+          ],
+          [
+            "Dag 9 — Benjamin",
+            "Abidan — zoon van Gideoni"
+          ],
+          [
+            "Dag 10 — Dan",
+            "Ahiëzer — zoon van Ammisaddai"
+          ],
+          [
+            "Dag 11 — Aser",
+            "Pagiël — zoon van Ochran"
+          ],
+          [
+            "Dag 12 — Nafthali",
+            "Ahira — zoon van Enan"
+          ]
+        ],
+        "note": "Elke stamleider brengt op zijn eigen dag dezelfde beschreven gave."
+      }
+    },
+    {
+      "book": "numeri",
+      "chapter": 7,
+      "verse": 7,
+      "file": "7-wagens-verdeling.svg",
+      "scene": "De verdeling van de wagens",
+      "alt": "De exacte verdeling van zes wagens en twaalf runderen over de Levietengroepen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1012,
+      "source": "Numeri 7:3–9",
+      "design": {
+        "rows": [
+          [
+            "Samen gebracht",
+            "Zes overdekte wagens en twaalf runderen."
+          ],
+          [
+            "Gerson",
+            "Twee wagens en vier runderen."
+          ],
+          [
+            "Merari",
+            "Vier wagens en acht runderen; onder leiding van Ithamar."
+          ],
+          [
+            "Kehath",
+            "Geen wagens: zij dragen de heilige voorwerpen op hun schouders."
+          ]
+        ],
+        "note": "De verdeling hangt samen met de verschillende draagtaken."
+      }
+    },
+    {
+      "book": "numeri",
+      "chapter": 7,
+      "verse": 13,
+      "file": "7-gave-per-leider.svg",
+      "scene": "De gave per stamleider",
+      "alt": "De inhoud van de herhaalde gave per stamleider, zonder twaalf vrijwel gelijke scènes te maken.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1134,
+      "source": "Numeri 7:13–17, 84–88",
+      "design": {
+        "rows": [
+          [
+            "Zilver en goud",
+            "Schaal circa 1,4 kilo en sprengbekken circa 770 gram, met meel en olie; gouden schaal circa 110 gram met reukwerk."
+          ],
+          [
+            "Brandoffer",
+            "Eén jonge stier, één ram en één eenjarig lam."
+          ],
+          [
+            "Zondoffer",
+            "Eén geitenbok."
+          ],
+          [
+            "Dankoffer",
+            "Twee runderen, vijf rammen, vijf bokken en vijf eenjarige lammeren."
+          ]
+        ],
+        "note": "Iedere leider brengt dezelfde gave; het hoofdstuk noemt daarna de totalen voor twaalf leiders."
+      }
+    },
+    {
+      "book": "numeri",
+      "chapter": 8,
+      "verse": 6,
+      "file": "8-wijding-en-leeftijd.svg",
+      "scene": "Wijding en diensttijd",
+      "alt": "De inwijding van de Levieten en de leeftijdsbepalingen van Numeri 8, onderscheiden van hoofdstuk 4.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1283,
+      "source": "Numeri 8:6–26",
+      "design": {
+        "rows": [
+          [
+            "Reinigen",
+            "Reinigingswater, scheren en de kleding wassen."
+          ],
+          [
+            "Gemeenschap en offers",
+            "Handoplegging, twee jonge stieren en het aanbieden van de Levieten."
+          ],
+          [
+            "Hun plaats",
+            "Gegeven aan Aäron en zijn zonen in plaats van Israëls eerstgeborenen."
+          ],
+          [
+            "Vanaf vijfentwintig jaar",
+            "Begin van de dienst bij de ontmoetingstent."
+          ],
+          [
+            "Vanaf vijftig jaar",
+            "Stoppen met het werk zelf; wel helpen met de wacht."
+          ]
+        ],
+        "note": "Numeri 8 noemt vijfentwintig jaar; de draagtaaktelling van hoofdstuk 4 noemt dertig tot en met vijftig."
+      }
+    },
+    {
+      "book": "numeri",
+      "chapter": 9,
+      "verse": 10,
+      "file": "9-pascha-tweede-maand.svg",
+      "scene": "Pascha en de tweede maand",
+      "alt": "De vaste paschatijd en de bijzondere regeling voor de tweede maand.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1247,
+      "source": "Numeri 9:1–14",
+      "design": {
+        "rows": [
+          [
+            "Vaste tijd",
+            "Veertiende dag van de eerste maand, tegen de avond."
+          ],
+          [
+            "De uitzondering",
+            "Onrein door een dode of ver weg op reis."
+          ],
+          [
+            "De tweede gelegenheid",
+            "Veertiende dag van de tweede maand, tegen de avond."
+          ],
+          [
+            "Dezelfde voorschriften",
+            "Ongezuurd brood, bittere kruiden, niets tot de morgen en geen bot breken."
+          ],
+          [
+            "Eén regel",
+            "Ook voor de vreemdeling die het pascha wil vieren."
+          ]
+        ],
+        "note": "De uitzondering is geen willekeurige verplaatsing van het pascha."
+      }
+    },
+    {
+      "book": "numeri",
+      "chapter": 9,
+      "verse": 17,
+      "file": "9-wolk-en-reis.svg",
+      "scene": "De wolk en het reizen",
+      "alt": "De beslisregel voor blijven, vertrekken en opnieuw kamperen onder de wolk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1118,
+      "source": "Numeri 9:15–23",
+      "design": {
+        "rows": [
+          [
+            "Overdag en in de nacht",
+            "Overdag de wolk; in de avond iets dat op vuur lijkt."
+          ],
+          [
+            "De wolk blijft",
+            "Het kamp blijft op zijn plaats."
+          ],
+          [
+            "De wolk stijgt",
+            "De Israëlieten breken op."
+          ],
+          [
+            "De wolk daalt neer",
+            "Daar slaan zij hun kamp op."
+          ],
+          [
+            "Geen vaste verblijfsduur",
+            "Eén nacht, dagen, een maand of langer: de wolk bepaalt het vertrek."
+          ]
+        ],
+        "note": "Een schema van de herhaalde reisregel, geen extra gebeurtenis die de tekst niet vertelt."
+      }
+    },
+    {
+      "book": "numeri",
+      "chapter": 10,
+      "verse": 3,
+      "file": "10-trompetsignalen.svg",
+      "scene": "De trompetsignalen",
+      "alt": "De verschillende signalen van één of twee zilveren trompetten en wie ze blaast.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1161,
+      "source": "Numeri 10:1–10",
+      "design": {
+        "rows": [
+          [
+            "Beide trompetten",
+            "De hele gemeenschap komt bijeen bij de ingang van de tent."
+          ],
+          [
+            "Eén trompet",
+            "De leiders komen bijeen."
+          ],
+          [
+            "Alarmsignalen",
+            "Eerste: oostkampen vertrekken. Tweede: zuidkampen vertrekken."
+          ],
+          [
+            "Ook bij andere gelegenheden",
+            "Oorlog, feestdagen, vaste feesten en het begin van de maand."
+          ],
+          [
+            "Wie blaast",
+            "De priesters, Aärons zonen."
+          ]
+        ],
+        "note": "Bijeenroepen en het alarmsignaal voor opbreken zijn onderscheiden."
+      }
+    },
+    {
+      "book": "numeri",
+      "chapter": 10,
+      "verse": 14,
+      "file": "10-groepen-op-reis.svg",
+      "scene": "De groepen op reis",
+      "alt": "De vertrekdatum en de precieze volgorde van stammen en draaggroepen in Numeri 10.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1204,
+      "source": "Numeri 10:11–28",
+      "design": {
+        "rows": [
+          [
+            "Datum en vertrek",
+            "Jaar twee, tweede maand, dag twintig; van Sinaï richting Paran."
+          ],
+          [
+            "Juda, dan het tentmateriaal",
+            "Juda met Issaschar en Zebulon; daarna Gerson en Merari met de tabernakel."
+          ],
+          [
+            "Ruben, dan de heilige voorwerpen",
+            "Ruben met Simeon en Gad; daarna de Kehathieten."
+          ],
+          [
+            "Efraïm",
+            "Efraïm, Manasse en Benjamin."
+          ],
+          [
+            "De achterhoede",
+            "Dan, Aser en Nafthali sluiten de kampgroepen af."
+          ]
+        ],
+        "note": "De ark die voor hen uitgaat wordt in verzen 33–36 afzonderlijk beschreven."
+      }
+    }
+  ]
+}

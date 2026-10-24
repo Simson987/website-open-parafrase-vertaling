@@ -3167,6 +3167,253 @@
           "source": "Leviticus 27:9–33"
         }
       ]
+    },
+    {
+      "book": "numeri",
+      "chapter": 6,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "De gelofte geldt ook voor vrouwen; een eigen voltooiingsscène vult de man met lang haar aan. Tijdlijn en zegen worden leesbaar uitgewerkt. Een foutieve stenen achtergrond bij het bestaande broodbeeld wordt gecorrigeerd.",
+      "additions": [
+        {
+          "verse": 13,
+          "scene": "Een nazireeër voltooit haar gelofte",
+          "kind": "scene",
+          "file": "6-13-uitbreiding.webp"
+        },
+        {
+          "verse": 2,
+          "file": "6-nazireeer-tijdlijn.svg",
+          "scene": "De nazireeërsgelofte",
+          "kind": "diagram",
+          "source": "Numeri 6:2–21"
+        },
+        {
+          "verse": 24,
+          "file": "6-priesterzegen.svg",
+          "scene": "De priesterlijke zegen",
+          "kind": "diagram",
+          "source": "Numeri 6:22–27"
+        }
+      ]
+    },
+    {
+      "book": "numeri",
+      "chapter": 8,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Kleding wassen is een afzonderlijke inwijdingshandeling naast lampen, handoplegging en oudere helpers. Een schema onderscheidt inwijding en leeftijd.",
+      "additions": [
+        {
+          "verse": 7,
+          "scene": "De Levieten wassen hun kleding",
+          "kind": "scene",
+          "file": "8-7-uitbreiding.webp"
+        },
+        {
+          "verse": 6,
+          "file": "8-wijding-en-leeftijd.svg",
+          "scene": "Wijding en diensttijd",
+          "kind": "diagram",
+          "source": "Numeri 8:6–26"
+        }
+      ]
+    },
+    {
+      "book": "numeri",
+      "chapter": 9,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Het opbreken bij de stijgende wolk ontbreekt naast de maaltijd, vraag en nachtelijke vuurgloed. Twee schema’s verduidelijken kalenderuitzondering en reisregel.",
+      "additions": [
+        {
+          "verse": 17,
+          "scene": "De wolk stijgt en het kamp breekt op",
+          "kind": "scene",
+          "file": "9-17-uitbreiding.webp"
+        },
+        {
+          "verse": 10,
+          "file": "9-pascha-tweede-maand.svg",
+          "scene": "Pascha en de tweede maand",
+          "kind": "diagram",
+          "source": "Numeri 9:1–14"
+        },
+        {
+          "verse": 17,
+          "file": "9-wolk-en-reis.svg",
+          "scene": "De wolk en het reizen",
+          "kind": "diagram",
+          "source": "Numeri 9:15–23"
+        }
+      ]
+    },
+    {
+      "book": "numeri",
+      "chapter": 10,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "De oproep door twee blazende priesters ontbreekt naast de voorwerpen, reis en Hobab. Twee schema’s ordenen signalen en draaggroepen.",
+      "additions": [
+        {
+          "verse": 3,
+          "scene": "Twee trompetten roepen het volk",
+          "kind": "scene",
+          "file": "10-3-uitbreiding.webp"
+        },
+        {
+          "verse": 3,
+          "file": "10-trompetsignalen.svg",
+          "scene": "De trompetsignalen",
+          "kind": "diagram",
+          "source": "Numeri 10:1–10"
+        },
+        {
+          "verse": 14,
+          "file": "10-groepen-op-reis.svg",
+          "scene": "De groepen op reis",
+          "kind": "diagram",
+          "source": "Numeri 10:11–28"
+        }
+      ]
+    },
+    {
+      "book": "numeri",
+      "chapter": 1,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "De drie bestaande scènes dekken registratie, tabernakelzorg en vaandels. Exacte aantallen en vadernamen vragen twee leesbare overzichten.",
+      "additions": [
+        {
+          "verse": 20,
+          "file": "1-telling-per-stam.svg",
+          "scene": "De telling per stam",
+          "kind": "diagram",
+          "source": "Numeri 1:20–49"
+        },
+        {
+          "verse": 5,
+          "file": "1-twaalf-leiders.svg",
+          "scene": "De twaalf aangewezen leiders",
+          "kind": "diagram",
+          "source": "Numeri 1:5–16"
+        }
+      ]
+    },
+    {
+      "book": "numeri",
+      "chapter": 2,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Een ruimtelijk richtingsschema en een afzonderlijke vertrekvolgorde verduidelijken de bestaande kamp- en reistaferelen.",
+      "additions": [
+        {
+          "verse": 9,
+          "file": "2-vertrekvolgorde.svg",
+          "scene": "Volgorde van de kampgroepen",
+          "kind": "diagram",
+          "source": "Numeri 2:9–31"
+        },
+        {
+          "verse": 2,
+          "file": "2-kamp-richtingen.svg",
+          "scene": "Het kamp rondom de ontmoetingstent",
+          "kind": "diagram",
+          "source": "Numeri 2:1–34"
+        }
+      ]
+    },
+    {
+      "book": "numeri",
+      "chapter": 3,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "De bestaande voorstelling, bewaking en losgeldbetaling blijven. Familiebanden, taken en de berekening van de 273 worden exact uitgewerkt.",
+      "additions": [
+        {
+          "verse": 17,
+          "file": "3-families-van-levi.svg",
+          "scene": "Levi en zijn families",
+          "kind": "diagram",
+          "source": "Numeri 3:17–38"
+        },
+        {
+          "verse": 43,
+          "file": "3-eerstgeborenen-losgeld.svg",
+          "scene": "Eerstgeborenen en losgeld",
+          "kind": "diagram",
+          "source": "Numeri 3:39–51"
+        }
+      ]
+    },
+    {
+      "book": "numeri",
+      "chapter": 4,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "De drie draagtaferelen volstaan; twee schema’s onderscheiden inpakvolgorde, taakgroepen, leeftijd en aantallen.",
+      "additions": [
+        {
+          "verse": 5,
+          "file": "4-voorwerpen-inpakken.svg",
+          "scene": "Eerst bedekken, dan dragen",
+          "kind": "diagram",
+          "source": "Numeri 4:5–20"
+        },
+        {
+          "verse": 34,
+          "file": "4-draaggroepen-aantallen.svg",
+          "scene": "De getelde draaggroepen",
+          "kind": "diagram",
+          "source": "Numeri 4:22–49"
+        }
+      ]
+    },
+    {
+      "book": "numeri",
+      "chapter": 5,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "De bestaande vergoeding, gave en gerstemeel blijven. Een leeswijzer maakt uitzonderingen en het verschil tussen verdenking en bewezen schuld zichtbaar.",
+      "additions": [
+        {
+          "verse": 6,
+          "file": "5-schade-en-jaloezie.svg",
+          "scene": "Schadeherstel en verdenking",
+          "kind": "diagram",
+          "source": "Numeri 5:5–31"
+        }
+      ]
+    },
+    {
+      "book": "numeri",
+      "chapter": 7,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "De drie bestaande scènes volstaan. Dagen en namen, wagenverdeling en de gelijke gave vragen aparte schema’s in plaats van twaalf herhaalde scènes.",
+      "additions": [
+        {
+          "verse": 12,
+          "file": "7-twaalf-gavedagen.svg",
+          "scene": "Twaalf dagen van gaven",
+          "kind": "diagram",
+          "source": "Numeri 7:12–83"
+        },
+        {
+          "verse": 7,
+          "file": "7-wagens-verdeling.svg",
+          "scene": "De verdeling van de wagens",
+          "kind": "diagram",
+          "source": "Numeri 7:3–9"
+        },
+        {
+          "verse": 13,
+          "file": "7-gave-per-leider.svg",
+          "scene": "De gave per stamleider",
+          "kind": "diagram",
+          "source": "Numeri 7:13–17, 84–88"
+        }
+      ]
     }
   ]
 }
