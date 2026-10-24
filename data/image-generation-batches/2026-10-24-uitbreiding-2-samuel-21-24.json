@@ -1,0 +1,533 @@
+{
+  "date": "2026-10-24",
+  "started": "2026-10-24T22:33:42Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "2samuel",
+      "chapter": 21,
+      "verse": 10,
+      "scene": "Rizpa waakt op de rots",
+      "alt": "Rizpa waakt op de rots — 2 Samuël 21:10",
+      "kind": "scene",
+      "file": "21-10-inhoudelijk.webp",
+      "prompt": "Use case: historical or poetic Bible illustration as explicitly specified. Photorealistic landscape 3:2, ancient Israel, natural hands and exactly two arms each, modest woven robes on all people. No modern objects, Roman uniforms, readable text, watermark, visible deity, nudity or graphic injury. A respectful solemn portrait of adult fully modestly robed grieving mother Rizpah keeping watch on a rocky hillside beside a rough mourning cloth spread on the stone, looking up at circling distant birds with determined sorrow. Frame only HER AND ROCK/CLOTH, no bodies, graves, hanging people, violence or children visible. Ordinary daylight, no supernatural person.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2samuel",
+      "chapter": 21,
+      "verse": 17,
+      "scene": "Davids mannen willen hem beschermen",
+      "alt": "Davids mannen willen hem beschermen — 2 Samuël 21:17",
+      "kind": "scene",
+      "file": "21-17-inhoudelijk.webp",
+      "prompt": "Use case: historical or poetic Bible illustration as explicitly specified. Photorealistic landscape 3:2, ancient Israel, natural hands and exactly two arms each, modest woven robes on all people. No modern objects, Roman uniforms, readable text, watermark, visible deity, nudity or graphic injury. An exhausted fully robed older David sits at the edge of an ancient encampment while adult fully robed Abishai and two companions earnestly ask him to stay safe and no longer accompany them. Supportive concerned faces, no battle, armed attacker, injury, blood or triumphant pose.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2samuel",
+      "chapter": 22,
+      "verse": 20,
+      "scene": "Ruimte na de benauwdheid",
+      "alt": "Poëtische illustratie van de ruimte na de benauwdheid in Davids lied — 2 Samuël 22:20",
+      "kind": "poetic",
+      "file": "22-20-inhoudelijk.webp",
+      "prompt": "Use case: historical or poetic Bible illustration as explicitly specified. Photorealistic landscape 3:2, ancient Israel, natural hands and exactly two arms each, modest woven robes on all people. No modern objects, Roman uniforms, readable text, watermark, visible deity, nudity or graphic injury. POETIC landscape illustrating metaphor in David’s song: a broad spacious sunlit valley opens beyond a narrow shaded rocky footpath, ancient Judean hills and tranquil air, no people, divine hands, battle or modern objects. Photographic natural light, restrained hopeful symbolism, not a claimed separate historical event.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2samuel",
+      "chapter": 23,
+      "verse": 4,
+      "scene": "Morgenlicht na de regen",
+      "alt": "Poëtische vergelijking van rechtvaardig bestuur met morgenlicht en jong gras na regen — 2 Samuël 23:4",
+      "kind": "poetic",
+      "file": "23-4-inhoudelijk.webp",
+      "prompt": "Use case: historical or poetic Bible illustration as explicitly specified. Photorealistic landscape 3:2, ancient Israel, natural hands and exactly two arms each, modest woven robes on all people. No modern objects, Roman uniforms, readable text, watermark, visible deity, nudity or graphic injury. POETIC metaphor illustration, not historical reconstruction: fresh young grass glistens after rain as the morning sun rises into a clear cloudless sky over ancient Judean hills. No people, deity, crown, battle or animals. Photographic macro foreground with broad landscape depth, natural subtle light.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2samuel",
+      "chapter": 24,
+      "verse": 13,
+      "scene": "Gad legt de keuze voor",
+      "alt": "Gad legt de keuze voor — 2 Samuël 24:13",
+      "kind": "scene",
+      "file": "24-13-inhoudelijk.webp",
+      "prompt": "Use case: historical or poetic Bible illustration as explicitly specified. Photorealistic landscape 3:2, ancient Israel, natural hands and exactly two arms each, modest woven robes on all people. No modern objects, Roman uniforms, readable text, watermark, visible deity, nudity or graphic injury. Fully robed adult prophet Gad speaks soberly to older fully robed king David in an ancient courtyard at morning, holding one open hand while the king listens anxiously. No plague, corpses, supernatural figure, visible angel, written numbers or symbolic magic objects, natural human conversation.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2samuel",
+      "chapter": 21,
+      "verse": 1,
+      "file": "21-hongersnood-en-rizpa.svg",
+      "scene": "Hongersnood en Rizpa",
+      "alt": "Eed, honger, de zeven gedoden, de wake en de begrafenis.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1369,
+      "source": "2 Samuël 21:1–14",
+      "design": {
+        "rows": [
+          [
+            "Drie jaar",
+            "Hongersnood; David vraagt raad; Sauls geweld tegen Gibeonieten wordt genoemd."
+          ],
+          [
+            "De eerdere eed",
+            "Israël had hun een eed gezworen; Saul had hen toch willen uitroeien."
+          ],
+          [
+            "Zeven uitgeleverd",
+            "Twee zonen van Rizpa en vijf zonen van Michals zus; gedood bij begin gersteoogst."
+          ],
+          [
+            "Rizpa’s wake",
+            "Rouwgewaad op de rots; vogels en wilde dieren weg houden tot de regen."
+          ],
+          [
+            "De gezamenlijke rustplaats",
+            "Beenderen van Saul, Jonathan en de gedoden verzameld; begrafenis in Zela, in Kis’ graf."
+          ]
+        ],
+        "note": "Rizpa’s volhardende zorg en de uiteindelijke begrafenis krijgen aandacht; de lichamen worden niet grafisch afgebeeld."
+      }
+    },
+    {
+      "book": "2samuel",
+      "chapter": 21,
+      "verse": 7,
+      "file": "21-twee-mefiboseths.svg",
+      "scene": "Twee mensen: Mefiboseth",
+      "alt": "De twee verschillende personen en de gecontroleerde ouderrelaties.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1134,
+      "source": "2 Samuël 21:7–8",
+      "design": {
+        "rows": [
+          [
+            "De gespaarde",
+            "Zoon van Jonathan, kleinzoon van Saul; gespaard wegens Davids eed aan Jonathan."
+          ],
+          [
+            "De andere naamgenoot",
+            "Zoon van Saul en Rizpa, dochter van Aja; broer van Armoni."
+          ],
+          [
+            "De vijf anderen",
+            "Zonen van de zus van Michal en Adriël, zoon van Barzillai, de Meholathiet."
+          ],
+          [
+            "De eed",
+            "Het sparen betreft Jonathans zoon, niet alle mensen met dezelfde naam."
+          ]
+        ],
+        "note": "De plaatselijke tekst noemt de moeder van de vijf: de zus van Michal. De naam wordt hier niet zonder vermelding vervangen."
+      }
+    },
+    {
+      "book": "2samuel",
+      "chapter": 21,
+      "verse": 15,
+      "file": "21-vier-tegenstanders.svg",
+      "scene": "Vier tegenstanders van Rafa",
+      "alt": "De namen, verwantschappen, locaties en de bijzondere telling van 24.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1369,
+      "source": "2 Samuël 21:15–22",
+      "design": {
+        "rows": [
+          [
+            "Isbi-benob",
+            "Wil de uitgeputte David doden; Abisai komt David te hulp."
+          ],
+          [
+            "Saf bij Gob",
+            "Verslagen door Sibbechai, de Husathiet."
+          ],
+          [
+            "Bij Gob",
+            "Elhanan, zoon van Jaare-oregim, verslaat een metgezel van Goliath volgens deze tekst."
+          ],
+          [
+            "Bij Gath",
+            "Man met zes vingers per hand en zes tenen per voet: 24 totaal; Jonathan, zoon van Simea, verslaat hem."
+          ],
+          [
+            "De voorzorg",
+            "Davids mannen laten hem niet meer mee ten strijde trekken: de lamp van Israël mag niet doven."
+          ]
+        ],
+        "note": "Deze Jonathan is Davids neef. Vers 20 noemt zes vingers per hand en zes tenen per voet: samen 24."
+      }
+    },
+    {
+      "book": "2samuel",
+      "chapter": 22,
+      "verse": 2,
+      "file": "22-beeldspraak-in-het-lied.svg",
+      "scene": "Beeldspraak in het reddingslied",
+      "alt": "Verbindingen tussen concrete beelden en hun poëtische betekenis.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1197,
+      "source": "2 Samuël 22:2–37",
+      "design": {
+        "rows": [
+          [
+            "Rots en vesting",
+            "Toevlucht, bescherming en redding."
+          ],
+          [
+            "Water en touwen",
+            "Doodsangst, benauwdheid en vastzitten."
+          ],
+          [
+            "Storm en donder",
+            "Dichterlijke taal van Gods macht en ingrijpen."
+          ],
+          [
+            "Opgetrokken en ruimte",
+            "Redding uit sterke vijanden en een nieuwe vrije plaats."
+          ],
+          [
+            "Lamp en hinde",
+            "Licht in de duisternis; vaste, snelle voeten op de hoogten."
+          ]
+        ],
+        "note": "Dit is een lied. Rook uit Gods neus, vuur uit Zijn mond en de cherub worden niet als een verzonnen portret van God afgebeeld."
+      }
+    },
+    {
+      "book": "2samuel",
+      "chapter": 22,
+      "verse": 21,
+      "file": "22-opbouw-reddingslied.svg",
+      "scene": "De opbouw van het reddingslied",
+      "alt": "Leeswijzer bij de vijf grotere bewegingen van het lied.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1326,
+      "source": "2 Samuël 22:1–51",
+      "design": {
+        "rows": [
+          [
+            "Aanhef en nood",
+            "De HEERE als redder; hulpgeroep in de doodsnood."
+          ],
+          [
+            "De redding",
+            "Machtig ingrijpen en bevrijding van vijanden."
+          ],
+          [
+            "Trouw en gerechtigheid",
+            "David spreekt over zijn wegen, reinheid en Gods trouw."
+          ],
+          [
+            "Ontvangen kracht",
+            "Licht, vaste voeten, oefening en ruimte."
+          ],
+          [
+            "Slotlof",
+            "Redding en heerschappij; lof onder de volken; goedheid aan David en zijn nakomelingen."
+          ]
+        ],
+        "note": "De uitspraken over gerechtigheid zijn woorden binnen Davids lied, naast het verhaal dat ook zijn schuld heeft beschreven."
+      }
+    },
+    {
+      "book": "2samuel",
+      "chapter": 23,
+      "verse": 1,
+      "file": "23-laatste-woorden.svg",
+      "scene": "De laatste woorden",
+      "alt": "De spreker, de bestuursvergelijking en de verbondswoorden.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1240,
+      "source": "2 Samuël 23:1–7",
+      "design": {
+        "rows": [
+          [
+            "De spreker",
+            "David, zoon van Isaï; gezalfde en psalmdichter van Israël."
+          ],
+          [
+            "Het rechtvaardige bestuur",
+            "Heersen in ontzag voor God."
+          ],
+          [
+            "De vergelijking",
+            "Morgenlicht zonder wolken; gras na regen en zon."
+          ],
+          [
+            "Het verbond",
+            "Eeuwig, goed geregeld en bewaard; grond van redding en verlangen."
+          ],
+          [
+            "De doornstruiken",
+            "Beeldspraak voor de nietsnutten en hun einde."
+          ]
+        ],
+        "note": "Dit tekstdeel is poëtisch. De zon en het gras vormen een vergelijking met rechtvaardig bestuur."
+      }
+    },
+    {
+      "book": "2samuel",
+      "chapter": 23,
+      "verse": 8,
+      "file": "23-helden-en-rangen.svg",
+      "scene": "Helden, daden en rangen",
+      "alt": "De benoemde helden en de verschillende rangvermeldingen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1369,
+      "source": "2 Samuël 23:8–23",
+      "design": {
+        "rows": [
+          [
+            "Joscheb-Baschebeth",
+            "De Tachkemoniet, ook Adino de Ezniet genoemd; voornaamste aanvoerder."
+          ],
+          [
+            "Eleazar",
+            "Zoon van Dodo, de Ahohiet; houdt stand tot zijn hand moe wordt."
+          ],
+          [
+            "Samma",
+            "Zoon van Age, de Harariet; verdedigt de linzenakker."
+          ],
+          [
+            "De drie bij Bethlehem",
+            "Halen water uit de put bij de poort; David giet het uit in plaats van het te drinken."
+          ],
+          [
+            "Abisai en Benaja",
+            "Geëerde aanvoerders met eigen daden; de tekst onderscheidt hen van de eerste drie."
+          ]
+        ],
+        "note": "De verschillende vermeldingen van drie en dertig blijven onderscheiden; gelijke rang wordt niet uit gelijke aantallen afgeleid."
+      }
+    },
+    {
+      "book": "2samuel",
+      "chapter": 23,
+      "verse": 24,
+      "file": "23-namenlijst-24-31.svg",
+      "scene": "De namenlijst · verzen 24–31",
+      "alt": "De gecontroleerde namen en relaties, gegroepeerd per bronvers.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1823,
+      "source": "2 Samuël 23:24–31",
+      "design": {
+        "rows": [
+          [
+            "Vers 24",
+            "Asahel, de broer van Joab, en Elhanan, de zoon van Dodo, uit Bethlehem,"
+          ],
+          [
+            "Vers 25",
+            "Samma, de Harodiet, Elika, de Harodiet,"
+          ],
+          [
+            "Vers 26",
+            "Helez, de Paltiet, Ira, de zoon van Ikes, de Thekoïet,"
+          ],
+          [
+            "Vers 27",
+            "Abi-ezer, de Anethothiet, Mebunnai, de Husathiet,"
+          ],
+          [
+            "Vers 28",
+            "Zalmon, de Ahohiet, Maharai, de Netofathiet,"
+          ],
+          [
+            "Vers 29",
+            "Heleb, de zoon van Baëna, de Netofathiet, Ithai, de zoon van Ribai, uit Gibea van de Benjaminieten,"
+          ],
+          [
+            "Vers 30",
+            "Benaja, de Pirhathoniet, Hiddai uit de beken van Gaas,"
+          ],
+          [
+            "Vers 31",
+            "Abi-albon, de Arbathiet, Azmaveth, de Barhumiet,"
+          ]
+        ],
+        "note": "Naam, vaderrelatie en plaatsaanduiding zijn per vers overgenomen. Het slot noemt in totaal 37."
+      }
+    },
+    {
+      "book": "2samuel",
+      "chapter": 23,
+      "verse": 32,
+      "file": "23-namenlijst-32-39.svg",
+      "scene": "De namenlijst · verzen 32–39",
+      "alt": "De gecontroleerde namen en relaties, gegroepeerd per bronvers.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1866,
+      "source": "2 Samuël 23:32–39",
+      "design": {
+        "rows": [
+          [
+            "Vers 32",
+            "Eljachba, de Saälboniet, Jonathan uit de zonen van Jazen,"
+          ],
+          [
+            "Vers 33",
+            "Samma, de Harariet, Ahiam, de zoon van Sarar, de Harariet,"
+          ],
+          [
+            "Vers 34",
+            "Elifelet, de zoon van Ahasbai, de zoon van een Maächathiet, Eliam, de zoon van Achitofel, de Giloniet,"
+          ],
+          [
+            "Vers 35",
+            "Hezrai, de Karmeliet, Paërai, de Arbiet,"
+          ],
+          [
+            "Vers 36",
+            "Jigal, de zoon van Nathan, uit Zoba, Bani, de Gadiet,"
+          ],
+          [
+            "Vers 37",
+            "Zelek, de Ammoniet, Naharai, de Beërothiet, de wapendrager van Joab, de zoon van Zeruja,"
+          ],
+          [
+            "Vers 38",
+            "Ira, de Jethriet, Gareb, de Jethriet,"
+          ],
+          [
+            "Vers 39",
+            "en Uria, de Hethiet. In totaal waren het er 37."
+          ]
+        ],
+        "note": "Naam, vaderrelatie en plaatsaanduiding zijn per vers overgenomen. Het slot noemt in totaal 37."
+      }
+    },
+    {
+      "book": "2samuel",
+      "chapter": 24,
+      "verse": 2,
+      "file": "24-telling-route.svg",
+      "scene": "De route en de telling",
+      "alt": "Reisvolgorde, duur, aantallen en bezwaar tegen de telling.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1247,
+      "source": "2 Samuël 24:2–10",
+      "design": {
+        "rows": [
+          [
+            "De opdracht",
+            "Van Dan tot Berseba tellen; Joab maakt bezwaar."
+          ],
+          [
+            "Over de Jordaan",
+            "Aroër, Gad en Jaëzer; daarna Gilead, Hodsi en Dan-Jaän."
+          ],
+          [
+            "De kust en het zuiden",
+            "Omgeving Sidon, vesting Tyrus, Hevieten en Kanaänieten; als laatste Berseba."
+          ],
+          [
+            "De duur",
+            "Negen maanden en twintig dagen."
+          ],
+          [
+            "De uitkomst",
+            "Israël: 800.000 strijdbare mannen; Juda: 500.000. Davids geweten spreekt daarna."
+          ]
+        ],
+        "note": "Deze route geeft de genoemde volgorde, zonder onbewezen coördinaten of moderne grenzen."
+      }
+    },
+    {
+      "book": "2samuel",
+      "chapter": 24,
+      "verse": 11,
+      "file": "24-drie-mogelijkheden.svg",
+      "scene": "Drie mogelijkheden en de plaag",
+      "alt": "De drie verschillende tijdseenheden en het stoppen van de plaag.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1197,
+      "source": "2 Samuël 24:11–17",
+      "design": {
+        "rows": [
+          [
+            "Gad komt",
+            "De profeet en ziener brengt de keuze."
+          ],
+          [
+            "Zeven jaar",
+            "Hongersnood, volgens deze hoofdstuktekst."
+          ],
+          [
+            "Drie maanden",
+            "Vlucht voor vijanden die achtervolgen."
+          ],
+          [
+            "Drie dagen",
+            "Pest; David beroept zich op Gods barmhartigheid."
+          ],
+          [
+            "De uitkomst",
+            "70.000 doden; het oordeel wordt gestopt bij Jeruzalem, bij Arauna’s dorsvloer."
+          ]
+        ],
+        "note": "De drie tijdsduren en 70.000 zijn exact deze tekstwaarden; andere lezingen worden niet ingevoegd."
+      }
+    },
+    {
+      "book": "2samuel",
+      "chapter": 24,
+      "verse": 18,
+      "file": "24-dorsvloer-en-offer.svg",
+      "scene": "De dorsvloer en het offer",
+      "alt": "Opdracht, aanbod, aankoop en het slotgebed voor het land.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1290,
+      "source": "2 Samuël 24:18–25",
+      "design": {
+        "rows": [
+          [
+            "Gads opdracht",
+            "Een altaar bouwen op Arauna’s dorsvloer."
+          ],
+          [
+            "Arauna’s aanbod",
+            "Dorsvloer, runderen, dorssleden en jukken."
+          ],
+          [
+            "Davids antwoord",
+            "Geen offer dat hem niets kost; hij wil echt kopen."
+          ],
+          [
+            "De prijs",
+            "Ongeveer 550 gram zilver voor dorsvloer en runderen."
+          ],
+          [
+            "Het gebed",
+            "Altaar, brandoffers en dankoffers; gebeden voor het land verhoord, de plaag houdt op."
+          ]
+        ],
+        "note": "De prijs is de omrekening in deze vertaling; de aankoop en het offer zijn afzonderlijke stappen."
+      }
+    }
+  ]
+}

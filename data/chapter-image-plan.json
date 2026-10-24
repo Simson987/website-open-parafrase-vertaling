@@ -7686,6 +7686,156 @@
           "source": "2 Samuël 20:23–26"
         }
       ]
+    },
+    {
+      "book": "2samuel",
+      "chapter": 21,
+      "status": "reviewed",
+      "target_images": 8,
+      "reason": "Rizpa’s wake en de bescherming van de uitgeputte David ontbreken naast honger, overleg en graf. Drie schema’s onderscheiden naamgenoten, familie en de vier tegenstanders.",
+      "additions": [
+        {
+          "verse": 10,
+          "scene": "Rizpa waakt op de rots",
+          "kind": "scene",
+          "file": "21-10-inhoudelijk.webp"
+        },
+        {
+          "verse": 17,
+          "scene": "Davids mannen willen hem beschermen",
+          "kind": "scene",
+          "file": "21-17-inhoudelijk.webp"
+        },
+        {
+          "verse": 1,
+          "file": "21-hongersnood-en-rizpa.svg",
+          "scene": "Hongersnood en Rizpa",
+          "kind": "diagram",
+          "source": "2 Samuël 21:1–14"
+        },
+        {
+          "verse": 7,
+          "file": "21-twee-mefiboseths.svg",
+          "scene": "Twee mensen: Mefiboseth",
+          "kind": "diagram",
+          "source": "2 Samuël 21:7–8"
+        },
+        {
+          "verse": 15,
+          "file": "21-vier-tegenstanders.svg",
+          "scene": "Vier tegenstanders van Rafa",
+          "kind": "diagram",
+          "source": "2 Samuël 21:15–22"
+        }
+      ]
+    },
+    {
+      "book": "2samuel",
+      "chapter": 22,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Een nieuwe ruimtelijke illustratie verbeeldt vers 20 naast zang, vesting en lamp. Twee leeswijzers onderscheiden beeldspraak, poëtische uitspraken en opbouw.",
+      "additions": [
+        {
+          "verse": 20,
+          "scene": "Ruimte na de benauwdheid",
+          "kind": "poetic",
+          "file": "22-20-inhoudelijk.webp"
+        },
+        {
+          "verse": 2,
+          "file": "22-beeldspraak-in-het-lied.svg",
+          "scene": "Beeldspraak in het reddingslied",
+          "kind": "diagram",
+          "source": "2 Samuël 22:2–37"
+        },
+        {
+          "verse": 21,
+          "file": "22-opbouw-reddingslied.svg",
+          "scene": "De opbouw van het reddingslied",
+          "kind": "diagram",
+          "source": "2 Samuël 22:1–51"
+        }
+      ]
+    },
+    {
+      "book": "2samuel",
+      "chapter": 23,
+      "status": "reviewed",
+      "target_images": 8,
+      "reason": "Het morgenlicht krijgt een expliciet poëtisch beeld. Vier schema’s geven laatste woorden, rangen en de volledige namenlijst met exact gecontroleerde relaties.",
+      "additions": [
+        {
+          "verse": 4,
+          "scene": "Morgenlicht na de regen",
+          "kind": "poetic",
+          "file": "23-4-inhoudelijk.webp"
+        },
+        {
+          "verse": 1,
+          "file": "23-laatste-woorden.svg",
+          "scene": "De laatste woorden",
+          "kind": "diagram",
+          "source": "2 Samuël 23:1–7"
+        },
+        {
+          "verse": 8,
+          "file": "23-helden-en-rangen.svg",
+          "scene": "Helden, daden en rangen",
+          "kind": "diagram",
+          "source": "2 Samuël 23:8–23"
+        },
+        {
+          "verse": 24,
+          "file": "23-namenlijst-24-31.svg",
+          "scene": "De namenlijst · verzen 24–31",
+          "kind": "diagram",
+          "source": "2 Samuël 23:24–31"
+        },
+        {
+          "verse": 32,
+          "file": "23-namenlijst-32-39.svg",
+          "scene": "De namenlijst · verzen 32–39",
+          "kind": "diagram",
+          "source": "2 Samuël 23:32–39"
+        }
+      ]
+    },
+    {
+      "book": "2samuel",
+      "chapter": 24,
+      "status": "reviewed",
+      "target_images": 7,
+      "reason": "Gads keuze is een apart beslismoment naast verslag, aankoop en altaar. Drie schema’s controleren route, termijnen, aantallen en prijs.",
+      "additions": [
+        {
+          "verse": 13,
+          "scene": "Gad legt de keuze voor",
+          "kind": "scene",
+          "file": "24-13-inhoudelijk.webp"
+        },
+        {
+          "verse": 2,
+          "file": "24-telling-route.svg",
+          "scene": "De route en de telling",
+          "kind": "diagram",
+          "source": "2 Samuël 24:2–10"
+        },
+        {
+          "verse": 11,
+          "file": "24-drie-mogelijkheden.svg",
+          "scene": "Drie mogelijkheden en de plaag",
+          "kind": "diagram",
+          "source": "2 Samuël 24:11–17"
+        },
+        {
+          "verse": 18,
+          "file": "24-dorsvloer-en-offer.svg",
+          "scene": "De dorsvloer en het offer",
+          "kind": "diagram",
+          "source": "2 Samuël 24:18–25"
+        }
+      ]
     }
   ]
 }
