@@ -1,0 +1,642 @@
+{
+  "date": "2026-10-24",
+  "started": "2026-10-24T01:54:08Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "exodus",
+      "chapter": 22,
+      "verse": 9,
+      "scene": "Twee partijen leggen hun geschil voor",
+      "alt": "Twee partijen leggen hun geschil voor — Exodus 22:9",
+      "kind": "scene",
+      "file": "22-9-uitbreiding.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible illustration, landscape 3:2, authentic ancient Near Eastern materials, natural light, full modest clothing, correct anatomy, no modern objects, no readable text or watermark, no human-shaped deity. Two fully robed adult men present a disputed folded cloak to seated adult village judges at an ancient stone gateway, calm evidence-based hearing, open hands, no coins, modern court or violence.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "exodus",
+      "chapter": 23,
+      "verse": 5,
+      "scene": "Een beladen ezel krijgt hulp",
+      "alt": "Een beladen ezel krijgt hulp — Exodus 23:5",
+      "kind": "scene",
+      "file": "23-5-uitbreiding.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible illustration, landscape 3:2, authentic ancient Near Eastern materials, natural light, full modest clothing, correct anatomy, no modern objects, no readable text or watermark, no human-shaped deity. Two fully clothed adult ancient farmers cooperate to unload heavy bundles from a healthy donkey that is resting on its folded legs beside a road. No wounds, coercion or beating, correct donkey and hand anatomy.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "exodus",
+      "chapter": 24,
+      "verse": 11,
+      "scene": "De oudsten delen de maaltijd",
+      "alt": "De oudsten delen de maaltijd — Exodus 24:11",
+      "kind": "scene",
+      "file": "24-11-uitbreiding.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible illustration, landscape 3:2, authentic ancient Near Eastern materials, natural light, full modest clothing, correct anatomy, no modern objects, no readable text or watermark, no human-shaped deity. A partial group of fully robed elderly Israelite leaders peacefully eat bread and drink from simple cups on a rocky mountain terrace suffused with clear heavenly light. No human-shaped God, feet of deity, statue, modern objects or exact claim to show all seventy elders.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "exodus",
+      "chapter": 24,
+      "verse": 13,
+      "scene": "Mozes vertrekt met Jozua",
+      "alt": "Mozes vertrekt met Jozua — Exodus 24:13",
+      "kind": "scene",
+      "file": "24-13-uitbreiding.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible illustration, landscape 3:2, authentic ancient Near Eastern materials, natural light, full modest clothing, correct anatomy, no modern objects, no readable text or watermark, no human-shaped deity. Elderly eighty-year-old Moses with long gray beard and full robe begins climbing an ancient rocky mountain path beside his fully robed adult attendant Joshua, soft cloud ahead, no tablets yet, no deity visible.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "exodus",
+      "chapter": 24,
+      "verse": 14,
+      "scene": "Aäron en Hur blijven bij de oudsten",
+      "alt": "Aäron en Hur blijven bij de oudsten — Exodus 24:14",
+      "kind": "scene",
+      "file": "24-14-uitbreiding.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible illustration, landscape 3:2, authentic ancient Near Eastern materials, natural light, full modest clothing, correct anatomy, no modern objects, no readable text or watermark, no human-shaped deity. Two elderly gray-bearded fully robed men Aaron and Hur listen to elderly Moses giving instructions to a partial group of adult elders at the foot of Sinai, no law tablets, peaceful departure briefing.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "exodus",
+      "chapter": 25,
+      "verse": 30,
+      "scene": "De tafel met het toonbrood",
+      "alt": "De tafel met het toonbrood — Exodus 25:30",
+      "kind": "scene",
+      "file": "25-30-uitbreiding.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible illustration, landscape 3:2, authentic ancient Near Eastern materials, natural light, full modest clothing, correct anatomy, no modern objects, no readable text or watermark, no human-shaped deity. A modest rectangular ancient acacia table overlaid with gold, four legs and carrying rings with poles, plain bread laid on top and simple golden dishes beside it in a linen sanctuary. Realistic scale, no unrelated ornate temple architecture or inscription.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "exodus",
+      "chapter": 27,
+      "verse": 21,
+      "scene": "De lampen worden in de avond verzorgd",
+      "alt": "De lampen worden in de avond verzorgd — Exodus 27:21",
+      "kind": "scene",
+      "file": "27-21-uitbreiding.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible illustration, landscape 3:2, authentic ancient Near Eastern materials, natural light, full modest clothing, correct anatomy, no modern objects, no readable text or watermark, no human-shaped deity. Elderly gray-bearded Aaron in modest complete ancient priestly clothing carefully tends the lamps of a golden seven-branched lampstand at dusk, sanctuary curtain behind, no deity visible, natural separate fingers and arms.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "exodus",
+      "chapter": 29,
+      "verse": 3,
+      "scene": "De dieren voor de inwijding staan gereed",
+      "alt": "De dieren voor de inwijding staan gereed — Exodus 29:3",
+      "kind": "scene",
+      "file": "29-3-uitbreiding.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible illustration, landscape 3:2, authentic ancient Near Eastern materials, natural light, full modest clothing, correct anatomy, no modern objects, no readable text or watermark, no human-shaped deity. Exactly one healthy young bull and exactly two healthy adult rams stand peacefully beside an ancient sanctuary courtyard, baskets of flatbread nearby, no slaughter, knives, blood, injuries or people.",
+      "edit_prompt": "Use case: precise-object-edit. Correct only the setting of this Bible illustration for Exodus in the wilderness. Replace ALL stone temple buildings, monumental columns, city buildings, carved temple doors and paved temple courtyard with a simple sandy desert camp, plain white linen courtyard curtains on wooden poles and a cloth wilderness tabernacle. Preserve the exact foreground subjects, their anatomy, clothing and action, the exactly one young bull and two rams and bread baskets. Natural photorealism, no masonry temple, city or inscriptions.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "exodus",
+      "chapter": 30,
+      "verse": 13,
+      "scene": "Een halve sikkel als bijdrage",
+      "alt": "Een halve sikkel als bijdrage — Exodus 30:13",
+      "kind": "scene",
+      "file": "30-13-uitbreiding.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible illustration, landscape 3:2, authentic ancient Near Eastern materials, natural light, full modest clothing, correct anatomy, no modern objects, no readable text or watermark, no human-shaped deity. Fully clothed adult Israelite men bring small unminted silver pieces to an ancient balance at the sanctuary entrance, equal contributions weighed by an attendant, no stamped coins, modern money, written amounts or harm.",
+      "edit_prompt": "Use case: precise-object-edit. Correct only the setting of this Bible illustration for Exodus in the wilderness. Replace ALL stone temple buildings, monumental columns, city buildings, carved temple doors and paved temple courtyard with a simple sandy desert camp, plain white linen courtyard curtains on wooden poles and a cloth wilderness tabernacle. Preserve the exact foreground subjects, their anatomy, clothing and action, the silver weighing balance, silver pieces, and fully clothed adult men. Natural photorealism, no masonry temple, city or inscriptions.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "exodus",
+      "chapter": 21,
+      "verse": 2,
+      "file": "21-dienaar-en-vrijheid.svg",
+      "scene": "Dienen en vrij vertrekken",
+      "alt": "Zes jaar dienst en vrijheid in het zevende jaar, met onderscheiden regels voor gezinsleden, vrijwillig blijven en de vrouwelijke dienares.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1498,
+      "source": "Exodus 21:2–11",
+      "design": {
+        "rows": [
+          [
+            "De hoofdregel",
+            "Een Hebreeuwse dienaar dient zes jaar en vertrekt in het zevende jaar zonder betaling."
+          ],
+          [
+            "Met of zonder vrouw gekomen",
+            "Alleen gekomen: alleen vertrekken. Getrouwd gekomen: zijn vrouw vertrekt mee."
+          ],
+          [
+            "Een gezin bij de meester",
+            "Een door de meester gegeven vrouw en haar kinderen blijven bij de meester."
+          ],
+          [
+            "Vrijwillig blijven",
+            "De dienaar kan verklaren te willen blijven; de tekst noemt rechters en de deurpost."
+          ],
+          [
+            "De vrouwelijke dienares",
+            "Voor haar gelden afzonderlijke regels over vrijkoop en rechten. Bij onthouding van de drie genoemde rechten vertrekt zij zonder betaling."
+          ]
+        ],
+        "note": "Dit is een overzicht van de rechtsregels uit dit hoofdstuk, met de verschillende situaties afzonderlijk."
+      }
+    },
+    {
+      "book": "exodus",
+      "chapter": 21,
+      "verse": 28,
+      "file": "21-aansprakelijkheid-os.svg",
+      "scene": "Als een os schade veroorzaakt",
+      "alt": "De rechtsregels onderscheiden een onverwacht gevaarlijke os van een bekend gevaarlijke os en verschillende soorten schade.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1263,
+      "source": "Exodus 21:28–36",
+      "design": {
+        "rows": [
+          [
+            "Niet eerder gevaarlijk bekend",
+            "Bij het doden van een mens wordt de os gestenigd; de eigenaar blijft ongestraft."
+          ],
+          [
+            "Wel gewaarschuwd",
+            "Als de eigenaar de bekende gevaarlijke os niet vasthoudt, draagt ook hij verantwoordelijkheid."
+          ],
+          [
+            "Opgelegd losgeld",
+            "Als losgeld wordt opgelegd, betaalt hij het vastgestelde bedrag."
+          ],
+          [
+            "Schade aan een andere os",
+            "Zonder eerdere waarschuwing worden levende waarde en dood dier gedeeld; bij bekende gevaarlijkheid wordt een levende os vergoed."
+          ]
+        ],
+        "note": "De situaties en uitzonderingen volgen de hoofdstuktekst; het diagram beeldt geen verwondingen af."
+      }
+    },
+    {
+      "book": "exodus",
+      "chapter": 22,
+      "verse": 1,
+      "file": "22-vergoeding-vee.svg",
+      "scene": "Vergoeding bij gestolen vee",
+      "alt": "Exodus 22 noemt vijfvoudige vergoeding voor een geslachte of verkochte os, viervoudige voor schaap of geit en dubbele vergoeding bij levend terugvinden.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 820,
+      "source": "Exodus 22:1–4",
+      "design": {
+        "rows": [
+          [
+            "Os geslacht of verkocht",
+            "Vijf runderen vergoeden voor één os."
+          ],
+          [
+            "Schaap of geit geslacht of verkocht",
+            "Vier dieren vergoeden voor één schaap of geit."
+          ],
+          [
+            "Levend teruggevonden",
+            "Bij een gestolen os, ezel, schaap of geit wordt het dubbele vergoed."
+          ]
+        ],
+        "note": "Het verschil hangt af van wat er met het gestolen dier is gebeurd."
+      }
+    },
+    {
+      "book": "exodus",
+      "chapter": 22,
+      "verse": 10,
+      "file": "22-bewaren-en-lenen.svg",
+      "scene": "Bewaren, lenen en vergoeden",
+      "alt": "De tekst onderscheidt bewaring, diefstal, verscheuring, lenen met afwezige of aanwezige eigenaar en huur.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1412,
+      "source": "Exodus 22:7–15",
+      "design": {
+        "rows": [
+          [
+            "Toevertrouwde spullen",
+            "Een gevonden dief vergoedt dubbel; zonder gevonden dief volgt onderzoek bij de rechters."
+          ],
+          [
+            "Dier in bewaring",
+            "Bij onopgemerkt verlies volgt een eed; diefstal bij de bewaker moet worden vergoed."
+          ],
+          [
+            "Verscheurd dier",
+            "Resten als bewijs; dan hoeft het niet te worden vergoed."
+          ],
+          [
+            "Geleend dier",
+            "Schade of dood wordt vergoed als de eigenaar afwezig was."
+          ],
+          [
+            "Eigenaar erbij of huur",
+            "Bij aanwezigheid hoeft de lener niet te vergoeden; bij huur is de schade in de prijs begrepen."
+          ]
+        ],
+        "note": "Elke rij beschrijft een afzonderlijke rechtsregel; bewaren en lenen worden onderscheiden."
+      }
+    },
+    {
+      "book": "exodus",
+      "chapter": 23,
+      "verse": 14,
+      "file": "23-drie-jaarfeesten.svg",
+      "scene": "Drie feesten in het jaar",
+      "alt": "Drie jaarfeesten: ongezuurde broden, oogstfeest en inzamelingsfeest, met driemaal verschijnen voor de HEERE.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1091,
+      "source": "Exodus 23:14–19",
+      "design": {
+        "rows": [
+          [
+            "Ongezuurde broden",
+            "Zeven dagen in de maand Abib, ter herinnering aan de uittocht."
+          ],
+          [
+            "Oogstfeest",
+            "Wanneer de eerste vruchten rijp zijn van wat op het land gezaaid is."
+          ],
+          [
+            "Inzamelingsfeest",
+            "Aan het einde van het jaar, wanneer de opbrengst is binnengehaald."
+          ],
+          [
+            "Voor de HEERE verschijnen",
+            "Drie keer per jaar verschijnen alle mannen; niemand komt met lege handen."
+          ]
+        ],
+        "note": "De namen en omschrijvingen volgen Exodus 23; latere kalenderdetails worden hier niet ingevuld."
+      }
+    },
+    {
+      "book": "exodus",
+      "chapter": 23,
+      "verse": 10,
+      "file": "23-rust-van-land-en-mens.svg",
+      "scene": "Rust voor land, mens en dier",
+      "alt": "Zes werkjaren met rust in het zevende jaar en zes werkdagen met rust op de zevende dag voor mens en dier.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "Exodus 23:10–12",
+      "design": {
+        "rows": [
+          [
+            "Zes jaren",
+            "Het land inzaaien en de opbrengst verzamelen."
+          ],
+          [
+            "Zevende jaar",
+            "Land, wijngaard en olijfbomen rust geven; armen mogen eten en dieren wat overblijft."
+          ],
+          [
+            "Zes dagen",
+            "Werken."
+          ],
+          [
+            "Zevende dag",
+            "Rust voor mensen, os, ezel, dienares’ zoon en vreemdeling."
+          ]
+        ],
+        "note": "De tekst beschrijft zowel een ritme van jaren als een ritme van dagen."
+      }
+    },
+    {
+      "book": "exodus",
+      "chapter": 24,
+      "verse": 4,
+      "file": "24-verbond-en-wachttijd.svg",
+      "scene": "Verbond, leiders en wachttijd",
+      "alt": "Twaalf zuilen, de groep leiders, de achterblijvende verantwoordelijken en de tijdsaanduidingen bij het verbond op Sinaï.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1283,
+      "source": "Exodus 24:1–18",
+      "design": {
+        "rows": [
+          [
+            "Twaalf zuilen",
+            "Mozes richt één zuil op voor iedere stam, bij het altaar onder aan de berg."
+          ],
+          [
+            "De leiders",
+            "Aäron, Nadab, Abihu en zeventig oudsten gaan met Mozes omhoog; alleen Mozes mag naderen."
+          ],
+          [
+            "Verantwoordelijkheid beneden",
+            "Aäron en Hur blijven beschikbaar voor zaken van het volk."
+          ],
+          [
+            "Zes dagen en de zevende",
+            "De wolk bedekt de berg zes dagen; op de zevende dag wordt Mozes geroepen."
+          ],
+          [
+            "Veertig dagen en nachten",
+            "Mozes verblijft op de berg."
+          ]
+        ],
+        "note": "De genoemde perioden worden weergegeven zoals de tekst ze noemt, zonder ze tot één berekende duur op te tellen."
+      }
+    },
+    {
+      "book": "exodus",
+      "chapter": 25,
+      "verse": 10,
+      "file": "25-ark-tafel-en-licht.svg",
+      "scene": "Ark, tafel en kandelaar",
+      "alt": "Maten en onderdelen van ark, verzoendeksel, tafel en zevenlampige kandelaar volgens Exodus 25.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1141,
+      "source": "Exodus 25:10–39",
+      "design": {
+        "rows": [
+          [
+            "Ark van acaciahout en goud",
+            "Ongeveer 1,1 m lang, 70 cm breed en 70 cm hoog; vier ringen en blijvende draagstokken."
+          ],
+          [
+            "Verzoendeksel",
+            "Ongeveer 1,1 m bij 70 cm; twee cherubs naar elkaar en naar het deksel gericht."
+          ],
+          [
+            "Tafel van acaciahout en goud",
+            "Ongeveer 90 bij 45 cm en 70 cm hoog; brood, gereedschap, ringen en draagstokken."
+          ],
+          [
+            "Kandelaar uit één stuk goud",
+            "Zes zijarmen: drie aan iedere kant; zeven lampen in totaal."
+          ]
+        ],
+        "note": "De afgeronde moderne maten zijn overgenomen uit de plaatselijke hoofdstukvertaling."
+      }
+    },
+    {
+      "book": "exodus",
+      "chapter": 26,
+      "verse": 1,
+      "file": "26-doeken-en-planken.svg",
+      "scene": "Doeken, planken en voetstukken",
+      "alt": "Tien linnen gordijnen, elf van geitenhaar, twee dekkleden, twintig planken aan elke lange zijde en acht aan de westzijde.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1333,
+      "source": "Exodus 26:1–29",
+      "design": {
+        "rows": [
+          [
+            "Binnenste gordijnen",
+            "Tien gordijnen, elk ongeveer 12,5 bij 1,8 m; twee reeksen van vijf, vijftig gouden haakjes."
+          ],
+          [
+            "Geitenharen tent",
+            "Elf gordijnen, elk ongeveer 13,5 bij 1,8 m; reeksen van vijf en zes, vijftig koperen haakjes."
+          ],
+          [
+            "Bovenste dekkleden",
+            "Roodgeverfde ramsvellen en daarover dassenvellen."
+          ],
+          [
+            "Zuid en noord",
+            "Per zijde twintig planken en veertig zilveren voetstukken."
+          ],
+          [
+            "Westzijde",
+            "Zes planken en twee hoekplanken: acht planken met zestien voetstukken."
+          ]
+        ],
+        "note": "De doeklagen, aantallen en afgeronde maten volgen de plaatselijke vertaling."
+      }
+    },
+    {
+      "book": "exodus",
+      "chapter": 27,
+      "verse": 1,
+      "file": "27-altaar-en-voorhof.svg",
+      "scene": "Altaar en voorhof: maten",
+      "alt": "Maten en materiaal van het brandofferaltaar en de voorhof, met de lange zijden en de oostelijke ingang.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1098,
+      "source": "Exodus 27:1–19",
+      "design": {
+        "rows": [
+          [
+            "Brandofferaltaar",
+            "Ongeveer 2,25 bij 2,25 m en 1,35 m hoog; acaciahout bekleed met koper."
+          ],
+          [
+            "Voorhof",
+            "Ongeveer 45 bij 22,5 m; gordijnen ongeveer 2,25 m hoog."
+          ],
+          [
+            "Lange zijden",
+            "Noord en zuid elk twintig palen; west tien palen."
+          ],
+          [
+            "Oostelijke ingang",
+            "Een gordijn van ongeveer 9 m met vier palen, tussen twee zijstukken van elk ongeveer 6,75 m."
+          ]
+        ],
+        "note": "De moderne maten zijn afgeronde maten uit de hoofdstuktekst."
+      }
+    },
+    {
+      "book": "exodus",
+      "chapter": 28,
+      "verse": 1,
+      "file": "28-priesterfamilie-en-kleding.svg",
+      "scene": "Priesters en hun kleding",
+      "alt": "Aäron met Nadab, Abihu, Eleazar en Ithamar; kledingstukken, schouderstenen en belletjes met granaatappels.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1290,
+      "source": "Exodus 28:1–14, 31–43",
+      "design": {
+        "rows": [
+          [
+            "Aäron en zijn vier zonen",
+            "Nadab, Abihu, Eleazar en Ithamar dienen als priesters."
+          ],
+          [
+            "Aärons kleding",
+            "Borststuk, efod, mantel, geweven onderkleed, tulband en gordel."
+          ],
+          [
+            "Op de schouders",
+            "Twee sardonixstenen met elk zes namen van Israëls zonen, in geboortevolgorde."
+          ],
+          [
+            "Langs de blauwe mantel",
+            "Gouden belletjes en granaatappels wisselen elkaar af."
+          ],
+          [
+            "Voor de zonen",
+            "Onderkleden, gordels en hoofdbedekkingen; ook bedekkende linnen onderkleding."
+          ]
+        ],
+        "note": "Het overzicht onderscheidt Aärons bijzondere kleding van die van zijn zonen."
+      }
+    },
+    {
+      "book": "exodus",
+      "chapter": 28,
+      "verse": 17,
+      "file": "28-rijen-borststuk.svg",
+      "scene": "Vier rijen edelstenen",
+      "alt": "De twaalf stenen in vier rijen volgens Exodus 28, zonder een ongenoemde stam-steenkoppeling te verzinnen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1310,
+      "source": "Exodus 28:16–21, 30",
+      "design": {
+        "rows": [
+          [
+            "Eerste rij",
+            "Sardis · topaas · karbonkel."
+          ],
+          [
+            "Tweede rij",
+            "Smaragd · saffier · diamant."
+          ],
+          [
+            "Derde rij",
+            "Hyacint · agaat · amethist."
+          ],
+          [
+            "Vierde rij",
+            "Turkoois · sardonix · jaspis."
+          ],
+          [
+            "Twaalf stammen",
+            "Elke steen draagt een naam; de passage koppelt geen specifieke stamnaam aan een bepaalde steensoort."
+          ],
+          [
+            "Bij het hart",
+            "Urim en Thummim worden in het borststuk gelegd."
+          ]
+        ],
+        "note": "De steennamen volgen deze vertaling; het vierkante borststuk is ongeveer 22 bij 22 cm."
+      }
+    },
+    {
+      "book": "exodus",
+      "chapter": 29,
+      "verse": 20,
+      "file": "29-inwijding-en-dagelijks-offer.svg",
+      "scene": "Inwijding en dagelijks offer",
+      "alt": "Inwijdingsdieren, rechter lichaamsdelen, zeven dagen en het ochtend- en avondoffer met de in de vertaling afgeronde hoeveelheden.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1369,
+      "source": "Exodus 29:1–41",
+      "design": {
+        "rows": [
+          [
+            "Voor de inwijding",
+            "Eén jonge stier, twee rammen zonder gebrek en een mand ongezuurd brood."
+          ],
+          [
+            "Bij de tweede ram",
+            "Bloed op de rechteroorlel, rechterduim en rechtergrote teen van Aäron en zijn zonen."
+          ],
+          [
+            "Zeven dagen",
+            "Inwijding van de priesters en verzoening voor het altaar."
+          ],
+          [
+            "Dagelijks twee lammeren",
+            "Eén in de ochtend en één tegen de avond."
+          ],
+          [
+            "Bij ieder lam",
+            "Ongeveer 2 liter fijn meel, 1 liter olie en 1 liter wijn, volgens deze vertaling."
+          ]
+        ],
+        "note": "Het schema onderscheidt de eenmalige inwijdingsperiode van het blijvende dagelijkse offer."
+      }
+    },
+    {
+      "book": "exodus",
+      "chapter": 30,
+      "verse": 13,
+      "file": "30-telling-en-wassen.svg",
+      "scene": "Bijdrage en wassen",
+      "alt": "De halve sikkel voor getelde volwassenen en het wassen van handen en voeten door de priesters.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1012,
+      "source": "Exodus 30:11–21",
+      "design": {
+        "rows": [
+          [
+            "Wie wordt geteld",
+            "Iedereen van twintig jaar en ouder."
+          ],
+          [
+            "Gelijke bijdrage",
+            "Een halve heiligdomssikkel: ongeveer 5,5 gram. Rijk en arm geven hetzelfde."
+          ],
+          [
+            "Bestemming",
+            "Voor de dienst van de ontmoetingstent."
+          ],
+          [
+            "Het koperen wasbekken",
+            "Tussen tent en altaar; Aäron en zijn zonen wassen handen en voeten vóór de dienst."
+          ]
+        ],
+        "note": "De gewichtsaanduiding is overgenomen uit de plaatselijke vertaling."
+      }
+    },
+    {
+      "book": "exodus",
+      "chapter": 30,
+      "verse": 23,
+      "file": "30-zalfolie-en-reukwerk.svg",
+      "scene": "Zalfolie en reukwerk",
+      "alt": "Ingrediënten en gebruik van de heilige zalfolie en het heilige reukwerk volgens Exodus 30.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1227,
+      "source": "Exodus 30:22–38",
+      "design": {
+        "rows": [
+          [
+            "Zalfolie",
+            "Mirre circa 5,5 kg; kaneel en kalmoes elk circa 2,75 kg; kassie circa 5,5 kg; olijfolie circa 4 liter."
+          ],
+          [
+            "Gebruik van de olie",
+            "Tent, ark, tafel, kandelaar, altaren en wasbekken; ook Aäron en zijn zonen worden gezalfd."
+          ],
+          [
+            "Reukwerk",
+            "Mirresap, oniche, galban en zuivere wierook; zorgvuldig fijnmaken en mengen."
+          ],
+          [
+            "Heilige bestemming",
+            "Beide samenstellingen zijn voor de heilige dienst en mogen niet voor eigen gebruik worden nagemaakt."
+          ]
+        ],
+        "note": "Olie en reukwerk zijn twee verschillende samenstellingen met verschillende toepassingen."
+      }
+    }
+  ]
+}

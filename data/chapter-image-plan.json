@@ -2027,6 +2027,255 @@
           "source": "Exodus 20:12–17"
         }
       ]
+    },
+    {
+      "book": "exodus",
+      "chapter": 22,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Een rechtszitting vult de bestaande voorbeelden aan; twee schema’s ordenen de verschillende vergoedingen en bewaarsituaties.",
+      "additions": [
+        {
+          "verse": 9,
+          "scene": "Twee partijen leggen hun geschil voor",
+          "kind": "scene",
+          "file": "22-9-uitbreiding.webp"
+        },
+        {
+          "verse": 1,
+          "file": "22-vergoeding-vee.svg",
+          "scene": "Vergoeding bij gestolen vee",
+          "kind": "diagram",
+          "source": "Exodus 22:1–4"
+        },
+        {
+          "verse": 10,
+          "file": "22-bewaren-en-lenen.svg",
+          "scene": "Bewaren, lenen en vergoeden",
+          "kind": "diagram",
+          "source": "Exodus 22:7–15"
+        }
+      ]
+    },
+    {
+      "book": "exodus",
+      "chapter": 23,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "De hulp aan de beladen ezel is een eigen voorbeeld. Twee schema’s maken de drie feesten en de rustritmen duidelijk.",
+      "additions": [
+        {
+          "verse": 5,
+          "scene": "Een beladen ezel krijgt hulp",
+          "kind": "scene",
+          "file": "23-5-uitbreiding.webp"
+        },
+        {
+          "verse": 14,
+          "file": "23-drie-jaarfeesten.svg",
+          "scene": "Drie feesten in het jaar",
+          "kind": "diagram",
+          "source": "Exodus 23:14–19"
+        },
+        {
+          "verse": 10,
+          "file": "23-rust-van-land-en-mens.svg",
+          "scene": "Rust voor land, mens en dier",
+          "kind": "diagram",
+          "source": "Exodus 23:10–12"
+        }
+      ]
+    },
+    {
+      "book": "exodus",
+      "chapter": 24,
+      "status": "reviewed",
+      "target_images": 7,
+      "reason": "De maaltijd van de leiders, vertrek met Jozua en overdracht aan Aäron en Hur zijn eigen gebeurtenissen; een schema controleert aantallen en tijden.",
+      "additions": [
+        {
+          "verse": 11,
+          "scene": "De oudsten delen de maaltijd",
+          "kind": "scene",
+          "file": "24-11-uitbreiding.webp"
+        },
+        {
+          "verse": 13,
+          "scene": "Mozes vertrekt met Jozua",
+          "kind": "scene",
+          "file": "24-13-uitbreiding.webp"
+        },
+        {
+          "verse": 14,
+          "scene": "Aäron en Hur blijven bij de oudsten",
+          "kind": "scene",
+          "file": "24-14-uitbreiding.webp"
+        },
+        {
+          "verse": 4,
+          "file": "24-verbond-en-wachttijd.svg",
+          "scene": "Verbond, leiders en wachttijd",
+          "kind": "diagram",
+          "source": "Exodus 24:1–18"
+        }
+      ]
+    },
+    {
+      "book": "exodus",
+      "chapter": 25,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "De toonbroodtafel ontbreekt als afzonderlijk voorwerp; een overzicht controleert maten en lampenaantal.",
+      "additions": [
+        {
+          "verse": 30,
+          "scene": "De tafel met het toonbrood",
+          "kind": "scene",
+          "file": "25-30-uitbreiding.webp"
+        },
+        {
+          "verse": 10,
+          "file": "25-ark-tafel-en-licht.svg",
+          "scene": "Ark, tafel en kandelaar",
+          "kind": "diagram",
+          "source": "Exodus 25:10–39"
+        }
+      ]
+    },
+    {
+      "book": "exodus",
+      "chapter": 27,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "De avondzorg voor de lampen is een eigen handeling. Een schema maakt maten, aantallen en ingang duidelijk.",
+      "additions": [
+        {
+          "verse": 21,
+          "scene": "De lampen worden in de avond verzorgd",
+          "kind": "scene",
+          "file": "27-21-uitbreiding.webp"
+        },
+        {
+          "verse": 1,
+          "file": "27-altaar-en-voorhof.svg",
+          "scene": "Altaar en voorhof: maten",
+          "kind": "diagram",
+          "source": "Exodus 27:1–19"
+        }
+      ]
+    },
+    {
+      "book": "exodus",
+      "chapter": 29,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "De gereedstaande dieren onderscheiden zich van brood, zalving en maaltijd. Een schema ordent inwijding, rechter lichaamsdelen en het dagelijkse offer.",
+      "additions": [
+        {
+          "verse": 3,
+          "scene": "De dieren voor de inwijding staan gereed",
+          "kind": "scene",
+          "file": "29-3-uitbreiding.webp"
+        },
+        {
+          "verse": 20,
+          "file": "29-inwijding-en-dagelijks-offer.svg",
+          "scene": "Inwijding en dagelijks offer",
+          "kind": "diagram",
+          "source": "Exodus 29:1–41"
+        }
+      ]
+    },
+    {
+      "book": "exodus",
+      "chapter": 30,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "De gelijke zilverbijdrage is een afzonderlijke handeling. Twee schema’s onderscheiden telling, wasvoorschrift, olie en reukwerk.",
+      "additions": [
+        {
+          "verse": 13,
+          "scene": "Een halve sikkel als bijdrage",
+          "kind": "scene",
+          "file": "30-13-uitbreiding.webp"
+        },
+        {
+          "verse": 13,
+          "file": "30-telling-en-wassen.svg",
+          "scene": "Bijdrage en wassen",
+          "kind": "diagram",
+          "source": "Exodus 30:11–21"
+        },
+        {
+          "verse": 23,
+          "file": "30-zalfolie-en-reukwerk.svg",
+          "scene": "Zalfolie en reukwerk",
+          "kind": "diagram",
+          "source": "Exodus 30:22–38"
+        }
+      ]
+    },
+    {
+      "book": "exodus",
+      "chapter": 21,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "De bestaande scènes tonen vrijheid, herstel en vergoeding. Twee schema’s onderscheiden de rechtsposities en aansprakelijkheid zonder geweld te illustreren.",
+      "additions": [
+        {
+          "verse": 2,
+          "file": "21-dienaar-en-vrijheid.svg",
+          "scene": "Dienen en vrij vertrekken",
+          "kind": "diagram",
+          "source": "Exodus 21:2–11"
+        },
+        {
+          "verse": 28,
+          "file": "21-aansprakelijkheid-os.svg",
+          "scene": "Als een os schade veroorzaakt",
+          "kind": "diagram",
+          "source": "Exodus 21:28–36"
+        }
+      ]
+    },
+    {
+      "book": "exodus",
+      "chapter": 26,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "De bestaande beelden tonen doek, planken en voorhangsel. Een exact bouwschema onderscheidt lagen en aantallen; geen dubbele handwerkscènes.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "26-doeken-en-planken.svg",
+          "scene": "Doeken, planken en voetstukken",
+          "kind": "diagram",
+          "source": "Exodus 26:1–29"
+        }
+      ]
+    },
+    {
+      "book": "exodus",
+      "chapter": 28,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "De bestaande drie kledingdetails blijven; twee schema’s geven de priesterfamilie, kledingonderdelen en exacte steenrijen zonder verzonnen stamtoewijzing.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "28-priesterfamilie-en-kleding.svg",
+          "scene": "Priesters en hun kleding",
+          "kind": "diagram",
+          "source": "Exodus 28:1–14, 31–43"
+        },
+        {
+          "verse": 17,
+          "file": "28-rijen-borststuk.svg",
+          "scene": "Vier rijen edelstenen",
+          "kind": "diagram",
+          "source": "Exodus 28:16–21, 30"
+        }
+      ]
     }
   ]
 }
