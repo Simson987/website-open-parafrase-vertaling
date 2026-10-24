@@ -3,7 +3,59 @@
   "started": "2026-10-24T22:33:42Z",
   "mode": "built-in rasters and native SVG schemas",
   "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
-  "metadata_corrections": [],
+  "metadata_corrections": [
+    {
+      "book": "1samuel",
+      "before": {
+        "chapter": 16,
+        "file": "16.webp",
+        "alt": "Samuël zalft de jonge David te midden van zijn familie",
+        "scene": "David wordt gezalfd"
+      },
+      "after": {
+        "chapter": 16,
+        "file": "16.webp",
+        "alt": "Samuël zalft de jonge David te midden van zijn familie",
+        "scene": "David wordt gezalfd",
+        "verse": 13
+      },
+      "reason": "Gekoppeld aan de beschreven gebeurtenis: zalving, horen van Goliath, kiezen van stenen."
+    },
+    {
+      "book": "1samuel",
+      "before": {
+        "chapter": 17,
+        "file": "17-camp.webp",
+        "alt": "David kijkt vanuit het legerkamp naar Goliath aan de overzijde van het dal",
+        "scene": "David ziet Goliath"
+      },
+      "after": {
+        "chapter": 17,
+        "file": "17-camp.webp",
+        "alt": "David kijkt vanuit het legerkamp naar Goliath aan de overzijde van het dal",
+        "scene": "David ziet Goliath",
+        "verse": 23
+      },
+      "reason": "Gekoppeld aan de beschreven gebeurtenis: zalving, horen van Goliath, kiezen van stenen."
+    },
+    {
+      "book": "1samuel",
+      "before": {
+        "chapter": 17,
+        "file": "17-stones.webp",
+        "alt": "David kiest stenen uit een beek en houdt zijn slinger gereed",
+        "scene": "David kiest vijf stenen"
+      },
+      "after": {
+        "chapter": 17,
+        "file": "17-stones.webp",
+        "alt": "David kiest stenen uit een beek en houdt zijn slinger gereed",
+        "scene": "David kiest vijf stenen",
+        "verse": 40
+      },
+      "reason": "Gekoppeld aan de beschreven gebeurtenis: zalving, horen van Goliath, kiezen van stenen."
+    }
+  ],
   "images": [
     {
       "book": "1samuel",
@@ -812,6 +864,38 @@
           ]
         ],
         "note": "De verklaring aan tafel is de afgesproken dekmantel; David zelf blijft in het veld."
+      }
+    }
+  ],
+  "generation_failures": [
+    {
+      "index": 9,
+      "error": "image generation failed: http 400 Bad Request: Some(\"{\\n  \\\"error\\\": {\\n    \\\"message\\\": \\\"Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID e692b4a3-301d-429d-b434-24bd264400b1. safety_violations=[violence].\\\",\\n    \\\"type\\\": \\\"image_generation_user_error\\\",\\n    \\\"param\\\": null,\\n    \\\"code\\\": \\\"moderation_blocked\\\",\\n    \\\"moderation_details\\\": {\\n      \\\"moderation_stage\\\": \\\"output\\\",\\n      \\\"categories\\\": [\\n        \\\"violence\\\"\\n      ]\\n    }\\n  }\\n}\")",
+      "resolution": "Andere relevante vreedzame gebeurtenis uit hetzelfde hoofdstuk gekozen.",
+      "replacement": {
+        "book": "1samuel",
+        "chapter": 17,
+        "verse": 20,
+        "scene": "David vertrekt met het proviand",
+        "alt": "David neemt bij dageraad het proviand mee en laat de schapen bij een oppasser — 1 Samuël 17:20",
+        "kind": "scene",
+        "file": "17-20-inhoudelijk.webp",
+        "prompt": "Photorealistic educational ancient Israel scene, landscape 3:2. At sunrise young David in a modest woven tunic takes bread baskets and sacks of roasted grain from an elderly father Jesse beside a simple Bethlehem farmhouse. A shepherd in background watches the small sheep flock. Peaceful preparation of a food delivery, natural hands, exactly two arms each, no weapons, warriors, battle or danger, no text or modern objects."
+      }
+    },
+    {
+      "index": 10,
+      "error": "image generation failed: http 400 Bad Request: Some(\"{\\n  \\\"error\\\": {\\n    \\\"message\\\": \\\"Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID 476b3d14-4cde-4ab5-a717-5f348dcd67e6. safety_violations=[violence].\\\",\\n    \\\"type\\\": \\\"image_generation_user_error\\\",\\n    \\\"param\\\": null,\\n    \\\"code\\\": \\\"moderation_blocked\\\",\\n    \\\"moderation_details\\\": {\\n      \\\"moderation_stage\\\": \\\"output\\\",\\n      \\\"categories\\\": [\\n        \\\"violence\\\"\\n      ]\\n    }\\n  }\\n}\")",
+      "resolution": "Andere relevante vreedzame gebeurtenis uit hetzelfde hoofdstuk gekozen.",
+      "replacement": {
+        "book": "1samuel",
+        "chapter": 18,
+        "verse": 23,
+        "scene": "David spreekt met Sauls dienaren",
+        "alt": "David zegt tegen Sauls dienaren dat hij een arm en onbelangrijk man is — 1 Samuël 18:23",
+        "kind": "scene",
+        "file": "18-23-inhoudelijk.webp",
+        "prompt": "Photorealistic educational ancient Israel scene, landscape 3:2. Fully clothed adult David in simple woven clothes speaks modestly to two adult fully robed royal messengers in an ordinary sunlit courtyard. He gestures to his plain robe, explaining his humble means while they listen attentively. Peaceful conversation about marriage prospects, no weapons, threats, violence, trophies, modern objects or text. Natural human hands and exactly two arms each."
       }
     }
   ]
