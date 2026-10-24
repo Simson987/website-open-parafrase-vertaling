@@ -1,0 +1,280 @@
+{
+  "date": "2026-10-24",
+  "started": "2026-10-24T00:52:32Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "exodus",
+      "chapter": 16,
+      "verse": 33,
+      "scene": "Een kruik manna voor volgende generaties",
+      "alt": "Een kruik manna voor volgende generaties — Exodus 16:33",
+      "kind": "scene",
+      "file": "16-33-verhaal.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible illustration, landscape 3:2, authentic ancient Near Eastern setting, modest clothing, correct anatomy, no modern objects, readable text or watermark. Elderly eighty-three-year-old Aaron with gray beard and full simple ancient Hebrew robe carefully places a measured portion of small white manna grains into a plain clay jar beside his tent, no golden vessel, ark or temple.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "exodus",
+      "chapter": 18,
+      "verse": 12,
+      "scene": "Jethro deelt de maaltijd met de oudsten",
+      "alt": "Jethro deelt de maaltijd met de oudsten — Exodus 18:12",
+      "kind": "scene",
+      "file": "18-12-verhaal.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible illustration, landscape 3:2, authentic ancient Near Eastern setting, modest clothing, correct anatomy, no modern objects, readable text or watermark. Elderly Jethro and elderly gray-bearded Aaron sit with fully robed adult Hebrew elders sharing a simple communal meal before a wilderness tent, natural separate hands, no visible deity or sacrifice.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "exodus",
+      "chapter": 19,
+      "verse": 14,
+      "scene": "Het volk wast de kleren",
+      "alt": "Het volk wast de kleren — Exodus 19:14",
+      "kind": "scene",
+      "file": "19-14-verhaal.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible illustration, landscape 3:2, authentic ancient Near Eastern setting, modest clothing, correct anatomy, no modern objects, readable text or watermark. Fully clothed ancient Hebrew adults wash spare garments in clay basins outside their tents preparing for the third day at Sinai, nobody undressed or bathing, mountain distant, peaceful respectful scene.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "exodus",
+      "chapter": 16,
+      "verse": 16,
+      "file": "16-manna-weekritme.svg",
+      "scene": "Manna: verzamelen en rusten",
+      "alt": "Het weekritme van het manna: één gomer per persoon, op de zesde dag twee, op de zevende dag rust. Een gomer is een tiende efa.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1012,
+      "source": "Exodus 16:16–30, 36",
+      "design": {
+        "rows": [
+          [
+            "Gewone dagen",
+            "Eén gomer per persoon verzamelen; niets tot de volgende morgen bewaren."
+          ],
+          [
+            "Zesde dag",
+            "Twee gomers per persoon verzamelen en klaarmaken."
+          ],
+          [
+            "Zevende dag",
+            "Sabbat: eten wat bewaard is; buiten ligt geen manna."
+          ],
+          [
+            "De maat",
+            "Eén gomer is een tiende van een efa."
+          ]
+        ],
+        "note": "De tekst noemt een inhoudsverhouding; er wordt geen vaste moderne litermaat ingevuld."
+      }
+    },
+    {
+      "book": "exodus",
+      "chapter": 17,
+      "verse": 9,
+      "file": "17-samenwerking-rafidim.svg",
+      "scene": "Samenwerking bij Rafidim",
+      "alt": "Jozua voert de strijd; Mozes staat op de heuvel; Aäron en Hur ondersteunen zijn handen. Daarna volgen herinnering en altaar.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1098,
+      "source": "Exodus 17:8–16",
+      "design": {
+        "rows": [
+          [
+            "Jozua",
+            "Kiest mannen en voert de strijd tegen Amalek."
+          ],
+          [
+            "Mozes",
+            "Gaat met Gods staf op de heuvel staan; zijn handen worden zwaar."
+          ],
+          [
+            "Aäron en Hur",
+            "Laten Mozes op een steen zitten en ondersteunen elk een hand tot zonsondergang."
+          ],
+          [
+            "Na de overwinning",
+            "Een schriftelijke herinnering en het altaar: De HEERE is mijn Banier."
+          ]
+        ],
+        "note": "Het overzicht geeft de verschillende taken in dezelfde gebeurtenis weer."
+      }
+    },
+    {
+      "book": "exodus",
+      "chapter": 18,
+      "verse": 3,
+      "file": "18-gezin-van-mozes.svg",
+      "scene": "Mozes en zijn gezin",
+      "alt": "Jethro komt met Zippora en haar zonen Gersom en Eliëzer naar Mozes, bij de berg van God.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1204,
+      "source": "Exodus 18:1–7",
+      "design": {
+        "rows": [
+          [
+            "Jethro",
+            "Priester van Midian; schoonvader van Mozes."
+          ],
+          [
+            "Mozes + Zippora",
+            "Zippora is Jethro’s dochter en Mozes’ vrouw."
+          ],
+          [
+            "Gersom",
+            "De naam herinnert aan vreemdeling zijn."
+          ],
+          [
+            "Eliëzer",
+            "De naam herinnert aan Gods hulp en redding van Farao’s zwaard."
+          ],
+          [
+            "De hereniging",
+            "Jethro brengt Zippora en haar twee zonen naar het kamp bij de berg."
+          ]
+        ],
+        "note": "De namen en de uitleg van de beide zonennamen volgen Exodus 18."
+      }
+    },
+    {
+      "book": "exodus",
+      "chapter": 18,
+      "verse": 21,
+      "file": "18-verdeling-rechtspraak.svg",
+      "scene": "Samen de rechtspraak dragen",
+      "alt": "De rechtspraak wordt gedeeld over bekwame leiders van groepen van duizend, honderd, vijftig en tien; moeilijke zaken blijven voor Mozes.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "Exodus 18:19–26",
+      "design": {
+        "rows": [
+          [
+            "Mozes",
+            "Vertegenwoordigt het volk bij God en onderwijst voorschriften en wetten."
+          ],
+          [
+            "Bekwame leiders",
+            "Hebben ontzag voor God, zijn betrouwbaar en haten hebzucht."
+          ],
+          [
+            "Groepen in de tekst",
+            "Leiders over duizend, honderd, vijftig en tien."
+          ],
+          [
+            "Verdeling van de zaken",
+            "Kleine zaken behandelen zij zelf; moeilijke zaken brengen zij bij Mozes."
+          ]
+        ],
+        "note": "De genoemde groepsgroottes vormen geen berekend totaal van het volk of de leiders."
+      }
+    },
+    {
+      "book": "exodus",
+      "chapter": 19,
+      "verse": 10,
+      "file": "19-voorbereiding-sinai.svg",
+      "scene": "Voorbereiding bij de Sinaï",
+      "alt": "De voorbereiding omvat heiliging, wassen, grensstelling en gereedstaan op de derde dag bij de berg Sinaï.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 969,
+      "source": "Exodus 19:10–25",
+      "design": {
+        "rows": [
+          [
+            "Vandaag en morgen",
+            "Zich heiligen en de kleren wassen."
+          ],
+          [
+            "Een grens om de berg",
+            "Het volk mag die grens niet doorbreken."
+          ],
+          [
+            "De derde ochtend",
+            "Donder, bliksem, een zware wolk en een luide bazuin."
+          ],
+          [
+            "Aan de voet van de berg",
+            "Mozes leidt het volk naar buiten en ontvangt verdere waarschuwingen."
+          ]
+        ],
+        "note": "De dichte wolk en het vuur worden weergegeven zonder menselijke gestalte van God."
+      }
+    },
+    {
+      "book": "exodus",
+      "chapter": 20,
+      "verse": 3,
+      "file": "20-geboden-god-en-rust.svg",
+      "scene": "Geboden: God en rust",
+      "alt": "De eerste onderwerpen zijn trouw aan God, beeldenverering, de naam en de sabbat, na de herinnering aan bevrijding uit Egypte.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1091,
+      "source": "Exodus 20:2–11",
+      "design": {
+        "rows": [
+          [
+            "De inleiding",
+            "De HEERE heeft Israël uit Egypte, het slavenhuis, geleid."
+          ],
+          [
+            "Trouw aan God",
+            "Geen andere goden; geen gesneden beelden maken om te dienen."
+          ],
+          [
+            "De naam",
+            "De naam van de HEERE niet misbruiken."
+          ],
+          [
+            "De sabbat",
+            "Zes dagen werken; de zevende dag heiligen als rustdag voor het hele huishouden, vee en vreemdeling."
+          ]
+        ],
+        "note": "De geboden worden hier per onderwerp gegroepeerd; er wordt geen omstreden nummering opgelegd."
+      }
+    },
+    {
+      "book": "exodus",
+      "chapter": 20,
+      "verse": 12,
+      "file": "20-geboden-naaste.svg",
+      "scene": "Geboden: leven met de naaste",
+      "alt": "De geboden over ouders, leven, huwelijk, bezit, waarheid en verlangen volgens Exodus 20:12–17.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1012,
+      "source": "Exodus 20:12–17",
+      "design": {
+        "rows": [
+          [
+            "Ouders",
+            "Eer je vader en je moeder."
+          ],
+          [
+            "Leven en huwelijk",
+            "Pleeg geen moord en geen overspel."
+          ],
+          [
+            "Bezit en waarheid",
+            "Steel niet en leg geen vals getuigenis tegen je naaste af."
+          ],
+          [
+            "Verlangen",
+            "Verlang niet naar het huis, de vrouw, dienaren, vee of andere bezittingen van je naaste."
+          ]
+        ],
+        "note": "Een beknopt tekstoverzicht van de geboden over de omgang met anderen."
+      }
+    }
+  ]
+}

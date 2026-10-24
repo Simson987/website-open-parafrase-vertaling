@@ -1915,6 +1915,118 @@
           "source": "Exodus 11:1–10"
         }
       ]
+    },
+    {
+      "book": "exodus",
+      "chapter": 16,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "De kruik voor volgende generaties is een afzonderlijke handeling. Het weekschema verduidelijkt de maat en uitzondering op de bewaarinstructie.",
+      "additions": [
+        {
+          "verse": 33,
+          "scene": "Een kruik manna voor volgende generaties",
+          "kind": "scene",
+          "file": "16-33-verhaal.webp"
+        },
+        {
+          "verse": 16,
+          "file": "16-manna-weekritme.svg",
+          "scene": "Manna: verzamelen en rusten",
+          "kind": "diagram",
+          "source": "Exodus 16:16–30, 36"
+        }
+      ]
+    },
+    {
+      "book": "exodus",
+      "chapter": 18,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "De maaltijd is een eigen gebeurtenis. Twee schema’s verduidelijken het herenigde gezin en de concrete verdeling van rechtspraak.",
+      "additions": [
+        {
+          "verse": 12,
+          "scene": "Jethro deelt de maaltijd met de oudsten",
+          "kind": "scene",
+          "file": "18-12-verhaal.webp"
+        },
+        {
+          "verse": 3,
+          "file": "18-gezin-van-mozes.svg",
+          "scene": "Mozes en zijn gezin",
+          "kind": "diagram",
+          "source": "Exodus 18:1–7"
+        },
+        {
+          "verse": 21,
+          "file": "18-verdeling-rechtspraak.svg",
+          "scene": "Samen de rechtspraak dragen",
+          "kind": "diagram",
+          "source": "Exodus 18:19–26"
+        }
+      ]
+    },
+    {
+      "book": "exodus",
+      "chapter": 19,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Het wassen van kleding vult kamp, wolk en beklimming aan. Een tijdschema onderscheidt de voorbereiding en de derde dag.",
+      "additions": [
+        {
+          "verse": 14,
+          "scene": "Het volk wast de kleren",
+          "kind": "scene",
+          "file": "19-14-verhaal.webp"
+        },
+        {
+          "verse": 10,
+          "file": "19-voorbereiding-sinai.svg",
+          "scene": "Voorbereiding bij de Sinaï",
+          "kind": "diagram",
+          "source": "Exodus 19:10–25"
+        }
+      ]
+    },
+    {
+      "book": "exodus",
+      "chapter": 17,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "De bestaande rots, ondersteuning en altaar dekken drie scènes. Een taakverdeling verduidelijkt Jozua’s aandeel in de strijd en de samenwerking op de heuvel.",
+      "additions": [
+        {
+          "verse": 9,
+          "file": "17-samenwerking-rafidim.svg",
+          "scene": "Samenwerking bij Rafidim",
+          "kind": "diagram",
+          "source": "Exodus 17:8–16"
+        }
+      ]
+    },
+    {
+      "book": "exodus",
+      "chapter": 20,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "De bestaande berg, ouders en altaar blijven. Twee tekstschema’s maken de geboden leesbaar zonder verzonnen scènes of een betwiste nummering.",
+      "additions": [
+        {
+          "verse": 3,
+          "file": "20-geboden-god-en-rust.svg",
+          "scene": "Geboden: God en rust",
+          "kind": "diagram",
+          "source": "Exodus 20:2–11"
+        },
+        {
+          "verse": 12,
+          "file": "20-geboden-naaste.svg",
+          "scene": "Geboden: leven met de naaste",
+          "kind": "diagram",
+          "source": "Exodus 20:12–17"
+        }
+      ]
     }
   ]
 }
