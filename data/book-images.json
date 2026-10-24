@@ -21314,13 +21314,15 @@
         "chapter": 13,
         "file": "13-grapes.webp",
         "alt": "Verspieders dragen een grote druiventros door het dal",
-        "scene": "De vrucht van het land"
+        "scene": "De vrucht van het land",
+        "verse": 23
       },
       {
         "chapter": 21,
         "file": "21-serpent.webp",
         "alt": "Israëlieten kijken in het woestijnkamp naar de koperen slang",
-        "scene": "De koperen slang"
+        "scene": "De koperen slang",
+        "verse": 9
       },
       {
         "chapter": 1,
@@ -21659,7 +21661,10 @@
         "verse": 8,
         "file": "17-8.webp",
         "alt": "Beeld bij Numeri 17: Aärons staf bloeit",
-        "scene": "Aärons staf bloeit"
+        "scene": "Aärons staf bloeit",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 17,
@@ -22589,6 +22594,56 @@
         "kind": "diagram",
         "width": 840,
         "height": 1283
+      },
+      {
+        "chapter": 26,
+        "verse": 7,
+        "file": "26-tweede-telling.svg",
+        "scene": "De nieuwe telling per stam",
+        "alt": "De tweede legertelling per stam met de twaalf aantallen en het totaal van 601.730.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 2111
+      },
+      {
+        "chapter": 26,
+        "verse": 57,
+        "file": "26-levi-en-priesterfamilie.svg",
+        "scene": "Levi en de priesterfamilie",
+        "alt": "De genoemde familiebanden van Levi tot Aärons zonen en de afzonderlijke Levietentelling.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1247
+      },
+      {
+        "chapter": 27,
+        "verse": 1,
+        "file": "27-zelafead-en-dochters.svg",
+        "scene": "Zelafead en zijn dochters",
+        "alt": "De afstamming van Zelafead, de vijf dochters en de beslissing over hun erfdeel.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1055
+      },
+      {
+        "chapter": 27,
+        "verse": 8,
+        "file": "27-erfopvolging.svg",
+        "scene": "De genoemde erfopvolging",
+        "alt": "De opeenvolgende erfgenamen wanneer een gestorven man geen zoon nalaat.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 969
+      },
+      {
+        "chapter": 27,
+        "verse": 18,
+        "file": "27-jozua-en-eleazar.svg",
+        "scene": "Jozua, Mozes en Eleazar",
+        "alt": "De vraag, aanwijzing, handoplegging en de verschillende taken van Jozua en Eleazar.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1290
       }
     ],
     "jozua": [

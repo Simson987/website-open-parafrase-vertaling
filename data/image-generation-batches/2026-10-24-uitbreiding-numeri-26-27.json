@@ -1,0 +1,214 @@
+{
+  "date": "2026-10-24",
+  "started": "2026-10-24T01:54:08Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "numeri",
+      "chapter": 26,
+      "verse": 7,
+      "file": "26-tweede-telling.svg",
+      "scene": "De nieuwe telling per stam",
+      "alt": "De tweede legertelling per stam met de twaalf aantallen en het totaal van 601.730.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 2111,
+      "source": "Numeri 26:5–51",
+      "design": {
+        "rows": [
+          [
+            "Ruben",
+            "43.730 getelde mannen."
+          ],
+          [
+            "Simeon",
+            "22.200 getelde mannen."
+          ],
+          [
+            "Gad",
+            "40.500 getelde mannen."
+          ],
+          [
+            "Juda",
+            "76.500 getelde mannen."
+          ],
+          [
+            "Issaschar",
+            "64.300 getelde mannen."
+          ],
+          [
+            "Zebulon",
+            "60.500 getelde mannen."
+          ],
+          [
+            "Manasse",
+            "52.700 getelde mannen."
+          ],
+          [
+            "Efraïm",
+            "32.500 getelde mannen."
+          ],
+          [
+            "Benjamin",
+            "45.600 getelde mannen."
+          ],
+          [
+            "Dan",
+            "64.400 getelde mannen."
+          ],
+          [
+            "Aser",
+            "53.400 getelde mannen."
+          ],
+          [
+            "Nafthali",
+            "45.400 getelde mannen."
+          ]
+        ],
+        "note": "Mannen vanaf twintig jaar die in het leger kunnen dienen: 601.730. De Levieten worden afzonderlijk geteld."
+      }
+    },
+    {
+      "book": "numeri",
+      "chapter": 26,
+      "verse": 57,
+      "file": "26-levi-en-priesterfamilie.svg",
+      "scene": "Levi en de priesterfamilie",
+      "alt": "De genoemde familiebanden van Levi tot Aärons zonen en de afzonderlijke Levietentelling.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1247,
+      "source": "Numeri 26:57–62",
+      "design": {
+        "rows": [
+          [
+            "De drie families",
+            "Gerson, Kohath en Merari."
+          ],
+          [
+            "Kohath en Amram",
+            "Kohath wordt de vader van Amram."
+          ],
+          [
+            "Amram en Jochebed",
+            "Jochebed is een dochter van Levi. Hun kinderen zijn Aäron, Mozes en Mirjam."
+          ],
+          [
+            "Aärons zonen",
+            "Nadab, Abihu, Eleazar en Ithamar. De tekst vermeldt dat Nadab en Abihu gestorven zijn."
+          ],
+          [
+            "Afzonderlijke telling",
+            "23.000 mannelijke Levieten vanaf één maand; niet in de legertelling opgenomen."
+          ]
+        ],
+        "note": "Deze telling gebruikt een andere leeftijdsgrens dan de telling van het leger."
+      }
+    },
+    {
+      "book": "numeri",
+      "chapter": 27,
+      "verse": 1,
+      "file": "27-zelafead-en-dochters.svg",
+      "scene": "Zelafead en zijn dochters",
+      "alt": "De afstamming van Zelafead, de vijf dochters en de beslissing over hun erfdeel.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "Numeri 27:1–7",
+      "design": {
+        "rows": [
+          [
+            "De afstamming",
+            "Jozef → Manasse → Machir → Gilead → Hefer → Zelafead."
+          ],
+          [
+            "De vijf dochters",
+            "Machla, Noa, Hogla, Milka en Tirza."
+          ],
+          [
+            "Hun verzoek",
+            "Een eigen erfelijk bezit tussen de broers van hun vader, die geen zoon naliet."
+          ],
+          [
+            "De uitspraak",
+            "Hun verzoek is terecht; het erfdeel van hun vader gaat op hen over."
+          ]
+        ],
+        "note": "De vijf namen en de hele afstammingslijn volgen de plaatselijke hoofdstuktekst."
+      }
+    },
+    {
+      "book": "numeri",
+      "chapter": 27,
+      "verse": 8,
+      "file": "27-erfopvolging.svg",
+      "scene": "De genoemde erfopvolging",
+      "alt": "De opeenvolgende erfgenamen wanneer een gestorven man geen zoon nalaat.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 969,
+      "source": "Numeri 27:8–11",
+      "design": {
+        "rows": [
+          [
+            "Geen zoon",
+            "Het erfdeel gaat naar de dochter."
+          ],
+          [
+            "Geen dochter",
+            "Het erfdeel gaat naar zijn broers."
+          ],
+          [
+            "Geen broers",
+            "Het erfdeel gaat naar de broers van zijn vader."
+          ],
+          [
+            "Ook die ontbreken",
+            "Het erfdeel gaat naar de naaste bloedverwant in zijn familie."
+          ]
+        ],
+        "note": "Een volgordeschema van de wettelijke regeling in deze tekst."
+      }
+    },
+    {
+      "book": "numeri",
+      "chapter": 27,
+      "verse": 18,
+      "file": "27-jozua-en-eleazar.svg",
+      "scene": "Jozua, Mozes en Eleazar",
+      "alt": "De vraag, aanwijzing, handoplegging en de verschillende taken van Jozua en Eleazar.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1290,
+      "source": "Numeri 27:15–23",
+      "design": {
+        "rows": [
+          [
+            "De vraag van Mozes",
+            "Een leider die het volk voorgaat, zodat het niet als schapen zonder herder is."
+          ],
+          [
+            "De aangewezene",
+            "Jozua, zoon van Nun, een man in wie de Geest is."
+          ],
+          [
+            "De aanstelling",
+            "Voor Eleazar en de gemeenschap; Mozes legt zijn handen op Jozua en geeft hem zijn opdracht."
+          ],
+          [
+            "Het raadplegen",
+            "Eleazar zal de HEERE voor hem raadplegen met de Urim."
+          ],
+          [
+            "Leiden van de gemeenschap",
+            "Op het genoemde bevel trekken zij uit en komen zij terug."
+          ]
+        ],
+        "note": "De leiderstaak van Jozua en de priestertaak van Eleazar worden onderscheiden."
+      }
+    }
+  ]
+}

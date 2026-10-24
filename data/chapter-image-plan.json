@@ -3749,6 +3749,59 @@
           "source": "Numeri 25:1–18"
         }
       ]
+    },
+    {
+      "book": "numeri",
+      "chapter": 26,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "De bestaande registratie, loting en nieuwe generatie dekken de gebeurtenissen. Twee exacte schema’s maken de tweede telling en de priesterfamilie leesbaar; geen herhaalde registratiebeelden.",
+      "additions": [
+        {
+          "verse": 7,
+          "file": "26-tweede-telling.svg",
+          "scene": "De nieuwe telling per stam",
+          "kind": "diagram",
+          "source": "Numeri 26:5–51"
+        },
+        {
+          "verse": 57,
+          "file": "26-levi-en-priesterfamilie.svg",
+          "scene": "Levi en de priesterfamilie",
+          "kind": "diagram",
+          "source": "Numeri 26:57–62"
+        }
+      ]
+    },
+    {
+      "book": "numeri",
+      "chapter": 27,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "De drie bestaande scènes dekken verzoek, bergblik en aanstelling. Drie schema’s maken afstamming, erfopvolging en de verschillende taken van Jozua en Eleazar exact leesbaar.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "27-zelafead-en-dochters.svg",
+          "scene": "Zelafead en zijn dochters",
+          "kind": "diagram",
+          "source": "Numeri 27:1–7"
+        },
+        {
+          "verse": 8,
+          "file": "27-erfopvolging.svg",
+          "scene": "De genoemde erfopvolging",
+          "kind": "diagram",
+          "source": "Numeri 27:8–11"
+        },
+        {
+          "verse": 18,
+          "file": "27-jozua-en-eleazar.svg",
+          "scene": "Jozua, Mozes en Eleazar",
+          "kind": "diagram",
+          "source": "Numeri 27:15–23"
+        }
+      ]
     }
   ]
 }
