@@ -1,0 +1,880 @@
+{
+  "date": "2026-10-24",
+  "started": "2026-10-24T22:33:42Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "2samuel",
+      "chapter": 11,
+      "verse": 5,
+      "scene": "Bathseba laat een bericht brengen",
+      "alt": "Bathseba laat een bericht brengen — 2 Samuël 11:5",
+      "kind": "scene",
+      "file": "11-5-inhoudelijk.webp",
+      "prompt": "Use case: historical scene. Photorealistic educational Bible illustration, landscape 3:2, ancient Israel, modest woven clothing covering all people fully, natural hands and exactly two arms each. No modern items, Roman armor, readable letters, watermark, visible deity, nudity or graphic violence. An adult fully modestly robed Bathsheba in a simple ancient domestic courtyard quietly speaks to a fully robed adult messenger and sends a private message. Serious concerned expression, no bath, bed, romance, David present, exposed body, pregnancy anatomy or readable document.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2samuel",
+      "chapter": 11,
+      "verse": 14,
+      "scene": "Uria neemt de brief mee",
+      "alt": "Uria neemt de brief mee — 2 Samuël 11:14",
+      "kind": "scene",
+      "file": "11-14-inhoudelijk.webp",
+      "prompt": "Use case: historical scene. Photorealistic educational Bible illustration, landscape 3:2, ancient Israel, modest woven clothing covering all people fully, natural hands and exactly two arms each. No modern items, Roman armor, readable letters, watermark, visible deity, nudity or graphic violence. Fully robed adult king David hands a small rolled sealed letter to fully clothed adult Uriah in a sunlit ancient royal courtyard for delivery to commander Joab. Solemn restrained mood, no weapons held, battle, body, blood, readable writing or heroic celebration.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2samuel",
+      "chapter": 12,
+      "verse": 3,
+      "scene": "Het ooilam in Nathans verhaal",
+      "alt": "Illustratie van Nathans gelijkenis: de arme man houdt zijn enige ooilam in de armen — 2 Samuël 12:3",
+      "kind": "parable",
+      "file": "12-3-inhoudelijk.webp",
+      "prompt": "Use case: historical scene. Photorealistic educational Bible illustration, landscape 3:2, ancient Israel, modest woven clothing covering all people fully, natural hands and exactly two arms each. No modern items, Roman armor, readable letters, watermark, visible deity, nudity or graphic violence. A tender photorealistic illustration of THE PARABLE narrated by Nathan: a modestly robed poor adult father sits at a simple ancient home holding a single small healthy ewe lamb carefully in his arms; a plain bread loaf and clay cup beside him, two fully clothed children nearby. Peaceful compassionate scene, no wealthy man, slaughter or threats. No text or visible deity.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2samuel",
+      "chapter": 12,
+      "verse": 20,
+      "scene": "David staat op en eet",
+      "alt": "David staat op en eet — 2 Samuël 12:20",
+      "kind": "scene",
+      "file": "12-20-inhoudelijk.webp",
+      "prompt": "Use case: historical scene. Photorealistic educational Bible illustration, landscape 3:2, ancient Israel, modest woven clothing covering all people fully, natural hands and exactly two arms each. No modern items, Roman armor, readable letters, watermark, visible deity, nudity or graphic violence. Adult fully robed David, recently washed and wearing fresh plain clothing, sits and eats a small simple meal while household servants watch with quiet surprise. A sober scene after mourning, no dead or sick child, no celebration, no crown, no modern items.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2samuel",
+      "chapter": 13,
+      "verse": 38,
+      "scene": "Absalom verblijft in Gesur",
+      "alt": "Absalom verblijft in Gesur — 2 Samuël 13:38",
+      "kind": "scene",
+      "file": "13-38-inhoudelijk.webp",
+      "prompt": "Use case: historical scene. Photorealistic educational Bible illustration, landscape 3:2, ancient Israel, modest woven clothing covering all people fully, natural hands and exactly two arms each. No modern items, Roman armor, readable letters, watermark, visible deity, nudity or graphic violence. Fully modestly robed adult Absalom with long dark hair arrives at an ancient Geshur town gate with travel bag and a small escort. Sober exile, distant mountains, no women, children, feast, assault, murder, body or weapons raised. No triumphant welcome.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2samuel",
+      "chapter": 14,
+      "verse": 2,
+      "scene": "Joab spreekt de wijze vrouw",
+      "alt": "Joab spreekt de wijze vrouw — 2 Samuël 14:2",
+      "kind": "scene",
+      "file": "14-2-inhoudelijk.webp",
+      "prompt": "Use case: historical scene. Photorealistic educational Bible illustration, landscape 3:2, ancient Israel, modest woven clothing covering all people fully, natural hands and exactly two arms each. No modern items, Roman armor, readable letters, watermark, visible deity, nudity or graphic violence. Adult fully robed Joab quietly instructs a wise fully robed older woman from Tekoa in a simple ancient courtyard, explaining his plan. She listens with serious thoughtful face, no King David present, no widowed children shown as actual events, no papers.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2samuel",
+      "chapter": 15,
+      "verse": 29,
+      "scene": "De priesters brengen de ark terug",
+      "alt": "De priesters brengen de ark terug — 2 Samuël 15:29",
+      "kind": "scene",
+      "file": "15-29-inhoudelijk.webp",
+      "prompt": "Use case: historical scene. Photorealistic educational Bible illustration, landscape 3:2, ancient Israel, modest woven clothing covering all people fully, natural hands and exactly two arms each. No modern items, Roman armor, readable letters, watermark, visible deity, nudity or graphic violence. Four fully robed priestly porters on long poles carry a rectangular covenant ark completely under an opaque blue cloth back toward the ancient gate of Jerusalem while robed Zadok and Abiathar accompany them. View from rear, no touching the chest, no visible ark details or battle, no David leading.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2samuel",
+      "chapter": 15,
+      "verse": 37,
+      "scene": "Husai keert naar de stad terug",
+      "alt": "Husai keert naar de stad terug — 2 Samuël 15:37",
+      "kind": "scene",
+      "file": "15-37-inhoudelijk.webp",
+      "prompt": "Use case: historical scene. Photorealistic educational Bible illustration, landscape 3:2, ancient Israel, modest woven clothing covering all people fully, natural hands and exactly two arms each. No modern items, Roman armor, readable letters, watermark, visible deity, nudity or graphic violence. An older fully robed Hushai with torn outer clothes and a little earth on his head enters the gate of ancient Jerusalem on foot, while in the distance a separate small entourage of long-haired adult Absalom approaches the city. No fight, arrest, written plan or overly grand palace.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2samuel",
+      "chapter": 16,
+      "verse": 14,
+      "scene": "De vluchtelingen rusten uit",
+      "alt": "De vluchtelingen rusten uit — 2 Samuël 16:14",
+      "kind": "scene",
+      "file": "16-14-inhoudelijk.webp",
+      "prompt": "Use case: historical scene. Photorealistic educational Bible illustration, landscape 3:2, ancient Israel, modest woven clothing covering all people fully, natural hands and exactly two arms each. No modern items, Roman armor, readable letters, watermark, visible deity, nudity or graphic violence. Exhausted fully robed adult David and a few fully clothed companions rest under sparse trees beside a dry wilderness path, setting down travel packs and drinking water. Sober tired faces, no injuries, soldiers attacking, feast or modern shelters.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2samuel",
+      "chapter": 17,
+      "verse": 27,
+      "scene": "Voorraad komt naar Mahanaïm",
+      "alt": "Voorraad komt naar Mahanaïm — 2 Samuël 17:27",
+      "kind": "scene",
+      "file": "17-27-inhoudelijk.webp",
+      "prompt": "Use case: historical scene. Photorealistic educational Bible illustration, landscape 3:2, ancient Israel, modest woven clothing covering all people fully, natural hands and exactly two arms each. No modern items, Roman armor, readable letters, watermark, visible deity, nudity or graphic violence. Three fully robed adult local benefactors bring bedding rolls, clay bowls, sacks of grain, baskets of beans, jars and a few sheep to David and weary fully clothed travelers beside an ancient Mahanaim gate. Compassionate practical assistance, no weapons raised or triumph.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2samuel",
+      "chapter": 18,
+      "verse": 31,
+      "scene": "De Cuschiet brengt het bericht",
+      "alt": "De Cuschiet brengt het bericht — 2 Samuël 18:31",
+      "kind": "scene",
+      "file": "18-31-inhoudelijk.webp",
+      "prompt": "Use case: historical scene. Photorealistic educational Bible illustration, landscape 3:2, ancient Israel, modest woven clothing covering all people fully, natural hands and exactly two arms each. No modern items, Roman armor, readable letters, watermark, visible deity, nudity or graphic violence. An adult dark-skinned Cushite messenger in modest ancient woven clothes, dusty from running, stands respectfully before seated fully robed David at a stone city gate. He delivers a difficult report; David listens anxiously. No body, blood, hanging figure, battle or celebratory pose.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2samuel",
+      "chapter": 19,
+      "verse": 25,
+      "scene": "Mefiboseth verklaart zijn afwezigheid",
+      "alt": "Mefiboseth verklaart zijn afwezigheid — 2 Samuël 19:25",
+      "kind": "scene",
+      "file": "19-25-inhoudelijk.webp",
+      "prompt": "Use case: historical scene. Photorealistic educational Bible illustration, landscape 3:2, ancient Israel, modest woven clothing covering all people fully, natural hands and exactly two arms each. No modern items, Roman armor, readable letters, watermark, visible deity, nudity or graphic violence. Adult fully modestly robed Mephibosheth sits supported on a low seat, both feet naturally resting, with an untrimmed beard and worn unwashed clothes, speaking earnestly to fully robed adult king David beside a riverbank. A simple walking stick beside his seat. No mocking, injury detail, chains or miraculous healing.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2samuel",
+      "chapter": 19,
+      "verse": 18,
+      "scene": "De familie steekt met de pont over",
+      "alt": "De familie steekt met de pont over — 2 Samuël 19:18",
+      "kind": "scene",
+      "file": "19-18-inhoudelijk.webp",
+      "prompt": "Use case: historical scene. Photorealistic educational Bible illustration, landscape 3:2, ancient Israel, modest woven clothing covering all people fully, natural hands and exactly two arms each. No modern items, Roman armor, readable letters, watermark, visible deity, nudity or graphic violence. A simple ancient flat wooden ferry carries fully clothed adult members of a royal household and travel packs safely across a calm Jordan river, boatmen using poles, moderate realistic small group and stable vessel, no modern motors or bridge, no people falling or battle.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2samuel",
+      "chapter": 20,
+      "verse": 4,
+      "scene": "Amasa krijgt de opdracht",
+      "alt": "Amasa krijgt de opdracht — 2 Samuël 20:4",
+      "kind": "scene",
+      "file": "20-4-inhoudelijk.webp",
+      "prompt": "Use case: historical scene. Photorealistic educational Bible illustration, landscape 3:2, ancient Israel, modest woven clothing covering all people fully, natural hands and exactly two arms each. No modern items, Roman armor, readable letters, watermark, visible deity, nudity or graphic violence. Fully robed adult David gives adult commander Amasa an urgent instruction to gather the men of Judah, in a simple ancient palace courtyard; Amasa listens with attentive open hands. No letters, sword attack, injury, corpse or crown transfer.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2samuel",
+      "chapter": 11,
+      "verse": 1,
+      "file": "11-schuld-en-doofpot.svg",
+      "scene": "Schuld en de doofpot",
+      "alt": "De verantwoordelijkheid en opeenvolgende pogingen om de zwangerschap te verbergen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1412,
+      "source": "2 Samuël 11:1–27",
+      "design": {
+        "rows": [
+          [
+            "De achtergrond",
+            "Joab en het leger belegeren Rabba; David blijft in Jeruzalem."
+          ],
+          [
+            "Bathseba",
+            "Dochter van Eliam, vrouw van Uria de Hethiet; David laat haar halen; zij meldt haar zwangerschap."
+          ],
+          [
+            "Uria teruggeroepen",
+            "Gaat uit trouw aan de manschappen niet naar huis, ook niet na Davids maaltijd."
+          ],
+          [
+            "De brief",
+            "Uria draagt zelf de opdracht die tot zijn dood moet leiden; Joab voert de plaatsing uit."
+          ],
+          [
+            "De afsluiting",
+            "Rouw om Uria; David neemt Bathseba als vrouw; de verteller noemt Davids handelen slecht."
+          ]
+        ],
+        "note": "Davids verhullende woorden over het zwaard zijn zijn eigen reactie; de verteller verontschuldigt hem niet."
+      }
+    },
+    {
+      "book": "2samuel",
+      "chapter": 12,
+      "verse": 1,
+      "file": "12-gelijkenis-en-aanklacht.svg",
+      "scene": "Gelijkenis en de aanklacht",
+      "alt": "Verhaal, oordeel, toepassing en het verschil tussen vergeving en gevolgen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1247,
+      "source": "2 Samuël 12:1–14",
+      "design": {
+        "rows": [
+          [
+            "Het vertelde verhaal",
+            "Rijke man met veel vee; arme man met één geliefd ooilam."
+          ],
+          [
+            "Het onrecht",
+            "De rijke neemt het lam voor zijn gast."
+          ],
+          [
+            "Davids oordeel",
+            "De daad verdient de dood; vierdubbele vergoeding."
+          ],
+          [
+            "Nathans toepassing",
+            "U bent die man: Uria gedood en zijn vrouw genomen."
+          ],
+          [
+            "Erkenning en gevolgen",
+            "David belijdt zonde; vergeving wordt uitgesproken, maar ook blijvende gevolgen en de dood van het kind."
+          ]
+        ],
+        "note": "Het lam hoort bij een gelijkenis, niet bij een afzonderlijk voorval uit Davids huishouding."
+      }
+    },
+    {
+      "book": "2samuel",
+      "chapter": 12,
+      "verse": 15,
+      "file": "12-verlies-salomo-rabba.svg",
+      "scene": "Verlies, Salomo en Rabba",
+      "alt": "Verschillende geboorten en de afzonderlijke politieke slotgebeurtenissen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1369,
+      "source": "2 Samuël 12:15–31",
+      "design": {
+        "rows": [
+          [
+            "Het zieke kind",
+            "David bidt en vast; het kind sterft op de zevende dag."
+          ],
+          [
+            "De verandering",
+            "David staat op, wast zich, aanbidt en eet; hij verklaart zijn hoop tijdens het leven."
+          ],
+          [
+            "Een latere zoon",
+            "Bathseba krijgt Salomo; Nathan brengt de naam Jedidja over."
+          ],
+          [
+            "Rabba",
+            "Joab neemt de waterstad en laat David komen voor de verdere inname."
+          ],
+          [
+            "De nasleep",
+            "Kroon en buit; de tekst beschrijft ook gewelddadige behandeling van de Ammonieten."
+          ]
+        ],
+        "note": "De twee kinderen zijn verschillende zonen. De gruwelijke nasleep wordt niet als feestillustratie verbeeld."
+      }
+    },
+    {
+      "book": "2samuel",
+      "chapter": 13,
+      "verse": 1,
+      "file": "13-tamar-en-het-geweld.svg",
+      "scene": "Tamar en het geweld",
+      "alt": "Familierelaties, bedrog, expliciete weigering en de gevolgen voor Tamar.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1412,
+      "source": "2 Samuël 13:1–22",
+      "design": {
+        "rows": [
+          [
+            "De familie",
+            "Amnon en Absalom zijn zonen van David; Tamar is Absaloms zus."
+          ],
+          [
+            "Het bedrog",
+            "Jonadab, zoon van Davids broer Simea, geeft het plan om ziekte voor te wenden."
+          ],
+          [
+            "De duidelijke weigering",
+            "Tamar noemt het geweld en een schanddaad; Amnon luistert niet en verkracht haar."
+          ],
+          [
+            "Daarna",
+            "Amnon haat haar, laat haar buitenzetten en de deur sluiten."
+          ],
+          [
+            "De gevolgen",
+            "Tamar rouwt en woont eenzaam bij Absalom. David is kwaad; Absalom zwijgt tegen Amnon en haat hem."
+          ]
+        ],
+        "note": "De schuld ligt bij Amnon. Tamars protest en gevolgen worden niet veranderd in een romantisch tafereel."
+      }
+    },
+    {
+      "book": "2samuel",
+      "chapter": 13,
+      "verse": 23,
+      "file": "13-wraak-en-gerucht.svg",
+      "scene": "Wraak, gerucht en vlucht",
+      "alt": "De twee tijdsprongen, de wraak en het verschil tussen gerucht en werkelijkheid.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1247,
+      "source": "2 Samuël 13:23–39",
+      "design": {
+        "rows": [
+          [
+            "Twee jaar later",
+            "Absalom heeft scheerders in Baäl-hazor en nodigt de koningszonen uit."
+          ],
+          [
+            "De opdracht",
+            "Hij laat Amnon door zijn knechten doden; de overige zonen vluchten op muildieren."
+          ],
+          [
+            "Het onjuiste bericht",
+            "Alle zonen zouden gedood zijn."
+          ],
+          [
+            "Jonadabs correctie",
+            "Alleen Amnon is dood; daarna komen de andere zonen huilend terug."
+          ],
+          [
+            "Gesur",
+            "Absalom vlucht naar koning Thalmai, zoon van Ammihur; verblijf drie jaar."
+          ]
+        ],
+        "note": "Het eerste bericht aan David is een gerucht en wordt door de gebeurtenissen gecorrigeerd."
+      }
+    },
+    {
+      "book": "2samuel",
+      "chapter": 14,
+      "verse": 2,
+      "file": "14-tekoa-en-joabs-plan.svg",
+      "scene": "Tekoa en Joabs plan",
+      "alt": "De vertelling, toepassing en beperkte toestemming voor Absalom.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1283,
+      "source": "2 Samuël 14:2–24",
+      "design": {
+        "rows": [
+          [
+            "De opdracht",
+            "Joab laat de wijze vrouw rouw spelen en legt haar woorden in de mond."
+          ],
+          [
+            "Het voorgestelde geval",
+            "Weduwe met twee zonen; één gedood, overlevende erfgenaam bedreigd."
+          ],
+          [
+            "Davids toezegging",
+            "Bescherming voor de zoon."
+          ],
+          [
+            "De toepassing",
+            "Waarom de eigen verstoten zoon niet terughalen? David doorziet Joabs aandeel."
+          ],
+          [
+            "De beperkte terugkeer",
+            "Absalom uit Gesur naar Jeruzalem; naar eigen huis, niet voor de koning."
+          ]
+        ],
+        "note": "Het geval van de weduwe hoort bij de overreding; het is geen bevestigd familiebericht over de vrouw."
+      }
+    },
+    {
+      "book": "2samuel",
+      "chapter": 14,
+      "verse": 25,
+      "file": "14-twee-jaren-en-toegang.svg",
+      "scene": "Twee jaren zonder toegang",
+      "alt": "Uiterlijk, naamgenoten, wachttijd en gedwongen bemiddeling.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1240,
+      "source": "2 Samuël 14:25–33",
+      "design": {
+        "rows": [
+          [
+            "Absaloms uiterlijk",
+            "Geprezen schoonheid; jaarlijks haar knippen, ongeveer twee kilo genoemd."
+          ],
+          [
+            "Zijn gezin",
+            "Drie zonen en één dochter Tamar."
+          ],
+          [
+            "De wachttijd",
+            "Twee volle jaren in Jeruzalem zonder de koning te zien."
+          ],
+          [
+            "Joab komt niet",
+            "Twee oproepen zonder gevolg; Absalom laat Joabs gerstakker verbranden."
+          ],
+          [
+            "De ontvangst",
+            "Joab brengt de vraag; David laat Absalom komen en kust hem."
+          ]
+        ],
+        "note": "De dochter Tamar is een andere persoon dan Absaloms zus Tamar. Het haargewicht volgt deze vertaling."
+      }
+    },
+    {
+      "book": "2samuel",
+      "chapter": 15,
+      "verse": 1,
+      "file": "15-absaloms-opbouw.svg",
+      "scene": "Absaloms opbouw van macht",
+      "alt": "Openbare toenadering, geheime afspraak en de onwetende genodigden.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1326,
+      "source": "2 Samuël 15:1–13",
+      "design": {
+        "rows": [
+          [
+            "Het gevolg",
+            "Wagens, paarden en vijftig voorlopers."
+          ],
+          [
+            "Bij de poort",
+            "Hij bevestigt rechtszoekers, kleineert de toegang tot David en wint hun hart."
+          ],
+          [
+            "De reis naar Hebron",
+            "Hij noemt een gelofte; de tekst zegt na veertig jaar."
+          ],
+          [
+            "Het geheime signaal",
+            "Boden en bazuin: Absalom is koning in Hebron. Tweehonderd genodigden weten van niets."
+          ],
+          [
+            "De groei",
+            "Achitofel sluit aan; David hoort dat het hart van Israël naar Absalom uitgaat."
+          ]
+        ],
+        "note": "Het jaargetal volgt deze hoofdstuktekst; geen alternatieve lezing wordt zonder vermelding ingevuld."
+      }
+    },
+    {
+      "book": "2samuel",
+      "chapter": 15,
+      "verse": 14,
+      "file": "15-vlucht-en-berichten.svg",
+      "scene": "Vlucht en het berichtennetwerk",
+      "alt": "De rollen bij vertrek, bewaring van de ark en het berichtennetwerk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1333,
+      "source": "2 Samuël 15:14–37",
+      "design": {
+        "rows": [
+          [
+            "Het vertrek",
+            "David te voet met gezin; tien bijvrouwen blijven voor het paleis achter."
+          ],
+          [
+            "De trouwe Ithai",
+            "Zeshonderd Gethieten; Ithai kiest te blijven met mannen en kinderen."
+          ],
+          [
+            "De priesters",
+            "Zadok en Abjathar brengen de ark terug naar de stad."
+          ],
+          [
+            "De zonen als boden",
+            "Ahimaäz is Zadoks zoon; Jonathan is Abjathars zoon."
+          ],
+          [
+            "Husai",
+            "Terug naar Absalom; raad verijdelen en informatie via priesters en zonen doorgeven."
+          ]
+        ],
+        "note": "Jonathan in dit netwerk is de zoon van Abjathar, niet de gestorven zoon van Saul."
+      }
+    },
+    {
+      "book": "2samuel",
+      "chapter": 16,
+      "verse": 1,
+      "file": "16-gaven-en-beschuldigingen.svg",
+      "scene": "Gaven en beschuldigingen",
+      "alt": "Hulp, beschuldiging, voortijdig besluit en terughouding tegenover Simeï.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1283,
+      "source": "2 Samuël 16:1–14",
+      "design": {
+        "rows": [
+          [
+            "Ziba’s gaven",
+            "Twee ezels; tweehonderd broden, honderd rozijnenkoeken, honderd zomervruchten en wijn."
+          ],
+          [
+            "Ziba’s bewering",
+            "Mefiboseth zou op herstel van Sauls koningschap hopen."
+          ],
+          [
+            "Davids besluit",
+            "Het bezit van Mefiboseth gaat naar Ziba."
+          ],
+          [
+            "Simeï uit Bahurim",
+            "Zoon van Gera; vloeken, stenen en stof."
+          ],
+          [
+            "Davids terughouding",
+            "Hij laat Abisai geen wraak nemen; verdertrekken en uitgeput rusten."
+          ]
+        ],
+        "note": "Ziba’s verklaring is een bewering. Mefiboseth geeft later in hoofdstuk 19 zijn eigen verklaring."
+      }
+    },
+    {
+      "book": "2samuel",
+      "chapter": 16,
+      "verse": 15,
+      "file": "16-raad-in-jeruzalem.svg",
+      "scene": "Raad in Jeruzalem",
+      "alt": "De raadgevers, hun woorden en de politieke bedoeling van het daktafereel.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1283,
+      "source": "2 Samuël 16:15–23",
+      "design": {
+        "rows": [
+          [
+            "De aankomst",
+            "Absalom met Israël en Achitofel in Jeruzalem."
+          ],
+          [
+            "Husai’s begroeting",
+            "Leve de koning; Absalom bevraagt zijn trouw aan David."
+          ],
+          [
+            "Husai’s antwoord",
+            "Hij biedt aan de zoon te dienen zoals de vader."
+          ],
+          [
+            "Achitofels advies",
+            "De achtergelaten bijvrouwen publiek in bezit nemen; een tent op het dak."
+          ],
+          [
+            "De bedoeling",
+            "De breuk met David openlijk maken en de aanhang versterken."
+          ]
+        ],
+        "note": "De daad wordt als machtspolitiek benoemd; de vrouwen worden niet als seksueel schouwspel afgebeeld."
+      }
+    },
+    {
+      "book": "2samuel",
+      "chapter": 17,
+      "verse": 1,
+      "file": "17-twee-adviezen.svg",
+      "scene": "Twee adviezen aan Absalom",
+      "alt": "De verschillende aantallen, timing, risico’s en gekozen strategie.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1283,
+      "source": "2 Samuël 17:1–14",
+      "design": {
+        "rows": [
+          [
+            "Achitofel",
+            "Twaalfduizend man; direct vannacht; de vermoeide David alleen doden."
+          ],
+          [
+            "Husai’s bezwaar",
+            "David en mannen zijn ervaren; mogelijk in hinderlaag; kans op vroege paniek."
+          ],
+          [
+            "Husai’s voorstel",
+            "Heel Israël verzamelen; Absalom zelf mee; overmacht tegen allen."
+          ],
+          [
+            "De keuze",
+            "Absalom en Israël verkiezen Husai’s raad."
+          ],
+          [
+            "De vertellersverklaring",
+            "De HEERE verijdelt Achitofels goede raad om onheil over Absalom te brengen."
+          ]
+        ],
+        "note": "Beer, leeuw, zand en dauw zijn vergelijkingen in Husai’s overreding, geen letterlijk extra gebeurde scènes."
+      }
+    },
+    {
+      "book": "2samuel",
+      "chapter": 17,
+      "verse": 15,
+      "file": "17-bodem-berichten-en-voedsel.svg",
+      "scene": "Boden, berichten en voedsel",
+      "alt": "De juiste informatieketen, schuilplaats en bevoorraders.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1369,
+      "source": "2 Samuël 17:15–29",
+      "design": {
+        "rows": [
+          [
+            "De keten",
+            "Husai → Zadok en Abjathar → dienstmeisje → Jonathan en Ahimaäz → David."
+          ],
+          [
+            "De schuilplaats",
+            "Gezien door een jongen; put in Bahurim, met kleed en gort afgedekt."
+          ],
+          [
+            "De oversteek",
+            "David en heel het gevolg vóór het ochtendlicht over de Jordaan."
+          ],
+          [
+            "De twee kampen",
+            "David in Mahanaïm; Absalom met Amasa als bevelhebber in Gilead."
+          ],
+          [
+            "De helpers",
+            "Sobi uit Rabba, Machir uit Lodebar en Barzillai uit Rogelim brengen beddengoed en voedsel."
+          ]
+        ],
+        "note": "Achitofel ziet zijn advies verworpen, gaat naar huis en sterft door zelfdoding; dat wordt niet grafisch afgebeeld."
+      }
+    },
+    {
+      "book": "2samuel",
+      "chapter": 18,
+      "verse": 1,
+      "file": "18-bevel-en-uitkomst.svg",
+      "scene": "Het bevel en de uitkomst",
+      "alt": "De drie bevelhebbers, het genegeerde bevel en twee verschillende gedenkplekken.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1369,
+      "source": "2 Samuël 18:1–18",
+      "design": {
+        "rows": [
+          [
+            "Drie afdelingen",
+            "Joab; Abisai; Ithai de Gethiet. David blijft op verzoek in de stad."
+          ],
+          [
+            "Het openbare bevel",
+            "Zacht omgaan met Absalom; iedereen hoort het."
+          ],
+          [
+            "Het woud",
+            "Twintigduizend doden; het woud eist meer slachtoffers dan het zwaard."
+          ],
+          [
+            "Absalom",
+            "Zijn hoofd raakt klem in een eik; de getuige wil hem niet doden, Joab en zijn mannen wel."
+          ],
+          [
+            "De nasleep",
+            "Bazuin, kuil en steenhoop; daarnaast staat een eerder opgericht gedenkteken in het Koningsdal."
+          ]
+        ],
+        "note": "De tekst zegt dat zijn hoofd klemraakt; niet dat hij aan zijn haar wordt opgehangen. Het oudere gedenkteken is een andere plek dan de kuil."
+      }
+    },
+    {
+      "book": "2samuel",
+      "chapter": 18,
+      "verse": 19,
+      "file": "18-twee-boden.svg",
+      "scene": "Twee boden naar David",
+      "alt": "Vertrekvolgorde, inhalen, berichten en Davids reactie.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1247,
+      "source": "2 Samuël 18:19–33",
+      "design": {
+        "rows": [
+          [
+            "De eerste zending",
+            "Joab stuurt de Cuschiet."
+          ],
+          [
+            "Ahimaäz blijft vragen",
+            "Hij mag ook lopen en haalt de Cuschiet via de vlakte in."
+          ],
+          [
+            "De wacht",
+            "Ziet eerst één man, daarna de tweede, en herkent Ahimaäz."
+          ],
+          [
+            "De twee berichten",
+            "Ahimaäz meldt overwinning maar ontwijkt de vraag; de Cuschiet bevestigt Absaloms dood indirect."
+          ],
+          [
+            "De vader",
+            "David gaat huilend naar de kamer boven de poort."
+          ]
+        ],
+        "note": "Een overwinningsbericht kan voor David tegelijk een diep verlies betekenen."
+      }
+    },
+    {
+      "book": "2samuel",
+      "chapter": 19,
+      "verse": 1,
+      "file": "19-terugkeer-en-verzoening.svg",
+      "scene": "Terugkeer en verzoening",
+      "alt": "Rouw, politiek overleg, oversteek en terughouding.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1247,
+      "source": "2 Samuël 19:1–23",
+      "design": {
+        "rows": [
+          [
+            "De rouw en de mannen",
+            "Joab spreekt David aan; David ontvangt het volk in de poort."
+          ],
+          [
+            "De oproep",
+            "Israël en Juda bespreken terughalen; Amasa krijgt het bevel aangeboden."
+          ],
+          [
+            "De Jordaan",
+            "Juda begeleidt de koning; veerpont voor de familie."
+          ],
+          [
+            "Simeï",
+            "Komt met duizend Benjaminieten; erkent zijn zonde."
+          ],
+          [
+            "De eed",
+            "David weigert Abisai’s wraak en belooft Simeï het leven."
+          ]
+        ],
+        "note": "De benoeming van Amasa en de belofte aan Simeï zijn aparte beslissingen bij de terugkeer."
+      }
+    },
+    {
+      "book": "2samuel",
+      "chapter": 19,
+      "verse": 24,
+      "file": "19-drie-gesprekken.svg",
+      "scene": "Drie gesprekken na de vlucht",
+      "alt": "Belangrijke verschillende gesprekken, landverdeling en spanningen tussen stammen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1326,
+      "source": "2 Samuël 19:24–43",
+      "design": {
+        "rows": [
+          [
+            "Mefiboseth",
+            "Onverzorgd uit trouw; zegt dat Ziba hem bedroog en belasterde."
+          ],
+          [
+            "Het land",
+            "David laat delen; Mefiboseth stelt de veilige terugkeer boven het bezit."
+          ],
+          [
+            "Barzillai",
+            "Tachtig jaar; wil thuis blijven; Chimham mag meegaan."
+          ],
+          [
+            "Het afscheid",
+            "David kust en zegent Barzillai; verder naar Gilgal."
+          ],
+          [
+            "Het geschil",
+            "Israël noemt tien delen aan de koning; Juda beroept zich op verwantschap en spreekt harder."
+          ]
+        ],
+        "note": "Mefiboseths verklaring staat tegenover Ziba’s bericht in hoofdstuk 16; geen van beide wordt als ongeciteerd vertellersfeit behandeld."
+      }
+    },
+    {
+      "book": "2samuel",
+      "chapter": 20,
+      "verse": 1,
+      "file": "20-seba-en-de-stad.svg",
+      "scene": "Seba en de belegerde stad",
+      "alt": "Nieuwe opstand, verantwoordelijkheden en het beëindigde beleg.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1283,
+      "source": "2 Samuël 20:1–22",
+      "design": {
+        "rows": [
+          [
+            "De nieuwe breuk",
+            "Seba, zoon van Bichri, roept Israël van David weg; Juda blijft trouw."
+          ],
+          [
+            "Amasa en Abisai",
+            "Drie dagen opdracht; Amasa te laat; Abisai op pad."
+          ],
+          [
+            "Joabs misdaad",
+            "Hij doodt Amasa bij de steen van Gibeon en vervolgt Seba."
+          ],
+          [
+            "Abel-Beth-Maächa",
+            "Belegeringswal en ondermijning; een wijze vrouw onderhandelt."
+          ],
+          [
+            "De afloop",
+            "Seba wordt gedood; Joab blaast en het leger trekt weg."
+          ]
+        ],
+        "note": "De wijze vrouw vraagt behoud van de stad; de uitvoering rond Seba wordt zakelijk benoemd zonder verminking te tonen."
+      }
+    },
+    {
+      "book": "2samuel",
+      "chapter": 20,
+      "verse": 23,
+      "file": "20-bestuur-na-de-opstand.svg",
+      "scene": "Het bestuur na de opstand",
+      "alt": "Alle genoemde ambten en de bijbehorende namen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1118,
+      "source": "2 Samuël 20:23–26",
+      "design": {
+        "rows": [
+          [
+            "Het leger",
+            "Joab."
+          ],
+          [
+            "Krethi en Plethi",
+            "Benaja, zoon van Jojada."
+          ],
+          [
+            "Arbeid en kanselier",
+            "Adoram over dwangarbeid; Josafat, zoon van Ahilud, kanselier."
+          ],
+          [
+            "Schrijver en priesters",
+            "Seja is schrijver; Zadok en Abjathar priesters."
+          ],
+          [
+            "Hoge dienaar",
+            "Ira, de Jaïriet."
+          ]
+        ],
+        "note": "De namen en functies volgen deze slotlijst, die verschilt van de eerdere bestuurslijst."
+      }
+    }
+  ]
+}
