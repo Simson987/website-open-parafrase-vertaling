@@ -3414,6 +3414,229 @@
           "source": "Numeri 7:13–17, 84–88"
         }
       ]
+    },
+    {
+      "book": "numeri",
+      "chapter": 11,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Eldad en Medad in het kamp zijn een afzonderlijke gebeurtenis naast manna, oudsten en kwartels. Een schema verbindt de opeenvolgende gebeurtenissen.",
+      "additions": [
+        {
+          "verse": 26,
+          "scene": "Eldad en Medad profeteren in het kamp",
+          "kind": "scene",
+          "file": "11-26-uitbreiding.webp"
+        },
+        {
+          "verse": 1,
+          "file": "11-klacht-en-oudsten.svg",
+          "scene": "Klacht, hulp en gevolgen",
+          "kind": "diagram",
+          "source": "Numeri 11:1–35"
+        }
+      ]
+    },
+    {
+      "book": "numeri",
+      "chapter": 12,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Mirjams terugkeer is een andere fase dan het buiten blijven; de tijdlijn maakt gebed en zeven dagen wachten zichtbaar.",
+      "additions": [
+        {
+          "verse": 15,
+          "scene": "Mirjam keert terug na zeven dagen",
+          "kind": "scene",
+          "file": "12-15-uitbreiding.webp"
+        },
+        {
+          "verse": 4,
+          "file": "12-mirjam-tijdlijn.svg",
+          "scene": "De gebeurtenissen rond Mirjam",
+          "kind": "diagram",
+          "source": "Numeri 12:1–16"
+        }
+      ]
+    },
+    {
+      "book": "numeri",
+      "chapter": 13,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Het terugbrengen en tonen van verschillende vruchten ontbreekt naast vertrek, verkenning en druiventros. Namen en onderzoeksvragen worden in twee schema’s gecontroleerd.",
+      "additions": [
+        {
+          "verse": 26,
+          "scene": "De verkenners tonen de vruchten",
+          "kind": "scene",
+          "file": "13-26-uitbreiding.webp"
+        },
+        {
+          "verse": 4,
+          "file": "13-twaalf-verkenners.svg",
+          "scene": "De twaalf verkenners",
+          "kind": "diagram",
+          "source": "Numeri 13:4–16"
+        },
+        {
+          "verse": 17,
+          "file": "13-opdracht-en-verslag.svg",
+          "scene": "Opdracht en verslag",
+          "kind": "diagram",
+          "source": "Numeri 13:17–33"
+        }
+      ]
+    },
+    {
+      "book": "numeri",
+      "chapter": 14,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "De waarschuwing bij de eigenmachtige opmars is een andere gebeurtenis naast rouw en voorbede. Een schema maakt de veertig dagen, jaren en uitzonderingen exact.",
+      "additions": [
+        {
+          "verse": 41,
+          "scene": "Mozes waarschuwt tegen het optrekken",
+          "kind": "scene",
+          "file": "14-41-uitbreiding.webp"
+        },
+        {
+          "verse": 30,
+          "file": "14-dagen-en-jaren.svg",
+          "scene": "Veertig dagen, veertig jaar",
+          "kind": "diagram",
+          "source": "Numeri 14:20–38"
+        }
+      ]
+    },
+    {
+      "book": "numeri",
+      "chapter": 16,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Afstand nemen vóór het oordeel ontbreekt naast confrontatie, altaarplaten en voorbede. Twee schema’s onderscheiden afstamming en de opeenvolgende gebeurtenissen.",
+      "additions": [
+        {
+          "verse": 26,
+          "scene": "Het volk neemt afstand van de tenten",
+          "kind": "scene",
+          "file": "16-26-uitbreiding.webp"
+        },
+        {
+          "verse": 1,
+          "file": "16-leiders-en-families.svg",
+          "scene": "De genoemde leiders",
+          "kind": "diagram",
+          "source": "Numeri 16:1–17"
+        },
+        {
+          "verse": 23,
+          "file": "16-gebeurtenissen-volgorde.svg",
+          "scene": "Het verloop van de opstand",
+          "kind": "diagram",
+          "source": "Numeri 16:18–50"
+        }
+      ]
+    },
+    {
+      "book": "numeri",
+      "chapter": 20,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Kledingoverdracht en gezamenlijke rouw zijn aparte gebeurtenissen naast water, boden en beklimming. Een leeswijzer onderscheidt opdracht, handeling en opvolging.",
+      "additions": [
+        {
+          "verse": 28,
+          "scene": "Eleazar ontvangt de priesterkleding",
+          "kind": "scene",
+          "file": "20-28-uitbreiding.webp"
+        },
+        {
+          "verse": 29,
+          "scene": "Dertig dagen rouw om Aäron",
+          "kind": "scene",
+          "file": "20-29-uitbreiding.webp"
+        },
+        {
+          "verse": 8,
+          "file": "20-meriba-en-opvolging.svg",
+          "scene": "Meriba en de opvolging",
+          "kind": "diagram",
+          "source": "Numeri 20:1–29"
+        }
+      ]
+    },
+    {
+      "book": "numeri",
+      "chapter": 15,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Drie bestaande scènes zijn voldoende; twee schema’s verduidelijken verhoudingen, opzet en de herinneringsfunctie zonder een terechtstelling te tonen.",
+      "additions": [
+        {
+          "verse": 4,
+          "file": "15-hoeveelheden-offers.svg",
+          "scene": "Meel, olie en wijn",
+          "kind": "diagram",
+          "source": "Numeri 15:4–12"
+        },
+        {
+          "verse": 22,
+          "file": "15-opzet-en-herinnering.svg",
+          "scene": "Vergissing en herinnering",
+          "kind": "diagram",
+          "source": "Numeri 15:22–41"
+        }
+      ]
+    },
+    {
+      "book": "numeri",
+      "chapter": 17,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "De bestaande verzameling, bloeiende staf en bewaring dekken de gebeurtenissen. Een tijdlijn verduidelijkt aantallen en stadia; de foutieve tempelachtergrond wordt gecorrigeerd.",
+      "additions": [
+        {
+          "verse": 2,
+          "file": "17-staven-en-teken.svg",
+          "scene": "De staven en het teken",
+          "kind": "diagram",
+          "source": "Numeri 17:1–13"
+        }
+      ]
+    },
+    {
+      "book": "numeri",
+      "chapter": 18,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "De drie bestaande scènes volstaan. Een schema maakt taakverdeling en de tiende van de tiende helder.",
+      "additions": [
+        {
+          "verse": 21,
+          "file": "18-tienden-en-taken.svg",
+          "scene": "Tienden en diensttaken",
+          "kind": "diagram",
+          "source": "Numeri 18:1–32"
+        }
+      ]
+    },
+    {
+      "book": "numeri",
+      "chapter": 19,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "De drie bestaande scènes dekken dier, water en hysop. Een tijdlijn verduidelijkt de derde dag, zevende dag en avond.",
+      "additions": [
+        {
+          "verse": 19,
+          "file": "19-derde-zevende-dag.svg",
+          "scene": "De derde en de zevende dag",
+          "kind": "diagram",
+          "source": "Numeri 19:11–22"
+        }
+      ]
     }
   ]
 }
