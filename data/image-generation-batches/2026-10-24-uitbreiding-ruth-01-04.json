@@ -3,7 +3,59 @@
   "started": "2026-10-24T22:33:42Z",
   "mode": "built-in rasters and native SVG schemas",
   "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
-  "metadata_corrections": [],
+  "metadata_corrections": [
+    {
+      "book": "ruth",
+      "before": {
+        "chapter": 1,
+        "file": "1-road.webp",
+        "alt": "Ruth blijft bij Naomi op de weg naar Betlehem",
+        "scene": "Ruth blijft bij Naomi"
+      },
+      "after": {
+        "chapter": 1,
+        "file": "1-road.webp",
+        "alt": "Ruth blijft bij Naomi op de weg naar Betlehem",
+        "scene": "Ruth blijft bij Naomi",
+        "verse": 16
+      },
+      "reason": "De scène gekoppeld aan het vers dat de afgebeelde gebeurtenis beschrijft."
+    },
+    {
+      "book": "ruth",
+      "before": {
+        "chapter": 2,
+        "file": "2-harvest.webp",
+        "alt": "Ruth verzamelt aren op de akker van Boaz",
+        "scene": "Ruth op de akker"
+      },
+      "after": {
+        "chapter": 2,
+        "file": "2-harvest.webp",
+        "alt": "Ruth verzamelt aren op de akker van Boaz",
+        "scene": "Ruth op de akker",
+        "verse": 3
+      },
+      "reason": "De scène gekoppeld aan het vers dat de afgebeelde gebeurtenis beschrijft."
+    },
+    {
+      "book": "ruth",
+      "before": {
+        "chapter": 4,
+        "file": "4-family.webp",
+        "alt": "Ruth en Boaz staan met Naomi en hun kind bij het huis",
+        "scene": "Een nieuwe familie"
+      },
+      "after": {
+        "chapter": 4,
+        "file": "4-family.webp",
+        "alt": "Ruth en Boaz staan met Naomi en hun kind bij het huis",
+        "scene": "Een nieuwe familie",
+        "verse": 13
+      },
+      "reason": "De scène gekoppeld aan het vers dat de afgebeelde gebeurtenis beschrijft."
+    }
+  ],
   "images": [
     {
       "book": "ruth",

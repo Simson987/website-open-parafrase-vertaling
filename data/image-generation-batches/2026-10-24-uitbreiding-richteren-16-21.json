@@ -3,7 +3,25 @@
   "started": "2026-10-24T22:33:42Z",
   "mode": "built-in rasters and native SVG schemas",
   "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
-  "metadata_corrections": [],
+  "metadata_corrections": [
+    {
+      "book": "richteren",
+      "before": {
+        "chapter": 16,
+        "file": "16.webp",
+        "alt": "Een verzwakte Simson zit in een donkere kamer terwijl Delila op de achtergrond staat",
+        "scene": "Simson en Delila"
+      },
+      "after": {
+        "chapter": 16,
+        "file": "16.webp",
+        "alt": "Een verzwakte Simson zit in een donkere kamer terwijl Delila op de achtergrond staat",
+        "scene": "Simson en Delila",
+        "verse": 4
+      },
+      "reason": "Delila wordt geïntroduceerd in vers 4; vers 1 gaat over een andere vrouw in Gaza."
+    }
+  ],
   "images": [
     {
       "book": "richteren",
