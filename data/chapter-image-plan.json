@@ -2276,6 +2276,251 @@
           "source": "Exodus 28:16–21, 30"
         }
       ]
+    },
+    {
+      "book": "exodus",
+      "chapter": 32,
+      "status": "reviewed",
+      "target_images": 8,
+      "reason": "Goud verzamelen, het horen van gezang, verantwoording en het verzamelen van Levieten zijn afzonderlijke gebeurtenissen. Een sober schema benoemt ook oordeel en plaag.",
+      "additions": [
+        {
+          "verse": 3,
+          "scene": "Het volk brengt gouden oorringen",
+          "kind": "scene",
+          "file": "32-3-uitbreiding.webp"
+        },
+        {
+          "verse": 17,
+          "scene": "Jozua hoort gezang uit het kamp",
+          "kind": "scene",
+          "file": "32-17-uitbreiding.webp"
+        },
+        {
+          "verse": 21,
+          "scene": "Mozes vraagt Aäron om verantwoording",
+          "kind": "scene",
+          "file": "32-21-uitbreiding.webp"
+        },
+        {
+          "verse": 26,
+          "scene": "De Levieten verzamelen zich bij Mozes",
+          "kind": "scene",
+          "file": "32-26-uitbreiding.webp"
+        },
+        {
+          "verse": 19,
+          "file": "32-kalf-en-gevolgen.svg",
+          "scene": "Het kalf en de gevolgen",
+          "kind": "diagram",
+          "source": "Exodus 32:1–35"
+        }
+      ]
+    },
+    {
+      "book": "exodus",
+      "chapter": 33,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Het nakijken door het volk en Jozua’s blijven zijn eigen gebeurtenissen. Het schema onderscheidt deze tent van de latere tabernakel en ordent het gebed.",
+      "additions": [
+        {
+          "verse": 8,
+          "scene": "Het volk kijkt Mozes na",
+          "kind": "scene",
+          "file": "33-8-uitbreiding.webp"
+        },
+        {
+          "verse": 11,
+          "scene": "Jozua blijft in de tent",
+          "kind": "scene",
+          "file": "33-11-uitbreiding.webp"
+        },
+        {
+          "verse": 7,
+          "file": "33-tent-en-gebed.svg",
+          "scene": "Tent buiten het kamp en gebed",
+          "kind": "diagram",
+          "source": "Exodus 33:7–23"
+        }
+      ]
+    },
+    {
+      "book": "exodus",
+      "chapter": 34,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Mozes’ neerbuigen is een eigen reactie. Het schema verbindt naamsopenbaring, verbond en geboden naast de drie bestaande scènes.",
+      "additions": [
+        {
+          "verse": 8,
+          "scene": "Mozes buigt zich neer",
+          "kind": "scene",
+          "file": "34-8-uitbreiding.webp"
+        },
+        {
+          "verse": 6,
+          "file": "34-naam-en-verbond.svg",
+          "scene": "Het vernieuwde verbond",
+          "kind": "diagram",
+          "source": "Exodus 34:6–28"
+        }
+      ]
+    },
+    {
+      "book": "exodus",
+      "chapter": 36,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Het omroepen van het stopbevel verschilt van de voorafgaande melding. Het bouwschema ordent de uitgevoerde aantallen en materialen.",
+      "additions": [
+        {
+          "verse": 6,
+          "scene": "Er mogen geen gaven meer worden gebracht",
+          "kind": "scene",
+          "file": "36-6-uitbreiding.webp"
+        },
+        {
+          "verse": 8,
+          "file": "36-bouw-overzicht.svg",
+          "scene": "Het werk aan de tent",
+          "kind": "diagram",
+          "source": "Exodus 36:8–38"
+        }
+      ]
+    },
+    {
+      "book": "exodus",
+      "chapter": 37,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "De tafel ontbreekt als zelfstandig voorwerp. Een overzicht ordent de andere gemaakte voorwerpen en hun materialen.",
+      "additions": [
+        {
+          "verse": 10,
+          "scene": "De tafel wordt met goud bekleed",
+          "kind": "scene",
+          "file": "37-10-uitbreiding.webp"
+        },
+        {
+          "verse": 1,
+          "file": "37-voorwerpen-en-materiaal.svg",
+          "scene": "De gemaakte voorwerpen",
+          "kind": "diagram",
+          "source": "Exodus 37:1–29"
+        }
+      ]
+    },
+    {
+      "book": "exodus",
+      "chapter": 40,
+      "status": "reviewed",
+      "target_images": 9,
+      "reason": "Tafel plaatsen, lampen aansteken, wassen en optrekken zijn aparte handelingen. Een tijdschema en bovenaanzicht verduidelijken datum, reisritme en plaatsing.",
+      "additions": [
+        {
+          "verse": 22,
+          "scene": "Mozes zet de tafel aan de noordkant",
+          "kind": "scene",
+          "file": "40-22-uitbreiding.webp"
+        },
+        {
+          "verse": 25,
+          "scene": "Mozes steekt de lampen aan",
+          "kind": "scene",
+          "file": "40-25-uitbreiding.webp"
+        },
+        {
+          "verse": 31,
+          "scene": "De handen worden bij het wasbekken gewassen",
+          "kind": "scene",
+          "file": "40-31-uitbreiding.webp"
+        },
+        {
+          "verse": 36,
+          "scene": "De wolk stijgt op en het volk vertrekt",
+          "kind": "scene",
+          "file": "40-36-uitbreiding.webp"
+        },
+        {
+          "verse": 17,
+          "file": "40-datum-en-reisritme.svg",
+          "scene": "Oprichting en verder reizen",
+          "kind": "diagram",
+          "source": "Exodus 40:17–38"
+        },
+        {
+          "verse": 22,
+          "file": "40-plaatsingsschema.svg",
+          "scene": "De plaats van de voorwerpen",
+          "kind": "diagram",
+          "source": "Exodus 40:3–8, 22–30; 26:33–35"
+        }
+      ]
+    },
+    {
+      "book": "exodus",
+      "chapter": 31,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "De bestaande vakman, rust en platen blijven. Een afstammings- en taakschema verbindt Bezaleël en Aholiab met hun stammen.",
+      "additions": [
+        {
+          "verse": 2,
+          "file": "31-vaklieden-en-afstamming.svg",
+          "scene": "De geroepen vaklieden",
+          "kind": "diagram",
+          "source": "Exodus 31:2–11"
+        }
+      ]
+    },
+    {
+      "book": "exodus",
+      "chapter": 35,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "De bestaande gaven, spinnen en onderwijs dekken de handelingen. Een schema verduidelijkt de bijdragen en vaardigheden zonder extra vergelijkbare werkplaatsscènes.",
+      "additions": [
+        {
+          "verse": 21,
+          "file": "35-geven-en-vakmanschap.svg",
+          "scene": "Vrijwillig geven en meewerken",
+          "kind": "diagram",
+          "source": "Exodus 35:21–35"
+        }
+      ]
+    },
+    {
+      "book": "exodus",
+      "chapter": 38,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "De drie bestaande scènes tonen gereedschap, spiegels en telling. Een inventarisschema voegt de exacte afgeronde gewichten en bestemmingen toe.",
+      "additions": [
+        {
+          "verse": 24,
+          "file": "38-materiaal-inventaris.svg",
+          "scene": "De verantwoording van metalen",
+          "kind": "diagram",
+          "source": "Exodus 38:21–31"
+        }
+      ]
+    },
+    {
+      "book": "exodus",
+      "chapter": 39,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "De bestaande draad, zoom en zegen dekken het maakwerk. Een tekstschema maakt het exacte krooninschrift en de overdracht leesbaar.",
+      "additions": [
+        {
+          "verse": 30,
+          "file": "39-kroonplaat-en-voltooiing.svg",
+          "scene": "Kroonplaat en voltooid werk",
+          "kind": "diagram",
+          "source": "Exodus 39:30–43"
+        }
+      ]
     }
   ]
 }
