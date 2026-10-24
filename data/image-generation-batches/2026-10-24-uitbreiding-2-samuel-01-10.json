@@ -3,7 +3,42 @@
   "started": "2026-10-24T22:33:42Z",
   "mode": "built-in rasters and native SVG schemas",
   "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
-  "metadata_corrections": [],
+  "metadata_corrections": [
+    {
+      "book": "2samuel",
+      "before": {
+        "chapter": 5,
+        "file": "5-jerusalem.webp",
+        "alt": "David kijkt uit over het oude Jeruzalem",
+        "scene": "David in Jeruzalem"
+      },
+      "after": {
+        "chapter": 5,
+        "file": "5-jerusalem.webp",
+        "alt": "David kijkt uit over het oude Jeruzalem",
+        "scene": "David in Jeruzalem",
+        "verse": 9
+      },
+      "reason": "Bestaand beeld gekoppeld aan wonen in de burcht of Davids gebed, niet aan het eerste vers van het hoofdstuk."
+    },
+    {
+      "book": "2samuel",
+      "before": {
+        "chapter": 7,
+        "file": "7-promise.webp",
+        "alt": "David bidt in een eenvoudig vertrek",
+        "scene": "Davids gebed"
+      },
+      "after": {
+        "chapter": 7,
+        "file": "7-promise.webp",
+        "alt": "David bidt in een eenvoudig vertrek",
+        "scene": "Davids gebed",
+        "verse": 18
+      },
+      "reason": "Bestaand beeld gekoppeld aan wonen in de burcht of Davids gebed, niet aan het eerste vers van het hoofdstuk."
+    }
+  ],
   "images": [
     {
       "book": "2samuel",
