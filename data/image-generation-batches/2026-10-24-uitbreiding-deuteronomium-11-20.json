@@ -3,7 +3,29 @@
   "started": "2026-10-24T02:53:36Z",
   "mode": "built-in rasters and native SVG schemas",
   "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
-  "metadata_corrections": [],
+  "metadata_corrections": [
+    {
+      "book": "deuteronomium",
+      "before": {
+        "chapter": 20,
+        "verse": 19,
+        "file": "20-19.webp",
+        "alt": "Beeld bij Deuteronomium 20: Vruchtbomen worden gespaard",
+        "scene": "Vruchtbomen worden gespaard"
+      },
+      "after": {
+        "chapter": 20,
+        "verse": 19,
+        "file": "20-19-herzien.webp",
+        "alt": "Beeld bij Deuteronomium 20: Vruchtbomen worden gespaard",
+        "scene": "Vruchtbomen worden gespaard",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "De kleding van de mannen is versoberd voor de oudtestamentische onderwijsscène; het oorspronkelijke bestand blijft bewaard."
+    }
+  ],
   "images": [
     {
       "book": "deuteronomium",
@@ -648,6 +670,17 @@
         ],
         "note": "Een beschrijvend onderscheid in historische oorlogswetgeving; burgers en geweld worden niet afgebeeld."
       }
+    }
+  ],
+  "revised_images": [
+    {
+      "book": "deuteronomium",
+      "chapter": 20,
+      "verse": 19,
+      "original_file": "20-19.webp",
+      "file": "20-19-herzien.webp",
+      "prompt": "Edit the clothing of the three soldiers in this educational illustration of Deuteronomy 20:19. Preserve the olive tree, fruit, woodcutter with lowered axe, the open stopping gesture, city backdrop, faces and composition. Replace the soldiers' Roman-style helmets, military capes, armor cuirasses, swords and greaves with simple fully covering ancient Hebrew woven tunics, plain cloth headwraps, ordinary leather belts and modest sandals. The foremost man should remain clearly stopping the chopping of the fruit tree with one open hand, and his other hand should rest naturally at his side. Keep all people fully clothed and anatomically natural, exactly two arms each. Background men may hold plain walking staffs. Photorealistic landscape, no text, combat, violence or modern objects.",
+      "reason": "De kleding van de mannen is versoberd voor de oudtestamentische onderwijsscène; het oorspronkelijke bestand blijft bewaard."
     }
   ]
 }
