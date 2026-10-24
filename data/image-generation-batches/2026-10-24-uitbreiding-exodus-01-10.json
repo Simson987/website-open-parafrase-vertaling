@@ -1,0 +1,621 @@
+{
+  "date": "2026-10-24",
+  "started": "2026-10-24T00:52:32Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "exodus",
+      "chapter": 1,
+      "verse": 9,
+      "scene": "De nieuwe koning beraadslaagt",
+      "alt": "De nieuwe koning beraadslaagt — Exodus 1:9",
+      "kind": "scene",
+      "file": "1-9-verhaal.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible illustration, landscape 3:2, ancient Egypt and Near East, natural light, all people fully modestly clothed, correct anatomy and hands, no modern objects, readable text, watermark or human-shaped deity. An adult Egyptian pharaoh in full modest royal robes addresses a council of adult Egyptian officials, worried expressions as they discuss the growing Hebrew population. No children, violence or weapons.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "exodus",
+      "chapter": 1,
+      "verse": 18,
+      "scene": "Sifra en Pua antwoorden Farao",
+      "alt": "Sifra en Pua antwoorden Farao — Exodus 1:18",
+      "kind": "scene",
+      "file": "1-18-verhaal.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible illustration, landscape 3:2, ancient Egypt and Near East, natural light, all people fully modestly clothed, correct anatomy and hands, no modern objects, readable text, watermark or human-shaped deity. Exactly two adult Hebrew midwives in modest complete robes stand courageously before seated adult Pharaoh answering his question. No infants, birth or harm scene, attentive council in the background.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "exodus",
+      "chapter": 2,
+      "verse": 13,
+      "scene": "Mozes spreekt twee ruziënde mannen aan",
+      "alt": "Mozes spreekt twee ruziënde mannen aan — Exodus 2:13",
+      "kind": "scene",
+      "file": "2-13-verhaal.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible illustration, landscape 3:2, ancient Egypt and Near East, natural light, all people fully modestly clothed, correct anatomy and hands, no modern objects, readable text, watermark or human-shaped deity. Adult forty-year-old Moses, fully clothed in simple Egyptian linen, uses open hands to calm two fully robed adult Hebrew workers who are arguing verbally at a building site. No blows, wounds, weapons or fallen bodies.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "exodus",
+      "chapter": 2,
+      "verse": 18,
+      "scene": "De dochters vertellen Rehuël wat er gebeurde",
+      "alt": "De dochters vertellen Rehuël wat er gebeurde — Exodus 2:18",
+      "kind": "scene",
+      "file": "2-18-verhaal.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible illustration, landscape 3:2, ancient Egypt and Near East, natural light, all people fully modestly clothed, correct anatomy and hands, no modern objects, readable text, watermark or human-shaped deity. Several fully robed adult daughters arrive at their Midianite father Reuel’s tent and excitedly report that a traveler helped water their sheep. Reuel is an elderly adult priest with a beard, peaceful domestic scene, no Moses present.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "exodus",
+      "chapter": 2,
+      "verse": 21,
+      "scene": "Mozes en Zippora gaan samen wonen",
+      "alt": "Mozes en Zippora gaan samen wonen — Exodus 2:21",
+      "kind": "scene",
+      "file": "2-21-verhaal.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible illustration, landscape 3:2, ancient Egypt and Near East, natural light, all people fully modestly clothed, correct anatomy and hands, no modern objects, readable text, watermark or human-shaped deity. Adult forty-year-old Moses and adult Zipporah stand respectfully beside each other before her elderly father Reuel at a Midianite family tent. All completely modestly clothed, simple welcoming marriage scene, no romantic touching or modern wedding symbols.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "exodus",
+      "chapter": 4,
+      "verse": 18,
+      "scene": "Jethro laat Mozes in vrede gaan",
+      "alt": "Jethro laat Mozes in vrede gaan — Exodus 4:18",
+      "kind": "scene",
+      "file": "4-18-verhaal.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible illustration, landscape 3:2, ancient Egypt and Near East, natural light, all people fully modestly clothed, correct anatomy and hands, no modern objects, readable text, watermark or human-shaped deity. Elderly eighty-year-old Moses with a long gray beard asks his elderly father-in-law Jethro for leave beside a Midianite tent, Jethro gestures peace and farewell, both fully robed, a staff in Moses’s hand.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "exodus",
+      "chapter": 4,
+      "verse": 31,
+      "scene": "De Israëlieten buigen zich in aanbidding",
+      "alt": "De Israëlieten buigen zich in aanbidding — Exodus 4:31",
+      "kind": "scene",
+      "file": "4-31-verhaal.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible illustration, landscape 3:2, ancient Egypt and Near East, natural light, all people fully modestly clothed, correct anatomy and hands, no modern objects, readable text, watermark or human-shaped deity. Fully clothed adult Hebrew elders and families bow their heads reverently in an ancient Egyptian courtyard after hearing Moses and Aaron, both elderly gray-bearded men aged about eighty, standing quietly nearby. No idol or visible deity.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "exodus",
+      "chapter": 5,
+      "verse": 15,
+      "scene": "De opzichters klagen bij Farao",
+      "alt": "De opzichters klagen bij Farao — Exodus 5:15",
+      "kind": "scene",
+      "file": "5-15-verhaal.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible illustration, landscape 3:2, ancient Egypt and Near East, natural light, all people fully modestly clothed, correct anatomy and hands, no modern objects, readable text, watermark or human-shaped deity. Several fully clothed adult Hebrew overseers appeal with open hands to a seated adult Egyptian Pharaoh about the brick quota. Sober audience, no violence, wounds or weapons.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "exodus",
+      "chapter": 5,
+      "verse": 21,
+      "scene": "De opzichters verwijten Mozes en Aäron hun optreden",
+      "alt": "De opzichters verwijten Mozes en Aäron hun optreden — Exodus 5:21",
+      "kind": "scene",
+      "file": "5-21-verhaal.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible illustration, landscape 3:2, ancient Egypt and Near East, natural light, all people fully modestly clothed, correct anatomy and hands, no modern objects, readable text, watermark or human-shaped deity. Outside an ancient Egyptian palace, upset fully robed adult Hebrew overseers speak sternly to two elderly gray-bearded men Moses and Aaron, both about eighty, who listen soberly. No physical aggression.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "exodus",
+      "chapter": 7,
+      "verse": 23,
+      "scene": "Farao keert naar huis terug",
+      "alt": "Farao keert naar huis terug — Exodus 7:23",
+      "kind": "scene",
+      "file": "7-23-verhaal.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible illustration, landscape 3:2, ancient Egypt and Near East, natural light, all people fully modestly clothed, correct anatomy and hands, no modern objects, readable text, watermark or human-shaped deity. Adult Egyptian Pharaoh in full modest royal robes turns away with attendants from the edge of a red river and walks toward his palace, unconcerned expression, no bodies, fish, injuries or blood splashes.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "exodus",
+      "chapter": 8,
+      "verse": 24,
+      "scene": "Zwermen ongedierte vullen de huizen",
+      "alt": "Zwermen ongedierte vullen de huizen — Exodus 8:24",
+      "kind": "scene",
+      "file": "8-24-verhaal.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible illustration, landscape 3:2, ancient Egypt and Near East, natural light, all people fully modestly clothed, correct anatomy and hands, no modern objects, readable text, watermark or human-shaped deity. A swarm of small dark flying insects fills an ancient Egyptian mudbrick house and courtyard; fully clothed adult residents cover baskets and try to protect food, no skin lesions, wounds or panic spectacle.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "exodus",
+      "chapter": 8,
+      "verse": 30,
+      "scene": "Mozes bidt om het ongedierte weg te nemen",
+      "alt": "Mozes bidt om het ongedierte weg te nemen — Exodus 8:30",
+      "kind": "scene",
+      "file": "8-30-verhaal.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible illustration, landscape 3:2, ancient Egypt and Near East, natural light, all people fully modestly clothed, correct anatomy and hands, no modern objects, readable text, watermark or human-shaped deity. Elderly eighty-year-old Moses with a long gray beard stands outside an ancient Egyptian city at dusk praying with open hands, distant insects over rooftops, full modest robe, no deity in sky.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "exodus",
+      "chapter": 9,
+      "verse": 20,
+      "scene": "Dienaren brengen het vee in veiligheid",
+      "alt": "Dienaren brengen het vee in veiligheid — Exodus 9:20",
+      "kind": "scene",
+      "file": "9-20-verhaal.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible illustration, landscape 3:2, ancient Egypt and Near East, natural light, all people fully modestly clothed, correct anatomy and hands, no modern objects, readable text, watermark or human-shaped deity. Fully clothed adult Egyptian servants urgently but safely bring healthy cattle and sheep into sturdy mudbrick shelters before a gathering storm, no hail has fallen yet, no injuries or threatening weapons.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "exodus",
+      "chapter": 9,
+      "verse": 33,
+      "scene": "Mozes bidt buiten de stad",
+      "alt": "Mozes bidt buiten de stad — Exodus 9:33",
+      "kind": "scene",
+      "file": "9-33-verhaal.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible illustration, landscape 3:2, ancient Egypt and Near East, natural light, all people fully modestly clothed, correct anatomy and hands, no modern objects, readable text, watermark or human-shaped deity. Elderly eighty-year-old Moses with gray beard and full robe stretches both empty hands upward outside an ancient Egyptian city, storm clouds breaking and rain stopping, hailstones on the empty ground, no people or animals injured.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "exodus",
+      "chapter": 10,
+      "verse": 7,
+      "scene": "Farao’s dienaren dringen op vertrek aan",
+      "alt": "Farao’s dienaren dringen op vertrek aan — Exodus 10:7",
+      "kind": "scene",
+      "file": "10-7-verhaal.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible illustration, landscape 3:2, ancient Egypt and Near East, natural light, all people fully modestly clothed, correct anatomy and hands, no modern objects, readable text, watermark or human-shaped deity. Worried adult Egyptian officials appeal urgently to adult Pharaoh in full royal robes inside an ancient palace, explaining the devastation. No Moses present, no weapons or physical aggression.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "exodus",
+      "chapter": 10,
+      "verse": 19,
+      "scene": "De westenwind voert de sprinkhanen weg",
+      "alt": "De westenwind voert de sprinkhanen weg — Exodus 10:19",
+      "kind": "scene",
+      "file": "10-19-verhaal.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible illustration, landscape 3:2, ancient Egypt and Near East, natural light, all people fully modestly clothed, correct anatomy and hands, no modern objects, readable text, watermark or human-shaped deity. Photorealistic wide ancient Egyptian coastal landscape with a powerful wind carrying a dark swarm of locusts away toward a broad reed-lined sea, no people or modern objects. Natural locust anatomy, no invented labeled map.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "exodus",
+      "chapter": 10,
+      "verse": 23,
+      "scene": "Licht in de huizen van Israël",
+      "alt": "Licht in de huizen van Israël — Exodus 10:23",
+      "kind": "scene",
+      "file": "10-23-verhaal.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible illustration, landscape 3:2, ancient Egypt and Near East, natural light, all people fully modestly clothed, correct anatomy and hands, no modern objects, readable text, watermark or human-shaped deity. Fully clothed Hebrew family safely gathered inside a modest ancient Egyptian home filled with clear gentle light while the view outside its doorway is unusually dark, quiet reverent mood, no visible deity or modern lamps.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "exodus",
+      "chapter": 1,
+      "verse": 15,
+      "file": "1-bevel-en-ontzag.svg",
+      "scene": "Sifra en Pua kiezen voor leven",
+      "alt": "Sifra en Pua weigeren het bevel tot het doden van pasgeboren jongens uit te voeren. Het schema onderscheidt dit van Farao’s latere bevel aan heel zijn volk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1141,
+      "source": "Exodus 1:15–22",
+      "design": {
+        "rows": [
+          [
+            "Het bevel van de koning",
+            "Hij beveelt de vroedvrouwen de Hebreeuwse jongens bij de geboorte te doden."
+          ],
+          [
+            "Hun antwoord in daden",
+            "Sifra en Pua hebben ontzag voor God en laten de jongens leven."
+          ],
+          [
+            "Verantwoording aan Farao",
+            "De koning roept hen ter verantwoording; zij antwoorden hem."
+          ],
+          [
+            "Het latere bevel",
+            "Farao beveelt vervolgens zijn hele volk de pasgeboren jongens in de rivier te gooien."
+          ]
+        ],
+        "note": "Het schema benoemt het geweldsbevel zonder geweld tegen kinderen af te beelden."
+      }
+    },
+    {
+      "book": "exodus",
+      "chapter": 2,
+      "verse": 22,
+      "file": "2-gezin-in-midian.svg",
+      "scene": "Mozes in Midian",
+      "alt": "In Midian ontmoet Mozes de dochters van Rehuël, trouwt met Zippora en krijgt een zoon Gersom.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 820,
+      "source": "Exodus 2:16–22",
+      "design": {
+        "rows": [
+          [
+            "De priester Rehuël",
+            "Hij heeft zeven dochters."
+          ],
+          [
+            "Mozes en Zippora",
+            "Mozes blijft bij Rehuël; Zippora wordt zijn vrouw."
+          ],
+          [
+            "Hun zoon Gersom",
+            "De naam herinnert Mozes eraan dat hij een vreemdeling in een vreemd land is."
+          ]
+        ],
+        "note": "Exodus 3:1 noemt Mozes’ schoonvader Jethro; dit schema houdt de naam Rehuël uit Exodus 2 aan."
+      }
+    },
+    {
+      "book": "exodus",
+      "chapter": 3,
+      "verse": 14,
+      "file": "3-naam-en-opdracht.svg",
+      "scene": "Naam, belofte en opdracht",
+      "alt": "Mozes ontvangt een opdracht, Gods belofte en naam, en instructies over de oudsten, Farao en het toekomstige vertrek.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1326,
+      "source": "Exodus 3:10–22",
+      "design": {
+        "rows": [
+          [
+            "De opdracht",
+            "Mozes moet naar Farao om de Israëlieten uit Egypte te leiden."
+          ],
+          [
+            "De belofte",
+            "God zegt dat Hij met Mozes zal zijn."
+          ],
+          [
+            "De naam",
+            "God antwoordt: Ik zal zijn die ik zijn zal. De HEERE is de God van Abraham, Izak en Jakob."
+          ],
+          [
+            "De volgende stappen",
+            "De oudsten bijeenroepen en met hen naar de koning gaan."
+          ],
+          [
+            "Weerstand en vertrek",
+            "Farao zal weigeren; God zal Egypte treffen en het volk niet met lege handen laten vertrekken."
+          ]
+        ],
+        "note": "Woorden en aangekondigde stappen worden onderscheiden van gebeurtenissen die pas later plaatsvinden."
+      }
+    },
+    {
+      "book": "exodus",
+      "chapter": 4,
+      "verse": 3,
+      "file": "4-tekenen-en-sprekers.svg",
+      "scene": "Tekenen en woordvoerders",
+      "alt": "Het schema onderscheidt de staf, de hand, het aangekondigde waterteken en Aärons taak als woordvoerder.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1098,
+      "source": "Exodus 4:1–17",
+      "design": {
+        "rows": [
+          [
+            "Eerste teken",
+            "De staf wordt een slang; in Mozes’ hand wordt zij weer een staf."
+          ],
+          [
+            "Tweede teken",
+            "De hand wordt wit door melaatsheid en daarna weer gezond."
+          ],
+          [
+            "Als zij nog niet geloven",
+            "Rivierwater zal op de droge grond in bloed veranderen."
+          ],
+          [
+            "Mozes en Aäron",
+            "Mozes ontvangt de woorden; zijn broer Aäron zal namens hem tot het volk spreken."
+          ]
+        ],
+        "note": "Het derde teken is hier een opdracht voor later; de twee eerste worden in dit gesprek uitgevoerd."
+      }
+    },
+    {
+      "book": "exodus",
+      "chapter": 5,
+      "verse": 7,
+      "file": "5-stro-en-bakstenen.svg",
+      "scene": "Geen stro, dezelfde dagtaak",
+      "alt": "Farao stopt de levering van stro maar houdt de dagelijkse baksteenquota gelijk, waarna de opzichters bij hem en bij Mozes en Aäron klagen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1091,
+      "source": "Exodus 5:6–21",
+      "design": {
+        "rows": [
+          [
+            "Voorheen",
+            "Stro wordt geleverd voor het maken van bakstenen."
+          ],
+          [
+            "Het nieuwe bevel",
+            "De mensen moeten zelf stro of stoppels verzamelen."
+          ],
+          [
+            "Dezelfde hoeveelheid",
+            "De dagelijkse productie mag niet dalen."
+          ],
+          [
+            "Het gevolg",
+            "De opzichters worden geslagen, klagen bij Farao en verwijten Mozes en Aäron de verslechtering."
+          ]
+        ],
+        "note": "Het hoofdstuk noemt geen exact aantal bakstenen; daarom staat hier geen verzonnen productiecijfer."
+      }
+    },
+    {
+      "book": "exodus",
+      "chapter": 6,
+      "verse": 13,
+      "file": "6-families-ruben-simeon.svg",
+      "scene": "De families van Ruben en Simeon",
+      "alt": "De eerste twee familietakken in Exodus 6 zijn die van Ruben en Simeon, met hun genoemde zonen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 777,
+      "source": "Exodus 6:13–14",
+      "design": {
+        "rows": [
+          [
+            "Ruben → zijn zonen",
+            "Hanoch, Pallu, Hezron en Charmi."
+          ],
+          [
+            "Simeon → zijn zonen",
+            "Jemuël, Jamin, Ohad, Jachin, Zohar en Saul."
+          ],
+          [
+            "Sauls moeder",
+            "Een Kanaänitische vrouw."
+          ]
+        ],
+        "note": "De spelling volgt Exodus 6 van deze vertaling; Charmi staat hier met een Ch."
+      }
+    },
+    {
+      "book": "exodus",
+      "chapter": 6,
+      "verse": 15,
+      "file": "6-levi-en-zijn-takken.svg",
+      "scene": "Levi en zijn familietakken",
+      "alt": "Levi’s takken lopen via Gerson, Kehath en Merari; de genoemde nakomelingen van Gerson, Kehath, Merari, Jizhar en Uzziël zijn geordend.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1217,
+      "source": "Exodus 6:15–21",
+      "design": {
+        "rows": [
+          [
+            "Levi → zijn zonen",
+            "Gerson, Kehath en Merari."
+          ],
+          [
+            "Gerson → zijn zonen",
+            "Libni en Simeï."
+          ],
+          [
+            "Kehath → zijn zonen",
+            "Amram, Jizhar, Hebron en Uzziël."
+          ],
+          [
+            "Merari → zijn zonen",
+            "Machli en Musi."
+          ],
+          [
+            "Jizhar → zijn zonen",
+            "Korah, Nefeg en Zichri."
+          ],
+          [
+            "Uzziël → zijn zonen",
+            "Misaël, Elzafan en Sithri."
+          ]
+        ],
+        "note": "De indeling geeft de vader-kindrelaties uit het hoofdstuk weer, zonder gelijktijdigheid te veronderstellen."
+      }
+    },
+    {
+      "book": "exodus",
+      "chapter": 6,
+      "verse": 19,
+      "file": "6-amram-aaron-en-mozes.svg",
+      "scene": "Amram, Aäron en Mozes",
+      "alt": "Amram en Jochebed krijgen Aäron en Mozes. Aäron en Eliseba krijgen vier zonen. Ook Korahs zonen en Eleazars zoon Pinehas worden genoemd.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1091,
+      "source": "Exodus 6:19–24",
+      "design": {
+        "rows": [
+          [
+            "Amram + Jochebed",
+            "Jochebed is Amrams tante. Hun zonen hier: Aäron en Mozes."
+          ],
+          [
+            "Aäron + Eliseba",
+            "Eliseba is Amminadabs dochter en Nahessons zus. Hun zonen: Nadab, Abihu, Eleazar en Ithamar."
+          ],
+          [
+            "Korah → zijn zonen",
+            "Assir, Elkana en Abiasaf."
+          ],
+          [
+            "Eleazar + Putiels dochter",
+            "Hun zoon is Pinehas; de moeder wordt niet bij naam genoemd."
+          ]
+        ],
+        "note": "Alleen de in deze passage genoemde verwantschappen worden weergegeven; onbekende namen blijven onbekend."
+      }
+    },
+    {
+      "book": "exodus",
+      "chapter": 7,
+      "verse": 7,
+      "file": "7-leeftijden-en-teken.svg",
+      "scene": "Mozes en Aäron bij Farao",
+      "alt": "Mozes is tachtig en Aäron drieëntachtig. Aäron voert het stafteken uit; Farao blijft weigeren.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1091,
+      "source": "Exodus 7:1–13",
+      "design": {
+        "rows": [
+          [
+            "Mozes: 80 jaar",
+            "Hij ontvangt wat hij moet zeggen."
+          ],
+          [
+            "Aäron: 83 jaar",
+            "Hij spreekt tot Farao en werpt zijn staf neer."
+          ],
+          [
+            "Het teken",
+            "De vertaling noemt het dier een draak. Aärons staf verslindt de staven van de tovenaars."
+          ],
+          [
+            "Farao’s reactie",
+            "Zijn hart wordt hard; hij luistert niet."
+          ]
+        ],
+        "note": "Het schema houdt de woordkeus van deze vertaling aan zonder daar een moderne diersoort uit af te leiden."
+      }
+    },
+    {
+      "book": "exodus",
+      "chapter": 8,
+      "verse": 22,
+      "file": "8-drie-plagen-en-reacties.svg",
+      "scene": "Kikkers, luizen en ongedierte",
+      "alt": "Het verloop van de drie plagen in Exodus 8 met Aärons teken, Mozes’ gebeden, bescherming van Gosen en Farao’s herhaalde weigering.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1184,
+      "source": "Exodus 8:1–32",
+      "design": {
+        "rows": [
+          [
+            "Kikkers",
+            "Aäron strekt zijn staf uit; Farao vraagt om gebed. Na verlichting weigert hij weer."
+          ],
+          [
+            "Luizen",
+            "Aäron slaat het stof. De tovenaars kunnen dit niet nadoen en spreken van Gods vinger."
+          ],
+          [
+            "Ongedierte",
+            "Egyptische huizen worden getroffen; Gosen wordt apart gehouden."
+          ],
+          [
+            "Gebed en weigering",
+            "Na Mozes’ gebed verdwijnt het ongedierte volledig. Toch laat Farao het volk niet gaan."
+          ]
+        ],
+        "note": "Kikkers, luizen en het later genoemde ongedierte zijn drie verschillende plagen in dit hoofdstuk."
+      }
+    },
+    {
+      "book": "exodus",
+      "chapter": 9,
+      "verse": 31,
+      "file": "9-hagel-en-gewassen.svg",
+      "scene": "Wat de hagel vernielt",
+      "alt": "De hagel vernielt vlas en gerst maar niet de later groeiende tarwe en spelt. Gosen wordt gespaard en de plaag stopt na Mozes’ gebed.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1240,
+      "source": "Exodus 9:19–33",
+      "design": {
+        "rows": [
+          [
+            "Vooraf gewaarschuwd",
+            "Wie ontzag heeft voor het woord van de HEERE, brengt dienaren en vee binnen."
+          ],
+          [
+            "Vlas en gerst",
+            "Worden vernield: het vlas is opgeschoten en de gerst staat in de aar."
+          ],
+          [
+            "Tarwe en spelt",
+            "Worden niet vernield, omdat zij nog niet zo ver gegroeid zijn."
+          ],
+          [
+            "Gosen",
+            "Daar valt geen hagel."
+          ],
+          [
+            "Mozes bidt buiten de stad",
+            "Donder, hagel en regen houden op."
+          ]
+        ],
+        "note": "De verschillende groeistadia verklaren het verschil tussen de gewassen; er worden geen oogstmaanden ingevuld."
+      }
+    },
+    {
+      "book": "exodus",
+      "chapter": 10,
+      "verse": 9,
+      "file": "10-wie-mogen-meegaan.svg",
+      "scene": "Wie mogen er meegaan?",
+      "alt": "Farao stelt beperkingen aan wie en wat mag vertrekken. Mozes houdt vast aan vertrek van het hele volk met al het vee.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1197,
+      "source": "Exodus 10:8–29",
+      "design": {
+        "rows": [
+          [
+            "Mozes’ antwoord",
+            "Jong en oud, zonen en dochters, schapen en runderen moeten meegaan."
+          ],
+          [
+            "Farao’s eerste beperking",
+            "Alleen de mannen mogen vertrekken."
+          ],
+          [
+            "Na de duisternis",
+            "Ook de kinderen mogen mee, maar het vee moet blijven."
+          ],
+          [
+            "Mozes houdt vast",
+            "Geen enkele hoef mag achterblijven; zij zullen hun God met het vee dienen."
+          ],
+          [
+            "Uiteindelijk",
+            "Farao weigert en stuurt Mozes weg."
+          ]
+        ],
+        "note": "Dit zijn opeenvolgende voorstellen in het gesprek; het volk vertrekt in dit hoofdstuk nog niet."
+      }
+    }
+  ]
+}

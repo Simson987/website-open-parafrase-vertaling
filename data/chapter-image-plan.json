@@ -1459,6 +1459,282 @@
           "source": "Genesis 48:13–20"
         }
       ]
+    },
+    {
+      "book": "exodus",
+      "chapter": 1,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "De nieuwe koning en de verantwoording van Sifra en Pua zijn eigen scènes; een sober schema onderscheidt de gewelddadige bevelen zonder kindermoord af te beelden.",
+      "additions": [
+        {
+          "verse": 9,
+          "scene": "De nieuwe koning beraadslaagt",
+          "kind": "scene",
+          "file": "1-9-verhaal.webp"
+        },
+        {
+          "verse": 18,
+          "scene": "Sifra en Pua antwoorden Farao",
+          "kind": "scene",
+          "file": "1-18-verhaal.webp"
+        },
+        {
+          "verse": 15,
+          "file": "1-bevel-en-ontzag.svg",
+          "scene": "Sifra en Pua kiezen voor leven",
+          "kind": "diagram",
+          "source": "Exodus 1:15–22"
+        }
+      ]
+    },
+    {
+      "book": "exodus",
+      "chapter": 2,
+      "status": "reviewed",
+      "target_images": 7,
+      "reason": "De bemiddeling, het verslag aan Rehuël en het huwelijk ontbreken naast het mandje en de bron. Een schema verduidelijkt het gezin in Midian.",
+      "additions": [
+        {
+          "verse": 13,
+          "scene": "Mozes spreekt twee ruziënde mannen aan",
+          "kind": "scene",
+          "file": "2-13-verhaal.webp"
+        },
+        {
+          "verse": 18,
+          "scene": "De dochters vertellen Rehuël wat er gebeurde",
+          "kind": "scene",
+          "file": "2-18-verhaal.webp"
+        },
+        {
+          "verse": 21,
+          "scene": "Mozes en Zippora gaan samen wonen",
+          "kind": "scene",
+          "file": "2-21-verhaal.webp"
+        },
+        {
+          "verse": 22,
+          "file": "2-gezin-in-midian.svg",
+          "scene": "Mozes in Midian",
+          "kind": "diagram",
+          "source": "Exodus 2:16–22"
+        }
+      ]
+    },
+    {
+      "book": "exodus",
+      "chapter": 4,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Afscheid van Jethro en aanbidding door het volk zijn eigen gebeurtenissen. De tekenen en woordvoerders krijgen een exact schema zonder expliciete lichamelijke ingrepen.",
+      "additions": [
+        {
+          "verse": 18,
+          "scene": "Jethro laat Mozes in vrede gaan",
+          "kind": "scene",
+          "file": "4-18-verhaal.webp"
+        },
+        {
+          "verse": 31,
+          "scene": "De Israëlieten buigen zich in aanbidding",
+          "kind": "scene",
+          "file": "4-31-verhaal.webp"
+        },
+        {
+          "verse": 3,
+          "file": "4-tekenen-en-sprekers.svg",
+          "scene": "Tekenen en woordvoerders",
+          "kind": "diagram",
+          "source": "Exodus 4:1–17"
+        }
+      ]
+    },
+    {
+      "book": "exodus",
+      "chapter": 5,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "De klacht bij Farao en het verwijt aan de broers zijn afzonderlijke gesprekken. Het schema verklaart de verslechtering van de dagtaak zonder verzonnen aantallen.",
+      "additions": [
+        {
+          "verse": 15,
+          "scene": "De opzichters klagen bij Farao",
+          "kind": "scene",
+          "file": "5-15-verhaal.webp"
+        },
+        {
+          "verse": 21,
+          "scene": "De opzichters verwijten Mozes en Aäron hun optreden",
+          "kind": "scene",
+          "file": "5-21-verhaal.webp"
+        },
+        {
+          "verse": 7,
+          "file": "5-stro-en-bakstenen.svg",
+          "scene": "Geen stro, dezelfde dagtaak",
+          "kind": "diagram",
+          "source": "Exodus 5:6–21"
+        }
+      ]
+    },
+    {
+      "book": "exodus",
+      "chapter": 7,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Farao’s onverschillige terugkeer is een eigen reactie. Het schema controleert de leeftijden en behoudt de woordkeus van het stafteken.",
+      "additions": [
+        {
+          "verse": 23,
+          "scene": "Farao keert naar huis terug",
+          "kind": "scene",
+          "file": "7-23-verhaal.webp"
+        },
+        {
+          "verse": 7,
+          "file": "7-leeftijden-en-teken.svg",
+          "scene": "Mozes en Aäron bij Farao",
+          "kind": "diagram",
+          "source": "Exodus 7:1–13"
+        }
+      ]
+    },
+    {
+      "book": "exodus",
+      "chapter": 8,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Het ongedierte en het gebed om wegneming ontbreken naast kikkers, stof en het gesprek bij de Nijl. Een overzicht onderscheidt de drie plagen.",
+      "additions": [
+        {
+          "verse": 24,
+          "scene": "Zwermen ongedierte vullen de huizen",
+          "kind": "scene",
+          "file": "8-24-verhaal.webp"
+        },
+        {
+          "verse": 30,
+          "scene": "Mozes bidt om het ongedierte weg te nemen",
+          "kind": "scene",
+          "file": "8-30-verhaal.webp"
+        },
+        {
+          "verse": 22,
+          "file": "8-drie-plagen-en-reacties.svg",
+          "scene": "Kikkers, luizen en ongedierte",
+          "kind": "diagram",
+          "source": "Exodus 8:1–32"
+        }
+      ]
+    },
+    {
+      "book": "exodus",
+      "chapter": 9,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "De tijdige bescherming van vee en het gebed na de hagel zijn eigen gebeurtenissen. Het schema verduidelijkt de verschillende gewassen en bescherming van Gosen.",
+      "additions": [
+        {
+          "verse": 20,
+          "scene": "Dienaren brengen het vee in veiligheid",
+          "kind": "scene",
+          "file": "9-20-verhaal.webp"
+        },
+        {
+          "verse": 33,
+          "scene": "Mozes bidt buiten de stad",
+          "kind": "scene",
+          "file": "9-33-verhaal.webp"
+        },
+        {
+          "verse": 31,
+          "file": "9-hagel-en-gewassen.svg",
+          "scene": "Wat de hagel vernielt",
+          "kind": "diagram",
+          "source": "Exodus 9:19–33"
+        }
+      ]
+    },
+    {
+      "book": "exodus",
+      "chapter": 10,
+      "status": "reviewed",
+      "target_images": 7,
+      "reason": "De raad van dienaren, de westenwind en het licht bij Israël vullen de drie bestaande scènes aan. Het gesprek over wie mag vertrekken krijgt een schema.",
+      "additions": [
+        {
+          "verse": 7,
+          "scene": "Farao’s dienaren dringen op vertrek aan",
+          "kind": "scene",
+          "file": "10-7-verhaal.webp"
+        },
+        {
+          "verse": 19,
+          "scene": "De westenwind voert de sprinkhanen weg",
+          "kind": "scene",
+          "file": "10-19-verhaal.webp"
+        },
+        {
+          "verse": 23,
+          "scene": "Licht in de huizen van Israël",
+          "kind": "scene",
+          "file": "10-23-verhaal.webp"
+        },
+        {
+          "verse": 9,
+          "file": "10-wie-mogen-meegaan.svg",
+          "scene": "Wie mogen er meegaan?",
+          "kind": "diagram",
+          "source": "Exodus 10:8–29"
+        }
+      ]
+    },
+    {
+      "book": "exodus",
+      "chapter": 3,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "Drie bestaande scènes tonen Horeb, de struik en de sandalen. Een leesbaar schema vult de naam, opdracht en beloofde vervolgstappen aan; nog een struikscène zou dupliceren.",
+      "additions": [
+        {
+          "verse": 14,
+          "file": "3-naam-en-opdracht.svg",
+          "scene": "Naam, belofte en opdracht",
+          "kind": "diagram",
+          "source": "Exodus 3:10–22"
+        }
+      ]
+    },
+    {
+      "book": "exodus",
+      "chapter": 6,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "De lange geslachtslijst krijgt drie gecontroleerde familieoverzichten. De drie bestaande scènes dekken de belofte, moedeloosheid en gezanten; geen opvullende scène.",
+      "additions": [
+        {
+          "verse": 13,
+          "file": "6-families-ruben-simeon.svg",
+          "scene": "De families van Ruben en Simeon",
+          "kind": "diagram",
+          "source": "Exodus 6:13–14"
+        },
+        {
+          "verse": 15,
+          "file": "6-levi-en-zijn-takken.svg",
+          "scene": "Levi en zijn familietakken",
+          "kind": "diagram",
+          "source": "Exodus 6:15–21"
+        },
+        {
+          "verse": 19,
+          "file": "6-amram-aaron-en-mozes.svg",
+          "scene": "Amram, Aäron en Mozes",
+          "kind": "diagram",
+          "source": "Exodus 6:19–24"
+        }
+      ]
     }
   ]
 }
