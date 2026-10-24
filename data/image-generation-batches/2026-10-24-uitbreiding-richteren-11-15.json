@@ -1,0 +1,373 @@
+{
+  "date": "2026-10-24",
+  "started": "2026-10-24T02:53:36Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "richteren",
+      "chapter": 11,
+      "verse": 38,
+      "scene": "Twee maanden met haar vriendinnen",
+      "alt": "Twee maanden met haar vriendinnen — Richteren 11:38",
+      "kind": "scene",
+      "file": "11-38-uitbreiding.webp",
+      "prompt": "Photorealistic educational ancient Bible illustration, landscape 3:2. Fully modestly robed people, natural hands and exactly two arms per person. No readable lettering, modern objects, Roman armor, watermark, visible deity, injuries or bodies. A fully modestly robed young adult Hebrew woman mourns quietly with three fully clothed adult female friends in a peaceful rocky hill landscape. Compassionate support, no father present, altar, threat, sacrifice, wounds, sexual imagery or imposed tragic spectacle. Illustrates the two months in the hills in Judges 11:38.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "richteren",
+      "chapter": 13,
+      "verse": 10,
+      "scene": "Zij roept Manoach naar het veld",
+      "alt": "Zij roept Manoach naar het veld — Richteren 13:10",
+      "kind": "scene",
+      "file": "13-10-uitbreiding.webp",
+      "prompt": "Photorealistic educational ancient Bible illustration, landscape 3:2. Fully modestly robed people, natural hands and exactly two arms per person. No readable lettering, modern objects, Roman armor, watermark, visible deity, injuries or bodies. A fully robed adult ancient Hebrew woman urgently but happily calls her fully clothed adult husband from a rural stone house to follow her toward an open field. No visible messenger, deity, pregnancy exposure, modern object or readable text.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "richteren",
+      "chapter": 13,
+      "verse": 21,
+      "scene": "Manoach en zijn vrouw buigen neer",
+      "alt": "Manoach en zijn vrouw buigen neer — Richteren 13:21",
+      "kind": "scene",
+      "file": "13-21-uitbreiding.webp",
+      "prompt": "Photorealistic educational ancient Bible illustration, landscape 3:2. Fully modestly robed people, natural hands and exactly two arms per person. No readable lettering, modern objects, Roman armor, watermark, visible deity, injuries or bodies. A fully modestly robed adult ancient Hebrew couple kneels with faces lowered beside a natural stone altar with a small fire and smoke in a rural field. The messenger has vanished: no angel or human form in fire, no animal corpse, gore or magical explosion. Reverent recognition after the ascent, not a second visitation.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "richteren",
+      "chapter": 14,
+      "verse": 5,
+      "scene": "Een jonge leeuw bij Timna",
+      "alt": "Een jonge leeuw bij Timna — Richteren 14:5",
+      "kind": "scene",
+      "file": "14-5-uitbreiding.webp",
+      "prompt": "Photorealistic educational ancient Bible illustration, landscape 3:2. Fully modestly robed people, natural hands and exactly two arms per person. No readable lettering, modern objects, Roman armor, watermark, visible deity, injuries or bodies. A strong fully clothed adult Hebrew Samson with long uncut dark hair stops on an ancient vineyard path as a young male lion faces him from several meters away, mouth open in a roar. Quiet moment immediately before the encounter, both uninjured, no contact, blood, torn animal, wrestling or weapons.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "richteren",
+      "chapter": 14,
+      "verse": 17,
+      "scene": "Het raadsel onder druk",
+      "alt": "Het raadsel onder druk — Richteren 14:17",
+      "kind": "scene",
+      "file": "14-17-uitbreiding.webp",
+      "prompt": "Photorealistic educational ancient Bible illustration, landscape 3:2. Fully modestly robed people, natural hands and exactly two arms per person. No readable lettering, modern objects, Roman armor, watermark, visible deity, injuries or bodies. A fully modestly robed adult Philistine bride, visibly worried and tearful but composed, asks long-haired fully clothed adult Hebrew Samson a question beside a quiet ancient wedding courtyard. He listens with a serious expression, respectful distance, no embrace, coercive hand gesture, threats, sexual imagery or readable riddle.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "richteren",
+      "chapter": 15,
+      "verse": 14,
+      "scene": "De touwen breken bij Lechi",
+      "alt": "De touwen breken bij Lechi — Richteren 15:14",
+      "kind": "scene",
+      "file": "15-14-uitbreiding.webp",
+      "prompt": "Photorealistic educational ancient Bible illustration, landscape 3:2. Fully modestly robed people, natural hands and exactly two arms per person. No readable lettering, modern objects, Roman armor, watermark, visible deity, injuries or bodies. A strong fully clothed adult Hebrew Samson with long uncut dark hair stands on a stony path as two simple new ropes around his forearms fall apart into loose strands. Two arms and two natural hands clearly separated at normal distance, no superhuman body distortion, flames, weapons, attack or injured person.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "richteren",
+      "chapter": 11,
+      "verse": 12,
+      "file": "11-jeftas-boodschap.svg",
+      "scene": "Jefta’s antwoord aan de koning",
+      "alt": "De eis, Jefta’s historische antwoord en het uitblijven van overeenstemming.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1283,
+      "source": "Richteren 11:12–28",
+      "design": {
+        "rows": [
+          [
+            "De eis van de koning",
+            "Teruggave van land tussen Arnon, Jabbok en Jordaan."
+          ],
+          [
+            "Jefta’s onderscheid",
+            "Volgens zijn antwoord is het land niet van Moab of Ammon afgenomen."
+          ],
+          [
+            "De herinnerde route",
+            "Edom en Moab weigeren doorgang; Israël trekt om hen heen."
+          ],
+          [
+            "Sihon van Hesbon",
+            "Amoritisch gebied wordt na zijn aanval veroverd."
+          ],
+          [
+            "De genoemde tijd",
+            "Jefta spreekt over 300 jaar bewoning; de koning luistert niet."
+          ]
+        ],
+        "note": "Dit is het diplomatieke betoog van Jefta; de woorden van beide partijen worden herkenbaar toegeschreven."
+      }
+    },
+    {
+      "book": "richteren",
+      "chapter": 11,
+      "verse": 30,
+      "file": "11-gelofte-en-dochter.svg",
+      "scene": "De gelofte en Jefta’s dochter",
+      "alt": "De volgorde van gelofte, enig kind, twee maanden en de jaarlijkse vier dagen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1448,
+      "source": "Richteren 11:30–40",
+      "design": {
+        "rows": [
+          [
+            "De gelofte",
+            "Wat hem bij behouden terugkeer als eerste uit huis tegemoet komt, zal hij als brandoffer brengen."
+          ],
+          [
+            "De terugkeer",
+            "Zijn enige kind, zijn dochter, komt met tamboerijn en dans tegemoet."
+          ],
+          [
+            "Haar verzoek",
+            "Twee maanden met vriendinnen in de bergen rouwen om het maagd blijven."
+          ],
+          [
+            "Het slot",
+            "Na terugkeer voltrekt Jefta de gedane gelofte; de tekst beschrijft geen uitvoeringstechniek."
+          ],
+          [
+            "De jaarlijkse gewoonte",
+            "Dochters van Israël gaan vier dagen per jaar; deze vertaling zegt: met haar spreken."
+          ]
+        ],
+        "note": "De tragische tekst en de formulering van deze vertaling blijven zichtbaar; geen offeruitvoering of verzonnen naam voor de dochter."
+      }
+    },
+    {
+      "book": "richteren",
+      "chapter": 12,
+      "verse": 1,
+      "file": "12-conflict-en-termijnen.svg",
+      "scene": "Conflict en vier termijnen",
+      "alt": "Het conflict en de opeenvolgende vier rechters met exacte termijnen en plaatsen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1326,
+      "source": "Richteren 12:1–15",
+      "design": {
+        "rows": [
+          [
+            "Efraïm en Gilead",
+            "Een verwijt mondt uit in strijd; Schibboleth en Sibboleth bij de Jordaan."
+          ],
+          [
+            "Jefta",
+            "Zes jaar rechter; begraven in een stad van Gilead."
+          ],
+          [
+            "Ebzan",
+            "Zeven jaar; uit Bethlehem en daar begraven."
+          ],
+          [
+            "Elon",
+            "Tien jaar; Zebuloniet, begraven in Ajalon in Zebulon."
+          ],
+          [
+            "Abdon",
+            "Acht jaar; zoon van Hillel, begraven in Pirhathon in Efraïm."
+          ]
+        ],
+        "note": "Ajalon wordt hier uitdrukkelijk in Zebulon geplaatst; de termijnen worden niet met andere hoofdstukken samengevoegd."
+      }
+    },
+    {
+      "book": "richteren",
+      "chapter": 12,
+      "verse": 9,
+      "file": "12-gezinnen-en-aantallen.svg",
+      "scene": "Twee gezinnen en hun aantallen",
+      "alt": "De verschillende dertigtallen van Ebzan en de optelling 40 + 30 bij Abdon.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 969,
+      "source": "Richteren 12:9 en 14",
+      "design": {
+        "rows": [
+          [
+            "Ebzan",
+            "Dertig zonen en dertig dochters."
+          ],
+          [
+            "De huwelijken",
+            "Dochters buiten de familie; voor de zonen dertig vrouwen van buiten."
+          ],
+          [
+            "Abdon",
+            "Veertig zonen en dertig kleinzonen."
+          ],
+          [
+            "De rijdieren",
+            "Zeventig ezelsveulens voor die veertig plus dertig nakomelingen."
+          ]
+        ],
+        "note": "Er worden geen namen aan de niet bij naam genoemde kinderen gegeven."
+      }
+    },
+    {
+      "book": "richteren",
+      "chapter": 13,
+      "verse": 3,
+      "file": "13-aankondiging-simson.svg",
+      "scene": "De aankondiging van Simson",
+      "alt": "De onderscheiden voorschriften voor moeder en zoon en de aangekondigde taak.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1326,
+      "source": "Richteren 13:3–14 en 24–25",
+      "design": {
+        "rows": [
+          [
+            "De ouders",
+            "Manoach uit Zora, uit Dan; zijn vrouw krijgt in dit hoofdstuk geen eigen naam."
+          ],
+          [
+            "De zoon",
+            "Een aangekondigde geboorte; later noemt zijn moeder hem Simson."
+          ],
+          [
+            "De opdracht aan de moeder",
+            "Geen wijn of sterke drank, niets van de wijnstok en niets onreins."
+          ],
+          [
+            "De opdracht voor de zoon",
+            "Vanaf de moederschoot Nazireër; geen scheermes op zijn hoofd."
+          ],
+          [
+            "De aangekondigde taak",
+            "Beginnen Israël te redden uit de macht van de Filistijnen."
+          ]
+        ],
+        "note": "Een beschrijving van de opdracht in het verhaal; de vrouw krijgt geen verzonnen naam of extra genealogie."
+      }
+    },
+    {
+      "book": "richteren",
+      "chapter": 13,
+      "verse": 19,
+      "file": "13-herkenning-en-antwoord.svg",
+      "scene": "Herkenning en het antwoord",
+      "alt": "De opeenvolging van offer, herkenning, angst en het antwoord van de vrouw.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1098,
+      "source": "Richteren 13:19–23",
+      "design": {
+        "rows": [
+          [
+            "Het offer",
+            "Manoach offert het bokje en graanoffer op de rots aan de HEERE."
+          ],
+          [
+            "Het wonder",
+            "De engel stijgt op in de vlam; het paar valt met het gezicht ter aarde."
+          ],
+          [
+            "Manoachs angst",
+            "Wij zullen sterven, want wij hebben God gezien."
+          ],
+          [
+            "Het antwoord van zijn vrouw",
+            "Een aangenomen offer, de getoonde dingen en de belofte passen niet bij die vrees."
+          ]
+        ],
+        "note": "De tekst geeft het antwoord aan Manoachs vrouw; zij verwoordt de geruststellende gevolgtrekking."
+      }
+    },
+    {
+      "book": "richteren",
+      "chapter": 14,
+      "verse": 12,
+      "file": "14-raadsel-en-termijn.svg",
+      "scene": "Het raadsel en de zeven dagen",
+      "alt": "De herkomst van het raadsel, dubbele kledinginzet en exacte feesttermijn.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1369,
+      "source": "Richteren 14:8–20",
+      "design": {
+        "rows": [
+          [
+            "De achtergrond",
+            "Honing uit de leeuw, gedeeld met de ouders zonder de herkomst te vertellen."
+          ],
+          [
+            "De inzet",
+            "Dertig linnen hemden en dertig stel feestkleren."
+          ],
+          [
+            "De termijn",
+            "Zeven dagen feest; na drie dagen nog geen oplossing."
+          ],
+          [
+            "De druk",
+            "De gasten bedreigen de vrouw; op de zevende dag geeft zij de verklaring door."
+          ],
+          [
+            "De uitkomst",
+            "De gasten antwoorden vóór zonsondergang; Simson betaalt de kleding na geweld in Askelon."
+          ]
+        ],
+        "note": "De bedreiging en het latere geweld horen bij de vertelling; ze worden niet als feestideaal voorgesteld."
+      }
+    },
+    {
+      "book": "richteren",
+      "chapter": 15,
+      "verse": 1,
+      "file": "15-escalatie-en-redding.svg",
+      "scene": "Escalatie en nieuwe redding",
+      "alt": "De hoofdstukvolgorde, twee touwen, de roep om water en de twintig jaren.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1561,
+      "source": "Richteren 15:1–20",
+      "design": {
+        "rows": [
+          [
+            "De geweigerde toegang",
+            "De vader heeft Simsons vrouw aan zijn metgezel gegeven."
+          ],
+          [
+            "De brand en het antwoord",
+            "Vossen en fakkels brengen brand; de Filistijnen doden vrouw en vader met vuur."
+          ],
+          [
+            "Etam en Juda",
+            "Simson verblijft bij de rots; 3.000 mannen komen en binden hem met twee nieuwe touwen."
+          ],
+          [
+            "Lechi",
+            "Touwen vallen uiteen; een ezelskaak wordt gebruikt en daarna weggegooid."
+          ],
+          [
+            "Dorst en water",
+            "Simson roept; er komt water en zijn kracht keert terug."
+          ],
+          [
+            "De termijn",
+            "Twintig jaar rechter in de tijd van de Filistijnen."
+          ]
+        ],
+        "note": "De opeenvolgende vergeldingen worden beschreven zonder brandende dieren of menselijke slachtoffers af te beelden."
+      }
+    }
+  ]
+}
