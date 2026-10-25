@@ -1,0 +1,596 @@
+{
+  "date": "2026-10-25",
+  "started": "2026-10-25T08:53:43Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "mattheus",
+      "chapter": 1,
+      "verse": 25,
+      "file": "1-25-naam-jezus-verdieping.webp",
+      "scene": "Jozef geeft de naam Jezus",
+      "alt": "Jozef geeft de naam Jezus — Mattheüs 1:25; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. A modest fully robed ancient adult father gently holds a fully swaddled newborn baby beside his fully robed adult wife in a simple Judean house, calm natural scene, two normal arms each, no written name, manger, wise men or invented birth attendants.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "mattheus",
+      "chapter": 2,
+      "verse": 7,
+      "file": "2-7-herodes-wijzen-verdieping.webp",
+      "scene": "Herodes spreekt de wijzen geheim",
+      "alt": "Herodes spreekt de wijzen geheim — Mattheüs 2:7; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. An ancient Judean ruler in period royal robes quietly consults a few fully robed adult eastern travellers in a plain palace side room, no baby, violence, written astrological chart or exact fixed number of all wise men claimed.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "mattheus",
+      "chapter": 2,
+      "verse": 12,
+      "file": "2-12-andere-route-verdieping.webp",
+      "scene": "De wijzen langs een andere route",
+      "alt": "De wijzen langs een andere route — Mattheüs 2:12; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. Fully robed eastern travellers leave through a quiet ancient desert fork path away from a distant city, camel caravan, natural bodies, no modern road sign or map claiming the actual route.",
+      "edit_prompt": "Edit target: returning wise men in Matthew 2:12. Keep the landscape, camels, natural light and caravan composition. Replace the woman in the foreground with an adult bearded eastern male traveller wearing modest period robes and a different headcloth. All visible travellers should be adult men. No Mary, Joseph, infant, child, family scene, extra limbs or readable text. This represents wise men returning by a different route, not the flight to Egypt. Preserve natural anatomy and photorealism.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "mattheus",
+      "chapter": 2,
+      "verse": 23,
+      "file": "2-23-nazareth-verdieping.webp",
+      "scene": "Het gezin gaat in Nazareth wonen",
+      "alt": "Het gezin gaat in Nazareth wonen — Mattheüs 2:23; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. A fully robed adult couple with a fully clothed small child arrives beside plain ancient Galilean village homes in a hilly landscape, no Egyptian monument, modern church, manger or exact invented Nazareth house identification.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "mattheus",
+      "chapter": 3,
+      "verse": 4,
+      "file": "3-4-sprinkhanen-honing-verdieping.webp",
+      "scene": "Johannes: sprinkhanen en honing",
+      "alt": "Johannes: sprinkhanen en honing — Mattheüs 3:4; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. Close still life of a coarse camelhair garment with plain leather belt beside a small wooden bowl of locusts and honeycomb in a rocky wilderness shelter, no person eating, modern plate, labels or magical light.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "mattheus",
+      "chapter": 3,
+      "verse": 10,
+      "file": "3-10-bijl-wortel-verdieping.webp",
+      "scene": "Vergelijking: bijl bij de wortel",
+      "alt": "Vergelijking: bijl bij de wortel — Mattheüs 3:10; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. An ordinary ancient iron axe lies safely beside the exposed roots of a fruitless tree, no person wielding it, injury, modern axe handle or chopped bodies; a material warning comparison.",
+      "edit_prompt": "Change only this: remove every person from the scene, filling their areas with the existing rocky hillside landscape. Keep the tree, exposed roots, iron axe, light and natural scenery. No people anywhere. This is the inanimate comparison in John's warning in Matthew 3:10, not an event involving Jesus teaching. Photorealism, no text.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "mattheus",
+      "chapter": 3,
+      "verse": 12,
+      "file": "3-12-wan-dorsvloer-verdieping.webp",
+      "scene": "Vergelijking: wan en dorsvloer",
+      "alt": "Vergelijking: wan en dorsvloer — Mattheüs 3:12; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. A fully robed ancient adult farmer winnows grain with a plain wooden winnowing shovel on a stone threshing floor, wheat gathered aside and chaff drifting, two normal arms, no crowd judged, bodies, modern machine or writing.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "mattheus",
+      "chapter": 4,
+      "verse": 11,
+      "file": "4-11-engelen-dienen-verdieping.webp",
+      "scene": "Engelen dienen Jezus",
+      "alt": "Engelen dienen Jezus — Mattheüs 4:11; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. A fully robed adult Jewish teacher with shoulder-length dark hair and beard rests in a rocky wilderness while two fully robed adult male messengers attentively offer simple food and water, natural separate bodies, no Satan figure, exposed bodies, giant wings, floating dishes or Father portrait.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "mattheus",
+      "chapter": 4,
+      "verse": 21,
+      "file": "4-21-zebedeus-boot-verdieping.webp",
+      "scene": "Jakobus en Johannes bij Zebedeüs",
+      "alt": "Jakobus en Johannes bij Zebedeüs — Mattheüs 4:21; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. Two fully robed young adult brothers and their fully robed older father mend fishing nets in a simple wooden boat at a Galilean shore; a fully robed bearded adult teacher calls from the shore, four separate bodies each two arms, no crowd or modern fishing gear.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "mattheus",
+      "chapter": 4,
+      "verse": 24,
+      "file": "4-24-zieken-gebracht-verdieping.webp",
+      "scene": "Mensen brengen zieken bij Jezus",
+      "alt": "Mensen brengen zieken bij Jezus — Mattheüs 4:24; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. A fully robed adult Jewish teacher compassionately meets fully clothed adults with illness or limited mobility in a simple Galilean courtyard, one seated on a plain carried mat and another using a wooden cane, helpers respectful, no wounds, seizure spectacle, graphic symptoms or glowing magic.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "mattheus",
+      "chapter": 5,
+      "verse": 15,
+      "file": "5-15-lamp-standaard-verdieping.webp",
+      "scene": "Vergelijking: lamp op een standaard",
+      "alt": "Vergelijking: lamp op een standaard — Mattheüs 5:15; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. A lit ancient clay oil lamp on a plain wooden stand illuminates a simple stone house interior, a woven basket sits safely aside and does not cover the flame, no people, modern candle, readable writing or deity.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "mattheus",
+      "chapter": 5,
+      "verse": 24,
+      "file": "5-24-verzoen-broer-verdieping.webp",
+      "scene": "Lesbeeld: eerst verzoenen",
+      "alt": "Lesbeeld: eerst verzoenen — Mattheüs 5:24; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. Two fully robed ancient adult brothers reconcile with a gentle natural handshake on a plain path beside a distant sanctuary courtyard, four normal arms, no extra crowd, bribe, blood or injuries; illustration of the teaching, not named historical disciples.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "mattheus",
+      "chapter": 5,
+      "verse": 41,
+      "file": "5-41-tweede-afstand-verdieping.webp",
+      "scene": "Lesbeeld: verder meegaan",
+      "alt": "Lesbeeld: verder meegaan — Mattheüs 5:41; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. Two fully robed ancient adult travellers walk together along a simple Judean road carrying small bundles, natural legs and arms, no modern mile marker, exact path label, coercive violence or readable writing; material illustration of going farther.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "mattheus",
+      "chapter": 5,
+      "verse": 45,
+      "file": "5-45-regen-over-allen-verdieping.webp",
+      "scene": "Lesbeeld: regen over beide akkers",
+      "alt": "Lesbeeld: regen over beide akkers — Mattheüs 5:45; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. Gentle natural rain falls evenly over two adjoining ancient cultivated fields and plain village houses, no division into morally good-looking versus bad-looking people, labels, magical sun faces or modern machinery.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "mattheus",
+      "chapter": 1,
+      "verse": 1,
+      "file": "1-leeswijzer.svg",
+      "scene": "Afkomst, droom en geboorte",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1035,
+      "source": "Mattheüs 1:1–25",
+      "design": {
+        "rows": [
+          [
+            "De lijn · 1–17",
+            "Abraham tot David, wegvoering Babylon en Christus; vaderreeksen, genoemde vrouwen, Jozef man van Maria, Jezus uit Maria."
+          ],
+          [
+            "De verwachte geboorte · 18–23",
+            "Maria verloofd, zwangerschap door Geest, Jozefs besluit en droom; naam Jezus en uitleg Immanuël."
+          ],
+          [
+            "De reactie · 24–25",
+            "Jozef neemt Maria bij zich, geen gemeenschap vóór geboorte, geeft naam Jezus."
+          ]
+        ],
+        "note": "Beeldspraak, klacht, herinnering en belofte volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "mattheus",
+      "chapter": 2,
+      "verse": 1,
+      "file": "2-leeswijzer.svg",
+      "scene": "Wijzen, vlucht en terugkeer",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1035,
+      "source": "Mattheüs 2:1–23",
+      "design": {
+        "rows": [
+          [
+            "Jeruzalem en huis · 1–12",
+            "Herodes, schriftgeleerden/Bethlehem, geheime vraag, ster, vreugde, huis/Maria/kind, drie soorten gaven, andere route."
+          ],
+          [
+            "Egypte en rouw · 13–18",
+            "Droom, nachtelijke vlucht, Herodes’ geweld tegen kinderen, Jeremiawoord over Rachels rouw."
+          ],
+          [
+            "Terugkeer · 19–23",
+            "Na Herodesdood, nieuwe droom, Israël, angst voor Archelaüs en waarschuwing, Galilea/Nazareth."
+          ]
+        ],
+        "note": "Beeldspraak, klacht, herinnering en belofte volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "mattheus",
+      "chapter": 3,
+      "verse": 1,
+      "file": "3-leeswijzer.svg",
+      "scene": "Bekering en de doop van Jezus",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 992,
+      "source": "Mattheüs 3:1–17",
+      "design": {
+        "rows": [
+          [
+            "Johannes · 1–6",
+            "Woestijn, koninkrijk dichtbij, Jesajawoord, kameelhaar/gordel en voedsel, belijden en doop in Jordaan."
+          ],
+          [
+            "Zijn waarschuwing · 7–12",
+            "Vrucht van inkeer, Abraham/stenen, bijl bij wortel, water tegenover komende Geest/vuur, wan/tarwe/kaf."
+          ],
+          [
+            "Jezus · 13–17",
+            "Galilea naar Johannes, bezwaar en toestemming om recht te doen, uit water, Geest als duif en hemelse stem."
+          ]
+        ],
+        "note": "Beeldspraak, klacht, herinnering en belofte volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "mattheus",
+      "chapter": 4,
+      "verse": 1,
+      "file": "4-leeswijzer.svg",
+      "scene": "Beproeving, roeping en dienst",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1078,
+      "source": "Mattheüs 4:1–25",
+      "design": {
+        "rows": [
+          [
+            "De beproeving · 1–11",
+            "Veertig dagen/nachten, stenen/brood, tempelhoogte en koninkrijken; drie Schriftantwoorden, verleider weg en engelen dienen."
+          ],
+          [
+            "Galilea · 12–17",
+            "Johannes gevangen, Nazareth/Kapernaüm, Zebulon/Naftali en licht; bekering, koninkrijk dichtbij."
+          ],
+          [
+            "De roeping en dienst · 18–25",
+            "Simon/Petrus en Andreas, Jakobus/Johannes met Zebedeüs; volgen, onderwijzen, verkondigen, genezen en vele streken."
+          ]
+        ],
+        "note": "Beeldspraak, klacht, herinnering en belofte volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "mattheus",
+      "chapter": 5,
+      "verse": 1,
+      "file": "5-leeswijzer.svg",
+      "scene": "Het begin van de Bergrede",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 949,
+      "source": "Mattheüs 5:1–48",
+      "design": {
+        "rows": [
+          [
+            "Gelukkig en zichtbaar · 1–16",
+            "Leerlingen bij zittende Jezus, gelukkigsprekingen; zout, bergstad/lamp en goede daden."
+          ],
+          [
+            "Wet en vervulling · 17–20",
+            "Wet/profeten vervullen, klein gebod doen/leren, grotere gerechtigheid."
+          ],
+          [
+            "Het concrete leven · 21–48",
+            "Boosheid/verzoening, begeerte, huwelijk, eed/ja-nee, vergelding/geven en vijandenliefde; Vader als maatstaf."
+          ]
+        ],
+        "note": "Beeldspraak, klacht, herinnering en belofte volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "mattheus",
+      "chapter": 1,
+      "verse": 2,
+      "file": "1-genoemde-vrouwen.svg",
+      "scene": "Vrouwen en bijzondere verbanden",
+      "alt": "Vrouwen en bijzondere verbanden met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1319,
+      "source": "Mattheüs 1:3–6,16–17",
+      "design": {
+        "rows": [
+          [
+            "Thamar · 3",
+            "Juda is bij haar vader van Fares en Zara."
+          ],
+          [
+            "Rachab en Ruth · 5",
+            "Salmon bij Rachab: Booz; Booz bij Ruth: Obed."
+          ],
+          [
+            "De vrouw van Uria · 6",
+            "David bij haar vader van Salomon; haar eigen naam wordt hier niet ingevuld."
+          ],
+          [
+            "Maria en Jozef · 16",
+            "Jozef is man van Maria; uit Maria is Jezus geboren."
+          ],
+          [
+            "Het raamwerk · 17",
+            "Veertien van Abraham tot David, tot wegvoering en tot Christus."
+          ]
+        ],
+        "note": "Relaties volgen de formulering van dit hoofdstuk. De huwelijksschakel Jozef/Maria wordt niet als biologisch vaderschap van Jezus getekend."
+      }
+    },
+    {
+      "book": "mattheus",
+      "chapter": 2,
+      "verse": 1,
+      "file": "2-plaatsvolgorde.svg",
+      "scene": "De plaatsvolgorde in het verhaal",
+      "alt": "De plaatsvolgorde in het verhaal met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1091,
+      "source": "Mattheüs 2:1–23",
+      "design": {
+        "rows": [
+          [
+            "Wijzen · 1–12",
+            "Oosten → Jeruzalem → Bethlehemhuis → langs andere route naar eigen land."
+          ],
+          [
+            "Het gezin · 13–15",
+            "Bethlehem → Egypte, in de nacht, tot na Herodesdood."
+          ],
+          [
+            "Terugkeer · 19–23",
+            "Egypte → land Israël; wegens Archelaüs naar Galilea, wonen Nazareth."
+          ],
+          [
+            "Tekstwoorden",
+            "Bethlehemherder, uit Egypte zoon geroepen, Rachel in Rama, Nazarener."
+          ]
+        ],
+        "note": "Het hoofdstuk noemt soorten geschenken, geen totaal aantal wijzen. Routes zijn volgorde, geen onbewezen exacte kaart."
+      }
+    },
+    {
+      "book": "mattheus",
+      "chapter": 3,
+      "verse": 10,
+      "file": "3-vergelijkingen-en-doop.svg",
+      "scene": "Waarschuwingen en de twee dopen",
+      "alt": "Waarschuwingen en de twee dopen met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1098,
+      "source": "Mattheüs 3:7–17",
+      "design": {
+        "rows": [
+          [
+            "Vrucht en boom · 7–10",
+            "Echte inkeer zichtbaar, Abraham als afstamming geen vrijbrief; bijl/wortel en goede vrucht."
+          ],
+          [
+            "Johannes · 11",
+            "Water als teken van bekering; komende Machtigere, sandalen niet waard."
+          ],
+          [
+            "De Komende · 11–12",
+            "Heilige Geest en vuur; wan, tarwe bewaren, kaf verbranden."
+          ],
+          [
+            "Jezus’ doop · 13–17",
+            "Alles doen wat recht is, Geest als duif en geliefde Zoon genoemd."
+          ]
+        ],
+        "note": "Beeldspraak is onderwijs; het is geen lijst van vier extra gebeurtenissen op de doopdag."
+      }
+    },
+    {
+      "book": "mattheus",
+      "chapter": 4,
+      "verse": 3,
+      "file": "4-drie-beproevingen.svg",
+      "scene": "Drie voorstellen, drie antwoorden",
+      "alt": "Drie voorstellen, drie antwoorden met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1005,
+      "source": "Mattheüs 4:1–11",
+      "design": {
+        "rows": [
+          [
+            "Stenen naar brood · 3–4",
+            "Niet alleen brood, maar elk woord uit Gods mond."
+          ],
+          [
+            "Van tempel springen · 5–7",
+            "De Heere je God niet op de proef stellen."
+          ],
+          [
+            "Koninkrijken voor aanbidding · 8–10",
+            "Hem aanbidden en Hem alleen dienen."
+          ],
+          [
+            "De afloop · 11",
+            "Duivel gaat weg, engelen dienen."
+          ]
+        ],
+        "note": "De antwoorden worden naast de voorstellen gezet; er wordt geen sprong of broodwonder als uitgevoerd afgebeeld."
+      }
+    },
+    {
+      "book": "mattheus",
+      "chapter": 4,
+      "verse": 18,
+      "file": "4-twee-broederparen.svg",
+      "scene": "Twee broederparen geroepen",
+      "alt": "Twee broederparen geroepen met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 707,
+      "source": "Mattheüs 4:18–22",
+      "design": {
+        "rows": [
+          [
+            "Simon/Petrus en Andreas",
+            "Broers, net in water, vissers; netten direct achterlaten en volgen."
+          ],
+          [
+            "Jakobus en Johannes",
+            "Broers, zonen van Zebedeüs; boot/netten en vader achterlaten, volgen."
+          ]
+        ],
+        "note": "Zebedeüs is expliciet vader van het tweede paar; er wordt geen familierelatie tussen de twee paren verzonnen."
+      }
+    },
+    {
+      "book": "mattheus",
+      "chapter": 5,
+      "verse": 3,
+      "file": "5-gelukkigsprekingen.svg",
+      "scene": "De gelukkigsprekingen",
+      "alt": "De gelukkigsprekingen met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1075,
+      "source": "Mattheüs 5:3–12",
+      "design": {
+        "rows": [
+          [
+            "God nodig en treuren · 3–4",
+            "Koninkrijk van hemel; troost."
+          ],
+          [
+            "Zachtmoedig en recht verlangen · 5–6",
+            "Aarde erven; verlangen vervuld."
+          ],
+          [
+            "Barmhartig en zuiver hart · 7–8",
+            "Barmhartigheid ontvangen; God zien."
+          ],
+          [
+            "Vredestichters en vervolgden · 9–10",
+            "Gods kinderen; koninkrijk van hemel."
+          ],
+          [
+            "Vanwege Hem beledigd/vervolgd · 11–12",
+            "Blij om hemelse beloning; profeten zo vervolgd."
+          ]
+        ],
+        "note": "De eigenschappen en hun gegeven belofte blijven gekoppeld."
+      }
+    },
+    {
+      "book": "mattheus",
+      "chapter": 5,
+      "verse": 21,
+      "file": "5-zes-onderwijsdelen.svg",
+      "scene": "Zes delen van het onderwijs",
+      "alt": "Zes delen van het onderwijs met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1439,
+      "source": "Mattheüs 5:21–48",
+      "design": {
+        "rows": [
+          [
+            "Doden en boosheid · 21–26",
+            "Recht, niet verachten; eerst verzoenen en het met tegenstander bijleggen."
+          ],
+          [
+            "Overspel en begeerte · 27–30",
+            "Hart telt; radicale oog/handtaal tegen zonde."
+          ],
+          [
+            "Scheiding · 31–32",
+            "Scheidingsbrief en ontrouw; de gegeven uitzondering blijft staan."
+          ],
+          [
+            "Eed · 33–37",
+            "Niet zweren; ja is ja, nee is nee."
+          ],
+          [
+            "Vergelding · 38–42",
+            "Wang, onder/bovenkleed, anderhalve/drie km, geven en lenen."
+          ],
+          [
+            "Liefde · 43–48",
+            "Vijanden liefhebben, zegenen/bidden, zon/regen over allen; verder dan eigen kring."
+          ]
+        ],
+        "note": "Radicale lichaamsbeeldspraak wordt inhoudelijk benoemd zonder verminking te tekenen."
+      }
+    },
+    {
+      "book": "mattheus",
+      "chapter": 1,
+      "verse": 2,
+      "file": "1-geslachtslijn.svg",
+      "scene": "De genoemde geslachtslijn",
+      "alt": "Alle namen in de gegeven hoofdlijn, huwelijk en geboorte onderscheiden.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1385,
+      "source": "Mattheüs 1:1–17",
+      "design": {
+        "rows": [
+          [
+            "Abraham tot David · 2–6",
+            "Abraham → Izak → Jakob → Juda → Fares → Esrom → Aram → Aminadab → Nahasson → Salmon → Booz → Obed → Jessai → David."
+          ],
+          [
+            "David tot wegvoering · 6–11",
+            "David → Salomon → Roboam → Abia → Asa → Josafat → Joram → Ozias → Joatham → Achaz → Ezekias → Manasse → Amon → Josias → Jechonias."
+          ],
+          [
+            "Na wegvoering · 12–16",
+            "Jechonias → Salathiël → Zorobabel → Abiud → Eljakim → Azor → Sadok → Achim → Elihud → Eleazar → Matthan → Jakob → Jozef."
+          ],
+          [
+            "Huwelijk en geboorte · 16",
+            "Jozef is de man van Maria. Uit Maria werd Jezus geboren, die Christus wordt genoemd."
+          ]
+        ],
+        "note": "De pijlen volgen de vaderformuleringen van het hoofdstuk. Zara en de broers staan naast de hoofdlijn; Jozef wordt hier niet als biologische vader van Jezus aangeduid."
+      }
+    }
+  ]
+}
