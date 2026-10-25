@@ -1,0 +1,97 @@
+{
+  "started": "2026-10-25T09:52:50Z",
+  "batches": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "new_visuals": 175,
+  "new_asset_files": 177,
+  "replaced_baseline_images": 2,
+  "new_rasters": 112,
+  "new_schemas": 65,
+  "new_reviewed_chapters": 30,
+  "total_reviewed_chapters": 973,
+  "total_images": 7445,
+  "metadata_corrections": 90,
+  "verified": "local sources, visual anatomy and content review, SVG legibility and font bounds, SVG enlarge links, dimensions and decode, chapter plan targets, preservation of baseline work",
+  "finished": "2026-10-25T10:47:14.427144+00:00",
+  "completed_books": [
+    "mattheus",
+    "markus"
+  ],
+  "reviewed_ranges": [
+    {
+      "book": "mattheus",
+      "first": 15,
+      "last": 28
+    },
+    {
+      "book": "markus",
+      "first": 1,
+      "last": 16
+    }
+  ],
+  "next_chapter": {
+    "book": "lukas",
+    "chapter": 1
+  },
+  "remaining_unreviewed_chapters": 631,
+  "open_targets": 0,
+  "generator": "built-in image_gen, one call per raster; native SVG for schemas",
+  "quality_corrections": [
+    {
+      "book": "mattheus",
+      "chapter": 15,
+      "issue": "Onjuiste toelichting bij maaltijdschema",
+      "resolution": "Gecorrigeerd volgens plaatselijke tekst; zeven manden en vierduizend mannen."
+    },
+    {
+      "book": "mattheus",
+      "chapter": 24,
+      "verse": 27,
+      "issue": "Onderwijsbeeld miste de gevraagde bliksem",
+      "resolution": "Bewerkt tot landschap met bliksem; opnieuw bekeken."
+    },
+    {
+      "book": "mattheus",
+      "chapter": 28,
+      "verse": 1,
+      "issue": "Bestaand beeld had drie vrouwen",
+      "resolution": "Bewerkt tot twee vrouwen volgens dit hoofdstuk; versie vervangt registratie."
+    },
+    {
+      "book": "markus",
+      "chapter": 6,
+      "verse": 7,
+      "issue": "Bestaande uitzending had tassen",
+      "resolution": "Tassen verwijderd; staven en sandalen behouden volgens vers 8; opnieuw bekeken."
+    },
+    {
+      "book": "markus",
+      "chapter": 16,
+      "issue": "Te brede SVG-titel",
+      "resolution": "Titel ingekort en fontgrenzen gecontroleerd."
+    }
+  ],
+  "generator_attempts": [
+    {
+      "batch": 4,
+      "index": 17,
+      "original_prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. A fully clothed healthy twelve-year-old girl sits beside a simple ancient bed while her fully and modestly robed adult mother offers a small piece of bread and water, father nearby, normal separate arms, no death imagery, modern medical equipment or exposed skin beyond ordinary face and hands.",
+      "error": "HTTP 400 input moderation sexual; request cb760127-eb24-48b3-867f-09d067c11711",
+      "resolution": "Een stilleven van brood en water bij het bed illustreert de opdracht uit vers 43; geen personen."
+    }
+  ],
+  "errors": [],
+  "site_build": "passed",
+  "coverage_check": "passed",
+  "baseline_commit": "956068a248c181c9792e48e55054f393ec5f1b38",
+  "asset_commit": "bc7aacb9291b072ade82ad2a7af2207102f34c3d",
+  "push_target": "Simson987/website-open-parafrase-vertaling:codex/three-images-per-chapter",
+  "pull_request": "https://github.com/William-Carey-Missions/website-open-parafrase-vertaling/pull/3",
+  "automation": "Active: content review is not complete; continue at the next unreviewed chapter."
+}
