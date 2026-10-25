@@ -1,0 +1,325 @@
+{
+  "date": "2026-10-25",
+  "started": "2026-10-25T02:38:01Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "psalmen",
+      "chapter": 89,
+      "verse": 38,
+      "scene": "Beeldspraak: de maan als betrouwbare getuige",
+      "alt": "Beeldspraak: de maan als betrouwbare getuige — Psalm 89:38; poëtische illustratie.",
+      "kind": "poetic",
+      "file": "89-38-maan-verdieping.webp",
+      "prompt": "Photorealistic Bible poetic illustration, landscape 3:2, ancient Near Eastern natural materials, no modern objects, readable text, deity, wounds or gore. All humans modestly clothed, coherent anatomy, exactly two arms. A luminous moon above a clear ancient hill landscape with quiet stone buildings. Natural lunar disk and evening sky, no face, writing, throne in the sky or supernatural human body. A visual for the moon comparison in the psalm’s covenant promise.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "psalmen",
+      "chapter": 90,
+      "verse": 6,
+      "scene": "Beeldspraak: gras dat in de avond verdort",
+      "alt": "Beeldspraak: gras dat in de avond verdort — Psalm 90:6; poëtische illustratie.",
+      "kind": "poetic",
+      "file": "90-6-verdorrend-gras-verdieping.webp",
+      "prompt": "Photorealistic Bible poetic illustration, landscape 3:2, ancient Near Eastern natural materials, no modern objects, readable text, deity, wounds or gore. All humans modestly clothed, coherent anatomy, exactly two arms. Close low view of dried cut grass beside living green grass on a rocky ancient hillside in warm evening light. No human, grave or clock. Show the short life metaphor of flourishing and withering, not another mountain panorama.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "psalmen",
+      "chapter": 91,
+      "verse": 3,
+      "scene": "Beeldspraak: ontkomen aan een vogelvangersval",
+      "alt": "Beeldspraak: ontkomen aan een vogelvangersval — Psalm 91:3; poëtische illustratie.",
+      "kind": "poetic",
+      "file": "91-3-vogelvangersval-verdieping.webp",
+      "prompt": "Photorealistic Bible poetic illustration, landscape 3:2, ancient Near Eastern natural materials, no modern objects, readable text, deity, wounds or gore. All humans modestly clothed, coherent anatomy, exactly two arms. A simple ancient cord loop bird snare lies sprung and empty beside a low bush, with a small natural bird flying freely away in the background. No trapped, dead or injured animal, no modern metal cage. Coherent bird anatomy and visibly loose harmless cord, poetic rescue metaphor.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "psalmen",
+      "chapter": 94,
+      "verse": 20,
+      "scene": "Aanklacht: een rechterstoel vol onheil",
+      "alt": "Aanklacht: een rechterstoel vol onheil — Psalm 94:20; poëtische illustratie.",
+      "kind": "poetic",
+      "file": "94-20-rechterstoel-verdieping.webp",
+      "prompt": "Photorealistic Bible poetic illustration, landscape 3:2, ancient Near Eastern natural materials, no modern objects, readable text, deity, wounds or gore. All humans modestly clothed, coherent anatomy, exactly two arms. An empty ancient wooden judge’s seat on a low stone platform in a shadowy city gate court; beside it a closed undecorated parchment roll and a balance. A somber sober still life for the complaint about law that produces injustice. No executions, people, deity, readable laws, modern gavel or scales with lettering.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "psalmen",
+      "chapter": 96,
+      "verse": 8,
+      "scene": "Oproep: kom met een offer in de voorhoven",
+      "alt": "Oproep: kom met een offer in de voorhoven — Psalm 96:8; poëtische illustratie.",
+      "kind": "poetic",
+      "file": "96-8-offer-voorhoven-verdieping.webp",
+      "prompt": "Photorealistic Bible poetic illustration, landscape 3:2, ancient Near Eastern natural materials, no modern objects, readable text, deity, wounds or gore. All humans modestly clothed, coherent anatomy, exactly two arms. A few adult worshippers in modest woven robes approach an ancient stone sanctuary courtyard carrying plain shallow baskets of grain and simple earthen vessels. Exactly two arms per person, no slaughter, babies, specific royal characters or deity. A poetic illustration of the invitation to bring an offering, distinct from musicians outdoors.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "psalmen",
+      "chapter": 88,
+      "verse": 2,
+      "file": "88-roepen-zonder-oplossing.svg",
+      "scene": "Roepen zonder oplossing",
+      "alt": "De aanhoudende klacht en het open einde van Psalm 88.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1091,
+      "source": "Psalm 88:2–19",
+      "design": {
+        "rows": [
+          [
+            "Dag en nacht · 2–3",
+            "De bidder blijft roepen tot de God die redt."
+          ],
+          [
+            "Diepte en afstand · 4–10",
+            "Graf, kuil, golven en verdwenen bekenden geven taal aan de nood."
+          ],
+          [
+            "Vragen · 11–13",
+            "Klinken trouw en lof ook in het graf en de vergetelheid?"
+          ],
+          [
+            "Opnieuw roepen · 14–19",
+            "Morgengebed, waaromvragen en het donker als laatste bekende."
+          ]
+        ],
+        "note": "De tekst eindigt in het donker. Het ochtendgebed is volgehouden roepen; de psalm vertelt hier geen daaropvolgende oplossing."
+      }
+    },
+    {
+      "book": "psalmen",
+      "chapter": 89,
+      "verse": 4,
+      "file": "89-belofte-en-maar-nu.svg",
+      "scene": "Belofte en maar nu",
+      "alt": "Samenhang van de lange koningspsalm met de omslag bij vers 39.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1319,
+      "source": "Psalm 89:4–53",
+      "design": {
+        "rows": [
+          [
+            "Verbond · 4–5",
+            "David, nageslacht en een blijvende troon."
+          ],
+          [
+            "Lof · 6–19",
+            "Onvergelijkelijke macht en een troon gedragen door recht."
+          ],
+          [
+            "Belofte · 20–38",
+            "Zalving, trouw en verbond; zon en maan als vergelijkingen."
+          ],
+          [
+            "Maar nu · 39–46",
+            "Afwijzing, kroon in het stof, doorbroken muren en neergehaalde troon."
+          ],
+          [
+            "Hoe lang · 47–53",
+            "Een kort mensenleven, de vraag naar vroegere trouw en de slotlof."
+          ]
+        ],
+        "note": "Het contrast tussen de uitgesproken belofte en de ervaren afwijzing vormt de kern van de klacht. De slotlof wist de gestelde vragen niet uit."
+      }
+    },
+    {
+      "book": "psalmen",
+      "chapter": 90,
+      "verse": 2,
+      "file": "90-tijd-en-dagen.svg",
+      "scene": "Tijd en onze dagen",
+      "alt": "Tijdvergelijkingen en hun verbinding met wijsheid en dagelijks werk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1134,
+      "source": "Psalm 90:2–17",
+      "design": {
+        "rows": [
+          [
+            "Eeuwigheid · 2–4",
+            "God vóór de bergen; duizend jaar vergeleken met gisteren en een nachtwake."
+          ],
+          [
+            "Vergankelijkheid · 5–10",
+            "Slaap, gras en een zucht; zeventig of bij kracht tachtig jaren."
+          ],
+          [
+            "Wijsheid · 11–12",
+            "Onze dagen leren tellen om een wijs hart te krijgen."
+          ],
+          [
+            "Bede · 13–17",
+            "Ontferming, vreugde, werk voor dienaren en luister aan hun kinderen."
+          ]
+        ],
+        "note": "De getallen staan in een gebed over de korte menselijke tijd. Het is geen tijdrekening waarmee een datum wordt voorspeld."
+      }
+    },
+    {
+      "book": "psalmen",
+      "chapter": 91,
+      "verse": 1,
+      "file": "91-stemmen-van-vertrouwen.svg",
+      "scene": "Stemmen van vertrouwen",
+      "alt": "Aanspreekvormen en beelden van bescherming in het lied.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 935,
+      "source": "Psalm 91:1–16",
+      "design": {
+        "rows": [
+          [
+            "Schuilen · 1–2",
+            "De schuilende mens en het ik dat zijn vertrouwen uitspreekt."
+          ],
+          [
+            "Aangesproken met je · 3–13",
+            "Val, vleugels, nacht, weg, engelen en gevaar."
+          ],
+          [
+            "De ik-belofte · 14–16",
+            "Bevrijden, antwoorden, nabij zijn in nood en redding laten zien."
+          ]
+        ],
+        "note": "Schuilplaats, vleugels, schild en weg geven woorden aan vertrouwen. De verschillende aanspreekvormen helpen de beweging van het lied volgen."
+      }
+    },
+    {
+      "book": "psalmen",
+      "chapter": 94,
+      "verse": 1,
+      "file": "94-aanklacht-en-recht.svg",
+      "scene": "Aanklacht en recht",
+      "alt": "De concrete slachtoffers en de beweging naar troost en recht.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1048,
+      "source": "Psalm 94:1–23",
+      "design": {
+        "rows": [
+          [
+            "Aanklacht · 1–7",
+            "Trots en geweld tegen volk, weduwe, vreemdeling en wees."
+          ],
+          [
+            "Tegenwerping · 8–11",
+            "De maker van oor en oog hoort en ziet."
+          ],
+          [
+            "Troost en onderricht · 12–19",
+            "Wet, trouw en troost houden de bidder overeind."
+          ],
+          [
+            "De rechterstoel · 20–23",
+            "Wetten die ellende maken tegenover God als burcht en rechter."
+          ]
+        ],
+        "note": "De slotbede om recht hangt samen met concreet onrecht. Opleiding, troost en bescherming staan midden in die maatschappelijke aanklacht."
+      }
+    },
+    {
+      "book": "psalmen",
+      "chapter": 95,
+      "verse": 1,
+      "file": "95-twee-oproepen.svg",
+      "scene": "Twee oproepen",
+      "alt": "De omslag van aanbidding naar luisteren en de woestijnwaarschuwing.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 899,
+      "source": "Psalm 95:1–11",
+      "design": {
+        "rows": [
+          [
+            "Kom en juich · 1–5",
+            "Danklied voor de Maker van zee, droog land en bergen."
+          ],
+          [
+            "Kom en buig · 6–7",
+            "Het volk als kudde buigt voor zijn Maker."
+          ],
+          [
+            "Luister vandaag · 7–11",
+            "Maak je hart niet hard: Meriba en Massa herinneren aan beproeven en afdwalen."
+          ]
+        ],
+        "note": "De uitnodiging tot lof gaat over in een dringende oproep om vandaag te luisteren. Het verleden wordt als waarschuwing aangehaald."
+      }
+    },
+    {
+      "book": "psalmen",
+      "chapter": 96,
+      "verse": 1,
+      "file": "96-een-steeds-wijder-koor.svg",
+      "scene": "Een steeds wijder koor",
+      "alt": "Van vertellers naar volken en de hele schepping in de oproep tot lof.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1091,
+      "source": "Psalm 96:1–13",
+      "design": {
+        "rows": [
+          [
+            "Hele aarde · 1–3",
+            "Zingen en vertellen onder volken en naties."
+          ],
+          [
+            "Families van volken · 7–10",
+            "Eer geven, offer brengen en eerlijk oordeel verkondigen."
+          ],
+          [
+            "Schepping · 11–12",
+            "Hemel, aarde, zee, veld en alle bomen doen mee."
+          ],
+          [
+            "Waarom · 13",
+            "De komst om de wereld met gerechtigheid en waarheid te oordelen."
+          ]
+        ],
+        "note": "Het juichen van veld en bomen is personificatie. De wijder wordende oproep mondt uit in de aankondiging van rechtvaardig oordeel."
+      }
+    },
+    {
+      "book": "psalmen",
+      "chapter": 97,
+      "verse": 1,
+      "file": "97-majesteit-en-vreugde.svg",
+      "scene": "Majesteit en vreugde",
+      "alt": "De verbinding van ontzag, reacties en rechtvaardig leven.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 899,
+      "source": "Psalm 97:1–12",
+      "design": {
+        "rows": [
+          [
+            "Koningschap · 1–6",
+            "Aarde en eilanden; wolk, vuur, bliksem en smeltende bergen."
+          ],
+          [
+            "Reacties · 7–9",
+            "Beschaamde beeldendienst en vreugde in Sion en Juda."
+          ],
+          [
+            "Leven · 10–12",
+            "Haat het kwaad, ontvangen bewaring en licht gezaaid voor rechtvaardigen."
+          ]
+        ],
+        "note": "De majesteitsbeelden staan naast een concrete levensoproep. Licht zaaien en bergen als was zijn poëtische vergelijkingen."
+      }
+    }
+  ]
+}
