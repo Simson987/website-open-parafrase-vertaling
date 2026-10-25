@@ -1,0 +1,818 @@
+{
+  "date": "2026-10-25",
+  "started": "2026-10-25T04:41:08Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "ezechiel",
+      "chapter": 21,
+      "verse": 19,
+      "scene": "Het teken van twee wegen",
+      "alt": "Het teken van twee wegen — Ezechiël 21:19; illustratie bij de tekst.",
+      "kind": "scene",
+      "file": "21-19-twee-wegen-verdieping.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible chapter illustration, landscape 3:2, ancient Near Eastern linen, stone, clay and wood, natural light, coherent anatomy, exactly two arms per person, fully covering opaque robes. No modern equipment, text, watermark, deity silhouette, blood or visible injuries. An ancient robed prophet draws a fork of two roads in fine sand on a flat earthen surface, one road leading to a small sketched walled city and the other to a different sketched city, a simple unlettered wooden direction marker at the junction. View over his shoulder, ordinary hands holding one plain stick, no readable letters, map labels, prophetic king or divination objects. Depict the commanded drawing of the two ways, not a modern map.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "ezechiel",
+      "chapter": 22,
+      "verse": 12,
+      "scene": "Aanklacht: winst en geschenken",
+      "alt": "Aanklacht: winst en geschenken — Ezechiël 22:12; illustratie bij de tekst.",
+      "kind": "poetic",
+      "file": "22-12-woeker-en-geschenken-verdieping.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible chapter illustration, landscape 3:2, ancient Near Eastern linen, stone, clay and wood, natural light, coherent anatomy, exactly two arms per person, fully covering opaque robes. No modern equipment, text, watermark, deity silhouette, blood or visible injuries. A close view of two separate robed adult men across an ancient stone table, one passes a small tied heavy silver pouch under the edge of the table while another counts a few plain metal pieces above; ordinary visible hands, shadowed dishonest dealings, no identifiable historical person, weapons, attacked people or legible contract. Illustration of bribery and unjust gain named in the accusation.",
+      "edit_prompt": "Edit this image to correct anatomy only. The man on the left currently has three arms. Remove BOTH hands and forearms above the table, including their sleeves, replacing them with unobstructed tabletop and naturally draped robe along his body. Keep the two men, coins lying untouched on the tabletop, the purse being passed with ONE visible hand per man below the table, stone table, lighting and framing. The left man has exactly TWO arms total: one hand passing the purse below the table, his other arm rests naturally down beside his body and is largely hidden. The right man has exactly TWO arms total, one receiving purse below table, the other hidden at his side. No extra limbs, floating hands, writing, violence or modern objects. Preserve photorealism.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "ezechiel",
+      "chapter": 23,
+      "verse": 41,
+      "scene": "Beeldspraak: wierook en olie op tafel",
+      "alt": "Beeldspraak: wierook en olie op tafel — Ezechiël 23:41; illustratie bij de tekst.",
+      "kind": "poetic",
+      "file": "23-41-wierook-en-olie-verdieping.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible chapter illustration, landscape 3:2, ancient Near Eastern linen, stone, clay and wood, natural light, coherent anatomy, exactly two arms per person, fully covering opaque robes. No modern equipment, text, watermark, deity silhouette, blood or visible injuries. An unoccupied ancient furnished chamber: a simple richly woven couch with a low set table in front, small bronze incense burner releasing thin smoke and a plain ceramic oil flask on the table. No people, nudity, eroticism, modern bed or elaborate palace fantasy. Material scene from the city metaphor, not a depiction of sexual activity.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "ezechiel",
+      "chapter": 24,
+      "verse": 26,
+      "scene": "Aankondiging: de ontkomene komt",
+      "alt": "Aankondiging: de ontkomene komt — Ezechiël 24:26; illustratie bij de tekst.",
+      "kind": "poetic",
+      "file": "24-26-ontkomene-komt-verdieping.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible chapter illustration, landscape 3:2, ancient Near Eastern linen, stone, clay and wood, natural light, coherent anatomy, exactly two arms per person, fully covering opaque robes. No modern equipment, text, watermark, deity silhouette, blood or visible injuries. A weary fully robed adult male traveler with intact clothing and no wounds arrives at a simple ancient Mesopotamian village doorway, where another fully robed adult male prophet listens intently. Exactly two people with separate ordinary arms and hands. A dusty road behind the traveler, no letters, deceased person, violence or heavenly apparition. Illustration of the announced future messenger, not yet a report that the announced day has arrived in this chapter.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "ezechiel",
+      "chapter": 25,
+      "verse": 13,
+      "scene": "Aankondiging over Edoms land",
+      "alt": "Aankondiging over Edoms land — Ezechiël 25:13; illustratie bij de tekst.",
+      "kind": "poetic",
+      "file": "25-13-edom-woestenij-verdieping.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible chapter illustration, landscape 3:2, ancient Near Eastern linen, stone, clay and wood, natural light, coherent anatomy, exactly two arms per person, fully covering opaque robes. No modern equipment, text, watermark, deity silhouette, blood or visible injuries. A desolate ancient red sandstone upland of Edom with a small ruined stone settlement and an empty dusty road, wide dry terrain under harsh natural light. No Petra monumental facade, people, animals, bodies or modern archaeology equipment. General setting illustration for the prophecy of desolation, no claim to identify a specific ancient city.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "ezechiel",
+      "chapter": 25,
+      "verse": 16,
+      "scene": "Aankondiging over de kust",
+      "alt": "Aankondiging over de kust — Ezechiël 25:16; illustratie bij de tekst.",
+      "kind": "poetic",
+      "file": "25-16-filistijnse-kust-verdieping.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible chapter illustration, landscape 3:2, ancient Near Eastern linen, stone, clay and wood, natural light, coherent anatomy, exactly two arms per person, fully covering opaque robes. No modern equipment, text, watermark, deity silhouette, blood or visible injuries. A remote eastern Mediterranean coast near ancient Philistine country, abandoned low stone walls beside a sandy shoreline, empty rough fishing landing and windblown dry grass. No modern buildings, labeled city, humans, dead bodies or ships fighting. Landscape illustration of the coast named in the fourth oracle.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "ezechiel",
+      "chapter": 26,
+      "verse": 9,
+      "scene": "Aankondiging: stormram tegen de muur",
+      "alt": "Aankondiging: stormram tegen de muur — Ezechiël 26:9; illustratie bij de tekst.",
+      "kind": "poetic",
+      "file": "26-9-stormram-muur-verdieping.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible chapter illustration, landscape 3:2, ancient Near Eastern linen, stone, clay and wood, natural light, coherent anatomy, exactly two arms per person, fully covering opaque robes. No modern equipment, text, watermark, deity silhouette, blood or visible injuries. A large plain ancient wooden battering ram on a four-wheeled timber frame stands immediately before a heavy ancient coastal city stone wall, view with Mediterranean water visible beyond an outer stretch of wall. No people, exploding projectiles, modern metal mechanism, flames, blood or bodies. Illustrate the siege implement named in the prophecy against Tyre, not a modern reconstruction photograph.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "ezechiel",
+      "chapter": 27,
+      "verse": 9,
+      "scene": "Het scheepsbeeld: lekken dichten",
+      "alt": "Het scheepsbeeld: lekken dichten — Ezechiël 27:9; illustratie bij de tekst.",
+      "kind": "poetic",
+      "file": "27-9-lekken-dichten-verdieping.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible chapter illustration, landscape 3:2, ancient Near Eastern linen, stone, clay and wood, natural light, coherent anatomy, exactly two arms per person, fully covering opaque robes. No modern equipment, text, watermark, deity silhouette, blood or visible injuries. One skilled fully robed ancient shipwright kneels beside a wooden merchant ship hull at an eastern Mediterranean harbor, using a small mallet and blunt wooden caulking tool to press fibers into a seam between boards, a small pot of dark pitch nearby. Ordinary two hands using distinct tools, no modern drill, fiberglass, safety labels or floating workshop. Concrete craft from the ship metaphor of Tyre.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "ezechiel",
+      "chapter": 27,
+      "verse": 26,
+      "scene": "Het klaagbeeld: schip in de storm",
+      "alt": "Het klaagbeeld: schip in de storm — Ezechiël 27:26; illustratie bij de tekst.",
+      "kind": "poetic",
+      "file": "27-26-schip-in-oostenwind-verdieping.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible chapter illustration, landscape 3:2, ancient Near Eastern linen, stone, clay and wood, natural light, coherent anatomy, exactly two arms per person, fully covering opaque robes. No modern equipment, text, watermark, deity silhouette, blood or visible injuries. An ancient heavily loaded wooden merchant sailing ship is broken by a powerful east wind on rough open Mediterranean water, torn plain linen sail and a cracked hull amid waves, a few cargo jars floating away. No people, bodies, modern ship, lightning striking a deity or fantasy sea monster. Clearly a poetic illustration of Tyre as a ship in the lament, separate from the calm harbor building scene.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "ezechiel",
+      "chapter": 28,
+      "verse": 13,
+      "scene": "Klaagbeeld: edelstenen en goud",
+      "alt": "Klaagbeeld: edelstenen en goud — Ezechiël 28:13; illustratie bij de tekst.",
+      "kind": "poetic",
+      "file": "28-13-edelstenen-in-klaaglied-verdieping.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible chapter illustration, landscape 3:2, ancient Near Eastern linen, stone, clay and wood, natural light, coherent anatomy, exactly two arms per person, fully covering opaque robes. No modern equipment, text, watermark, deity silhouette, blood or visible injuries. A natural still life of several differently colored uncut and simply polished gemstones with small pieces of gold on plain dark linen, soft green garden foliage in the distant background. No human wearer, angel, demon, modern jewel cuts, labels or readable text. Material evocation of the jewels named in the lament over the king of Tyre; the exact nine names are given separately in a native diagram, do not attempt textual labels.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "ezechiel",
+      "chapter": 28,
+      "verse": 21,
+      "scene": "Het afzonderlijke woord over Sidon",
+      "alt": "Het afzonderlijke woord over Sidon — Ezechiël 28:21; illustratie bij de tekst.",
+      "kind": "poetic",
+      "file": "28-21-sidon-aangesproken-verdieping.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible chapter illustration, landscape 3:2, ancient Near Eastern linen, stone, clay and wood, natural light, coherent anatomy, exactly two arms per person, fully covering opaque robes. No modern equipment, text, watermark, deity silhouette, blood or visible injuries. A wide ancient Phoenician coastal harbor with plain low stone city buildings, small wooden sailboats and a dark cloud gathering over the far city, seen from a rocky shore. No modern skyline, dead people, blood, identifiable monument or labels. General setting illustration for the separate prophecy addressed to Sidon, not a claim of exact excavated geography.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "ezechiel",
+      "chapter": 29,
+      "verse": 14,
+      "scene": "Aankondiging: terug naar Pathros",
+      "alt": "Aankondiging: terug naar Pathros — Ezechiël 29:14; illustratie bij de tekst.",
+      "kind": "poetic",
+      "file": "29-14-terugkeer-pathros-verdieping.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible chapter illustration, landscape 3:2, ancient Near Eastern linen, stone, clay and wood, natural light, coherent anatomy, exactly two arms per person, fully covering opaque robes. No modern equipment, text, watermark, deity silhouette, blood or visible injuries. A small group of modest fully robed ancient Egyptian adults with woven travel bundles returns along a dusty road toward a humble mudbrick village beside cultivated land and palms, natural Nile-valley light, ordinary uninjured bodies and separate arms. No royal triumph, new empire, readable letters, modern equipment or battle. A return to a modest homeland as prophesied, distinct from the previously shown empty cities.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "ezechiel",
+      "chapter": 30,
+      "verse": 12,
+      "scene": "Aankondiging: de rivieren droog",
+      "alt": "Aankondiging: de rivieren droog — Ezechiël 30:12; illustratie bij de tekst.",
+      "kind": "poetic",
+      "file": "30-12-droge-rivier-verdieping.webp",
+      "prompt": "Use case: historical-scene. Photorealistic Bible chapter illustration, landscape 3:2, ancient Near Eastern linen, stone, clay and wood, natural light, coherent anatomy, exactly two arms per person, fully covering opaque robes. No modern equipment, text, watermark, deity silhouette, blood or visible injuries. An ancient Egyptian irrigation river channel dried to cracked mud with abandoned simple wooden water lifting supports and silent mudbrick fields beyond, distant palms, no water in the channel, people, modern machines or dead animals. Natural wide landscape illustration of the announced drying of rivers, not a contemporary drought news photograph.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "ezechiel",
+      "chapter": 21,
+      "verse": 1,
+      "file": "21-leeswijzer.svg",
+      "scene": "Zwaard, wegen en kroon",
+      "alt": "De opbouw van het hoofdstuk met de verschillende sprekers en tekstvormen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1028,
+      "source": "Ezechiël 21:1–32",
+      "design": {
+        "rows": [
+          [
+            "Zuchten en zwaard · 1–17",
+            "Tegen het land, rechtvaardige en goddeloze; zucht om het bericht, geslepen zwaard, huilen en klappen."
+          ],
+          [
+            "De twee wegen · 18–24",
+            "Eén vertrekland, splitsing naar Rabba en Jeruzalem; Babels koning raadpleegt tekens en kiest Jeruzalem."
+          ],
+          [
+            "Vorst en Ammon · 25–32",
+            "Tulband en kroon af tot de rechthebbende komt; apart woord over Ammon, spot en oordeel in eigen land."
+          ]
+        ],
+        "note": "De versgroepen volgen deze plaatselijke tekst. Aankondiging, gelijkenis en beschreven handeling worden onderscheiden."
+      }
+    },
+    {
+      "book": "ezechiel",
+      "chapter": 22,
+      "verse": 1,
+      "file": "22-leeswijzer.svg",
+      "scene": "De aanklacht en de oven",
+      "alt": "De opbouw van het hoofdstuk met de verschillende sprekers en tekstvormen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1071,
+      "source": "Ezechiël 22:1–31",
+      "design": {
+        "rows": [
+          [
+            "De stad · 1–16",
+            "Bloed, afgoden, verdrukking, ontheiliging, seksueel geweld, geschenken en woeker; verstrooiing en zuivering."
+          ],
+          [
+            "De oven · 17–22",
+            "Metalen en schuim bijeengebracht in Jeruzalem; vuur en smelten als beeld van het oordeel."
+          ],
+          [
+            "Alle groepen · 23–31",
+            "Profeten, priesters, vorsten en volk; geen mens gevonden om de muur te herstellen en in de bres te staan."
+          ]
+        ],
+        "note": "De versgroepen volgen deze plaatselijke tekst. Aankondiging, gelijkenis en beschreven handeling worden onderscheiden."
+      }
+    },
+    {
+      "book": "ezechiel",
+      "chapter": 23,
+      "verse": 1,
+      "file": "23-leeswijzer.svg",
+      "scene": "Ohola en Oholiba",
+      "alt": "De opbouw van het hoofdstuk met de verschillende sprekers en tekstvormen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1071,
+      "source": "Ezechiël 23:1–49",
+      "design": {
+        "rows": [
+          [
+            "De oudste · 1–10",
+            "Ohola is Samaria. Ontrouw met Egypte en Assur, overgegeven aan de geliefde Assyriërs."
+          ],
+          [
+            "Haar zus · 11–35",
+            "Oholiba is Jeruzalem. Nog erger, wandbeelden en boden, afkeer en terugverlangen; minnaars worden tegenstanders en dezelfde beker."
+          ],
+          [
+            "Gedeelde aanklacht · 36–49",
+            "Afgoden, kinderen geofferd, heiligdom en sabbat ontheiligd; wierook en olie misbruikt, oordeel en waarschuwing."
+          ]
+        ],
+        "note": "De versgroepen volgen deze plaatselijke tekst. Aankondiging, gelijkenis en beschreven handeling worden onderscheiden."
+      }
+    },
+    {
+      "book": "ezechiel",
+      "chapter": 24,
+      "verse": 1,
+      "file": "24-leeswijzer.svg",
+      "scene": "Pot, rouwteken en bericht",
+      "alt": "De opbouw van het hoofdstuk met de verschillende sprekers en tekstvormen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1306,
+      "source": "Ezechiël 24:1–27",
+      "design": {
+        "rows": [
+          [
+            "Deze dag · 1–2",
+            "Negende jaar, tiende maand, tiende dag: het beleg begint; de dag moet worden opgeschreven."
+          ],
+          [
+            "De pot · 3–14",
+            "Water en goede stukken, koken en verwijderen, lege koperen pot in het vuur; hardnekkige aanslag als stadsschuld."
+          ],
+          [
+            "Het persoonlijke teken · 15–24",
+            "Vrouw sterft in de avond, volgende morgen geen gewone rouw; uitleg bij het verlies van heiligdom en kinderen."
+          ],
+          [
+            "De aangekondigde bode · 25–27",
+            "Op de genoemde dag komt een ontkomene, mond gaat open en zwijgen eindigt; Ezechiël is een teken."
+          ]
+        ],
+        "note": "De versgroepen volgen deze plaatselijke tekst. Aankondiging, gelijkenis en beschreven handeling worden onderscheiden."
+      }
+    },
+    {
+      "book": "ezechiel",
+      "chapter": 25,
+      "verse": 1,
+      "file": "25-leeswijzer.svg",
+      "scene": "Vier woorden over buurvolken",
+      "alt": "De opbouw van het hoofdstuk met de verschillende sprekers en tekstvormen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1220,
+      "source": "Ezechiël 25:1–17",
+      "design": {
+        "rows": [
+          [
+            "Ammon · 1–7",
+            "Spot om heiligdom, land en ballingschap; aan het oosten, Rabba voor kamelen en het land voor schapen."
+          ],
+          [
+            "Moab en Seïr · 8–11",
+            "Juda als andere volken bespot; grenssteden open en aan de volken uit het oosten overgegeven."
+          ],
+          [
+            "Edom · 12–14",
+            "Wraak tegen Juda; woestenij van Theman tot Dedan, oordeel door Israël."
+          ],
+          [
+            "Filistijnen · 15–17",
+            "Wraak en eeuwige vijandschap; Kretenzers en de rest aan de kust geoordeeld."
+          ]
+        ],
+        "note": "De versgroepen volgen deze plaatselijke tekst. Aankondiging, gelijkenis en beschreven handeling worden onderscheiden."
+      }
+    },
+    {
+      "book": "ezechiel",
+      "chapter": 26,
+      "verse": 1,
+      "file": "26-leeswijzer.svg",
+      "scene": "De val van Tyrus voorzegd",
+      "alt": "De opbouw van het hoofdstuk met de verschillende sprekers en tekstvormen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1220,
+      "source": "Ezechiël 26:1–21",
+      "design": {
+        "rows": [
+          [
+            "Spot en aankondiging · 1–6",
+            "Tyrus blij om Jeruzalems gebroken poort; volken als golven, muren neer en netten op kale rots."
+          ],
+          [
+            "Het beleg · 7–14",
+            "Nebukadrezar uit het noorden, torens, wal en ram, paarden, puin in zee; lied en harp verstommen."
+          ],
+          [
+            "De klacht · 15–18",
+            "Vorsten van de zee van hun zetels, beven en klaaglied; eilanden ontsteld."
+          ],
+          [
+            "Het slot · 19–21",
+            "Verwoesting, diep water en afdalen naar oude ruïnes; verdwijnen en niet teruggevonden worden."
+          ]
+        ],
+        "note": "De versgroepen volgen deze plaatselijke tekst. Aankondiging, gelijkenis en beschreven handeling worden onderscheiden."
+      }
+    },
+    {
+      "book": "ezechiel",
+      "chapter": 27,
+      "verse": 1,
+      "file": "27-leeswijzer.svg",
+      "scene": "Tyrus als prachtig schip",
+      "alt": "De opbouw van het hoofdstuk met de verschillende sprekers en tekstvormen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1028,
+      "source": "Ezechiël 27:1–36",
+      "design": {
+        "rows": [
+          [
+            "Bouw en mensen · 1–11",
+            "Stad als volmaakt schip: hout, dek, zeil, roeiers, stuurlui, vaklui en verdedigers."
+          ],
+          [
+            "De handelsnetwerken · 12–25",
+            "Metalen, mensen als handelswaar, dieren, kleding, voedsel en kostbaarheden; zwaar beladen in zee."
+          ],
+          [
+            "Schipbreuk en klacht · 26–36",
+            "Oostenwind breekt het schip, alles ten onder; zeelui op de oever, stof en rouw, ontzetting onder handelaars."
+          ]
+        ],
+        "note": "De versgroepen volgen deze plaatselijke tekst. Aankondiging, gelijkenis en beschreven handeling worden onderscheiden."
+      }
+    },
+    {
+      "book": "ezechiel",
+      "chapter": 28,
+      "verse": 1,
+      "file": "28-leeswijzer.svg",
+      "scene": "Tyrus, Sidon en veilig wonen",
+      "alt": "De opbouw van het hoofdstuk met de verschillende sprekers en tekstvormen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1071,
+      "source": "Ezechiël 28:1–26",
+      "design": {
+        "rows": [
+          [
+            "De vorst · 1–10",
+            "Mens en geen god, wijsheid en handel maken trots; vreemden en dood ontmaskeren de aanspraak."
+          ],
+          [
+            "Het klaaglied · 11–19",
+            "Koning, Eden, stenen en cherub; volmaaktheid tot onrecht, geweld, verbanning en as."
+          ],
+          [
+            "Sidon en Israël · 20–26",
+            "Apart oordeel over Sidon; geen pijnlijke doorn van buren meer, Israël verzameld, huizen en wijngaarden in veiligheid."
+          ]
+        ],
+        "note": "De versgroepen volgen deze plaatselijke tekst. Aankondiging, gelijkenis en beschreven handeling worden onderscheiden."
+      }
+    },
+    {
+      "book": "ezechiel",
+      "chapter": 29,
+      "verse": 1,
+      "file": "29-leeswijzer.svg",
+      "scene": "Egypte en het loon voor Babel",
+      "alt": "De opbouw van het hoofdstuk met de verschillende sprekers en tekstvormen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1028,
+      "source": "Ezechiël 29:1–21",
+      "design": {
+        "rows": [
+          [
+            "Tiende jaar · 1–12",
+            "Farao als krokodil die de rivier opeist, vissen, droog land en gebroken riet; veertig jaren verwoesting."
+          ],
+          [
+            "Na veertig jaar · 13–16",
+            "Verzamelen naar Pathros; klein koninkrijk dat niet meer heerst en geen houvast voor Israël is."
+          ],
+          [
+            "Zevenentwintigste jaar · 17–21",
+            "Babel kreeg voor werk tegen Tyrus geen loon; Egypte als loon, kracht voor Israël en weer spreken."
+          ]
+        ],
+        "note": "De versgroepen volgen deze plaatselijke tekst. Aankondiging, gelijkenis en beschreven handeling worden onderscheiden."
+      }
+    },
+    {
+      "book": "ezechiel",
+      "chapter": 30,
+      "verse": 1,
+      "file": "30-leeswijzer.svg",
+      "scene": "Egypte en gebroken kracht",
+      "alt": "De opbouw van het hoofdstuk met de verschillende sprekers en tekstvormen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1071,
+      "source": "Ezechiël 30:1–26",
+      "design": {
+        "rows": [
+          [
+            "De dag · 1–9",
+            "Nabij en bewolkt; Egypte en bondgenoten vallen, van Migdol tot Syene, boden per schip naar Ethiopië."
+          ],
+          [
+            "Rivieren en steden · 10–19",
+            "Nebukadrezar en zijn volk; water droog, afgoden weg, genoemde plaatsen geoordeeld en het juk gebroken."
+          ],
+          [
+            "De armen · 20–26",
+            "Elfde jaar, eerste maand, zevende dag: Farao’s arm niet genezen, beide gebroken; Babels armen sterk en Egypte verstrooid."
+          ]
+        ],
+        "note": "De versgroepen volgen deze plaatselijke tekst. Aankondiging, gelijkenis en beschreven handeling worden onderscheiden."
+      }
+    },
+    {
+      "book": "ezechiel",
+      "chapter": 21,
+      "verse": 19,
+      "file": "21-de-splitsing.svg",
+      "scene": "De twee getekende wegen",
+      "alt": "De opdracht, twee genoemde bestemmingen en het aangekondigde besluit.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1213,
+      "source": "Ezechiël 21:18–24",
+      "design": {
+        "rows": [
+          [
+            "Eén vertrek · 19",
+            "Beide wegen beginnen in hetzelfde land; een wegwijzer aan het begin van de weg naar de stad."
+          ],
+          [
+            "Twee bestemmingen · 20",
+            "Rabba van de Ammonieten; Juda met het versterkte Jeruzalem."
+          ],
+          [
+            "Bij de splitsing · 21",
+            "Koning van Babel: pijlen schudden, huisgoden raadplegen en lever bekijken."
+          ],
+          [
+            "De uitkomst · 22–24",
+            "Jeruzalem aangewezen in zijn rechterhand: aanvoerders, aanval, stormrammen, wal en torens."
+          ]
+        ],
+        "note": "Dit schema volgt de opdracht aan de profeet en de gegeven uitleg. Het voegt geen eigen geografische route, kaartafstand of advies tot waarzeggerij toe."
+      }
+    },
+    {
+      "book": "ezechiel",
+      "chapter": 22,
+      "verse": 25,
+      "file": "22-groepen-en-bres.svg",
+      "scene": "Wie de bres niet dichtmaakt",
+      "alt": "De verschillende verantwoordelijkheden en de niet gevonden verdediger.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1369,
+      "source": "Ezechiël 22:25–30",
+      "design": {
+        "rows": [
+          [
+            "Profeten · 25,28",
+            "Als leeuw, mensen verslonden en schatten weg; kalk, loze visioenen en woorden die niet gesproken zijn."
+          ],
+          [
+            "Priesters · 26",
+            "Wet geweld aangedaan; geen onderscheid tussen heilig en gewoon, rein en onrein; sabbat genegeerd."
+          ],
+          [
+            "Vorsten · 27",
+            "Als wolven: bloed en vernietiging voor winst."
+          ],
+          [
+            "Volk · 29",
+            "Onderdrukking, roof en onrecht tegen arme, behoeftige en vreemdeling."
+          ],
+          [
+            "De gezochte mens · 30",
+            "Muur herstellen en voor het land in de bres staan; niemand gevonden."
+          ]
+        ],
+        "note": "Dezelfde profetengroep wordt tweemaal aangeklaagd. Er wordt geen ontbrekende held als bestaande redder ingevuld."
+      }
+    },
+    {
+      "book": "ezechiel",
+      "chapter": 23,
+      "verse": 4,
+      "file": "23-namen-en-steden.svg",
+      "scene": "De namen en de steden",
+      "alt": "Exacte namen, stadsidentiteiten en het verband van de gedeelde beker.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 985,
+      "source": "Ezechiël 23:4–35",
+      "design": {
+        "rows": [
+          [
+            "Ohola · 4–10",
+            "De oudste: Samaria. Assyriërs als minnaars, aan hen overgegeven."
+          ],
+          [
+            "Oholiba · 4,11–30",
+            "Haar zus: Jeruzalem. Assyriërs, Chaldeeën en herinnering aan Egypte; nog verder in dezelfde weg."
+          ],
+          [
+            "De gedeelde beker · 31–35",
+            "Oholiba gaat de weg van haar zus en krijgt de diepe, wijde beker van Samaria: verwoesting en eenzaamheid."
+          ]
+        ],
+        "note": "De vrouwen zijn een uitgesproken beeld voor twee steden. Dit is geen nieuwe biologische stamboom of afzonderlijk liefdesverhaal."
+      }
+    },
+    {
+      "book": "ezechiel",
+      "chapter": 24,
+      "verse": 17,
+      "file": "24-teken-en-uitleg.svg",
+      "scene": "Het rouwteken en de uitleg",
+      "alt": "De relatie tussen de persoonlijke handeling, vraag en uitleg aan het volk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1256,
+      "source": "Ezechiël 24:17–24",
+      "design": {
+        "rows": [
+          [
+            "Ezechiëls handeling · 17–18",
+            "In stilte kreunen, tulband en schoenen aan, snor niet bedekken, geen rouwbrood; zijn vrouw sterft ’s avonds."
+          ],
+          [
+            "Hun vraag · 19",
+            "Het volk vraagt wat deze handeling voor hen betekent."
+          ],
+          [
+            "Het aangekondigde verlies · 20–21",
+            "Heiligdom, trotse sterkte en vreugde van ogen; achtergebleven zonen en dochters vallen."
+          ],
+          [
+            "De overeenkomst · 22–24",
+            "Dezelfde tekenen zonder gewone dodenrouw, wegkwijnen in schuld en onderling zuchten."
+          ]
+        ],
+        "note": "De vrouw van Ezechiël en het heiligdom worden niet tot één gebeurtenis samengevoegd. De tekst verklaart hoe zijn handeling een teken voor hen is."
+      }
+    },
+    {
+      "book": "ezechiel",
+      "chapter": 27,
+      "verse": 5,
+      "file": "27-scheepsbouw-en-mensen.svg",
+      "scene": "Het schip: bouw en mensen",
+      "alt": "Exacte materialen, herkomsten en rollen in het scheepsbeeld.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1263,
+      "source": "Ezechiël 27:5–11",
+      "design": {
+        "rows": [
+          [
+            "Hout · 5–6",
+            "Planken: cipres uit Senir. Mast: ceder uit Libanon. Riemen: eik uit Basan. Dek: ivoor uit Chittitische eilanden."
+          ],
+          [
+            "Doek · 7",
+            "Zeil: fijn geborduurd linnen uit Egypte. Zonnedek: blauw- en roodpurper uit de eilanden van Elisa."
+          ],
+          [
+            "De bemanning · 8–9",
+            "Sidon en Arvad: roeiers. Tyrus’ wijzen: stuurlui. Gebals oudsten en vaklui: lekken dichten."
+          ],
+          [
+            "Het leger · 10–11",
+            "Perzen, Lydiërs en Put: soldaten. Arvad en eigen leger: muren. Gammadieten: torens."
+          ]
+        ],
+        "note": "Dit is het schipbeeld in een klaaglied over de stad Tyrus. De herkomstnamen volgen de tekst, zonder moderne grenzen toe te voegen."
+      }
+    },
+    {
+      "book": "ezechiel",
+      "chapter": 27,
+      "verse": 12,
+      "file": "27-handel-12-19.svg",
+      "scene": "Handelspartners: eerste deel",
+      "alt": "De eerste acht handelsvermeldingen met hun afzonderlijke producten.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1601,
+      "source": "Ezechiël 27:12–19",
+      "design": {
+        "rows": [
+          [
+            "Tarsis · 12",
+            "Zilver, ijzer, tin en lood."
+          ],
+          [
+            "Javan, Tubal, Mesech · 13",
+            "Slaven en bronzen voorwerpen."
+          ],
+          [
+            "Beth-Togarma · 14",
+            "Paarden, rijpaarden en muildieren."
+          ],
+          [
+            "Dedan en eilanden · 15",
+            "Ivoren slagtanden en ebbenhout."
+          ],
+          [
+            "Syrië · 16",
+            "Turkoois, purper, borduurwerk, fijn linnen, koraal en robijnen."
+          ],
+          [
+            "Juda en Israël · 17",
+            "Tarwe uit Minnit, gebak, honing, olie en balsem."
+          ],
+          [
+            "Damaskus · 18",
+            "Wijn uit Chelbon en witte wol."
+          ],
+          [
+            "Dan en Javan · 19",
+            "Bewerkt ijzer, kaneel en kalmoes."
+          ]
+        ],
+        "note": "Het catalogiseert de beschreven handel, ook de verhandelde mensen, zonder die praktijk goed te keuren. Het tweede deel volgt apart."
+      }
+    },
+    {
+      "book": "ezechiel",
+      "chapter": 27,
+      "verse": 20,
+      "file": "27-handel-20-25.svg",
+      "scene": "Handelspartners: tweede deel",
+      "alt": "De resterende genoemde partners en de overgang naar het zwaar beladen schip.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1432,
+      "source": "Ezechiël 27:20–25",
+      "design": {
+        "rows": [
+          [
+            "Dedan · 20",
+            "Zadeldekken om op te rijden."
+          ],
+          [
+            "Arabië en Kedar · 21",
+            "Lammeren, rammen en bokken."
+          ],
+          [
+            "Scheba en Raema · 22",
+            "Beste specerijen, allerlei edelstenen en goud."
+          ],
+          [
+            "De groep · 23",
+            "Haran, Kanne, Eden, handelaars van Scheba, Assur en Kilmad."
+          ],
+          [
+            "Hun producten · 24",
+            "Prachtige kleren, blauwpurper en borduurwerk; kisten met kleurige kleding, touw en cederhout."
+          ],
+          [
+            "Schepen van Tarsis · 25",
+            "Voeren rond met de handelswaar; Tyrus vol en zwaar beladen midden in zee."
+          ]
+        ],
+        "note": "Dedan komt in twee afzonderlijke regels met verschillende goederen voor. Deze regels worden niet stilzwijgend samengevoegd."
+      }
+    },
+    {
+      "book": "ezechiel",
+      "chapter": 28,
+      "verse": 13,
+      "file": "28-stenen-in-het-klaaglied.svg",
+      "scene": "Stenen in het klaaglied",
+      "alt": "De exacte negen steennamen en hun plaats binnen het klaaglied.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1299,
+      "source": "Ezechiël 28:12–19",
+      "design": {
+        "rows": [
+          [
+            "De aangesprokene · 12",
+            "Het klaaglied is opgedragen aan de koning van Tyrus."
+          ],
+          [
+            "De negen namen · 13",
+            "Robijn, topaas, diamant; turkoois, onyx, jaspis; saffier, granaat, smaragd. Daarbij goud, tamboerijnen en fluiten."
+          ],
+          [
+            "De beeldtaal · 14–16",
+            "Gezalfde beschermende cherub, heilige berg, vurige stenen; onrecht, geweld en verbanning."
+          ],
+          [
+            "De omkering · 17–19",
+            "Trots om schoonheid, bedorven wijsheid, op aarde geworpen, vuur en as voor wie kijken."
+          ]
+        ],
+        "note": "Het schema geeft de beeldtaal en eigen aanspreking weer. Het vult geen andere persoon of mineralogische identificatie buiten deze tekst in."
+      }
+    },
+    {
+      "book": "ezechiel",
+      "chapter": 29,
+      "verse": 1,
+      "file": "29-twee-gedateerde-woorden.svg",
+      "scene": "Twee gedateerde woorden",
+      "alt": "Datering en inhoud van de twee afzonderlijke woorden, zonder een nieuwe vervullingsdatum te berekenen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 829,
+      "source": "Ezechiël 29:1–21",
+      "design": {
+        "rows": [
+          [
+            "Jaar 10 · 1–16",
+            "Maand 10, dag 12. Krokodil en rietstok, verwoesting, veertig jaar, verzamelen naar Pathros en klein koninkrijk."
+          ],
+          [
+            "Jaar 27 · 17–21",
+            "Maand 1, dag 1. Geen loon uit Tyrus voor Babels zware werk; Egypte als loon, Israëls hoorn en weer spreken."
+          ]
+        ],
+        "note": "De tekst plaatst deze woorden uit verschillende jaren in één hoofdstuk. De veertig jaar hoort bij het eerste woord, niet bij de afstand tussen beide dateringen."
+      }
+    },
+    {
+      "book": "ezechiel",
+      "chapter": 30,
+      "verse": 13,
+      "file": "30-steden-in-het-woord.svg",
+      "scene": "Plaatsen in het woord",
+      "alt": "De afzonderlijke plaatsen en de uitspraken die in het hoofdstuk aan hen verbonden zijn.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1240,
+      "source": "Ezechiël 30:13–18",
+      "design": {
+        "rows": [
+          [
+            "Nof · 13,16",
+            "Afgoden en nietige beelden weg; angst, ook elke dag in vers 16."
+          ],
+          [
+            "Pathros en Zoan · 14",
+            "Pathros verwoest, vuur in Zoan."
+          ],
+          [
+            "No en Sin · 14–16",
+            "Recht over No en rijkdom weg; Sin als bolwerk, pijn; No opengebroken."
+          ],
+          [
+            "Aven en Pibeseth · 17",
+            "Jonge mannen vallen, vrouwen in ballingschap."
+          ],
+          [
+            "Tachpanhes · 18",
+            "Donkere dag, juk gebroken, trots weg, wolk en ballingschap voor de dorpen."
+          ]
+        ],
+        "note": "De namen en uitspraken volgen deze weergave. Er is geen gelijkstelling aan moderne steden of nieuwe landkaart toegevoegd."
+      }
+    }
+  ]
+}
