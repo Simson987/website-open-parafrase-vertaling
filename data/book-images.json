@@ -57537,13 +57537,21 @@
         "chapter": 1,
         "file": "1-visit.webp",
         "alt": "Maria bezoekt Elisabet in het bergland",
-        "scene": "Maria en Elisabet"
+        "scene": "Maria en Elisabet",
+        "verse": 40,
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 2,
         "file": "2-shepherds.webp",
         "alt": "Herders bezoeken een gezin met een pasgeboren kind",
-        "scene": "De herders"
+        "scene": "De herders",
+        "verse": 16,
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 15,
@@ -57553,94 +57561,123 @@
       },
       {
         "chapter": 1,
-        "verse": 11,
-        "file": "1-11.webp",
-        "alt": "Beeld bij Lukas 1: Zacharias bij het wierookaltaar",
-        "scene": "Zacharias bij het wierookaltaar"
-      },
-      {
-        "chapter": 1,
         "verse": 28,
         "file": "1-28.webp",
         "alt": "Beeld bij Lukas 1: De begroeting van Gabriël",
-        "scene": "De begroeting van Gabriël"
+        "scene": "De begroeting van Gabriël",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 2,
         "verse": 28,
         "file": "2-28.webp",
         "alt": "Beeld bij Lukas 2: Simeon ontvangt het Kind",
-        "scene": "Simeon ontvangt het Kind"
+        "scene": "Simeon ontvangt het Kind",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 2,
         "verse": 46,
         "file": "2-46.webp",
         "alt": "Beeld bij Lukas 2: Jezus tussen de leraren",
-        "scene": "Jezus tussen de leraren"
+        "scene": "Jezus tussen de leraren",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 3,
         "verse": 3,
         "file": "3-3.webp",
         "alt": "Beeld bij Lukas 3: Johannes verkondigt bij de Jordaan",
-        "scene": "Johannes verkondigt bij de Jordaan"
+        "scene": "Johannes verkondigt bij de Jordaan",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 3,
         "verse": 21,
         "file": "3-21.webp",
         "alt": "Beeld bij Lukas 3: Jezus bidt bij zijn doop",
-        "scene": "Jezus bidt bij zijn doop"
+        "scene": "Jezus bidt bij zijn doop",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 3,
         "verse": 23,
         "file": "3-23.webp",
         "alt": "Beeld bij Lukas 3: Het begin van Jezus werk",
-        "scene": "Het begin van Jezus werk"
+        "scene": "Het begin van Jezus werk",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 4,
         "verse": 2,
         "file": "4-2.webp",
         "alt": "Beeld bij Lukas 4: Veertig dagen in de woestijn",
-        "scene": "Veertig dagen in de woestijn"
+        "scene": "Veertig dagen in de woestijn",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 4,
         "verse": 17,
         "file": "4-17.webp",
         "alt": "Beeld bij Lukas 4: De boekrol van Jesaja",
-        "scene": "De boekrol van Jesaja"
+        "scene": "De boekrol van Jesaja",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 4,
         "verse": 40,
         "file": "4-40.webp",
         "alt": "Beeld bij Lukas 4: Genezing bij zonsondergang",
-        "scene": "Genezing bij zonsondergang"
+        "scene": "Genezing bij zonsondergang",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 5,
         "verse": 6,
         "file": "5-6.webp",
         "alt": "Beeld bij Lukas 5: Een net vol vissen",
-        "scene": "Een net vol vissen"
+        "scene": "Een net vol vissen",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 5,
         "verse": 19,
         "file": "5-19.webp",
         "alt": "Beeld bij Lukas 5: Door het dak neergelaten",
-        "scene": "Door het dak neergelaten"
+        "scene": "Door het dak neergelaten",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 5,
         "verse": 27,
         "file": "5-27.webp",
         "alt": "Beeld bij Lukas 5: Levi wordt geroepen",
-        "scene": "Levi wordt geroepen"
+        "scene": "Levi wordt geroepen",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 6,
@@ -58033,6 +58070,346 @@
         "file": "24-50.webp",
         "alt": "Beeld bij Lukas 24: De zegen bij Bethanië",
         "scene": "De zegen bij Bethanië"
+      },
+      {
+        "chapter": 1,
+        "verse": 22,
+        "file": "1-22-zacharias-gebaren-verdieping.webp",
+        "scene": "Zacharias maakt gebaren",
+        "alt": "Zacharias maakt gebaren — Lukas 1:22; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 1,
+        "verse": 46,
+        "file": "1-46-maria-lofzang-verdieping.webp",
+        "scene": "Maria prijst de Heere",
+        "alt": "Maria prijst de Heere — Lukas 1:46; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 1,
+        "verse": 63,
+        "file": "1-63-schrijftafeltje-verdieping.webp",
+        "scene": "Zacharias vraagt een schrijftafeltje",
+        "alt": "Zacharias vraagt een schrijftafeltje — Lukas 1:63; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 1,
+        "verse": 80,
+        "file": "1-80-johannes-woestijn-verdieping.webp",
+        "scene": "Johannes groeit op in de woestijn",
+        "alt": "Johannes groeit op in de woestijn — Lukas 1:80; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 2,
+        "verse": 4,
+        "file": "2-4-naar-bethlehem-verdieping.webp",
+        "scene": "Jozef en Maria reizen naar Bethlehem",
+        "alt": "Jozef en Maria reizen naar Bethlehem — Lukas 2:4; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 2,
+        "verse": 7,
+        "file": "2-7-voederbak-verdieping.webp",
+        "scene": "Het kind ligt in de voederbak",
+        "alt": "Het kind ligt in de voederbak — Lukas 2:7; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 2,
+        "verse": 38,
+        "file": "2-38-anna-dankt-verdieping.webp",
+        "scene": "Anna dankt en spreekt over Jezus",
+        "alt": "Anna dankt en spreekt over Jezus — Lukas 2:38; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 2,
+        "verse": 45,
+        "file": "2-45-ouders-zoeken-verdieping.webp",
+        "scene": "De ouders keren terug om te zoeken",
+        "alt": "De ouders keren terug om te zoeken — Lukas 2:45; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 3,
+        "verse": 11,
+        "file": "3-11-mantel-delen-verdieping.webp",
+        "scene": "Lesbeeld: een mantel delen",
+        "alt": "Lesbeeld: een mantel delen — Lukas 3:11; tekstillustratie.",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 3,
+        "verse": 14,
+        "file": "3-14-soldaten-vragen-verdieping.webp",
+        "scene": "Soldaten vragen Johannes om raad",
+        "alt": "Soldaten vragen Johannes om raad — Lukas 3:14; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 4,
+        "verse": 20,
+        "file": "4-20-boekrol-terug-verdieping.webp",
+        "scene": "Jezus geeft de boekrol terug",
+        "alt": "Jezus geeft de boekrol terug — Lukas 4:20; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 4,
+        "verse": 30,
+        "file": "4-30-door-menigte-verdieping.webp",
+        "scene": "Jezus loopt tussen de mensen door",
+        "alt": "Jezus loopt tussen de mensen door — Lukas 4:30; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 4,
+        "verse": 39,
+        "file": "4-39-schoonmoeder-dient-verdieping.webp",
+        "scene": "Simons schoonmoeder zorgt voor hen",
+        "alt": "Simons schoonmoeder zorgt voor hen — Lukas 4:39; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 4,
+        "verse": 42,
+        "file": "4-42-afgelegen-verdieping.webp",
+        "scene": "Jezus op een afgelegen plaats",
+        "alt": "Jezus op een afgelegen plaats — Lukas 4:42; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 5,
+        "verse": 3,
+        "file": "5-3-onderwijsboot-verdieping.webp",
+        "scene": "Jezus onderwijst vanuit Simons boot",
+        "alt": "Jezus onderwijst vanuit Simons boot — Lukas 5:3; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 5,
+        "verse": 8,
+        "file": "5-8-petrus-knielt-verdieping.webp",
+        "scene": "Simon knielt na de visvangst",
+        "alt": "Simon knielt na de visvangst — Lukas 5:8; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 5,
+        "verse": 16,
+        "file": "5-16-stil-gebed-verdieping.webp",
+        "scene": "Jezus trekt zich terug om te bidden",
+        "alt": "Jezus trekt zich terug om te bidden — Lukas 5:16; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 5,
+        "verse": 25,
+        "file": "5-25-mat-mee-verdieping.webp",
+        "scene": "De man neemt zijn bed mee",
+        "alt": "De man neemt zijn bed mee — Lukas 5:25; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 5,
+        "verse": 29,
+        "file": "5-29-levi-feestmaal-verdieping.webp",
+        "scene": "Levi geeft een groot feestmaal",
+        "alt": "Levi geeft een groot feestmaal — Lukas 5:29; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 1,
+        "verse": 11,
+        "file": "1-11-zacharias-eenvoudige-priesterkleding.webp",
+        "scene": "Zacharias bij het wierookaltaar",
+        "alt": "Zacharias in priesterkleding bij het wierookaltaar — Lukas 1:11.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 1,
+        "verse": 1,
+        "file": "1-leeswijzer.svg",
+        "scene": "Aankondiging en lofzang",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1141
+      },
+      {
+        "chapter": 2,
+        "verse": 1,
+        "file": "2-leeswijzer.svg",
+        "scene": "Geboorte, tempel en groei",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 992
+      },
+      {
+        "chapter": 3,
+        "verse": 1,
+        "file": "3-leeswijzer.svg",
+        "scene": "Johannes, doop en afstamming",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 949
+      },
+      {
+        "chapter": 4,
+        "verse": 1,
+        "file": "4-leeswijzer.svg",
+        "scene": "Beproeving en verkondiging",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 949
+      },
+      {
+        "chapter": 5,
+        "verse": 1,
+        "file": "5-leeswijzer.svg",
+        "scene": "Roeping, vergeving en maaltijd",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 906
+      },
+      {
+        "chapter": 1,
+        "verse": 46,
+        "file": "1-twee-lofzangen.svg",
+        "scene": "De twee lofzangen",
+        "alt": "De twee lofzangen met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 949
+      },
+      {
+        "chapter": 2,
+        "verse": 22,
+        "file": "2-tempel-ontmoetingen.svg",
+        "scene": "Ontmoetingen in de tempel",
+        "alt": "Ontmoetingen in de tempel met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 863
+      },
+      {
+        "chapter": 3,
+        "verse": 10,
+        "file": "3-drie-antwoorden.svg",
+        "scene": "Wat moeten wij doen?",
+        "alt": "Wat moeten wij doen? met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 827
+      },
+      {
+        "chapter": 4,
+        "verse": 3,
+        "file": "4-drie-beproevingen.svg",
+        "scene": "De drie beproevingen",
+        "alt": "De drie beproevingen met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 777
+      },
+      {
+        "chapter": 5,
+        "verse": 33,
+        "file": "5-onderwijsbeelden.svg",
+        "scene": "Vasten, lap en wijnzakken",
+        "alt": "Vasten, lap en wijnzakken met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 863
+      },
+      {
+        "chapter": 3,
+        "verse": 23,
+        "file": "3-afstamming-deel-1.svg",
+        "scene": "Afstamming: deel 1",
+        "alt": "Alle opeenvolgende namen uit de plaatselijke afstammingslijst, in volgorde zoon naar voorgaande generatie.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1813
+      },
+      {
+        "chapter": 3,
+        "verse": 23,
+        "file": "3-afstamming-deel-2.svg",
+        "scene": "Afstamming: deel 2",
+        "alt": "Alle opeenvolgende namen uit de plaatselijke afstammingslijst, in volgorde zoon naar voorgaande generatie.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1813
+      },
+      {
+        "chapter": 3,
+        "verse": 23,
+        "file": "3-afstamming-deel-3.svg",
+        "scene": "Afstamming: deel 3",
+        "alt": "Alle opeenvolgende namen uit de plaatselijke afstammingslijst, in volgorde zoon naar voorgaande generatie.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1813
+      },
+      {
+        "chapter": 3,
+        "verse": 23,
+        "file": "3-afstamming-deel-4.svg",
+        "scene": "Afstamming: deel 4",
+        "alt": "Alle opeenvolgende namen uit de plaatselijke afstammingslijst, in volgorde zoon naar voorgaande generatie.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1515
       }
     ],
     "2korinthiers": [
