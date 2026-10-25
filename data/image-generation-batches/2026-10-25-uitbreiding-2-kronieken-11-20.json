@@ -1,0 +1,788 @@
+{
+  "date": "2026-10-25",
+  "started": "2026-10-25T00:32:44Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "2kronieken",
+      "chapter": 12,
+      "verse": 9,
+      "scene": "Sisak voert de gouden schilden weg",
+      "alt": "Sisak voert de gouden schilden weg — 2 Kronieken 12:9",
+      "kind": "scene",
+      "file": "12-9-inhoudelijk.webp",
+      "prompt": "Use case: historical-scene. Photorealistic educational Bible illustration, landscape 3:2, ancient Judah and Israel. Fully modest woven robes, natural hands, exactly two arms per human, historically plausible tools. No modern objects, Roman armor, readable words, watermark, visible deity, blood, wounds or nudity. Adult Egyptian soldiers under King Shishak carry precious gold-covered shields and gold vessels away from Jerusalem as captured royal and temple treasures. Ancient Egyptian-style linen clothes and shields, subdued local bystanders, no fighting, no violence shown.",
+      "edit_prompt": "Use case: precise-object-edit. Preserve this ancient Egyptian removal of gold treasures from Jerusalem in 2 Chronicles 12:9, but replace the prominent central golden chest being carried on long poles with a plain open wooden handcart holding ordinary gold and silver bowls, plates and cups. Do not depict the covenant ark, sacred golden chest or cherubs, or carry any chest on shoulder poles. Keep the foreground soldiers carrying gold shields, modest clothing, people and warm daylight with natural hands and two arms each. Change the striped royal nemes headcloths of ordinary soldiers to simple plain linen Egyptian headcloths without cobra crowns, so the scene does not show several pharaohs. Preserve photorealism, no blood or violence.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2kronieken",
+      "chapter": 15,
+      "verse": 18,
+      "scene": "Asa brengt gewijde gaven binnen",
+      "alt": "Asa brengt gewijde gaven binnen — 2 Kronieken 15:18",
+      "kind": "scene",
+      "file": "15-18-inhoudelijk.webp",
+      "prompt": "Use case: historical-scene. Photorealistic educational Bible illustration, landscape 3:2, ancient Judah and Israel. Fully modest woven robes, natural hands, exactly two arms per human, historically plausible tools. No modern objects, Roman armor, readable words, watermark, visible deity, blood, wounds or nudity. Adult King Asa and attendants bring silver and gold vessels dedicated by him and his father into a temple treasury store room, modest royal robes, respectful procession and shelves, no ark being touched.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2kronieken",
+      "chapter": 16,
+      "verse": 10,
+      "scene": "Hanani wordt gevangengezet",
+      "alt": "Hanani wordt gevangengezet — 2 Kronieken 16:10",
+      "kind": "scene",
+      "file": "16-10-inhoudelijk.webp",
+      "prompt": "Use case: historical-scene. Photorealistic educational Bible illustration, landscape 3:2, ancient Judah and Israel. Fully modest woven robes, natural hands, exactly two arms per human, historically plausible tools. No modern objects, Roman armor, readable words, watermark, visible deity, blood, wounds or nudity. The adult prophet Hanani in a simple modest robe sits inside an ancient stone prison room behind a wooden barred doorway, a calm guard outside, daylight through small high window, no shackles cutting skin, no violence or injury.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2kronieken",
+      "chapter": 16,
+      "verse": 12,
+      "scene": "Asa zoekt hulp bij zijn zieke voeten",
+      "alt": "Asa zoekt hulp bij zijn zieke voeten — 2 Kronieken 16:12",
+      "kind": "scene",
+      "file": "16-12-inhoudelijk.webp",
+      "prompt": "Use case: historical-scene. Photorealistic educational Bible illustration, landscape 3:2, ancient Judah and Israel. Fully modest woven robes, natural hands, exactly two arms per human, historically plausible tools. No modern objects, Roman armor, readable words, watermark, visible deity, blood, wounds or nudity. Elderly King Asa sits indoors with his lower legs resting on a small stool, feet loosely wrapped in clean linen, fully covered body. An adult ancient physician examines one wrapped foot with both natural hands. No sores, blood, surgery, magical objects or modern medicine, quiet serious mood.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2kronieken",
+      "chapter": 16,
+      "verse": 14,
+      "scene": "De begrafenis van Asa",
+      "alt": "De begrafenis van Asa — 2 Kronieken 16:14",
+      "kind": "scene",
+      "file": "16-14-inhoudelijk.webp",
+      "prompt": "Use case: historical-scene. Photorealistic educational Bible illustration, landscape 3:2, ancient Judah and Israel. Fully modest woven robes, natural hands, exactly two arms per human, historically plausible tools. No modern objects, Roman armor, readable words, watermark, visible deity, blood, wounds or nudity. Adult mourners carry a fully covered bier with bowls and bundles of aromatic spices toward a rock-cut tomb in ancient Jerusalem, a large ceremonial fire visible safely in the distance. Respectful funeral, no exposed corpse, no cremation of a visible person.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2kronieken",
+      "chapter": 17,
+      "verse": 12,
+      "scene": "Voorraden in Josafats steden",
+      "alt": "Voorraden in Josafats steden — 2 Kronieken 17:12",
+      "kind": "scene",
+      "file": "17-12-inhoudelijk.webp",
+      "prompt": "Use case: historical-scene. Photorealistic educational Bible illustration, landscape 3:2, ancient Judah and Israel. Fully modest woven robes, natural hands, exactly two arms per human, historically plausible tools. No modern objects, Roman armor, readable words, watermark, visible deity, blood, wounds or nudity. Adult workers store grain sacks and ceramic oil jars inside a newly strengthened ancient Judah storehouse beside a fortress wall. King Jehoshaphat in modest robes observes quietly, no fighting, orderly supplies rather than treasury gold.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2kronieken",
+      "chapter": 18,
+      "verse": 10,
+      "scene": "Zedekia toont de ijzeren horens",
+      "alt": "Zedekia toont de ijzeren horens — 2 Kronieken 18:10",
+      "kind": "scene",
+      "file": "18-10-inhoudelijk.webp",
+      "prompt": "Use case: historical-scene. Photorealistic educational Bible illustration, landscape 3:2, ancient Judah and Israel. Fully modest woven robes, natural hands, exactly two arms per human, historically plausible tools. No modern objects, Roman armor, readable words, watermark, visible deity, blood, wounds or nudity. Adult prophet Zedekiah son of Chenaanah holds a pair of man-made iron horns as a symbolic object before two fully robed adult kings Ahab and Jehoshaphat at Samaria gate. The horns are a handheld metal prop, not growing from his head; no divine figure, actual bull or violence.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2kronieken",
+      "chapter": 18,
+      "verse": 31,
+      "scene": "Josafat roept om hulp",
+      "alt": "Josafat roept om hulp — 2 Kronieken 18:31",
+      "kind": "scene",
+      "file": "18-31-inhoudelijk.webp",
+      "prompt": "Use case: historical-scene. Photorealistic educational Bible illustration, landscape 3:2, ancient Judah and Israel. Fully modest woven robes, natural hands, exactly two arms per human, historically plausible tools. No modern objects, Roman armor, readable words, watermark, visible deity, blood, wounds or nudity. Adult King Jehoshaphat in recognizable royal robes stands in an ancient two-wheeled chariot and cries out while distant Syrian charioteers begin to turn away after recognizing the mistaken identity. No blood, arrows hitting, injuries or direct fighting; natural horses and driver.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2kronieken",
+      "chapter": 18,
+      "verse": 34,
+      "scene": "Achabs wagen bij zonsondergang",
+      "alt": "Achabs wagen bij zonsondergang — 2 Kronieken 18:34",
+      "kind": "scene",
+      "file": "18-34-inhoudelijk.webp",
+      "prompt": "Use case: historical-scene. Photorealistic educational Bible illustration, landscape 3:2, ancient Judah and Israel. Fully modest woven robes, natural hands, exactly two arms per human, historically plausible tools. No modern objects, Roman armor, readable words, watermark, visible deity, blood, wounds or nudity. Ahab disguised in plain ancient protective clothing and no crown sits exhausted and pale inside his horse chariot at sunset near Ramoth Gilead, supported by the side of the chariot, his driver turns back. His wound is completely concealed by intact clothing, no blood, gore or arrow through flesh, grave quiet mood.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2kronieken",
+      "chapter": 20,
+      "verse": 14,
+      "scene": "Jahaziël spreekt in de vergadering",
+      "alt": "Jahaziël spreekt in de vergadering — 2 Kronieken 20:14",
+      "kind": "scene",
+      "file": "20-14-inhoudelijk.webp",
+      "prompt": "Use case: historical-scene. Photorealistic educational Bible illustration, landscape 3:2, ancient Judah and Israel. Fully modest woven robes, natural hands, exactly two arms per human, historically plausible tools. No modern objects, Roman armor, readable words, watermark, visible deity, blood, wounds or nudity. Adult Levite Jahaziel in modest linen stands among an ancient Jerusalem gathering and delivers a reassuring message to adult King Jehoshaphat and listeners. Natural open-handed speaking gesture, no glowing face or visible deity, no readable scroll.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2kronieken",
+      "chapter": 20,
+      "verse": 25,
+      "scene": "Drie dagen buit verzamelen",
+      "alt": "Drie dagen buit verzamelen — 2 Kronieken 20:25",
+      "kind": "scene",
+      "file": "20-25-inhoudelijk.webp",
+      "prompt": "Use case: historical-scene. Photorealistic educational Bible illustration, landscape 3:2, ancient Judah and Israel. Fully modest woven robes, natural hands, exactly two arms per human, historically plausible tools. No modern objects, Roman armor, readable words, watermark, visible deity, blood, wounds or nudity. Adult Judah men in modest robes gather abandoned bundles of clothes and valuable vessels from an empty wilderness encampment and load pack animals. The scene focuses on recovery of possessions; no corpses, weapons in use, blood or wounded people.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2kronieken",
+      "chapter": 20,
+      "verse": 37,
+      "scene": "De schepen kunnen niet uitvaren",
+      "alt": "De schepen kunnen niet uitvaren — 2 Kronieken 20:37",
+      "kind": "scene",
+      "file": "20-37-inhoudelijk.webp",
+      "prompt": "Use case: historical-scene. Photorealistic educational Bible illustration, landscape 3:2, ancient Judah and Israel. Fully modest woven robes, natural hands, exactly two arms per human, historically plausible tools. No modern objects, Roman armor, readable words, watermark, visible deity, blood, wounds or nudity. Broken ancient wooden trading ships lie damaged at anchor by the harbor of Ezion-Geber after a storm, sailors and adult observers stand safely on the shore looking at the wrecked hulls. No people in peril, drowning, modern vessels or sea-monster imagery.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2kronieken",
+      "chapter": 11,
+      "verse": 1,
+      "file": "11-oorlog-gestopt-vestingen.svg",
+      "scene": "Van oorlog naar vestingen",
+      "alt": "Afgelaste strijd, alle vestingnamen en de toestroom naar Juda.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1184,
+      "source": "2 Kronieken 11:1–17",
+      "design": {
+        "rows": [
+          [
+            "Het leger",
+            "180.000 uit Juda en Benjamin, opgeroepen om het rijk terug te winnen."
+          ],
+          [
+            "Semaja’s woord",
+            "Niet tegen broers strijden; zij gehoorzamen en keren terug."
+          ],
+          [
+            "Vijftien steden",
+            "Bethlehem, Etham, Thekoa, Beth-Zur, Socho, Adullam, Gath, Maresa, Zif, Adoraïm, Lachis, Azeka, Zora, Ajalon en Hebron."
+          ],
+          [
+            "Versterking van Juda",
+            "Voorraad, wapens en bevelhebbers; priesters, Levieten en zoekers uit andere stammen komen naar Juda."
+          ]
+        ],
+        "note": "De broederoorlog wordt hier afgelast; de komst van Levieten volgt Jerobeams uitsluiting."
+      }
+    },
+    {
+      "book": "2kronieken",
+      "chapter": 11,
+      "verse": 18,
+      "file": "11-gezin-en-opvolging.svg",
+      "scene": "Gezin en opvolgingskeuze",
+      "alt": "Genoemde herkomst, kinderen van Maächa en opvolgingskeuze.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1283,
+      "source": "2 Kronieken 11:18–23",
+      "design": {
+        "rows": [
+          [
+            "Genoemde huwelijken",
+            "Mahalath, dochter van Jerimoth uit Davids familie; Abihaïl, dochter van Eliab, zoon van Isaï."
+          ],
+          [
+            "Nog genoemde zonen",
+            "Vers 19 noemt Jeüs, Semaria en Zaham."
+          ],
+          [
+            "Maächa",
+            "Dochter van Absalom; kinderen Abia, Attai, Ziza en Selomith."
+          ],
+          [
+            "Aantallen",
+            "Achttien vrouwen, zestig bijvrouwen, 28 zonen en zestig dochters."
+          ],
+          [
+            "Opvolging",
+            "Abia, zoon van Maächa, wordt leider onder zijn broers en beoogd opvolger."
+          ]
+        ],
+        "note": "De tekst noemt Mahalath en Abihaïl en verwijst in vers 19 met zij naar de moeder; de drie zonen blijven bij die eigen passage."
+      }
+    },
+    {
+      "book": "2kronieken",
+      "chapter": 12,
+      "verse": 1,
+      "file": "12-ontrouw-nederigheid-schatten.svg",
+      "scene": "Ontrouw, nederigheid en verlies",
+      "alt": "Chronologie, aantallen en de beperkte redding in dit hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1369,
+      "source": "2 Kronieken 12:1–16",
+      "design": {
+        "rows": [
+          [
+            "Vijfde regeringsjaar",
+            "Sisak valt binnen nadat Rehabeam en het volk de wet verlaten."
+          ],
+          [
+            "Het leger",
+            "1.200 wagens, 60.000 ruiters en ontelbaar voetvolk."
+          ],
+          [
+            "Nederig antwoord",
+            "Koning en leiders erkennen dat de HEERE rechtvaardig is; geen totale vernietiging, wel onderwerping."
+          ],
+          [
+            "Schatten",
+            "Goud en gouden schilden worden meegenomen; koper vervangt ze."
+          ],
+          [
+            "Regering en opvolging",
+            "Begonnen op 41 jaar, zeventien jaar koning; moeder Naäma uit Ammon; na hem Abia."
+          ]
+        ],
+        "note": "Nederigheid voorkomt de totale ondergang, maar maakt het verlies en de onderwerping niet ongedaan."
+      }
+    },
+    {
+      "book": "2kronieken",
+      "chapter": 13,
+      "verse": 1,
+      "file": "13-abia-strijd-en-toespraak.svg",
+      "scene": "Abia’s strijd en toespraak",
+      "alt": "Datering, twee legers en de inhoud van de toespraak.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1134,
+      "source": "2 Kronieken 13:1–12",
+      "design": {
+        "rows": [
+          [
+            "Datering",
+            "Jerobeams achttiende jaar; Abia regeert drie jaar. Moeder: Michaja, dochter van Uriël uit Gibea."
+          ],
+          [
+            "Legers",
+            "Abia: 400.000; Jerobeam: 800.000."
+          ],
+          [
+            "Berg Zemaraïm",
+            "Abia spreekt over Davids koningschap en het zoutverbond."
+          ],
+          [
+            "Zijn tegenstelling",
+            "Gouden kalveren en eigen priesters tegenover de HEERE, Aärons priesters en de geregelde eredienst."
+          ]
+        ],
+        "note": "De moedernaam volgt dit hoofdstuk; Abia’s oordeel over de twee erediensten is zijn toespraak."
+      }
+    },
+    {
+      "book": "2kronieken",
+      "chapter": 13,
+      "verse": 13,
+      "file": "13-omsingeling-en-afloop.svg",
+      "scene": "Omsingeling en afloop",
+      "alt": "De hinderlaag, reactie en gevolgen met exacte plaatsnamen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1369,
+      "source": "2 Kronieken 13:13–22",
+      "design": {
+        "rows": [
+          [
+            "Twee fronten",
+            "Jerobeams leger staat voor Juda en een omtrekkende groep achter hen."
+          ],
+          [
+            "De reactie",
+            "Juda roept tot God; priesters blazen de trompetten en mannen heffen de strijdkreet aan."
+          ],
+          [
+            "De afloop",
+            "Israël vlucht; de tekst noemt 500.000 gesneuvelden."
+          ],
+          [
+            "Ingenomen plaatsen",
+            "Bethel, Jesana en Efron, met omliggende plaatsen."
+          ],
+          [
+            "Daarna",
+            "Jerobeam herstelt niet; Abia wordt sterker en krijgt 22 zonen en zestien dochters."
+          ]
+        ],
+        "note": "Tactisch verloop, geen schaalkaart; de genoemde zware verliezen worden niet uit het verslag weggelaten."
+      }
+    },
+    {
+      "book": "2kronieken",
+      "chapter": 14,
+      "verse": 1,
+      "file": "14-rust-en-overmacht.svg",
+      "scene": "Rust en overmacht onder Asa",
+      "alt": "Rust, verschillende troepen en de volledige afloop van de veldtocht.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1326,
+      "source": "2 Kronieken 14:1–15",
+      "design": {
+        "rows": [
+          [
+            "Tien jaar rust",
+            "Na Abia volgt Asa; hij verwijdert vreemde eredienst en versterkt steden."
+          ],
+          [
+            "Juda en Benjamin",
+            "300.000 met schilden en speren; 280.000 met schilden en bogen."
+          ],
+          [
+            "Zerah uit Nubië",
+            "Een miljoen man en driehonderd wagens; strijd bij Maresa in het dal Zefatha."
+          ],
+          [
+            "Asa’s gebed",
+            "Hij steunt op God tegenover de overmacht."
+          ],
+          [
+            "Gerar en terugkeer",
+            "Achtervolging, verwoeste en geplunderde steden; schapen en kamelen als buit naar Jeruzalem."
+          ]
+        ],
+        "note": "Gebed, overwinning en het gewelddadige plunderen zijn afzonderlijke fasen; aantallen volgen deze tekst."
+      }
+    },
+    {
+      "book": "2kronieken",
+      "chapter": 15,
+      "verse": 1,
+      "file": "15-zoeken-en-verbond.svg",
+      "scene": "Zoeken, verbond en hervorming",
+      "alt": "Oproep, tijd, verbond, sanctie en hervorming in hun volgorde.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1412,
+      "source": "2 Kronieken 15:1–19",
+      "design": {
+        "rows": [
+          [
+            "Azaria, zoon van Oded",
+            "Zoeken leidt tot vinden; verlaten tot verlaten worden. Wees sterk en laat de handen niet verslappen."
+          ],
+          [
+            "Vijftiende jaar, maand drie",
+            "Vergadering met Juda, Benjamin en toegestroomden uit Efraïm, Manasse en Simeon."
+          ],
+          [
+            "Offer en verbond",
+            "700 runderen en 7.000 schapen; God zoeken met hart en ziel."
+          ],
+          [
+            "De sanctie",
+            "De tekst verbindt de doodstraf aan niet zoeken, ongeacht leeftijd of geslacht."
+          ],
+          [
+            "Maächa en gaven",
+            "Asa zet haar af, vernietigt haar beeld bij de Kidron en brengt gewijde gaven binnen."
+          ]
+        ],
+        "note": "De harde verbondsbepaling wordt in woorden benoemd; er wordt geen uitvoering daarvan bij verzonnen."
+      }
+    },
+    {
+      "book": "2kronieken",
+      "chapter": 16,
+      "verse": 1,
+      "file": "16-bondgenootschap-en-rama.svg",
+      "scene": "Bondgenootschap en Rama",
+      "alt": "Partijen, middelen, plaatsen en Hanani’s reactie.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1247,
+      "source": "2 Kronieken 16:1–10",
+      "design": {
+        "rows": [
+          [
+            "Baësa",
+            "Versterkt Rama om verkeer naar Juda te blokkeren."
+          ],
+          [
+            "Asa en Benhadad",
+            "Zilver en goud naar Damascus om Benhadads verbond met Baësa te breken."
+          ],
+          [
+            "De aanval",
+            "Ijon, Dan, Abel-Maïm en voorraadsteden van Nafthali; Baësa stopt met bouwen."
+          ],
+          [
+            "Hergebruik",
+            "Stenen en hout uit Rama naar Geba en Mizpa."
+          ],
+          [
+            "Hanani",
+            "Verwijt vertrouwen op Syrië; Asa zet hem gevangen en onderdrukt mensen."
+          ]
+        ],
+        "note": "Politiek succes en de profetische beoordeling daarvan staan naast elkaar."
+      }
+    },
+    {
+      "book": "2kronieken",
+      "chapter": 16,
+      "verse": 11,
+      "file": "16-asas-laatste-jaren.svg",
+      "scene": "Asa’s laatste regeringsjaren",
+      "alt": "Ziekte, overlijden en de beschreven begrafeniszorg.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1048,
+      "source": "2 Kronieken 16:11–14",
+      "design": {
+        "rows": [
+          [
+            "Jaar 39",
+            "Ziek aan zijn voeten; zoekt volgens de tekst niet de HEERE, maar de dokters."
+          ],
+          [
+            "Jaar 41",
+            "Asa sterft."
+          ],
+          [
+            "Het graf",
+            "Voor zichzelf uitgehakt in de Stad van David; een bed met specerijen."
+          ],
+          [
+            "Groot vuur",
+            "Een groot vuur wordt ter ere van hem ontstoken."
+          ]
+        ],
+        "note": "Het genoemde vuur wordt niet als verbranding van zijn lichaam uitgelegd; die handeling staat niet in dit verslag."
+      }
+    },
+    {
+      "book": "2kronieken",
+      "chapter": 17,
+      "verse": 7,
+      "file": "17-onderwijzers-met-wetboek.svg",
+      "scene": "Onderwijzers met het wetboek",
+      "alt": "Alle genoemde onderwijzers, hun groepen en hun taak.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1091,
+      "source": "2 Kronieken 17:7–9",
+      "design": {
+        "rows": [
+          [
+            "Vijf leiders",
+            "Ben-Chaïl, Obadja, Zecharja, Nethaneël en Michaja."
+          ],
+          [
+            "Negen Levieten",
+            "Semaja, Nethanja, Zebadja, Asaël, Semiramoth, Jonathan, Adonia, Tobia en Tob-Adonia."
+          ],
+          [
+            "Twee priesters",
+            "Elisama en Joram."
+          ],
+          [
+            "Opdracht in jaar drie",
+            "Met het wetboek alle steden van Juda rondgaan en het volk onderwijzen."
+          ]
+        ],
+        "note": "Gelijknamige personen in andere hoofdstukken worden niet zonder bron aan deze leraren gelijkgesteld."
+      }
+    },
+    {
+      "book": "2kronieken",
+      "chapter": 17,
+      "verse": 10,
+      "file": "17-geschenken-en-soldaten.svg",
+      "scene": "Geschenken en soldaten",
+      "alt": "Aantallen per leider en het onderscheid met de vestinggarnizoenen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "2 Kronieken 17:10–19",
+      "design": {
+        "rows": [
+          [
+            "Geschenken",
+            "Filistijnen brengen zilver; Arabieren 7.700 rammen en 7.700 bokken."
+          ],
+          [
+            "Drie groepen uit Juda",
+            "Adna 300.000; Johanan 280.000; Amasia, zoon van Zichri, 200.000."
+          ],
+          [
+            "Twee uit Benjamin",
+            "Eljada 200.000; Jozabad 180.000."
+          ],
+          [
+            "Daarnaast",
+            "Nog mannen in de versterkte steden; voorraadsteden en burchten worden gebouwd."
+          ]
+        ],
+        "note": "Deze telling van dienstgroepen omvat niet de afzonderlijk genoemde garnizoenen."
+      }
+    },
+    {
+      "book": "2kronieken",
+      "chapter": 18,
+      "verse": 1,
+      "file": "18-profeten-en-waarschuwing.svg",
+      "scene": "Profeten en Micha’s waarschuwing",
+      "alt": "Partijen, tegengestelde uitspraken en de gevangenzetting.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1134,
+      "source": "2 Kronieken 18:1–27",
+      "design": {
+        "rows": [
+          [
+            "Het verbond",
+            "Josafat gaat met Achab naar Ramoth in Gilead, maar vraagt eerst Gods woord."
+          ],
+          [
+            "Vierhonderd profeten",
+            "Voorspellen succes; Zedekia toont ijzeren horens."
+          ],
+          [
+            "Micha, zoon van Jimla",
+            "Zegt alleen te spreken wat God zegt; beeld van schapen zonder herder en een hemels visioen."
+          ],
+          [
+            "Gevolg",
+            "Zedekia slaat Micha; Achab laat hem met brood en water opsluiten."
+          ]
+        ],
+        "note": "Micha’s visioen is zijn weergegeven profetische gezicht; de ijzeren horens zijn een gemaakte symbolische voorstelling."
+      }
+    },
+    {
+      "book": "2kronieken",
+      "chapter": 18,
+      "verse": 28,
+      "file": "18-twee-koningen-in-strijd.svg",
+      "scene": "Twee koningen in de strijd",
+      "alt": "Vermomming, persoonsverwisseling en verschillende afloop.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1290,
+      "source": "2 Kronieken 18:28–34",
+      "design": {
+        "rows": [
+          [
+            "Achab",
+            "Draagt een vermomming; Josafat houdt zijn koninklijke kleding."
+          ],
+          [
+            "De Syrische opdracht",
+            "De wagenaanvoerders zoeken alleen de koning van Israël."
+          ],
+          [
+            "Vergissing",
+            "Zij zien Josafat voor hem aan; hij roept, God helpt en de achtervolgers keren zich af."
+          ],
+          [
+            "Een willekeurig schot",
+            "Achab wordt tussen de pantserdelen getroffen."
+          ],
+          [
+            "Zonsondergang",
+            "Hij houdt zich tot de avond in zijn wagen overeind en sterft."
+          ]
+        ],
+        "note": "Josafat wordt gered en keert later terug; de stervende koning in dit hoofdstuk is Achab."
+      }
+    },
+    {
+      "book": "2kronieken",
+      "chapter": 19,
+      "verse": 2,
+      "file": "19-jehu-en-rechtspraak.svg",
+      "scene": "Jehu en het rechtspreken",
+      "alt": "Profetische terechtwijzing en de principes van rechtspraak.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1177,
+      "source": "2 Kronieken 19:2–10",
+      "design": {
+        "rows": [
+          [
+            "Jehu, zoon van Hanani",
+            "Verwijt Josafat hulp aan de goddeloze; erkent ook het zoeken van God en verwijderen van gewijde palen."
+          ],
+          [
+            "Stad voor stad",
+            "Josafat brengt het volk terug en stelt rechters in de vestingsteden aan."
+          ],
+          [
+            "Beginselen",
+            "Ontzag, trouw en toegewijd hart; geen onrecht, partijdigheid of omkoping."
+          ],
+          [
+            "In Jeruzalem",
+            "Levieten, priesters en familiehoofden behandelen geschillen en waarschuwen tegen schuld."
+          ]
+        ],
+        "note": "Jehu is hier de zoon van de ziener Hanani; hij wordt niet met de latere koning van Israël verward."
+      }
+    },
+    {
+      "book": "2kronieken",
+      "chapter": 19,
+      "verse": 11,
+      "file": "19-twee-bevoegdheden.svg",
+      "scene": "Twee bevoegdheden in Jeruzalem",
+      "alt": "De juiste personen, rollen en ondersteuning.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1048,
+      "source": "2 Kronieken 19:11",
+      "design": {
+        "rows": [
+          [
+            "Amarja",
+            "Hogepriester; over alles wat met de HEERE te maken heeft."
+          ],
+          [
+            "Zebadja",
+            "Zoon van Ismaël, leider van Juda; over alles wat met de koning te maken heeft."
+          ],
+          [
+            "Levieten",
+            "Staan als ambtenaren klaar."
+          ],
+          [
+            "De opdracht",
+            "Wees sterk en doe het; de HEERE zal met de goede zijn."
+          ]
+        ],
+        "note": "Twee onderscheiden verantwoordelijkheden, met ondersteunende ambtenaren; geen verzonnen moderne rechtbanktitels."
+      }
+    },
+    {
+      "book": "2kronieken",
+      "chapter": 20,
+      "verse": 1,
+      "file": "20-gebed-en-jahaziel.svg",
+      "scene": "Vrees, gebed en Jahaziël",
+      "alt": "Aanleiding, gebed, bemoediging en genoemde plaatsen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1290,
+      "source": "2 Kronieken 20:1–20",
+      "design": {
+        "rows": [
+          [
+            "Het bericht",
+            "Moab, Ammon en mensen van Seïr naderen; bij Engedi."
+          ],
+          [
+            "De reactie",
+            "Vasten en zoeken; heel Juda, vrouwen en kinderen inbegrepen, staat voor God."
+          ],
+          [
+            "Josafats gebed",
+            "Wij hebben geen kracht en weten niet wat te doen; onze ogen zijn op U."
+          ],
+          [
+            "Jahaziël",
+            "Uit Asafs Levietenfamilie; niet vrezen, God zal strijden; naar de pas van Ziz bij Jeruël."
+          ],
+          [
+            "De morgen",
+            "Naar Thekoa; vertrouwen op God en Zijn profeten."
+          ]
+        ],
+        "note": "De toespraak van Jahaziël en Josafats gebed zijn afzonderlijke momenten."
+      }
+    },
+    {
+      "book": "2kronieken",
+      "chapter": 20,
+      "verse": 21,
+      "file": "20-zang-buit-beracha.svg",
+      "scene": "Zang, buit en Beracha",
+      "alt": "Volgorde, tijdsduur en plaats van de dank.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1326,
+      "source": "2 Kronieken 20:21–30",
+      "design": {
+        "rows": [
+          [
+            "Zangers voorop",
+            "Loven Gods blijvende trouw voor het leger uit."
+          ],
+          [
+            "Vijanden onderling",
+            "Ammon en Moab keren zich tegen Seïr en vervolgens tegen elkaar."
+          ],
+          [
+            "Bij de wachttoren",
+            "Juda vindt de verslagen menigte; geen eigen strijd beschreven."
+          ],
+          [
+            "Drie dagen buit",
+            "Zoveel bezittingen, kleren en kostbaarheden dat zij die nauwelijks dragen."
+          ],
+          [
+            "Dag vier en terugkeer",
+            "Lof in het dal Beracha; daarna blij naar Jeruzalem met instrumenten."
+          ]
+        ],
+        "note": "Het dal Beracha is de plaats van de dank op dag vier, niet de naam van de eerste legeropstelling."
+      }
+    },
+    {
+      "book": "2kronieken",
+      "chapter": 20,
+      "verse": 31,
+      "file": "20-regering-en-schepen.svg",
+      "scene": "Regering en de gebroken vloot",
+      "alt": "Regeringsgegevens, beoordeling en het tweede bondgenootschap.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1290,
+      "source": "2 Kronieken 20:31–37",
+      "design": {
+        "rows": [
+          [
+            "Josafat",
+            "Begint op 35 jaar; 25 jaar koning. Moeder Azuba, dochter van Silhi."
+          ],
+          [
+            "Beoordeling",
+            "Gaat Asa’s weg, maar offerhoogten blijven en het volk is niet volledig toegewijd."
+          ],
+          [
+            "Ahazia",
+            "Koning van Israël; goddeloze bondgenoot bij de scheepsbouw in Ezeon-Geber."
+          ],
+          [
+            "Eliëzer",
+            "Zoon van Dodava uit Maresa; kondigt aan dat God het werk verscheurt."
+          ],
+          [
+            "De uitkomst",
+            "Schipbreuk; zij kunnen niet naar Tarsis varen."
+          ]
+        ],
+        "note": "De mislukte vloot volgt als afzonderlijke episode na de overwinning en rust."
+      }
+    }
+  ]
+}
