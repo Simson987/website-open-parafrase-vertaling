@@ -14001,6 +14001,175 @@
       "target_images": 3,
       "reason": "De drie beelden van handgeklap, ramshoorn en samengekomen leiders dekken het korte lied van universele koningslof. Een extra menselijke troonvoorstelling zou Gods koningschap onnodig vastleggen.",
       "additions": []
+    },
+    {
+      "book": "psalmen",
+      "chapter": 54,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Verborgen David, gebed en dank zijn aanwezig. Het bericht van de mannen uit Zif aan Saul is een afzonderlijke genoemde gebeurtenis; een leeswijzer onderscheidt aanleiding en gebed.",
+      "additions": [
+        {
+          "verse": 2,
+          "scene": "Bij het opschrift: de mannen uit Zif bij Saul",
+          "kind": "scene",
+          "file": "54-2-verdieping.webp"
+        },
+        {
+          "verse": 2,
+          "file": "54-verborgen-gebed-en-hulp.svg",
+          "scene": "Verborgen, gebed en hulp",
+          "kind": "diagram",
+          "source": "Psalm 54:2–9"
+        }
+      ]
+    },
+    {
+      "book": "psalmen",
+      "chapter": 55,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Duif, driemaal daags roepen en zorg neerleggen zijn aanwezig. De vroegere gezamenlijke gang met de vertrouweling ontbreekt als contrasterende herinnering; een schema maakt de gebroken vriendschap centraal zichtbaar.",
+      "additions": [
+        {
+          "verse": 15,
+          "scene": "Herinnering: vertrouwelijk samen optrekken",
+          "kind": "poetic",
+          "file": "55-15-verdieping.webp"
+        },
+        {
+          "verse": 2,
+          "file": "55-vluchtverlangen-en-verraad.svg",
+          "scene": "Vluchtverlangen en verraad",
+          "kind": "diagram",
+          "source": "Psalm 55:2–24"
+        }
+      ]
+    },
+    {
+      "book": "psalmen",
+      "chapter": 56,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Angst, tranenkruik en leven in licht zijn aanwezig. Het historische opschrift over gevangenneming in Gat ontbreekt als eigen beeld; een leeswijzer verbindt dat met de terugkerende vertrouwenswoorden.",
+      "additions": [
+        {
+          "verse": 1,
+          "scene": "Bij het opschrift: David in Gat gegrepen",
+          "kind": "scene",
+          "file": "56-1-verdieping.webp"
+        },
+        {
+          "verse": 1,
+          "file": "56-angst-tranen-en-vertrouwen.svg",
+          "scene": "Angst, tranen en vertrouwen",
+          "kind": "diagram",
+          "source": "Psalm 56:1–14"
+        }
+      ]
+    },
+    {
+      "book": "psalmen",
+      "chapter": 57,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "Grot, dageraad en hemeltrouw zijn aanwezig. Een leeswijzer maakt beschermingsbeelden en refrein zichtbaar; geen vierde generieke grot- of wolkenfoto.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "57-grot-hart-en-dageraad.svg",
+          "scene": "Grot, hart en dageraad",
+          "kind": "diagram",
+          "source": "Psalm 57:1–12"
+        }
+      ]
+    },
+    {
+      "book": "psalmen",
+      "chapter": 58,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "Rechtspraak, slang en water zijn aanwezig. Een schema benoemt de overige heftige vergelijkingen binnen hun klachtfunctie; geen grafische bloed- of kinderdoodafbeelding nodig.",
+      "additions": [
+        {
+          "verse": 2,
+          "file": "58-machthebbers-en-recht.svg",
+          "scene": "Machthebbers en recht",
+          "kind": "diagram",
+          "source": "Psalm 58:2–12"
+        }
+      ]
+    },
+    {
+      "book": "psalmen",
+      "chapter": 59,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "Bewaking, avondhonden en morgenlof zijn aanwezig. Een tijdschema laat de herhaalde avond tegenover de afsluitende morgen spreken.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "59-avond-en-morgen.svg",
+          "scene": "Avond en morgen",
+          "kind": "diagram",
+          "source": "Psalm 59:1–18"
+        }
+      ]
+    },
+    {
+      "book": "psalmen",
+      "chapter": 60,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Scheuren, vlag en gezamenlijk gebed zijn aanwezig. Twee schema’s voegen de militaire aanleiding met het plaatselijke aantal en de exact gekoppelde plaatsnamen en metaforen toe; een geografische kaart zou niet gegeven grenzen vereisen.",
+      "additions": [
+        {
+          "verse": 2,
+          "file": "60-nood-toezegging-en-hulp.svg",
+          "scene": "Nood, toezegging en hulp",
+          "kind": "diagram",
+          "source": "Psalm 60:2–14"
+        },
+        {
+          "verse": 8,
+          "file": "60-namen-en-hun-beeldtaal.svg",
+          "scene": "Namen en hun beeldtaal",
+          "kind": "diagram",
+          "source": "Psalm 60:8–10"
+        }
+      ]
+    },
+    {
+      "book": "psalmen",
+      "chapter": 62,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "Stilte, muur en weegschaal zijn aanwezig. Een schema verbindt de herhaalde belijdenis met de oproep aan het volk en het slot over kracht en trouw.",
+      "additions": [
+        {
+          "verse": 2,
+          "file": "62-stilte-en-ware-zekerheid.svg",
+          "scene": "Stilte en ware zekerheid",
+          "kind": "diagram",
+          "source": "Psalm 62:2–13"
+        }
+      ]
+    },
+    {
+      "book": "psalmen",
+      "chapter": 53,
+      "status": "reviewed",
+      "target_images": 3,
+      "reason": "Onrecht, de vraag naar Godzoekers en reddingshoop zijn al met drie beelden aanwezig in deze korte psalm. Geen herhaling van een eerder gemaakt schema bij Psalm 14; de plaatselijke angst- en reddingswoorden blijven in de verzen leesbaar.",
+      "additions": []
+    },
+    {
+      "book": "psalmen",
+      "chapter": 61,
+      "status": "reviewed",
+      "target_images": 3,
+      "reason": "Hoge rots, sterke toren en dagelijkse lof dekken roepen, beschutting en beloften in de korte psalm. Geen extra generieke tentfoto nodig; het gebed voor de koning blijft onderdeel van de verzen.",
+      "additions": []
     }
   ]
 }

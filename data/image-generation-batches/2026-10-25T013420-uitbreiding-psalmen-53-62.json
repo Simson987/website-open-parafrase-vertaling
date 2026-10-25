@@ -1,0 +1,358 @@
+{
+  "date": "2026-10-25",
+  "started": "2026-10-25T01:34:20Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "psalmen",
+      "chapter": 54,
+      "verse": 2,
+      "scene": "Bij het opschrift: de mannen uit Zif bij Saul",
+      "alt": "Bij het opschrift: de mannen uit Zif bij Saul — Psalm 54:2; illustratie bij het historische opschrift.",
+      "kind": "scene",
+      "file": "54-2-verdieping.webp",
+      "prompt": "Photorealistic Bible educational illustration, landscape 3:2. Ancient Near Eastern setting, modest fully covering woven clothes, natural two arms and correct hands per person. No readable lettering, watermark, modern objects, visible deity, blood, wounds or active violence. Two adult messengers from Ziph in plain travel robes report to adult king Saul seated under a simple shaded ancient courtyard awning. Saul has a modest gold circlet, attentive sober posture. David is not present; the messengers speak about his hiding. No invented map, readable text, pointing weapons or punishment.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "psalmen",
+      "chapter": 55,
+      "verse": 15,
+      "scene": "Herinnering: vertrouwelijk samen optrekken",
+      "alt": "Herinnering: vertrouwelijk samen optrekken — Psalm 55:15; illustratie bij de herinnering in het gedicht.",
+      "kind": "poetic",
+      "file": "55-15-verdieping.webp",
+      "prompt": "Photorealistic Bible educational illustration, landscape 3:2. Ancient Near Eastern setting, modest fully covering woven clothes, natural two arms and correct hands per person. No readable lettering, watermark, modern objects, visible deity, blood, wounds or active violence. Two adult ancient Israelite men walk side by side in warm conversation among a modest procession approaching a simple sanctuary courtyard. A remembered former friendship, peaceful nostalgic tone before betrayal. No named traitor, no handshake with distorted hands, no contemporary temple, no readable text. Both fully clothed, each two arms.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "psalmen",
+      "chapter": 56,
+      "verse": 1,
+      "scene": "Bij het opschrift: David in Gat gegrepen",
+      "alt": "Bij het opschrift: David in Gat gegrepen — Psalm 56:1; illustratie bij het historische opschrift.",
+      "kind": "scene",
+      "file": "56-1-verdieping.webp",
+      "prompt": "Photorealistic Bible educational illustration, landscape 3:2. Ancient Near Eastern setting, modest fully covering woven clothes, natural two arms and correct hands per person. No readable lettering, watermark, modern objects, visible deity, blood, wounds or active violence. Adult David in plain worn travel robes stands between two adult ancient Philistine guards in a modest stone courtyard at Gath, clearly detained but without chains, rough handling, injury or immediate danger. Guards in plain ancient tunics and simple bronze fittings, weapons lowered and away from him, no modern uniforms or fantasy armor. David not wearing crown, human dignity and natural anatomy.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "psalmen",
+      "chapter": 54,
+      "verse": 2,
+      "file": "54-verborgen-gebed-en-hulp.svg",
+      "scene": "Verborgen, gebed en hulp",
+      "alt": "Het verschil tussen de vertelsituatie en de woorden van het daaropvolgende gebed.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1091,
+      "source": "Psalm 54:2–9",
+      "design": {
+        "rows": [
+          [
+            "Opschrift · 2",
+            "De mannen uit Zif vertellen Saul dat David bij hen verborgen is."
+          ],
+          [
+            "Bede · 3–5",
+            "Redding, recht en een gehoord gebed tegenover wrede belagers."
+          ],
+          [
+            "Vertrouwen · 6–7",
+            "God als helper en het terugkeren van kwaad op de belagers."
+          ],
+          [
+            "Dank · 8–9",
+            "Vrijwillig offer, lof op Gods naam en gesproken reddingsvertrouwen."
+          ]
+        ],
+        "note": "De concrete aanleiding staat in het opschrift. Het gebed verbindt bedreiging met vertrouwen en vrijwillige dankbaarheid."
+      }
+    },
+    {
+      "book": "psalmen",
+      "chapter": 55,
+      "verse": 2,
+      "file": "55-vluchtverlangen-en-verraad.svg",
+      "scene": "Vluchtverlangen en verraad",
+      "alt": "De verbinding van bedreigende stad, persoonlijke breuk en volhardend gebed.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1127,
+      "source": "Psalm 55:2–24",
+      "design": {
+        "rows": [
+          [
+            "Angst · 2–9",
+            "Druk en doodsangst leiden tot de wens om als een duif weg te vliegen."
+          ],
+          [
+            "Stad en vriend · 10–16",
+            "Geweld, bedrog en het pijnlijke verraad van een vroegere vertrouweling."
+          ],
+          [
+            "Gebed · 17–20",
+            "Avond, morgen en middag roepen en gehoord worden."
+          ],
+          [
+            "Gebroken afspraak · 21–24",
+            "Zachte woorden verbergen strijd; de zorg wordt aan de HEERE toevertrouwd."
+          ]
+        ],
+        "note": "De verrader wordt als voormalige vertrouweling beschreven maar hier niet bij naam genoemd. Het duivenbeeld verwoordt een wens naar rust, geen werkelijk wegvliegen van een mens."
+      }
+    },
+    {
+      "book": "psalmen",
+      "chapter": 56,
+      "verse": 1,
+      "file": "56-angst-tranen-en-vertrouwen.svg",
+      "scene": "Angst, tranen en vertrouwen",
+      "alt": "Historische situering, dreiging en het tweemaal terugkerende vertrouwen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1091,
+      "source": "Psalm 56:1–14",
+      "design": {
+        "rows": [
+          [
+            "Opschrift · 1",
+            "De Filistijnen hebben David in Gat gegrepen."
+          ],
+          [
+            "De belagers · 2–8",
+            "Druk, verdraaide woorden en het bespieden van stappen."
+          ],
+          [
+            "Gezien verdriet · 9–10",
+            "Omzwervingen tellen, tranenkruik, boek en de belijdenis: God is met mij."
+          ],
+          [
+            "Terugkerend vertrouwen · 4–5, 11–14",
+            "Op God vertrouwen, Zijn woord prijzen en de beloften nakomen."
+          ]
+        ],
+        "note": "Angst en vertrouwen worden herhaald naast elkaar uitgesproken. De kruik en het boek verbeelden verdriet dat niet wordt vergeten."
+      }
+    },
+    {
+      "book": "psalmen",
+      "chapter": 57,
+      "verse": 1,
+      "file": "57-grot-hart-en-dageraad.svg",
+      "scene": "Grot, hart en dageraad",
+      "alt": "Verhaalsituatie, poëtische beelden en het omlijstende refrein.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1127,
+      "source": "Psalm 57:1–12",
+      "design": {
+        "rows": [
+          [
+            "Opschrift · 1",
+            "David vlucht voor Saul in de grot."
+          ],
+          [
+            "Schuilen en dreiging · 2–5",
+            "Vleugelschaduw tegenover leeuwen, vuur en scherpe wapentaal."
+          ],
+          [
+            "Refrein · 6 en 12",
+            "Verhef U boven de hemel; laat Uw eer over de aarde gaan."
+          ],
+          [
+            "Omkering en lof · 7–11",
+            "De eigen kuil van de belagers; een gereed hart, luit en harp en de dageraad wekken."
+          ]
+        ],
+        "note": "De grot is de genoemde schuilplaats; de vleugels zijn een beschermingsbeeld. De lof krijgt door het herhaalde refrein een horizon van hemel en aarde."
+      }
+    },
+    {
+      "book": "psalmen",
+      "chapter": 58,
+      "verse": 2,
+      "file": "58-machthebbers-en-recht.svg",
+      "scene": "Machthebbers en recht",
+      "alt": "De argumentlijn van de aanklacht en de functie van de heftige beeldspraak.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1170,
+      "source": "Psalm 58:2–12",
+      "design": {
+        "rows": [
+          [
+            "De vraag · 2–3",
+            "Spreken machthebbers recht? De klacht noemt juist gepland geweld."
+          ],
+          [
+            "Onbereikbaarheid · 4–6",
+            "Leugen en het beeld van een dove, giftige slang."
+          ],
+          [
+            "Vergeldingsbede · 7–10",
+            "Leeuwentanden, wegvloeiend water, slak, vroeg afgebroken leven en een weggevaagde doornstruik."
+          ],
+          [
+            "Slot · 11–12",
+            "Vreugde om vergelding en de erkenning dat God recht doet op aarde."
+          ]
+        ],
+        "note": "De harde vergeldingsbeelden staan in een klacht tegen onrecht. De drie illustraties tonen het rechtsthema, de slang en het water; de leeswijzer benoemt de overige beeldgroepen."
+      }
+    },
+    {
+      "book": "psalmen",
+      "chapter": 59,
+      "verse": 1,
+      "file": "59-avond-en-morgen.svg",
+      "scene": "Avond en morgen",
+      "alt": "De historische aanleiding en het contrast tussen avondlijke dreiging en morgenlijke lof.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1084,
+      "source": "Psalm 59:1–18",
+      "design": {
+        "rows": [
+          [
+            "Opschrift · 1",
+            "Saul laat Davids huis bewaken om hem te doden."
+          ],
+          [
+            "Hulpgeroep · 2–6",
+            "Red mij, zie de belagers en doe recht."
+          ],
+          [
+            "Avond · 7–16",
+            "Terugkerende honden, zwaardachtige woorden, trots en hun eigen leugens."
+          ],
+          [
+            "Morgen · 17–18",
+            "De bidder zingt over trouw, kracht en God als zijn burcht."
+          ]
+        ],
+        "note": "Het hondenbeeld keert in de avond terug. Daartegenover staat de morgenlijke lof; zo krijgt de psalm een hoorbaar en zichtbaar tijdscontrast."
+      }
+    },
+    {
+      "book": "psalmen",
+      "chapter": 60,
+      "verse": 2,
+      "file": "60-nood-toezegging-en-hulp.svg",
+      "scene": "Nood, toezegging en hulp",
+      "alt": "De samenhang van opschrift, klacht, godsspraak en slotgebed.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1134,
+      "source": "Psalm 60:2–14",
+      "design": {
+        "rows": [
+          [
+            "Opschrift · 2",
+            "Strijd met Arameeërs; Joab verslaat twaalfduizend Edomieten in het Zoutdal."
+          ],
+          [
+            "Gezamenlijke nood · 3–7",
+            "Scheuren, wankelen en de gegeven vlag; vraag om antwoord."
+          ],
+          [
+            "Godsspraak · 8–10",
+            "Plaatsen en volkeren worden genoemd in taal van beschikking en macht."
+          ],
+          [
+            "Gebed · 11–14",
+            "Wie leidt naar de vesting? Menselijke redding is ontoereikend; de hoop ligt bij God."
+          ]
+        ],
+        "note": "De aantallen en namen volgen het plaatselijke opschrift. De plaatsbeelden in de godsspraak verwoorden macht en beschikking."
+      }
+    },
+    {
+      "book": "psalmen",
+      "chapter": 60,
+      "verse": 8,
+      "file": "60-namen-en-hun-beeldtaal.svg",
+      "scene": "Namen en hun beeldtaal",
+      "alt": "Exacte plaatsnaam-beeldrelaties in de plaatselijke tekst.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1445,
+      "source": "Psalm 60:8–10",
+      "design": {
+        "rows": [
+          [
+            "Sichem en Sukkot · 8",
+            "Sichem verdelen; het dal van Sukkot opmeten."
+          ],
+          [
+            "Gilead en Manasse · 9",
+            "Beide worden mijn genoemd."
+          ],
+          [
+            "Efraïm · 9",
+            "De helm op het hoofd."
+          ],
+          [
+            "Juda · 9",
+            "De scepter."
+          ],
+          [
+            "Moab · 10",
+            "De waskom."
+          ],
+          [
+            "Edom · 10",
+            "Daarop wordt de sandaal geworpen."
+          ],
+          [
+            "Filistea · 10",
+            "Daarover klinkt gejuich."
+          ]
+        ],
+        "note": "Dit is een overzicht van de namen en de hun gegeven beelden. De relaties komen uit deze drie verzen; de tekening geeft geen extra landsgrenzen of reisroute."
+      }
+    },
+    {
+      "book": "psalmen",
+      "chapter": 62,
+      "verse": 2,
+      "file": "62-stilte-en-ware-zekerheid.svg",
+      "scene": "Stilte en ware zekerheid",
+      "alt": "Het herhaalde alleen en de tegenstelling met aanzien, bedrog en groeiend bezit.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1362,
+      "source": "Psalm 62:2–13",
+      "design": {
+        "rows": [
+          [
+            "Eerste belijdenis · 2–3",
+            "Alleen bij God stil; rots, redding en burcht."
+          ],
+          [
+            "Tegenstem · 4–5",
+            "Overhellende muur, leugen en zegenwoorden met verborgen vloek."
+          ],
+          [
+            "Opnieuw · 6–9",
+            "Stil zijn, wachten en het hart voor God uitstorten."
+          ],
+          [
+            "Gewicht · 10–11",
+            "Menselijke aanzien en bezit bieden geen vaste zekerheid."
+          ],
+          [
+            "Slot · 12–13",
+            "Kracht en trouw worden aan God toegeschreven, naast vergelding naar daden."
+          ]
+        ],
+        "note": "De belijdenis wordt hernomen en vervolgens tot het volk gericht. De weegschaal en de muur verbeelden de kwetsbaarheid van schijnzekerheden."
+      }
+    }
+  ]
+}
