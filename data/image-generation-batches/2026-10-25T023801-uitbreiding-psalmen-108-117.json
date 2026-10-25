@@ -1,0 +1,284 @@
+{
+  "date": "2026-10-25",
+  "started": "2026-10-25T02:38:01Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "psalmen",
+      "chapter": 112,
+      "verse": 7,
+      "scene": "Motief van vertrouwen: een slecht bericht",
+      "alt": "Motief van vertrouwen: een slecht bericht — Psalm 112:7; poëtische illustratie.",
+      "kind": "poetic",
+      "file": "112-7-slecht-bericht-verdieping.webp",
+      "prompt": "Photorealistic Bible poetic illustration, landscape 3:2. Ancient Near Eastern natural materials, modest covering clothing, correct anatomy. No visible deity, modern objects, readable writing, injury or gore. An adult ancient man in a covering robe listens calmly and seriously to an arriving adult messenger in a stone doorway, open hands resting naturally, a plain rolled scroll in the messenger’s hand without visible writing. Calm trust, no smiles celebrating bad news, no identifiable historical king or invented war.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "psalmen",
+      "chapter": 113,
+      "verse": 8,
+      "scene": "Beeldspraak: de arme zit bij de vorsten",
+      "alt": "Beeldspraak: de arme zit bij de vorsten — Psalm 113:8; poëtische illustratie.",
+      "kind": "poetic",
+      "file": "113-8-bij-vorsten-verdieping.webp",
+      "prompt": "Photorealistic Bible poetic illustration, landscape 3:2. Ancient Near Eastern natural materials, modest covering clothing, correct anatomy. No visible deity, modern objects, readable writing, injury or gore. A dignified adult in plain worn but fully covering clothing is welcomed to a low stone bench among three well-dressed ancient adult community leaders in a courtyard. Natural faces and two arms each. Respectful inclusion, no caricature, begging, violence, golden throne or deity. Illustrate changed social place rather than another person helping someone stand.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "psalmen",
+      "chapter": 114,
+      "verse": 4,
+      "scene": "Vergelijking: bergen springen als rammen",
+      "alt": "Vergelijking: bergen springen als rammen — Psalm 114:4; poëtische illustratie.",
+      "kind": "poetic",
+      "file": "114-4-rammen-verdieping.webp",
+      "prompt": "Photorealistic Bible poetic illustration, landscape 3:2. Ancient Near Eastern natural materials, modest covering clothing, correct anatomy. No visible deity, modern objects, readable writing, injury or gore. Two natural rams leap lightly between safe low rocky ledges on a hillside with larger mountains behind them. Four coherent legs each, realistic curved horns, no floating mountains or human faces in rock. This visual illustrates the animal half of a poetic comparison, not a historical earthquake report.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "psalmen",
+      "chapter": 116,
+      "verse": 16,
+      "scene": "Beeldspraak: losgemaakte boeien",
+      "alt": "Beeldspraak: losgemaakte boeien — Psalm 116:16; poëtische illustratie.",
+      "kind": "poetic",
+      "file": "116-16-losgemaakte-boeien-verdieping.webp",
+      "prompt": "Photorealistic Bible poetic illustration, landscape 3:2. Ancient Near Eastern natural materials, modest covering clothing, correct anatomy. No visible deity, modern objects, readable writing, injury or gore. A pair of opened ancient iron wrist fetters and a loose short chain rest unused on a stone floor near a sunlit doorway. No hands inside, person, violence, blood, modern handcuff mechanism or readable symbols. Quiet still life for liberation and grateful belonging.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "psalmen",
+      "chapter": 108,
+      "verse": 8,
+      "file": "108-namen-en-beeldspraak.svg",
+      "scene": "Namen en beeldspraak",
+      "alt": "De geografische namen en de eraan gekoppelde vergelijkingen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 892,
+      "source": "Psalm 108:8–10",
+      "design": {
+        "rows": [
+          [
+            "Verdelen en meten · 8",
+            "Sichem en het dal van Sukkot."
+          ],
+          [
+            "Van Mij · 9",
+            "Gilead en Manasse; Efraïm als helm, Juda als scepter."
+          ],
+          [
+            "Beelden · 10",
+            "Moab als waskom; een sandaal op Edom; juichen over Filistea."
+          ]
+        ],
+        "note": "De namen staan in de volgorde van de godsspraak. Helm, scepter, waskom en sandaal zijn machtsbeelden; dit is geen kaart met vastgestelde grenzen."
+      }
+    },
+    {
+      "book": "psalmen",
+      "chapter": 109,
+      "verse": 1,
+      "file": "109-aanklacht-vloek-en-hulp.svg",
+      "scene": "Aanklacht, vloek en hulp",
+      "alt": "De onderdelen van de klacht en het verschil tussen uitgesproken wens en vertelde gebeurtenis.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1091,
+      "source": "Psalm 109:1–31",
+      "design": {
+        "rows": [
+          [
+            "Beschuldiging · 1–5",
+            "Valse woorden en haat tegenover liefde; toch bidden."
+          ],
+          [
+            "Vloekwoorden · 6–20",
+            "Oordeel, ambt, gezin, schuld en een vloek als kleed."
+          ],
+          [
+            "Maar U · 21–29",
+            "De arme en gekwetste bidder vraagt redding en zegen."
+          ],
+          [
+            "Lof · 30–31",
+            "God staat aan de rechterhand van de arme tegenover wie hem veroordelen."
+          ]
+        ],
+        "note": "De heftige wensen staan als woorden in de klacht. De leeswijzer presenteert ze niet als gebeurtenissen die al zijn uitgevoerd."
+      }
+    },
+    {
+      "book": "psalmen",
+      "chapter": 110,
+      "verse": 1,
+      "file": "110-koningswoord-en-priestereed.svg",
+      "scene": "Koningswoord en priestereed",
+      "alt": "Koninklijke en priesterlijke uitspraken in de korte psalm.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1134,
+      "source": "Psalm 110:1–7",
+      "design": {
+        "rows": [
+          [
+            "Vers 1",
+            "De HEERE spreekt tot mijn Heere: zitten aan Mijn rechterhand."
+          ],
+          [
+            "Vers 2–3",
+            "Scepter uit Sion, heerschappij en een gewillig volk."
+          ],
+          [
+            "Vers 4",
+            "De gezworen uitspraak over blijvend priesterschap naar de orde van Melchizedek."
+          ],
+          [
+            "Vers 5–7",
+            "Oordeel onder volken en het slotbeeld van drinken uit de beek."
+          ]
+        ],
+        "note": "De aanduidingen volgen de woorden van de psalm. Het schema bewaart het onderscheid tussen de sprekende HEERE en de aangesproken mijn Heere."
+      }
+    },
+    {
+      "book": "psalmen",
+      "chapter": 111,
+      "verse": 2,
+      "file": "111-werken-verbond-wijsheid.svg",
+      "scene": "Werken, verbond, wijsheid",
+      "alt": "Het verband tussen grote werken, trouw en het slot over wijsheid.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1127,
+      "source": "Psalm 111:2–10",
+      "design": {
+        "rows": [
+          [
+            "Werken · 2–4",
+            "Groot, onderzocht, rechtvaardig, genadig en barmhartig."
+          ],
+          [
+            "Verbond · 5–6",
+            "Voedsel, herinnerd verbond en gegeven land."
+          ],
+          [
+            "Betrouwbaarheid · 7–9",
+            "Waarheid, recht, vaste bevelen en verlossing."
+          ],
+          [
+            "Wijsheid · 10",
+            "Ontzag als begin; inzicht bij wie ernaar leeft."
+          ]
+        ],
+        "note": "Onderzoeken en leven naar de bevelen horen bij elkaar. Het overzicht verbindt het landschapsbeeld met verbond, verlossing en wijsheid."
+      }
+    },
+    {
+      "book": "psalmen",
+      "chapter": 114,
+      "verse": 1,
+      "file": "114-vragen-aan-de-schepping.svg",
+      "scene": "Vragen aan de schepping",
+      "alt": "Personificatie, herhaling en de antwoordbeweging in de uittochtpsalm.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1091,
+      "source": "Psalm 114:1–8",
+      "design": {
+        "rows": [
+          [
+            "Uittocht · 1–2",
+            "Israël uit Egypte; Juda en Israël als heiligdom en gebied."
+          ],
+          [
+            "Reactie · 3–4",
+            "Zee en Jordaan; bergen als rammen en heuvels als lammeren."
+          ],
+          [
+            "Vragen · 5–6",
+            "Dezelfde wateren en bergen worden rechtstreeks aangesproken."
+          ],
+          [
+            "Antwoord · 7–8",
+            "Beef voor de God van Jakob, die rots tot waterbron maakt."
+          ]
+        ],
+        "note": "Het hernemen van de beelden maakt de vraag-en-antwoordbeweging zichtbaar. Springende bergen zijn een vergelijking met dieren."
+      }
+    },
+    {
+      "book": "psalmen",
+      "chapter": 115,
+      "verse": 4,
+      "file": "115-gemaakt-en-vertrouwen.svg",
+      "scene": "Gemaakt en vertrouwen",
+      "alt": "De exacte zintuigen en lichaamsdelen en de drie aangesproken groepen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1127,
+      "source": "Psalm 115:4–18",
+      "design": {
+        "rows": [
+          [
+            "Mensenwerk · 4–8",
+            "Mond, ogen, oren, neus, handen, voeten en keel zonder vermogen."
+          ],
+          [
+            "Drie oproepen · 9–11",
+            "Israël, huis van Aäron en wie ontzag hebben: vertrouw; hulp en schild."
+          ],
+          [
+            "Zegen · 12–15",
+            "Dezelfde groepen, klein en groot, met hun kinderen."
+          ],
+          [
+            "Ons antwoord · 16–18",
+            "Hemel en aarde, de stilte van de doden en de lof van het wij."
+          ]
+        ],
+        "note": "De opsomming over de afgoden contrasteert gemaakte vormen met werkelijk vermogen. De herhaling verbindt vertrouwen met ontvangen zegen."
+      }
+    },
+    {
+      "book": "psalmen",
+      "chapter": 116,
+      "verse": 1,
+      "file": "116-roepen-rust-en-dank.svg",
+      "scene": "Roepen, rust en dank",
+      "alt": "De gang van persoonlijk roepen naar openbare dank.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1091,
+      "source": "Psalm 116:1–19",
+      "design": {
+        "rows": [
+          [
+            "Hij hoort · 1–6",
+            "Liefde, benauwdheid, roepen en ontvangen redding."
+          ],
+          [
+            "Mijn ziel · 7–11",
+            "Terug naar rust; leven, ogen en voeten bewaard."
+          ],
+          [
+            "Wat teruggeven · 12–16",
+            "Beker, naam, geloften en losgemaakte boeien."
+          ],
+          [
+            "Voor heel het volk · 17–19",
+            "Dankoffer en geloften in de voorhoven, in Jeruzalem."
+          ]
+        ],
+        "note": "De lof krijgt een gezamenlijke plaats in het bijzijn van het volk. Losgemaakte boeien zijn verbonden met het spreken als dienaar."
+      }
+    }
+  ]
+}

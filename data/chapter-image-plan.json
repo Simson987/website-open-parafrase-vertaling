@@ -15076,6 +15076,168 @@
       "target_images": 3,
       "reason": "Vreugdedienst, kudde en dank bij de poort dekken het korte lied. Drie volstaan zonder herhaalde zangscène.",
       "additions": []
+    },
+    {
+      "book": "psalmen",
+      "chapter": 112,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "Geboden, eerlijk uitlenen en armenzorg zijn aanwezig. Het kalme ontvangen van een slecht bericht voegt het afzonderlijke vertrouwensmotief toe.",
+      "additions": [
+        {
+          "verse": 7,
+          "scene": "Motief van vertrouwen: een slecht bericht",
+          "kind": "poetic",
+          "file": "112-7-slecht-bericht-verdieping.webp"
+        }
+      ]
+    },
+    {
+      "book": "psalmen",
+      "chapter": 113,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "Zon, hulp aan de arme en moedervreugde zijn aanwezig. Plaatsnemen bij vorsten is de eigen vervolgstap van het oprichtingsbeeld en krijgt een aparte sociale scène.",
+      "additions": [
+        {
+          "verse": 8,
+          "scene": "Beeldspraak: de arme zit bij de vorsten",
+          "kind": "poetic",
+          "file": "113-8-bij-vorsten-verdieping.webp"
+        }
+      ]
+    },
+    {
+      "book": "psalmen",
+      "chapter": 114,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Uittocht, Jordaan en rotswater zijn aanwezig. Rammen geven de expliciete vergelijking een herkenbaar beeld; een schema verduidelijkt vragen en herhaling.",
+      "additions": [
+        {
+          "verse": 4,
+          "scene": "Vergelijking: bergen springen als rammen",
+          "kind": "poetic",
+          "file": "114-4-rammen-verdieping.webp"
+        },
+        {
+          "verse": 1,
+          "file": "114-vragen-aan-de-schepping.svg",
+          "scene": "Vragen aan de schepping",
+          "kind": "diagram",
+          "source": "Psalm 114:1–8"
+        }
+      ]
+    },
+    {
+      "book": "psalmen",
+      "chapter": 116,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Rust, beker en gezamenlijke dank zijn aanwezig. Losgemaakte boeien voegen een ander beeld toe; een leeswijzer verbindt ontvangen hulp met openbare dank.",
+      "additions": [
+        {
+          "verse": 16,
+          "scene": "Beeldspraak: losgemaakte boeien",
+          "kind": "poetic",
+          "file": "116-16-losgemaakte-boeien-verdieping.webp"
+        },
+        {
+          "verse": 1,
+          "file": "116-roepen-rust-en-dank.svg",
+          "scene": "Roepen, rust en dank",
+          "kind": "diagram",
+          "source": "Psalm 116:1–19"
+        }
+      ]
+    },
+    {
+      "book": "psalmen",
+      "chapter": 108,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "Dageraadsmuziek, hemel en vestingstad zijn aanwezig. Een exact namenoverzicht voegt de godsspraak en machtsbeelden toe; geen speculatieve grenskaart.",
+      "additions": [
+        {
+          "verse": 8,
+          "file": "108-namen-en-beeldspraak.svg",
+          "scene": "Namen en beeldspraak",
+          "kind": "diagram",
+          "source": "Psalm 108:8–10"
+        }
+      ]
+    },
+    {
+      "book": "psalmen",
+      "chapter": 109,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "Bidden, gekwetst zijn en gezamenlijke lof zijn aanwezig. Een schema geeft de heftige vloekwensen hun plaats als gesproken klacht, zonder die als uitgevoerde scènes af te beelden.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "109-aanklacht-vloek-en-hulp.svg",
+          "scene": "Aanklacht, vloek en hulp",
+          "kind": "diagram",
+          "source": "Psalm 109:1–31"
+        }
+      ]
+    },
+    {
+      "book": "psalmen",
+      "chapter": 110,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "Scepter, priesterlijk motief en beek zijn aanwezig. Een tekstschema bewaart de aanspreekvormen en priestereed; een zichtbaar portret van God zou onnodig speculeren.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "110-koningswoord-en-priestereed.svg",
+          "scene": "Koningswoord en priestereed",
+          "kind": "diagram",
+          "source": "Psalm 110:1–7"
+        }
+      ]
+    },
+    {
+      "book": "psalmen",
+      "chapter": 111,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "Onderzoeken, voedsel en wijsheid zijn aanwezig. Een schema maakt het verband met verbond, land en verlossing duidelijk.",
+      "additions": [
+        {
+          "verse": 2,
+          "file": "111-werken-verbond-wijsheid.svg",
+          "scene": "Werken, verbond, wijsheid",
+          "kind": "diagram",
+          "source": "Psalm 111:2–10"
+        }
+      ]
+    },
+    {
+      "book": "psalmen",
+      "chapter": 115,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "Afgoden, schild en gezinszegen zijn aanwezig. Een schema werkt de lichaamsopsomming en de drie herhaalde oproepen exact uit.",
+      "additions": [
+        {
+          "verse": 4,
+          "file": "115-gemaakt-en-vertrouwen.svg",
+          "scene": "Gemaakt en vertrouwen",
+          "kind": "diagram",
+          "source": "Psalm 115:4–18"
+        }
+      ]
+    },
+    {
+      "book": "psalmen",
+      "chapter": 117,
+      "status": "reviewed",
+      "target_images": 3,
+      "reason": "Twee groepsbeelden en een symbolisch trouwbeeld zijn aanwezig voor slechts twee verzen. Drie zijn ruim voldoende; er is geen ontbrekende gebeurtenis die een vierde beeld rechtvaardigt.",
+      "additions": []
     }
   ]
 }
