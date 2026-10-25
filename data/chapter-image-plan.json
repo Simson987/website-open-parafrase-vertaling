@@ -15826,6 +15826,221 @@
       "target_images": 3,
       "reason": "Overdracht tussen generaties, oprichten en voedsel dekken lof, ontvangen steun en zorg. Drie volstaan; een zichtbaar goddelijk koningsportret is niet nodig.",
       "additions": []
+    },
+    {
+      "book": "spreuken",
+      "chapter": 1,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Ouderraad en de roepende Wijsheid zijn aanwezig. Niet meegaan om oneerlijke winst ontbreekt als eigen handeling; een leeswijzer verduidelijkt doelen, keuze en personificatie.",
+      "additions": [
+        {
+          "verse": 15,
+          "scene": "Onderwijsscène: niet meegaan om buit",
+          "kind": "poetic",
+          "file": "1-15-niet-meegaan-verdieping.webp"
+        },
+        {
+          "verse": 1,
+          "file": "1-leren-kiezen-en-luisteren.svg",
+          "scene": "Leren, kiezen en luisteren",
+          "kind": "diagram",
+          "source": "Spreuken 1:1–33"
+        }
+      ]
+    },
+    {
+      "book": "spreuken",
+      "chapter": 3,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Naastenhulp en eerstelingen zijn aanwezig. Levensboom en veilige slaap voegen andere vergelijkingen toe. Een schema brengt vertrouwen, correctie en de naaste samen.",
+      "additions": [
+        {
+          "verse": 18,
+          "scene": "Vergelijking: wijsheid als levensboom",
+          "kind": "poetic",
+          "file": "3-18-levensboom-verdieping.webp"
+        },
+        {
+          "verse": 24,
+          "scene": "Motief: gerust gaan slapen",
+          "kind": "poetic",
+          "file": "3-24-zoete-slaap-verdieping.webp"
+        },
+        {
+          "verse": 1,
+          "file": "3-vertrouwen-wijsheid-en-naaste.svg",
+          "scene": "Vertrouwen, wijsheid en naaste",
+          "kind": "diagram",
+          "source": "Spreuken 3:1–35"
+        }
+      ]
+    },
+    {
+      "book": "spreuken",
+      "chapter": 5,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Eigen bron, huwelijk en verkeerde deur zijn aanwezig. De hinde is een eigen expliciete vergelijking; een schema houdt verleiding en liefde bij hun trouwverband.",
+      "additions": [
+        {
+          "verse": 19,
+          "scene": "Vergelijking: een lieflijke hinde",
+          "kind": "poetic",
+          "file": "5-19-hinde-verdieping.webp"
+        },
+        {
+          "verse": 3,
+          "file": "5-verleiding-en-trouw.svg",
+          "scene": "Verleiding en trouw",
+          "kind": "diagram",
+          "source": "Spreuken 5:3–23"
+        }
+      ]
+    },
+    {
+      "book": "spreuken",
+      "chapter": 6,
+      "status": "reviewed",
+      "target_images": 7,
+      "reason": "Mier, ouders en lamp zijn aanwezig. Borgstelling en vuur zijn onderscheiden onderwerpen. Twee schema’s verklaren de vier waarschuwingen en de exact getelde lijst van zeven.",
+      "additions": [
+        {
+          "verse": 3,
+          "scene": "Onderwijsscène: dringend om vrijmaking vragen",
+          "kind": "poetic",
+          "file": "6-3-borgstelling-verdieping.webp"
+        },
+        {
+          "verse": 27,
+          "scene": "Vergelijking: vuur en kleding",
+          "kind": "poetic",
+          "file": "6-27-vuur-en-kleren-verdieping.webp"
+        },
+        {
+          "verse": 1,
+          "file": "6-vier-waarschuwingen.svg",
+          "scene": "Vier waarschuwingen",
+          "kind": "diagram",
+          "source": "Spreuken 6:1–35"
+        },
+        {
+          "verse": 16,
+          "file": "6-zeven-verfoeide-dingen.svg",
+          "scene": "Zeven verfoeide dingen",
+          "kind": "diagram",
+          "source": "Spreuken 6:16–19"
+        }
+      ]
+    },
+    {
+      "book": "spreuken",
+      "chapter": 10,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Arbeid, oogst en verzoening zijn aanwezig. Een levensbron en bedachtzaam luisteren voegen twee woordmotieven toe; een schema helpt de losse spreuken thematisch lezen.",
+      "additions": [
+        {
+          "verse": 11,
+          "scene": "Vergelijking: de mond als bron van leven",
+          "kind": "poetic",
+          "file": "10-11-levensbron-verdieping.webp"
+        },
+        {
+          "verse": 19,
+          "scene": "Onderwijsscène: woorden in bedwang houden",
+          "kind": "poetic",
+          "file": "10-19-weinig-woorden-verdieping.webp"
+        },
+        {
+          "verse": 1,
+          "file": "10-terugkerende-tegenstellingen.svg",
+          "scene": "Terugkerende tegenstellingen",
+          "kind": "diagram",
+          "source": "Spreuken 10:1–32"
+        }
+      ]
+    },
+    {
+      "book": "spreuken",
+      "chapter": 2,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "Studie, schat en goede weg zijn aanwezig. Een schema maakt de als-danopbouw en beide concrete gevaren zichtbaar; geen herhaling van een goudzoeker.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "2-als-dan-en-bewaring.svg",
+          "scene": "Als, dan en bewaring",
+          "kind": "diagram",
+          "source": "Spreuken 2:1–22"
+        }
+      ]
+    },
+    {
+      "book": "spreuken",
+      "chapter": 4,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "Vaderonderwijs, lichtend pad en voet zijn aanwezig. Het lichaamsdelenschema maakt ook oor, hart, mond en ogen exact leesbaar.",
+      "additions": [
+        {
+          "verse": 20,
+          "file": "4-oor-hart-mond-ogen-voet.svg",
+          "scene": "Oor, hart, mond, ogen, voet",
+          "kind": "diagram",
+          "source": "Spreuken 4:20–27"
+        }
+      ]
+    },
+    {
+      "book": "spreuken",
+      "chapter": 7,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "Raam, luisteren en verkeerde weg zijn aanwezig. Een leeswijzer beschrijft het voorbeeld, de overreding en de diervergelijkingen zonder seksuele scène toe te voegen.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "7-onderricht-voorbeeld-waarschuwing.svg",
+          "scene": "Voorbeeld en waarschuwing",
+          "kind": "diagram",
+          "source": "Spreuken 7:1–27"
+        }
+      ]
+    },
+    {
+      "book": "spreuken",
+      "chapter": 8,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "Poort, robijnen en zeegrens zijn aanwezig. Het schema laat personificatie, recht en de rede over het begin samen zien; geen verzonnen portret van Wijsheid bij de schepping.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "8-de-sprekende-wijsheid.svg",
+          "scene": "De sprekende Wijsheid",
+          "kind": "diagram",
+          "source": "Spreuken 8:1–36"
+        }
+      ]
+    },
+    {
+      "book": "spreuken",
+      "chapter": 9,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "Zeven zuilen, tafel en leren zijn aanwezig. Een vergelijkend schema geeft de tweede uitnodiging en de verschillende afloop hun eigen plaats.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "9-twee-uitnodigingen.svg",
+          "scene": "Twee uitnodigingen",
+          "kind": "diagram",
+          "source": "Spreuken 9:1–18"
+        }
+      ]
     }
   ]
 }
