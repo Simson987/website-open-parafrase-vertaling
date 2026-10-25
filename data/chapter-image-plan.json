@@ -27188,6 +27188,246 @@
           "source": "Lukas 24:1–53"
         }
       ]
+    },
+    {
+      "book": "johannes",
+      "chapter": 1,
+      "status": "reviewed",
+      "target_images": 8,
+      "reason": "Johannes, eerste twee en Nathanaël bestaan. Gezanten, Simon en Filippus voegen andere ontmoetingen toe; uitnodigingsschema en overzicht bewaren opening en getuigenis.",
+      "additions": [
+        {
+          "verse": 19,
+          "file": "1-19-priesters-vragen-verdieping.webp",
+          "scene": "Priesters en Levieten vragen Johannes wie hij is",
+          "kind": "scene"
+        },
+        {
+          "verse": 43,
+          "file": "1-43-andreas-simon-verdieping.webp",
+          "scene": "Andreas brengt Simon bij Jezus",
+          "kind": "scene"
+        },
+        {
+          "verse": 44,
+          "file": "1-44-filippus-volg-verdieping.webp",
+          "scene": "Jezus roept Filippus",
+          "kind": "scene"
+        },
+        {
+          "verse": 1,
+          "file": "1-leeswijzer.svg",
+          "scene": "Het Woord, getuigenis en volgen",
+          "kind": "diagram",
+          "source": "Johannes 1:1–52"
+        },
+        {
+          "verse": 35,
+          "file": "1-wie-brengt-wie.svg",
+          "scene": "Wie brengt wie bij Jezus?",
+          "kind": "diagram",
+          "source": "Johannes 1:35–50"
+        }
+      ]
+    },
+    {
+      "book": "johannes",
+      "chapter": 2,
+      "status": "reviewed",
+      "target_images": 7,
+      "reason": "Vaten, reiniging en tempelwoord bestaan. Maria’s melding en proeven vullen bruiloftstappen aan; aantallen/tekens en overzicht verbinden beide locaties.",
+      "additions": [
+        {
+          "verse": 3,
+          "file": "2-3-maria-vraagt-verdieping.webp",
+          "scene": "Maria vertelt Jezus dat de wijn op is",
+          "kind": "scene"
+        },
+        {
+          "verse": 9,
+          "file": "2-9-feestleider-proeft-verdieping.webp",
+          "scene": "De leider van het feest proeft de wijn",
+          "kind": "scene"
+        },
+        {
+          "verse": 1,
+          "file": "2-leeswijzer.svg",
+          "scene": "Kana en de tempel",
+          "kind": "diagram",
+          "source": "Johannes 2:1–25"
+        },
+        {
+          "verse": 6,
+          "file": "2-vaten-en-teken.svg",
+          "scene": "Zes vaten en het teken",
+          "kind": "diagram",
+          "source": "Johannes 2:6–11 en 19–22"
+        }
+      ]
+    },
+    {
+      "book": "johannes",
+      "chapter": 3,
+      "status": "reviewed",
+      "target_images": 7,
+      "reason": "Nicodemus, wind en slang bestaan. Enon en bruidegomvriend vullen tweede helft aan; beeldenschema en overzicht onderscheiden vergelijkingen en geloofsoproep.",
+      "additions": [
+        {
+          "verse": 23,
+          "file": "3-23-enon-water-verdieping.webp",
+          "scene": "Johannes doopt in Enon",
+          "kind": "scene"
+        },
+        {
+          "verse": 29,
+          "file": "3-29-vriend-bruidegom-verdieping.webp",
+          "scene": "Vergelijking: de vriend van de bruidegom",
+          "kind": "poetic"
+        },
+        {
+          "verse": 1,
+          "file": "3-leeswijzer.svg",
+          "scene": "Nieuw leven en Johannes’ vreugde",
+          "kind": "diagram",
+          "source": "Johannes 3:1–36"
+        },
+        {
+          "verse": 3,
+          "file": "3-beelden-en-betekenis.svg",
+          "scene": "De beelden in het gesprek",
+          "kind": "diagram",
+          "source": "Johannes 3:3–21"
+        }
+      ]
+    },
+    {
+      "book": "johannes",
+      "chapter": 4,
+      "status": "reviewed",
+      "target_images": 9,
+      "reason": "Bron, levend water en velden bestaan. Kruik achterlaten, uitnodiging, ambtenaar en bericht voegen vier momenten toe; uurverloop en overzicht bewaren genezing op afstand.",
+      "additions": [
+        {
+          "verse": 28,
+          "file": "4-28-kruik-achtergelaten-verdieping.webp",
+          "scene": "De vrouw laat haar kruik achter",
+          "kind": "scene"
+        },
+        {
+          "verse": 40,
+          "file": "4-40-samaritanen-nodigen-verdieping.webp",
+          "scene": "De Samaritanen vragen Jezus te blijven",
+          "kind": "scene"
+        },
+        {
+          "verse": 49,
+          "file": "4-49-ambtenaar-vraagt-verdieping.webp",
+          "scene": "De ambtenaar vraagt om zijn zoon",
+          "kind": "scene"
+        },
+        {
+          "verse": 51,
+          "file": "4-51-dienaren-bericht-verdieping.webp",
+          "scene": "Dienaren melden dat het kind leeft",
+          "kind": "scene"
+        },
+        {
+          "verse": 1,
+          "file": "4-leeswijzer.svg",
+          "scene": "Levend water en het levende kind",
+          "kind": "diagram",
+          "source": "Johannes 4:1–54"
+        },
+        {
+          "verse": 46,
+          "file": "4-zoon-en-uur.svg",
+          "scene": "Woord, bericht en hetzelfde uur",
+          "kind": "diagram",
+          "source": "Johannes 4:46–54"
+        }
+      ]
+    },
+    {
+      "book": "johannes",
+      "chapter": 5,
+      "status": "reviewed",
+      "target_images": 7,
+      "reason": "Opdracht, sabbatdiscussie en Schriften bestaan. Mat dragen en latere tempelontmoeting voegen fasen toe. Getuigenissen en overzicht structureren lang onderwijs zonder Godsportret.",
+      "additions": [
+        {
+          "verse": 9,
+          "file": "5-9-mat-dragen-verdieping.webp",
+          "scene": "De man draagt zijn slaapmat",
+          "kind": "scene"
+        },
+        {
+          "verse": 14,
+          "file": "5-14-tempel-ontmoeting-verdieping.webp",
+          "scene": "Jezus vindt de man in de tempel",
+          "kind": "scene"
+        },
+        {
+          "verse": 1,
+          "file": "5-leeswijzer.svg",
+          "scene": "Genezing, leven en getuigen",
+          "kind": "diagram",
+          "source": "Johannes 5:1–47"
+        },
+        {
+          "verse": 31,
+          "file": "5-vier-getuigenissen.svg",
+          "scene": "De genoemde getuigenissen",
+          "kind": "diagram",
+          "source": "Johannes 5:31–47"
+        }
+      ]
+    },
+    {
+      "book": "johannes",
+      "chapter": 6,
+      "status": "reviewed",
+      "target_images": 9,
+      "reason": "Uitdelen, waterlopen en broodonderwijs bestaan. Jongen, terugtrekken, vertrekkers en Petrus voegen andere momenten toe; aantallen en overzicht verbinden tekenen, uitleg en reactie.",
+      "additions": [
+        {
+          "verse": 9,
+          "file": "6-9-jongen-gerstebroden-verdieping.webp",
+          "scene": "Een jongen heeft vijf gerstebroden en twee visjes",
+          "kind": "scene"
+        },
+        {
+          "verse": 15,
+          "file": "6-15-alleen-berg-verdieping.webp",
+          "scene": "Jezus trekt zich alleen terug op de berg",
+          "kind": "scene"
+        },
+        {
+          "verse": 66,
+          "file": "6-66-leerlingen-vertrekken-verdieping.webp",
+          "scene": "Veel leerlingen gaan niet meer mee",
+          "kind": "scene"
+        },
+        {
+          "verse": 68,
+          "file": "6-68-petrus-antwoord-verdieping.webp",
+          "scene": "Petrus antwoordt: naar wie zouden wij gaan?",
+          "kind": "scene"
+        },
+        {
+          "verse": 1,
+          "file": "6-leeswijzer.svg",
+          "scene": "Brood, geloven en blijven",
+          "kind": "diagram",
+          "source": "Johannes 6:1–71"
+        },
+        {
+          "verse": 5,
+          "file": "6-maaltijd-en-antwoord.svg",
+          "scene": "Aantallen en antwoord",
+          "kind": "diagram",
+          "source": "Johannes 6:5–15 en 60–71"
+        }
+      ]
     }
   ]
 }
