@@ -1,0 +1,173 @@
+{
+  "date": "2026-10-25",
+  "started": "2026-10-25T01:34:20Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "psalmen",
+      "chapter": 63,
+      "verse": 6,
+      "scene": "Beeldspraak: verzadigd als aan een maaltijd",
+      "alt": "Beeldspraak: verzadigd als aan een maaltijd — Psalm 63:6; illustratie bij het gedicht.",
+      "kind": "poetic",
+      "file": "63-6-verdieping.webp",
+      "prompt": "Photorealistic poetic Bible illustration, landscape 3:2. Natural ancient Israelite setting, no readable text, watermark, modern objects or visible deity. All people fully clothed in modest woven robes, correct two arms and natural hands. A generous simple ancient Near Eastern meal of bread, olives, grapes and several plain clay bowls on a woven cloth in a sunlit stone courtyard, no people needed. A still life visualizing the psalm’s comparison of inner satisfaction to a rich meal, not a banquet actually held in the wilderness.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "psalmen",
+      "chapter": 65,
+      "verse": 5,
+      "scene": "Poëtische illustratie: dichtbij in de voorhof",
+      "alt": "Poëtische illustratie: dichtbij in de voorhof — Psalm 65:5; illustratie bij het gedicht.",
+      "kind": "poetic",
+      "file": "65-5-verdieping.webp",
+      "prompt": "Photorealistic poetic Bible illustration, landscape 3:2. Natural ancient Israelite setting, no readable text, watermark, modern objects or visible deity. All people fully clothed in modest woven robes, correct two arms and natural hands. A small diverse group of adult ancient Israelite worshippers stands peacefully within a simple stone sanctuary forecourt, humble grateful postures, soft daylight, linen curtains at the far entrance. A restrained poetic illustration of being brought near and enjoying the good of God’s house, no exact reconstruction claim, no idols, altar killing or visible deity.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "psalmen",
+      "chapter": 66,
+      "verse": 15,
+      "scene": "Poëtische illustratie: beloften nakomen",
+      "alt": "Poëtische illustratie: beloften nakomen — Psalm 66:15; illustratie bij het gedicht.",
+      "kind": "poetic",
+      "file": "66-15-verdieping.webp",
+      "prompt": "Photorealistic poetic Bible illustration, landscape 3:2. Natural ancient Israelite setting, no readable text, watermark, modern objects or visible deity. All people fully clothed in modest woven robes, correct two arms and natural hands. An adult ancient Israelite worshipper leads a healthy ram with two natural curved horns on a loose plain rope toward the outer courtyard of a modest ancient sanctuary, daylight, quiet thankful posture. The ram has exactly four normal legs. No slaughter, blood, animal distress, bound limbs or fire touching an animal. Illustrate the stated promise of offerings after answered prayer.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "psalmen",
+      "chapter": 63,
+      "verse": 1,
+      "file": "63-dorst-verzadiging-en-nacht.svg",
+      "scene": "Dorst, verzadiging en nacht",
+      "alt": "De contrasten dorst en verzadiging, dag en nacht, bedreiging en vreugde.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1177,
+      "source": "Psalm 63:1–12",
+      "design": {
+        "rows": [
+          [
+            "Situering en verlangen · 1–3",
+            "David in de woestijn van Juda; dorst naar God en herinnering aan het heiligdom."
+          ],
+          [
+            "Lof en verzadiging · 4–6",
+            "Trouw beter dan leven; handen en lippen, een rijke maaltijd als vergelijking."
+          ],
+          [
+            "Nacht en hulp · 7–9",
+            "Nadenken op bed en vreugde onder de vleugels."
+          ],
+          [
+            "Slot · 10–12",
+            "Ondergang van belagers tegenover de vreugde van de koning."
+          ]
+        ],
+        "note": "Het dorre land draagt het beeld van verlangen. De maaltijd verbeeldt innerlijke verzadiging; de nacht is tijd van herinnering en vertrouwen."
+      }
+    },
+    {
+      "book": "psalmen",
+      "chapter": 64,
+      "verse": 2,
+      "file": "64-verborgen-woorden-keren-terug.svg",
+      "scene": "Verborgen woorden keren terug",
+      "alt": "De beweging van verborgen overleg via omkering naar publieke erkenning.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1170,
+      "source": "Psalm 64:2–11",
+      "design": {
+        "rows": [
+          [
+            "Gebed · 2–3",
+            "Bewaar mij voor de dreiging en het verborgen overleg."
+          ],
+          [
+            "Hun taal · 4–7",
+            "Tong als zwaard, woord als pijl, verborgen vallen en de vraag wie het ziet."
+          ],
+          [
+            "Omkering · 8–9",
+            "De pijl en de eigen tong keren tegen hen terug."
+          ],
+          [
+            "Openlijke reactie · 10–11",
+            "Mensen vertellen Gods werk; rechtvaardigen schuilen en juichen."
+          ]
+        ],
+        "note": "Scherpe wapens verbeelden bittere taal. De omslag gaat van heimelijk beraamd kwaad naar zichtbaar geworden gevolgen en uitgesproken vreugde."
+      }
+    },
+    {
+      "book": "psalmen",
+      "chapter": 65,
+      "verse": 2,
+      "file": "65-van-sion-naar-de-oogst.svg",
+      "scene": "Van Sion naar de oogst",
+      "alt": "Drie samenhangende delen van de lofpsalm, voorbij alleen de oogstbeelden.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 935,
+      "source": "Psalm 65:2–14",
+      "design": {
+        "rows": [
+          [
+            "Nabijheid · 2–5",
+            "Gehoord gebed, verzoende schuld en welkom in de voorhoven."
+          ],
+          [
+            "Verre horizon · 6–9",
+            "Redding, bergen, zeeën, volken, morgen en avond."
+          ],
+          [
+            "Bezocht land · 10–14",
+            "Water, zachte voren, ontkieming, overvloed, kudden en koren."
+          ]
+        ],
+        "note": "De lof verbindt verzoening en nabijheid in Sion met de wereldwijde horizon en de vruchtbaarheid van het land. De oogst vormt het uitbundige slot."
+      }
+    },
+    {
+      "book": "psalmen",
+      "chapter": 66,
+      "verse": 1,
+      "file": "66-kom-kijken-kom-luisteren.svg",
+      "scene": "Kom kijken, kom luisteren",
+      "alt": "De verschuiving van alle volken naar ons en ik en de twee uitnodigingen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1170,
+      "source": "Psalm 66:1–20",
+      "design": {
+        "rows": [
+          [
+            "De hele aarde · 1–7",
+            "Lof en de oproep Gods daden te zien; herinnerde doortocht van zee en rivier."
+          ],
+          [
+            "Ons · 8–12",
+            "Leven bewaren en toetsing als zilver; net, last, vuur en water naar overvloed."
+          ],
+          [
+            "Ik · 13–15",
+            "Beloofde offers worden gebracht na de nood."
+          ],
+          [
+            "Luister · 16–20",
+            "Persoonlijk vertellen van gehoord gebed en blijvende trouw."
+          ]
+        ],
+        "note": "De psalm gaat van wereldwijd lofverlangen via gezamenlijke beproeving naar een persoonlijke getuigenis. Kijken en luisteren geven die overgang woorden."
+      }
+    }
+  ]
+}

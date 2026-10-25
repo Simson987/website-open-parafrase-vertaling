@@ -14170,6 +14170,96 @@
       "target_images": 3,
       "reason": "Hoge rots, sterke toren en dagelijkse lof dekken roepen, beschutting en beloften in de korte psalm. Geen extra generieke tentfoto nodig; het gebed voor de koning blijft onderdeel van de verzen.",
       "additions": []
+    },
+    {
+      "book": "psalmen",
+      "chapter": 63,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Dorst, gebedshanden en nacht zijn aanwezig. De rijke maaltijd is een afzonderlijke vergelijking voor verzadiging; een contrastoverzicht verbindt de verhaalsituering met de poëtische beweging.",
+      "additions": [
+        {
+          "verse": 6,
+          "scene": "Beeldspraak: verzadigd als aan een maaltijd",
+          "kind": "poetic",
+          "file": "63-6-verdieping.webp"
+        },
+        {
+          "verse": 1,
+          "file": "63-dorst-verzadiging-en-nacht.svg",
+          "scene": "Dorst, verzadiging en nacht",
+          "kind": "diagram",
+          "source": "Psalm 63:1–12"
+        }
+      ]
+    },
+    {
+      "book": "psalmen",
+      "chapter": 65,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Zee, regen en oogst zijn aanwezig. Nabijheid in de voorhof vult het openingsdeel over gebed en verzoening aan; een leeswijzer verbindt dat met wereld en land.",
+      "additions": [
+        {
+          "verse": 5,
+          "scene": "Poëtische illustratie: dichtbij in de voorhof",
+          "kind": "poetic",
+          "file": "65-5-verdieping.webp"
+        },
+        {
+          "verse": 2,
+          "file": "65-van-sion-naar-de-oogst.svg",
+          "scene": "Van Sion naar de oogst",
+          "kind": "diagram",
+          "source": "Psalm 65:2–14"
+        }
+      ]
+    },
+    {
+      "book": "psalmen",
+      "chapter": 66,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Doortocht, zilver en vertellen zijn aanwezig. Het nakomen van beloofde offers is een apart genoemd antwoord op de verhoring; een perspectiefschema verbindt aarde, ons en ik.",
+      "additions": [
+        {
+          "verse": 15,
+          "scene": "Poëtische illustratie: beloften nakomen",
+          "kind": "poetic",
+          "file": "66-15-verdieping.webp"
+        },
+        {
+          "verse": 1,
+          "file": "66-kom-kijken-kom-luisteren.svg",
+          "scene": "Kom kijken, kom luisteren",
+          "kind": "diagram",
+          "source": "Psalm 66:1–20"
+        }
+      ]
+    },
+    {
+      "book": "psalmen",
+      "chapter": 64,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "Overleg, wapens en vreugde zijn aanwezig. Een omkeerschema maakt zichtbaar hoe de eigen taal terugkeert tegen de belagers; geen extra werkelijk gevecht toegevoegd.",
+      "additions": [
+        {
+          "verse": 2,
+          "file": "64-verborgen-woorden-keren-terug.svg",
+          "scene": "Verborgen woorden keren terug",
+          "kind": "diagram",
+          "source": "Psalm 64:2–11"
+        }
+      ]
+    },
+    {
+      "book": "psalmen",
+      "chapter": 67,
+      "status": "reviewed",
+      "target_images": 3,
+      "reason": "Zegenbede, volkenlof en oogst zijn alle drie in eigen beelden aanwezig. Dit korte refreinlied vraagt geen nieuwe bijna gelijke lofgroep of oogststilleven.",
+      "additions": []
     }
   ]
 }
