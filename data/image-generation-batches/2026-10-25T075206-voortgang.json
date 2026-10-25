@@ -1,0 +1,114 @@
+{
+  "started": "2026-10-25T07:52:06Z",
+  "batches": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "new_visuals": 167,
+  "new_asset_files": 167,
+  "replaced_baseline_images": 0,
+  "new_rasters": 85,
+  "new_schemas": 82,
+  "new_reviewed_chapters": 45,
+  "total_reviewed_chapters": 903,
+  "total_images": 7099,
+  "metadata_corrections": 135,
+  "verified": "local sources, visual anatomy and content review, SVG legibility and font bounds, SVG enlarge links, dimensions and decode, chapter plan targets, preservation of baseline work",
+  "finished": "2026-10-25T08:47:26.118994+00:00",
+  "completed_books": [
+    "daniel",
+    "hosea",
+    "joel",
+    "amos",
+    "obadja",
+    "jona",
+    "micha",
+    "nahum"
+  ],
+  "reviewed_ranges": [
+    {
+      "book": "daniel",
+      "first": 9,
+      "last": 12
+    },
+    {
+      "book": "hosea",
+      "first": 1,
+      "last": 14
+    },
+    {
+      "book": "joel",
+      "first": 1,
+      "last": 3
+    },
+    {
+      "book": "amos",
+      "first": 1,
+      "last": 9
+    },
+    {
+      "book": "obadja",
+      "first": 1,
+      "last": 1
+    },
+    {
+      "book": "jona",
+      "first": 1,
+      "last": 4
+    },
+    {
+      "book": "micha",
+      "first": 1,
+      "last": 7
+    },
+    {
+      "book": "nahum",
+      "first": 1,
+      "last": 3
+    }
+  ],
+  "next_chapter": {
+    "book": "habakuk",
+    "chapter": 1
+  },
+  "remaining_unreviewed_chapters": 701,
+  "open_targets": 0,
+  "generator": "built-in image_gen, one call per raster; native SVG for schemas",
+  "quality_corrections": [
+    {
+      "book": "daniel",
+      "chapter": 9,
+      "verse": 17,
+      "issue": "Klassieke zuilvormen in eerste generatie",
+      "resolution": "Bewerkt naar eenvoudige Levantijnse steenbouw met verbrande balken, opnieuw visueel bekeken."
+    },
+    {
+      "book": "hosea",
+      "chapter": 13,
+      "verse": 3,
+      "issue": "Rookbeeld had afleidende personen en landschap",
+      "resolution": "Bewerkt tot close-up van rook uit een oud raam, opnieuw bekeken."
+    },
+    {
+      "book": "micha",
+      "chapter": 1,
+      "issue": "Te lange SVG-titel",
+      "resolution": "Titel ingekort, opnieuw gerenderd en met lettertypegrenzen gecontroleerd."
+    }
+  ],
+  "errors": [],
+  "site_build": "passed",
+  "coverage_check": "passed",
+  "baseline_commit": "a6446b053c16c4dc5a374f2725854cecbbfc8ab9",
+  "asset_commit": "325fc37c0de0fdcc06d6affe86574469a8acce13",
+  "push_target": "Simson987/website-open-parafrase-vertaling:codex/three-images-per-chapter",
+  "pull_request": "https://github.com/William-Carey-Missions/website-open-parafrase-vertaling/pull/3",
+  "automation": "Active: content review is not complete; continue at the next unreviewed chapter."
+}
