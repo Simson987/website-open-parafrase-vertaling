@@ -1,0 +1,4735 @@
+{
+  "started": "2026-10-25T01:34:20Z",
+  "description": "Verskoppelingen en typen gecontroleerd naast de gelezen plaatselijke hoofdstukken en bekeken bestaande beelden. Elk record bewaart de oorspronkelijke en aangepaste registratie.",
+  "corrections": [
+    {
+      "book": "esther",
+      "before": {
+        "chapter": 8,
+        "file": "8-relief.webp",
+        "alt": "Gezinnen in Susa begroeten het goede nieuws",
+        "scene": "Opluchting in Susa"
+      },
+      "after": {
+        "chapter": 8,
+        "file": "8-relief.webp",
+        "alt": "Gezinnen in Susa begroeten het goede nieuws",
+        "scene": "Opluchting in Susa",
+        "verse": 16,
+        "kind": "scene"
+      },
+      "reason": "Versanker bij de beschreven scène gezet in plaats van standaardvers 1."
+    },
+    {
+      "book": "job",
+      "before": {
+        "chapter": 2,
+        "file": "2.webp",
+        "alt": "Job treurt op een ashoop terwijl drie vrienden dichterbij komen",
+        "scene": "Job op de ashoop"
+      },
+      "after": {
+        "chapter": 2,
+        "file": "2.webp",
+        "alt": "Job treurt op een ashoop terwijl drie vrienden dichterbij komen",
+        "scene": "Job op de ashoop",
+        "verse": 8,
+        "kind": "scene"
+      },
+      "reason": "Versanker bij de beschreven scène gezet in plaats van standaardvers 1."
+    },
+    {
+      "book": "job",
+      "before": {
+        "chapter": 3,
+        "verse": 9,
+        "file": "3-9.webp",
+        "alt": "Beeld bij Job 3: Beeldspraak: wachten op de dageraad",
+        "scene": "Beeldspraak: wachten op de dageraad"
+      },
+      "after": {
+        "chapter": 3,
+        "verse": 9,
+        "file": "3-9.webp",
+        "alt": "Jobs wens dat de geboortenacht geen dageraad ziet — Job 3:9; poëtische visualisatie.",
+        "scene": "Beeldspraak: de dageraad die uitblijft",
+        "kind": "poetic"
+      },
+      "reason": "Poëtische beeldlaag expliciet geregistreerd; geen afzonderlijke gebeurtenis in Jobs leven."
+    },
+    {
+      "book": "job",
+      "before": {
+        "chapter": 4,
+        "verse": 19,
+        "file": "4-19.webp",
+        "alt": "Beeld bij Job 4: Beeldspraak: de kwetsbaarheid van lemen huizen",
+        "scene": "Beeldspraak: de kwetsbaarheid van lemen huizen"
+      },
+      "after": {
+        "chapter": 4,
+        "verse": 19,
+        "file": "4-19.webp",
+        "alt": "Beeld bij Job 4: Beeldspraak: de kwetsbaarheid van lemen huizen",
+        "scene": "Beeldspraak: de kwetsbaarheid van lemen huizen",
+        "kind": "poetic"
+      },
+      "reason": "Poëtische beeldlaag expliciet geregistreerd; geen afzonderlijke gebeurtenis in Jobs leven."
+    },
+    {
+      "book": "job",
+      "before": {
+        "chapter": 5,
+        "verse": 10,
+        "file": "5-10.webp",
+        "alt": "Beeld bij Job 5: Beeldspraak: regen over de velden",
+        "scene": "Beeldspraak: regen over de velden"
+      },
+      "after": {
+        "chapter": 5,
+        "verse": 10,
+        "file": "5-10.webp",
+        "alt": "Beeld bij Job 5: Beeldspraak: regen over de velden",
+        "scene": "Beeldspraak: regen over de velden",
+        "kind": "poetic"
+      },
+      "reason": "Poëtische beeldlaag expliciet geregistreerd; geen afzonderlijke gebeurtenis in Jobs leven."
+    },
+    {
+      "book": "job",
+      "before": {
+        "chapter": 5,
+        "verse": 24,
+        "file": "5-24.webp",
+        "alt": "Beeld bij Job 5: Beeldspraak: vrede in de tent",
+        "scene": "Beeldspraak: vrede in de tent"
+      },
+      "after": {
+        "chapter": 5,
+        "verse": 24,
+        "file": "5-24.webp",
+        "alt": "Beeld bij Job 5: Beeldspraak: vrede in de tent",
+        "scene": "Beeldspraak: vrede in de tent",
+        "kind": "poetic"
+      },
+      "reason": "Poëtische beeldlaag expliciet geregistreerd; geen afzonderlijke gebeurtenis in Jobs leven."
+    },
+    {
+      "book": "job",
+      "before": {
+        "chapter": 6,
+        "verse": 17,
+        "file": "6-17.webp",
+        "alt": "Beeld bij Job 6: Beeldspraak: de uitgedroogde beek",
+        "scene": "Beeldspraak: de uitgedroogde beek"
+      },
+      "after": {
+        "chapter": 6,
+        "verse": 17,
+        "file": "6-17.webp",
+        "alt": "Beeld bij Job 6: Beeldspraak: de uitgedroogde beek",
+        "scene": "Beeldspraak: de uitgedroogde beek",
+        "kind": "poetic"
+      },
+      "reason": "Poëtische beeldlaag expliciet geregistreerd; geen afzonderlijke gebeurtenis in Jobs leven."
+    },
+    {
+      "book": "job",
+      "before": {
+        "chapter": 6,
+        "verse": 19,
+        "file": "6-19.webp",
+        "alt": "Beeld bij Job 6: Beeldspraak: karavanen zoeken water",
+        "scene": "Beeldspraak: karavanen zoeken water"
+      },
+      "after": {
+        "chapter": 6,
+        "verse": 19,
+        "file": "6-19.webp",
+        "alt": "Beeld bij Job 6: Beeldspraak: karavanen zoeken water",
+        "scene": "Beeldspraak: karavanen zoeken water",
+        "kind": "poetic"
+      },
+      "reason": "Poëtische beeldlaag expliciet geregistreerd; geen afzonderlijke gebeurtenis in Jobs leven."
+    },
+    {
+      "book": "job",
+      "before": {
+        "chapter": 7,
+        "verse": 2,
+        "file": "7-2.webp",
+        "alt": "Beeld bij Job 7: Beeldspraak: de dagloner wacht op rust",
+        "scene": "Beeldspraak: de dagloner wacht op rust"
+      },
+      "after": {
+        "chapter": 7,
+        "verse": 2,
+        "file": "7-2.webp",
+        "alt": "Beeld bij Job 7: Beeldspraak: de dagloner wacht op rust",
+        "scene": "Beeldspraak: de dagloner wacht op rust",
+        "kind": "poetic"
+      },
+      "reason": "Poëtische beeldlaag expliciet geregistreerd; geen afzonderlijke gebeurtenis in Jobs leven."
+    },
+    {
+      "book": "job",
+      "before": {
+        "chapter": 7,
+        "verse": 6,
+        "file": "7-6.webp",
+        "alt": "Beeld bij Job 7: Beeldspraak: sneller dan een weversspoel",
+        "scene": "Beeldspraak: sneller dan een weversspoel"
+      },
+      "after": {
+        "chapter": 7,
+        "verse": 6,
+        "file": "7-6.webp",
+        "alt": "Beeld bij Job 7: Beeldspraak: sneller dan een weversspoel",
+        "scene": "Beeldspraak: sneller dan een weversspoel",
+        "kind": "poetic"
+      },
+      "reason": "Poëtische beeldlaag expliciet geregistreerd; geen afzonderlijke gebeurtenis in Jobs leven."
+    },
+    {
+      "book": "job",
+      "before": {
+        "chapter": 8,
+        "verse": 11,
+        "file": "8-11.webp",
+        "alt": "Beeld bij Job 8: Beeldspraak: papyrus heeft water nodig",
+        "scene": "Beeldspraak: papyrus heeft water nodig"
+      },
+      "after": {
+        "chapter": 8,
+        "verse": 11,
+        "file": "8-11.webp",
+        "alt": "Beeld bij Job 8: Beeldspraak: papyrus heeft water nodig",
+        "scene": "Beeldspraak: papyrus heeft water nodig",
+        "kind": "poetic"
+      },
+      "reason": "Poëtische beeldlaag expliciet geregistreerd; geen afzonderlijke gebeurtenis in Jobs leven."
+    },
+    {
+      "book": "job",
+      "before": {
+        "chapter": 8,
+        "verse": 14,
+        "file": "8-14.webp",
+        "alt": "Beeld bij Job 8: Beeldspraak: zekerheid als een spinnenweb",
+        "scene": "Beeldspraak: zekerheid als een spinnenweb"
+      },
+      "after": {
+        "chapter": 8,
+        "verse": 14,
+        "file": "8-14.webp",
+        "alt": "Beeld bij Job 8: Beeldspraak: zekerheid als een spinnenweb",
+        "scene": "Beeldspraak: zekerheid als een spinnenweb",
+        "kind": "poetic"
+      },
+      "reason": "Poëtische beeldlaag expliciet geregistreerd; geen afzonderlijke gebeurtenis in Jobs leven."
+    },
+    {
+      "book": "job",
+      "before": {
+        "chapter": 9,
+        "verse": 9,
+        "file": "9-9.webp",
+        "alt": "Beeld bij Job 9: De sterren boven de woestijn",
+        "scene": "De sterren boven de woestijn"
+      },
+      "after": {
+        "chapter": 9,
+        "verse": 9,
+        "file": "9-9.webp",
+        "alt": "Beeld bij Job 9: De sterren boven de woestijn",
+        "scene": "De sterren boven de woestijn",
+        "kind": "poetic"
+      },
+      "reason": "Poëtische beeldlaag expliciet geregistreerd; geen afzonderlijke gebeurtenis in Jobs leven."
+    },
+    {
+      "book": "job",
+      "before": {
+        "chapter": 9,
+        "verse": 26,
+        "file": "9-26.webp",
+        "alt": "Beeld bij Job 9: Beeldspraak: een boot van riet glijdt voorbij",
+        "scene": "Beeldspraak: een boot van riet glijdt voorbij"
+      },
+      "after": {
+        "chapter": 9,
+        "verse": 26,
+        "file": "9-26.webp",
+        "alt": "Beeld bij Job 9: Beeldspraak: een boot van riet glijdt voorbij",
+        "scene": "Beeldspraak: een boot van riet glijdt voorbij",
+        "kind": "poetic"
+      },
+      "reason": "Poëtische beeldlaag expliciet geregistreerd; geen afzonderlijke gebeurtenis in Jobs leven."
+    },
+    {
+      "book": "job",
+      "before": {
+        "chapter": 10,
+        "verse": 9,
+        "file": "10-9.webp",
+        "alt": "Beeld bij Job 10: Beeldspraak: als klei gevormd",
+        "scene": "Beeldspraak: als klei gevormd"
+      },
+      "after": {
+        "chapter": 10,
+        "verse": 9,
+        "file": "10-9.webp",
+        "alt": "Beeld bij Job 10: Beeldspraak: als klei gevormd",
+        "scene": "Beeldspraak: als klei gevormd",
+        "kind": "poetic"
+      },
+      "reason": "Poëtische beeldlaag expliciet geregistreerd; geen afzonderlijke gebeurtenis in Jobs leven."
+    },
+    {
+      "book": "job",
+      "before": {
+        "chapter": 11,
+        "verse": 9,
+        "file": "11-9.webp",
+        "alt": "Beeld bij Job 11: Beeldspraak: wijder dan de zee",
+        "scene": "Beeldspraak: wijder dan de zee"
+      },
+      "after": {
+        "chapter": 11,
+        "verse": 9,
+        "file": "11-9.webp",
+        "alt": "Beeld bij Job 11: Beeldspraak: wijder dan de zee",
+        "scene": "Beeldspraak: wijder dan de zee",
+        "kind": "poetic"
+      },
+      "reason": "Poëtische beeldlaag expliciet geregistreerd; geen afzonderlijke gebeurtenis in Jobs leven."
+    },
+    {
+      "book": "job",
+      "before": {
+        "chapter": 11,
+        "verse": 16,
+        "file": "11-16.webp",
+        "alt": "Beeld bij Job 11: Beeldspraak: moeite als voorbijgestroomd water",
+        "scene": "Beeldspraak: moeite als voorbijgestroomd water"
+      },
+      "after": {
+        "chapter": 11,
+        "verse": 16,
+        "file": "11-16.webp",
+        "alt": "Beeld bij Job 11: Beeldspraak: moeite als voorbijgestroomd water",
+        "scene": "Beeldspraak: moeite als voorbijgestroomd water",
+        "kind": "poetic"
+      },
+      "reason": "Poëtische beeldlaag expliciet geregistreerd; geen afzonderlijke gebeurtenis in Jobs leven."
+    },
+    {
+      "book": "job",
+      "before": {
+        "chapter": 12,
+        "verse": 7,
+        "file": "12-7.webp",
+        "alt": "Beeld bij Job 12: De dieren en vogels getuigen van de Schepper",
+        "scene": "De dieren en vogels getuigen van de Schepper"
+      },
+      "after": {
+        "chapter": 12,
+        "verse": 7,
+        "file": "12-7.webp",
+        "alt": "Beeld bij Job 12: De dieren en vogels getuigen van de Schepper",
+        "scene": "De dieren en vogels getuigen van de Schepper",
+        "kind": "poetic"
+      },
+      "reason": "Poëtische beeldlaag expliciet geregistreerd; geen afzonderlijke gebeurtenis in Jobs leven."
+    },
+    {
+      "book": "job",
+      "before": {
+        "chapter": 13,
+        "verse": 25,
+        "file": "13-25.webp",
+        "alt": "Beeld bij Job 13: Beeldspraak: een weggewaaid blad",
+        "scene": "Beeldspraak: een weggewaaid blad"
+      },
+      "after": {
+        "chapter": 13,
+        "verse": 25,
+        "file": "13-25.webp",
+        "alt": "Beeld bij Job 13: Beeldspraak: een weggewaaid blad",
+        "scene": "Beeldspraak: een weggewaaid blad",
+        "kind": "poetic"
+      },
+      "reason": "Poëtische beeldlaag expliciet geregistreerd; geen afzonderlijke gebeurtenis in Jobs leven."
+    },
+    {
+      "book": "job",
+      "before": {
+        "chapter": 14,
+        "verse": 2,
+        "file": "14-2.webp",
+        "alt": "Beeld bij Job 14: Beeldspraak: een bloem en een schaduw",
+        "scene": "Beeldspraak: een bloem en een schaduw"
+      },
+      "after": {
+        "chapter": 14,
+        "verse": 2,
+        "file": "14-2.webp",
+        "alt": "Beeld bij Job 14: Beeldspraak: een bloem en een schaduw",
+        "scene": "Beeldspraak: een bloem en een schaduw",
+        "kind": "poetic"
+      },
+      "reason": "Poëtische beeldlaag expliciet geregistreerd; geen afzonderlijke gebeurtenis in Jobs leven."
+    },
+    {
+      "book": "job",
+      "before": {
+        "chapter": 14,
+        "verse": 9,
+        "file": "14-9.webp",
+        "alt": "Beeld bij Job 14: Beeldspraak: de stronk loopt weer uit",
+        "scene": "Beeldspraak: de stronk loopt weer uit"
+      },
+      "after": {
+        "chapter": 14,
+        "verse": 9,
+        "file": "14-9.webp",
+        "alt": "Beeld bij Job 14: Beeldspraak: de stronk loopt weer uit",
+        "scene": "Beeldspraak: de stronk loopt weer uit",
+        "kind": "poetic"
+      },
+      "reason": "Poëtische beeldlaag expliciet geregistreerd; geen afzonderlijke gebeurtenis in Jobs leven."
+    },
+    {
+      "book": "job",
+      "before": {
+        "chapter": 14,
+        "verse": 19,
+        "file": "14-19.webp",
+        "alt": "Beeld bij Job 14: Beeldspraak: water slijt de stenen af",
+        "scene": "Beeldspraak: water slijt de stenen af"
+      },
+      "after": {
+        "chapter": 14,
+        "verse": 19,
+        "file": "14-19.webp",
+        "alt": "Beeld bij Job 14: Beeldspraak: water slijt de stenen af",
+        "scene": "Beeldspraak: water slijt de stenen af",
+        "kind": "poetic"
+      },
+      "reason": "Poëtische beeldlaag expliciet geregistreerd; geen afzonderlijke gebeurtenis in Jobs leven."
+    },
+    {
+      "book": "job",
+      "before": {
+        "chapter": 15,
+        "verse": 33,
+        "file": "15-33.webp",
+        "alt": "Beeld bij Job 15: Beeldspraak: onrijpe druiven en vallende bloesem",
+        "scene": "Beeldspraak: onrijpe druiven en vallende bloesem"
+      },
+      "after": {
+        "chapter": 15,
+        "verse": 33,
+        "file": "15-33.webp",
+        "alt": "Beeld bij Job 15: Beeldspraak: onrijpe druiven en vallende bloesem",
+        "scene": "Beeldspraak: onrijpe druiven en vallende bloesem",
+        "kind": "poetic"
+      },
+      "reason": "Poëtische beeldlaag expliciet geregistreerd; geen afzonderlijke gebeurtenis in Jobs leven."
+    },
+    {
+      "book": "job",
+      "before": {
+        "chapter": 17,
+        "verse": 9,
+        "file": "17-9.webp",
+        "alt": "Beeld bij Job 17: Beeldspraak: de rechtvaardige houdt zijn weg",
+        "scene": "Beeldspraak: de rechtvaardige houdt zijn weg"
+      },
+      "after": {
+        "chapter": 17,
+        "verse": 9,
+        "file": "17-9.webp",
+        "alt": "Beeld bij Job 17: Beeldspraak: de rechtvaardige houdt zijn weg",
+        "scene": "Beeldspraak: de rechtvaardige houdt zijn weg",
+        "kind": "poetic"
+      },
+      "reason": "Poëtische beeldlaag expliciet geregistreerd; geen afzonderlijke gebeurtenis in Jobs leven."
+    },
+    {
+      "book": "job",
+      "before": {
+        "chapter": 18,
+        "verse": 6,
+        "file": "18-6.webp",
+        "alt": "Beeld bij Job 18: Beeldspraak: de lamp in de tent dooft",
+        "scene": "Beeldspraak: de lamp in de tent dooft"
+      },
+      "after": {
+        "chapter": 18,
+        "verse": 6,
+        "file": "18-6.webp",
+        "alt": "Beeld bij Job 18: Beeldspraak: de lamp in de tent dooft",
+        "scene": "Beeldspraak: de lamp in de tent dooft",
+        "kind": "poetic"
+      },
+      "reason": "Poëtische beeldlaag expliciet geregistreerd; geen afzonderlijke gebeurtenis in Jobs leven."
+    },
+    {
+      "book": "job",
+      "before": {
+        "chapter": 18,
+        "verse": 16,
+        "file": "18-16.webp",
+        "alt": "Beeld bij Job 18: Beeldspraak: verdroogde wortels en takken",
+        "scene": "Beeldspraak: verdroogde wortels en takken"
+      },
+      "after": {
+        "chapter": 18,
+        "verse": 16,
+        "file": "18-16.webp",
+        "alt": "Beeld bij Job 18: Beeldspraak: verdroogde wortels en takken",
+        "scene": "Beeldspraak: verdroogde wortels en takken",
+        "kind": "poetic"
+      },
+      "reason": "Poëtische beeldlaag expliciet geregistreerd; geen afzonderlijke gebeurtenis in Jobs leven."
+    },
+    {
+      "book": "job",
+      "before": {
+        "chapter": 19,
+        "verse": 24,
+        "file": "19-24.webp",
+        "alt": "Beeld bij Job 19: Beeldspraak: woorden voor altijd in steen",
+        "scene": "Beeldspraak: woorden voor altijd in steen"
+      },
+      "after": {
+        "chapter": 19,
+        "verse": 24,
+        "file": "19-24.webp",
+        "alt": "Beeld bij Job 19: Beeldspraak: woorden voor altijd in steen",
+        "scene": "Beeldspraak: woorden voor altijd in steen",
+        "kind": "poetic"
+      },
+      "reason": "Poëtische beeldlaag expliciet geregistreerd; geen afzonderlijke gebeurtenis in Jobs leven."
+    },
+    {
+      "book": "job",
+      "before": {
+        "chapter": 20,
+        "verse": 18,
+        "file": "20-18.webp",
+        "alt": "Beeld bij Job 20: Beeldspraak: onrechtmatige winst teruggeven",
+        "scene": "Beeldspraak: onrechtmatige winst teruggeven"
+      },
+      "after": {
+        "chapter": 20,
+        "verse": 18,
+        "file": "20-18.webp",
+        "alt": "Beeld bij Job 20: Beeldspraak: onrechtmatige winst teruggeven",
+        "scene": "Beeldspraak: onrechtmatige winst teruggeven",
+        "kind": "poetic"
+      },
+      "reason": "Poëtische beeldlaag expliciet geregistreerd; geen afzonderlijke gebeurtenis in Jobs leven."
+    },
+    {
+      "book": "job",
+      "before": {
+        "chapter": 20,
+        "verse": 28,
+        "file": "20-28.webp",
+        "alt": "Beeld bij Job 20: Beeldspraak: de opbrengst wordt weggevoerd",
+        "scene": "Beeldspraak: de opbrengst wordt weggevoerd"
+      },
+      "after": {
+        "chapter": 20,
+        "verse": 28,
+        "file": "20-28.webp",
+        "alt": "Beeld bij Job 20: Beeldspraak: de opbrengst wordt weggevoerd",
+        "scene": "Beeldspraak: de opbrengst wordt weggevoerd",
+        "kind": "poetic"
+      },
+      "reason": "Poëtische beeldlaag expliciet geregistreerd; geen afzonderlijke gebeurtenis in Jobs leven."
+    },
+    {
+      "book": "job",
+      "before": {
+        "chapter": 21,
+        "verse": 12,
+        "file": "21-12.webp",
+        "alt": "Beeld bij Job 21: Beeldspraak: voorspoed met muziek",
+        "scene": "Beeldspraak: voorspoed met muziek"
+      },
+      "after": {
+        "chapter": 21,
+        "verse": 12,
+        "file": "21-12.webp",
+        "alt": "Beeld bij Job 21: Beeldspraak: voorspoed met muziek",
+        "scene": "Beeldspraak: voorspoed met muziek",
+        "kind": "poetic"
+      },
+      "reason": "De plaatselijke rede bevat een vergelijking of algemeen voorbeeld; geen nieuwe gebeurtenis in Jobs actuele levensloop."
+    },
+    {
+      "book": "job",
+      "before": {
+        "chapter": 22,
+        "verse": 24,
+        "file": "22-24.webp",
+        "alt": "Beeld bij Job 22: Beeldspraak: goud tussen de beekstenen",
+        "scene": "Beeldspraak: goud tussen de beekstenen"
+      },
+      "after": {
+        "chapter": 22,
+        "verse": 24,
+        "file": "22-24.webp",
+        "alt": "Beeld bij Job 22: Beeldspraak: goud tussen de beekstenen",
+        "scene": "Beeldspraak: goud tussen de beekstenen",
+        "kind": "poetic"
+      },
+      "reason": "De plaatselijke rede bevat een vergelijking of algemeen voorbeeld; geen nieuwe gebeurtenis in Jobs actuele levensloop."
+    },
+    {
+      "book": "job",
+      "before": {
+        "chapter": 23,
+        "verse": 10,
+        "file": "23-10.webp",
+        "alt": "Beeld bij Job 23: Beeldspraak: als goud beproefd",
+        "scene": "Beeldspraak: als goud beproefd"
+      },
+      "after": {
+        "chapter": 23,
+        "verse": 10,
+        "file": "23-10.webp",
+        "alt": "Beeld bij Job 23: Beeldspraak: als goud beproefd",
+        "scene": "Beeldspraak: als goud beproefd",
+        "kind": "poetic"
+      },
+      "reason": "De plaatselijke rede bevat een vergelijking of algemeen voorbeeld; geen nieuwe gebeurtenis in Jobs actuele levensloop."
+    },
+    {
+      "book": "job",
+      "before": {
+        "chapter": 24,
+        "verse": 2,
+        "file": "24-2.webp",
+        "alt": "Beeld bij Job 24: Beeldspraak: verplaatste grensstenen",
+        "scene": "Beeldspraak: verplaatste grensstenen"
+      },
+      "after": {
+        "chapter": 24,
+        "verse": 2,
+        "file": "24-2.webp",
+        "alt": "Beeld bij Job 24: Beeldspraak: verplaatste grensstenen",
+        "scene": "Beeldspraak: verplaatste grensstenen",
+        "kind": "poetic"
+      },
+      "reason": "De plaatselijke rede bevat een vergelijking of algemeen voorbeeld; geen nieuwe gebeurtenis in Jobs actuele levensloop."
+    },
+    {
+      "book": "job",
+      "before": {
+        "chapter": 24,
+        "verse": 6,
+        "file": "24-6.webp",
+        "alt": "Beeld bij Job 24: De armen lezen de wijngaard na",
+        "scene": "De armen lezen de wijngaard na"
+      },
+      "after": {
+        "chapter": 24,
+        "verse": 6,
+        "file": "24-6.webp",
+        "alt": "Beeld bij Job 24: De armen lezen de wijngaard na",
+        "scene": "De armen lezen de wijngaard na",
+        "kind": "poetic"
+      },
+      "reason": "De plaatselijke rede bevat een vergelijking of algemeen voorbeeld; geen nieuwe gebeurtenis in Jobs actuele levensloop."
+    },
+    {
+      "book": "job",
+      "before": {
+        "chapter": 24,
+        "verse": 11,
+        "file": "24-11.webp",
+        "alt": "Beeld bij Job 24: Arbeiders persen olie voor een ander",
+        "scene": "Arbeiders persen olie voor een ander"
+      },
+      "after": {
+        "chapter": 24,
+        "verse": 11,
+        "file": "24-11.webp",
+        "alt": "Beeld bij Job 24: Arbeiders persen olie voor een ander",
+        "scene": "Arbeiders persen olie voor een ander",
+        "kind": "poetic"
+      },
+      "reason": "De plaatselijke rede bevat een vergelijking of algemeen voorbeeld; geen nieuwe gebeurtenis in Jobs actuele levensloop."
+    },
+    {
+      "book": "job",
+      "before": {
+        "chapter": 25,
+        "verse": 3,
+        "file": "25-3.webp",
+        "alt": "Beeld bij Job 25: Gods licht gaat over allen op",
+        "scene": "Gods licht gaat over allen op"
+      },
+      "after": {
+        "chapter": 25,
+        "verse": 3,
+        "file": "25-3.webp",
+        "alt": "Beeld bij Job 25: Gods licht gaat over allen op",
+        "scene": "Gods licht gaat over allen op",
+        "kind": "poetic"
+      },
+      "reason": "De plaatselijke rede bevat een vergelijking of algemeen voorbeeld; geen nieuwe gebeurtenis in Jobs actuele levensloop."
+    },
+    {
+      "book": "job",
+      "before": {
+        "chapter": 25,
+        "verse": 5,
+        "file": "25-5.webp",
+        "alt": "Beeld bij Job 25: De maan en de sterren aan de hemel",
+        "scene": "De maan en de sterren aan de hemel"
+      },
+      "after": {
+        "chapter": 25,
+        "verse": 5,
+        "file": "25-5.webp",
+        "alt": "Beeld bij Job 25: De maan en de sterren aan de hemel",
+        "scene": "De maan en de sterren aan de hemel",
+        "kind": "poetic"
+      },
+      "reason": "De plaatselijke rede bevat een vergelijking of algemeen voorbeeld; geen nieuwe gebeurtenis in Jobs actuele levensloop."
+    },
+    {
+      "book": "job",
+      "before": {
+        "chapter": 26,
+        "verse": 8,
+        "file": "26-8.webp",
+        "alt": "Beeld bij Job 26: Het water in de wolken",
+        "scene": "Het water in de wolken"
+      },
+      "after": {
+        "chapter": 26,
+        "verse": 8,
+        "file": "26-8.webp",
+        "alt": "Beeld bij Job 26: Het water in de wolken",
+        "scene": "Het water in de wolken",
+        "kind": "poetic"
+      },
+      "reason": "De plaatselijke rede bevat een vergelijking of algemeen voorbeeld; geen nieuwe gebeurtenis in Jobs actuele levensloop."
+    },
+    {
+      "book": "job",
+      "before": {
+        "chapter": 26,
+        "verse": 10,
+        "file": "26-10.webp",
+        "alt": "Beeld bij Job 26: De grens tussen licht en donker",
+        "scene": "De grens tussen licht en donker"
+      },
+      "after": {
+        "chapter": 26,
+        "verse": 10,
+        "file": "26-10.webp",
+        "alt": "Beeld bij Job 26: De grens tussen licht en donker",
+        "scene": "De grens tussen licht en donker",
+        "kind": "poetic"
+      },
+      "reason": "De plaatselijke rede bevat een vergelijking of algemeen voorbeeld; geen nieuwe gebeurtenis in Jobs actuele levensloop."
+    },
+    {
+      "book": "job",
+      "before": {
+        "chapter": 27,
+        "verse": 16,
+        "file": "27-16.webp",
+        "alt": "Beeld bij Job 27: Beeldspraak: opgestapeld zilver en kleding",
+        "scene": "Beeldspraak: opgestapeld zilver en kleding"
+      },
+      "after": {
+        "chapter": 27,
+        "verse": 16,
+        "file": "27-16.webp",
+        "alt": "Beeld bij Job 27: Beeldspraak: opgestapeld zilver en kleding",
+        "scene": "Beeldspraak: opgestapeld zilver en kleding",
+        "kind": "poetic"
+      },
+      "reason": "De plaatselijke rede bevat een vergelijking of algemeen voorbeeld; geen nieuwe gebeurtenis in Jobs actuele levensloop."
+    },
+    {
+      "book": "job",
+      "before": {
+        "chapter": 27,
+        "verse": 18,
+        "file": "27-18.webp",
+        "alt": "Beeld bij Job 27: Beeldspraak: de kwetsbare wachthut",
+        "scene": "Beeldspraak: de kwetsbare wachthut"
+      },
+      "after": {
+        "chapter": 27,
+        "verse": 18,
+        "file": "27-18.webp",
+        "alt": "Beeld bij Job 27: Beeldspraak: de kwetsbare wachthut",
+        "scene": "Beeldspraak: de kwetsbare wachthut",
+        "kind": "poetic"
+      },
+      "reason": "De plaatselijke rede bevat een vergelijking of algemeen voorbeeld; geen nieuwe gebeurtenis in Jobs actuele levensloop."
+    },
+    {
+      "book": "job",
+      "before": {
+        "chapter": 28,
+        "verse": 1,
+        "file": "28-1.webp",
+        "alt": "Beeld bij Job 28: Zilvererts uit de mijn",
+        "scene": "Zilvererts uit de mijn"
+      },
+      "after": {
+        "chapter": 28,
+        "verse": 1,
+        "file": "28-1.webp",
+        "alt": "Beeld bij Job 28: Zilvererts uit de mijn",
+        "scene": "Zilvererts uit de mijn",
+        "kind": "poetic"
+      },
+      "reason": "De plaatselijke rede bevat een vergelijking of algemeen voorbeeld; geen nieuwe gebeurtenis in Jobs actuele levensloop."
+    },
+    {
+      "book": "job",
+      "before": {
+        "chapter": 28,
+        "verse": 15,
+        "file": "28-15.webp",
+        "alt": "Beeld bij Job 28: Wijsheid is meer waard dan goud",
+        "scene": "Wijsheid is meer waard dan goud"
+      },
+      "after": {
+        "chapter": 28,
+        "verse": 15,
+        "file": "28-15.webp",
+        "alt": "Beeld bij Job 28: Wijsheid is meer waard dan goud",
+        "scene": "Wijsheid is meer waard dan goud",
+        "kind": "poetic"
+      },
+      "reason": "De plaatselijke rede bevat een vergelijking of algemeen voorbeeld; geen nieuwe gebeurtenis in Jobs actuele levensloop."
+    },
+    {
+      "book": "job",
+      "before": {
+        "chapter": 32,
+        "verse": 19,
+        "file": "32-19.webp",
+        "alt": "Beeld bij Job 32: Beeldspraak: de wijnzak staat op barsten",
+        "scene": "Beeldspraak: de wijnzak staat op barsten"
+      },
+      "after": {
+        "chapter": 32,
+        "verse": 19,
+        "file": "32-19.webp",
+        "alt": "Beeld bij Job 32: Beeldspraak: de wijnzak staat op barsten",
+        "scene": "Beeldspraak: de wijnzak staat op barsten",
+        "kind": "poetic"
+      },
+      "reason": "De plaatselijke rede bevat een vergelijking of algemeen voorbeeld; geen nieuwe gebeurtenis in Jobs actuele levensloop."
+    },
+    {
+      "book": "job",
+      "before": {
+        "chapter": 33,
+        "verse": 6,
+        "file": "33-6.webp",
+        "alt": "Beeld bij Job 33: Beeldspraak: ook de mens is uit klei gevormd",
+        "scene": "Beeldspraak: ook de mens is uit klei gevormd"
+      },
+      "after": {
+        "chapter": 33,
+        "verse": 6,
+        "file": "33-6.webp",
+        "alt": "Beeld bij Job 33: Beeldspraak: ook de mens is uit klei gevormd",
+        "scene": "Beeldspraak: ook de mens is uit klei gevormd",
+        "kind": "poetic"
+      },
+      "reason": "De plaatselijke rede bevat een vergelijking of algemeen voorbeeld; geen nieuwe gebeurtenis in Jobs actuele levensloop."
+    },
+    {
+      "book": "job",
+      "before": {
+        "chapter": 33,
+        "verse": 15,
+        "file": "33-15.webp",
+        "alt": "Beeld bij Job 33: Beeldspraak: een droom in de nacht",
+        "scene": "Beeldspraak: een droom in de nacht"
+      },
+      "after": {
+        "chapter": 33,
+        "verse": 15,
+        "file": "33-15.webp",
+        "alt": "Beeld bij Job 33: Beeldspraak: een droom in de nacht",
+        "scene": "Beeldspraak: een droom in de nacht",
+        "kind": "poetic"
+      },
+      "reason": "De plaatselijke rede bevat een vergelijking of algemeen voorbeeld; geen nieuwe gebeurtenis in Jobs actuele levensloop."
+    },
+    {
+      "book": "job",
+      "before": {
+        "chapter": 34,
+        "verse": 19,
+        "file": "34-19.webp",
+        "alt": "Beeld bij Job 34: De rijke en de arme zijn beiden Gods werk",
+        "scene": "De rijke en de arme zijn beiden Gods werk"
+      },
+      "after": {
+        "chapter": 34,
+        "verse": 19,
+        "file": "34-19.webp",
+        "alt": "Beeld bij Job 34: De rijke en de arme zijn beiden Gods werk",
+        "scene": "De rijke en de arme zijn beiden Gods werk",
+        "kind": "poetic"
+      },
+      "reason": "De plaatselijke rede bevat een vergelijking of algemeen voorbeeld; geen nieuwe gebeurtenis in Jobs actuele levensloop."
+    },
+    {
+      "book": "job",
+      "before": {
+        "chapter": 34,
+        "verse": 28,
+        "file": "34-28.webp",
+        "alt": "Beeld bij Job 34: God hoort het roepen van de arme",
+        "scene": "God hoort het roepen van de arme"
+      },
+      "after": {
+        "chapter": 34,
+        "verse": 28,
+        "file": "34-28.webp",
+        "alt": "Beeld bij Job 34: God hoort het roepen van de arme",
+        "scene": "God hoort het roepen van de arme",
+        "kind": "poetic"
+      },
+      "reason": "De plaatselijke rede bevat een vergelijking of algemeen voorbeeld; geen nieuwe gebeurtenis in Jobs actuele levensloop."
+    },
+    {
+      "book": "job",
+      "before": {
+        "chapter": 35,
+        "verse": 10,
+        "file": "35-10.webp",
+        "alt": "Beeld bij Job 35: Beeldspraak: liederen in de nacht",
+        "scene": "Beeldspraak: liederen in de nacht"
+      },
+      "after": {
+        "chapter": 35,
+        "verse": 10,
+        "file": "35-10.webp",
+        "alt": "Beeld bij Job 35: Beeldspraak: liederen in de nacht",
+        "scene": "Beeldspraak: liederen in de nacht",
+        "kind": "poetic"
+      },
+      "reason": "De plaatselijke rede bevat een vergelijking of algemeen voorbeeld; geen nieuwe gebeurtenis in Jobs actuele levensloop."
+    },
+    {
+      "book": "job",
+      "before": {
+        "chapter": 36,
+        "verse": 16,
+        "file": "36-16.webp",
+        "alt": "Beeld bij Job 36: Beeldspraak: een ruime plaats met een volle tafel",
+        "scene": "Beeldspraak: een ruime plaats met een volle tafel"
+      },
+      "after": {
+        "chapter": 36,
+        "verse": 16,
+        "file": "36-16.webp",
+        "alt": "Beeld bij Job 36: Beeldspraak: een ruime plaats met een volle tafel",
+        "scene": "Beeldspraak: een ruime plaats met een volle tafel",
+        "kind": "poetic"
+      },
+      "reason": "De plaatselijke rede bevat een vergelijking of algemeen voorbeeld; geen nieuwe gebeurtenis in Jobs actuele levensloop."
+    },
+    {
+      "book": "job",
+      "before": {
+        "chapter": 40,
+        "verse": 16,
+        "file": "40-16.webp",
+        "alt": "Beeld bij Job 40: Beeldspraak: beschutting tussen riet en moeras",
+        "scene": "Beeldspraak: beschutting tussen riet en moeras"
+      },
+      "after": {
+        "chapter": 40,
+        "verse": 16,
+        "file": "40-16.webp",
+        "alt": "Beeld bij Job 40: Beeldspraak: beschutting tussen riet en moeras",
+        "scene": "Beeldspraak: beschutting tussen riet en moeras",
+        "kind": "poetic"
+      },
+      "reason": "De plaatselijke rede bevat een vergelijking of algemeen voorbeeld; geen nieuwe gebeurtenis in Jobs actuele levensloop."
+    },
+    {
+      "book": "job",
+      "before": {
+        "chapter": 40,
+        "verse": 18,
+        "file": "40-18.webp",
+        "alt": "Beeld bij Job 40: Beeldspraak: de rivier kolkt met kracht",
+        "scene": "Beeldspraak: de rivier kolkt met kracht"
+      },
+      "after": {
+        "chapter": 40,
+        "verse": 18,
+        "file": "40-18.webp",
+        "alt": "Beeld bij Job 40: Beeldspraak: de rivier kolkt met kracht",
+        "scene": "Beeldspraak: de rivier kolkt met kracht",
+        "kind": "poetic"
+      },
+      "reason": "De plaatselijke rede bevat een vergelijking of algemeen voorbeeld; geen nieuwe gebeurtenis in Jobs actuele levensloop."
+    },
+    {
+      "book": "job",
+      "before": {
+        "chapter": 41,
+        "verse": 6,
+        "file": "41-6.webp",
+        "alt": "Beeld bij Job 41: Beeldspraak: een rug als gesloten schilden",
+        "scene": "Beeldspraak: een rug als gesloten schilden"
+      },
+      "after": {
+        "chapter": 41,
+        "verse": 6,
+        "file": "41-6.webp",
+        "alt": "Beeld bij Job 41: Beeldspraak: een rug als gesloten schilden",
+        "scene": "Beeldspraak: een rug als gesloten schilden",
+        "kind": "poetic"
+      },
+      "reason": "De plaatselijke rede bevat een vergelijking of algemeen voorbeeld; geen nieuwe gebeurtenis in Jobs actuele levensloop."
+    },
+    {
+      "book": "job",
+      "before": {
+        "chapter": 41,
+        "verse": 5,
+        "file": "41-5.webp",
+        "alt": "Beeld bij Job 41: Beeldspraak: ontzag voor de machtige muil",
+        "scene": "Beeldspraak: ontzag voor de machtige muil"
+      },
+      "after": {
+        "chapter": 41,
+        "verse": 5,
+        "file": "41-5.webp",
+        "alt": "Beeld bij Job 41: Beeldspraak: ontzag voor de machtige muil",
+        "scene": "Beeldspraak: ontzag voor de machtige muil",
+        "kind": "poetic"
+      },
+      "reason": "De plaatselijke rede bevat een vergelijking of algemeen voorbeeld; geen nieuwe gebeurtenis in Jobs actuele levensloop."
+    },
+    {
+      "book": "job",
+      "before": {
+        "chapter": 41,
+        "verse": 23,
+        "file": "41-23.webp",
+        "alt": "Beeld bij Job 41: Beeldspraak: een lichtend spoor door het water",
+        "scene": "Beeldspraak: een lichtend spoor door het water"
+      },
+      "after": {
+        "chapter": 41,
+        "verse": 23,
+        "file": "41-23.webp",
+        "alt": "Beeld bij Job 41: Beeldspraak: een lichtend spoor door het water",
+        "scene": "Beeldspraak: een lichtend spoor door het water",
+        "kind": "poetic"
+      },
+      "reason": "De plaatselijke rede bevat een vergelijking of algemeen voorbeeld; geen nieuwe gebeurtenis in Jobs actuele levensloop."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 2,
+        "verse": 2,
+        "file": "2-2.webp",
+        "alt": "Beeld bij Psalmen 2: De vorsten overleggen met elkaar",
+        "scene": "De vorsten overleggen met elkaar"
+      },
+      "after": {
+        "chapter": 2,
+        "verse": 2,
+        "file": "2-2.webp",
+        "alt": "Beeld bij Psalmen 2: De vorsten overleggen met elkaar",
+        "scene": "De vorsten overleggen met elkaar",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie van een motief, gebed of vergelijking in het plaatselijke gedicht; de historische vlucht in Psalm 3:1 blijft onderscheiden."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 2,
+        "verse": 9,
+        "file": "2-9.webp",
+        "alt": "Beeld bij Psalmen 2: Beeldspraak: een ijzeren scepter en gebroken aardewerk",
+        "scene": "Beeldspraak: een ijzeren scepter en gebroken aardewerk"
+      },
+      "after": {
+        "chapter": 2,
+        "verse": 9,
+        "file": "2-9.webp",
+        "alt": "Beeld bij Psalmen 2: Beeldspraak: een ijzeren scepter en gebroken aardewerk",
+        "scene": "Beeldspraak: een ijzeren scepter en gebroken aardewerk",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie van een motief, gebed of vergelijking in het plaatselijke gedicht; de historische vlucht in Psalm 3:1 blijft onderscheiden."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 2,
+        "verse": 11,
+        "file": "2-11.webp",
+        "alt": "Beeld bij Psalmen 2: Dien de HEERE met ontzag",
+        "scene": "Dien de HEERE met ontzag"
+      },
+      "after": {
+        "chapter": 2,
+        "verse": 11,
+        "file": "2-11.webp",
+        "alt": "Beeld bij Psalmen 2: Dien de HEERE met ontzag",
+        "scene": "Dien de HEERE met ontzag",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie van een motief, gebed of vergelijking in het plaatselijke gedicht; de historische vlucht in Psalm 3:1 blijft onderscheiden."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 3,
+        "verse": 4,
+        "file": "3-4.webp",
+        "alt": "Beeld bij Psalmen 3: Beeldspraak: God is een schild om mij heen",
+        "scene": "Beeldspraak: God is een schild om mij heen"
+      },
+      "after": {
+        "chapter": 3,
+        "verse": 4,
+        "file": "3-4.webp",
+        "alt": "Beeld bij Psalmen 3: Beeldspraak: God is een schild om mij heen",
+        "scene": "Beeldspraak: God is een schild om mij heen",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie van een motief, gebed of vergelijking in het plaatselijke gedicht; de historische vlucht in Psalm 3:1 blijft onderscheiden."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 3,
+        "verse": 6,
+        "file": "3-6.webp",
+        "alt": "Beeld bij Psalmen 3: David slaapt en wordt weer wakker",
+        "scene": "David slaapt en wordt weer wakker"
+      },
+      "after": {
+        "chapter": 3,
+        "verse": 6,
+        "file": "3-6.webp",
+        "alt": "Beeld bij Psalmen 3: David slaapt en wordt weer wakker",
+        "scene": "David slaapt en wordt weer wakker",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie van een motief, gebed of vergelijking in het plaatselijke gedicht; de historische vlucht in Psalm 3:1 blijft onderscheiden."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 4,
+        "verse": 2,
+        "file": "4-2.webp",
+        "alt": "Beeld bij Psalmen 4: Gebed om ruimte in de benauwdheid",
+        "scene": "Gebed om ruimte in de benauwdheid"
+      },
+      "after": {
+        "chapter": 4,
+        "verse": 2,
+        "file": "4-2.webp",
+        "alt": "Beeld bij Psalmen 4: Gebed om ruimte in de benauwdheid",
+        "scene": "Gebed om ruimte in de benauwdheid",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie van een motief, gebed of vergelijking in het plaatselijke gedicht; de historische vlucht in Psalm 3:1 blijft onderscheiden."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 4,
+        "verse": 8,
+        "file": "4-8.webp",
+        "alt": "Beeld bij Psalmen 4: Vreugde die groter is dan een rijke oogst",
+        "scene": "Vreugde die groter is dan een rijke oogst"
+      },
+      "after": {
+        "chapter": 4,
+        "verse": 8,
+        "file": "4-8.webp",
+        "alt": "Beeld bij Psalmen 4: Vreugde die groter is dan een rijke oogst",
+        "scene": "Vreugde die groter is dan een rijke oogst",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie van een motief, gebed of vergelijking in het plaatselijke gedicht; de historische vlucht in Psalm 3:1 blijft onderscheiden."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 4,
+        "verse": 9,
+        "file": "4-9.webp",
+        "alt": "Beeld bij Psalmen 4: In vrede gaan liggen en slapen",
+        "scene": "In vrede gaan liggen en slapen"
+      },
+      "after": {
+        "chapter": 4,
+        "verse": 9,
+        "file": "4-9.webp",
+        "alt": "Beeld bij Psalmen 4: In vrede gaan liggen en slapen",
+        "scene": "In vrede gaan liggen en slapen",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie van een motief, gebed of vergelijking in het plaatselijke gedicht; de historische vlucht in Psalm 3:1 blijft onderscheiden."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 5,
+        "verse": 4,
+        "file": "5-4.webp",
+        "alt": "Beeld bij Psalmen 5: Morgengebed terwijl de dag begint",
+        "scene": "Morgengebed terwijl de dag begint"
+      },
+      "after": {
+        "chapter": 5,
+        "verse": 4,
+        "file": "5-4.webp",
+        "alt": "Beeld bij Psalmen 5: Morgengebed terwijl de dag begint",
+        "scene": "Morgengebed terwijl de dag begint",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie van een motief, gebed of vergelijking in het plaatselijke gedicht; de historische vlucht in Psalm 3:1 blijft onderscheiden."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 5,
+        "verse": 9,
+        "file": "5-9.webp",
+        "alt": "Beeld bij Psalmen 5: Beeldspraak: maak mijn weg recht",
+        "scene": "Beeldspraak: maak mijn weg recht"
+      },
+      "after": {
+        "chapter": 5,
+        "verse": 9,
+        "file": "5-9.webp",
+        "alt": "Beeld bij Psalmen 5: Beeldspraak: maak mijn weg recht",
+        "scene": "Beeldspraak: maak mijn weg recht",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie van een motief, gebed of vergelijking in het plaatselijke gedicht; de historische vlucht in Psalm 3:1 blijft onderscheiden."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 5,
+        "verse": 13,
+        "file": "5-13.webp",
+        "alt": "Beeld bij Psalmen 5: Beeldspraak: omringd met goedheid als een schild",
+        "scene": "Beeldspraak: omringd met goedheid als een schild"
+      },
+      "after": {
+        "chapter": 5,
+        "verse": 13,
+        "file": "5-13.webp",
+        "alt": "Beeld bij Psalmen 5: Beeldspraak: omringd met goedheid als een schild",
+        "scene": "Beeldspraak: omringd met goedheid als een schild",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie van een motief, gebed of vergelijking in het plaatselijke gedicht; de historische vlucht in Psalm 3:1 blijft onderscheiden."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 6,
+        "verse": 3,
+        "file": "6-3.webp",
+        "alt": "Beeld bij Psalmen 6: Gebed van een uitgeputte mens",
+        "scene": "Gebed van een uitgeputte mens"
+      },
+      "after": {
+        "chapter": 6,
+        "verse": 3,
+        "file": "6-3.webp",
+        "alt": "Beeld bij Psalmen 6: Gebed van een uitgeputte mens",
+        "scene": "Gebed van een uitgeputte mens",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie van een motief, gebed of vergelijking in het plaatselijke gedicht; de historische vlucht in Psalm 3:1 blijft onderscheiden."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 6,
+        "verse": 7,
+        "file": "6-7.webp",
+        "alt": "Beeld bij Psalmen 6: Een bed nat van tranen",
+        "scene": "Een bed nat van tranen"
+      },
+      "after": {
+        "chapter": 6,
+        "verse": 7,
+        "file": "6-7.webp",
+        "alt": "Beeld bij Psalmen 6: Een bed nat van tranen",
+        "scene": "Een bed nat van tranen",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie van een motief, gebed of vergelijking in het plaatselijke gedicht; de historische vlucht in Psalm 3:1 blijft onderscheiden."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 6,
+        "verse": 10,
+        "file": "6-10.webp",
+        "alt": "Beeld bij Psalmen 6: Vertrouwen dat het gebed is gehoord",
+        "scene": "Vertrouwen dat het gebed is gehoord"
+      },
+      "after": {
+        "chapter": 6,
+        "verse": 10,
+        "file": "6-10.webp",
+        "alt": "Beeld bij Psalmen 6: Vertrouwen dat het gebed is gehoord",
+        "scene": "Vertrouwen dat het gebed is gehoord",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie van een motief, gebed of vergelijking in het plaatselijke gedicht; de historische vlucht in Psalm 3:1 blijft onderscheiden."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 7,
+        "verse": 2,
+        "file": "7-2.webp",
+        "alt": "Beeld bij Psalmen 7: Schuilen voor achtervolgers",
+        "scene": "Schuilen voor achtervolgers"
+      },
+      "after": {
+        "chapter": 7,
+        "verse": 2,
+        "file": "7-2.webp",
+        "alt": "Beeld bij Psalmen 7: Schuilen voor achtervolgers",
+        "scene": "Schuilen voor achtervolgers",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie van een motief, gebed of vergelijking in het plaatselijke gedicht; de historische vlucht in Psalm 3:1 blijft onderscheiden."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 7,
+        "verse": 16,
+        "file": "7-16.webp",
+        "alt": "Beeld bij Psalmen 7: Beeldspraak: de zelf gegraven kuil",
+        "scene": "Beeldspraak: de zelf gegraven kuil"
+      },
+      "after": {
+        "chapter": 7,
+        "verse": 16,
+        "file": "7-16.webp",
+        "alt": "Beeld bij Psalmen 7: Beeldspraak: de zelf gegraven kuil",
+        "scene": "Beeldspraak: de zelf gegraven kuil",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie van een motief, gebed of vergelijking in het plaatselijke gedicht; de historische vlucht in Psalm 3:1 blijft onderscheiden."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 7,
+        "verse": 18,
+        "file": "7-18.webp",
+        "alt": "Beeld bij Psalmen 7: David zingt over Gods gerechtigheid",
+        "scene": "David zingt over Gods gerechtigheid"
+      },
+      "after": {
+        "chapter": 7,
+        "verse": 18,
+        "file": "7-18.webp",
+        "alt": "Beeld bij Psalmen 7: David zingt over Gods gerechtigheid",
+        "scene": "David zingt over Gods gerechtigheid",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie van een motief, gebed of vergelijking in het plaatselijke gedicht; de historische vlucht in Psalm 3:1 blijft onderscheiden."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 9,
+        "verse": 10,
+        "file": "9-10.webp",
+        "alt": "Beeld bij Psalmen 9: Beeldspraak: een burcht in tijden van nood",
+        "scene": "Beeldspraak: een burcht in tijden van nood"
+      },
+      "after": {
+        "chapter": 9,
+        "verse": 10,
+        "file": "9-10.webp",
+        "alt": "Beeld bij Psalmen 9: Beeldspraak: een burcht in tijden van nood",
+        "scene": "Beeldspraak: een burcht in tijden van nood",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie van een motief, gebed of vergelijking in het plaatselijke gedicht; de historische vlucht in Psalm 3:1 blijft onderscheiden."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 9,
+        "verse": 15,
+        "file": "9-15.webp",
+        "alt": "Beeld bij Psalmen 9: Lof zingen in de poorten van Sion",
+        "scene": "Lof zingen in de poorten van Sion"
+      },
+      "after": {
+        "chapter": 9,
+        "verse": 15,
+        "file": "9-15.webp",
+        "alt": "Beeld bij Psalmen 9: Lof zingen in de poorten van Sion",
+        "scene": "Lof zingen in de poorten van Sion",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie van een motief, gebed of vergelijking in het plaatselijke gedicht; de historische vlucht in Psalm 3:1 blijft onderscheiden."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 9,
+        "verse": 19,
+        "file": "9-19.webp",
+        "alt": "Beeld bij Psalmen 9: De hoop van de arme gaat niet verloren",
+        "scene": "De hoop van de arme gaat niet verloren"
+      },
+      "after": {
+        "chapter": 9,
+        "verse": 19,
+        "file": "9-19.webp",
+        "alt": "Beeld bij Psalmen 9: De hoop van de arme gaat niet verloren",
+        "scene": "De hoop van de arme gaat niet verloren",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie van een motief, gebed of vergelijking in het plaatselijke gedicht; de historische vlucht in Psalm 3:1 blijft onderscheiden."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 10,
+        "verse": 1,
+        "file": "10-1.webp",
+        "alt": "Beeld bij Psalmen 10: Roepen wanneer God ver weg lijkt",
+        "scene": "Roepen wanneer God ver weg lijkt"
+      },
+      "after": {
+        "chapter": 10,
+        "verse": 1,
+        "file": "10-1.webp",
+        "alt": "Beeld bij Psalmen 10: Roepen wanneer God ver weg lijkt",
+        "scene": "Roepen wanneer God ver weg lijkt",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie van een motief, gebed of vergelijking in het plaatselijke gedicht; de historische vlucht in Psalm 3:1 blijft onderscheiden."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 10,
+        "verse": 14,
+        "file": "10-14.webp",
+        "alt": "Beeld bij Psalmen 10: De wees vindt hulp",
+        "scene": "De wees vindt hulp"
+      },
+      "after": {
+        "chapter": 10,
+        "verse": 14,
+        "file": "10-14.webp",
+        "alt": "Beeld bij Psalmen 10: De wees vindt hulp",
+        "scene": "De wees vindt hulp",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie van een motief, gebed of vergelijking in het plaatselijke gedicht; de historische vlucht in Psalm 3:1 blijft onderscheiden."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 10,
+        "verse": 17,
+        "file": "10-17.webp",
+        "alt": "Beeld bij Psalmen 10: Het hart van de zachtmoedige krijgt kracht",
+        "scene": "Het hart van de zachtmoedige krijgt kracht"
+      },
+      "after": {
+        "chapter": 10,
+        "verse": 17,
+        "file": "10-17.webp",
+        "alt": "Beeld bij Psalmen 10: Het hart van de zachtmoedige krijgt kracht",
+        "scene": "Het hart van de zachtmoedige krijgt kracht",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie van een motief, gebed of vergelijking in het plaatselijke gedicht; de historische vlucht in Psalm 3:1 blijft onderscheiden."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 11,
+        "verse": 1,
+        "file": "11-1.webp",
+        "alt": "Beeld bij Psalmen 11: Beeldspraak: een vogel vlucht naar de bergen",
+        "scene": "Beeldspraak: een vogel vlucht naar de bergen"
+      },
+      "after": {
+        "chapter": 11,
+        "verse": 1,
+        "file": "11-1.webp",
+        "alt": "Beeld bij Psalmen 11: Beeldspraak: een vogel vlucht naar de bergen",
+        "scene": "Beeldspraak: een vogel vlucht naar de bergen",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie van een motief, gebed of vergelijking in het plaatselijke gedicht; de historische vlucht in Psalm 3:1 blijft onderscheiden."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 11,
+        "verse": 2,
+        "file": "11-2.webp",
+        "alt": "Beeld bij Psalmen 11: Een verborgen boogschutter bedreigt de oprechte",
+        "scene": "Een verborgen boogschutter bedreigt de oprechte"
+      },
+      "after": {
+        "chapter": 11,
+        "verse": 2,
+        "file": "11-2.webp",
+        "alt": "Beeld bij Psalmen 11: Een verborgen boogschutter bedreigt de oprechte",
+        "scene": "Een verborgen boogschutter bedreigt de oprechte",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie van een motief, gebed of vergelijking in het plaatselijke gedicht; de historische vlucht in Psalm 3:1 blijft onderscheiden."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 11,
+        "verse": 7,
+        "file": "11-7.webp",
+        "alt": "Beeld bij Psalmen 11: Wie oprecht is zoekt Gods gezicht",
+        "scene": "Wie oprecht is zoekt Gods gezicht"
+      },
+      "after": {
+        "chapter": 11,
+        "verse": 7,
+        "file": "11-7.webp",
+        "alt": "Beeld bij Psalmen 11: Wie oprecht is zoekt Gods gezicht",
+        "scene": "Wie oprecht is zoekt Gods gezicht",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie van een motief, gebed of vergelijking in het plaatselijke gedicht; de historische vlucht in Psalm 3:1 blijft onderscheiden."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 12,
+        "verse": 3,
+        "file": "12-3.webp",
+        "alt": "Beeld bij Psalmen 12: Vleiende lippen en een dubbel hart",
+        "scene": "Vleiende lippen en een dubbel hart"
+      },
+      "after": {
+        "chapter": 12,
+        "verse": 3,
+        "file": "12-3.webp",
+        "alt": "Beeld bij Psalmen 12: Vleiende lippen en een dubbel hart",
+        "scene": "Vleiende lippen en een dubbel hart",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie van een motief, gebed of vergelijking in het plaatselijke gedicht; de historische vlucht in Psalm 3:1 blijft onderscheiden."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 12,
+        "verse": 6,
+        "file": "12-6.webp",
+        "alt": "Beeld bij Psalmen 12: Hoop op redding voor de armen",
+        "scene": "Hoop op redding voor de armen"
+      },
+      "after": {
+        "chapter": 12,
+        "verse": 6,
+        "file": "12-6.webp",
+        "alt": "Beeld bij Psalmen 12: Hoop op redding voor de armen",
+        "scene": "Hoop op redding voor de armen",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie van een motief, gebed of vergelijking in het plaatselijke gedicht; de historische vlucht in Psalm 3:1 blijft onderscheiden."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 12,
+        "verse": 7,
+        "file": "12-7.webp",
+        "alt": "Beeld bij Psalmen 12: Beeldspraak: zuiver zilver uit de oven",
+        "scene": "Beeldspraak: zuiver zilver uit de oven"
+      },
+      "after": {
+        "chapter": 12,
+        "verse": 7,
+        "file": "12-7.webp",
+        "alt": "Beeld bij Psalmen 12: Beeldspraak: zuiver zilver uit de oven",
+        "scene": "Beeldspraak: zuiver zilver uit de oven",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie van een motief, gebed of vergelijking in het plaatselijke gedicht; de historische vlucht in Psalm 3:1 blijft onderscheiden."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 13,
+        "verse": 2,
+        "file": "13-2.webp",
+        "alt": "Beeld bij Psalmen 13: Hoelang nog, HEERE?",
+        "scene": "Hoelang nog, HEERE?"
+      },
+      "after": {
+        "chapter": 13,
+        "verse": 2,
+        "file": "13-2.webp",
+        "alt": "Beeld bij Psalmen 13: Hoelang nog, HEERE?",
+        "scene": "Hoelang nog, HEERE?",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie van een motief, gebed of vergelijking in het plaatselijke gedicht; de historische vlucht in Psalm 3:1 blijft onderscheiden."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 13,
+        "verse": 4,
+        "file": "13-4.webp",
+        "alt": "Beeld bij Psalmen 13: Gebed om licht voor de ogen",
+        "scene": "Gebed om licht voor de ogen"
+      },
+      "after": {
+        "chapter": 13,
+        "verse": 4,
+        "file": "13-4.webp",
+        "alt": "Beeld bij Psalmen 13: Gebed om licht voor de ogen",
+        "scene": "Gebed om licht voor de ogen",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie van een motief, gebed of vergelijking in het plaatselijke gedicht; de historische vlucht in Psalm 3:1 blijft onderscheiden."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 13,
+        "verse": 7,
+        "file": "13-7.webp",
+        "alt": "Beeld bij Psalmen 13: Zingen omdat God goed is geweest",
+        "scene": "Zingen omdat God goed is geweest"
+      },
+      "after": {
+        "chapter": 13,
+        "verse": 7,
+        "file": "13-7.webp",
+        "alt": "Beeld bij Psalmen 13: Zingen omdat God goed is geweest",
+        "scene": "Zingen omdat God goed is geweest",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie van een motief, gebed of vergelijking in het plaatselijke gedicht; de historische vlucht in Psalm 3:1 blijft onderscheiden."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 14,
+        "verse": 4,
+        "file": "14-4.webp",
+        "alt": "Beeld bij Psalmen 14: Mensen die onrecht doen vergeten God",
+        "scene": "Mensen die onrecht doen vergeten God"
+      },
+      "after": {
+        "chapter": 14,
+        "verse": 4,
+        "file": "14-4.webp",
+        "alt": "Beeld bij Psalmen 14: Mensen die onrecht doen vergeten God",
+        "scene": "Mensen die onrecht doen vergeten God",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie van een motief, gebed of vergelijking in het plaatselijke gedicht; de historische vlucht in Psalm 3:1 blijft onderscheiden."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 14,
+        "verse": 6,
+        "file": "14-6.webp",
+        "alt": "Beeld bij Psalmen 14: De HEERE is de toevlucht van de arme",
+        "scene": "De HEERE is de toevlucht van de arme"
+      },
+      "after": {
+        "chapter": 14,
+        "verse": 6,
+        "file": "14-6.webp",
+        "alt": "Beeld bij Psalmen 14: De HEERE is de toevlucht van de arme",
+        "scene": "De HEERE is de toevlucht van de arme",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie van een motief, gebed of vergelijking in het plaatselijke gedicht; de historische vlucht in Psalm 3:1 blijft onderscheiden."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 14,
+        "verse": 7,
+        "file": "14-7.webp",
+        "alt": "Beeld bij Psalmen 14: Verlangen naar vreugde vanuit Sion",
+        "scene": "Verlangen naar vreugde vanuit Sion"
+      },
+      "after": {
+        "chapter": 14,
+        "verse": 7,
+        "file": "14-7.webp",
+        "alt": "Beeld bij Psalmen 14: Verlangen naar vreugde vanuit Sion",
+        "scene": "Verlangen naar vreugde vanuit Sion",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie van een motief, gebed of vergelijking in het plaatselijke gedicht; de historische vlucht in Psalm 3:1 blijft onderscheiden."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 15,
+        "verse": 1,
+        "file": "15-1.webp",
+        "alt": "Beeld bij Psalmen 15: Wie mag verblijven in Gods tent?",
+        "scene": "Wie mag verblijven in Gods tent?"
+      },
+      "after": {
+        "chapter": 15,
+        "verse": 1,
+        "file": "15-1.webp",
+        "alt": "Beeld bij Psalmen 15: Wie mag verblijven in Gods tent?",
+        "scene": "Wie mag verblijven in Gods tent?",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie van een motief, gebed of vergelijking in het plaatselijke gedicht; de historische vlucht in Psalm 3:1 blijft onderscheiden."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 15,
+        "verse": 2,
+        "file": "15-2.webp",
+        "alt": "Beeld bij Psalmen 15: Oprecht leven en de waarheid spreken",
+        "scene": "Oprecht leven en de waarheid spreken"
+      },
+      "after": {
+        "chapter": 15,
+        "verse": 2,
+        "file": "15-2.webp",
+        "alt": "Beeld bij Psalmen 15: Oprecht leven en de waarheid spreken",
+        "scene": "Oprecht leven en de waarheid spreken",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie van een motief, gebed of vergelijking in het plaatselijke gedicht; de historische vlucht in Psalm 3:1 blijft onderscheiden."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 15,
+        "verse": 5,
+        "file": "15-5.webp",
+        "alt": "Beeld bij Psalmen 15: Geen geschenk aannemen tegen de onschuldige",
+        "scene": "Geen geschenk aannemen tegen de onschuldige"
+      },
+      "after": {
+        "chapter": 15,
+        "verse": 5,
+        "file": "15-5.webp",
+        "alt": "Beeld bij Psalmen 15: Geen geschenk aannemen tegen de onschuldige",
+        "scene": "Geen geschenk aannemen tegen de onschuldige",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie van een motief, gebed of vergelijking in het plaatselijke gedicht; de historische vlucht in Psalm 3:1 blijft onderscheiden."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 16,
+        "verse": 5,
+        "file": "16-5.webp",
+        "alt": "Beeld bij Psalmen 16: Beeldspraak: mijn erfdeel en mijn beker",
+        "scene": "Beeldspraak: mijn erfdeel en mijn beker"
+      },
+      "after": {
+        "chapter": 16,
+        "verse": 5,
+        "file": "16-5.webp",
+        "alt": "Beeld bij Psalmen 16: Beeldspraak: mijn erfdeel en mijn beker",
+        "scene": "Beeldspraak: mijn erfdeel en mijn beker",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie van een motief, gebed of vergelijking in het plaatselijke gedicht; de historische vlucht in Psalm 3:1 blijft onderscheiden."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 16,
+        "verse": 6,
+        "file": "16-6.webp",
+        "alt": "Beeld bij Psalmen 16: Een erfdeel in mooi gebied",
+        "scene": "Een erfdeel in mooi gebied"
+      },
+      "after": {
+        "chapter": 16,
+        "verse": 6,
+        "file": "16-6.webp",
+        "alt": "Beeld bij Psalmen 16: Een erfdeel in mooi gebied",
+        "scene": "Een erfdeel in mooi gebied",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie van een motief, gebed of vergelijking in het plaatselijke gedicht; de historische vlucht in Psalm 3:1 blijft onderscheiden."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 16,
+        "verse": 11,
+        "file": "16-11.webp",
+        "alt": "Beeld bij Psalmen 16: Beeldspraak: het pad van het leven",
+        "scene": "Beeldspraak: het pad van het leven"
+      },
+      "after": {
+        "chapter": 16,
+        "verse": 11,
+        "file": "16-11.webp",
+        "alt": "Beeld bij Psalmen 16: Beeldspraak: het pad van het leven",
+        "scene": "Beeldspraak: het pad van het leven",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie van een motief, gebed of vergelijking in het plaatselijke gedicht; de historische vlucht in Psalm 3:1 blijft onderscheiden."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 17,
+        "verse": 1,
+        "file": "17-1.webp",
+        "alt": "Beeld bij Psalmen 17: Gebed uit eerlijke lippen",
+        "scene": "Gebed uit eerlijke lippen"
+      },
+      "after": {
+        "chapter": 17,
+        "verse": 1,
+        "file": "17-1.webp",
+        "alt": "Beeld bij Psalmen 17: Gebed uit eerlijke lippen",
+        "scene": "Gebed uit eerlijke lippen",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie van een motief, gebed of vergelijking in het plaatselijke gedicht; de historische vlucht in Psalm 3:1 blijft onderscheiden."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 17,
+        "verse": 5,
+        "file": "17-5.webp",
+        "alt": "Beeld bij Psalmen 17: Stappen blijven op het rechte spoor",
+        "scene": "Stappen blijven op het rechte spoor"
+      },
+      "after": {
+        "chapter": 17,
+        "verse": 5,
+        "file": "17-5.webp",
+        "alt": "Beeld bij Psalmen 17: Stappen blijven op het rechte spoor",
+        "scene": "Stappen blijven op het rechte spoor",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie van een motief, gebed of vergelijking in het plaatselijke gedicht; de historische vlucht in Psalm 3:1 blijft onderscheiden."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 17,
+        "verse": 8,
+        "file": "17-8.webp",
+        "alt": "Beeld bij Psalmen 17: Beeldspraak: schuilen onder beschermende vleugels",
+        "scene": "Beeldspraak: schuilen onder beschermende vleugels"
+      },
+      "after": {
+        "chapter": 17,
+        "verse": 8,
+        "file": "17-8.webp",
+        "alt": "Beeld bij Psalmen 17: Beeldspraak: schuilen onder beschermende vleugels",
+        "scene": "Beeldspraak: schuilen onder beschermende vleugels",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie van een motief, gebed of vergelijking in het plaatselijke gedicht; de historische vlucht in Psalm 3:1 blijft onderscheiden."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 18,
+        "verse": 3,
+        "file": "18-3.webp",
+        "alt": "Beeld bij Psalmen 18: Beeldspraak: mijn rots en mijn burcht",
+        "scene": "Beeldspraak: mijn rots en mijn burcht"
+      },
+      "after": {
+        "chapter": 18,
+        "verse": 3,
+        "file": "18-3.webp",
+        "alt": "Beeld bij Psalmen 18: Beeldspraak: mijn rots en mijn burcht",
+        "scene": "Beeldspraak: mijn rots en mijn burcht",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie van een motief, gebed of vergelijking in het plaatselijke gedicht; de historische vlucht in Psalm 3:1 blijft onderscheiden."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 18,
+        "verse": 20,
+        "file": "18-20.webp",
+        "alt": "Beeld bij Psalmen 18: Hij bracht mij in de ruimte",
+        "scene": "Hij bracht mij in de ruimte"
+      },
+      "after": {
+        "chapter": 18,
+        "verse": 20,
+        "file": "18-20.webp",
+        "alt": "Beeld bij Psalmen 18: Hij bracht mij in de ruimte",
+        "scene": "Hij bracht mij in de ruimte",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie van een motief, gebed of vergelijking in het plaatselijke gedicht; de historische vlucht in Psalm 3:1 blijft onderscheiden."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 18,
+        "verse": 29,
+        "file": "18-29.webp",
+        "alt": "Beeld bij Psalmen 18: Beeldspraak: de lamp die mijn duisternis verlicht",
+        "scene": "Beeldspraak: de lamp die mijn duisternis verlicht"
+      },
+      "after": {
+        "chapter": 18,
+        "verse": 29,
+        "file": "18-29.webp",
+        "alt": "Beeld bij Psalmen 18: Beeldspraak: de lamp die mijn duisternis verlicht",
+        "scene": "Beeldspraak: de lamp die mijn duisternis verlicht",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie van een motief, gebed of vergelijking in het plaatselijke gedicht; de historische vlucht in Psalm 3:1 blijft onderscheiden."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 19,
+        "verse": 2,
+        "file": "19-2.webp",
+        "alt": "Beeld bij Psalmen 19: De hemel vertelt Gods eer",
+        "scene": "De hemel vertelt Gods eer"
+      },
+      "after": {
+        "chapter": 19,
+        "verse": 2,
+        "file": "19-2.webp",
+        "alt": "Beeld bij Psalmen 19: De hemel vertelt Gods eer",
+        "scene": "De hemel vertelt Gods eer",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie van een motief, gebed of vergelijking in het plaatselijke gedicht; de historische vlucht in Psalm 3:1 blijft onderscheiden."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 19,
+        "verse": 7,
+        "file": "19-7.webp",
+        "alt": "Beeld bij Psalmen 19: De zon loopt haar baan langs de hemel",
+        "scene": "De zon loopt haar baan langs de hemel"
+      },
+      "after": {
+        "chapter": 19,
+        "verse": 7,
+        "file": "19-7.webp",
+        "alt": "Beeld bij Psalmen 19: De zon loopt haar baan langs de hemel",
+        "scene": "De zon loopt haar baan langs de hemel",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie van een motief, gebed of vergelijking in het plaatselijke gedicht; de historische vlucht in Psalm 3:1 blijft onderscheiden."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 19,
+        "verse": 11,
+        "file": "19-11.webp",
+        "alt": "Beeld bij Psalmen 19: Beeldspraak: kostbaarder dan goud en zoeter dan honing",
+        "scene": "Beeldspraak: kostbaarder dan goud en zoeter dan honing"
+      },
+      "after": {
+        "chapter": 19,
+        "verse": 11,
+        "file": "19-11.webp",
+        "alt": "Beeld bij Psalmen 19: Beeldspraak: kostbaarder dan goud en zoeter dan honing",
+        "scene": "Beeldspraak: kostbaarder dan goud en zoeter dan honing",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie van een motief, gebed of vergelijking in het plaatselijke gedicht; de historische vlucht in Psalm 3:1 blijft onderscheiden."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 20,
+        "verse": 4,
+        "file": "20-4.webp",
+        "alt": "Beeld bij Psalmen 20: Graanoffers in herinnering brengen",
+        "scene": "Graanoffers in herinnering brengen"
+      },
+      "after": {
+        "chapter": 20,
+        "verse": 4,
+        "file": "20-4.webp",
+        "alt": "Beeld bij Psalmen 20: Graanoffers in herinnering brengen",
+        "scene": "Graanoffers in herinnering brengen",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie van een motief, gebed of vergelijking in het plaatselijke gedicht; de historische vlucht in Psalm 3:1 blijft onderscheiden."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 20,
+        "verse": 6,
+        "file": "20-6.webp",
+        "alt": "Beeld bij Psalmen 20: De vlaggen hijsen bij de redding",
+        "scene": "De vlaggen hijsen bij de redding"
+      },
+      "after": {
+        "chapter": 20,
+        "verse": 6,
+        "file": "20-6.webp",
+        "alt": "Beeld bij Psalmen 20: De vlaggen hijsen bij de redding",
+        "scene": "De vlaggen hijsen bij de redding",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie van een motief, gebed of vergelijking in het plaatselijke gedicht; de historische vlucht in Psalm 3:1 blijft onderscheiden."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 20,
+        "verse": 8,
+        "file": "20-8.webp",
+        "alt": "Beeld bij Psalmen 20: Vertrouwen dat verder gaat dan wagens en paarden",
+        "scene": "Vertrouwen dat verder gaat dan wagens en paarden"
+      },
+      "after": {
+        "chapter": 20,
+        "verse": 8,
+        "file": "20-8.webp",
+        "alt": "Beeld bij Psalmen 20: Vertrouwen dat verder gaat dan wagens en paarden",
+        "scene": "Vertrouwen dat verder gaat dan wagens en paarden",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie van een motief, gebed of vergelijking in het plaatselijke gedicht; de historische vlucht in Psalm 3:1 blijft onderscheiden."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 8,
+        "verse": 3,
+        "file": "8-3.webp",
+        "alt": "Beeld bij Psalmen 8: Kinderen laten Gods lof horen",
+        "scene": "Kinderen laten Gods lof horen"
+      },
+      "after": {
+        "chapter": 8,
+        "verse": 3,
+        "file": "8-3.webp",
+        "alt": "Beeld bij Psalmen 8: Kinderen laten Gods lof horen",
+        "scene": "Kinderen laten Gods lof horen",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie van een motief, gebed of vergelijking in het plaatselijke gedicht; de historische vlucht in Psalm 3:1 blijft onderscheiden."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 8,
+        "verse": 4,
+        "file": "8-4.webp",
+        "alt": "Beeld bij Psalmen 8: De maan en de sterren aan de hemel",
+        "scene": "De maan en de sterren aan de hemel"
+      },
+      "after": {
+        "chapter": 8,
+        "verse": 4,
+        "file": "8-4.webp",
+        "alt": "Beeld bij Psalmen 8: De maan en de sterren aan de hemel",
+        "scene": "De maan en de sterren aan de hemel",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie van een motief, gebed of vergelijking in het plaatselijke gedicht; de historische vlucht in Psalm 3:1 blijft onderscheiden."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 8,
+        "verse": 9,
+        "file": "8-9.webp",
+        "alt": "Beeld bij Psalmen 8: Vogels en vissen in Gods schepping",
+        "scene": "Vogels en vissen in Gods schepping"
+      },
+      "after": {
+        "chapter": 8,
+        "verse": 9,
+        "file": "8-9.webp",
+        "alt": "Beeld bij Psalmen 8: Vogels en vissen in Gods schepping",
+        "scene": "Vogels en vissen in Gods schepping",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie van een motief, gebed of vergelijking in het plaatselijke gedicht; de historische vlucht in Psalm 3:1 blijft onderscheiden."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 21,
+        "verse": 2,
+        "file": "21-2.webp",
+        "alt": "Beeld bij Psalmen 21: De koning juicht om Gods redding",
+        "scene": "De koning juicht om Gods redding"
+      },
+      "after": {
+        "chapter": 21,
+        "verse": 2,
+        "file": "21-2.webp",
+        "alt": "Beeld bij Psalmen 21: De koning juicht om Gods redding",
+        "scene": "De koning juicht om Gods redding",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie van een motief, gebed of vergelijking in het plaatselijke gedicht; de historische vlucht in Psalm 3:1 blijft onderscheiden."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 21,
+        "verse": 4,
+        "file": "21-4.webp",
+        "alt": "Beeld bij Psalmen 21: Een kroon van zuiver goud",
+        "scene": "Een kroon van zuiver goud"
+      },
+      "after": {
+        "chapter": 21,
+        "verse": 4,
+        "file": "21-4.webp",
+        "alt": "Beeld bij Psalmen 21: Een kroon van zuiver goud",
+        "scene": "Een kroon van zuiver goud",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie van een motief, gebed of vergelijking in het plaatselijke gedicht; de historische vlucht in Psalm 3:1 blijft onderscheiden."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 21,
+        "verse": 14,
+        "file": "21-14.webp",
+        "alt": "Beeld bij Psalmen 21: Samen Gods kracht bezingen",
+        "scene": "Samen Gods kracht bezingen"
+      },
+      "after": {
+        "chapter": 21,
+        "verse": 14,
+        "file": "21-14.webp",
+        "alt": "Beeld bij Psalmen 21: Samen Gods kracht bezingen",
+        "scene": "Samen Gods kracht bezingen",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie van een motief, gebed of vergelijking in het plaatselijke gedicht; de historische vlucht in Psalm 3:1 blijft onderscheiden."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 22,
+        "verse": 2,
+        "file": "22-2.webp",
+        "alt": "Beeld bij Psalmen 22: Waarom hebt U mij verlaten?",
+        "scene": "Waarom hebt U mij verlaten?"
+      },
+      "after": {
+        "chapter": 22,
+        "verse": 2,
+        "file": "22-2.webp",
+        "alt": "Beeld bij Psalmen 22: Waarom hebt U mij verlaten?",
+        "scene": "Waarom hebt U mij verlaten?",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie bij gebed, voorbeeld, terugblik of beeldspraak van het plaatselijke gedicht; geen toegevoegd afzonderlijk historisch verslag."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 22,
+        "verse": 19,
+        "file": "22-19.webp",
+        "alt": "Beeld bij Psalmen 22: Beeldspraak: het lot over een mantel",
+        "scene": "Beeldspraak: het lot over een mantel"
+      },
+      "after": {
+        "chapter": 22,
+        "verse": 19,
+        "file": "22-19.webp",
+        "alt": "Beeld bij Psalmen 22: Beeldspraak: het lot over een mantel",
+        "scene": "Beeldspraak: het lot over een mantel",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie bij gebed, voorbeeld, terugblik of beeldspraak van het plaatselijke gedicht; geen toegevoegd afzonderlijk historisch verslag."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 22,
+        "verse": 27,
+        "file": "22-27.webp",
+        "alt": "Beeld bij Psalmen 22: De armen zullen eten en verzadigd worden",
+        "scene": "De armen zullen eten en verzadigd worden"
+      },
+      "after": {
+        "chapter": 22,
+        "verse": 27,
+        "file": "22-27.webp",
+        "alt": "Beeld bij Psalmen 22: De armen zullen eten en verzadigd worden",
+        "scene": "De armen zullen eten en verzadigd worden",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie bij gebed, voorbeeld, terugblik of beeldspraak van het plaatselijke gedicht; geen toegevoegd afzonderlijk historisch verslag."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 24,
+        "verse": 1,
+        "file": "24-1.webp",
+        "alt": "Beeld bij Psalmen 24: De aarde en alles wat erop is",
+        "scene": "De aarde en alles wat erop is"
+      },
+      "after": {
+        "chapter": 24,
+        "verse": 1,
+        "file": "24-1.webp",
+        "alt": "Beeld bij Psalmen 24: De aarde en alles wat erop is",
+        "scene": "De aarde en alles wat erop is",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie bij gebed, voorbeeld, terugblik of beeldspraak van het plaatselijke gedicht; geen toegevoegd afzonderlijk historisch verslag."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 24,
+        "verse": 4,
+        "file": "24-4.webp",
+        "alt": "Beeld bij Psalmen 24: Reine handen en een zuiver hart",
+        "scene": "Reine handen en een zuiver hart"
+      },
+      "after": {
+        "chapter": 24,
+        "verse": 4,
+        "file": "24-4.webp",
+        "alt": "Beeld bij Psalmen 24: Reine handen en een zuiver hart",
+        "scene": "Reine handen en een zuiver hart",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie bij gebed, voorbeeld, terugblik of beeldspraak van het plaatselijke gedicht; geen toegevoegd afzonderlijk historisch verslag."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 24,
+        "verse": 7,
+        "file": "24-7.webp",
+        "alt": "Beeld bij Psalmen 24: Eeuwenoude deuren gaan open",
+        "scene": "Eeuwenoude deuren gaan open"
+      },
+      "after": {
+        "chapter": 24,
+        "verse": 7,
+        "file": "24-7.webp",
+        "alt": "Beeld bij Psalmen 24: Eeuwenoude deuren gaan open",
+        "scene": "Eeuwenoude deuren gaan open",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie bij gebed, voorbeeld, terugblik of beeldspraak van het plaatselijke gedicht; geen toegevoegd afzonderlijk historisch verslag."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 25,
+        "verse": 4,
+        "file": "25-4.webp",
+        "alt": "Beeld bij Psalmen 25: Leer mij Uw paden",
+        "scene": "Leer mij Uw paden"
+      },
+      "after": {
+        "chapter": 25,
+        "verse": 4,
+        "file": "25-4.webp",
+        "alt": "Beeld bij Psalmen 25: Leer mij Uw paden",
+        "scene": "Leer mij Uw paden",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie bij gebed, voorbeeld, terugblik of beeldspraak van het plaatselijke gedicht; geen toegevoegd afzonderlijk historisch verslag."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 25,
+        "verse": 15,
+        "file": "25-15.webp",
+        "alt": "Beeld bij Psalmen 25: Beeldspraak: voeten bevrijd uit het net",
+        "scene": "Beeldspraak: voeten bevrijd uit het net"
+      },
+      "after": {
+        "chapter": 25,
+        "verse": 15,
+        "file": "25-15.webp",
+        "alt": "Beeld bij Psalmen 25: Beeldspraak: voeten bevrijd uit het net",
+        "scene": "Beeldspraak: voeten bevrijd uit het net",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie bij gebed, voorbeeld, terugblik of beeldspraak van het plaatselijke gedicht; geen toegevoegd afzonderlijk historisch verslag."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 25,
+        "verse": 16,
+        "file": "25-16.webp",
+        "alt": "Beeld bij Psalmen 25: Genade voor een eenzame mens",
+        "scene": "Genade voor een eenzame mens"
+      },
+      "after": {
+        "chapter": 25,
+        "verse": 16,
+        "file": "25-16.webp",
+        "alt": "Beeld bij Psalmen 25: Genade voor een eenzame mens",
+        "scene": "Genade voor een eenzame mens",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie bij gebed, voorbeeld, terugblik of beeldspraak van het plaatselijke gedicht; geen toegevoegd afzonderlijk historisch verslag."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 26,
+        "verse": 6,
+        "file": "26-6.webp",
+        "alt": "Beeld bij Psalmen 26: De handen wassen in onschuld",
+        "scene": "De handen wassen in onschuld"
+      },
+      "after": {
+        "chapter": 26,
+        "verse": 6,
+        "file": "26-6.webp",
+        "alt": "Beeld bij Psalmen 26: De handen wassen in onschuld",
+        "scene": "De handen wassen in onschuld",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie bij gebed, voorbeeld, terugblik of beeldspraak van het plaatselijke gedicht; geen toegevoegd afzonderlijk historisch verslag."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 26,
+        "verse": 8,
+        "file": "26-8.webp",
+        "alt": "Beeld bij Psalmen 26: Liefde voor de plaats van Gods eer",
+        "scene": "Liefde voor de plaats van Gods eer"
+      },
+      "after": {
+        "chapter": 26,
+        "verse": 8,
+        "file": "26-8.webp",
+        "alt": "Beeld bij Psalmen 26: Liefde voor de plaats van Gods eer",
+        "scene": "Liefde voor de plaats van Gods eer",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie bij gebed, voorbeeld, terugblik of beeldspraak van het plaatselijke gedicht; geen toegevoegd afzonderlijk historisch verslag."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 26,
+        "verse": 12,
+        "file": "26-12.webp",
+        "alt": "Beeld bij Psalmen 26: Lof zingen op vaste grond",
+        "scene": "Lof zingen op vaste grond"
+      },
+      "after": {
+        "chapter": 26,
+        "verse": 12,
+        "file": "26-12.webp",
+        "alt": "Beeld bij Psalmen 26: Lof zingen op vaste grond",
+        "scene": "Lof zingen op vaste grond",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie bij gebed, voorbeeld, terugblik of beeldspraak van het plaatselijke gedicht; geen toegevoegd afzonderlijk historisch verslag."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 27,
+        "verse": 1,
+        "file": "27-1.webp",
+        "alt": "Beeld bij Psalmen 27: Beeldspraak: licht en redding",
+        "scene": "Beeldspraak: licht en redding"
+      },
+      "after": {
+        "chapter": 27,
+        "verse": 1,
+        "file": "27-1.webp",
+        "alt": "Beeld bij Psalmen 27: Beeldspraak: licht en redding",
+        "scene": "Beeldspraak: licht en redding",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie bij gebed, voorbeeld, terugblik of beeldspraak van het plaatselijke gedicht; geen toegevoegd afzonderlijk historisch verslag."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 27,
+        "verse": 5,
+        "file": "27-5.webp",
+        "alt": "Beeld bij Psalmen 27: Beeldspraak: veilig in een tent op de rots",
+        "scene": "Beeldspraak: veilig in een tent op de rots"
+      },
+      "after": {
+        "chapter": 27,
+        "verse": 5,
+        "file": "27-5.webp",
+        "alt": "Beeld bij Psalmen 27: Beeldspraak: veilig in een tent op de rots",
+        "scene": "Beeldspraak: veilig in een tent op de rots",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie bij gebed, voorbeeld, terugblik of beeldspraak van het plaatselijke gedicht; geen toegevoegd afzonderlijk historisch verslag."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 27,
+        "verse": 14,
+        "file": "27-14.webp",
+        "alt": "Beeld bij Psalmen 27: Wachten met een sterk hart",
+        "scene": "Wachten met een sterk hart"
+      },
+      "after": {
+        "chapter": 27,
+        "verse": 14,
+        "file": "27-14.webp",
+        "alt": "Beeld bij Psalmen 27: Wachten met een sterk hart",
+        "scene": "Wachten met een sterk hart",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie bij gebed, voorbeeld, terugblik of beeldspraak van het plaatselijke gedicht; geen toegevoegd afzonderlijk historisch verslag."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 28,
+        "verse": 2,
+        "file": "28-2.webp",
+        "alt": "Beeld bij Psalmen 28: Handen opheffen in gebed",
+        "scene": "Handen opheffen in gebed"
+      },
+      "after": {
+        "chapter": 28,
+        "verse": 2,
+        "file": "28-2.webp",
+        "alt": "Beeld bij Psalmen 28: Handen opheffen in gebed",
+        "scene": "Handen opheffen in gebed",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie bij gebed, voorbeeld, terugblik of beeldspraak van het plaatselijke gedicht; geen toegevoegd afzonderlijk historisch verslag."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 28,
+        "verse": 7,
+        "file": "28-7.webp",
+        "alt": "Beeld bij Psalmen 28: Beeldspraak: kracht en schild",
+        "scene": "Beeldspraak: kracht en schild"
+      },
+      "after": {
+        "chapter": 28,
+        "verse": 7,
+        "file": "28-7.webp",
+        "alt": "Beeld bij Psalmen 28: Beeldspraak: kracht en schild",
+        "scene": "Beeldspraak: kracht en schild",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie bij gebed, voorbeeld, terugblik of beeldspraak van het plaatselijke gedicht; geen toegevoegd afzonderlijk historisch verslag."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 28,
+        "verse": 9,
+        "file": "28-9.webp",
+        "alt": "Beeld bij Psalmen 28: Beeldspraak: weid Uw volk en draag hen",
+        "scene": "Beeldspraak: weid Uw volk en draag hen"
+      },
+      "after": {
+        "chapter": 28,
+        "verse": 9,
+        "file": "28-9.webp",
+        "alt": "Beeld bij Psalmen 28: Beeldspraak: weid Uw volk en draag hen",
+        "scene": "Beeldspraak: weid Uw volk en draag hen",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie bij gebed, voorbeeld, terugblik of beeldspraak van het plaatselijke gedicht; geen toegevoegd afzonderlijk historisch verslag."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 29,
+        "verse": 3,
+        "file": "29-3.webp",
+        "alt": "Beeld bij Psalmen 29: Donder boven het grote water",
+        "scene": "Donder boven het grote water"
+      },
+      "after": {
+        "chapter": 29,
+        "verse": 3,
+        "file": "29-3.webp",
+        "alt": "Beeld bij Psalmen 29: Donder boven het grote water",
+        "scene": "Donder boven het grote water",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie bij gebed, voorbeeld, terugblik of beeldspraak van het plaatselijke gedicht; geen toegevoegd afzonderlijk historisch verslag."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 29,
+        "verse": 5,
+        "file": "29-5.webp",
+        "alt": "Beeld bij Psalmen 29: De storm breekt de ceders",
+        "scene": "De storm breekt de ceders"
+      },
+      "after": {
+        "chapter": 29,
+        "verse": 5,
+        "file": "29-5.webp",
+        "alt": "Beeld bij Psalmen 29: De storm breekt de ceders",
+        "scene": "De storm breekt de ceders",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie bij gebed, voorbeeld, terugblik of beeldspraak van het plaatselijke gedicht; geen toegevoegd afzonderlijk historisch verslag."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 29,
+        "verse": 11,
+        "file": "29-11.webp",
+        "alt": "Beeld bij Psalmen 29: Vrede voor Gods volk",
+        "scene": "Vrede voor Gods volk"
+      },
+      "after": {
+        "chapter": 29,
+        "verse": 11,
+        "file": "29-11.webp",
+        "alt": "Beeld bij Psalmen 29: Vrede voor Gods volk",
+        "scene": "Vrede voor Gods volk",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie bij gebed, voorbeeld, terugblik of beeldspraak van het plaatselijke gedicht; geen toegevoegd afzonderlijk historisch verslag."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 30,
+        "verse": 3,
+        "file": "30-3.webp",
+        "alt": "Beeld bij Psalmen 30: Dankbaarheid na ziekte",
+        "scene": "Dankbaarheid na ziekte"
+      },
+      "after": {
+        "chapter": 30,
+        "verse": 3,
+        "file": "30-3.webp",
+        "alt": "Beeld bij Psalmen 30: Dankbaarheid na ziekte",
+        "scene": "Dankbaarheid na ziekte",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie bij gebed, voorbeeld, terugblik of beeldspraak van het plaatselijke gedicht; geen toegevoegd afzonderlijk historisch verslag."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 30,
+        "verse": 6,
+        "file": "30-6.webp",
+        "alt": "Beeld bij Psalmen 30: Na het huilen komt het gejuich van de morgen",
+        "scene": "Na het huilen komt het gejuich van de morgen"
+      },
+      "after": {
+        "chapter": 30,
+        "verse": 6,
+        "file": "30-6.webp",
+        "alt": "Beeld bij Psalmen 30: Na het huilen komt het gejuich van de morgen",
+        "scene": "Na het huilen komt het gejuich van de morgen",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie bij gebed, voorbeeld, terugblik of beeldspraak van het plaatselijke gedicht; geen toegevoegd afzonderlijk historisch verslag."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 30,
+        "verse": 12,
+        "file": "30-12.webp",
+        "alt": "Beeld bij Psalmen 30: Het klaaglied verandert in een dans",
+        "scene": "Het klaaglied verandert in een dans"
+      },
+      "after": {
+        "chapter": 30,
+        "verse": 12,
+        "file": "30-12.webp",
+        "alt": "Beeld bij Psalmen 30: Het klaaglied verandert in een dans",
+        "scene": "Het klaaglied verandert in een dans",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie bij gebed, voorbeeld, terugblik of beeldspraak van het plaatselijke gedicht; geen toegevoegd afzonderlijk historisch verslag."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 31,
+        "verse": 3,
+        "file": "31-3.webp",
+        "alt": "Beeld bij Psalmen 31: Beeldspraak: een sterke rots en veilige burcht",
+        "scene": "Beeldspraak: een sterke rots en veilige burcht"
+      },
+      "after": {
+        "chapter": 31,
+        "verse": 3,
+        "file": "31-3.webp",
+        "alt": "Beeld bij Psalmen 31: Beeldspraak: een sterke rots en veilige burcht",
+        "scene": "Beeldspraak: een sterke rots en veilige burcht",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie bij gebed, voorbeeld, terugblik of beeldspraak van het plaatselijke gedicht; geen toegevoegd afzonderlijk historisch verslag."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 31,
+        "verse": 13,
+        "file": "31-13.webp",
+        "alt": "Beeld bij Psalmen 31: Beeldspraak: een kapotte kruik",
+        "scene": "Beeldspraak: een kapotte kruik"
+      },
+      "after": {
+        "chapter": 31,
+        "verse": 13,
+        "file": "31-13.webp",
+        "alt": "Beeld bij Psalmen 31: Beeldspraak: een kapotte kruik",
+        "scene": "Beeldspraak: een kapotte kruik",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie bij gebed, voorbeeld, terugblik of beeldspraak van het plaatselijke gedicht; geen toegevoegd afzonderlijk historisch verslag."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 31,
+        "verse": 25,
+        "file": "31-25.webp",
+        "alt": "Beeld bij Psalmen 31: Houd moed wie op de HEERE hopen",
+        "scene": "Houd moed wie op de HEERE hopen"
+      },
+      "after": {
+        "chapter": 31,
+        "verse": 25,
+        "file": "31-25.webp",
+        "alt": "Beeld bij Psalmen 31: Houd moed wie op de HEERE hopen",
+        "scene": "Houd moed wie op de HEERE hopen",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie bij gebed, voorbeeld, terugblik of beeldspraak van het plaatselijke gedicht; geen toegevoegd afzonderlijk historisch verslag."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 32,
+        "verse": 5,
+        "file": "32-5.webp",
+        "alt": "Beeld bij Psalmen 32: Schuld eerlijk belijden",
+        "scene": "Schuld eerlijk belijden"
+      },
+      "after": {
+        "chapter": 32,
+        "verse": 5,
+        "file": "32-5.webp",
+        "alt": "Beeld bij Psalmen 32: Schuld eerlijk belijden",
+        "scene": "Schuld eerlijk belijden",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie bij gebed, voorbeeld, terugblik of beeldspraak van het plaatselijke gedicht; geen toegevoegd afzonderlijk historisch verslag."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 32,
+        "verse": 7,
+        "file": "32-7.webp",
+        "alt": "Beeld bij Psalmen 32: Beeldspraak: een veilige schuilplaats",
+        "scene": "Beeldspraak: een veilige schuilplaats"
+      },
+      "after": {
+        "chapter": 32,
+        "verse": 7,
+        "file": "32-7.webp",
+        "alt": "Beeld bij Psalmen 32: Beeldspraak: een veilige schuilplaats",
+        "scene": "Beeldspraak: een veilige schuilplaats",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie bij gebed, voorbeeld, terugblik of beeldspraak van het plaatselijke gedicht; geen toegevoegd afzonderlijk historisch verslag."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 32,
+        "verse": 9,
+        "file": "32-9.webp",
+        "alt": "Beeld bij Psalmen 32: Beeldspraak: paard en muildier met toom en bit",
+        "scene": "Beeldspraak: paard en muildier met toom en bit"
+      },
+      "after": {
+        "chapter": 32,
+        "verse": 9,
+        "file": "32-9.webp",
+        "alt": "Beeld bij Psalmen 32: Beeldspraak: paard en muildier met toom en bit",
+        "scene": "Beeldspraak: paard en muildier met toom en bit",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie bij gebed, voorbeeld, terugblik of beeldspraak van het plaatselijke gedicht; geen toegevoegd afzonderlijk historisch verslag."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 33,
+        "verse": 3,
+        "file": "33-3.webp",
+        "alt": "Beeld bij Psalmen 33: Een nieuw lied met een blij geluid",
+        "scene": "Een nieuw lied met een blij geluid"
+      },
+      "after": {
+        "chapter": 33,
+        "verse": 3,
+        "file": "33-3.webp",
+        "alt": "Beeld bij Psalmen 33: Een nieuw lied met een blij geluid",
+        "scene": "Een nieuw lied met een blij geluid",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie bij gebed, voorbeeld, terugblik of beeldspraak van het plaatselijke gedicht; geen toegevoegd afzonderlijk historisch verslag."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 33,
+        "verse": 6,
+        "file": "33-6.webp",
+        "alt": "Beeld bij Psalmen 33: De sterren vertellen over Gods scheppingswoord",
+        "scene": "De sterren vertellen over Gods scheppingswoord"
+      },
+      "after": {
+        "chapter": 33,
+        "verse": 6,
+        "file": "33-6.webp",
+        "alt": "Beeld bij Psalmen 33: De sterren vertellen over Gods scheppingswoord",
+        "scene": "De sterren vertellen over Gods scheppingswoord",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie bij gebed, voorbeeld, terugblik of beeldspraak van het plaatselijke gedicht; geen toegevoegd afzonderlijk historisch verslag."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 33,
+        "verse": 20,
+        "file": "33-20.webp",
+        "alt": "Beeld bij Psalmen 33: Beeldspraak: onze hulp en ons schild",
+        "scene": "Beeldspraak: onze hulp en ons schild"
+      },
+      "after": {
+        "chapter": 33,
+        "verse": 20,
+        "file": "33-20.webp",
+        "alt": "Beeld bij Psalmen 33: Beeldspraak: onze hulp en ons schild",
+        "scene": "Beeldspraak: onze hulp en ons schild",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie bij gebed, voorbeeld, terugblik of beeldspraak van het plaatselijke gedicht; geen toegevoegd afzonderlijk historisch verslag."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 34,
+        "verse": 9,
+        "file": "34-9.webp",
+        "alt": "Beeld bij Psalmen 34: Proef en merk hoe goed de HEERE is",
+        "scene": "Proef en merk hoe goed de HEERE is"
+      },
+      "after": {
+        "chapter": 34,
+        "verse": 9,
+        "file": "34-9.webp",
+        "alt": "Beeld bij Psalmen 34: Proef en merk hoe goed de HEERE is",
+        "scene": "Proef en merk hoe goed de HEERE is",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie bij gebed, voorbeeld, terugblik of beeldspraak van het plaatselijke gedicht; geen toegevoegd afzonderlijk historisch verslag."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 34,
+        "verse": 12,
+        "file": "34-12.webp",
+        "alt": "Beeld bij Psalmen 34: Kinderen leren ontzag voor de HEERE",
+        "scene": "Kinderen leren ontzag voor de HEERE"
+      },
+      "after": {
+        "chapter": 34,
+        "verse": 12,
+        "file": "34-12.webp",
+        "alt": "Beeld bij Psalmen 34: Kinderen leren ontzag voor de HEERE",
+        "scene": "Kinderen leren ontzag voor de HEERE",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie bij gebed, voorbeeld, terugblik of beeldspraak van het plaatselijke gedicht; geen toegevoegd afzonderlijk historisch verslag."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 34,
+        "verse": 19,
+        "file": "34-19.webp",
+        "alt": "Beeld bij Psalmen 34: Nabij wie gebroken is van hart",
+        "scene": "Nabij wie gebroken is van hart"
+      },
+      "after": {
+        "chapter": 34,
+        "verse": 19,
+        "file": "34-19.webp",
+        "alt": "Beeld bij Psalmen 34: Nabij wie gebroken is van hart",
+        "scene": "Nabij wie gebroken is van hart",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie bij gebed, voorbeeld, terugblik of beeldspraak van het plaatselijke gedicht; geen toegevoegd afzonderlijk historisch verslag."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 35,
+        "verse": 2,
+        "file": "35-2.webp",
+        "alt": "Beeld bij Psalmen 35: Beeldspraak: schild en klein schild",
+        "scene": "Beeldspraak: schild en klein schild"
+      },
+      "after": {
+        "chapter": 35,
+        "verse": 2,
+        "file": "35-2.webp",
+        "alt": "Beeld bij Psalmen 35: Beeldspraak: schild en klein schild",
+        "scene": "Beeldspraak: schild en klein schild",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie bij gebed, voorbeeld, terugblik of beeldspraak van het plaatselijke gedicht; geen toegevoegd afzonderlijk historisch verslag."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 35,
+        "verse": 13,
+        "file": "35-13.webp",
+        "alt": "Beeld bij Psalmen 35: Bidden voor wie ziek zijn",
+        "scene": "Bidden voor wie ziek zijn"
+      },
+      "after": {
+        "chapter": 35,
+        "verse": 13,
+        "file": "35-13.webp",
+        "alt": "Beeld bij Psalmen 35: Bidden voor wie ziek zijn",
+        "scene": "Bidden voor wie ziek zijn",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie bij gebed, voorbeeld, terugblik of beeldspraak van het plaatselijke gedicht; geen toegevoegd afzonderlijk historisch verslag."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 35,
+        "verse": 18,
+        "file": "35-18.webp",
+        "alt": "Beeld bij Psalmen 35: Lof in de grote samenkomst",
+        "scene": "Lof in de grote samenkomst"
+      },
+      "after": {
+        "chapter": 35,
+        "verse": 18,
+        "file": "35-18.webp",
+        "alt": "Beeld bij Psalmen 35: Lof in de grote samenkomst",
+        "scene": "Lof in de grote samenkomst",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie bij gebed, voorbeeld, terugblik of beeldspraak van het plaatselijke gedicht; geen toegevoegd afzonderlijk historisch verslag."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 36,
+        "verse": 6,
+        "file": "36-6.webp",
+        "alt": "Beeld bij Psalmen 36: Beeldspraak: trouw tot aan de wolken",
+        "scene": "Beeldspraak: trouw tot aan de wolken"
+      },
+      "after": {
+        "chapter": 36,
+        "verse": 6,
+        "file": "36-6.webp",
+        "alt": "Beeld bij Psalmen 36: Beeldspraak: trouw tot aan de wolken",
+        "scene": "Beeldspraak: trouw tot aan de wolken",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie bij gebed, voorbeeld, terugblik of beeldspraak van het plaatselijke gedicht; geen toegevoegd afzonderlijk historisch verslag."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 36,
+        "verse": 7,
+        "file": "36-7.webp",
+        "alt": "Beeld bij Psalmen 36: Beeldspraak: gerechtigheid als de hoogste bergen",
+        "scene": "Beeldspraak: gerechtigheid als de hoogste bergen"
+      },
+      "after": {
+        "chapter": 36,
+        "verse": 7,
+        "file": "36-7.webp",
+        "alt": "Beeld bij Psalmen 36: Beeldspraak: gerechtigheid als de hoogste bergen",
+        "scene": "Beeldspraak: gerechtigheid als de hoogste bergen",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie bij gebed, voorbeeld, terugblik of beeldspraak van het plaatselijke gedicht; geen toegevoegd afzonderlijk historisch verslag."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 36,
+        "verse": 10,
+        "file": "36-10.webp",
+        "alt": "Beeld bij Psalmen 36: Beeldspraak: de bron van het leven",
+        "scene": "Beeldspraak: de bron van het leven"
+      },
+      "after": {
+        "chapter": 36,
+        "verse": 10,
+        "file": "36-10.webp",
+        "alt": "Beeld bij Psalmen 36: Beeldspraak: de bron van het leven",
+        "scene": "Beeldspraak: de bron van het leven",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie bij gebed, voorbeeld, terugblik of beeldspraak van het plaatselijke gedicht; geen toegevoegd afzonderlijk historisch verslag."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 37,
+        "verse": 2,
+        "file": "37-2.webp",
+        "alt": "Beeld bij Psalmen 37: Beeldspraak: gras dat snel verwelkt",
+        "scene": "Beeldspraak: gras dat snel verwelkt"
+      },
+      "after": {
+        "chapter": 37,
+        "verse": 2,
+        "file": "37-2.webp",
+        "alt": "Beeld bij Psalmen 37: Beeldspraak: gras dat snel verwelkt",
+        "scene": "Beeldspraak: gras dat snel verwelkt",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie bij gebed, voorbeeld, terugblik of beeldspraak van het plaatselijke gedicht; geen toegevoegd afzonderlijk historisch verslag."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 37,
+        "verse": 11,
+        "file": "37-11.webp",
+        "alt": "Beeld bij Psalmen 37: De zachtmoedigen genieten van vrede",
+        "scene": "De zachtmoedigen genieten van vrede"
+      },
+      "after": {
+        "chapter": 37,
+        "verse": 11,
+        "file": "37-11.webp",
+        "alt": "Beeld bij Psalmen 37: De zachtmoedigen genieten van vrede",
+        "scene": "De zachtmoedigen genieten van vrede",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie bij gebed, voorbeeld, terugblik of beeldspraak van het plaatselijke gedicht; geen toegevoegd afzonderlijk historisch verslag."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 37,
+        "verse": 21,
+        "file": "37-21.webp",
+        "alt": "Beeld bij Psalmen 37: De rechtvaardige heeft medelijden en geeft",
+        "scene": "De rechtvaardige heeft medelijden en geeft"
+      },
+      "after": {
+        "chapter": 37,
+        "verse": 21,
+        "file": "37-21.webp",
+        "alt": "Beeld bij Psalmen 37: De rechtvaardige heeft medelijden en geeft",
+        "scene": "De rechtvaardige heeft medelijden en geeft",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie bij gebed, voorbeeld, terugblik of beeldspraak van het plaatselijke gedicht; geen toegevoegd afzonderlijk historisch verslag."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 38,
+        "verse": 5,
+        "file": "38-5.webp",
+        "alt": "Beeld bij Psalmen 38: Beeldspraak: schuld als een zware last",
+        "scene": "Beeldspraak: schuld als een zware last"
+      },
+      "after": {
+        "chapter": 38,
+        "verse": 5,
+        "file": "38-5.webp",
+        "alt": "Beeld bij Psalmen 38: Beeldspraak: schuld als een zware last",
+        "scene": "Beeldspraak: schuld als een zware last",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie bij gebed, voorbeeld, terugblik of beeldspraak van het plaatselijke gedicht; geen toegevoegd afzonderlijk historisch verslag."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 38,
+        "verse": 12,
+        "file": "38-12.webp",
+        "alt": "Beeld bij Psalmen 38: Vrienden blijven op afstand",
+        "scene": "Vrienden blijven op afstand"
+      },
+      "after": {
+        "chapter": 38,
+        "verse": 12,
+        "file": "38-12.webp",
+        "alt": "Beeld bij Psalmen 38: Vrienden blijven op afstand",
+        "scene": "Vrienden blijven op afstand",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie bij gebed, voorbeeld, terugblik of beeldspraak van het plaatselijke gedicht; geen toegevoegd afzonderlijk historisch verslag."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 38,
+        "verse": 23,
+        "file": "38-23.webp",
+        "alt": "Beeld bij Psalmen 38: Kom mij snel te hulp",
+        "scene": "Kom mij snel te hulp"
+      },
+      "after": {
+        "chapter": 38,
+        "verse": 23,
+        "file": "38-23.webp",
+        "alt": "Beeld bij Psalmen 38: Kom mij snel te hulp",
+        "scene": "Kom mij snel te hulp",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie bij gebed, voorbeeld, terugblik of beeldspraak van het plaatselijke gedicht; geen toegevoegd afzonderlijk historisch verslag."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 39,
+        "verse": 2,
+        "file": "39-2.webp",
+        "alt": "Beeld bij Psalmen 39: De mond in toom houden",
+        "scene": "De mond in toom houden"
+      },
+      "after": {
+        "chapter": 39,
+        "verse": 2,
+        "file": "39-2.webp",
+        "alt": "Beeld bij Psalmen 39: De mond in toom houden",
+        "scene": "De mond in toom houden",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie bij gebed, voorbeeld, terugblik of beeldspraak van het plaatselijke gedicht; geen toegevoegd afzonderlijk historisch verslag."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 39,
+        "verse": 6,
+        "file": "39-6.webp",
+        "alt": "Beeld bij Psalmen 39: Beeldspraak: het leven is een ademtocht",
+        "scene": "Beeldspraak: het leven is een ademtocht"
+      },
+      "after": {
+        "chapter": 39,
+        "verse": 6,
+        "file": "39-6.webp",
+        "alt": "Beeld bij Psalmen 39: Beeldspraak: het leven is een ademtocht",
+        "scene": "Beeldspraak: het leven is een ademtocht",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie bij gebed, voorbeeld, terugblik of beeldspraak van het plaatselijke gedicht; geen toegevoegd afzonderlijk historisch verslag."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 39,
+        "verse": 13,
+        "file": "39-13.webp",
+        "alt": "Beeld bij Psalmen 39: Een vreemdeling die om gehoor bidt",
+        "scene": "Een vreemdeling die om gehoor bidt"
+      },
+      "after": {
+        "chapter": 39,
+        "verse": 13,
+        "file": "39-13.webp",
+        "alt": "Beeld bij Psalmen 39: Een vreemdeling die om gehoor bidt",
+        "scene": "Een vreemdeling die om gehoor bidt",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie bij gebed, voorbeeld, terugblik of beeldspraak van het plaatselijke gedicht; geen toegevoegd afzonderlijk historisch verslag."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 40,
+        "verse": 3,
+        "file": "40-3.webp",
+        "alt": "Beeld bij Psalmen 40: Beeldspraak: voeten stevig op de rots",
+        "scene": "Beeldspraak: voeten stevig op de rots"
+      },
+      "after": {
+        "chapter": 40,
+        "verse": 3,
+        "file": "40-3.webp",
+        "alt": "Beeld bij Psalmen 40: Beeldspraak: voeten stevig op de rots",
+        "scene": "Beeldspraak: voeten stevig op de rots",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie bij gebed, voorbeeld, terugblik of beeldspraak van het plaatselijke gedicht; geen toegevoegd afzonderlijk historisch verslag."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 40,
+        "verse": 8,
+        "file": "40-8.webp",
+        "alt": "Beeld bij Psalmen 40: Een boekrol die tot gehoorzaamheid roept",
+        "scene": "Een boekrol die tot gehoorzaamheid roept"
+      },
+      "after": {
+        "chapter": 40,
+        "verse": 8,
+        "file": "40-8.webp",
+        "alt": "Beeld bij Psalmen 40: Een boekrol die tot gehoorzaamheid roept",
+        "scene": "Een boekrol die tot gehoorzaamheid roept",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie bij gebed, voorbeeld, terugblik of beeldspraak van het plaatselijke gedicht; geen toegevoegd afzonderlijk historisch verslag."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 40,
+        "verse": 10,
+        "file": "40-10.webp",
+        "alt": "Beeld bij Psalmen 40: Het goede nieuws vertellen in de samenkomst",
+        "scene": "Het goede nieuws vertellen in de samenkomst"
+      },
+      "after": {
+        "chapter": 40,
+        "verse": 10,
+        "file": "40-10.webp",
+        "alt": "Beeld bij Psalmen 40: Het goede nieuws vertellen in de samenkomst",
+        "scene": "Het goede nieuws vertellen in de samenkomst",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie bij gebed, voorbeeld, terugblik of beeldspraak van het plaatselijke gedicht; geen toegevoegd afzonderlijk historisch verslag."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 41,
+        "verse": 2,
+        "file": "41-2.webp",
+        "alt": "Beeld bij Psalmen 41: Oog hebben voor de arme",
+        "scene": "Oog hebben voor de arme"
+      },
+      "after": {
+        "chapter": 41,
+        "verse": 2,
+        "file": "41-2.webp",
+        "alt": "Beeld bij Psalmen 41: Oog hebben voor de arme",
+        "scene": "Oog hebben voor de arme",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie bij gebed, voorbeeld, terugblik of beeldspraak van het plaatselijke gedicht; geen toegevoegd afzonderlijk historisch verslag."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 41,
+        "verse": 4,
+        "file": "41-4.webp",
+        "alt": "Beeld bij Psalmen 41: Steun op het ziekbed",
+        "scene": "Steun op het ziekbed"
+      },
+      "after": {
+        "chapter": 41,
+        "verse": 4,
+        "file": "41-4.webp",
+        "alt": "Beeld bij Psalmen 41: Steun op het ziekbed",
+        "scene": "Steun op het ziekbed",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie bij gebed, voorbeeld, terugblik of beeldspraak van het plaatselijke gedicht; geen toegevoegd afzonderlijk historisch verslag."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 41,
+        "verse": 10,
+        "file": "41-10.webp",
+        "alt": "Beeld bij Psalmen 41: De vriend die het brood deelde",
+        "scene": "De vriend die het brood deelde"
+      },
+      "after": {
+        "chapter": 41,
+        "verse": 10,
+        "file": "41-10.webp",
+        "alt": "Beeld bij Psalmen 41: De vriend die het brood deelde",
+        "scene": "De vriend die het brood deelde",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie bij gebed, voorbeeld, terugblik of beeldspraak van het plaatselijke gedicht; geen toegevoegd afzonderlijk historisch verslag."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 42,
+        "verse": 2,
+        "file": "42-2.webp",
+        "alt": "Beeld bij Psalmen 42: Beeldspraak: een hert verlangt naar stromend water",
+        "scene": "Beeldspraak: een hert verlangt naar stromend water"
+      },
+      "after": {
+        "chapter": 42,
+        "verse": 2,
+        "file": "42-2.webp",
+        "alt": "Beeld bij Psalmen 42: Beeldspraak: een hert verlangt naar stromend water",
+        "scene": "Beeldspraak: een hert verlangt naar stromend water",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie bij gebed, voorbeeld, terugblik of beeldspraak van het plaatselijke gedicht; geen toegevoegd afzonderlijk historisch verslag."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 42,
+        "verse": 8,
+        "file": "42-8.webp",
+        "alt": "Beeld bij Psalmen 42: Beeldspraak: de diepte roept bij watervallen",
+        "scene": "Beeldspraak: de diepte roept bij watervallen"
+      },
+      "after": {
+        "chapter": 42,
+        "verse": 8,
+        "file": "42-8.webp",
+        "alt": "Beeld bij Psalmen 42: Beeldspraak: de diepte roept bij watervallen",
+        "scene": "Beeldspraak: de diepte roept bij watervallen",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie bij gebed, voorbeeld, terugblik of beeldspraak van het plaatselijke gedicht; geen toegevoegd afzonderlijk historisch verslag."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 42,
+        "verse": 9,
+        "file": "42-9.webp",
+        "alt": "Beeld bij Psalmen 42: Een lied en gebed in de nacht",
+        "scene": "Een lied en gebed in de nacht"
+      },
+      "after": {
+        "chapter": 42,
+        "verse": 9,
+        "file": "42-9.webp",
+        "alt": "Beeld bij Psalmen 42: Een lied en gebed in de nacht",
+        "scene": "Een lied en gebed in de nacht",
+        "kind": "poetic"
+      },
+      "reason": "Visualisatie bij gebed, voorbeeld, terugblik of beeldspraak van het plaatselijke gedicht; geen toegevoegd afzonderlijk historisch verslag."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 43,
+        "verse": 3,
+        "file": "43-3.webp",
+        "alt": "Beeld bij Psalmen 43: Licht en waarheid wijzen naar de heilige berg",
+        "scene": "Licht en waarheid wijzen naar de heilige berg"
+      },
+      "after": {
+        "chapter": 43,
+        "verse": 3,
+        "file": "43-3.webp",
+        "alt": "Beeld bij Psalmen 43: Licht en waarheid wijzen naar de heilige berg",
+        "scene": "Licht en waarheid wijzen naar de heilige berg",
+        "kind": "poetic"
+      },
+      "reason": "Historische aanleiding in het opschrift onderscheiden van gebed, terugblik en poëtische motieven van de plaatselijke psalm."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 43,
+        "verse": 4,
+        "file": "43-4.webp",
+        "alt": "Beeld bij Psalmen 43: Lof met de harp bij het altaar",
+        "scene": "Lof met de harp bij het altaar"
+      },
+      "after": {
+        "chapter": 43,
+        "verse": 4,
+        "file": "43-4.webp",
+        "alt": "Beeld bij Psalmen 43: Lof met de harp bij het altaar",
+        "scene": "Lof met de harp bij het altaar",
+        "kind": "poetic"
+      },
+      "reason": "Historische aanleiding in het opschrift onderscheiden van gebed, terugblik en poëtische motieven van de plaatselijke psalm."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 43,
+        "verse": 5,
+        "file": "43-5.webp",
+        "alt": "Beeld bij Psalmen 43: Hoop op God ondanks verdriet",
+        "scene": "Hoop op God ondanks verdriet"
+      },
+      "after": {
+        "chapter": 43,
+        "verse": 5,
+        "file": "43-5.webp",
+        "alt": "Beeld bij Psalmen 43: Hoop op God ondanks verdriet",
+        "scene": "Hoop op God ondanks verdriet",
+        "kind": "poetic"
+      },
+      "reason": "Historische aanleiding in het opschrift onderscheiden van gebed, terugblik en poëtische motieven van de plaatselijke psalm."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 44,
+        "verse": 2,
+        "file": "44-2.webp",
+        "alt": "Beeld bij Psalmen 44: De vaders vertellen over vroeger",
+        "scene": "De vaders vertellen over vroeger"
+      },
+      "after": {
+        "chapter": 44,
+        "verse": 2,
+        "file": "44-2.webp",
+        "alt": "Beeld bij Psalmen 44: De vaders vertellen over vroeger",
+        "scene": "De vaders vertellen over vroeger",
+        "kind": "poetic"
+      },
+      "reason": "Historische aanleiding in het opschrift onderscheiden van gebed, terugblik en poëtische motieven van de plaatselijke psalm."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 44,
+        "verse": 7,
+        "file": "44-7.webp",
+        "alt": "Beeld bij Psalmen 44: Vertrouwen dat verder gaat dan boog en zwaard",
+        "scene": "Vertrouwen dat verder gaat dan boog en zwaard"
+      },
+      "after": {
+        "chapter": 44,
+        "verse": 7,
+        "file": "44-7.webp",
+        "alt": "Beeld bij Psalmen 44: Vertrouwen dat verder gaat dan boog en zwaard",
+        "scene": "Vertrouwen dat verder gaat dan boog en zwaard",
+        "kind": "poetic"
+      },
+      "reason": "Historische aanleiding in het opschrift onderscheiden van gebed, terugblik en poëtische motieven van de plaatselijke psalm."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 44,
+        "verse": 27,
+        "file": "44-27.webp",
+        "alt": "Beeld bij Psalmen 44: Een volk vraagt om hulp",
+        "scene": "Een volk vraagt om hulp"
+      },
+      "after": {
+        "chapter": 44,
+        "verse": 27,
+        "file": "44-27.webp",
+        "alt": "Beeld bij Psalmen 44: Een volk vraagt om hulp",
+        "scene": "Een volk vraagt om hulp",
+        "kind": "poetic"
+      },
+      "reason": "Historische aanleiding in het opschrift onderscheiden van gebed, terugblik en poëtische motieven van de plaatselijke psalm."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 45,
+        "verse": 2,
+        "file": "45-2.webp",
+        "alt": "Beeld bij Psalmen 45: Beeldspraak: de pen van een vlotte schrijver",
+        "scene": "Beeldspraak: de pen van een vlotte schrijver"
+      },
+      "after": {
+        "chapter": 45,
+        "verse": 2,
+        "file": "45-2.webp",
+        "alt": "Beeld bij Psalmen 45: Beeldspraak: de pen van een vlotte schrijver",
+        "scene": "Beeldspraak: de pen van een vlotte schrijver",
+        "kind": "poetic"
+      },
+      "reason": "Historische aanleiding in het opschrift onderscheiden van gebed, terugblik en poëtische motieven van de plaatselijke psalm."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 45,
+        "verse": 10,
+        "file": "45-10.webp",
+        "alt": "Beeld bij Psalmen 45: De koningin aan de rechterhand van de koning",
+        "scene": "De koningin aan de rechterhand van de koning"
+      },
+      "after": {
+        "chapter": 45,
+        "verse": 10,
+        "file": "45-10.webp",
+        "alt": "Beeld bij Psalmen 45: De koningin aan de rechterhand van de koning",
+        "scene": "De koningin aan de rechterhand van de koning",
+        "kind": "poetic"
+      },
+      "reason": "Historische aanleiding in het opschrift onderscheiden van gebed, terugblik en poëtische motieven van de plaatselijke psalm."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 45,
+        "verse": 15,
+        "file": "45-15.webp",
+        "alt": "Beeld bij Psalmen 45: De bruid met haar vriendinnen",
+        "scene": "De bruid met haar vriendinnen"
+      },
+      "after": {
+        "chapter": 45,
+        "verse": 15,
+        "file": "45-15.webp",
+        "alt": "Beeld bij Psalmen 45: De bruid met haar vriendinnen",
+        "scene": "De bruid met haar vriendinnen",
+        "kind": "poetic"
+      },
+      "reason": "Historische aanleiding in het opschrift onderscheiden van gebed, terugblik en poëtische motieven van de plaatselijke psalm."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 46,
+        "verse": 2,
+        "file": "46-2.webp",
+        "alt": "Beeld bij Psalmen 46: Beeldspraak: een schuilplaats en sterkte",
+        "scene": "Beeldspraak: een schuilplaats en sterkte"
+      },
+      "after": {
+        "chapter": 46,
+        "verse": 2,
+        "file": "46-2.webp",
+        "alt": "Beeld bij Psalmen 46: Beeldspraak: een schuilplaats en sterkte",
+        "scene": "Beeldspraak: een schuilplaats en sterkte",
+        "kind": "poetic"
+      },
+      "reason": "Historische aanleiding in het opschrift onderscheiden van gebed, terugblik en poëtische motieven van de plaatselijke psalm."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 46,
+        "verse": 5,
+        "file": "46-5.webp",
+        "alt": "Beeld bij Psalmen 46: Beeldspraak: de rivier maakt de stad blij",
+        "scene": "Beeldspraak: de rivier maakt de stad blij"
+      },
+      "after": {
+        "chapter": 46,
+        "verse": 5,
+        "file": "46-5.webp",
+        "alt": "Beeld bij Psalmen 46: Beeldspraak: de rivier maakt de stad blij",
+        "scene": "Beeldspraak: de rivier maakt de stad blij",
+        "kind": "poetic"
+      },
+      "reason": "Historische aanleiding in het opschrift onderscheiden van gebed, terugblik en poëtische motieven van de plaatselijke psalm."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 46,
+        "verse": 10,
+        "file": "46-10.webp",
+        "alt": "Beeld bij Psalmen 46: Een einde aan oorlog: boog en speer gebroken",
+        "scene": "Een einde aan oorlog: boog en speer gebroken"
+      },
+      "after": {
+        "chapter": 46,
+        "verse": 10,
+        "file": "46-10.webp",
+        "alt": "Beeld bij Psalmen 46: Een einde aan oorlog: boog en speer gebroken",
+        "scene": "Een einde aan oorlog: boog en speer gebroken",
+        "kind": "poetic"
+      },
+      "reason": "Historische aanleiding in het opschrift onderscheiden van gebed, terugblik en poëtische motieven van de plaatselijke psalm."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 47,
+        "verse": 2,
+        "file": "47-2.webp",
+        "alt": "Beeld bij Psalmen 47: Alle volken klappen in de handen",
+        "scene": "Alle volken klappen in de handen"
+      },
+      "after": {
+        "chapter": 47,
+        "verse": 2,
+        "file": "47-2.webp",
+        "alt": "Beeld bij Psalmen 47: Alle volken klappen in de handen",
+        "scene": "Alle volken klappen in de handen",
+        "kind": "poetic"
+      },
+      "reason": "Historische aanleiding in het opschrift onderscheiden van gebed, terugblik en poëtische motieven van de plaatselijke psalm."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 47,
+        "verse": 6,
+        "file": "47-6.webp",
+        "alt": "Beeld bij Psalmen 47: Het geluid van de ramshoorn",
+        "scene": "Het geluid van de ramshoorn"
+      },
+      "after": {
+        "chapter": 47,
+        "verse": 6,
+        "file": "47-6.webp",
+        "alt": "Beeld bij Psalmen 47: Het geluid van de ramshoorn",
+        "scene": "Het geluid van de ramshoorn",
+        "kind": "poetic"
+      },
+      "reason": "Historische aanleiding in het opschrift onderscheiden van gebed, terugblik en poëtische motieven van de plaatselijke psalm."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 47,
+        "verse": 10,
+        "file": "47-10.webp",
+        "alt": "Beeld bij Psalmen 47: De leiders komen samen",
+        "scene": "De leiders komen samen"
+      },
+      "after": {
+        "chapter": 47,
+        "verse": 10,
+        "file": "47-10.webp",
+        "alt": "Beeld bij Psalmen 47: De leiders komen samen",
+        "scene": "De leiders komen samen",
+        "kind": "poetic"
+      },
+      "reason": "Historische aanleiding in het opschrift onderscheiden van gebed, terugblik en poëtische motieven van de plaatselijke psalm."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 48,
+        "verse": 3,
+        "file": "48-3.webp",
+        "alt": "Beeld bij Psalmen 48: Sion ligt mooi op de berg",
+        "scene": "Sion ligt mooi op de berg"
+      },
+      "after": {
+        "chapter": 48,
+        "verse": 3,
+        "file": "48-3.webp",
+        "alt": "Beeld bij Psalmen 48: Sion ligt mooi op de berg",
+        "scene": "Sion ligt mooi op de berg",
+        "kind": "poetic"
+      },
+      "reason": "Historische aanleiding in het opschrift onderscheiden van gebed, terugblik en poëtische motieven van de plaatselijke psalm."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 48,
+        "verse": 10,
+        "file": "48-10.webp",
+        "alt": "Beeld bij Psalmen 48: In de tempel nadenken over Gods trouw",
+        "scene": "In de tempel nadenken over Gods trouw"
+      },
+      "after": {
+        "chapter": 48,
+        "verse": 10,
+        "file": "48-10.webp",
+        "alt": "Beeld bij Psalmen 48: In de tempel nadenken over Gods trouw",
+        "scene": "In de tempel nadenken over Gods trouw",
+        "kind": "poetic"
+      },
+      "reason": "Historische aanleiding in het opschrift onderscheiden van gebed, terugblik en poëtische motieven van de plaatselijke psalm."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 48,
+        "verse": 13,
+        "file": "48-13.webp",
+        "alt": "Beeld bij Psalmen 48: Rondlopen langs de muren van Sion",
+        "scene": "Rondlopen langs de muren van Sion"
+      },
+      "after": {
+        "chapter": 48,
+        "verse": 13,
+        "file": "48-13.webp",
+        "alt": "Beeld bij Psalmen 48: Rondlopen langs de muren van Sion",
+        "scene": "Rondlopen langs de muren van Sion",
+        "kind": "poetic"
+      },
+      "reason": "Historische aanleiding in het opschrift onderscheiden van gebed, terugblik en poëtische motieven van de plaatselijke psalm."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 49,
+        "verse": 3,
+        "file": "49-3.webp",
+        "alt": "Beeld bij Psalmen 49: Rijk en arm luisteren samen",
+        "scene": "Rijk en arm luisteren samen"
+      },
+      "after": {
+        "chapter": 49,
+        "verse": 3,
+        "file": "49-3.webp",
+        "alt": "Beeld bij Psalmen 49: Rijk en arm luisteren samen",
+        "scene": "Rijk en arm luisteren samen",
+        "kind": "poetic"
+      },
+      "reason": "Historische aanleiding in het opschrift onderscheiden van gebed, terugblik en poëtische motieven van de plaatselijke psalm."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 49,
+        "verse": 5,
+        "file": "49-5.webp",
+        "alt": "Beeld bij Psalmen 49: Wijsheid bespreken bij de harp",
+        "scene": "Wijsheid bespreken bij de harp"
+      },
+      "after": {
+        "chapter": 49,
+        "verse": 5,
+        "file": "49-5.webp",
+        "alt": "Beeld bij Psalmen 49: Wijsheid bespreken bij de harp",
+        "scene": "Wijsheid bespreken bij de harp",
+        "kind": "poetic"
+      },
+      "reason": "Historische aanleiding in het opschrift onderscheiden van gebed, terugblik en poëtische motieven van de plaatselijke psalm."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 49,
+        "verse": 18,
+        "file": "49-18.webp",
+        "alt": "Beeld bij Psalmen 49: Beeldspraak: rijkdom blijft achter",
+        "scene": "Beeldspraak: rijkdom blijft achter"
+      },
+      "after": {
+        "chapter": 49,
+        "verse": 18,
+        "file": "49-18.webp",
+        "alt": "Beeld bij Psalmen 49: Beeldspraak: rijkdom blijft achter",
+        "scene": "Beeldspraak: rijkdom blijft achter",
+        "kind": "poetic"
+      },
+      "reason": "Historische aanleiding in het opschrift onderscheiden van gebed, terugblik en poëtische motieven van de plaatselijke psalm."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 50,
+        "verse": 10,
+        "file": "50-10.webp",
+        "alt": "Beeld bij Psalmen 50: Vee op duizend bergen",
+        "scene": "Vee op duizend bergen"
+      },
+      "after": {
+        "chapter": 50,
+        "verse": 10,
+        "file": "50-10.webp",
+        "alt": "Beeld bij Psalmen 50: Vee op duizend bergen",
+        "scene": "Vee op duizend bergen",
+        "kind": "poetic"
+      },
+      "reason": "Historische aanleiding in het opschrift onderscheiden van gebed, terugblik en poëtische motieven van de plaatselijke psalm."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 50,
+        "verse": 11,
+        "file": "50-11.webp",
+        "alt": "Beeld bij Psalmen 50: Vogels in de bergen en dieren in het veld",
+        "scene": "Vogels in de bergen en dieren in het veld"
+      },
+      "after": {
+        "chapter": 50,
+        "verse": 11,
+        "file": "50-11.webp",
+        "alt": "Beeld bij Psalmen 50: Vogels in de bergen en dieren in het veld",
+        "scene": "Vogels in de bergen en dieren in het veld",
+        "kind": "poetic"
+      },
+      "reason": "Historische aanleiding in het opschrift onderscheiden van gebed, terugblik en poëtische motieven van de plaatselijke psalm."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 50,
+        "verse": 23,
+        "file": "50-23.webp",
+        "alt": "Beeld bij Psalmen 50: Een danklied eert God",
+        "scene": "Een danklied eert God"
+      },
+      "after": {
+        "chapter": 50,
+        "verse": 23,
+        "file": "50-23.webp",
+        "alt": "Beeld bij Psalmen 50: Een danklied eert God",
+        "scene": "Een danklied eert God",
+        "kind": "poetic"
+      },
+      "reason": "Historische aanleiding in het opschrift onderscheiden van gebed, terugblik en poëtische motieven van de plaatselijke psalm."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 51,
+        "verse": 2,
+        "file": "51-2.webp",
+        "alt": "Beeld bij Psalmen 51: Natan spreekt David aan",
+        "scene": "Natan spreekt David aan"
+      },
+      "after": {
+        "chapter": 51,
+        "verse": 2,
+        "file": "51-2.webp",
+        "alt": "Beeld bij Psalmen 51: Natan spreekt David aan",
+        "scene": "Natan spreekt David aan",
+        "kind": "scene"
+      },
+      "reason": "Historische aanleiding in het opschrift onderscheiden van gebed, terugblik en poëtische motieven van de plaatselijke psalm."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 51,
+        "verse": 9,
+        "file": "51-9.webp",
+        "alt": "Beeld bij Psalmen 51: Beeldspraak: reiniging met hysop",
+        "scene": "Beeldspraak: reiniging met hysop"
+      },
+      "after": {
+        "chapter": 51,
+        "verse": 9,
+        "file": "51-9.webp",
+        "alt": "Beeld bij Psalmen 51: Beeldspraak: reiniging met hysop",
+        "scene": "Beeldspraak: reiniging met hysop",
+        "kind": "poetic"
+      },
+      "reason": "Historische aanleiding in het opschrift onderscheiden van gebed, terugblik en poëtische motieven van de plaatselijke psalm."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 51,
+        "verse": 12,
+        "file": "51-12.webp",
+        "alt": "Beeld bij Psalmen 51: Schep in mij een zuiver hart",
+        "scene": "Schep in mij een zuiver hart"
+      },
+      "after": {
+        "chapter": 51,
+        "verse": 12,
+        "file": "51-12.webp",
+        "alt": "Beeld bij Psalmen 51: Schep in mij een zuiver hart",
+        "scene": "Schep in mij een zuiver hart",
+        "kind": "poetic"
+      },
+      "reason": "Historische aanleiding in het opschrift onderscheiden van gebed, terugblik en poëtische motieven van de plaatselijke psalm."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 52,
+        "verse": 2,
+        "file": "52-2.webp",
+        "alt": "Beeld bij Psalmen 52: Doëg brengt zijn bericht aan Saul",
+        "scene": "Doëg brengt zijn bericht aan Saul"
+      },
+      "after": {
+        "chapter": 52,
+        "verse": 2,
+        "file": "52-2.webp",
+        "alt": "Beeld bij Psalmen 52: Doëg brengt zijn bericht aan Saul",
+        "scene": "Doëg brengt zijn bericht aan Saul",
+        "kind": "scene"
+      },
+      "reason": "Historische aanleiding in het opschrift onderscheiden van gebed, terugblik en poëtische motieven van de plaatselijke psalm."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 52,
+        "verse": 9,
+        "file": "52-9.webp",
+        "alt": "Beeld bij Psalmen 52: Vertrouwen op grote rijkdom",
+        "scene": "Vertrouwen op grote rijkdom"
+      },
+      "after": {
+        "chapter": 52,
+        "verse": 9,
+        "file": "52-9.webp",
+        "alt": "Beeld bij Psalmen 52: Vertrouwen op grote rijkdom",
+        "scene": "Vertrouwen op grote rijkdom",
+        "kind": "poetic"
+      },
+      "reason": "Historische aanleiding in het opschrift onderscheiden van gebed, terugblik en poëtische motieven van de plaatselijke psalm."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 52,
+        "verse": 10,
+        "file": "52-10.webp",
+        "alt": "Beeld bij Psalmen 52: Beeldspraak: een groene olijfboom",
+        "scene": "Beeldspraak: een groene olijfboom"
+      },
+      "after": {
+        "chapter": 52,
+        "verse": 10,
+        "file": "52-10.webp",
+        "alt": "Beeld bij Psalmen 52: Beeldspraak: een groene olijfboom",
+        "scene": "Beeldspraak: een groene olijfboom",
+        "kind": "poetic"
+      },
+      "reason": "Historische aanleiding in het opschrift onderscheiden van gebed, terugblik en poëtische motieven van de plaatselijke psalm."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 53,
+        "verse": 2,
+        "file": "53-2.webp",
+        "alt": "Beeld bij Psalmen 53: Onrecht waar God wordt vergeten",
+        "scene": "Onrecht waar God wordt vergeten"
+      },
+      "after": {
+        "chapter": 53,
+        "verse": 2,
+        "file": "53-2.webp",
+        "alt": "Beeld bij Psalmen 53: Onrecht waar God wordt vergeten",
+        "scene": "Onrecht waar God wordt vergeten",
+        "kind": "poetic"
+      },
+      "reason": "Historische aanleiding in het opschrift onderscheiden van gebed, terugblik en poëtische motieven van de plaatselijke psalm."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 53,
+        "verse": 3,
+        "file": "53-3.webp",
+        "alt": "Beeld bij Psalmen 53: Zoeken naar God",
+        "scene": "Zoeken naar God"
+      },
+      "after": {
+        "chapter": 53,
+        "verse": 3,
+        "file": "53-3.webp",
+        "alt": "Beeld bij Psalmen 53: Zoeken naar God",
+        "scene": "Zoeken naar God",
+        "kind": "poetic"
+      },
+      "reason": "Historische aanleiding in het opschrift onderscheiden van gebed, terugblik en poëtische motieven van de plaatselijke psalm."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 53,
+        "verse": 7,
+        "file": "53-7.webp",
+        "alt": "Beeld bij Psalmen 53: Verlangen naar redding vanuit Sion",
+        "scene": "Verlangen naar redding vanuit Sion"
+      },
+      "after": {
+        "chapter": 53,
+        "verse": 7,
+        "file": "53-7.webp",
+        "alt": "Beeld bij Psalmen 53: Verlangen naar redding vanuit Sion",
+        "scene": "Verlangen naar redding vanuit Sion",
+        "kind": "poetic"
+      },
+      "reason": "Historische aanleiding in het opschrift onderscheiden van gebed, terugblik en poëtische motieven van de plaatselijke psalm."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 54,
+        "verse": 2,
+        "file": "54-2.webp",
+        "alt": "Beeld bij Psalmen 54: David houdt zich verborgen",
+        "scene": "David houdt zich verborgen"
+      },
+      "after": {
+        "chapter": 54,
+        "verse": 2,
+        "file": "54-2.webp",
+        "alt": "Beeld bij Psalmen 54: David houdt zich verborgen",
+        "scene": "David houdt zich verborgen",
+        "kind": "scene"
+      },
+      "reason": "Historische aanleiding in het opschrift onderscheiden van gebed, terugblik en poëtische motieven van de plaatselijke psalm."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 54,
+        "verse": 4,
+        "file": "54-4.webp",
+        "alt": "Beeld bij Psalmen 54: God, luister naar mijn gebed",
+        "scene": "God, luister naar mijn gebed"
+      },
+      "after": {
+        "chapter": 54,
+        "verse": 4,
+        "file": "54-4.webp",
+        "alt": "Beeld bij Psalmen 54: God, luister naar mijn gebed",
+        "scene": "God, luister naar mijn gebed",
+        "kind": "poetic"
+      },
+      "reason": "Historische aanleiding in het opschrift onderscheiden van gebed, terugblik en poëtische motieven van de plaatselijke psalm."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 54,
+        "verse": 8,
+        "file": "54-8.webp",
+        "alt": "Beeld bij Psalmen 54: Vrijwillige dankbaarheid",
+        "scene": "Vrijwillige dankbaarheid"
+      },
+      "after": {
+        "chapter": 54,
+        "verse": 8,
+        "file": "54-8.webp",
+        "alt": "Beeld bij Psalmen 54: Vrijwillige dankbaarheid",
+        "scene": "Vrijwillige dankbaarheid",
+        "kind": "poetic"
+      },
+      "reason": "Historische aanleiding in het opschrift onderscheiden van gebed, terugblik en poëtische motieven van de plaatselijke psalm."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 55,
+        "verse": 7,
+        "file": "55-7.webp",
+        "alt": "Beeld bij Psalmen 55: Beeldspraak: vleugels als een duif",
+        "scene": "Beeldspraak: vleugels als een duif"
+      },
+      "after": {
+        "chapter": 55,
+        "verse": 7,
+        "file": "55-7.webp",
+        "alt": "Beeld bij Psalmen 55: Beeldspraak: vleugels als een duif",
+        "scene": "Beeldspraak: vleugels als een duif",
+        "kind": "poetic"
+      },
+      "reason": "Historische aanleiding in het opschrift onderscheiden van gebed, terugblik en poëtische motieven van de plaatselijke psalm."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 55,
+        "verse": 18,
+        "file": "55-18.webp",
+        "alt": "Beeld bij Psalmen 55: Avond, morgen en middag tot God roepen",
+        "scene": "Avond, morgen en middag tot God roepen"
+      },
+      "after": {
+        "chapter": 55,
+        "verse": 18,
+        "file": "55-18.webp",
+        "alt": "Beeld bij Psalmen 55: Avond, morgen en middag tot God roepen",
+        "scene": "Avond, morgen en middag tot God roepen",
+        "kind": "poetic"
+      },
+      "reason": "Historische aanleiding in het opschrift onderscheiden van gebed, terugblik en poëtische motieven van de plaatselijke psalm."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 55,
+        "verse": 23,
+        "file": "55-23.webp",
+        "alt": "Beeld bij Psalmen 55: Beeldspraak: de zorg neerleggen",
+        "scene": "Beeldspraak: de zorg neerleggen"
+      },
+      "after": {
+        "chapter": 55,
+        "verse": 23,
+        "file": "55-23.webp",
+        "alt": "Beeld bij Psalmen 55: Beeldspraak: de zorg neerleggen",
+        "scene": "Beeldspraak: de zorg neerleggen",
+        "kind": "poetic"
+      },
+      "reason": "Historische aanleiding in het opschrift onderscheiden van gebed, terugblik en poëtische motieven van de plaatselijke psalm."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 56,
+        "verse": 4,
+        "file": "56-4.webp",
+        "alt": "Beeld bij Psalmen 56: Vertrouwen op de dag van angst",
+        "scene": "Vertrouwen op de dag van angst"
+      },
+      "after": {
+        "chapter": 56,
+        "verse": 4,
+        "file": "56-4.webp",
+        "alt": "Beeld bij Psalmen 56: Vertrouwen op de dag van angst",
+        "scene": "Vertrouwen op de dag van angst",
+        "kind": "poetic"
+      },
+      "reason": "Historische aanleiding in het opschrift onderscheiden van gebed, terugblik en poëtische motieven van de plaatselijke psalm."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 56,
+        "verse": 9,
+        "file": "56-9.webp",
+        "alt": "Beeld bij Psalmen 56: Beeldspraak: tranen bewaard in een kruik",
+        "scene": "Beeldspraak: tranen bewaard in een kruik"
+      },
+      "after": {
+        "chapter": 56,
+        "verse": 9,
+        "file": "56-9.webp",
+        "alt": "Beeld bij Psalmen 56: Beeldspraak: tranen bewaard in een kruik",
+        "scene": "Beeldspraak: tranen bewaard in een kruik",
+        "kind": "poetic"
+      },
+      "reason": "Historische aanleiding in het opschrift onderscheiden van gebed, terugblik en poëtische motieven van de plaatselijke psalm."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 56,
+        "verse": 14,
+        "file": "56-14.webp",
+        "alt": "Beeld bij Psalmen 56: Wandelen in het licht van de levenden",
+        "scene": "Wandelen in het licht van de levenden"
+      },
+      "after": {
+        "chapter": 56,
+        "verse": 14,
+        "file": "56-14.webp",
+        "alt": "Beeld bij Psalmen 56: Wandelen in het licht van de levenden",
+        "scene": "Wandelen in het licht van de levenden",
+        "kind": "poetic"
+      },
+      "reason": "Historische aanleiding in het opschrift onderscheiden van gebed, terugblik en poëtische motieven van de plaatselijke psalm."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 57,
+        "verse": 1,
+        "file": "57-1.webp",
+        "alt": "Beeld bij Psalmen 57: David schuilt in de grot",
+        "scene": "David schuilt in de grot"
+      },
+      "after": {
+        "chapter": 57,
+        "verse": 1,
+        "file": "57-1.webp",
+        "alt": "Beeld bij Psalmen 57: David schuilt in de grot",
+        "scene": "David schuilt in de grot",
+        "kind": "scene"
+      },
+      "reason": "Historische aanleiding in het opschrift onderscheiden van gebed, terugblik en poëtische motieven van de plaatselijke psalm."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 57,
+        "verse": 9,
+        "file": "57-9.webp",
+        "alt": "Beeld bij Psalmen 57: De dageraad wekken met luit en harp",
+        "scene": "De dageraad wekken met luit en harp"
+      },
+      "after": {
+        "chapter": 57,
+        "verse": 9,
+        "file": "57-9.webp",
+        "alt": "Beeld bij Psalmen 57: De dageraad wekken met luit en harp",
+        "scene": "De dageraad wekken met luit en harp",
+        "kind": "poetic"
+      },
+      "reason": "Historische aanleiding in het opschrift onderscheiden van gebed, terugblik en poëtische motieven van de plaatselijke psalm."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 57,
+        "verse": 11,
+        "file": "57-11.webp",
+        "alt": "Beeld bij Psalmen 57: Trouw tot aan de hemel",
+        "scene": "Trouw tot aan de hemel"
+      },
+      "after": {
+        "chapter": 57,
+        "verse": 11,
+        "file": "57-11.webp",
+        "alt": "Beeld bij Psalmen 57: Trouw tot aan de hemel",
+        "scene": "Trouw tot aan de hemel",
+        "kind": "poetic"
+      },
+      "reason": "Historische aanleiding in het opschrift onderscheiden van gebed, terugblik en poëtische motieven van de plaatselijke psalm."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 58,
+        "verse": 2,
+        "file": "58-2.webp",
+        "alt": "Beeld bij Psalmen 58: De machthebbers moeten eerlijk rechtspreken",
+        "scene": "De machthebbers moeten eerlijk rechtspreken"
+      },
+      "after": {
+        "chapter": 58,
+        "verse": 2,
+        "file": "58-2.webp",
+        "alt": "Beeld bij Psalmen 58: De machthebbers moeten eerlijk rechtspreken",
+        "scene": "De machthebbers moeten eerlijk rechtspreken",
+        "kind": "poetic"
+      },
+      "reason": "Historische aanleiding in het opschrift onderscheiden van gebed, terugblik en poëtische motieven van de plaatselijke psalm."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 58,
+        "verse": 5,
+        "file": "58-5.webp",
+        "alt": "Beeld bij Psalmen 58: Beeldspraak: het gif van een slang",
+        "scene": "Beeldspraak: het gif van een slang"
+      },
+      "after": {
+        "chapter": 58,
+        "verse": 5,
+        "file": "58-5.webp",
+        "alt": "Beeld bij Psalmen 58: Beeldspraak: het gif van een slang",
+        "scene": "Beeldspraak: het gif van een slang",
+        "kind": "poetic"
+      },
+      "reason": "Historische aanleiding in het opschrift onderscheiden van gebed, terugblik en poëtische motieven van de plaatselijke psalm."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 58,
+        "verse": 8,
+        "file": "58-8.webp",
+        "alt": "Beeld bij Psalmen 58: Beeldspraak: water dat wegvloeit",
+        "scene": "Beeldspraak: water dat wegvloeit"
+      },
+      "after": {
+        "chapter": 58,
+        "verse": 8,
+        "file": "58-8.webp",
+        "alt": "Beeld bij Psalmen 58: Beeldspraak: water dat wegvloeit",
+        "scene": "Beeldspraak: water dat wegvloeit",
+        "kind": "poetic"
+      },
+      "reason": "Historische aanleiding in het opschrift onderscheiden van gebed, terugblik en poëtische motieven van de plaatselijke psalm."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 59,
+        "verse": 1,
+        "file": "59-1.webp",
+        "alt": "Beeld bij Psalmen 59: David wordt in zijn huis bewaakt",
+        "scene": "David wordt in zijn huis bewaakt"
+      },
+      "after": {
+        "chapter": 59,
+        "verse": 1,
+        "file": "59-1.webp",
+        "alt": "Beeld bij Psalmen 59: David wordt in zijn huis bewaakt",
+        "scene": "David wordt in zijn huis bewaakt",
+        "kind": "scene"
+      },
+      "reason": "Historische aanleiding in het opschrift onderscheiden van gebed, terugblik en poëtische motieven van de plaatselijke psalm."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 59,
+        "verse": 7,
+        "file": "59-7.webp",
+        "alt": "Beeld bij Psalmen 59: Beeldspraak: honden rond de stad",
+        "scene": "Beeldspraak: honden rond de stad"
+      },
+      "after": {
+        "chapter": 59,
+        "verse": 7,
+        "file": "59-7.webp",
+        "alt": "Beeld bij Psalmen 59: Beeldspraak: honden rond de stad",
+        "scene": "Beeldspraak: honden rond de stad",
+        "kind": "poetic"
+      },
+      "reason": "Historische aanleiding in het opschrift onderscheiden van gebed, terugblik en poëtische motieven van de plaatselijke psalm."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 59,
+        "verse": 17,
+        "file": "59-17.webp",
+        "alt": "Beeld bij Psalmen 59: In de morgen Gods trouw bezingen",
+        "scene": "In de morgen Gods trouw bezingen"
+      },
+      "after": {
+        "chapter": 59,
+        "verse": 17,
+        "file": "59-17.webp",
+        "alt": "Beeld bij Psalmen 59: In de morgen Gods trouw bezingen",
+        "scene": "In de morgen Gods trouw bezingen",
+        "kind": "poetic"
+      },
+      "reason": "Historische aanleiding in het opschrift onderscheiden van gebed, terugblik en poëtische motieven van de plaatselijke psalm."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 60,
+        "verse": 4,
+        "file": "60-4.webp",
+        "alt": "Beeld bij Psalmen 60: Beeldspraak: de scheuren in het land",
+        "scene": "Beeldspraak: de scheuren in het land"
+      },
+      "after": {
+        "chapter": 60,
+        "verse": 4,
+        "file": "60-4.webp",
+        "alt": "Beeld bij Psalmen 60: Beeldspraak: de scheuren in het land",
+        "scene": "Beeldspraak: de scheuren in het land",
+        "kind": "poetic"
+      },
+      "reason": "Historische aanleiding in het opschrift onderscheiden van gebed, terugblik en poëtische motieven van de plaatselijke psalm."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 60,
+        "verse": 6,
+        "file": "60-6.webp",
+        "alt": "Beeld bij Psalmen 60: Een vlag hijsen voor de waarheid",
+        "scene": "Een vlag hijsen voor de waarheid"
+      },
+      "after": {
+        "chapter": 60,
+        "verse": 6,
+        "file": "60-6.webp",
+        "alt": "Beeld bij Psalmen 60: Een vlag hijsen voor de waarheid",
+        "scene": "Een vlag hijsen voor de waarheid",
+        "kind": "poetic"
+      },
+      "reason": "Historische aanleiding in het opschrift onderscheiden van gebed, terugblik en poëtische motieven van de plaatselijke psalm."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 60,
+        "verse": 13,
+        "file": "60-13.webp",
+        "alt": "Beeld bij Psalmen 60: Samen om hulp uit de nood vragen",
+        "scene": "Samen om hulp uit de nood vragen"
+      },
+      "after": {
+        "chapter": 60,
+        "verse": 13,
+        "file": "60-13.webp",
+        "alt": "Beeld bij Psalmen 60: Samen om hulp uit de nood vragen",
+        "scene": "Samen om hulp uit de nood vragen",
+        "kind": "poetic"
+      },
+      "reason": "Historische aanleiding in het opschrift onderscheiden van gebed, terugblik en poëtische motieven van de plaatselijke psalm."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 61,
+        "verse": 3,
+        "file": "61-3.webp",
+        "alt": "Beeld bij Psalmen 61: Beeldspraak: de rots die te hoog is",
+        "scene": "Beeldspraak: de rots die te hoog is"
+      },
+      "after": {
+        "chapter": 61,
+        "verse": 3,
+        "file": "61-3.webp",
+        "alt": "Beeld bij Psalmen 61: Beeldspraak: de rots die te hoog is",
+        "scene": "Beeldspraak: de rots die te hoog is",
+        "kind": "poetic"
+      },
+      "reason": "Historische aanleiding in het opschrift onderscheiden van gebed, terugblik en poëtische motieven van de plaatselijke psalm."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 61,
+        "verse": 4,
+        "file": "61-4.webp",
+        "alt": "Beeld bij Psalmen 61: Beeldspraak: een sterke toren als toevlucht",
+        "scene": "Beeldspraak: een sterke toren als toevlucht"
+      },
+      "after": {
+        "chapter": 61,
+        "verse": 4,
+        "file": "61-4.webp",
+        "alt": "Beeld bij Psalmen 61: Beeldspraak: een sterke toren als toevlucht",
+        "scene": "Beeldspraak: een sterke toren als toevlucht",
+        "kind": "poetic"
+      },
+      "reason": "Historische aanleiding in het opschrift onderscheiden van gebed, terugblik en poëtische motieven van de plaatselijke psalm."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 61,
+        "verse": 9,
+        "file": "61-9.webp",
+        "alt": "Beeld bij Psalmen 61: Elke dag zingen en beloften houden",
+        "scene": "Elke dag zingen en beloften houden"
+      },
+      "after": {
+        "chapter": 61,
+        "verse": 9,
+        "file": "61-9.webp",
+        "alt": "Beeld bij Psalmen 61: Elke dag zingen en beloften houden",
+        "scene": "Elke dag zingen en beloften houden",
+        "kind": "poetic"
+      },
+      "reason": "Historische aanleiding in het opschrift onderscheiden van gebed, terugblik en poëtische motieven van de plaatselijke psalm."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 62,
+        "verse": 2,
+        "file": "62-2.webp",
+        "alt": "Beeld bij Psalmen 62: Alleen bij God is de ziel stil",
+        "scene": "Alleen bij God is de ziel stil"
+      },
+      "after": {
+        "chapter": 62,
+        "verse": 2,
+        "file": "62-2.webp",
+        "alt": "Beeld bij Psalmen 62: Alleen bij God is de ziel stil",
+        "scene": "Alleen bij God is de ziel stil",
+        "kind": "poetic"
+      },
+      "reason": "Historische aanleiding in het opschrift onderscheiden van gebed, terugblik en poëtische motieven van de plaatselijke psalm."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 62,
+        "verse": 4,
+        "file": "62-4.webp",
+        "alt": "Beeld bij Psalmen 62: Beeldspraak: een muur die overhelt",
+        "scene": "Beeldspraak: een muur die overhelt"
+      },
+      "after": {
+        "chapter": 62,
+        "verse": 4,
+        "file": "62-4.webp",
+        "alt": "Beeld bij Psalmen 62: Beeldspraak: een muur die overhelt",
+        "scene": "Beeldspraak: een muur die overhelt",
+        "kind": "poetic"
+      },
+      "reason": "Historische aanleiding in het opschrift onderscheiden van gebed, terugblik en poëtische motieven van de plaatselijke psalm."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 62,
+        "verse": 10,
+        "file": "62-10.webp",
+        "alt": "Beeld bij Psalmen 62: Beeldspraak: lichter dan lucht op de weegschaal",
+        "scene": "Beeldspraak: lichter dan lucht op de weegschaal"
+      },
+      "after": {
+        "chapter": 62,
+        "verse": 10,
+        "file": "62-10.webp",
+        "alt": "Beeld bij Psalmen 62: Beeldspraak: lichter dan lucht op de weegschaal",
+        "scene": "Beeldspraak: lichter dan lucht op de weegschaal",
+        "kind": "poetic"
+      },
+      "reason": "Historische aanleiding in het opschrift onderscheiden van gebed, terugblik en poëtische motieven van de plaatselijke psalm."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 63,
+        "verse": 2,
+        "file": "63-2.webp",
+        "alt": "Beeld bij Psalmen 63: David zoekt God in een dor land",
+        "scene": "David zoekt God in een dor land"
+      },
+      "after": {
+        "chapter": 63,
+        "verse": 2,
+        "file": "63-2.webp",
+        "alt": "Beeld bij Psalmen 63: David zoekt God in een dor land",
+        "scene": "David zoekt God in een dor land",
+        "kind": "poetic"
+      },
+      "reason": "Historische aanleiding in het opschrift onderscheiden van gebed, terugblik en poëtische motieven van de plaatselijke psalm."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 63,
+        "verse": 5,
+        "file": "63-5.webp",
+        "alt": "Beeld bij Psalmen 63: Het leven lang de handen opheffen",
+        "scene": "Het leven lang de handen opheffen"
+      },
+      "after": {
+        "chapter": 63,
+        "verse": 5,
+        "file": "63-5.webp",
+        "alt": "Beeld bij Psalmen 63: Het leven lang de handen opheffen",
+        "scene": "Het leven lang de handen opheffen",
+        "kind": "poetic"
+      },
+      "reason": "Historische aanleiding in het opschrift onderscheiden van gebed, terugblik en poëtische motieven van de plaatselijke psalm."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 63,
+        "verse": 7,
+        "file": "63-7.webp",
+        "alt": "Beeld bij Psalmen 63: In de nacht aan God denken",
+        "scene": "In de nacht aan God denken"
+      },
+      "after": {
+        "chapter": 63,
+        "verse": 7,
+        "file": "63-7.webp",
+        "alt": "Beeld bij Psalmen 63: In de nacht aan God denken",
+        "scene": "In de nacht aan God denken",
+        "kind": "poetic"
+      },
+      "reason": "Historische aanleiding in het opschrift onderscheiden van gebed, terugblik en poëtische motieven van de plaatselijke psalm."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 64,
+        "verse": 3,
+        "file": "64-3.webp",
+        "alt": "Beeld bij Psalmen 64: Verborgen overleg tegen de oprechte",
+        "scene": "Verborgen overleg tegen de oprechte"
+      },
+      "after": {
+        "chapter": 64,
+        "verse": 3,
+        "file": "64-3.webp",
+        "alt": "Beeld bij Psalmen 64: Verborgen overleg tegen de oprechte",
+        "scene": "Verborgen overleg tegen de oprechte",
+        "kind": "poetic"
+      },
+      "reason": "Historische aanleiding in het opschrift onderscheiden van gebed, terugblik en poëtische motieven van de plaatselijke psalm."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 64,
+        "verse": 4,
+        "file": "64-4.webp",
+        "alt": "Beeld bij Psalmen 64: Beeldspraak: bittere woorden als pijlen",
+        "scene": "Beeldspraak: bittere woorden als pijlen"
+      },
+      "after": {
+        "chapter": 64,
+        "verse": 4,
+        "file": "64-4.webp",
+        "alt": "Beeld bij Psalmen 64: Beeldspraak: bittere woorden als pijlen",
+        "scene": "Beeldspraak: bittere woorden als pijlen",
+        "kind": "poetic"
+      },
+      "reason": "Historische aanleiding in het opschrift onderscheiden van gebed, terugblik en poëtische motieven van de plaatselijke psalm."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 64,
+        "verse": 11,
+        "file": "64-11.webp",
+        "alt": "Beeld bij Psalmen 64: Vreugde voor wie eerlijk van hart zijn",
+        "scene": "Vreugde voor wie eerlijk van hart zijn"
+      },
+      "after": {
+        "chapter": 64,
+        "verse": 11,
+        "file": "64-11.webp",
+        "alt": "Beeld bij Psalmen 64: Vreugde voor wie eerlijk van hart zijn",
+        "scene": "Vreugde voor wie eerlijk van hart zijn",
+        "kind": "poetic"
+      },
+      "reason": "Historische aanleiding in het opschrift onderscheiden van gebed, terugblik en poëtische motieven van de plaatselijke psalm."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 65,
+        "verse": 8,
+        "file": "65-8.webp",
+        "alt": "Beeld bij Psalmen 65: Het bruisen van de zee komt tot rust",
+        "scene": "Het bruisen van de zee komt tot rust"
+      },
+      "after": {
+        "chapter": 65,
+        "verse": 8,
+        "file": "65-8.webp",
+        "alt": "Beeld bij Psalmen 65: Het bruisen van de zee komt tot rust",
+        "scene": "Het bruisen van de zee komt tot rust",
+        "kind": "poetic"
+      },
+      "reason": "Historische aanleiding in het opschrift onderscheiden van gebed, terugblik en poëtische motieven van de plaatselijke psalm."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 65,
+        "verse": 11,
+        "file": "65-11.webp",
+        "alt": "Beeld bij Psalmen 65: Regen maakt de voren zacht",
+        "scene": "Regen maakt de voren zacht"
+      },
+      "after": {
+        "chapter": 65,
+        "verse": 11,
+        "file": "65-11.webp",
+        "alt": "Beeld bij Psalmen 65: Regen maakt de voren zacht",
+        "scene": "Regen maakt de voren zacht",
+        "kind": "poetic"
+      },
+      "reason": "Historische aanleiding in het opschrift onderscheiden van gebed, terugblik en poëtische motieven van de plaatselijke psalm."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 65,
+        "verse": 14,
+        "file": "65-14.webp",
+        "alt": "Beeld bij Psalmen 65: De dalen vol koren en de velden vol kudden",
+        "scene": "De dalen vol koren en de velden vol kudden"
+      },
+      "after": {
+        "chapter": 65,
+        "verse": 14,
+        "file": "65-14.webp",
+        "alt": "Beeld bij Psalmen 65: De dalen vol koren en de velden vol kudden",
+        "scene": "De dalen vol koren en de velden vol kudden",
+        "kind": "poetic"
+      },
+      "reason": "Historische aanleiding in het opschrift onderscheiden van gebed, terugblik en poëtische motieven van de plaatselijke psalm."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 66,
+        "verse": 6,
+        "file": "66-6.webp",
+        "alt": "Beeld bij Psalmen 66: Terugdenken aan een doortocht door droog land",
+        "scene": "Terugdenken aan een doortocht door droog land"
+      },
+      "after": {
+        "chapter": 66,
+        "verse": 6,
+        "file": "66-6.webp",
+        "alt": "Beeld bij Psalmen 66: Terugdenken aan een doortocht door droog land",
+        "scene": "Terugdenken aan een doortocht door droog land",
+        "kind": "poetic"
+      },
+      "reason": "Historische aanleiding in het opschrift onderscheiden van gebed, terugblik en poëtische motieven van de plaatselijke psalm."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 66,
+        "verse": 10,
+        "file": "66-10.webp",
+        "alt": "Beeld bij Psalmen 66: Beeldspraak: gelouterd als zilver",
+        "scene": "Beeldspraak: gelouterd als zilver"
+      },
+      "after": {
+        "chapter": 66,
+        "verse": 10,
+        "file": "66-10.webp",
+        "alt": "Beeld bij Psalmen 66: Beeldspraak: gelouterd als zilver",
+        "scene": "Beeldspraak: gelouterd als zilver",
+        "kind": "poetic"
+      },
+      "reason": "Historische aanleiding in het opschrift onderscheiden van gebed, terugblik en poëtische motieven van de plaatselijke psalm."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 66,
+        "verse": 16,
+        "file": "66-16.webp",
+        "alt": "Beeld bij Psalmen 66: Vertellen wat God heeft gedaan",
+        "scene": "Vertellen wat God heeft gedaan"
+      },
+      "after": {
+        "chapter": 66,
+        "verse": 16,
+        "file": "66-16.webp",
+        "alt": "Beeld bij Psalmen 66: Vertellen wat God heeft gedaan",
+        "scene": "Vertellen wat God heeft gedaan",
+        "kind": "poetic"
+      },
+      "reason": "Historische aanleiding in het opschrift onderscheiden van gebed, terugblik en poëtische motieven van de plaatselijke psalm."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 67,
+        "verse": 2,
+        "file": "67-2.webp",
+        "alt": "Beeld bij Psalmen 67: Een gebed om zegen",
+        "scene": "Een gebed om zegen"
+      },
+      "after": {
+        "chapter": 67,
+        "verse": 2,
+        "file": "67-2.webp",
+        "alt": "Beeld bij Psalmen 67: Een gebed om zegen",
+        "scene": "Een gebed om zegen",
+        "kind": "poetic"
+      },
+      "reason": "Historische aanleiding in het opschrift onderscheiden van gebed, terugblik en poëtische motieven van de plaatselijke psalm."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 67,
+        "verse": 4,
+        "file": "67-4.webp",
+        "alt": "Beeld bij Psalmen 67: Alle volken prijzen God",
+        "scene": "Alle volken prijzen God"
+      },
+      "after": {
+        "chapter": 67,
+        "verse": 4,
+        "file": "67-4.webp",
+        "alt": "Beeld bij Psalmen 67: Alle volken prijzen God",
+        "scene": "Alle volken prijzen God",
+        "kind": "poetic"
+      },
+      "reason": "Historische aanleiding in het opschrift onderscheiden van gebed, terugblik en poëtische motieven van de plaatselijke psalm."
+    },
+    {
+      "book": "psalmen",
+      "before": {
+        "chapter": 67,
+        "verse": 7,
+        "file": "67-7.webp",
+        "alt": "Beeld bij Psalmen 67: De aarde geeft haar oogst",
+        "scene": "De aarde geeft haar oogst"
+      },
+      "after": {
+        "chapter": 67,
+        "verse": 7,
+        "file": "67-7.webp",
+        "alt": "Beeld bij Psalmen 67: De aarde geeft haar oogst",
+        "scene": "De aarde geeft haar oogst",
+        "kind": "poetic"
+      },
+      "reason": "Historische aanleiding in het opschrift onderscheiden van gebed, terugblik en poëtische motieven van de plaatselijke psalm."
+    }
+  ]
+}
