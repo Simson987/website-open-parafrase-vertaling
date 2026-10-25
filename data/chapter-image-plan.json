@@ -14444,6 +14444,229 @@
       "target_images": 3,
       "reason": "Tent in Salem, gebroken wapens en redding van armen geven de hoofdbeweging in drie beelden weer. Geen extra generieke strijd- of tentfoto nodig.",
       "additions": []
+    },
+    {
+      "book": "psalmen",
+      "chapter": 78,
+      "status": "reviewed",
+      "target_images": 14,
+      "reason": "Vertellen, rotswater en David zijn aanwezig. Negen onderscheiden herinneringen en vergelijkingen ontbreken: zee, wolk, manna, vogels, rivier, kikkers, hagel, onbetrouwbare boog en Silo. Twee schema’s verbinden overdracht en de lange lijn van ontrouw en leiding. De omvang rechtvaardigt veertien visuals.",
+      "additions": [
+        {
+          "verse": 13,
+          "scene": "Herinnerde daden: een weg door de zee",
+          "kind": "poetic",
+          "file": "78-13-zee-verdieping.webp"
+        },
+        {
+          "verse": 14,
+          "scene": "Herinnerde daden: overdag geleid door een wolk",
+          "kind": "poetic",
+          "file": "78-14-wolk-verdieping.webp"
+        },
+        {
+          "verse": 24,
+          "scene": "Herinnerde daden: voedsel in de woestijn",
+          "kind": "poetic",
+          "file": "78-24-manna-verdieping.webp"
+        },
+        {
+          "verse": 27,
+          "scene": "Herinnerde daden: vogels bij het kamp",
+          "kind": "poetic",
+          "file": "78-27-vogels-verdieping.webp"
+        },
+        {
+          "verse": 44,
+          "scene": "Herinnerde tekenen: rood rivierwater",
+          "kind": "poetic",
+          "file": "78-44-rivier-verdieping.webp"
+        },
+        {
+          "verse": 45,
+          "scene": "Herinnerde tekenen: kikkers",
+          "kind": "poetic",
+          "file": "78-45-kikkers-verdieping.webp"
+        },
+        {
+          "verse": 47,
+          "scene": "Herinnerde tekenen: hagel op wijnstokken",
+          "kind": "poetic",
+          "file": "78-47-hagel-verdieping.webp"
+        },
+        {
+          "verse": 57,
+          "scene": "Beeldspraak: een onbetrouwbare boog",
+          "kind": "poetic",
+          "file": "78-57-kromme-boog-verdieping.webp"
+        },
+        {
+          "verse": 60,
+          "scene": "Herinnering: de verlaten tent in Silo",
+          "kind": "poetic",
+          "file": "78-60-silo-verdieping.webp"
+        },
+        {
+          "verse": 3,
+          "file": "78-doorgeven-aan-kinderen.svg",
+          "scene": "Doorgeven aan kinderen",
+          "kind": "diagram",
+          "source": "Psalm 78:3–7"
+        },
+        {
+          "verse": 1,
+          "file": "78-herinnering-en-ontrouw.svg",
+          "scene": "Herinnering en ontrouw",
+          "kind": "diagram",
+          "source": "Psalm 78:1–72"
+        }
+      ]
+    },
+    {
+      "book": "psalmen",
+      "chapter": 79,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Puin, gebed en kudde zijn aanwezig. Gevangenen vormen een eigen hulpvraag; een leeswijzer verbindt hun bedreigde leven met het volk en de stad.",
+      "additions": [
+        {
+          "verse": 11,
+          "scene": "Motief uit de klacht: gevangenen",
+          "kind": "poetic",
+          "file": "79-11-gevangenen-verdieping.webp"
+        },
+        {
+          "verse": 1,
+          "file": "79-puin-gevangenen-en-lof.svg",
+          "scene": "Puin, gevangenen en lof",
+          "kind": "diagram",
+          "source": "Psalm 79:1–13"
+        }
+      ]
+    },
+    {
+      "book": "psalmen",
+      "chapter": 80,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Groene wijnstok, everzwijn en herstelbede zijn aanwezig. De verbrande stam is een andere fase van het beeld; een refreinschema verklaart de relatie met het volk.",
+      "additions": [
+        {
+          "verse": 17,
+          "scene": "Beeldspraak: een verbrande wijnstok",
+          "kind": "poetic",
+          "file": "80-17-verbrande-wijnstok-verdieping.webp"
+        },
+        {
+          "verse": 2,
+          "file": "80-wijnstok-en-refrein.svg",
+          "scene": "Wijnstok en refrein",
+          "kind": "diagram",
+          "source": "Psalm 80:2–20"
+        }
+      ]
+    },
+    {
+      "book": "psalmen",
+      "chapter": 81,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Muziek, ramshoorn en verzadiging zijn aanwezig. De neergezette draagkorf is een andere herinnerde bevrijding; een schema legt het verband met de oproep om te luisteren.",
+      "additions": [
+        {
+          "verse": 7,
+          "scene": "Herinnerde bevrijding: de draagkorf neergezet",
+          "kind": "poetic",
+          "file": "81-7-draagkorf-verdieping.webp"
+        },
+        {
+          "verse": 2,
+          "file": "81-feest-bevrijding-en-luisteren.svg",
+          "scene": "Feest, bevrijding en luisteren",
+          "kind": "diagram",
+          "source": "Psalm 81:2–17"
+        }
+      ]
+    },
+    {
+      "book": "psalmen",
+      "chapter": 82,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "Armenrecht, bescherming en het slot over volken zijn aanwezig. Een tekstschema geeft ook de kring en het oordeel hun plaats zonder de godenkring speculatief te portretteren.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "82-recht-in-de-kring.svg",
+          "scene": "Recht in de kring",
+          "kind": "diagram",
+          "source": "Psalm 82:1–8"
+        }
+      ]
+    },
+    {
+      "book": "psalmen",
+      "chapter": 83,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "Overleg, stof en storm zijn aanwezig. Een exact namenoverzicht verduidelijkt de opsomming en de expliciete steunrelatie; geen extra generieke wervelwind.",
+      "additions": [
+        {
+          "verse": 7,
+          "file": "83-de-genoemde-bondgenoten.svg",
+          "scene": "De genoemde bondgenoten",
+          "kind": "diagram",
+          "source": "Psalm 83:7–9"
+        }
+      ]
+    },
+    {
+      "book": "psalmen",
+      "chapter": 85,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "Vredewoord, ontmoeting en oogst zijn aanwezig. Een schema brengt ook ontvangen herstel en de hernieuwde bede in beeld; geen extra oogstlandschap.",
+      "additions": [
+        {
+          "verse": 2,
+          "file": "85-herinneren-bidden-luisteren.svg",
+          "scene": "Herinneren, bidden, luisteren",
+          "kind": "diagram",
+          "source": "Psalm 85:2–14"
+        }
+      ]
+    },
+    {
+      "book": "psalmen",
+      "chapter": 87,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "Poort, register en muziek zijn aanwezig. Een namen- en formuleschema bewaart de genoemde volken en de herhaalde geboorte-uitspraak exact.",
+      "additions": [
+        {
+          "verse": 4,
+          "file": "87-volken-en-sion.svg",
+          "scene": "Volken en Sion",
+          "kind": "diagram",
+          "source": "Psalm 87:4–7"
+        }
+      ]
+    },
+    {
+      "book": "psalmen",
+      "chapter": 84,
+      "status": "reviewed",
+      "target_images": 3,
+      "reason": "Nest, oasedal en drempel dekken woning, pelgrimstocht en keuze. Drie passende beelden volstaan; een tweede bijna identieke vogel zou herhalen.",
+      "additions": []
+    },
+    {
+      "book": "psalmen",
+      "chapter": 86,
+      "status": "reviewed",
+      "target_images": 3,
+      "reason": "Arme bidder, volken en de weg zijn aanwezig. De hoofdbeweging van nood, lof en ondeelbaar vertrouwen is hiermee gedekt; geen vierde vrijwel gelijke knielende bidder.",
+      "additions": []
     }
   ]
 }
