@@ -1,0 +1,538 @@
+{
+  "date": "2026-10-25",
+  "started": "2026-10-25T01:34:20Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "job",
+      "chapter": 1,
+      "verse": 5,
+      "scene": "Job brengt offers voor zijn kinderen",
+      "alt": "Job brengt offers voor zijn kinderen — Job 1:5",
+      "kind": "scene",
+      "file": "1-5-verdieping.webp",
+      "prompt": "Use case: historical-scene. Photorealistic educational illustration of the Book of Job, landscape 3:2, ancient Near Eastern land of Uz, simple stone houses and woven robes. Fully modest clothing, adult main characters, anatomically natural hands and exactly two arms per person. No readable text, modern objects, deity shown, nudity, blood, wounds or watermark. Before the disasters, adult Job, a prosperous elderly Near Eastern man with gray beard, stands at a small outdoor stone altar at early dawn. Gentle smoke and a small fire, hands in solemn prayer for his children, peaceful homestead in the distance. No slaughter shown, no dead animals, no giant temple or priestly crown. This is his habitual morning offering before the calamities.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "job",
+      "chapter": 1,
+      "verse": 14,
+      "scene": "Een bode brengt Job het rampbericht",
+      "alt": "Een bode brengt Job het rampbericht — Job 1:14",
+      "kind": "scene",
+      "file": "1-14-verdieping.webp",
+      "prompt": "Use case: historical-scene. Photorealistic educational illustration of the Book of Job, landscape 3:2, ancient Near Eastern land of Uz, simple stone houses and woven robes. Fully modest clothing, adult main characters, anatomically natural hands and exactly two arms per person. No readable text, modern objects, deity shown, nudity, blood, wounds or watermark. A dusty adult messenger arrives urgently at Job’s ancient courtyard and speaks to the seated gray-bearded household head. Another tired messenger has just reached the entrance behind him, suggesting successive reports. No attack shown, no dead bodies or injuries, Job still wears his intact modest robe and has not yet shaved his head.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "job",
+      "chapter": 1,
+      "verse": 19,
+      "scene": "Het huis na de zware woestijnwind",
+      "alt": "Het huis na de zware woestijnwind — Job 1:19",
+      "kind": "scene",
+      "file": "1-19-verdieping.webp",
+      "prompt": "Use case: historical-scene. Photorealistic educational illustration of the Book of Job, landscape 3:2, ancient Near Eastern land of Uz, simple stone houses and woven robes. Fully modest clothing, adult main characters, anatomically natural hands and exactly two arms per person. No readable text, modern objects, deity shown, nudity, blood, wounds or watermark. Educational reconstruction of the catastrophe REPORTED to Job: a strong desert wind blows dust around the collapsed corners and ruined roof of an ancient stone-and-timber house. Empty frame with no people, no bodies, no visible victims, no modern tornado funnel or modern buildings. Somber daylight, a reported calamity, not Job inspecting the site.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "job",
+      "chapter": 2,
+      "verse": 9,
+      "scene": "Jobs vrouw spreekt hem aan",
+      "alt": "Jobs vrouw spreekt hem aan — Job 2:9",
+      "kind": "scene",
+      "file": "2-9-verdieping.webp",
+      "prompt": "Use case: historical-scene. Photorealistic educational illustration of the Book of Job, landscape 3:2, ancient Near Eastern land of Uz, simple stone houses and woven robes. Fully modest clothing, adult main characters, anatomically natural hands and exactly two arms per person. No readable text, modern objects, deity shown, nudity, blood, wounds or watermark. Suffering elderly gray-bearded Job sits fully clothed on an ash heap outside an ancient village. His adult wife stands close beside him, speaking with distress and frustration, while Job answers with weary resolve. Exactly these two prominent adults, natural separate arms and hands, modest sleeves and robes, no visible sores, naked skin injury, abuse or physical attack.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "job",
+      "chapter": 4,
+      "verse": 14,
+      "scene": "In Elifaz’ vertelling: angst in de nacht",
+      "alt": "In Elifaz’ vertelling: angst in de nacht — Job 4:14",
+      "kind": "poetic",
+      "file": "4-14-verdieping.webp",
+      "prompt": "Use case: historical-scene. Photorealistic educational illustration of the Book of Job, landscape 3:2, ancient Near Eastern land of Uz, simple stone houses and woven robes. Fully modest clothing, adult main characters, anatomically natural hands and exactly two arms per person. No readable text, modern objects, deity shown, nudity, blood, wounds or watermark. Poetic visualization of Eliphaz’s RECOUNTED night experience in Job 4: an adult gray-bearded ancient Near Eastern man wakes suddenly on a woven sleeping mat in a dim simple tent, frightened and listening. Pale moonlight at the tent opening, ambiguous shadow, no identifiable angel, God, demon or monster. Fully modest robe, no readable text, natural face and hands.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "job",
+      "chapter": 1,
+      "verse": 1,
+      "file": "1-uz-gezin-en-bezittingen.svg",
+      "scene": "Uz, gezin en bezittingen",
+      "alt": "De precieze aantallen, eenheden en Jobs zorg vóór de rampspoed.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1240,
+      "source": "Job 1:1–5",
+      "design": {
+        "rows": [
+          [
+            "Job",
+            "Eerlijk, oprecht, ontzag voor God en ver van kwaad; woont in Uz."
+          ],
+          [
+            "Gezin",
+            "Zeven zonen en drie dochters; zonen nodigen zussen voor maaltijden uit."
+          ],
+          [
+            "Vee",
+            "7.000 schapen; 3.000 kamelen; 500 span runderen; 500 ezelinnen."
+          ],
+          [
+            "Knechten",
+            "Heel veel; geen exact aantal genoemd."
+          ],
+          [
+            "Gewoonte",
+            "Na feestdagen heiligen en vroeg voor ieder een brandoffer brengen."
+          ]
+        ],
+        "note": "Vijfhonderd span runderen is een aantal spannen, niet slechts vijfhonderd afzonderlijke runderen. De kinderen krijgen hier nog geen namen."
+      }
+    },
+    {
+      "book": "job",
+      "chapter": 1,
+      "verse": 6,
+      "file": "1-beschuldiging-en-vier-berichten.svg",
+      "scene": "Beschuldiging en vier berichten",
+      "alt": "Twee vertelniveaus en vier afzonderlijke berichten in hun volgorde.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1789,
+      "source": "Job 1:6–22",
+      "design": {
+        "rows": [
+          [
+            "Hemels gesprek",
+            "De satan betwijfelt of Jobs ontzag zonder voorspoed blijft bestaan. Job hoort dit gesprek niet."
+          ],
+          [
+            "De grens",
+            "Bezittingen in zijn hand; Job zelf niet aanraken."
+          ],
+          [
+            "Eerste bericht",
+            "Sabeeërs nemen runderen en ezelinnen; knechten gedood."
+          ],
+          [
+            "Tweede bericht",
+            "Vuur treft schapen en knechten, volgens de bode."
+          ],
+          [
+            "Derde bericht",
+            "Chaldeeën in drie groepen nemen kamelen; knechten gedood."
+          ],
+          [
+            "Vierde bericht",
+            "Woestijnwind verwoest het huis; zonen en dochters sterven."
+          ],
+          [
+            "Jobs antwoord",
+            "Mantel scheuren, hoofd scheren en neerbuigen; geen verkeerde beschuldiging tegen God."
+          ]
+        ],
+        "note": "De lezer kent een kader dat Job niet kent. De verteller noemt Job oprecht; het verlies wordt niet als bewezen straf voor verborgen schuld verklaard."
+      }
+    },
+    {
+      "book": "job",
+      "chapter": 2,
+      "verse": 1,
+      "file": "2-tweede-grens-en-zeven-dagen.svg",
+      "scene": "Tweede grens en zeven dagen",
+      "alt": "Grenzen van de proef, de drie herkomsten en het onderscheid tussen stilte en discussie.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1475,
+      "source": "Job 2:1–13",
+      "design": {
+        "rows": [
+          [
+            "De nieuwe aantijging",
+            "De satan verplaatst de proef van bezit naar lichaam."
+          ],
+          [
+            "De grens",
+            "Job mag getroffen worden, maar zijn leven moet gespaard."
+          ],
+          [
+            "As en potscherf",
+            "Zweren van voetzool tot hoofd; Job krabt met een scherf."
+          ],
+          [
+            "Zijn vrouw",
+            "Vraagt oprechtheid los te laten; Job weigert God te vervloeken."
+          ],
+          [
+            "Drie vrienden",
+            "Elifaz uit Theman, Bildad uit Suah, Zofar uit Naäma."
+          ],
+          [
+            "Zeven dagen en nachten",
+            "Zwijgend op de grond, omdat zijn pijn heel groot is."
+          ]
+        ],
+        "note": "De vrienden beginnen met medeleven en stilte. Hun uitleg en discussie beginnen pas nadat Job in hoofdstuk 3 zijn klacht uit."
+      }
+    },
+    {
+      "book": "job",
+      "chapter": 3,
+      "verse": 1,
+      "file": "3-job-vervloekt-zijn-geboortedag.svg",
+      "scene": "Job vervloekt zijn geboortedag",
+      "alt": "De beweging van verwensing via waaromvragen naar de concrete pijn, met het juiste voorwerp van de vervloeking.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1561,
+      "source": "Job 3:1–26",
+      "design": {
+        "rows": [
+          [
+            "Wie spreekt",
+            "Job, nadat de vrienden zeven dagen gezwegen hebben."
+          ],
+          [
+            "Dag en nacht",
+            "Hij vervloekt zijn geboortedag en conceptienacht, niet God."
+          ],
+          [
+            "Waarom geboren?",
+            "Vraagt waarom hij niet bij de geboorte stierf; verlangt naar rust."
+          ],
+          [
+            "Een omgekeerde wereld",
+            "In zijn voorstelling hebben koningen, gevangenen en slaven rust en gelijkheid in de dood."
+          ],
+          [
+            "Waarom nog leven?",
+            "Vraagt waarom licht gegeven wordt aan wie bitter lijden."
+          ],
+          [
+            "Het slot",
+            "Zuchten in plaats van brood; de gevreesde ellende is gekomen, rust ontbreekt."
+          ]
+        ],
+        "note": "Dit is Jobs wanhoopstaal binnen het gesprek. De beelden van duisternis en rust zijn geen nieuwe gebeurtenissen op de ashoop."
+      }
+    },
+    {
+      "book": "job",
+      "chapter": 4,
+      "verse": 1,
+      "file": "4-elifaz-eerste-antwoord.svg",
+      "scene": "Elifaz’ eerste antwoord",
+      "alt": "Spreker, bewijsvoering, beeldspraak en de bijzondere status van het vertelde visioen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1468,
+      "source": "Job 4:1–21",
+      "design": {
+        "rows": [
+          [
+            "Spreker",
+            "Elifaz uit Theman antwoordt Job."
+          ],
+          [
+            "Herinnering",
+            "Job heeft anderen gesterkt; nu raakt de ellende hemzelf."
+          ],
+          [
+            "Elifaz’ redenering",
+            "Onschuldigen komen volgens hem niet om; onrecht zaaien levert ellende op."
+          ],
+          [
+            "Beeldspraak",
+            "Ploegen en oogsten, leeuwen en kwetsbare lemen huizen."
+          ],
+          [
+            "Zijn nachtvertelling",
+            "Angst, een onherkende gedaante en een stem over mens en Maker."
+          ],
+          [
+            "Zijn gevolgtrekking",
+            "De mens is kwetsbaar en niet reiner dan zijn Maker."
+          ]
+        ],
+        "note": "Deze beweringen en het nachtverhaal zijn aan Elifaz toegeschreven. Zijn verklaring is niet automatisch het oordeel van de verteller over Jobs schuld."
+      }
+    },
+    {
+      "book": "job",
+      "chapter": 5,
+      "verse": 1,
+      "file": "5-elifaz-raad-en-beloften.svg",
+      "scene": "Elifaz: raad en beloften",
+      "alt": "Redenering en belofte onderscheiden van gebeurtenissen die al hebben plaatsgevonden.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1554,
+      "source": "Job 5:1–27",
+      "design": {
+        "rows": [
+          [
+            "Vervolg van Elifaz",
+            "Geen nieuwe spreker; hij zet zijn eerste rede voort."
+          ],
+          [
+            "Dwaasheid en moeite",
+            "Ergernis en jaloezie brengen schade; de mens kent ellende."
+          ],
+          [
+            "Zijn advies",
+            "God zoeken en de zaak aan Hem voorleggen."
+          ],
+          [
+            "Zijn redenen",
+            "Regen, redding van armen en het verijdelen van sluwe plannen."
+          ],
+          [
+            "Tucht en herstel",
+            "Gods terechtwijzing aannemen; hij belooft redding, vrede, talrijk nageslacht en hoge ouderdom."
+          ],
+          [
+            "Zijn stellige slot",
+            "Zo hebben wij het onderzocht: luister en neem het ter harte."
+          ]
+        ],
+        "note": "De beloften over een vredige tent zijn Elifaz’ raad aan Job. Zij zijn op dit moment nog geen vertelling dat Jobs gezin en bezit hersteld zijn."
+      }
+    },
+    {
+      "book": "job",
+      "chapter": 6,
+      "verse": 1,
+      "file": "6-job-antwoord-en-vriendschap.svg",
+      "scene": "Job: pijn en vriendschap",
+      "alt": "Jobs antwoord, het falen van de vriendschap en zijn vraag om concrete, eerlijke weerlegging.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1432,
+      "source": "Job 6:1–30",
+      "design": {
+        "rows": [
+          [
+            "Spreker",
+            "Job antwoordt Elifaz; zijn antwoord gaat verder in hoofdstuk 7."
+          ],
+          [
+            "De maat van de pijn",
+            "Verdriet zwaarder dan zeezand; pijlen en bedorven voedsel als beelden."
+          ],
+          [
+            "Einde van zijn kracht",
+            "Vraagt hoe hij nog kan volhouden en spreekt een doodswens uit."
+          ],
+          [
+            "Wat een vriend verschuldigd is",
+            "Trouw aan iemand die het zwaar heeft."
+          ],
+          [
+            "Droge beken",
+            "Vrienden als water dat bij hitte verdwijnt; karavanen hopen vergeefs."
+          ],
+          [
+            "Zijn verzoek",
+            "Toon zijn fout met eerlijke woorden; kijk hem aan en doe geen onrecht."
+          ]
+        ],
+        "note": "De weegschaal, pijlen en beken verbeelden zijn ervaring. Er vindt geen letterlijke beschieting of weging van zijn lichaam plaats."
+      }
+    },
+    {
+      "book": "job",
+      "chapter": 6,
+      "verse": 2,
+      "file": "6-zwaarte-van-de-klacht.svg",
+      "scene": "De zwaarte van de klacht",
+      "alt": "De zwaarte van de klacht — Job 6:2–3",
+      "kind": "diagram",
+      "width": 840,
+      "height": 760,
+      "source": "Job 6:2–3",
+      "design": {
+        "type": "poetic comparative balance",
+        "heavier": "verdriet en ellende",
+        "lighter": "zeezand",
+        "physical_measurement": false
+      }
+    },
+    {
+      "book": "job",
+      "chapter": 7,
+      "verse": 1,
+      "file": "7-job-nacht-en-aanspraak.svg",
+      "scene": "Job: nacht en aanspraak",
+      "alt": "De overgang in aangesprokene en de verschillende beelden voor vermoeidheid en korte levensduur.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1468,
+      "source": "Job 7:1–21",
+      "design": {
+        "rows": [
+          [
+            "Vervolg van Job",
+            "Zijn antwoord gaat van vrienden naar een rechtstreekse aanspraak tot God."
+          ],
+          [
+            "Zwaar bestaan",
+            "Slaaf en dagloner verlangen naar schaduw en loon."
+          ],
+          [
+            "Zijn nachten",
+            "Woelen, huidpijn en schrikdromen; zijn dagen zijn snel als een weversspoel."
+          ],
+          [
+            "Vergankelijkheid",
+            "Leven als wind en een oplossende wolk."
+          ],
+          [
+            "Waarom bewaken?",
+            "Hij vraagt waarom God hem zonder onderbreking lijkt te onderzoeken."
+          ],
+          [
+            "Laatste vraag",
+            "Vraagt om vergeving en een ogenblik ademruimte."
+          ]
+        ],
+        "note": "Zee, zeemonster, weefwerk en wolk zijn vergelijkingen in Jobs klacht. Zij vormen geen nieuwe reis of letterlijke taak die Job nu uitvoert."
+      }
+    },
+    {
+      "book": "job",
+      "chapter": 8,
+      "verse": 1,
+      "file": "8-bildad-redenering-en-beelden.svg",
+      "scene": "Bildad: redenering en beelden",
+      "alt": "Bron van de redenering, de schuldtoeschrijving en het onderscheid tussen belofte en gerealiseerd herstel.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1554,
+      "source": "Job 8:1–22",
+      "design": {
+        "rows": [
+          [
+            "Spreker",
+            "Bildad uit Suah, de tweede vriend die antwoordt."
+          ],
+          [
+            "Zijn beginsel",
+            "God verdraait het recht niet."
+          ],
+          [
+            "Zijn harde toepassing",
+            "Verbindt de dood van Jobs kinderen aan hun overtreding; een bewering van Bildad."
+          ],
+          [
+            "Beroep op traditie",
+            "Vorige generaties moeten onderwijzen; eigen dagen zijn een schaduw."
+          ],
+          [
+            "Afhankelijkheid",
+            "Papyrus heeft water nodig; spinnenweb en ontwortelde plant geven geen blijvende zekerheid."
+          ],
+          [
+            "Voorwaardelijke hoop",
+            "Als Job zuiver is en God zoekt, verwacht Bildad herstel en lachen."
+          ]
+        ],
+        "note": "Bildads beschuldiging is niet door de verteller bewezen. Papyrus, web en plant zijn zijn argumentbeelden, geen nieuwe rampen bij Jobs huis."
+      }
+    },
+    {
+      "book": "job",
+      "chapter": 9,
+      "verse": 1,
+      "file": "9-job-macht-en-rechtsvraag.svg",
+      "scene": "Job: macht en rechtsvraag",
+      "alt": "De stap van kosmische macht naar de vraag naar een gelijkwaardige rechtsgang en een bemiddelaar.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1554,
+      "source": "Job 9:1–35",
+      "design": {
+        "rows": [
+          [
+            "Spreker",
+            "Job antwoordt Bildad; zijn rede loopt door in hoofdstuk 10."
+          ],
+          [
+            "De vraag",
+            "Hoe kan een mens gelijk krijgen bij God?"
+          ],
+          [
+            "Macht van de Maker",
+            "Bergen, aarde, zon, zee en sterren tonen een overweldigende grootheid."
+          ],
+          [
+            "Jobs ervaring",
+            "Ook als hij onschuldig is, ervaart hij geen veilige toegang tot het recht."
+          ],
+          [
+            "Snel voorbij",
+            "Hardloper, rietboot en duikende adelaar beelden zijn dagen uit."
+          ],
+          [
+            "Wat ontbreekt",
+            "Geen scheidsrechter tussen hen; hij verlangt zonder schrik te kunnen spreken."
+          ]
+        ],
+        "note": "De uitspraken over Gods handelen zijn Jobs worstelende woorden. De sterrenillustratie is geen exacte kaart van een gedateerde nacht boven Uz."
+      }
+    },
+    {
+      "book": "job",
+      "chapter": 10,
+      "verse": 1,
+      "file": "10-job-maker-en-klacht.svg",
+      "scene": "Job spreekt zijn Maker aan",
+      "alt": "De spanning tussen schepping, herinnerde zorg en ervaren vervolging, met de beelden als beeldspraak.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1475,
+      "source": "Job 10:1–22",
+      "design": {
+        "rows": [
+          [
+            "Rechtstreeks tot God",
+            "Veroordeel mij niet; maak de oorzaak van het geschil bekend."
+          ],
+          [
+            "De spanning",
+            "God heeft hem gevormd, maar Job ervaart dezelfde handen als vernietigend."
+          ],
+          [
+            "Beelden van vorming",
+            "Klei, melk die stolt, huid, vlees, botten en pezen."
+          ],
+          [
+            "Ontvangen zorg",
+            "Leven, trouw en bewaarde adem worden herinnerd."
+          ],
+          [
+            "De huidige aanklacht",
+            "Onschuld geeft hem geen verlichting; hij voelt zich opgejaagd en belegerd."
+          ],
+          [
+            "Laat mij op adem komen",
+            "Nog een beetje rust vóór het donkere dodenrijk."
+          ]
+        ],
+        "note": "Klei en melk zijn poëtische vergelijkingen voor het gevormde leven; zij zijn geen technische beschrijving van de menselijke ontstaanswijze."
+      }
+    }
+  ]
+}

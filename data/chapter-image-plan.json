@@ -12273,6 +12273,210 @@
       "target_images": 3,
       "reason": "Het hoofdstuk telt drie verzen. Belasting, kronieknotitie en Mordechai’s inzet zijn elk al afzonderlijk afgebeeld. Drie bestaande beelden zijn voldoende; geen extra foto of herhaalde samenvatting toegevoegd.",
       "additions": []
+    },
+    {
+      "book": "job",
+      "chapter": 1,
+      "status": "reviewed",
+      "target_images": 8,
+      "reason": "Gezin, kudden en neerbuigen zijn aanwezig. Gewoonte-offer, opeenvolgende boden en het gerapporteerde ingestorte huis zijn andere episodes. Twee schema’s geven juiste eenheden en het onderscheid tussen hemels kader en Jobs kennis.",
+      "additions": [
+        {
+          "verse": 5,
+          "scene": "Job brengt offers voor zijn kinderen",
+          "kind": "scene",
+          "file": "1-5-verdieping.webp"
+        },
+        {
+          "verse": 14,
+          "scene": "Een bode brengt Job het rampbericht",
+          "kind": "scene",
+          "file": "1-14-verdieping.webp"
+        },
+        {
+          "verse": 19,
+          "scene": "Het huis na de zware woestijnwind",
+          "kind": "scene",
+          "file": "1-19-verdieping.webp"
+        },
+        {
+          "verse": 1,
+          "file": "1-uz-gezin-en-bezittingen.svg",
+          "scene": "Uz, gezin en bezittingen",
+          "kind": "diagram",
+          "source": "Job 1:1–5"
+        },
+        {
+          "verse": 6,
+          "file": "1-beschuldiging-en-vier-berichten.svg",
+          "scene": "Beschuldiging en vier berichten",
+          "kind": "diagram",
+          "source": "Job 1:6–22"
+        }
+      ]
+    },
+    {
+      "book": "job",
+      "chapter": 2,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Ashoop, aankomst en stilte zijn aanwezig. Het gesprek met Jobs vrouw ontbreekt en krijgt een eigen scène; één leeswijzer geeft de nieuwe grens en het begin van de vriendenkring.",
+      "additions": [
+        {
+          "verse": 9,
+          "scene": "Jobs vrouw spreekt hem aan",
+          "kind": "scene",
+          "file": "2-9-verdieping.webp"
+        },
+        {
+          "verse": 1,
+          "file": "2-tweede-grens-en-zeven-dagen.svg",
+          "scene": "Tweede grens en zeven dagen",
+          "kind": "diagram",
+          "source": "Job 2:1–13"
+        }
+      ]
+    },
+    {
+      "book": "job",
+      "chapter": 4,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Antwoord, herinnerde bemoediging en lemen huizen zijn aanwezig. Elifaz’ vertelde nachtangst is een afzonderlijke beeldlaag; leeswijzer maakt zijn uitspraken als zijn redenering herkenbaar.",
+      "additions": [
+        {
+          "verse": 14,
+          "scene": "In Elifaz’ vertelling: angst in de nacht",
+          "kind": "poetic",
+          "file": "4-14-verdieping.webp"
+        },
+        {
+          "verse": 1,
+          "file": "4-elifaz-eerste-antwoord.svg",
+          "scene": "Elifaz’ eerste antwoord",
+          "kind": "diagram",
+          "source": "Job 4:1–21"
+        }
+      ]
+    },
+    {
+      "book": "job",
+      "chapter": 3,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "Klacht, dageraadbeeld en zuchten zijn aanwezig. Eén leeswijzer maakt duidelijk dat de geboortedag vervloekt wordt en ordent de waaromvragen. Geen extra generieke wanhoopsfoto.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "3-job-vervloekt-zijn-geboortedag.svg",
+          "scene": "Job vervloekt zijn geboortedag",
+          "kind": "diagram",
+          "source": "Job 3:1–26"
+        }
+      ]
+    },
+    {
+      "book": "job",
+      "chapter": 5,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "Raad, regen en tent dekken de belangrijkste beeldlagen. Eén leeswijzer onderscheidt Elifaz’ herstelbelofte van herstel dat in de vertelling nog niet heeft plaatsgevonden.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "5-elifaz-raad-en-beloften.svg",
+          "scene": "Elifaz: raad en beloften",
+          "kind": "diagram",
+          "source": "Job 5:1–27"
+        }
+      ]
+    },
+    {
+      "book": "job",
+      "chapter": 6,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Vriendschapsvraag, beek en karavanen zijn aanwezig. Een maatvergelijking visualiseert pijn en zeezand; een leeswijzer verbindt de beelden met Jobs vraag om trouw en eerlijke woorden.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "6-job-antwoord-en-vriendschap.svg",
+          "scene": "Job: pijn en vriendschap",
+          "kind": "diagram",
+          "source": "Job 6:1–30"
+        },
+        {
+          "verse": 2,
+          "file": "6-zwaarte-van-de-klacht.svg",
+          "scene": "De zwaarte van de klacht",
+          "kind": "diagram",
+          "source": "Job 6:2–3"
+        }
+      ]
+    },
+    {
+      "book": "job",
+      "chapter": 7,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "Dagloner, slapeloze nacht en weversspoel zijn aanwezig. Eén leeswijzer verduidelijkt de overgang naar aanspraak tot God en wind/wolk/zeemonster als beeldspraak.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "7-job-nacht-en-aanspraak.svg",
+          "scene": "Job: nacht en aanspraak",
+          "kind": "diagram",
+          "source": "Job 7:1–21"
+        }
+      ]
+    },
+    {
+      "book": "job",
+      "chapter": 8,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "Bildad, papyrus en web zijn aanwezig. Eén leeswijzer onderscheidt zijn schuldtoeschrijving, traditieberoep en herstelverwachting van de feiten van het verhaal.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "8-bildad-redenering-en-beelden.svg",
+          "scene": "Bildad: redenering en beelden",
+          "kind": "diagram",
+          "source": "Job 8:1–22"
+        }
+      ]
+    },
+    {
+      "book": "job",
+      "chapter": 9,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "Spreken, sterren en rietboot zijn aanwezig. Eén leeswijzer licht de rechtsvraag en ontbrekende scheidsrechter toe; geen tweede sterrenfoto of generieke rechtbank toegevoegd.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "9-job-macht-en-rechtsvraag.svg",
+          "scene": "Job: macht en rechtsvraag",
+          "kind": "diagram",
+          "source": "Job 9:1–35"
+        }
+      ]
+    },
+    {
+      "book": "job",
+      "chapter": 10,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "Vraag, klei en herinnerde zorg zijn aanwezig. Eén leeswijzer ordent de spanning met de Maker en de vormingsbeelden; geen letterlijke scheppings- of belegeringsscène gemaakt.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "10-job-maker-en-klacht.svg",
+          "scene": "Job spreekt zijn Maker aan",
+          "kind": "diagram",
+          "source": "Job 10:1–22"
+        }
+      ]
     }
   ]
 }
