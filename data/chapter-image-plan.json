@@ -24415,6 +24415,101 @@
           "source": "Mattheüs 10:5–23,40–42"
         }
       ]
+    },
+    {
+      "book": "mattheus",
+      "chapter": 11,
+      "status": "reviewed",
+      "target_images": 8,
+      "reason": "Antwoord, dank en rust zijn aanwezig. Rietvraag, marktkinderen en juk voegen drie andere onderwijsbeelden toe. Twee schema’s bewaren het hele betoog en de precieze voorwaardelijke stedenvergelijking.",
+      "additions": [
+        {
+          "verse": 7,
+          "file": "11-7-riet-wind-verdieping.webp",
+          "scene": "Vraagbeeld: riet in de wind",
+          "kind": "poetic"
+        },
+        {
+          "verse": 16,
+          "file": "11-16-kinderen-markt-verdieping.webp",
+          "scene": "Vergelijking: kinderen op de markt",
+          "kind": "poetic"
+        },
+        {
+          "verse": 29,
+          "file": "11-29-zacht-juk-verdieping.webp",
+          "scene": "Vergelijking: het lichte juk",
+          "kind": "poetic"
+        },
+        {
+          "verse": 1,
+          "file": "11-leeswijzer.svg",
+          "scene": "Johannes en de uitnodiging",
+          "kind": "diagram",
+          "source": "Mattheüs 11:1–30"
+        },
+        {
+          "verse": 20,
+          "file": "11-steden-vergeleken.svg",
+          "scene": "De steden in de vergelijking",
+          "kind": "diagram",
+          "source": "Mattheüs 11:20–24"
+        }
+      ]
+    },
+    {
+      "book": "mattheus",
+      "chapter": 12,
+      "status": "reviewed",
+      "target_images": 10,
+      "reason": "Aren, handgenezing en familie buiten zijn aanwezig. Schaap uit kuil, riet/vlaspit, herstelde man en leeg huis voegen vier afzonderlijke onderdelen toe. Drie schema’s bewaren twistgesprekken, tekenvergelijking en familie-uitspraak zonder demonlichamen of geweld te verzinnen.",
+      "additions": [
+        {
+          "verse": 11,
+          "file": "12-11-schaap-kuil-verdieping.webp",
+          "scene": "Lesbeeld: een schaap uit de kuil",
+          "kind": "poetic"
+        },
+        {
+          "verse": 20,
+          "file": "12-20-riet-en-vlaspit-verdieping.webp",
+          "scene": "Beeldspraak: riet en vlaspit",
+          "kind": "poetic"
+        },
+        {
+          "verse": 22,
+          "file": "12-22-zien-en-spreken-verdieping.webp",
+          "scene": "De man kan weer zien en spreken",
+          "kind": "scene"
+        },
+        {
+          "verse": 44,
+          "file": "12-44-schoon-huis-verdieping.webp",
+          "scene": "Vergelijking: het geveegde huis",
+          "kind": "poetic"
+        },
+        {
+          "verse": 1,
+          "file": "12-leeswijzer.svg",
+          "scene": "Barmhartigheid en woorden",
+          "kind": "diagram",
+          "source": "Mattheüs 12:1–50"
+        },
+        {
+          "verse": 38,
+          "file": "12-teken-en-getuigen.svg",
+          "scene": "Teken en getuigen",
+          "kind": "diagram",
+          "source": "Mattheüs 12:38–42"
+        },
+        {
+          "verse": 46,
+          "file": "12-familie-en-wil.svg",
+          "scene": "Familie en de wil van de Vader",
+          "kind": "diagram",
+          "source": "Mattheüs 12:46–50"
+        }
+      ]
     }
   ]
 }
