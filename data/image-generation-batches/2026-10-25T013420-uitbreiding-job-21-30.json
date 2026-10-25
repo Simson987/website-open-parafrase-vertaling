@@ -1,0 +1,426 @@
+{
+  "date": "2026-10-25",
+  "started": "2026-10-25T01:34:20Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "job",
+      "chapter": 21,
+      "verse": 32,
+      "scene": "In Jobs voorbeeld: een eervolle uitvaart",
+      "alt": "In Jobs voorbeeld: een eervolle uitvaart — Job 21:32; poëtische illustratie.",
+      "kind": "poetic",
+      "file": "21-32-verdieping.webp",
+      "prompt": "Photorealistic educational poetic illustration for the Book of Job, landscape 3:2. Ancient Near Eastern setting and natural materials. This visualizes an example, remembered experience or metaphor in the chapter, not an extra event in Job’s current life. No modern objects, readable text, watermark, nudity, blood, wounds or visible deity. Adult mourners in modest ancient Near Eastern robes accompany a covered bier toward a simple earthen burial mound. The body is completely concealed under opaque plain cloth, no exposed skin or death details. The procession is dignified and well attended, illustrating Job’s claim that even a wicked prosperous person may receive an honored burial. No Job character as the deceased, no violence.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "job",
+      "chapter": 24,
+      "verse": 8,
+      "scene": "In Jobs aanklacht: schuilen bij de rots",
+      "alt": "In Jobs aanklacht: schuilen bij de rots — Job 24:8; poëtische illustratie.",
+      "kind": "poetic",
+      "file": "24-8-verdieping.webp",
+      "prompt": "Photorealistic educational poetic illustration for the Book of Job, landscape 3:2. Ancient Near Eastern setting and natural materials. This visualizes an example, remembered experience or metaphor in the chapter, not an extra event in Job’s current life. No modern objects, readable text, watermark, nudity, blood, wounds or visible deity. A small group of poor adult ancient Near Eastern laborers in fully covering but worn woven robes press close beneath a rough rock overhang in cold mountain rain. No proper shelter, a few empty woven baskets beside them. Express deprivation without nakedness, injury, starvation closeups or children in distress. Gray wet daylight.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "job",
+      "chapter": 28,
+      "verse": 4,
+      "scene": "In het wijsheidsgedicht: de mijnschacht",
+      "alt": "In het wijsheidsgedicht: de mijnschacht — Job 28:4; poëtische illustratie.",
+      "kind": "poetic",
+      "file": "28-4-verdieping.webp",
+      "prompt": "Photorealistic educational poetic illustration for the Book of Job, landscape 3:2. Ancient Near Eastern setting and natural materials. This visualizes an example, remembered experience or metaphor in the chapter, not an extra event in Job’s current life. No modern objects, readable text, watermark, nudity, blood, wounds or visible deity. An adult ancient Near Eastern miner in a plain modest tunic descends a rough vertical rock mine shaft on a broad rope-supported wooden seat, secure ropes clearly supporting the seat, feet resting on a ledge. Natural two arms holding ropes, another adult at upper edge tending ropes, warm clay oil lamp light. No rope around neck, modern helmets, electric equipment, exposed wounds or actual fall. Educational depiction of the verse’s suspended miner, not a construction guide.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "job",
+      "chapter": 30,
+      "verse": 29,
+      "scene": "Beeldspraak: jakhalzen en struisvogels",
+      "alt": "Beeldspraak: jakhalzen en struisvogels — Job 30:29; poëtische illustratie.",
+      "kind": "poetic",
+      "file": "30-29-verdieping.webp",
+      "prompt": "Photorealistic educational poetic illustration for the Book of Job, landscape 3:2. Ancient Near Eastern setting and natural materials. This visualizes an example, remembered experience or metaphor in the chapter, not an extra event in Job’s current life. No modern objects, readable text, watermark, nudity, blood, wounds or visible deity. Poetic natural-history landscape of a lonely arid steppe: a jackal stands on a low stony rise and two ostriches forage far apart in the middle distance. Wide somber light, realistic animal anatomy, each ostrich exactly two legs, jackal four legs, no people or pets. Illustrates Job’s kinship metaphor of isolation and lament, not literal family relations.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "job",
+      "chapter": 21,
+      "verse": 1,
+      "file": "21-job-tegen-het-eenvoudige-schema.svg",
+      "scene": "Job betwist het simpele schema",
+      "alt": "De logische tegenspraak tussen de voorspoed van slechte mensen en de eenvoudige verklaring van de vrienden.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1561,
+      "source": "Job 21:1–34",
+      "design": {
+        "rows": [
+          [
+            "Spreker",
+            "Job antwoordt Zofar en vraagt luisteren als echte troost."
+          ],
+          [
+            "Zijn tegenvoorbeeld",
+            "Goddelozen kunnen oud worden, hun kinderen zien en voorspoed met muziek genieten."
+          ],
+          [
+            "Zijn vraag",
+            "Hoe vaak dooft hun lamp werkelijk uit? Waarom straf pas bij de kinderen?"
+          ],
+          [
+            "Twee levens, één stof",
+            "De één sterft voldaan, de ander bitter; beiden eindigen in het stof."
+          ],
+          [
+            "Reizigers en begrafenis",
+            "Beroept zich op hun ervaring: een slecht mens kan gespaard worden en eervol begraven."
+          ],
+          [
+            "Zijn conclusie",
+            "De vaste vergeldingsuitleg van de vrienden troost hem niet."
+          ]
+        ],
+        "note": "Job beschrijft waargenomen tegenvoorbeelden. Hij zegt niet dat hij de raad van goddelozen zelf volgt; hij neemt er uitdrukkelijk afstand van."
+      }
+    },
+    {
+      "book": "job",
+      "chapter": 22,
+      "verse": 1,
+      "file": "22-elifaz-van-verwijt-naar-oproep.svg",
+      "scene": "Elifaz: verwijt en oproep",
+      "alt": "De verscherping tot concrete beschuldigingen en de voorwaardelijke oproep tot herstel.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1518,
+      "source": "Job 22:1–30",
+      "design": {
+        "rows": [
+          [
+            "Spreker",
+            "Elifaz uit Theman, nu voor de derde keer."
+          ],
+          [
+            "Concreet verwijt",
+            "Onderpand, kleding afnemen, geen brood of water geven, weduwen en wezen benadelen."
+          ],
+          [
+            "Zijn gevolgtrekking",
+            "Daarom zouden strikken en schrik Job treffen."
+          ],
+          [
+            "Vermeende woorden van Job",
+            "Stelt dat Job Gods zicht op de wereld beperkt acht."
+          ],
+          [
+            "Zijn oproep",
+            "Terugkeren, onderwijs aannemen en onrecht wegdoen."
+          ],
+          [
+            "Zijn belofte",
+            "Goud loslaten; God als rijkdom, gehoord gebed, licht en redding."
+          ]
+        ],
+        "note": "De specifieke misdrijven staan hier als Elifaz’ beschuldigingen. Er wordt geen bewijs geleverd dat Job die handelingen verricht heeft."
+      }
+    },
+    {
+      "book": "job",
+      "chapter": 23,
+      "verse": 1,
+      "file": "23-zoeken-beproeven-en-vrees.svg",
+      "scene": "Zoeken, beproeven en vrees",
+      "alt": "De spanning tussen vertrouwen op zijn levensweg en vrees voor de onvindbare rechter.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1554,
+      "source": "Job 23:1–17",
+      "design": {
+        "rows": [
+          [
+            "Spreker",
+            "Job; zijn antwoord gaat verder in hoofdstuk 24."
+          ],
+          [
+            "Een gehoor gezocht",
+            "Zou God vinden en zijn zaak met argumenten voorleggen; verwacht dat een eerlijk mens gehoord wordt."
+          ],
+          [
+            "Geen vindplaats",
+            "Vooruit, achteruit, links en rechts: Job ziet Hem niet."
+          ],
+          [
+            "Toch gekend",
+            "God kent zijn weg; onderzoek zou hem als goud tonen."
+          ],
+          [
+            "Vasthouden",
+            "Zijn spoor, gebod en woorden zijn Job kostbaarder dan dagelijks brood."
+          ],
+          [
+            "De spanning",
+            "Gods vaste besluit maakt hem ook bang; duisternis bedekt zijn gezicht."
+          ]
+        ],
+        "note": "Het zoeken in vier richtingen is geen beschrijving van een voltooide reis naar vier genoemde steden. De goudproef is een vergelijking met Jobs beproeving."
+      }
+    },
+    {
+      "book": "job",
+      "chapter": 24,
+      "verse": 1,
+      "file": "24-onrecht-werk-en-wachten.svg",
+      "scene": "Onrecht, werk en wachten",
+      "alt": "Samenhang van sociale uitbuiting, gebrek aan onderdak en de vraag naar het tijdstip van gerechtigheid.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1597,
+      "source": "Job 24:1–25",
+      "design": {
+        "rows": [
+          [
+            "De openingsvraag",
+            "Waarom zien wie God kennen geen vaste dag van recht?"
+          ],
+          [
+            "Machtsmisbruik",
+            "Grensstenen, kudden, onderpand van wezen en weduwen, armen van de weg verdrijven."
+          ],
+          [
+            "Arbeid zonder deel",
+            "Hongerig schoven dragen, olie persen en dorstig wijn treden."
+          ],
+          [
+            "Geen beschutting",
+            "Nachtkou en bergregen, schuilen tegen rotsen."
+          ],
+          [
+            "Misdaad in het donker",
+            "Moord, overspel en inbraak zoeken de verborgenheid."
+          ],
+          [
+            "Het slot",
+            "Dood en verlies worden genoemd, maar de spanning van veiligheid en uitgesteld oordeel blijft staan."
+          ]
+        ],
+        "note": "Deze voorbeelden dienen Jobs vraag naar zichtbaar recht. Zij vertellen niet dat Job zelf nu grensstenen verplaatst of een nieuwe oogst binnenhaalt."
+      }
+    },
+    {
+      "book": "job",
+      "chapter": 26,
+      "verse": 1,
+      "file": "26-job-vragen-en-de-fluistering.svg",
+      "scene": "Job: vragen en fluistering",
+      "alt": "De overgang van kritiek op ontoereikende raad naar de grenzen van menselijk begrijpen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1475,
+      "source": "Job 26:1–14",
+      "design": {
+        "rows": [
+          [
+            "Spreker",
+            "Job antwoordt op Bildads korte rede."
+          ],
+          [
+            "Eerst de vrienden",
+            "Hoe hebben hun woorden iemand zonder kracht en wijsheid werkelijk geholpen?"
+          ],
+          [
+            "Diepte en leegte",
+            "Dodenrijk, uitgestrekt noorden en aarde die aan niets hangt."
+          ],
+          [
+            "Water en wolken",
+            "Vastgehouden water, bedekte troon en de grens van licht en donker."
+          ],
+          [
+            "Macht over de chaos",
+            "Zee, Rahab en vluchtende slang in verheven beeldtaal."
+          ],
+          [
+            "Zijn slot",
+            "Dit zijn slechts randen van Gods wegen, een fluistering; de donder gaat het begrip te boven."
+          ]
+        ],
+        "note": "De kosmische beelden vormen Jobs lof- en machtstaal. Het hoofdstuk geeft geen kaart met afstanden, coördinaten of een portret van God."
+      }
+    },
+    {
+      "book": "job",
+      "chapter": 27,
+      "verse": 1,
+      "file": "27-eed-en-het-deel-van-onrecht.svg",
+      "scene": "Eed en het deel van onrecht",
+      "alt": "De twee delen van de rede en hun verschillende onderwerp.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1511,
+      "source": "Job 27:1–23",
+      "design": {
+        "rows": [
+          [
+            "Job gaat verder",
+            "De eigen tekst houdt Job als spreker aan."
+          ],
+          [
+            "Zijn eed",
+            "Zolang er adem is: geen onrecht of bedrog op zijn lippen."
+          ],
+          [
+            "Vasthouden",
+            "Geeft de vrienden geen gelijk en laat zijn oprechtheid niet los."
+          ],
+          [
+            "Godsloze verwachting",
+            "Vraagt welke hoop overblijft wanneer het leven wordt opgeëist."
+          ],
+          [
+            "Portret van de tiran",
+            "Nageslacht, brood, zilver, kleding en woonhuis houden geen vaste toekomst."
+          ],
+          [
+            "Beeldspraak",
+            "Zilver als stof, kleding als leem, kwetsbare hut, storm en oostenwind."
+          ]
+        ],
+        "note": "Het hoofdstuk bevat zowel Jobs onschuldseed als een beschrijving van het lot van tirannen. De aanwezige bezitsbeelden zijn geen verslag van nieuw verkregen rijkdom van Job."
+      }
+    },
+    {
+      "book": "job",
+      "chapter": 28,
+      "verse": 1,
+      "file": "28-erts-vinden-wijsheid-zoeken.svg",
+      "scene": "Erts vinden, wijsheid zoeken",
+      "alt": "De vergelijking tussen technische vondsten, onbetaalbare wijsheid en de afsluitende praktische definitie.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1518,
+      "source": "Job 28:1–28",
+      "design": {
+        "rows": [
+          [
+            "Wat de mens vindt",
+            "Zilver, goud, ijzer en koper; schachten en gangen brengen verborgen kostbaarheden aan het licht."
+          ],
+          [
+            "Wat dieren niet vinden",
+            "Het verborgen mijnpad is onbekend aan roofvogels en roofdieren."
+          ],
+          [
+            "De herhaalde vraag",
+            "Maar wijsheid, waar is die te vinden?"
+          ],
+          [
+            "Geen betaalmiddel voldoende",
+            "Goud, zilver, onyx, saffier, glas, koraal, kristal, robijnen en topaas kunnen haar niet kopen."
+          ],
+          [
+            "Wie de weg kent",
+            "God kent haar plaats en overziet aarde, wind, water, regen en bliksem."
+          ],
+          [
+            "Antwoord voor de mens",
+            "Ontzag voor de HEERE is wijsheid; wegblijven van kwaad is inzicht."
+          ]
+        ],
+        "note": "De mijnbouw toont menselijke vindkracht; de wijsheid is juist niet als een volgende ertslaag of marktprijs beschikbaar."
+      }
+    },
+    {
+      "book": "job",
+      "chapter": 29,
+      "verse": 1,
+      "file": "29-toen-job-herinnert-zich.svg",
+      "scene": "Toen: Job herinnert zich",
+      "alt": "De tijdlaag en de verbinding tussen vroeger aanzien en daadwerkelijke zorg voor anderen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1597,
+      "source": "Job 29:1–25",
+      "design": {
+        "rows": [
+          [
+            "Tijdlaag",
+            "Job verlangt terug naar vroegere maanden van bewaring en nabijheid."
+          ],
+          [
+            "Huis en aanzien",
+            "Kinderen om hem heen, voorspoed en een gerespecteerde plaats bij de stadspoort."
+          ],
+          [
+            "Recht voor kwetsbaren",
+            "Arme, wees, weduwe, blinde, kreupele en onbekende met een rechtszaak."
+          ],
+          [
+            "Zijn beelden",
+            "Gerechtigheid als kleding, ogen en voeten voor de ander, wortel bij water en raad als regen."
+          ],
+          [
+            "Zijn verwachting toen",
+            "Lang leven in eigen nest; blijvende eer en kracht."
+          ],
+          [
+            "Het slotbeeld",
+            "Als een koning tussen troepen en een trooster tussen treurenden."
+          ]
+        ],
+        "note": "Dit is herinnering aan vóór de ellende, geen herstel dat al na de gesprekken is ingetreden. Job wordt met een koning vergeleken, niet tot koning gekroond."
+      }
+    },
+    {
+      "book": "job",
+      "chapter": 30,
+      "verse": 1,
+      "file": "30-nu-vernedering-en-klacht.svg",
+      "scene": "Nu: vernedering en klacht",
+      "alt": "De omkering van toen naar nu, met de klacht over onbeantwoorde zorg en verloren vreugde.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1518,
+      "source": "Job 30:1–31",
+      "design": {
+        "rows": [
+          [
+            "Tegenover hoofdstuk 29",
+            "Na de herinnering van toen komt de scherpe omslag: maar nu."
+          ],
+          [
+            "Sociale vernedering",
+            "Wordt een spotlied, vermeden en bespuugd door mensen op wie hij eerder neerkeek."
+          ],
+          [
+            "Geen rust",
+            "Pijn, koorts en onrust; eer en geluk als weggeblazen."
+          ],
+          [
+            "Aanspraak tot God",
+            "Roept om hulp en ervaart geen antwoord."
+          ],
+          [
+            "Zijn vraag aan de omgeving",
+            "Hij had zelf medelijden met wie het moeilijk had; waarom nu geen hulp?"
+          ],
+          [
+            "Poëtisch slot",
+            "Broer van jakhalzen, metgezel van struisvogels; harp en fluit worden klacht."
+          ]
+        ],
+        "note": "Aanvalswegen, storm en dierenverwantschap zijn beelden van vernedering en eenzaamheid. Er wordt geen werkelijke familieband met dieren verteld."
+      }
+    }
+  ]
+}
