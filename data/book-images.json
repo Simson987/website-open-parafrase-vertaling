@@ -30078,42 +30078,60 @@
         "verse": 2,
         "file": "7-2.webp",
         "alt": "Beeld bij Daniel 7: Vier winden over de grote zee",
-        "scene": "Vier winden over de grote zee"
+        "scene": "Vier winden over de grote zee",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 7,
         "verse": 10,
         "file": "7-10.webp",
         "alt": "Beeld bij Daniel 7: De boeken worden geopend",
-        "scene": "De boeken worden geopend"
+        "scene": "De boeken worden geopend",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 7,
         "verse": 27,
         "file": "7-27.webp",
         "alt": "Beeld bij Daniel 7: Een rijk voor het heilige volk",
-        "scene": "Een rijk voor het heilige volk"
+        "scene": "Een rijk voor het heilige volk",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 8,
         "verse": 2,
         "file": "8-2.webp",
         "alt": "Beeld bij Daniel 8: Bij de rivier Ulai",
-        "scene": "Bij de rivier Ulai"
+        "scene": "Bij de rivier Ulai",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 8,
         "verse": 3,
         "file": "8-3.webp",
         "alt": "Beeld bij Daniel 8: De ram met twee ongelijke horens",
-        "scene": "De ram met twee ongelijke horens"
+        "scene": "De ram met twee ongelijke horens",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 8,
         "verse": 16,
         "file": "8-16.webp",
         "alt": "Beeld bij Daniel 8: Gabriël verklaart het visioen",
-        "scene": "Gabriël verklaart het visioen"
+        "scene": "Gabriël verklaart het visioen",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 9,
@@ -30481,6 +30499,86 @@
         "kind": "diagram",
         "width": 840,
         "height": 1498
+      },
+      {
+        "chapter": 7,
+        "verse": 4,
+        "scene": "Droombeeld: leeuw met arendsvleugels",
+        "alt": "Droombeeld: leeuw met arendsvleugels — Daniël 7:4; symbolisch dier uit het visioen.",
+        "kind": "poetic",
+        "file": "7-4-leeuw-met-arendsvleugels-verdieping.webp",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 8,
+        "verse": 5,
+        "scene": "Visioen: de bok met één hoorn",
+        "alt": "Visioen: de bok met één hoorn — Daniël 8:5; symbolisch dier uit het visioen.",
+        "kind": "poetic",
+        "file": "8-5-bok-met-een-hoorn-verdieping.webp",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 7,
+        "verse": 1,
+        "file": "7-leeswijzer.svg",
+        "scene": "Dieren, gerecht en Koninkrijk",
+        "alt": "De gehele droom, gegeven uitleg en de verontruste reactie.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1263
+      },
+      {
+        "chapter": 7,
+        "verse": 4,
+        "file": "7-vier-dieren.svg",
+        "scene": "De vier beschreven dieren",
+        "alt": "Alle vier dieren met de exact genoemde kenmerken en aantallen.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1256
+      },
+      {
+        "chapter": 7,
+        "verse": 17,
+        "file": "7-hoorns-en-uitleg.svg",
+        "scene": "De hoorns en de gegeven uitleg",
+        "alt": "De tekstuele relaties van dieren, hoorns, koningen, onderdrukking en oordeel.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1263
+      },
+      {
+        "chapter": 8,
+        "verse": 1,
+        "file": "8-leeswijzer.svg",
+        "scene": "Ram, bok en de betekenis",
+        "alt": "De opeenvolging van het visioen, de vraag, de uitleg en de reactie.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1220
+      },
+      {
+        "chapter": 8,
+        "verse": 20,
+        "file": "8-ram-bok-hoorns.svg",
+        "scene": "Ram, bok en hun uitleg",
+        "alt": "Exacte relaties tussen de twee dieren, hoorns en genoemde rijken.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1349
+      },
+      {
+        "chapter": 8,
+        "verse": 13,
+        "file": "8-vraag-en-antwoord.svg",
+        "scene": "De vraag en het tijdwoord",
+        "alt": "De precieze vraag, antwoordformule en verwerkingsreactie van Daniël.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1263
       }
     ],
     "hosea": [

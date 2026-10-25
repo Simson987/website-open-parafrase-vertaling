@@ -21622,6 +21622,78 @@
           "source": "Daniël 6:2–16"
         }
       ]
+    },
+    {
+      "book": "daniel",
+      "chapter": 7,
+      "status": "reviewed",
+      "target_images": 7,
+      "reason": "Zee, geopende boeken en het ontvangen Rijk zijn aanwezig. De gevleugelde leeuw voegt het eerste ontbrekende dierbeeld toe. Drie schema’s maken juist alle vier complexe dieren, de precieze aantallen en de hele gegeven uitleg controleerbaar zonder ongenoemde koningen te identificeren.",
+      "additions": [
+        {
+          "verse": 4,
+          "scene": "Droombeeld: leeuw met arendsvleugels",
+          "kind": "poetic",
+          "file": "7-4-leeuw-met-arendsvleugels-verdieping.webp"
+        },
+        {
+          "verse": 1,
+          "file": "7-leeswijzer.svg",
+          "scene": "Dieren, gerecht en Koninkrijk",
+          "kind": "diagram",
+          "source": "Daniël 7:1–28"
+        },
+        {
+          "verse": 4,
+          "file": "7-vier-dieren.svg",
+          "scene": "De vier beschreven dieren",
+          "kind": "diagram",
+          "source": "Daniël 7:4–8,19"
+        },
+        {
+          "verse": 17,
+          "file": "7-hoorns-en-uitleg.svg",
+          "scene": "De hoorns en de gegeven uitleg",
+          "kind": "diagram",
+          "source": "Daniël 7:17–27"
+        }
+      ]
+    },
+    {
+      "book": "daniel",
+      "chapter": 8,
+      "status": "reviewed",
+      "target_images": 7,
+      "reason": "Plaats, ram en Gabriël zijn aanwezig. De bok met de ene hoorn voegt de belangrijkste ontbrekende tegenspeler toe. Drie schema’s bewaren alle hoornveranderingen, genoemde rijksnamen en de eigen formulering van 2300 avonden en morgens zonder toegevoegde kalenderberekening.",
+      "additions": [
+        {
+          "verse": 5,
+          "scene": "Visioen: de bok met één hoorn",
+          "kind": "poetic",
+          "file": "8-5-bok-met-een-hoorn-verdieping.webp"
+        },
+        {
+          "verse": 1,
+          "file": "8-leeswijzer.svg",
+          "scene": "Ram, bok en de betekenis",
+          "kind": "diagram",
+          "source": "Daniël 8:1–27"
+        },
+        {
+          "verse": 20,
+          "file": "8-ram-bok-hoorns.svg",
+          "scene": "Ram, bok en hun uitleg",
+          "kind": "diagram",
+          "source": "Daniël 8:3–12,20–25"
+        },
+        {
+          "verse": 13,
+          "file": "8-vraag-en-antwoord.svg",
+          "scene": "De vraag en het tijdwoord",
+          "kind": "diagram",
+          "source": "Daniël 8:13–19,26–27"
+        }
+      ]
     }
   ]
 }

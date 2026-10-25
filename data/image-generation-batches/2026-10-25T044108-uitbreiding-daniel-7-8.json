@@ -1,0 +1,231 @@
+{
+  "date": "2026-10-25",
+  "started": "2026-10-25T04:41:08Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "daniel",
+      "chapter": 7,
+      "verse": 4,
+      "scene": "Droombeeld: leeuw met arendsvleugels",
+      "alt": "Droombeeld: leeuw met arendsvleugels — Daniël 7:4; symbolisch dier uit het visioen.",
+      "kind": "poetic",
+      "file": "7-4-leeuw-met-arendsvleugels-verdieping.webp",
+      "prompt": "Use case: illustration-story. Photorealistic rendering of an explicitly symbolic Bible vision, landscape 3:2, realistic natural textures and light. No people, readable text, watermark, modern objects, deity body, graphic violence or injury. One lion with a coherent natural four-legged lion body and exactly two eagle wings attached symmetrically to its upper back stands on a rocky shore beside a dark stormy sea at night. The wings are intentional elements of Daniel’s vision; the body, paws, face and feathers should have realistic texture, no extra legs, second lion, human face, horns, blood or attacked creature. This is the first appearance before its wings are removed, not an ordinary zoological animal.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "daniel",
+      "chapter": 8,
+      "verse": 5,
+      "scene": "Visioen: de bok met één hoorn",
+      "alt": "Visioen: de bok met één hoorn — Daniël 8:5; symbolisch dier uit het visioen.",
+      "kind": "poetic",
+      "file": "8-5-bok-met-een-hoorn-verdieping.webp",
+      "prompt": "Use case: illustration-story. Photorealistic rendering of an explicitly symbolic Bible vision, landscape 3:2, realistic natural textures and light. No people, readable text, watermark, modern objects, deity body, graphic violence or injury. One natural shaggy male goat bounds west-to-east above a dry ancient plain beside a distant canal, its four coherent legs briefly off the ground during one powerful leap. Exactly ONE prominent horn grows centrally between its eyes; no normal pair of horns on the sides, no second goat, ram fight, blood, wings or unicorn horse. The single horn and airborne movement are explicit vision features, shown with photorealistic textures rather than as ordinary zoology.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "daniel",
+      "chapter": 7,
+      "verse": 1,
+      "file": "7-leeswijzer.svg",
+      "scene": "Dieren, gerecht en Koninkrijk",
+      "alt": "De gehele droom, gegeven uitleg en de verontruste reactie.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1263,
+      "source": "Daniël 7:1–28",
+      "design": {
+        "rows": [
+          [
+            "Het nachtgezicht · 1–8",
+            "Eerste jaar Belsazar, droom opgeschreven; zee, vier winden, vier verschillende dieren, tien en kleine hoorn."
+          ],
+          [
+            "Het gerecht · 9–14",
+            "Oude van dagen, vuur, boeken en oordeel; iemand als een mensenzoon met de wolken ontvangt eeuwige macht."
+          ],
+          [
+            "De uitleg · 15–27",
+            "Vier koningen, vierde rijk en hoorns, onderdrukking en gerecht; heiligen ontvangen het blijvende Rijk."
+          ],
+          [
+            "De reactie · 28",
+            "Daniël zeer verontrust en verbleekt, bewaart het woord in zijn hart."
+          ]
+        ],
+        "note": "Dit is een droom met uitleg binnen hetzelfde hoofdstuk. De dierkenmerken zijn beschreven symbolen."
+      }
+    },
+    {
+      "book": "daniel",
+      "chapter": 7,
+      "verse": 4,
+      "file": "7-vier-dieren.svg",
+      "scene": "De vier beschreven dieren",
+      "alt": "Alle vier dieren met de exact genoemde kenmerken en aantallen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1256,
+      "source": "Daniël 7:4–8,19",
+      "design": {
+        "rows": [
+          [
+            "Eerste · 4",
+            "Als leeuw met arendsvleugels; vleugels weg, op twee voeten als mens gezet, mensenhart gegeven."
+          ],
+          [
+            "Tweede · 5",
+            "Als beer, half overeind; drie ribben tussen de tanden, opdracht veel vlees te eten."
+          ],
+          [
+            "Derde · 6",
+            "Als luipaard; vier vogelvleugels op de rug, vier koppen, macht gegeven."
+          ],
+          [
+            "Vierde · 7–8,19",
+            "Anders en zeer sterk, ijzeren tanden en bronzen klauwen, tien hoorns; kleine hoorn met ogen en sprekende mond."
+          ]
+        ],
+        "note": "De verschillende aantallen horen bij verschillende dieren. De vier koppen en vier vleugels zijn opzettelijke visioenelementen, geen gewone dierenanatomie."
+      }
+    },
+    {
+      "book": "daniel",
+      "chapter": 7,
+      "verse": 17,
+      "file": "7-hoorns-en-uitleg.svg",
+      "scene": "De hoorns en de gegeven uitleg",
+      "alt": "De tekstuele relaties van dieren, hoorns, koningen, onderdrukking en oordeel.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1263,
+      "source": "Daniël 7:17–27",
+      "design": {
+        "rows": [
+          [
+            "Vier dieren · 17–18",
+            "Vier koningen die opstaan; heiligen ontvangen en bezitten het Koninkrijk voor altijd."
+          ],
+          [
+            "Vierde dier · 23",
+            "Vierde rijk op aarde, anders dan alle andere, etend, vertrappend en verbrijzelend."
+          ],
+          [
+            "Tien en een andere · 24",
+            "Tien koningen uit het rijk; daarna een andere die drie koningen vernedert."
+          ],
+          [
+            "Tijd en oordeel · 25–27",
+            "Grote woorden, heiligen onderdrukt en tijden/wet willen veranderen; een tijd, twee tijden, halve tijd, dan gerecht en eeuwig Rijk."
+          ]
+        ],
+        "note": "Het hoofdstuk noemt geen eigen namen van deze koningen. De tijdformule blijft staan zonder een nieuwe kalenderdatum te berekenen."
+      }
+    },
+    {
+      "book": "daniel",
+      "chapter": 8,
+      "verse": 1,
+      "file": "8-leeswijzer.svg",
+      "scene": "Ram, bok en de betekenis",
+      "alt": "De opeenvolging van het visioen, de vraag, de uitleg en de reactie.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1220,
+      "source": "Daniël 8:1–27",
+      "design": {
+        "rows": [
+          [
+            "Het visioen · 1–12",
+            "Derde jaar Belsazar, Susan in Elam bij Ulai; ram, bok, gebroken en nieuwe hoorns, aanslag op heiligdom en waarheid."
+          ],
+          [
+            "De vraag · 13–14",
+            "Hoelang? 2300 avonden en morgens, daarna herstel van het heiligdom."
+          ],
+          [
+            "De uitleg · 15–26",
+            "Gabriël laat begrijpen, Daniël schrikt en wordt opgericht; namen van rijken en machtsverloop verklaard, geheim houden."
+          ],
+          [
+            "De reactie · 27",
+            "Daniël zwak en enkele dagen ziek, daarna koningswerk; blijft ontsteld."
+          ]
+        ],
+        "note": "Het visioen en de uitleg horen bij elkaar. De oude plaatsnamen en namen van de koninkrijken volgen deze tekst."
+      }
+    },
+    {
+      "book": "daniel",
+      "chapter": 8,
+      "verse": 20,
+      "file": "8-ram-bok-hoorns.svg",
+      "scene": "Ram, bok en hun uitleg",
+      "alt": "Exacte relaties tussen de twee dieren, hoorns en genoemde rijken.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1349,
+      "source": "Daniël 8:3–12,20–25",
+      "design": {
+        "rows": [
+          [
+            "Ram met twee hoorns · 3–4,20",
+            "Twee hoge ongelijke hoorns, hoogste later; stoten west/noord/zuid. Uitleg: koningen van de Meden en de Perzen."
+          ],
+          [
+            "Bok met grote hoorn · 5–7,21",
+            "Uit westen, zonder grond te raken; grote hoorn tussen ogen. Uitleg: koning van Griekenland, grote hoorn eerste koning."
+          ],
+          [
+            "Vier in zijn plaats · 8,22",
+            "Grote hoorn breekt, vier naar windstreken; vier koninkrijken uit dat volk, niet met dezelfde kracht."
+          ],
+          [
+            "Kleine hoorn en einde · 9–12,23–25",
+            "Uit één, groeit zuid/oost/prachtige land; koning met listen en verwoesting, tegen Vorst der vorsten, gebroken zonder mensenhand."
+          ]
+        ],
+        "note": "De gegeven rijksnamen zijn wel genoemd, maar individuele persoonsnamen niet. Het schema houdt zich aan dat onderscheid."
+      }
+    },
+    {
+      "book": "daniel",
+      "chapter": 8,
+      "verse": 13,
+      "file": "8-vraag-en-antwoord.svg",
+      "scene": "De vraag en het tijdwoord",
+      "alt": "De precieze vraag, antwoordformule en verwerkingsreactie van Daniël.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1263,
+      "source": "Daniël 8:13–19,26–27",
+      "design": {
+        "rows": [
+          [
+            "De vraag · 13",
+            "Hoelang dagelijks offer weg, verwoestende ontrouw, heiligdom en leger vertrapt?"
+          ],
+          [
+            "Het antwoord · 14",
+            "Tot tweeduizend driehonderd avonden en morgens; dan heiligdom weer in ere hersteld."
+          ],
+          [
+            "De opdracht aan Gabriël · 15–19",
+            "Daniël zoekt betekenis, stem noemt Gabriël; tijd van het einde, diepe slaap en weer opgericht."
+          ],
+          [
+            "Het bewaren · 26–27",
+            "Avonden-en-morgensvisioen is waar, geheim want nog veel dagen; Daniël ziek en later weer aan het werk."
+          ]
+        ],
+        "note": "De formulering avonden en morgens blijft intact. Er wordt geen andere eenheid of eigen begin- en einddatum voor in de plaats gezet."
+      }
+    }
+  ]
+}
