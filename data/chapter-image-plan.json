@@ -23183,6 +23183,98 @@
           "source": "Nahum 3:8–14"
         }
       ]
+    },
+    {
+      "book": "habakuk",
+      "chapter": 1,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Klacht, leger en vissen zijn aanwezig. Een belegeringswal en sleepnet voegen twee aparte genoemde beelden toe; leeswijzer bewaart beide klachten en het antwoord.",
+      "additions": [
+        {
+          "verse": 10,
+          "file": "1-10-vestingwal-verdieping.webp",
+          "scene": "Aankondiging: een wal tegen de vesting",
+          "kind": "poetic"
+        },
+        {
+          "verse": 15,
+          "file": "1-15-sleepnet-verdieping.webp",
+          "scene": "Vergelijking: het sleepnet",
+          "kind": "poetic"
+        },
+        {
+          "verse": 1,
+          "file": "1-leeswijzer.svg",
+          "scene": "Twee klachten en een antwoord",
+          "kind": "diagram",
+          "source": "Habakuk 1:1–17"
+        }
+      ]
+    },
+    {
+      "book": "habakuk",
+      "chapter": 2,
+      "status": "reviewed",
+      "target_images": 7,
+      "reason": "Schrijven, wachten en zee zijn aanwezig. Steen/balk en ademloos afgodsmaaksel voegen twee eigen beelden toe. Leeswijzer en vijf-weeënschema houden de concrete aanklachten apart zonder vernedering te tekenen.",
+      "additions": [
+        {
+          "verse": 11,
+          "file": "2-11-steen-en-balk-verdieping.webp",
+          "scene": "Beeldspraak: steen en balk",
+          "kind": "poetic"
+        },
+        {
+          "verse": 19,
+          "file": "2-19-hout-zonder-adem-verdieping.webp",
+          "scene": "Aanklacht: hout zonder adem",
+          "kind": "poetic"
+        },
+        {
+          "verse": 1,
+          "file": "2-leeswijzer.svg",
+          "scene": "Visioen, wachten en vijf weeën",
+          "kind": "diagram",
+          "source": "Habakuk 2:1–20"
+        },
+        {
+          "verse": 6,
+          "file": "2-vijf-weeen.svg",
+          "scene": "De vijf wee-uitspraken",
+          "kind": "diagram",
+          "source": "Habakuk 2:6–20"
+        }
+      ]
+    },
+    {
+      "book": "habakuk",
+      "chapter": 3,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Lege stal/vrucht, toch juichen en hertbeeld zijn aanwezig. Trillende tentdoeken voegen het concrete Kusan/Midian-beeld toe. Twee schema’s onderscheiden poëtische verschijningstaal en zes voorwaardelijke gemissen.",
+      "additions": [
+        {
+          "verse": 7,
+          "file": "3-7-tenten-midian-verdieping.webp",
+          "scene": "Gebedsbeeld: de tentdoeken trillen",
+          "kind": "poetic"
+        },
+        {
+          "verse": 1,
+          "file": "3-leeswijzer.svg",
+          "scene": "Gebed, beven en toch juichen",
+          "kind": "diagram",
+          "source": "Habakuk 3:1–19"
+        },
+        {
+          "verse": 17,
+          "file": "3-zes-gemissen.svg",
+          "scene": "Zes gemissen, toch vreugde",
+          "kind": "diagram",
+          "source": "Habakuk 3:17–19"
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,226 @@
+{
+  "date": "2026-10-25",
+  "started": "2026-10-25T08:53:43Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "habakuk",
+      "chapter": 1,
+      "verse": 10,
+      "file": "1-10-vestingwal-verdieping.webp",
+      "scene": "Aankondiging: een wal tegen de vesting",
+      "alt": "Aankondiging: een wal tegen de vesting — Habakuk 1:10; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, ancient Levant, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, divine portrait, blood, injury or watermark. Distant ancient troops build a plain earth siege ramp against a stone fortress, no battle or victims, coherent architecture, no modern machinery.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "habakuk",
+      "chapter": 1,
+      "verse": 15,
+      "file": "1-15-sleepnet-verdieping.webp",
+      "scene": "Vergelijking: het sleepnet",
+      "alt": "Vergelijking: het sleepnet — Habakuk 1:15; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, ancient Levant, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, divine portrait, blood, injury or watermark. An ancient fishing dragnet gathered on a natural shoreline beside a plain fishing hook, no captured people, dead fish, modern gear or worship scene.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "habakuk",
+      "chapter": 2,
+      "verse": 11,
+      "file": "2-11-steen-en-balk-verdieping.webp",
+      "scene": "Beeldspraak: steen en balk",
+      "alt": "Beeldspraak: steen en balk — Habakuk 2:11; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, ancient Levant, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, divine portrait, blood, injury or watermark. Close view of an ancient stone wall and wooden roof beam meeting, ordinary nonanthropomorphic materials, no mouths, faces or writing.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "habakuk",
+      "chapter": 2,
+      "verse": 19,
+      "file": "2-19-hout-zonder-adem-verdieping.webp",
+      "scene": "Aanklacht: hout zonder adem",
+      "alt": "Aanklacht: hout zonder adem — Habakuk 2:19; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, ancient Levant, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, divine portrait, blood, injury or watermark. A small plain human-shaped wooden idol partly overlaid with dull gold and silver on an ancient workbench, clearly an inanimate craft object, no person worshipping, exact named deity, glowing magic or writing.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "habakuk",
+      "chapter": 3,
+      "verse": 7,
+      "file": "3-7-tenten-midian-verdieping.webp",
+      "scene": "Gebedsbeeld: de tentdoeken trillen",
+      "alt": "Gebedsbeeld: de tentdoeken trillen — Habakuk 3:7; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, ancient Levant, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, divine portrait, blood, injury or watermark. Ancient dark woven desert tents with cloth flapping strongly in a dry wind on an empty rocky plain, no deity, divine horse, people or modern tent hardware.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "habakuk",
+      "chapter": 1,
+      "verse": 1,
+      "file": "1-leeswijzer.svg",
+      "scene": "Twee klachten en een antwoord",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 949,
+      "source": "Habakuk 1:1–17",
+      "design": {
+        "rows": [
+          [
+            "Klacht · 1–4",
+            "Lang roepen, geweld en onrecht, wet verslapt en recht verdraaid."
+          ],
+          [
+            "Het antwoord · 5–11",
+            "Chaldeeën komen, snel en angstwekkend, gevangenen en vestingen; eigen kracht tot god gemaakt."
+          ],
+          [
+            "De nieuwe vraag · 12–17",
+            "Zijn reinheid tegenover kwaad; waarom onrecht verdragen? Mensen als vissen en sleepnet, roof zonder medelijden."
+          ]
+        ],
+        "note": "Beeldspraak, klacht, herinnering en belofte volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "habakuk",
+      "chapter": 2,
+      "verse": 1,
+      "file": "2-leeswijzer.svg",
+      "scene": "Visioen, wachten en vijf weeën",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 992,
+      "source": "Habakuk 2:1–20",
+      "design": {
+        "rows": [
+          [
+            "Het antwoord bewaren · 1–4",
+            "Wachtpost, tafels, vastgestelde tijd; wachten, rechtvaardige leeft door geloof."
+          ],
+          [
+            "De vijf weeën · 5–19",
+            "Hebzucht en roof, oneerlijke winst, stad met bloed, naaste beschamen en afgoden zonder adem."
+          ],
+          [
+            "De tegenstelling · 14,20",
+            "Aarde vol kennis als water de zee bedekt; Hij in heilige tempel, heel de aarde stil."
+          ]
+        ],
+        "note": "Beeldspraak, klacht, herinnering en belofte volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "habakuk",
+      "chapter": 3,
+      "verse": 1,
+      "file": "3-leeswijzer.svg",
+      "scene": "Gebed, beven en toch juichen",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 949,
+      "source": "Habakuk 3:1–19",
+      "design": {
+        "rows": [
+          [
+            "Het gebed · 1–2",
+            "Klaagliedwijs, gehoord en bang, werk levend houden, ontferming in toorn."
+          ],
+          [
+            "De verschijningstaal · 3–15",
+            "Theman/Paran, licht, bergen en tenten, rivieren en zee, paarden en redding; poëtische machtstaal."
+          ],
+          [
+            "De eigen reactie · 16–19",
+            "Beven en wachten; ook zonder zes opbrengsten toch juichen, kracht en voeten als hinde; snaarspel."
+          ]
+        ],
+        "note": "Beeldspraak, klacht, herinnering en belofte volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "habakuk",
+      "chapter": 2,
+      "verse": 6,
+      "file": "2-vijf-weeen.svg",
+      "scene": "De vijf wee-uitspraken",
+      "alt": "De vijf wee-uitspraken met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1326,
+      "source": "Habakuk 2:6–20",
+      "design": {
+        "rows": [
+          [
+            "Roof · 6–8",
+            "Opstapelen wat niet van hem is, onderpanden; beroofde volken roven terug."
+          ],
+          [
+            "Oneerlijke winst · 9–11",
+            "Hoog nest voor eigen huis, schande, steen en balk getuigen."
+          ],
+          [
+            "Bloedstad · 12–14",
+            "Bouwen met onrecht, vergeefse arbeid; aarde vol kennis."
+          ],
+          [
+            "Beschaamde naaste · 15–17",
+            "Dronken maken om te ontbloten; schande en beker keren terug."
+          ],
+          [
+            "Stomme afgoden · 18–20",
+            "Hout en steen met metaal, geen adem; daartegenover Hij in tempel en stilte."
+          ]
+        ],
+        "note": "De vijf concrete aanklachten blijven onderscheiden; vernedering wordt niet letterlijk afgebeeld."
+      }
+    },
+    {
+      "book": "habakuk",
+      "chapter": 3,
+      "verse": 17,
+      "file": "3-zes-gemissen.svg",
+      "scene": "Zes gemissen, toch vreugde",
+      "alt": "Zes gemissen, toch vreugde met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 926,
+      "source": "Habakuk 3:17–19",
+      "design": {
+        "rows": [
+          [
+            "Vijg en wijnstok",
+            "Geen bloei, geen vrucht."
+          ],
+          [
+            "Olijf en veld",
+            "Geen opbrengst, geen voedsel."
+          ],
+          [
+            "Kooi en stal",
+            "Geen schaap, geen rund."
+          ],
+          [
+            "Het toch",
+            "Juichen in Hem, blij in reddende God; kracht en hindevoeten."
+          ]
+        ],
+        "note": "Dit is de voorwaardelijke belijdenis van het gebed; geen zes extra historische rampen."
+      }
+    }
+  ]
+}
