@@ -1,0 +1,119 @@
+{
+  "started": "2026-10-25T10:50:16Z",
+  "batches": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "new_visuals": 194,
+  "new_asset_files": 198,
+  "replaced_baseline_images": 4,
+  "new_rasters": 119,
+  "new_schemas": 79,
+  "new_reviewed_chapters": 35,
+  "total_reviewed_chapters": 1008,
+  "total_images": 7639,
+  "metadata_corrections": 105,
+  "verified": "local sources, visual anatomy and content review, SVG legibility and font bounds, SVG enlarge links, dimensions and decode, chapter plan targets, preservation of baseline work",
+  "finished": "2026-10-25T11:50:06.858787+00:00",
+  "completed_books": [
+    "lukas"
+  ],
+  "reviewed_ranges": [
+    {
+      "book": "lukas",
+      "first": 1,
+      "last": 24
+    },
+    {
+      "book": "johannes",
+      "first": 1,
+      "last": 11
+    }
+  ],
+  "next_chapter": {
+    "book": "johannes",
+    "chapter": 12
+  },
+  "remaining_unreviewed_chapters": 596,
+  "open_targets": 0,
+  "generator": "built-in image_gen, one call per raster; native SVG for schemas",
+  "quality_corrections": [
+    {
+      "book": "lukas",
+      "chapter": 1,
+      "verse": 11,
+      "issue": "Zacharias had hogepriesterkleding",
+      "resolution": "Eenvoudige linnen priesterkleding, kroon en borstplaat verwijderd; visueel bekeken."
+    },
+    {
+      "book": "lukas",
+      "chapter": 9,
+      "verse": 16,
+      "issue": "Bestaand beeld had zes broden",
+      "resolution": "Precies vijf broden en twee vissen; opnieuw geteld."
+    },
+    {
+      "book": "lukas",
+      "chapter": 10,
+      "verse": 1,
+      "issue": "Bestaande zendelingen hadden reistassen",
+      "resolution": "Alle tassen verwijderd, ook bij figuren in de verte; opnieuw bekeken."
+    },
+    {
+      "book": "lukas",
+      "chapter": 14,
+      "verse": 4,
+      "issue": "Rollen van leraar en genezen man verkeerd afgebeeld",
+      "resolution": "Zittende Jezus en vertrekkende oudere man gecorrigeerd; opnieuw bekeken."
+    },
+    {
+      "book": "lukas",
+      "chapter": 23,
+      "verse": 53,
+      "issue": "Begrafenishelper leek op Jezus",
+      "resolution": "Oudere Jozefachtige helper in bruin; Jezus uitsluitend in linnen gewikkeld lichaam."
+    },
+    {
+      "book": "johannes",
+      "chapter": 4,
+      "verse": 49,
+      "issue": "Ambtenaar werd militair afgebeeld",
+      "resolution": "Burgerkleding, geen harnas; opnieuw bekeken."
+    },
+    {
+      "book": "johannes",
+      "chapter": 4,
+      "verse": 51,
+      "issue": "Ambtenaar droeg koninklijke kroon",
+      "resolution": "Kroon verwijderd, burgerkleding; opnieuw bekeken."
+    },
+    {
+      "book": "lukas",
+      "chapter": 12,
+      "issue": "Brede SVG-titel",
+      "resolution": "Ingekort en opnieuw gerenderd."
+    },
+    {
+      "book": "lukas",
+      "chapter": 21,
+      "issue": "Brede SVG-titel",
+      "resolution": "Ingekort en opnieuw gerenderd."
+    }
+  ],
+  "generator_attempts": [],
+  "errors": [],
+  "site_build": "passed",
+  "coverage_check": "passed",
+  "baseline_commit": "bfadd4115be1cbffde3f339572dd10afb5e048ab",
+  "asset_commit": "8e1afd3cba3fd1995fc3dfa969c50284a2bcd5cc",
+  "push_target": "Simson987/website-open-parafrase-vertaling:codex/three-images-per-chapter",
+  "pull_request": "https://github.com/William-Carey-Missions/website-open-parafrase-vertaling/pull/3",
+  "automation": "Active: content review is not complete; continue at the next unreviewed chapter."
+}
