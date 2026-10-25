@@ -1,0 +1,711 @@
+{
+  "date": "2026-10-24",
+  "started": "2026-10-24T23:31:06Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "1kronieken",
+      "chapter": 11,
+      "verse": 18,
+      "scene": "Water halen bij Bethlehem",
+      "alt": "Water halen bij Bethlehem — 1 Kronieken 11:18",
+      "kind": "scene",
+      "file": "11-18-inhoudelijk.webp",
+      "prompt": "Photorealistic educational Bible historical scene, landscape 3:2, ancient Israel during King David. Modest woven robes covering all bodies, natural hands, exactly two arms per person, anatomically correct adults. No modern objects, Roman armor, readable writing, watermark, visible deity, blood, injuries or nudity. Three adult Israelite warriors at the ancient well at Bethlehem carefully draw water with a leather bucket, preparing to carry it away in a water vessel. Distant occupied town, tense but peaceful moment; not David pouring out water.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 12,
+      "verse": 2,
+      "scene": "Boogschutters sluiten zich aan",
+      "alt": "Boogschutters sluiten zich aan — 1 Kronieken 12:2",
+      "kind": "scene",
+      "file": "12-2-inhoudelijk.webp",
+      "prompt": "Photorealistic educational Bible historical scene, landscape 3:2, ancient Israel during King David. Modest woven robes covering all bodies, natural hands, exactly two arms per person, anatomically correct adults. No modern objects, Roman armor, readable writing, watermark, visible deity, blood, injuries or nudity. Adult Benjaminite archers arrive at David’s wilderness refuge at Ziklag, holding simple ancient wooden bows lowered safely and carrying slings at their belts. Friendly greeting with David in simple robes, no fighting.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 12,
+      "verse": 15,
+      "scene": "Oversteek bij hoogwater",
+      "alt": "Oversteek bij hoogwater — 1 Kronieken 12:15",
+      "kind": "scene",
+      "file": "12-15-inhoudelijk.webp",
+      "prompt": "Photorealistic educational Bible historical scene, landscape 3:2, ancient Israel during King David. Modest woven robes covering all bodies, natural hands, exactly two arms per person, anatomically correct adults. No modern objects, Roman armor, readable writing, watermark, visible deity, blood, injuries or nudity. Adult Gadite warriors cross the Jordan during its seasonal flood, safely wading in a shallow ford near the bank with water below their waists. Strong current farther away, natural wet clothing, no drowning or miraculous parted walls of water.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 15,
+      "verse": 22,
+      "scene": "Chenanja onderwijst de zangers",
+      "alt": "Chenanja onderwijst de zangers — 1 Kronieken 15:22",
+      "kind": "scene",
+      "file": "15-22-inhoudelijk.webp",
+      "prompt": "Photorealistic educational Bible historical scene, landscape 3:2, ancient Israel during King David. Modest woven robes covering all bodies, natural hands, exactly two arms per person, anatomically correct adults. No modern objects, Roman armor, readable writing, watermark, visible deity, blood, injuries or nudity. Chenaniah, an adult chief of the Levites, calmly trains adult singers in an ancient Jerusalem courtyard, using one hand to indicate rhythm. Musicians listen and sing; simple lyres nearby, no modern sheet music or conductor baton.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 16,
+      "verse": 32,
+      "scene": "Zee, veld en bomen loven",
+      "alt": "Zee, veld en bomen loven — 1 Kronieken 16:32",
+      "kind": "poetic",
+      "file": "16-32-inhoudelijk.webp",
+      "prompt": "Photorealistic educational Bible historical scene, landscape 3:2, ancient Israel during King David. Modest woven robes covering all bodies, natural hands, exactly two arms per person, anatomically correct adults. No modern objects, Roman armor, readable writing, watermark, visible deity, blood, injuries or nudity. Poetic illustration of Psalm-like imagery in David’s praise song: sunlit sea in the distance, grassy fields in the middle and a beautiful grove of trees in the foreground with branches moving in the breeze. Nature only, no humans, faces in trees or literal speaking mouths. A poetic landscape, not a historical miracle.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 18,
+      "verse": 11,
+      "scene": "David wijdt de kostbaarheden",
+      "alt": "David wijdt de kostbaarheden — 1 Kronieken 18:11",
+      "kind": "scene",
+      "file": "18-11-inhoudelijk.webp",
+      "prompt": "Photorealistic educational Bible historical scene, landscape 3:2, ancient Israel during King David. Modest woven robes covering all bodies, natural hands, exactly two arms per person, anatomically correct adults. No modern objects, Roman armor, readable writing, watermark, visible deity, blood, injuries or nudity. Adult King David in modest robes dedicates gifts of silver, gold and bronze vessels, arranging them reverently on a wooden table with attendants in an ancient courtyard. No ark or visible deity, no golden idol, no modern currency.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 19,
+      "verse": 3,
+      "scene": "Hanuns raadgevers zaaien wantrouwen",
+      "alt": "Hanuns raadgevers zaaien wantrouwen — 1 Kronieken 19:3",
+      "kind": "scene",
+      "file": "19-3-inhoudelijk.webp",
+      "prompt": "Photorealistic educational Bible historical scene, landscape 3:2, ancient Israel during King David. Modest woven robes covering all bodies, natural hands, exactly two arms per person, anatomically correct adults. No modern objects, Roman armor, readable writing, watermark, visible deity, blood, injuries or nudity. Adult Ammonite King Hanun in an ancient palace listens to suspicious advisers speaking quietly and gesturing toward distant fully clothed visiting envoys waiting outside an open doorway. Before any humiliation, every man has full beard and modest intact garments.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 11,
+      "verse": 10,
+      "file": "11-helden-en-rangen.svg",
+      "scene": "Helden en hun rangen",
+      "alt": "Helden, taak en onderscheiden ranggroepen zonder alles tot één drietal te maken.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1184,
+      "source": "1 Kronieken 11:10–25",
+      "design": {
+        "rows": [
+          [
+            "Jasobam en Eleazar",
+            "Jasobam, zoon van Hachmoni; Eleazar, zoon van Dodo uit Ahoah."
+          ],
+          [
+            "Drie bij Bethlehem",
+            "Drie van de dertig halen water; David giet het voor de HEERE uit vanwege hun levensgevaar."
+          ],
+          [
+            "Abisai",
+            "Joabs broer; geëerd onder de tweede drie, maar niet bij de eerste drie gerekend."
+          ],
+          [
+            "Benaja",
+            "Zoon van Jojada uit Kabzeël; geëerd boven de dertig, niet bij de eerste drie; hoofd van de lijfwacht."
+          ]
+        ],
+        "note": "De tekst onderscheidt groepen en waardering; dit is geen genealogie."
+      }
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 12,
+      "verse": 1,
+      "file": "12-toestroom-naar-david.svg",
+      "scene": "Van Ziklag naar Hebron",
+      "alt": "Vier fasen van de toestroom met beeldspraak duidelijk onderscheiden.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1177,
+      "source": "1 Kronieken 12:1–23, 38–40",
+      "design": {
+        "rows": [
+          [
+            "Ziklag",
+            "Benjaminieten met boog en slinger; David houdt zich nog voor Saul verborgen."
+          ],
+          [
+            "De vesting",
+            "Gadieten en later Benjaminieten en Judeeërs; Amasai spreekt trouw uit."
+          ],
+          [
+            "Manasse",
+            "Mannen sluiten zich aan bij Davids terugkeer; de groep groeit dagelijks."
+          ],
+          [
+            "Hebron",
+            "Stammen komen eensgezind om David koning te maken; drie dagen eten en drinken."
+          ]
+        ],
+        "note": "Dit zijn fasen en ontmoetingen; de gazellen en leeuwen in vers 8 zijn vergelijkingen voor snelheid en moed."
+      }
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 12,
+      "verse": 24,
+      "file": "12-stammen-en-aantallen.svg",
+      "scene": "Stammen en telgroepen",
+      "alt": "De precieze genoemde aantallen met hoofden apart benoemd.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1432,
+      "source": "1 Kronieken 12:24–37",
+      "design": {
+        "rows": [
+          [
+            "Juda en Simeon",
+            "6.800 en 7.100 strijders."
+          ],
+          [
+            "Levi en Aäron",
+            "4.600 Levieten; Jehojada met 3.700; Zadok met 22 familiehoofden."
+          ],
+          [
+            "Benjamin en Efraïm",
+            "3.000 en 20.800; westelijk half Manasse 18.000."
+          ],
+          [
+            "Issaschar en Zebulon",
+            "200 hoofden met hun broeders; 50.000 uit Zebulon."
+          ],
+          [
+            "Nafthali, Dan en Aser",
+            "1.000 hoofden met 37.000 strijders; Dan 28.600; Aser 40.000."
+          ],
+          [
+            "Ten oosten van de Jordaan",
+            "Ruben, Gad en half Manasse samen 120.000."
+          ]
+        ],
+        "note": "Hoofden en strijders zijn verschillende telgroepen; daarom wordt geen misleidend opgeteld totaal gegeven."
+      }
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 13,
+      "verse": 5,
+      "file": "13-ark-route-en-onderbreking.svg",
+      "scene": "De onderbroken arktocht",
+      "alt": "Plaatsen, keerpunt en tijdsduur van de onderbroken tocht.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1134,
+      "source": "1 Kronieken 13:5–14",
+      "design": {
+        "rows": [
+          [
+            "Van Baäla naar de stad",
+            "Baäla is Kirjath-Jearim in Juda. Een nieuwe wagen vervoert de ark; Uza en Ahio begeleiden hem."
+          ],
+          [
+            "Bij Chidons dorsvloer",
+            "De runderen struikelen; Uza grijpt de ark en sterft."
+          ],
+          [
+            "Davids reactie",
+            "Verdriet en vrees; de tocht naar Davids stad wordt onderbroken."
+          ],
+          [
+            "Bij Obed-Edom",
+            "De ark blijft drie maanden; zijn huis ontvangt zegen."
+          ]
+        ],
+        "note": "De nieuwe wagen is de beschreven werkwijze, geen goedkeuring. De latere draagwijze staat in hoofdstuk 15."
+      }
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 14,
+      "verse": 4,
+      "file": "14-kinderen-in-jeruzalem.svg",
+      "scene": "Dertien zonen in Jeruzalem",
+      "alt": "Alle dertien zonen met de bronspelling.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 813,
+      "source": "1 Kronieken 14:4–7",
+      "design": {
+        "rows": [
+          [
+            "Eerste vier",
+            "Sammua, Sobab, Nathan en Salomo."
+          ],
+          [
+            "Volgende vier",
+            "Jibchar, Elisua, Elpelet en Nogah."
+          ],
+          [
+            "Laatste vijf",
+            "Nefeg, Jafia, Elisama, Beëljada en Elifelet."
+          ]
+        ],
+        "note": "De schrijfwijzen van dit hoofdstuk blijven behouden; Elpelet en Elifelet zijn twee afzonderlijk genoemde namen."
+      }
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 14,
+      "verse": 9,
+      "file": "14-twee-filistijnse-aanvallen.svg",
+      "scene": "Twee aanvallen, twee bevelen",
+      "alt": "De verschillende aanwijzingen bij de twee veldtochten.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1177,
+      "source": "1 Kronieken 14:9–16",
+      "design": {
+        "rows": [
+          [
+            "Eerste aanval in Refaïm",
+            "David vraagt raad en valt aan; overwinning bij Baäl-Perazim."
+          ],
+          [
+            "De vergelijking",
+            "David vergelijkt Gods doorbraak met doorbrekend water; de tekst beschrijft hier geen vloedgolf."
+          ],
+          [
+            "Tweede aanval",
+            "David vraagt opnieuw raad; nu moet hij omtrekken tot tegenover de balsembomen."
+          ],
+          [
+            "Het sein",
+            "Het geluid van stappen in de boomtoppen; David handelt en achtervolgt van Gibeon tot Gezer."
+          ]
+        ],
+        "note": "Schematisch verloop, geen geografische kaart op schaal. De twee raadplegingen blijven afzonderlijk."
+      }
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 15,
+      "verse": 5,
+      "file": "15-levieten-familiehoofden.svg",
+      "scene": "Zes Levietengroepen",
+      "alt": "Familiehoofden, aantallen en voorbereiding van de dragers.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1005,
+      "source": "1 Kronieken 15:5–14",
+      "design": {
+        "rows": [
+          [
+            "Kahath en Merari",
+            "Uriël met 120; Asaja met 220."
+          ],
+          [
+            "Gersom en Elizafan",
+            "Joël met 130; Semaja met 200."
+          ],
+          [
+            "Hebron en Uzziël",
+            "Eliël met 80; Amminadab met 112."
+          ],
+          [
+            "Voorbereiding",
+            "Zadok en Abjathar en de Levieten worden opgeroepen zich te heiligen; daarna dragen de Levieten de ark."
+          ]
+        ],
+        "note": "De aantallen horen bij de genoemde groepen; de namen zijn familiehoofden, niet zes zonen van één vader."
+      }
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 15,
+      "verse": 16,
+      "file": "15-muziek-en-poortwachters.svg",
+      "scene": "Muziek en bewaking",
+      "alt": "Taakverdeling rond de arktocht zonder de rollen te vermengen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1197,
+      "source": "1 Kronieken 15:16–24",
+      "design": {
+        "rows": [
+          [
+            "Cimbalen",
+            "Heman, Asaf en Ethan."
+          ],
+          [
+            "Luiten en harpen",
+            "Verschillende genoemde groepen spelen in hoge en lage stemming."
+          ],
+          [
+            "Chenanja",
+            "Onderwijst de zang omdat hij daarin kundig is."
+          ],
+          [
+            "Zeven trompetten",
+            "Priesters blazen voor de ark."
+          ],
+          [
+            "Poortwachters",
+            "Berechja en Elkana; ook Obed-Edom en Jehia worden genoemd."
+          ]
+        ],
+        "note": "Zangers, spelers, priesters en poortwachters hebben onderscheiden taken; de ark wordt met draagstokken gedragen."
+      }
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 16,
+      "verse": 8,
+      "file": "16-lofzang-onderdelen.svg",
+      "scene": "De beweging van de lofzang",
+      "alt": "Liedstructuur met historische herinnering, oproep en poëzie apart.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1326,
+      "source": "1 Kronieken 16:8–36",
+      "design": {
+        "rows": [
+          [
+            "Dank en herinnering",
+            "Roep Zijn naam aan, vertel Zijn wonderen en zoek Zijn aangezicht."
+          ],
+          [
+            "Verbond",
+            "Abraham, Izak en Jakob; beloofd land en bescherming."
+          ],
+          [
+            "Alle volken",
+            "Verkondig Gods heerlijkheid; de Schepper wordt onderscheiden van afgoden."
+          ],
+          [
+            "Schepping en oordeel",
+            "Hemel, aarde, zee, veld en bomen worden poëtisch tot vreugde opgeroepen."
+          ],
+          [
+            "Gebed en antwoord",
+            "Red ons en verzamel ons; het volk antwoordt amen en prijst de HEERE."
+          ]
+        ],
+        "note": "De zingende bomen en jubelende velden zijn beeldspraak in een lied, geen afzonderlijk beschreven gebeurtenissen."
+      }
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 16,
+      "verse": 37,
+      "file": "16-dienst-op-twee-plaatsen.svg",
+      "scene": "Dienst op twee plaatsen",
+      "alt": "De twee locaties en de afloop van de plechtigheid.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1141,
+      "source": "1 Kronieken 16:37–43",
+      "design": {
+        "rows": [
+          [
+            "Voor de ark",
+            "Asaf en zijn broeders dienen dagelijks; Obed-Edom en de poortwachters hebben hun taken."
+          ],
+          [
+            "Bij Gibeon",
+            "Zadok en de priesters bij de ontmoetingstent; offers elke morgen en avond."
+          ],
+          [
+            "Muzikale dienst",
+            "Heman en Jeduthun en anderen danken; zonen van Jeduthun bewaken de poort."
+          ],
+          [
+            "Naar huis",
+            "Het volk vertrekt; David gaat zijn gezin zegenen."
+          ]
+        ],
+        "note": "De ark in Davids tent en de ontmoetingstent in Gibeon worden niet tot één locatie samengevoegd."
+      }
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 17,
+      "verse": 1,
+      "file": "17-huis-twee-betekenissen.svg",
+      "scene": "Twee betekenissen van huis",
+      "alt": "Het woord huis als gebouw en als familie met de juiste ontvanger van de belofte.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1134,
+      "source": "1 Kronieken 17:1–15",
+      "design": {
+        "rows": [
+          [
+            "Davids voornemen",
+            "Hij woont in een cederhouten huis, terwijl de ark onder tentdoek staat."
+          ],
+          [
+            "Nathans eerste antwoord",
+            "Hij stemt aanvankelijk in; die nacht ontvangt hij een ander woord."
+          ],
+          [
+            "Een huis voor David",
+            "God belooft een blijvend koningshuis: Davids dynastie."
+          ],
+          [
+            "Een huis voor Gods naam",
+            "Een zoon na David zal het gebouw oprichten; de belofte noemt zijn troon en Gods trouw."
+          ]
+        ],
+        "note": "Een paleis, een heiligdom en een dynastie zijn verschillende betekenissen; David krijgt niet de bouwopdracht."
+      }
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 17,
+      "verse": 16,
+      "file": "17-davids-gebed.svg",
+      "scene": "Davids antwoord in gebed",
+      "alt": "De opbouw van Davids antwoord in gebed.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1091,
+      "source": "1 Kronieken 17:16–27",
+      "design": {
+        "rows": [
+          [
+            "Verwondering",
+            "Wie ben ik, en wat is mijn huis, dat U mij zo ver gebracht hebt?"
+          ],
+          [
+            "Erkenning",
+            "God kent Zijn dienaar; Zijn grote daden en de uittocht maken Hem bekend."
+          ],
+          [
+            "De belofte",
+            "Laat Uw woord over Uw dienaar en zijn huis bevestigd worden."
+          ],
+          [
+            "Naam en zegen",
+            "Laat Uw naam groot zijn en het huis van Uw dienaar blijvend gezegend."
+          ]
+        ],
+        "note": "David antwoordt op de belofte met verwondering, dank, erkenning en een beroep op Gods eigen woord."
+      }
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 18,
+      "verse": 1,
+      "file": "18-overwinningen-en-metaal.svg",
+      "scene": "Gebieden en kostbaarheden",
+      "alt": "Gebieden, geschenken en de latere bestemming van het koper.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1290,
+      "source": "1 Kronieken 18:1–13",
+      "design": {
+        "rows": [
+          [
+            "Filistijnen en Moab",
+            "Gath wordt ingenomen; Moab brengt schatting."
+          ],
+          [
+            "Zoba en Damascus",
+            "Hadar-Ezer wordt verslagen; de Syriërs van Damascus worden onderworpen."
+          ],
+          [
+            "Hamath",
+            "Thou stuurt zijn zoon Hadoram met geschenken na Davids overwinning."
+          ],
+          [
+            "Koper uit twee steden",
+            "Uit Tibchath en Chun; Salomo maakt er later het koperen zeevat, de pilaren en gerei van."
+          ],
+          [
+            "Edom",
+            "Abisai verslaat Edom in het Zoutdal; David vestigt bezettingen."
+          ]
+        ],
+        "note": "De latere verwerking door Salomo wordt niet als al in Davids tijd voltooid afgebeeld."
+      }
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 18,
+      "verse": 14,
+      "file": "18-bestuur-en-ambten.svg",
+      "scene": "Bestuur onder David",
+      "alt": "De ambten met de exacte namen en vaders in de bron.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1197,
+      "source": "1 Kronieken 18:14–17",
+      "design": {
+        "rows": [
+          [
+            "David",
+            "Recht en gerechtigheid voor zijn volk."
+          ],
+          [
+            "Joab en Josafat",
+            "Joab over het leger; Josafat, zoon van Ahilud, kanselier."
+          ],
+          [
+            "De priesters",
+            "Zadok, zoon van Ahitub, en Abimelech, zoon van Abjathar."
+          ],
+          [
+            "Sausa en Benaja",
+            "Sausa is schrijver; Benaja, zoon van Jojada, over de Krethi en de Plethi."
+          ],
+          [
+            "Davids zonen",
+            "De eersten naast de koning."
+          ]
+        ],
+        "note": "De priesternaam is hier Abimelech volgens dit hoofdstuk; afstamming en ambt worden apart vermeld."
+      }
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 19,
+      "verse": 9,
+      "file": "19-joab-en-abisai.svg",
+      "scene": "Twee fronten bij Ammon",
+      "alt": "De twee vijanden, beide bevelhebbers en hun afspraak.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1240,
+      "source": "1 Kronieken 19:9–15",
+      "design": {
+        "rows": [
+          [
+            "Ammonieten",
+            "Stellen zich bij de stadspoort op."
+          ],
+          [
+            "Syrische huurlingen",
+            "Staan afzonderlijk in het veld."
+          ],
+          [
+            "Joab",
+            "Kiest mannen en stelt zich tegen de Syriërs op."
+          ],
+          [
+            "Abisai",
+            "Leidt de overige troepen tegen de Ammonieten."
+          ],
+          [
+            "Wederzijdse hulp",
+            "Als één front te sterk wordt, helpt de andere groep. De Syriërs vluchten; Ammon trekt de stad in."
+          ]
+        ],
+        "note": "Tactisch tekstschema, geen kaart op schaal; de legers worden niet aan verzonnen windrichtingen gekoppeld."
+      }
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 19,
+      "verse": 16,
+      "file": "19-tweede-syrische-strijd.svg",
+      "scene": "De tweede Syrische strijd",
+      "alt": "De tweede fase en haar andere bevelhebbers.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "1 Kronieken 19:16–19",
+      "design": {
+        "rows": [
+          [
+            "Versterking",
+            "Syriërs van over de Frath komen onder Sofach, legeroverste van Hadar-Ezer."
+          ],
+          [
+            "David",
+            "Verzamelt Israël, steekt de Jordaan over en stelt zich tegenover hen op."
+          ],
+          [
+            "De afloop",
+            "De Syriërs vluchten; Sofach wordt gedood."
+          ],
+          [
+            "Vrede",
+            "De onderworpen koningen sluiten vrede en helpen de Ammonieten niet meer."
+          ]
+        ],
+        "note": "Dit is een latere strijd na Joabs eerste treffen; Sofach is geen Ammonitische koning."
+      }
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 20,
+      "verse": 1,
+      "file": "20-rabbah-en-arbeid.svg",
+      "scene": "Rabba: belegering en nasleep",
+      "alt": "Afzonderlijke momenten rond Rabba met de beschreven dwang zichtbaar in woorden.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "1 Kronieken 20:1–3",
+      "design": {
+        "rows": [
+          [
+            "Het voorjaar",
+            "Joab belegerde Rabba; David bleef in Jeruzalem."
+          ],
+          [
+            "Na de inname",
+            "David neemt de kostbare kroon en de buit mee."
+          ],
+          [
+            "De inwoners",
+            "Zij worden weggevoerd voor arbeid met zagen, ijzeren sleden en bijlen."
+          ],
+          [
+            "Terugkeer",
+            "David en zijn volk keren terug naar Jeruzalem."
+          ]
+        ],
+        "note": "De dwangarbeid wordt benoemd; de inname wordt niet als een vrijwillig bouwproject voorgesteld."
+      }
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 20,
+      "verse": 4,
+      "file": "20-drie-tegenstanders.svg",
+      "scene": "Drie reuzen, drie strijders",
+      "alt": "De juiste koppelingen tussen strijders en tegenstanders, met het exacte aantal vingers en tenen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1134,
+      "source": "1 Kronieken 20:4–8",
+      "design": {
+        "rows": [
+          [
+            "Sibchai uit Husa",
+            "Verslaat Sippai, een afstammeling van Rafa, bij Gezer."
+          ],
+          [
+            "Elhanan, zoon van Jaïr",
+            "Verslaat Lachmi, de broer van Goliath uit Gath."
+          ],
+          [
+            "Jonathan, zoon van Simea",
+            "Davids neef verslaat de naamloze man uit Gath met zes vingers aan elke hand en zes tenen aan elke voet."
+          ],
+          [
+            "Het totaal bij de laatste",
+            "Twaalf vingers en twaalf tenen: vierentwintig samen."
+          ]
+        ],
+        "note": "Lachmi is de broer van Goliath; de naamloze man krijgt geen verzonnen eigennaam of extra ledematen."
+      }
+    }
+  ]
+}

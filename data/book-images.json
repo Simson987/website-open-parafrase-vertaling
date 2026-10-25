@@ -29945,13 +29945,17 @@
         "chapter": 13,
         "file": "13-ark.webp",
         "alt": "Mensen begeleiden de ark op een wagen",
-        "scene": "De ark onderweg"
+        "scene": "De ark onderweg",
+        "verse": 7,
+        "kind": "scene"
       },
       {
         "chapter": 16,
         "file": "16-music.webp",
         "alt": "Zangers en muzikanten vieren bij de ark",
-        "scene": "Danklied bij de ark"
+        "scene": "Danklied bij de ark",
+        "verse": 7,
+        "kind": "scene"
       },
       {
         "chapter": 29,
@@ -30956,6 +30960,256 @@
         "kind": "diagram",
         "width": 840,
         "height": 1048
+      },
+      {
+        "chapter": 11,
+        "verse": 18,
+        "scene": "Water halen bij Bethlehem",
+        "alt": "Water halen bij Bethlehem — 1 Kronieken 11:18",
+        "kind": "scene",
+        "file": "11-18-inhoudelijk.webp",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 12,
+        "verse": 2,
+        "scene": "Boogschutters sluiten zich aan",
+        "alt": "Boogschutters sluiten zich aan — 1 Kronieken 12:2",
+        "kind": "scene",
+        "file": "12-2-inhoudelijk.webp",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 12,
+        "verse": 15,
+        "scene": "Oversteek bij hoogwater",
+        "alt": "Oversteek bij hoogwater — 1 Kronieken 12:15",
+        "kind": "scene",
+        "file": "12-15-inhoudelijk.webp",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 15,
+        "verse": 22,
+        "scene": "Chenanja onderwijst de zangers",
+        "alt": "Chenanja onderwijst de zangers — 1 Kronieken 15:22",
+        "kind": "scene",
+        "file": "15-22-inhoudelijk.webp",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 16,
+        "verse": 32,
+        "scene": "Zee, veld en bomen loven",
+        "alt": "Zee, veld en bomen loven — 1 Kronieken 16:32",
+        "kind": "poetic",
+        "file": "16-32-inhoudelijk.webp",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 18,
+        "verse": 11,
+        "scene": "David wijdt de kostbaarheden",
+        "alt": "David wijdt de kostbaarheden — 1 Kronieken 18:11",
+        "kind": "scene",
+        "file": "18-11-inhoudelijk.webp",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 19,
+        "verse": 3,
+        "scene": "Hanuns raadgevers zaaien wantrouwen",
+        "alt": "Hanuns raadgevers zaaien wantrouwen — 1 Kronieken 19:3",
+        "kind": "scene",
+        "file": "19-3-inhoudelijk.webp",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 11,
+        "verse": 10,
+        "file": "11-helden-en-rangen.svg",
+        "scene": "Helden en hun rangen",
+        "alt": "Helden, taak en onderscheiden ranggroepen zonder alles tot één drietal te maken.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1184
+      },
+      {
+        "chapter": 12,
+        "verse": 1,
+        "file": "12-toestroom-naar-david.svg",
+        "scene": "Van Ziklag naar Hebron",
+        "alt": "Vier fasen van de toestroom met beeldspraak duidelijk onderscheiden.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1177
+      },
+      {
+        "chapter": 12,
+        "verse": 24,
+        "file": "12-stammen-en-aantallen.svg",
+        "scene": "Stammen en telgroepen",
+        "alt": "De precieze genoemde aantallen met hoofden apart benoemd.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1432
+      },
+      {
+        "chapter": 13,
+        "verse": 5,
+        "file": "13-ark-route-en-onderbreking.svg",
+        "scene": "De onderbroken arktocht",
+        "alt": "Plaatsen, keerpunt en tijdsduur van de onderbroken tocht.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1134
+      },
+      {
+        "chapter": 14,
+        "verse": 4,
+        "file": "14-kinderen-in-jeruzalem.svg",
+        "scene": "Dertien zonen in Jeruzalem",
+        "alt": "Alle dertien zonen met de bronspelling.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 813
+      },
+      {
+        "chapter": 14,
+        "verse": 9,
+        "file": "14-twee-filistijnse-aanvallen.svg",
+        "scene": "Twee aanvallen, twee bevelen",
+        "alt": "De verschillende aanwijzingen bij de twee veldtochten.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1177
+      },
+      {
+        "chapter": 15,
+        "verse": 5,
+        "file": "15-levieten-familiehoofden.svg",
+        "scene": "Zes Levietengroepen",
+        "alt": "Familiehoofden, aantallen en voorbereiding van de dragers.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1005
+      },
+      {
+        "chapter": 15,
+        "verse": 16,
+        "file": "15-muziek-en-poortwachters.svg",
+        "scene": "Muziek en bewaking",
+        "alt": "Taakverdeling rond de arktocht zonder de rollen te vermengen.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1197
+      },
+      {
+        "chapter": 16,
+        "verse": 8,
+        "file": "16-lofzang-onderdelen.svg",
+        "scene": "De beweging van de lofzang",
+        "alt": "Liedstructuur met historische herinnering, oproep en poëzie apart.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1326
+      },
+      {
+        "chapter": 16,
+        "verse": 37,
+        "file": "16-dienst-op-twee-plaatsen.svg",
+        "scene": "Dienst op twee plaatsen",
+        "alt": "De twee locaties en de afloop van de plechtigheid.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1141
+      },
+      {
+        "chapter": 17,
+        "verse": 1,
+        "file": "17-huis-twee-betekenissen.svg",
+        "scene": "Twee betekenissen van huis",
+        "alt": "Het woord huis als gebouw en als familie met de juiste ontvanger van de belofte.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1134
+      },
+      {
+        "chapter": 17,
+        "verse": 16,
+        "file": "17-davids-gebed.svg",
+        "scene": "Davids antwoord in gebed",
+        "alt": "De opbouw van Davids antwoord in gebed.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1091
+      },
+      {
+        "chapter": 18,
+        "verse": 1,
+        "file": "18-overwinningen-en-metaal.svg",
+        "scene": "Gebieden en kostbaarheden",
+        "alt": "Gebieden, geschenken en de latere bestemming van het koper.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1290
+      },
+      {
+        "chapter": 18,
+        "verse": 14,
+        "file": "18-bestuur-en-ambten.svg",
+        "scene": "Bestuur onder David",
+        "alt": "De ambten met de exacte namen en vaders in de bron.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1197
+      },
+      {
+        "chapter": 19,
+        "verse": 9,
+        "file": "19-joab-en-abisai.svg",
+        "scene": "Twee fronten bij Ammon",
+        "alt": "De twee vijanden, beide bevelhebbers en hun afspraak.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1240
+      },
+      {
+        "chapter": 19,
+        "verse": 16,
+        "file": "19-tweede-syrische-strijd.svg",
+        "scene": "De tweede Syrische strijd",
+        "alt": "De tweede fase en haar andere bevelhebbers.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1055
+      },
+      {
+        "chapter": 20,
+        "verse": 1,
+        "file": "20-rabbah-en-arbeid.svg",
+        "scene": "Rabba: belegering en nasleep",
+        "alt": "Afzonderlijke momenten rond Rabba met de beschreven dwang zichtbaar in woorden.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1055
+      },
+      {
+        "chapter": 20,
+        "verse": 4,
+        "file": "20-drie-tegenstanders.svg",
+        "scene": "Drie reuzen, drie strijders",
+        "alt": "De juiste koppelingen tussen strijders en tegenstanders, met het exacte aantal vingers en tenen.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1134
       }
     ],
     "2kronieken": [
