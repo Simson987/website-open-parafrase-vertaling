@@ -53955,12 +53955,6 @@
         "height": 1024
       },
       {
-        "chapter": 28,
-        "file": "28-morning.webp",
-        "alt": "Vrouwen naderen een open graf bij zonsopgang",
-        "scene": "De ochtend bij het graf"
-      },
-      {
         "chapter": 1,
         "verse": 1,
         "file": "1-1.webp",
@@ -54665,77 +54659,110 @@
         "verse": 4,
         "file": "25-4.webp",
         "alt": "Beeld bij Mattheus 25: Verstandige vrouwen met olie",
-        "scene": "Verstandige vrouwen met olie"
+        "scene": "Verstandige vrouwen met olie",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 25,
         "verse": 20,
         "file": "25-20.webp",
         "alt": "Beeld bij Mattheus 25: De talenten worden teruggebracht",
-        "scene": "De talenten worden teruggebracht"
+        "scene": "De talenten worden teruggebracht",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 25,
         "verse": 35,
         "file": "25-35.webp",
         "alt": "Beeld bij Mattheus 25: De hongerige wordt gevoed",
-        "scene": "De hongerige wordt gevoed"
+        "scene": "De hongerige wordt gevoed",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 26,
         "verse": 7,
         "file": "26-7.webp",
         "alt": "Beeld bij Mattheus 26: Jezus wordt gezalfd",
-        "scene": "Jezus wordt gezalfd"
+        "scene": "Jezus wordt gezalfd",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 26,
         "verse": 26,
         "file": "26-26.webp",
         "alt": "Beeld bij Mattheus 26: Jezus breekt het brood",
-        "scene": "Jezus breekt het brood"
+        "scene": "Jezus breekt het brood",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 26,
         "verse": 39,
         "file": "26-39.webp",
         "alt": "Beeld bij Mattheus 26: Gebed in Gethsemané",
-        "scene": "Gebed in Gethsemané"
+        "scene": "Gebed in Gethsemané",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 27,
         "verse": 24,
         "file": "27-24.webp",
         "alt": "Beeld bij Mattheus 27: Pilatus wast zijn handen",
-        "scene": "Pilatus wast zijn handen"
+        "scene": "Pilatus wast zijn handen",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 27,
         "verse": 51,
         "file": "27-51.webp",
         "alt": "Beeld bij Mattheus 27: Het voorhangsel scheurt",
-        "scene": "Het voorhangsel scheurt"
+        "scene": "Het voorhangsel scheurt",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 27,
         "verse": 60,
         "file": "27-60.webp",
         "alt": "Beeld bij Mattheus 27: Het nieuwe rotsgraf",
-        "scene": "Het nieuwe rotsgraf"
+        "scene": "Het nieuwe rotsgraf",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 28,
         "verse": 5,
         "file": "28-5.webp",
         "alt": "Beeld bij Mattheus 28: De engel spreekt tot de vrouwen",
-        "scene": "De engel spreekt tot de vrouwen"
+        "scene": "De engel spreekt tot de vrouwen",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 28,
         "verse": 19,
         "file": "28-19.webp",
         "alt": "Beeld bij Mattheus 28: De opdracht aan de leerlingen",
-        "scene": "De opdracht aan de leerlingen"
+        "scene": "De opdracht aan de leerlingen",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 1,
@@ -56166,6 +56193,326 @@
         "kind": "diagram",
         "width": 840,
         "height": 1098
+      },
+      {
+        "chapter": 25,
+        "verse": 10,
+        "file": "25-10-gesloten-feestdeur-verdieping.webp",
+        "scene": "Gelijkenis: de gesloten feestdeur",
+        "alt": "Gelijkenis: de gesloten feestdeur — Mattheüs 25:10; tekstillustratie.",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 25,
+        "verse": 18,
+        "file": "25-18-talent-in-grond-verdieping.webp",
+        "scene": "Gelijkenis: het talent in de grond",
+        "alt": "Gelijkenis: het talent in de grond — Mattheüs 25:18; tekstillustratie.",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 25,
+        "verse": 32,
+        "file": "25-32-schapen-bokken-verdieping.webp",
+        "scene": "Vergelijking: schapen en bokken",
+        "alt": "Vergelijking: schapen en bokken — Mattheüs 25:32; tekstillustratie.",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 25,
+        "verse": 36,
+        "file": "25-36-zieke-bezoeken-verdieping.webp",
+        "scene": "Lesbeeld: een zieke bezoeken",
+        "alt": "Lesbeeld: een zieke bezoeken — Mattheüs 25:36; tekstillustratie.",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 26,
+        "verse": 15,
+        "file": "26-15-judas-zilver-verdieping.webp",
+        "scene": "Judas en de zilverstukken",
+        "alt": "Judas en de zilverstukken — Mattheüs 26:15; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 26,
+        "verse": 19,
+        "file": "26-19-pascha-voorbereid-verdieping.webp",
+        "scene": "De leerlingen bereiden het pascha",
+        "alt": "De leerlingen bereiden het pascha — Mattheüs 26:19; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 26,
+        "verse": 27,
+        "file": "26-27-beker-gedeeld-verdieping.webp",
+        "scene": "Jezus geeft de beker",
+        "alt": "Jezus geeft de beker — Mattheüs 26:27; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 26,
+        "verse": 40,
+        "file": "26-40-slapende-drie-verdieping.webp",
+        "scene": "Jezus vindt de leerlingen slapend",
+        "alt": "Jezus vindt de leerlingen slapend — Mattheüs 26:40; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 26,
+        "verse": 49,
+        "file": "26-49-judaskus-verdieping.webp",
+        "scene": "Judas begroet Jezus met een kus",
+        "alt": "Judas begroet Jezus met een kus — Mattheüs 26:49; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 26,
+        "verse": 63,
+        "file": "26-63-kajafas-verhoor-verdieping.webp",
+        "scene": "Jezus staat voor Kajafas",
+        "alt": "Jezus staat voor Kajafas — Mattheüs 26:63; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 26,
+        "verse": 75,
+        "file": "26-75-petrus-huilt-verdieping.webp",
+        "scene": "Petrus huilt buiten",
+        "alt": "Petrus huilt buiten — Mattheüs 26:75; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 27,
+        "verse": 3,
+        "file": "27-3-geld-terug-verdieping.webp",
+        "scene": "Judas brengt het geld terug",
+        "alt": "Judas brengt het geld terug — Mattheüs 27:3; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 27,
+        "verse": 32,
+        "file": "27-32-simon-draagt-verdieping.webp",
+        "scene": "Simon uit Cyrene draagt het kruis",
+        "alt": "Simon uit Cyrene draagt het kruis — Mattheüs 27:32; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 27,
+        "verse": 35,
+        "file": "27-35-drie-kruisen-verdieping.webp",
+        "scene": "Jezus tussen twee misdadigers",
+        "alt": "Jezus tussen twee misdadigers — Mattheüs 27:35; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 27,
+        "verse": 55,
+        "file": "27-55-vrouwen-op-afstand-verdieping.webp",
+        "scene": "De vrouwen kijken van verre toe",
+        "alt": "De vrouwen kijken van verre toe — Mattheüs 27:55; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 27,
+        "verse": 58,
+        "file": "27-58-jozef-pilatus-verdieping.webp",
+        "scene": "Jozef vraagt Pilatus om het lichaam",
+        "alt": "Jozef vraagt Pilatus om het lichaam — Mattheüs 27:58; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 27,
+        "verse": 66,
+        "file": "27-66-graf-verzegeld-verdieping.webp",
+        "scene": "Het verzegelde en bewaakte graf",
+        "alt": "Het verzegelde en bewaakte graf — Mattheüs 27:66; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 28,
+        "verse": 8,
+        "file": "28-8-vrouwen-rennen-verdieping.webp",
+        "scene": "De vrouwen brengen het bericht",
+        "alt": "De vrouwen brengen het bericht — Mattheüs 28:8; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 28,
+        "verse": 9,
+        "file": "28-9-jezus-vrouwen-verdieping.webp",
+        "scene": "Jezus ontmoet de twee vrouwen",
+        "alt": "Jezus ontmoet de twee vrouwen — Mattheüs 28:9; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 28,
+        "verse": 12,
+        "file": "28-12-bewakers-geld-verdieping.webp",
+        "scene": "De bewakers ontvangen geld",
+        "alt": "De bewakers ontvangen geld — Mattheüs 28:12; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 28,
+        "verse": 1,
+        "file": "28-morning-twee-vrouwen.webp",
+        "scene": "De twee Maria’s bij het graf",
+        "alt": "Maria Magdalena en de andere Maria bij het graf — Mattheüs 28:1.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 25,
+        "verse": 1,
+        "file": "25-leeswijzer.svg",
+        "scene": "Gereed, trouw en barmhartig",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1035
+      },
+      {
+        "chapter": 26,
+        "verse": 1,
+        "file": "26-leeswijzer.svg",
+        "scene": "Maaltijd, gebed en verhoor",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1356
+      },
+      {
+        "chapter": 27,
+        "verse": 1,
+        "file": "27-leeswijzer.svg",
+        "scene": "Proces, kruis en graf",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1313
+      },
+      {
+        "chapter": 28,
+        "verse": 1,
+        "file": "28-leeswijzer.svg",
+        "scene": "Opstanding en opdracht",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1078
+      },
+      {
+        "chapter": 25,
+        "verse": 15,
+        "file": "25-talenten-verloop.svg",
+        "scene": "Ontvangen, handelen en afrekenen",
+        "alt": "Ontvangen, handelen en afrekenen met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1055
+      },
+      {
+        "chapter": 25,
+        "verse": 35,
+        "file": "25-zes-zorgen.svg",
+        "scene": "Zes concrete vormen van zorg",
+        "alt": "Zes concrete vormen van zorg met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 962
+      },
+      {
+        "chapter": 26,
+        "verse": 36,
+        "file": "26-drie-terugkeren.svg",
+        "scene": "Driemaal bidden en terugkeren",
+        "alt": "Driemaal bidden en terugkeren met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 899
+      },
+      {
+        "chapter": 26,
+        "verse": 69,
+        "file": "26-petrus-drie.svg",
+        "scene": "Petrus’ drie ontkenningen",
+        "alt": "Petrus’ drie ontkenningen met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1055
+      },
+      {
+        "chapter": 27,
+        "verse": 3,
+        "file": "27-zilver-en-akker.svg",
+        "scene": "De zilverstukken en de akker",
+        "alt": "De zilverstukken en de akker met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 949
+      },
+      {
+        "chapter": 27,
+        "verse": 55,
+        "file": "27-getuigen-en-graf.svg",
+        "scene": "Getuigen, zorg en bewaking",
+        "alt": "Getuigen, zorg en bewaking met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1177
+      },
+      {
+        "chapter": 28,
+        "verse": 7,
+        "file": "28-twee-berichten.svg",
+        "scene": "Twee berichten en de opdracht",
+        "alt": "Twee berichten en de opdracht met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 985
       }
     ],
     "lukas": [
