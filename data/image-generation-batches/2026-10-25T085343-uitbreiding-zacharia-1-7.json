@@ -1,0 +1,429 @@
+{
+  "date": "2026-10-25",
+  "started": "2026-10-25T08:53:43Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "zacharia",
+      "chapter": 2,
+      "verse": 5,
+      "file": "2-5-vurige-muur-verdieping.webp",
+      "scene": "Visioenwoord: een vurige muur",
+      "alt": "Visioenwoord: een vurige muur — Zacharia 2:5; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, ancient Levant, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, divine portrait, blood, injury or watermark. A wide ancient open town with many low houses at night, a protective ring of warm firelight around its outskirts without people or houses burning, no deity face, literal giant body, modern wall or writing. Explicit symbolic vision of protection.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "zacharia",
+      "chapter": 3,
+      "verse": 2,
+      "file": "3-2-brandhout-verdieping.webp",
+      "scene": "Vergelijking: uit het vuur gerukt",
+      "alt": "Vergelijking: uit het vuur gerukt — Zacharia 3:2; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, ancient Levant, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, divine portrait, blood, injury or watermark. A partly charred piece of wood pulled clear of a small dying fire on bare stone, no human, injuries or mystical face; ordinary material comparison.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "zacharia",
+      "chapter": 3,
+      "verse": 5,
+      "file": "3-5-schone-tulband-verdieping.webp",
+      "scene": "Visioen: de schone tulband",
+      "alt": "Visioen: de schone tulband — Zacharia 3:5; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, ancient Levant, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, divine portrait, blood, injury or watermark. A modest fully robed ancient high priest in clean festival clothes has a clean linen turban placed on his head by one fully robed attendant, both with exactly two arms, no nakedness, deity or devil portrait, crowns or readable inscriptions.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "zacharia",
+      "chapter": 4,
+      "verse": 7,
+      "file": "4-7-sluitsteen-verdieping.webp",
+      "scene": "Belofte: de sluitsteen naar voren",
+      "alt": "Belofte: de sluitsteen naar voren — Zacharia 4:7; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, ancient Levant, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, divine portrait, blood, injury or watermark. Ancient fully robed adult workers carefully bring a plain finishing stone forward at a simple stone temple construction site using wooden handles and rope, correct arms, no modern crane, exact invented temple plan or Roman columns.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "zacharia",
+      "chapter": 6,
+      "verse": 11,
+      "file": "6-11-kroon-josua-verdieping.webp",
+      "scene": "Josua ontvangt de kroon",
+      "alt": "Josua ontvangt de kroon — Zacharia 6:11; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, ancient Levant, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, divine portrait, blood, injury or watermark. A modest fully robed ancient adult high priest receives a simple silver and gold crown on his turban from one fully robed prophet, two arms per person, plain Persian-period stone courtyard, no deity, extra royal person, readable writing or modern jewels.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "zacharia",
+      "chapter": 7,
+      "verse": 11,
+      "file": "7-11-oren-dicht-verdieping.webp",
+      "scene": "Aanklacht: niet willen luisteren",
+      "alt": "Aanklacht: niet willen luisteren — Zacharia 7:11; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, ancient Levant, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, divine portrait, blood, injury or watermark. Two fully robed ancient adults turn their backs toward a distant speaking prophet, one presses his own two hands over his two ears, anatomically separate limbs, no child punishment, aggressive contact or magical stone heart.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "zacharia",
+      "chapter": 1,
+      "verse": 1,
+      "file": "1-leeswijzer.svg",
+      "scene": "Terugkeer en troostwoorden",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 992,
+      "source": "Zacharia 1:1–21",
+      "design": {
+        "rows": [
+          [
+            "Terugkeren · 1–6",
+            "Maand acht, Darius jaar twee; Zacharia, Berechja, Iddo; vaderen hoorden niet maar het woord bereikte hen."
+          ],
+          [
+            "Mirten en paarden · 7–17",
+            "Sebat dag 24, aarde rustig, zeventig jaar en engelenvraag; troost, Jeruzalemhuis en meetlint."
+          ],
+          [
+            "Hoorns en smeden · 18–21",
+            "Vier hoorns verstrooiden Juda/Israël/Jeruzalem; vier smeden werpen volkenhoorns neer."
+          ]
+        ],
+        "note": "Beeldspraak, klacht, herinnering en belofte volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "zacharia",
+      "chapter": 2,
+      "verse": 1,
+      "file": "2-leeswijzer.svg",
+      "scene": "Meten, bescherming en wonen",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 949,
+      "source": "Zacharia 2:1–13",
+      "design": {
+        "rows": [
+          [
+            "Opmeten · 1–5",
+            "Man met meetlint, twee engelen, jongeman; open stad door mensen/dieren, vurige muur en heerlijkheid."
+          ],
+          [
+            "Vlucht en bescherming · 6–9",
+            "Noorden en Babel verlaten; vier windstreken, oogappel en omkering van roof."
+          ],
+          [
+            "In het midden · 10–13",
+            "Sion juicht, veel volken Zijn volk, Juda gekozen deel; alle mensen stil."
+          ]
+        ],
+        "note": "Beeldspraak, klacht, herinnering en belofte volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "zacharia",
+      "chapter": 3,
+      "verse": 1,
+      "file": "3-leeswijzer.svg",
+      "scene": "Josua, kleding en de Spruit",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 992,
+      "source": "Zacharia 3:1–10",
+      "design": {
+        "rows": [
+          [
+            "Aanklacht en antwoord · 1–5",
+            "Hogepriester voor Engel, satan rechts; bestraft, brandhout, vuile kleren weg, schuld weg, feestkleed/tulband."
+          ],
+          [
+            "Dienst en teken · 6–9",
+            "Wegen en dienst bewaren, huis/toegang; vrienden als teken, Knecht Spruit, ene steen zeven ogen, schuld op één dag weg."
+          ],
+          [
+            "De belofte · 10",
+            "Elkaar onder wijnstok en vijgenboom uitnodigen."
+          ]
+        ],
+        "note": "Beeldspraak, klacht, herinnering en belofte volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "zacharia",
+      "chapter": 4,
+      "verse": 1,
+      "file": "4-leeswijzer.svg",
+      "scene": "Kandelaar en de twee olijfbomen",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 992,
+      "source": "Zacharia 4:1–14",
+      "design": {
+        "rows": [
+          [
+            "Wat gezien wordt · 1–5",
+            "Gewekt, gouden kandelaar, oliehouder, zeven lampen en pijpjes, twee olijfbomen; betekenis gevraagd."
+          ],
+          [
+            "Woord tot Zerubbabel · 6–10",
+            "Door Geest, berg vlak, sluitsteen met genade, grondvesten en afmaken; kleine dag, schietlood en zeven ogen."
+          ],
+          [
+            "Het vervolg van de vraag · 11–14",
+            "Twee bomen, takken en gouden pijpen/olie; twee gezalfden voor Heer van aarde."
+          ]
+        ],
+        "note": "Beeldspraak, klacht, herinnering en belofte volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "zacharia",
+      "chapter": 5,
+      "verse": 1,
+      "file": "5-leeswijzer.svg",
+      "scene": "Boekrol en korenmand",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 949,
+      "source": "Zacharia 5:1–11",
+      "design": {
+        "rows": [
+          [
+            "De rol · 1–4",
+            "Vliegende rol ongeveer 10 bij 5 m; vloek tegen dief en valse eed, hout/stenen van huis verteerd."
+          ],
+          [
+            "De mand · 5–8",
+            "Grote korenmand als schuld, vrouw als goddeloosheid, loden deksel."
+          ],
+          [
+            "De verplaatsing · 9–11",
+            "Twee vrouwen met ooievaarsvleugels dragen naar Sinear, huis en voetstuk gereed."
+          ]
+        ],
+        "note": "Beeldspraak, klacht, herinnering en belofte volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "zacharia",
+      "chapter": 6,
+      "verse": 1,
+      "file": "6-leeswijzer.svg",
+      "scene": "Vier wagens en een kroon",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1035,
+      "source": "Zacharia 6:1–15",
+      "design": {
+        "rows": [
+          [
+            "Het visioen · 1–8",
+            "Twee bronzen bergen, vier wagens, paardkleuren en richtingen, vier winden en Geest rust in noorden."
+          ],
+          [
+            "De handeling · 9–11",
+            "Gaven van ballingen, huis Josia, zilver/goud en kroon op hogepriester Josua."
+          ],
+          [
+            "Het woord · 12–15",
+            "Man Spruit, tempel en troon, priester/heerser in vrede; kroon als aandenken, mensen van ver bouwen bij goed luisteren."
+          ]
+        ],
+        "note": "Beeldspraak, klacht, herinnering en belofte volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "zacharia",
+      "chapter": 7,
+      "verse": 1,
+      "file": "7-leeswijzer.svg",
+      "scene": "Vasten en eerlijk recht",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1035,
+      "source": "Zacharia 7:1–14",
+      "design": {
+        "rows": [
+          [
+            "De vraag · 1–3",
+            "Darius jaar vier, Chisleu dag vier; Sarezer/Regem-Melech en mannen vragen over maand vijf."
+          ],
+          [
+            "De tegenvraag · 4–7",
+            "Voor Hem gevast in maand vijf/zeven, zeventig jaar? Eigen eten/drinken en vroegere woorden."
+          ],
+          [
+            "Het oude woord en weigering · 8–14",
+            "Eerlijk recht, trouw/barmhartigheid, kwetsbaren niet onderdrukken; rug/oor/hart hard, niet gehoord en verstrooid."
+          ]
+        ],
+        "note": "Beeldspraak, klacht, herinnering en belofte volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "zacharia",
+      "chapter": 1,
+      "verse": 18,
+      "file": "1-vier-en-vier.svg",
+      "scene": "Vier hoorns en vier smeden",
+      "alt": "Vier hoorns en vier smeden met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 671,
+      "source": "Zacharia 1:18–21",
+      "design": {
+        "rows": [
+          [
+            "De hoorns",
+            "Vier; verstrooiden Juda, Israël en Jeruzalem."
+          ],
+          [
+            "De smeden",
+            "Vier; jagen schrik aan en werpen hoorns van de volken neer."
+          ]
+        ],
+        "note": "De tekst geeft aantallen en functie, geen lijst van vier bij naam geïdentificeerde rijken."
+      }
+    },
+    {
+      "book": "zacharia",
+      "chapter": 3,
+      "verse": 9,
+      "file": "3-steen-zeven-ogen.svg",
+      "scene": "Eén steen, zeven ogen",
+      "alt": "Eén steen, zeven ogen met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 899,
+      "source": "Zacharia 3:8–10",
+      "design": {
+        "rows": [
+          [
+            "De beloofde Knecht",
+            "De Spruit komt; Josua en vrienden als teken."
+          ],
+          [
+            "De steen",
+            "Eén steen voor Josua, zeven ogen; Hij graveert."
+          ],
+          [
+            "De uitkomst",
+            "Schuld van land in één dag weg; elkaar uitnodigen onder wijnstok en vijg."
+          ]
+        ],
+        "note": "Het eigen opschrift wordt niet verzonnen en de zeven ogen worden niet tot zeven extra personen gemaakt."
+      }
+    },
+    {
+      "book": "zacharia",
+      "chapter": 4,
+      "verse": 2,
+      "file": "4-onderdelen-en-uitleg.svg",
+      "scene": "Onderdelen en gegeven uitleg",
+      "alt": "Onderdelen en gegeven uitleg met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 942,
+      "source": "Zacharia 4:2–14",
+      "design": {
+        "rows": [
+          [
+            "Het zichtbare",
+            "Goud, oliehouder, zeven lampen/pijpjes, twee bomen rechts en links."
+          ],
+          [
+            "De bouwbelofte",
+            "Zerubbabel grondvest én voltooit, door Geest, sluitsteen en schietlood."
+          ],
+          [
+            "De zeven en twee",
+            "Zeven ogen doorkruisen aarde; twee gezalfden staan voor de Heer van heel de aarde."
+          ]
+        ],
+        "note": "De plaatselijke tekst geeft deze uitleg. Geen onbekende persoonsnamen van de twee gezalfden zijn ingevuld."
+      }
+    },
+    {
+      "book": "zacharia",
+      "chapter": 5,
+      "verse": 2,
+      "file": "5-rol-en-mand.svg",
+      "scene": "De twee visioenen onderscheiden",
+      "alt": "De twee visioenen onderscheiden met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 863,
+      "source": "Zacharia 5:1–11",
+      "design": {
+        "rows": [
+          [
+            "Rol · 1–4",
+            "Ongeveer 10 m lang en 5 m breed, vloek over dief en valse eed."
+          ],
+          [
+            "Mand · 5–8",
+            "Schuld, vrouw genaamd goddeloosheid en loden sluiting."
+          ],
+          [
+            "Dragende vrouwen · 9–11",
+            "Twee, ooievaarsvleugels, mand naar Sinear en op voetstuk."
+          ]
+        ],
+        "note": "Afmetingen horen bij de rol; de tekst geeft geen exacte inhoudsmaat voor de grote korenmand."
+      }
+    },
+    {
+      "book": "zacharia",
+      "chapter": 6,
+      "verse": 2,
+      "file": "6-wagens-en-namen.svg",
+      "scene": "Wagens, richtingen en namen",
+      "alt": "Wagens, richtingen en namen met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1177,
+      "source": "Zacharia 6:1–15",
+      "design": {
+        "rows": [
+          [
+            "Paarden · 2–3",
+            "Eerste rood, tweede zwart, derde wit, vierde gevlekt/sterk."
+          ],
+          [
+            "Richtingen · 5–8",
+            "Vier winden; zwart naar noorden, wit erachter, gevlekt naar zuiden, sterke doorkruisen aarde."
+          ],
+          [
+            "Gaven en huis · 10–11",
+            "Cheldai, Tobia, Jedaja; huis Josia, zoon Zefanja; kroon op Josua, zoon Jozadak."
+          ],
+          [
+            "Aandenken · 14",
+            "Chelem, Tobia, Jedaja en Chen, zoon Zefanja."
+          ]
+        ],
+        "note": "De twee namenreeksen blijven volgens de eigen verzen staan. Cheldai/Chelem en Josia/Chen worden niet zonder tekstbasis samengevoegd."
+      }
+    }
+  ]
+}
