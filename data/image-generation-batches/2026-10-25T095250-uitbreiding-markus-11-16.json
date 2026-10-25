@@ -1,0 +1,634 @@
+{
+  "date": "2026-10-25",
+  "started": "2026-10-25T09:52:50Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "markus",
+      "chapter": 11,
+      "verse": 7,
+      "file": "11-7-intocht-verdieping.webp",
+      "scene": "Jezus rijdt Jeruzalem binnen",
+      "alt": "Jezus rijdt Jeruzalem binnen — Markus 11:7; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. A fully modestly robed bearded Jewish teacher rides one natural young donkey on an ancient road toward Jerusalem while fully clothed adults lay cloaks and leafy branches on the road, coherent donkey with four legs and one rider, no extra adult donkey, modern street or readable text.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "markus",
+      "chapter": 11,
+      "verse": 20,
+      "file": "11-20-vijgenboom-verdord-verdieping.webp",
+      "scene": "De vijgenboom is verdord",
+      "alt": "De vijgenboom is verdord — Markus 11:20; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. A fully dried fig tree with shrivelled leaves and visible dry roots beside an ancient road, two fully robed adult disciples look on from a distance, no lightning, modern vehicle or fire.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "markus",
+      "chapter": 12,
+      "verse": 10,
+      "file": "12-10-hoeksteen-verdieping.webp",
+      "scene": "Beeldspraak: de belangrijkste steen",
+      "alt": "Beeldspraak: de belangrijkste steen — Markus 12:10; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. A substantial fitted cornerstone joining two simple ancient stone walls with plain tools beside it, no people crushed, faces in rock, labels, crosses or modern concrete.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "markus",
+      "chapter": 12,
+      "verse": 28,
+      "file": "12-28-schriftgeleerde-vraagt-verdieping.webp",
+      "scene": "De schriftgeleerde vraagt naar het gebod",
+      "alt": "De schriftgeleerde vraagt naar het gebod — Markus 12:28; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. A fully robed adult scholar respectfully converses with a fully robed adult Jewish teacher in an ancient temple courtyard, thoughtful open expressions and natural hands, no angry caricature, invented text or modern scripture book.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "markus",
+      "chapter": 13,
+      "verse": 3,
+      "file": "13-3-vier-leerlingen-verdieping.webp",
+      "scene": "Vier leerlingen vragen Jezus apart",
+      "alt": "Vier leerlingen vragen Jezus apart — Markus 13:3; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. A fully robed bearded adult Jewish teacher sits on the Olivet hillside opposite ancient Jerusalem with exactly four fully robed adult disciples listening closely, five separate coherent bodies, no extra crowd, modern temple dome, date or clock.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "markus",
+      "chapter": 13,
+      "verse": 14,
+      "file": "13-14-vluchten-verdieping.webp",
+      "scene": "Lesbeeld: de vlucht naar de bergen",
+      "alt": "Lesbeeld: de vlucht naar de bergen — Markus 13:14; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. Fully clothed ancient adult Judean travellers hurry along a rocky trail toward empty hills, a distant stone village behind, respectful natural anatomy, no battle victims, modern refugee gear, supernatural sign or predicted date; illustration of a warning.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "markus",
+      "chapter": 14,
+      "verse": 13,
+      "file": "14-13-waterkruik-man-verdieping.webp",
+      "scene": "De man met de kruik water",
+      "alt": "De man met de kruik water — Markus 14:13; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. A fully robed ancient adult man carries a plain clay water jar through a stone Jerusalem lane while exactly two fully robed adult disciples follow respectfully, natural arms, no woman water carrier, modern faucet, readable address or map.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "markus",
+      "chapter": 14,
+      "verse": 37,
+      "file": "14-37-drie-slapen-verdieping.webp",
+      "scene": "Jezus vindt de drie slapend",
+      "alt": "Jezus vindt de drie slapend — Markus 14:37; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. A fully robed adult Jewish teacher quietly stands beside exactly three fully clothed adult disciples sleeping under olive trees in an ancient garden at night, natural coherent limbs, no angel with cup, wounds or extra sleeping figures.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "markus",
+      "chapter": 14,
+      "verse": 45,
+      "file": "14-45-kus-judas-verdieping.webp",
+      "scene": "Judas kust Jezus",
+      "alt": "Judas kust Jezus — Markus 14:45; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. Two fully robed adult men meet in an ancient olive grove at night, one lightly kisses the bearded Jewish teacher on the cheek, torch bearers distant, natural separate faces and arms, no bloody wound, sword striking, mutilated ear or modern objects.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "markus",
+      "chapter": 14,
+      "verse": 61,
+      "file": "14-61-verhoor-verdieping.webp",
+      "scene": "Jezus antwoordt de hogepriester",
+      "alt": "Jezus antwoordt de hogepriester — Markus 14:61; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. A fully robed adult Jewish teacher stands calmly before a fully robed ancient high priest and a few elders in a plain stone audience room at night, natural separate bodies, no spit, beating, blood or modern courtroom.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "markus",
+      "chapter": 14,
+      "verse": 67,
+      "file": "14-67-petrus-vuur-verdieping.webp",
+      "scene": "Het dienstmeisje spreekt Petrus aan",
+      "alt": "Het dienstmeisje spreekt Petrus aan — Markus 14:67; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. A fully and modestly robed ancient adult female servant speaks to a fully robed adult male disciple warming himself beside a small courtyard fire, natural hands and faces, other fully clothed servants distant, no violence, modern brazier or readable accusation.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "markus",
+      "chapter": 15,
+      "verse": 2,
+      "file": "15-2-pilatus-vraagt-verdieping.webp",
+      "scene": "Pilatus ondervraagt Jezus",
+      "alt": "Pilatus ondervraagt Jezus — Markus 15:2; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. A fully clothed Roman governor questions a fully robed adult Jewish teacher standing calmly in a plain ancient audience courtyard, natural separate bodies, no water bowl handwashing borrowed from Matthew, injuries or modern courtroom.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "markus",
+      "chapter": 15,
+      "verse": 25,
+      "file": "15-25-drie-kruisen-verdieping.webp",
+      "scene": "Jezus tussen twee misdadigers",
+      "alt": "Jezus tussen twee misdadigers — Markus 15:25; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. A distant wide photorealistic view of exactly three wooden Roman crosses on a low rocky hill outside ancient Jerusalem, three small silhouetted adult male figures modestly draped with opaque cloth from waist through knees, central figure Jesus. No closeup, blood, wounds, exposed genitals, nail penetration, sensational pain or readable inscription.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "markus",
+      "chapter": 15,
+      "verse": 39,
+      "file": "15-39-hoofdman-verdieping.webp",
+      "scene": "De hoofdman belijdt wie Jezus is",
+      "alt": "De hoofdman belijdt wie Jezus is — Markus 15:39; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. A fully clothed Roman centurion stands solemnly on an ancient rocky hill looking toward a distant cross outside the frame, natural anatomy, deeply moved expression, no gore, corpse, weapon attack, modern armor or readable words.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "markus",
+      "chapter": 15,
+      "verse": 40,
+      "file": "15-40-vrouwen-verre-verdieping.webp",
+      "scene": "De vrouwen kijken van verre",
+      "alt": "De vrouwen kijken van verre — Markus 15:40; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. Three fully and modestly robed adult women watch solemnly from a distance on an ancient rocky hillside outside Jerusalem, natural separate faces and hands, no close crucifixion, wounds, corpse or written names; listed witnesses without claiming this is all the women.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "markus",
+      "chapter": 15,
+      "verse": 43,
+      "file": "15-43-jozef-vraagt-verdieping.webp",
+      "scene": "Jozef vraagt Pilatus om het lichaam",
+      "alt": "Jozef vraagt Pilatus om het lichaam — Markus 15:43; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. A dignified fully robed ancient adult man respectfully requests something from a fully clothed Roman governor in a plain stone courtyard at dusk, natural hands, no corpse, modern document, second named helper or graphic injuries.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "markus",
+      "chapter": 16,
+      "verse": 10,
+      "file": "16-10-maria-bericht-verdieping.webp",
+      "scene": "Maria vertelt dat Jezus leeft",
+      "alt": "Maria vertelt dat Jezus leeft — Markus 16:10; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. A fully modestly robed ancient adult woman joyfully speaks to a small group of fully clothed grieving adult disciples in a modest stone house, natural faces showing listening and doubt, no visible ghosts, modern writing or Father portrait.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "markus",
+      "chapter": 16,
+      "verse": 14,
+      "file": "16-14-elf-aan-tafel-verdieping.webp",
+      "scene": "Jezus verschijnt aan tafel",
+      "alt": "Jezus verschijnt aan tafel — Markus 16:14; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. A fully robed bearded adult risen Jewish teacher stands beside fully robed adult disciples seated at a low meal table in a plain stone room, natural separate bodies and hands, no fresh wounds, exact total claimed, Last Supper bread ceremony or modern church.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "markus",
+      "chapter": 16,
+      "verse": 19,
+      "file": "16-19-opgenomen-verdieping.webp",
+      "scene": "De Heere wordt opgenomen",
+      "alt": "De Heere wordt opgenomen — Markus 16:19; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. A respectful distant photorealistic biblical Ascension illustration: one adult bearded Jesus in long opaque white robes is seen high above a small group of fully clothed adult disciples, rising into soft luminous clouds above an ancient natural hillside. Exactly one ascending person, normal coherent body and two arms, no portrait of God the Father, throne occupant, giant hands, angels added, modern city or writing.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "markus",
+      "chapter": 11,
+      "verse": 1,
+      "file": "11-leeswijzer.svg",
+      "scene": "Intocht, tempel en gebed",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1035,
+      "source": "Markus 11:1–33",
+      "design": {
+        "rows": [
+          [
+            "Aankomst · 1–11",
+            "Bethfagé/Bethanië, twee halen veulen, mantels/takken/Hosanna; tempel bekijken, avond Bethanië."
+          ],
+          [
+            "Volgende dagen · 12–26",
+            "Vijgenboom zonder vrucht, tempelhandel weg/huis gebed alle volken; avond uit, ochtend verdorde boom, geloof/bidden/vergeven."
+          ],
+          [
+            "Het gezag · 27–33",
+            "Leiders vragen, Jezus tegenvraag Johannes; overleg en wij weten niet, geen antwoord op gezagsvraag."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "markus",
+      "chapter": 12,
+      "verse": 1,
+      "file": "12-leeswijzer.svg",
+      "scene": "Vrucht, liefde en geven",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1078,
+      "source": "Markus 12:1–44",
+      "design": {
+        "rows": [
+          [
+            "Wijngaard · 1–12",
+            "Aanleg en pachters, dienaren en geliefde zoon verworpen, andere pachters; afgekeurde hoeksteen, leiders doorzien toepassing."
+          ],
+          [
+            "De gesprekken · 13–37",
+            "Munt/keizer/God, zevenbroerscasus/opstanding, liefdesgebod en verstandig antwoord, David noemt Messias Heere."
+          ],
+          [
+            "Waarschuwing en weduwe · 38–44",
+            "Ereplaatsen/schijngebed/weduwenhuizen; offerkist, twee muntjes en alles tegenover overvloed."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "markus",
+      "chapter": 13,
+      "verse": 1,
+      "file": "13-leeswijzer.svg",
+      "scene": "Opletten en wakker blijven",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1078,
+      "source": "Markus 13:1–37",
+      "design": {
+        "rows": [
+          [
+            "De vraag · 1–13",
+            "Tempelstenen, vier leerlingen op Olijfberg; misleiding, oorlog/weeën, vervolging, Geest spreekt, volhouden."
+          ],
+          [
+            "Vlucht en komst · 14–27",
+            "Daniëlwoord en Judea naar bergen, wintergebed en verkorte dagen; valse christussen, hemeltekens/Mensenzoon en verzamelen."
+          ],
+          [
+            "Leren en waken · 28–37",
+            "Vijg/zomer, woorden blijven, alleen Vader dag/uur; reiziger/dienaren/deurwachter, vier nachtperioden en iedereen wakker."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "markus",
+      "chapter": 14,
+      "verse": 1,
+      "file": "14-leeswijzer.svg",
+      "scene": "Zalving, tafel en gevangenneming",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1442,
+      "source": "Markus 14:1–72",
+      "design": {
+        "rows": [
+          [
+            "De voorbereiding · 1–16",
+            "Pascha, complot, Bethanië/Simon/nardus en begrafenisduiding, Judasgeld; twee volgen waterkruikman naar ingerichte bovenzaal."
+          ],
+          [
+            "De tafel en weg · 17–31",
+            "Twaalf, verraadvraag, brood/beker/verbond en nieuwe wijn, lofzang/Olijfberg; uiteendrijven, Galilea en tweemaal haan/driemaal ontkennen."
+          ],
+          [
+            "Gethsemané · 32–52",
+            "Drie mee, Abba/Uw wil, slapen en drie terugkeren; kus/arrest, oor/zwaard, leerlingen vluchten, jongeman laat doek achter."
+          ],
+          [
+            "Raad en binnenplaats · 53–72",
+            "Valse verklaringen niet eens, zwijgen en belijdenis/veroordeling; Petrus vuur, dienstmeisje/omstanders, twee haankraaien en huilen."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "markus",
+      "chapter": 15,
+      "verse": 1,
+      "file": "15-leeswijzer.svg",
+      "scene": "Proces, kruis en begrafenis",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1164,
+      "source": "Markus 15:1–47",
+      "design": {
+        "rows": [
+          [
+            "Pilatus · 1–20",
+            "Koningsvraag, zwijgen, Barabbas of Jezus, druk menigte; geseling/spot in purper en doornen, eigen kleding weer aan."
+          ],
+          [
+            "Het kruis · 21–41",
+            "Simon vader Alexander/Rufus draagt, Golgotha/wijn geweigerd, negen uur drie kruisen, spot; duisternis twaalf/drie, roep/dood, voorhangsel, hoofdman/vrouwen."
+          ],
+          [
+            "De avond · 42–47",
+            "Voorbereidingsdag, Jozef vraagt moedig, Pilatus verifieert via hoofdman, linnen/rotsgraf/steen; twee Maria’s kijken."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "markus",
+      "chapter": 16,
+      "verse": 1,
+      "file": "16-leeswijzer.svg",
+      "scene": "Opgestaan en uitgezonden",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1078,
+      "source": "Markus 16:1–20",
+      "design": {
+        "rows": [
+          [
+            "Bij het graf · 1–8",
+            "Drie vrouwen/geurige kruiden, vroege zon/steen weg; jonge man rechts in wit, opgestaan, leerlingen en Petrus/Galilea; schrik en vluchten."
+          ],
+          [
+            "Verschijningen · 9–14",
+            "Eerst Maria Magdalena, rouwenden geloven niet; twee op landweg en opnieuw ongeloof; elf aan tafel aangesproken."
+          ],
+          [
+            "Opdracht en vervolg · 15–20",
+            "Wereldwijd evangelie, geloof/doop en tekenen; opgenomen en rechterhand, overal verkondigen, Heere werkt mee."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "markus",
+      "chapter": 11,
+      "verse": 11,
+      "file": "11-dagen-volgorde.svg",
+      "scene": "De opeenvolgende dagen",
+      "alt": "De opeenvolgende dagen met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 942,
+      "source": "Markus 11:11–27",
+      "design": {
+        "rows": [
+          [
+            "Avond aankomst · 11",
+            "Tempel bekijken, met twaalf naar Bethanië."
+          ],
+          [
+            "Volgende dag · 12–19",
+            "Vijgenboom aangesproken, tempelhandel verwijderd; avond uit stad."
+          ],
+          [
+            "Volgende ochtend · 20–27",
+            "Boom vanaf wortels verdord, Petrus herinnert, geloof/gebed/vergeving; weer Jeruzalem."
+          ]
+        ],
+        "note": "De boom is in dit evangelie de volgende ochtend als verdord gezien; geen tijden uit een ander evangelie samengevoegd."
+      }
+    },
+    {
+      "book": "markus",
+      "chapter": 12,
+      "verse": 13,
+      "file": "12-gesprekken.svg",
+      "scene": "De verschillende gesprekken",
+      "alt": "De verschillende gesprekken met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "Markus 12:13–44",
+      "design": {
+        "rows": [
+          [
+            "Belasting · 13–17",
+            "Farizeeën/Herodesaanhangers; keizer en God geven."
+          ],
+          [
+            "Opstanding · 18–27",
+            "Sadduceeën, zevenbroerscasus; geen huwelijk, God van levenden."
+          ],
+          [
+            "Gebod · 28–34",
+            "Schriftgeleerde, ene Heere en liefde God/naaste; niet ver koninkrijk."
+          ],
+          [
+            "Messias en geven · 35–44",
+            "David noemt Hem Heere; waarschuwing schijn, weduwe geeft alles."
+          ]
+        ],
+        "note": "Casus is geen historische stamboom; twee muntjes blijven geen modern eurobedrag."
+      }
+    },
+    {
+      "book": "markus",
+      "chapter": 13,
+      "verse": 34,
+      "file": "13-nachtperioden.svg",
+      "scene": "De vier genoemde nachtperioden",
+      "alt": "De vier genoemde nachtperioden met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 906,
+      "source": "Markus 13:32–37",
+      "design": {
+        "rows": [
+          [
+            "Wat onbekend is",
+            "Dag en uur: engelen niet, Zoon niet, alleen Vader."
+          ],
+          [
+            "Wanneer heer kan komen",
+            "Avond, middernacht, hanengekraai of morgen."
+          ],
+          [
+            "Wat te doen",
+            "Ieder eigen taak, deurwachter wakker; allen opletten, bidden en wakker blijven."
+          ]
+        ],
+        "note": "Geen kalender, voorspelde datum of modern exact tijdschema toegevoegd."
+      }
+    },
+    {
+      "book": "markus",
+      "chapter": 14,
+      "verse": 13,
+      "file": "14-tafelvoorbereiding.svg",
+      "scene": "Voorbereiding van het Pascha",
+      "alt": "Voorbereiding van het Pascha met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 863,
+      "source": "Markus 14:12–16",
+      "design": {
+        "rows": [
+          [
+            "De twee · 13",
+            "Stad in, man met kruik water ontmoeten, hem volgen."
+          ],
+          [
+            "Het huis · 14–15",
+            "Eigenaar vragen naar eetzaal; grote ingerichte bovenzaal."
+          ],
+          [
+            "De uitvoering · 16",
+            "Alles zo gevonden en Pascha klaargemaakt."
+          ]
+        ],
+        "note": "Waterkruikman is alleen voor dit evangelie in deze reeks opgenomen; geen naam verzonnen."
+      }
+    },
+    {
+      "book": "markus",
+      "chapter": 14,
+      "verse": 66,
+      "file": "14-ontkenningen.svg",
+      "scene": "Petrus en de twee haankraaien",
+      "alt": "Petrus en de twee haankraaien met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1019,
+      "source": "Markus 14:66–72",
+      "design": {
+        "rows": [
+          [
+            "Bij het vuur · 66–68",
+            "Dienstmeisje: Jezus Nazareth; ontkennen, voorportaal en eerste haan."
+          ],
+          [
+            "Nogmaals · 69–70",
+            "Dienstmeisje zegt tegen omstanders: hoort bij hen; weer ontkennen."
+          ],
+          [
+            "De omstanders · 70–71",
+            "Galileeër/spraak; vervloeken/zweren dat hij Hem niet kent."
+          ],
+          [
+            "Tweede haan · 72",
+            "Voorspelling herinnerd: driemaal voor tweemaal haan; huilen."
+          ]
+        ],
+        "note": "Volgt de eigen tweemaal-haanvolgorde van Markus."
+      }
+    },
+    {
+      "book": "markus",
+      "chapter": 15,
+      "verse": 25,
+      "file": "15-uren-en-getuigen.svg",
+      "scene": "Uren en getuigen in de tekst",
+      "alt": "Uren en getuigen in de tekst met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1134,
+      "source": "Markus 15:21–47",
+      "design": {
+        "rows": [
+          [
+            "Negen uur · 25",
+            "Ongeveer dit uur gekruisigd."
+          ],
+          [
+            "Twaalf tot drie · 33–39",
+            "Donker, rond drie roep, dood en voorhangsel; hoofdman belijdt."
+          ],
+          [
+            "Vrouwen · 40–41",
+            "Maria Magdalena, Maria moeder Jakobus jongere/Joses, Salome; veel andere vrouwen."
+          ],
+          [
+            "Avond · 42–47",
+            "Jozef raadslid verwacht koninkrijk, hoofdman verifieert, linnen/graf; Maria Magdalena en Maria moeder Joses."
+          ]
+        ],
+        "note": "Simon is vader van Alexander en Rufus volgens vers 21; getuigenlijst geeft niet een totaal aantal vrouwen."
+      }
+    },
+    {
+      "book": "markus",
+      "chapter": 16,
+      "verse": 1,
+      "file": "16-vrouwen-en-berichten.svg",
+      "scene": "Vrouwen en berichten",
+      "alt": "Wie ontvangt en brengt het bericht? met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1091,
+      "source": "Markus 16:1–14",
+      "design": {
+        "rows": [
+          [
+            "Drie bij het graf · 1–8",
+            "Maria Magdalena, Maria moeder Jakobus en Salome; jonge man geeft boodschap."
+          ],
+          [
+            "Maria · 9–11",
+            "Ziet Jezus, vertelt rouwenden; niet geloofd."
+          ],
+          [
+            "Twee · 12–13",
+            "Onderweg naar platteland, vertellen; ook niet geloofd."
+          ],
+          [
+            "Elf · 14",
+            "Aan tafel, ongeloof en hard hart aangesproken."
+          ]
+        ],
+        "note": "Dit hoofdstuk noemt drie grafbezoeksters, terwijl Mattheüs er twee noemt; elke illustratie volgt het eigen hoofdstuk."
+      }
+    }
+  ]
+}
