@@ -15238,6 +15238,201 @@
       "target_images": 3,
       "reason": "Twee groepsbeelden en een symbolisch trouwbeeld zijn aanwezig voor slechts twee verzen. Drie zijn ruim voldoende; er is geen ontbrekende gebeurtenis die een vierde beeld rechtvaardigt.",
       "additions": []
+    },
+    {
+      "book": "psalmen",
+      "chapter": 118,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Poort, hoeksteen en dagvreugde zijn aanwezig. Bijen voegen de afzonderlijke omringingsvergelijking toe. Een leeswijzer verbindt nood en redding met gezamenlijke dank.",
+      "additions": [
+        {
+          "verse": 12,
+          "scene": "Vergelijking: omringd als door bijen",
+          "kind": "poetic",
+          "file": "118-12-bijen-verdieping.webp"
+        },
+        {
+          "verse": 1,
+          "file": "118-nood-poort-en-dank.svg",
+          "scene": "Nood, poort en dank",
+          "kind": "diagram",
+          "source": "Psalm 118:1–29"
+        }
+      ]
+    },
+    {
+      "book": "psalmen",
+      "chapter": 119,
+      "status": "reviewed",
+      "target_images": 12,
+      "reason": "Jonge lezer, lamp en verloren schaap zijn aanwezig. Zeven aanvullingen tonen spreken, vreemdelingschap, waarde, benauwdheid, zoetheid, verdriet en nachtelijk nadenken. Twee schema’s geven leesvensters en vergelijkingen. Twaalf visuals zijn bij 176 verzen inhoudelijk gemotiveerd.",
+      "additions": [
+        {
+          "verse": 46,
+          "scene": "Motief: spreken voor koningen",
+          "kind": "poetic",
+          "file": "119-46-voor-koningen-verdieping.webp"
+        },
+        {
+          "verse": 54,
+          "scene": "Motief: liederen in het vreemdelingenhuis",
+          "kind": "poetic",
+          "file": "119-54-vreemdelingenhuis-verdieping.webp"
+        },
+        {
+          "verse": 72,
+          "scene": "Vergelijking: beter dan goud en zilver",
+          "kind": "poetic",
+          "file": "119-72-beter-dan-goud-verdieping.webp"
+        },
+        {
+          "verse": 83,
+          "scene": "Vergelijking: een leren zak in de rook",
+          "kind": "poetic",
+          "file": "119-83-leren-zak-rook-verdieping.webp"
+        },
+        {
+          "verse": 103,
+          "scene": "Vergelijking: zoeter dan honing",
+          "kind": "poetic",
+          "file": "119-103-zoeter-dan-honing-verdieping.webp"
+        },
+        {
+          "verse": 136,
+          "scene": "Poëtisch motief: verdriet over ontrouw",
+          "kind": "poetic",
+          "file": "119-136-verdriet-ontrouw-verdieping.webp"
+        },
+        {
+          "verse": 148,
+          "scene": "Motief: nadenken tijdens de nachtwaken",
+          "kind": "poetic",
+          "file": "119-148-nachtwaken-verdieping.webp"
+        },
+        {
+          "verse": 9,
+          "file": "119-leren-en-leven.svg",
+          "scene": "Leren en leven",
+          "kind": "diagram",
+          "source": "Psalm 119:9–176"
+        },
+        {
+          "verse": 72,
+          "file": "119-vergelijkingen-in-de-psalm.svg",
+          "scene": "Vergelijkingen in de psalm",
+          "kind": "diagram",
+          "source": "Psalm 119:72–176"
+        }
+      ]
+    },
+    {
+      "book": "psalmen",
+      "chapter": 122,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "Reis, naar het huis gaan en vredegebed zijn aanwezig. De rechterstoelen vormen een apart motief van de stad en krijgen een stiller architectuurbeeld.",
+      "additions": [
+        {
+          "verse": 5,
+          "scene": "Motief: rechterstoelen in Jeruzalem",
+          "kind": "poetic",
+          "file": "122-5-rechterstoelen-verdieping.webp"
+        }
+      ]
+    },
+    {
+      "book": "psalmen",
+      "chapter": 126,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "Terugkeerlachen, beken en geoogste schoven zijn aanwezig. Huilend zaaien toont de andere helft van de zaaien-en-maaienvergelijking.",
+      "additions": [
+        {
+          "verse": 6,
+          "scene": "Beeldspraak: huilend zaad dragen",
+          "kind": "poetic",
+          "file": "126-6-zaaien-tranen-verdieping.webp"
+        }
+      ]
+    },
+    {
+      "book": "psalmen",
+      "chapter": 127,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Bouwers, slaap en kinderen zijn aanwezig. De wachter is een ander motief in vers 1; een schema verbindt werk, rust en het pijlbeeld zonder kinderen als strijders af te beelden.",
+      "additions": [
+        {
+          "verse": 1,
+          "scene": "Beeldspraak: een wachter op de stadsmuur",
+          "kind": "poetic",
+          "file": "127-1-wachter-verdieping.webp"
+        },
+        {
+          "verse": 1,
+          "file": "127-werk-rust-en-erfdeel.svg",
+          "scene": "Werk, rust en erfdeel",
+          "kind": "diagram",
+          "source": "Psalm 127:1–5"
+        }
+      ]
+    },
+    {
+      "book": "psalmen",
+      "chapter": 120,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "Nood, Kedar en vredesverlangen zijn aanwezig. Een schema maakt ook de valse tong, het antwoord en de twee plaatsnamen exact leesbaar.",
+      "additions": [
+        {
+          "verse": 2,
+          "file": "120-woorden-en-vrede.svg",
+          "scene": "Woorden en vrede",
+          "kind": "diagram",
+          "source": "Psalm 120:2–7"
+        }
+      ]
+    },
+    {
+      "book": "psalmen",
+      "chapter": 125,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "Berg, omringende bergen en goedheid zijn aanwezig. Een leeswijzer verduidelijkt hoe die bescherming samenhangt met onrecht en kromme wegen.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "125-vertrouwen-en-wegen.svg",
+          "scene": "Vertrouwen en wegen",
+          "kind": "diagram",
+          "source": "Psalm 125:1–5"
+        }
+      ]
+    },
+    {
+      "book": "psalmen",
+      "chapter": 121,
+      "status": "reviewed",
+      "target_images": 3,
+      "reason": "Bergen, schaduw en gaan en komen zijn aanwezig. Zij dekken de kern van het korte bewaringslied; een extra vrijwel gelijk reislandschap zou herhalen.",
+      "additions": []
+    },
+    {
+      "book": "psalmen",
+      "chapter": 123,
+      "status": "reviewed",
+      "target_images": 3,
+      "reason": "Opzien, dienstbaarheid en genadebede zijn aanwezig. De korte vergelijking en klacht zijn met drie beelden gedekt.",
+      "additions": []
+    },
+    {
+      "book": "psalmen",
+      "chapter": 124,
+      "status": "reviewed",
+      "target_images": 3,
+      "reason": "Stroom, ontkomen vogel en Schepperhulp dekken de uitgesproken vergelijkingen; geen verzonnen concrete verdrinking of nieuwe val.",
+      "additions": []
     }
   ]
 }
