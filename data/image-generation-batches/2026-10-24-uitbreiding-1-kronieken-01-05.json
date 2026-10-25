@@ -1,0 +1,706 @@
+{
+  "date": "2026-10-24",
+  "started": "2026-10-24T23:31:06Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "1kronieken",
+      "chapter": 1,
+      "verse": 1,
+      "file": "1-adam-noach.svg",
+      "scene": "Van Adam tot Noach",
+      "alt": "Van Adam tot Noach — 1 Kronieken 1:1–4",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1122,
+      "source": "1 Kronieken 1:1–4",
+      "design": {
+        "type": "vertical named sequence",
+        "names": [
+          "Adam",
+          "Seth",
+          "Enos",
+          "Kenan",
+          "Mahalal-El",
+          "Jered",
+          "Henoch",
+          "Methusalah",
+          "Lamech",
+          "Noach"
+        ],
+        "note": "De genoemde geslachtslijn; Sem, Cham en Jafeth zijn Noachs zonen, geen drie volgende generaties."
+      }
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 1,
+      "verse": 4,
+      "file": "1-noachs-zonen.svg",
+      "scene": "De drie takken na Noach",
+      "alt": "De drie takken na Noach — 1 Kronieken 1:4–17",
+      "kind": "diagram",
+      "width": 840,
+      "height": 864,
+      "source": "1 Kronieken 1:4–17",
+      "design": {
+        "type": "parent-child branches",
+        "parent": "Noach",
+        "children": [
+          [
+            "Sem",
+            "Elam, Assur, Arfachsad, Lud en Aram worden bij Sem genoemd."
+          ],
+          [
+            "Cham",
+            "Cusch, Mitsraim, Put en Kanaän."
+          ],
+          [
+            "Jafeth",
+            "Gomer, Magog, Madai, Javan, Tubal, Mesech en Tiras."
+          ]
+        ],
+        "note": "De drie verbonden hoofdtakken zijn broers. De verdere namen in elk vak zijn de daar genoemde nakomelingen."
+      }
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 1,
+      "verse": 24,
+      "file": "1-sem-abram.svg",
+      "scene": "Van Sem tot Abraham",
+      "alt": "Van Sem tot Abraham — 1 Kronieken 1:24–27",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1088,
+      "source": "1 Kronieken 1:24–27",
+      "design": {
+        "type": "vertical named sequence",
+        "names": [
+          "Sem",
+          "Arfachsad",
+          "Selah",
+          "Heber",
+          "Peleg",
+          "Rehu",
+          "Serug",
+          "Nahor",
+          "Terah",
+          "Abram / Abraham"
+        ],
+        "note": "Abram en Abraham zijn dezelfde persoon met twee namen, geen vader en zoon."
+      }
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 1,
+      "verse": 28,
+      "file": "1-abrahams-takken.svg",
+      "scene": "Abrahams familietakken",
+      "alt": "De hoofd- en zijtakken rond Abraham met de exacte namen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1283,
+      "source": "1 Kronieken 1:28–37",
+      "design": {
+        "rows": [
+          [
+            "Izak",
+            "Zonen: Ezau en Israël."
+          ],
+          [
+            "Ismaël",
+            "Nebajoth, Kedar, Adbeel, Mibsam, Misma, Duma, Massa, Hadad, Thema, Jetur, Nafis en Kedma."
+          ],
+          [
+            "Kinderen bij Ketura",
+            "Zimram, Joksan, Medan, Midian, Isbak en Suah."
+          ],
+          [
+            "Joksan en Midian",
+            "Joksan: Scheba en Dedan. Midian: Efa, Efer, Henoch, Abida en Eldaa."
+          ],
+          [
+            "Ezau",
+            "Elifaz, Rehuël, Jehus, Jaëlam en Korah; Amalek komt van Elifaz bij Timna."
+          ]
+        ],
+        "note": "Gelijknamigen zoals Henoch en Scheba krijgen alleen de relaties die hier expliciet genoemd zijn."
+      }
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 1,
+      "verse": 38,
+      "file": "1-seir-edom.svg",
+      "scene": "Seïr en de koningen van Edom",
+      "alt": "De twee verschillende soorten lijsten en hun namen zonder onterechte afstamming.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1326,
+      "source": "1 Kronieken 1:38–54",
+      "design": {
+        "rows": [
+          [
+            "Seïrs zonen",
+            "Lotan, Sobal, Zibeon, Ana, Dison, Ezer en Disan."
+          ],
+          [
+            "Eerste koningen",
+            "Bela, zoon van Beor → Jobab, zoon van Zerah → Husam → Hadad, zoon van Bedad."
+          ],
+          [
+            "Daarna",
+            "Samla → Saul uit Rehoboth → Baäl-Hanan, zoon van Achbor → Hadad."
+          ],
+          [
+            "Laatste Hadads vrouw",
+            "Mehetabeël, dochter van Matred, dochter van Mee-Sahab."
+          ],
+          [
+            "De stamhoofden",
+            "Timna, Alja, Jetheth, Aholi-Bama, Ela, Pinon, Kenaz, Theman, Mibzar, Magdiël en Iram."
+          ]
+        ],
+        "note": "Koningsopvolging is geen stamboom; de twee Hadads worden door hun plaats in de reeks onderscheiden."
+      }
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 2,
+      "verse": 3,
+      "file": "2-judas-vijf-zonen.svg",
+      "scene": "Juda’s vijf zonen",
+      "alt": "Juda’s vijf zonen — 1 Kronieken 2:3–5",
+      "kind": "diagram",
+      "width": 840,
+      "height": 737,
+      "source": "1 Kronieken 2:3–5",
+      "design": {
+        "type": "parent-child branches",
+        "parent": "Juda",
+        "children": [
+          [
+            "Er, Onan en Sela",
+            "Bij de dochter van Sua; Er wordt wegens kwaad gedood."
+          ],
+          [
+            "Perez en Zerah",
+            "Bij Thamar, Juda’s schoondochter. Perez krijgt Hezron en Hamul."
+          ]
+        ],
+        "note": "De vijf namen zijn Juda’s zonen; Perez en Zerah worden niet als kinderen van Er of Onan getekend."
+      }
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 2,
+      "verse": 9,
+      "file": "2-ram-david.svg",
+      "scene": "Van Ram tot David",
+      "alt": "Van Ram tot David — 1 Kronieken 2:9–15",
+      "kind": "diagram",
+      "width": 840,
+      "height": 962,
+      "source": "1 Kronieken 2:9–15",
+      "design": {
+        "type": "vertical named sequence",
+        "names": [
+          "Ram",
+          "Amminadab",
+          "Nahesson",
+          "Salma",
+          "Boaz",
+          "Obed",
+          "Isaï",
+          "David"
+        ],
+        "note": "Dit is de gekozen lijn uit Hezrons tak. David is in deze lijst Isaï’s zevende zoon; broers en zussen staan in een apart schema."
+      }
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 2,
+      "verse": 13,
+      "file": "2-isais-kinderen.svg",
+      "scene": "Isaï’s zonen en dochters",
+      "alt": "Isaï’s zonen en dochters — 1 Kronieken 2:13–17",
+      "kind": "diagram",
+      "width": 840,
+      "height": 902,
+      "source": "1 Kronieken 2:13–17",
+      "design": {
+        "type": "parent-child branches",
+        "parent": "Isaï",
+        "children": [
+          [
+            "Zeven zonen",
+            "Eliab, Abinadab, Simea, Nethaneël, Raddai, Ozem en David."
+          ],
+          [
+            "Zeruja",
+            "Zus van de zonen; moeder van Abisai, Joab en Asa-El."
+          ],
+          [
+            "Abigaïl",
+            "Hun zus; moeder van Amasa, met Jether de Ismaëliet als vader."
+          ]
+        ],
+        "note": "Abisai, Joab, Asa-El en Amasa horen bij de volgende generatie. Deze Abigaïl wordt niet zonder bron aan een naamgenoot gelijkgesteld."
+      }
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 2,
+      "verse": 18,
+      "file": "2-hezrons-zijtakken.svg",
+      "scene": "Zijtakken van Hezron",
+      "alt": "Geselecteerde zijtakken en onderscheid tussen twee Kalebs.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1326,
+      "source": "1 Kronieken 2:9, 18–55",
+      "design": {
+        "rows": [
+          [
+            "Drie zonen in de hoofdlijst",
+            "Jerahmeël, Ram en Chelubai."
+          ],
+          [
+            "Kaleb en Efrath",
+            "Kaleb, zoon van Hezron → Hur → Uri → Bezaleël."
+          ],
+          [
+            "Hezrons latere huwelijk",
+            "Dochter van Machir → Segub → Jaïr; bezit en verlies van steden in Gilead."
+          ],
+          [
+            "Jerahmeëls families",
+            "Ram en Onam staan aan verschillende takken; kinderloosheid van Seled en Jether wordt expliciet genoemd."
+          ],
+          [
+            "Schrijversfamilies",
+            "Tirathieten, Simeathieten en Suchathieten in Jabes; Kenieten uit Hammaths familie."
+          ]
+        ],
+        "note": "Kaleb, zoon van Hezron, is de genoemde vader bij deze lijn. Het schema maakt hem niet tot Kaleb, zoon van Jefunne, uit hoofdstuk 4."
+      }
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 3,
+      "verse": 1,
+      "file": "3-hebron-moeders.svg",
+      "scene": "Davids zes zonen in Hebron",
+      "alt": "Davids zes zonen in Hebron — 1 Kronieken 3:1–4",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1173,
+      "source": "1 Kronieken 3:1–4",
+      "design": {
+        "type": "parent-child branches",
+        "parent": "David",
+        "children": [
+          [
+            "Amnon",
+            "Moeder: Ahinoam uit Jizreël."
+          ],
+          [
+            "Daniël",
+            "Moeder: Abigaïl uit Karmel."
+          ],
+          [
+            "Absalom",
+            "Moeder: Maächa, dochter van Thalmai, koning van Gesur."
+          ],
+          [
+            "Adonia",
+            "Moeder: Haggith."
+          ],
+          [
+            "Sefatja",
+            "Moeder: Abital."
+          ],
+          [
+            "Jithream",
+            "Moeder: Egla, Davids vrouw."
+          ]
+        ],
+        "note": "De volgorde volgt de zes in Hebron geboren zonen. De zoon heet in deze lijst Daniël."
+      }
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 3,
+      "verse": 5,
+      "file": "3-jeruzalem-kinderen.svg",
+      "scene": "Davids kinderen in Jeruzalem",
+      "alt": "De twee groepen en de herhaalde namen zonder weggevallen kinderen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1134,
+      "source": "1 Kronieken 3:5–9",
+      "design": {
+        "rows": [
+          [
+            "Bij Bath-Sua",
+            "Simea, Sobab, Nathan en Salomo. Bath-Sua is dochter van Ammiël."
+          ],
+          [
+            "Nog negen zonen",
+            "Jibchar, Elisama, Elifelet, Nogah, Nefeg, Jafia, Elisama, Eljada en Elifelet."
+          ],
+          [
+            "Verdere kinderen",
+            "Ook zonen bij bijvrouwen; Thamar is hun zus."
+          ],
+          [
+            "De regeringsduur",
+            "Hebron: zeven jaar en zes maanden; Jeruzalem: 33 jaar."
+          ]
+        ],
+        "note": "Elisama en Elifelet staan elk tweemaal in de negen namen. De schrijfwijzen en herhalingen van deze tekst blijven zichtbaar."
+      }
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 3,
+      "verse": 10,
+      "file": "3-salomo-amazia.svg",
+      "scene": "De koninklijke lijn, deel 1",
+      "alt": "De koninklijke lijn, deel 1 — 1 Kronieken 3:10–12",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1008,
+      "source": "1 Kronieken 3:10–12",
+      "design": {
+        "type": "vertical named sequence",
+        "names": [
+          "Salomo",
+          "Rehabeam",
+          "Abia",
+          "Asa",
+          "Josafat",
+          "Joram",
+          "Ahazia",
+          "Joas",
+          "Amazia"
+        ],
+        "note": "De genoemde koninklijke lijn; het volgende schema vervolgt bij Amazia’s zoon Azaria."
+      }
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 3,
+      "verse": 12,
+      "file": "3-azaria-josia.svg",
+      "scene": "De koninklijke lijn, deel 2",
+      "alt": "De koninklijke lijn, deel 2 — 1 Kronieken 3:12–15",
+      "kind": "diagram",
+      "width": 840,
+      "height": 882,
+      "source": "1 Kronieken 3:12–15",
+      "design": {
+        "type": "vertical named sequence",
+        "names": [
+          "Azaria",
+          "Jotham",
+          "Achaz",
+          "Hizkia",
+          "Manasse",
+          "Amon",
+          "Josia"
+        ],
+        "note": "Josia krijgt Johanan, Jojakim, Zedekia en Sallum. Deze vier zijn broers, geen vier opeenvolgende generaties."
+      }
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 3,
+      "verse": 19,
+      "file": "3-zerubbabel-kinderen.svg",
+      "scene": "Zerubbabels kinderen",
+      "alt": "Zerubbabels kinderen — 1 Kronieken 3:19–20",
+      "kind": "diagram",
+      "width": 840,
+      "height": 699,
+      "source": "1 Kronieken 3:19–20",
+      "design": {
+        "type": "parent-child branches",
+        "parent": "Zerubbabel, zoon van Pedaja",
+        "children": [
+          [
+            "Mesullam en Hananja",
+            "Als zonen genoemd; Selomith is hun zus."
+          ],
+          [
+            "Nog vijf kinderen",
+            "Hasuba, Ohel, Berechja, Hasadja en Jusabhesed."
+          ]
+        ],
+        "note": "De vijf uit vers 20 komen naast de drie uit vers 19. Dit hoofdstuk noemt Pedaja als vader van Zerubbabel."
+      }
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 3,
+      "verse": 15,
+      "file": "3-na-wegvoering.svg",
+      "scene": "Na de wegvoering",
+      "alt": "De latere familienamen en een expliciet zichtbaar telverschil in de bron.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1326,
+      "source": "1 Kronieken 3:15–24",
+      "design": {
+        "rows": [
+          [
+            "Josia’s zonen",
+            "Johanan, Jojakim, Zedekia en Sallum."
+          ],
+          [
+            "Jechonia’s familie",
+            "Jechonia, zoon van Jojakim, is weggevoerd; Sealthiël en Pedaja horen bij zijn nakomelingen."
+          ],
+          [
+            "Pedaja",
+            "Zerubbabel en Simeï."
+          ],
+          [
+            "Latere groepen",
+            "Hananja’s zonen Pelatja en Jesaja; families van Refaja, Arnan, Obadja en Sechanja."
+          ],
+          [
+            "Nearja en Eljoënai",
+            "Nearja: Eljoënai, Hizkia en Azrikam. Eljoënai: Hodajeva, Eljasib, Pelaja, Akkub, Johanan, Delaja en Anani."
+          ]
+        ],
+        "note": "De tekst noemt in vers 22 vijf zonen bij de formulering zes in totaal. Er wordt geen ontbrekende naam bij verzonnen."
+      }
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 4,
+      "verse": 5,
+      "file": "4-asschur-twee-vrouwen.svg",
+      "scene": "Asschurs twee gezinstakken",
+      "alt": "Asschurs twee gezinstakken — 1 Kronieken 4:5–7",
+      "kind": "diagram",
+      "width": 840,
+      "height": 627,
+      "source": "1 Kronieken 4:5–7",
+      "design": {
+        "type": "parent-child branches",
+        "parent": "Asschur, vader van Thekoa",
+        "children": [
+          [
+            "Naära",
+            "Ahuzzam, Hefer, Temeni en Haähastari."
+          ],
+          [
+            "Hela",
+            "Zereth, Jezohar en Ethnan."
+          ]
+        ],
+        "note": "De groepen zijn naar moeder onderscheiden; Hela en Naära zijn niet Asschurs dochters."
+      }
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 4,
+      "verse": 24,
+      "file": "4-simeon-simei.svg",
+      "scene": "Van Simeon tot Simeï",
+      "alt": "Van Simeon tot Simeï — 1 Kronieken 4:24–27",
+      "kind": "diagram",
+      "width": 840,
+      "height": 962,
+      "source": "1 Kronieken 4:24–27",
+      "design": {
+        "type": "vertical named sequence",
+        "names": [
+          "Simeon",
+          "Saul",
+          "Sallum",
+          "Mibsam",
+          "Misma",
+          "Hammuël",
+          "Zaccur",
+          "Simeï"
+        ],
+        "note": "Gekozen lijn: Nemuël, Jamin, Jarib en Zerah zijn Sauls broers. Simeï heeft zestien zonen en zes dochters."
+      }
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 4,
+      "verse": 9,
+      "file": "4-gezinnen-en-beroepen.svg",
+      "scene": "Gezinnen, gebed en beroepen",
+      "alt": "Gebed, gecontroleerde korte takken en beroepen in Juda.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1290,
+      "source": "1 Kronieken 4:9–23",
+      "design": {
+        "rows": [
+          [
+            "Jabez",
+            "Bidt om zegen, ruimer gebied, Gods hand en bescherming tegen kwaad en pijn; God geeft wat hij vraagt."
+          ],
+          [
+            "Kenaz",
+            "Othniël en Seraja; Othniëls zoon Hathath; Seraja’s zoon Joab bij het Dal van de Vaklieden."
+          ],
+          [
+            "Kaleb, zoon van Jefunne",
+            "Iru, Ela en Naäm; Ela krijgt Kenaz."
+          ],
+          [
+            "Sela’s families",
+            "Er, Lada en linnenwevers in Beth-Asbea; daarna oude berichten."
+          ],
+          [
+            "De pottenbakkers",
+            "Wonen bij plantages en tuinen en werken voor de koning."
+          ]
+        ],
+        "note": "De genoemde Kenaz, Joab en Kaleb worden alleen met de hier gegeven relaties verbonden."
+      }
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 4,
+      "verse": 34,
+      "file": "4-simeons-trek.svg",
+      "scene": "De trek van Simeons families",
+      "alt": "Motief, tijd, aantallen en namen bij de twee verplaatsingen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1290,
+      "source": "1 Kronieken 4:34–43",
+      "design": {
+        "rows": [
+          [
+            "De leiders",
+            "Families worden groot; de namen staan in het geslachtsregister."
+          ],
+          [
+            "Bij Gedor",
+            "Zij zoeken en vinden goede, rustige weidegrond."
+          ],
+          [
+            "In Hizkia’s tijd",
+            "Zij verdrijven en doden de eerdere bewoners en gaan er wonen."
+          ],
+          [
+            "Naar Seïr",
+            "Vijfhonderd mannen onder Pelatja, Nearja, Refaja en Uzziël, de zonen van Iseï."
+          ],
+          [
+            "De uitkomst",
+            "Zij verslaan de overgebleven Amalekieten en wonen er."
+          ]
+        ],
+        "note": "De rustig gevonden weidegrond betekent niet dat de beschreven vestiging vreedzaam verliep."
+      }
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 5,
+      "verse": 1,
+      "file": "5-oudste-en-vorst.svg",
+      "scene": "Oudste zoon en vorst",
+      "alt": "Het onderscheid tussen Ruben, Jozef en Juda zonder de rollen te vermengen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 969,
+      "source": "1 Kronieken 5:1–3",
+      "design": {
+        "rows": [
+          [
+            "Ruben",
+            "Biologisch de oudste van Israël, maar onteert het bed van zijn vader."
+          ],
+          [
+            "Jozefs zonen",
+            "Ontvangen het recht van de oudste zoon."
+          ],
+          [
+            "Juda",
+            "Wordt machtig onder zijn broers; uit hem komt de vorst."
+          ],
+          [
+            "Rubens zonen",
+            "Hanoch, Pallu, Hezron en Charmi."
+          ]
+        ],
+        "note": "Geboortevolgorde, eerstgeboorterecht en de vorstelijke lijn zijn drie verschillende zaken."
+      }
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 5,
+      "verse": 4,
+      "file": "5-joel-beera.svg",
+      "scene": "Van Joël tot Beëra",
+      "alt": "Van Joël tot Beëra — 1 Kronieken 5:4–6",
+      "kind": "diagram",
+      "width": 840,
+      "height": 996,
+      "source": "1 Kronieken 5:4–6",
+      "design": {
+        "type": "vertical named sequence",
+        "names": [
+          "Joël",
+          "Semaja",
+          "Gog",
+          "Simeï",
+          "Micha",
+          "Reaja",
+          "Baäl",
+          "Beëra"
+        ],
+        "note": "Beëra is leider van de Rubenieten en wordt door Tiglath-Pilneser weggevoerd. Andere gelijknamigen worden niet in deze lijn ingevoegd."
+      }
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 5,
+      "verse": 11,
+      "file": "5-oostelijke-stammen.svg",
+      "scene": "Drie oostelijke stamgroepen",
+      "alt": "Gebieden, aantallen en het verschil tussen hulp en later oordeel.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1369,
+      "source": "1 Kronieken 5:11–26",
+      "design": {
+        "rows": [
+          [
+            "Gad",
+            "In Basan tot Salcha; Joël en Safam vooraan genoemd; registratie onder Jotham en Jerobeam."
+          ],
+          [
+            "Ruben, Gad en half Manasse",
+            "44.760 geoefende soldaten; roepen God aan en ontvangen hulp tegen Hagarenen en bondgenoten."
+          ],
+          [
+            "De buit",
+            "50.000 kamelen, 250.000 schapen, 2.000 ezels en 100.000 gevangenen."
+          ],
+          [
+            "Half Manasse",
+            "Van Basan tot Baäl-Hermon, Senir en Hermon; zeven familiehoofden genoemd."
+          ],
+          [
+            "Latere ontrouw en ballingschap",
+            "Naar Halah, Habor, Hara en de Gozan weggevoerd."
+          ]
+        ],
+        "note": "De eerdere overwinning en de latere wegvoering staan als afzonderlijke fasen in hetzelfde hoofdstuk."
+      }
+    }
+  ]
+}
