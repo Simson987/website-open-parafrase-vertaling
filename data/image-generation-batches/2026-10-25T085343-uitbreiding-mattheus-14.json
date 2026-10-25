@@ -1,0 +1,164 @@
+{
+  "date": "2026-10-25",
+  "started": "2026-10-25T08:53:43Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "mattheus",
+      "chapter": 14,
+      "verse": 12,
+      "file": "14-12-leerlingen-berichten-verdieping.webp",
+      "scene": "Johannes’ leerlingen berichten Jezus",
+      "alt": "Johannes’ leerlingen berichten Jezus — Mattheüs 14:12; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. Two fully robed ancient adult male disciples solemnly tell a fully robed adult bearded Jewish teacher sad news in a plain Galilean setting, natural bodies and arms, no corpse, execution, platter, wound or violence.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "mattheus",
+      "chapter": 14,
+      "verse": 14,
+      "file": "14-14-ontferming-aan-oever-verdieping.webp",
+      "scene": "Jezus ontfermt zich over de menigte",
+      "alt": "Jezus ontfermt zich over de menigte — Mattheüs 14:14; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. A fully robed bearded adult Jewish teacher compassionately meets a fully clothed group of tired adults including someone seated with a walking cane beside a small ancient boat on a lakeshore, no food distribution, wounds, modern crutch or extra limbs.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "mattheus",
+      "chapter": 14,
+      "verse": 20,
+      "file": "14-20-twaalf-manden-verdieping.webp",
+      "scene": "Na de maaltijd: twaalf manden",
+      "alt": "Na de maaltijd: twaalf manden — Mattheüs 14:20; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. Exactly twelve separate woven baskets arranged in three rows of four on grass, every basket contains leftover pieces of flatbread, no extra basket, people, labels or numeral text; natural ancient Galilean lakeside.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "mattheus",
+      "chapter": 14,
+      "verse": 31,
+      "file": "14-31-petrus-gegrepen-verdieping.webp",
+      "scene": "Jezus grijpt Petrus vast",
+      "alt": "Jezus grijpt Petrus vast — Mattheüs 14:31; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. A fully robed adult Jewish teacher stands steadily on choppy lake water reaching one hand down to firmly grasp the forearm of an adult disciple partly sinking in water up to his waist, the disciple fully clothed with wet opaque robes, a simple ancient boat nearby. Two separate normal human bodies with exactly two arms each, physically clear hand grip, no duplicate hand, hovering feet, drowning injury or modern boat.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "mattheus",
+      "chapter": 14,
+      "verse": 36,
+      "file": "14-36-gennesaret-zoom-verdieping.webp",
+      "scene": "Bij Gennesaret: de zoom aanraken",
+      "alt": "Bij Gennesaret: de zoom aanraken — Mattheüs 14:36; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. A fully robed adult bearded Jewish teacher meets fully clothed sick adults on an ancient Galilean shore near a village, one fully clothed adult respectfully reaches to touch the lower hem of his robe, separate normal bodies, no women exposing bodies, gore, crowds piled together, magical rays or modern objects.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "mattheus",
+      "chapter": 14,
+      "verse": 1,
+      "file": "14-leeswijzer.svg",
+      "scene": "Verdriet, ontferming en vertrouwen",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1121,
+      "source": "Mattheüs 14:1–36",
+      "design": {
+        "rows": [
+          [
+            "Johannes · 1–12",
+            "Herodes’ gedachte over Jezus; terugblik gevangenis, Herodias/dochter en eed, dood; leerlingen begraven en berichten Jezus."
+          ],
+          [
+            "De maaltijd · 13–21",
+            "Afzondering per schip, menigte te voet, ontferming/genezing; vijf broden/twee vissen, zegen/uitdelen en twaalf manden over."
+          ],
+          [
+            "Meer en overkant · 22–36",
+            "Leerlingen varen, Jezus alleen bidden, wind en waterlopen; Petrus vreest/roept/gegrepen, wind stil en belijdenis; Gennesaret/zoom."
+          ]
+        ],
+        "note": "Beeldspraak, klacht, herinnering en belofte volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "mattheus",
+      "chapter": 14,
+      "verse": 17,
+      "file": "14-maaltijd-aantallen.svg",
+      "scene": "De genoemde aantallen",
+      "alt": "De genoemde aantallen met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1012,
+      "source": "Mattheüs 14:17–21",
+      "design": {
+        "rows": [
+          [
+            "Aan het begin · 17",
+            "Vijf broden en twee vissen."
+          ],
+          [
+            "De handeling · 19",
+            "Menigte in gras, omhoog kijken en zegen, breken, aan leerlingen en zij delen uit."
+          ],
+          [
+            "Wat overbleef · 20",
+            "Twaalf manden vol stukken."
+          ],
+          [
+            "De eters · 21",
+            "Ongeveer vijfduizend mannen, naast vrouwen en kinderen."
+          ]
+        ],
+        "note": "Vrouwen en kinderen niet meegerekend in de vijfduizend; geen totaal aantal verzonnen."
+      }
+    },
+    {
+      "book": "mattheus",
+      "chapter": 14,
+      "verse": 28,
+      "file": "14-petrus-volgorde.svg",
+      "scene": "Petrus: de volgorde",
+      "alt": "Petrus: de volgorde met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "Mattheüs 14:28–33",
+      "design": {
+        "rows": [
+          [
+            "Vraag en antwoord · 28–29",
+            "Als U het bent, geef opdracht; Kom. Uit boot en over water."
+          ],
+          [
+            "Angst en roep · 30",
+            "Ziet sterke wind, bang, begint te zinken; Heere, red mij."
+          ],
+          [
+            "Greep en vraag · 31",
+            "Jezus grijpt meteen; kleingeloof en twijfel aangesproken."
+          ],
+          [
+            "In het schip · 32–33",
+            "Wind gaat liggen; aanbidding en Gods Zoon beleden."
+          ]
+        ],
+        "note": "De reddingsgreep volgt op de roep; de wind ligt pas stil wanneer zij in de boot zijn."
+      }
+    }
+  ]
+}
