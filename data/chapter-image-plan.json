@@ -14841,6 +14841,241 @@
       "target_images": 3,
       "reason": "Vast land, bruisende rivier en heilig huis dekken de vijf verzen met drie beelden; een extra waterlandschap zou herhalen.",
       "additions": []
+    },
+    {
+      "book": "psalmen",
+      "chapter": 102,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Bidder, dakvogel en puin zijn aanwezig. Het versleten kleed is een andere vergelijking; een schema legt het verband met Sion, gevangenen en blijvende jaren.",
+      "additions": [
+        {
+          "verse": 27,
+          "scene": "Beeldspraak: verslijten als een kledingstuk",
+          "kind": "poetic",
+          "file": "102-27-versleten-kleed-verdieping.webp"
+        },
+        {
+          "verse": 4,
+          "file": "102-kort-leven-blijvende-trouw.svg",
+          "scene": "Kort leven, blijvende trouw",
+          "kind": "diagram",
+          "source": "Psalm 102:4–29"
+        }
+      ]
+    },
+    {
+      "book": "psalmen",
+      "chapter": 104,
+      "status": "reviewed",
+      "target_images": 9,
+      "reason": "Drinkende ezels, bergdieren en vissen zijn aanwezig. Voedselgaven, ooievaarsnest, nachtleeuwen, dagwerker en schepen zijn vijf andere tekstmotieven; een schema verbindt leefplekken, tijden en afhankelijkheid.",
+      "additions": [
+        {
+          "verse": 15,
+          "scene": "Gaven van de aarde: brood, wijn en olie",
+          "kind": "poetic",
+          "file": "104-15-brood-wijn-olie-verdieping.webp"
+        },
+        {
+          "verse": 17,
+          "scene": "Poëtisch natuurmotief: een ooievaarsnest",
+          "kind": "poetic",
+          "file": "104-17-ooievaar-verdieping.webp"
+        },
+        {
+          "verse": 21,
+          "scene": "Poëtisch natuurmotief: jonge leeuwen in de nacht",
+          "kind": "poetic",
+          "file": "104-21-jonge-leeuwen-verdieping.webp"
+        },
+        {
+          "verse": 23,
+          "scene": "Poëtisch natuurmotief: de mens gaat aan het werk",
+          "kind": "poetic",
+          "file": "104-23-dagwerk-verdieping.webp"
+        },
+        {
+          "verse": 26,
+          "scene": "Poëtisch natuurmotief: schepen op de wijde zee",
+          "kind": "poetic",
+          "file": "104-26-schepen-verdieping.webp"
+        },
+        {
+          "verse": 10,
+          "file": "104-leefplekken-en-ritme.svg",
+          "scene": "Leefplekken en ritme",
+          "kind": "diagram",
+          "source": "Psalm 104:10–30"
+        }
+      ]
+    },
+    {
+      "book": "psalmen",
+      "chapter": 105,
+      "status": "reviewed",
+      "target_images": 9,
+      "reason": "Reizende aartsvaders, Mozes en Aäron en rotswater zijn aanwezig. Jozefs twee fasen, duisternis en sprinkhanen voegen vier herinneringen toe. Een verbondsketen en leeswijzer bewaken namen, verband en slotdoel.",
+      "additions": [
+        {
+          "verse": 18,
+          "scene": "Herinnering: Jozef in gevangenschap",
+          "kind": "poetic",
+          "file": "105-18-jozef-gevangen-verdieping.webp"
+        },
+        {
+          "verse": 21,
+          "scene": "Herinnering: Jozef aangesteld als beheerder",
+          "kind": "poetic",
+          "file": "105-21-jozef-beheer-verdieping.webp"
+        },
+        {
+          "verse": 28,
+          "scene": "Herinnerde tekenen: duisternis",
+          "kind": "poetic",
+          "file": "105-28-duisternis-verdieping.webp"
+        },
+        {
+          "verse": 34,
+          "scene": "Herinnerde tekenen: sprinkhanen op de akker",
+          "kind": "poetic",
+          "file": "105-34-sprinkhanen-verdieping.webp"
+        },
+        {
+          "verse": 9,
+          "file": "105-verbond-en-nakomelingen.svg",
+          "scene": "Verbond en nakomelingen",
+          "kind": "diagram",
+          "source": "Psalm 105:6–11"
+        },
+        {
+          "verse": 16,
+          "file": "105-van-belofte-naar-bewaren.svg",
+          "scene": "Van belofte naar bewaren",
+          "kind": "diagram",
+          "source": "Psalm 105:8–45"
+        }
+      ]
+    },
+    {
+      "book": "psalmen",
+      "chapter": 106,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Zee, kalf en bijeenbrengen zijn aanwezig. Voorbede en gemopper vormen onderscheiden herinneringen; een leeswijzer houdt de schuldbelijdenis en ernstige aanklacht in hun verband.",
+      "additions": [
+        {
+          "verse": 23,
+          "scene": "Herinnering: Mozes pleit voor het volk",
+          "kind": "poetic",
+          "file": "106-23-mozes-voorbede-verdieping.webp"
+        },
+        {
+          "verse": 25,
+          "scene": "Herinnering: mopperen in de tenten",
+          "kind": "poetic",
+          "file": "106-25-mopperen-tenten-verdieping.webp"
+        },
+        {
+          "verse": 6,
+          "file": "106-wij-en-onze-voorouders.svg",
+          "scene": "Wij en onze voorouders",
+          "kind": "diagram",
+          "source": "Psalm 106:6–48"
+        }
+      ]
+    },
+    {
+      "book": "psalmen",
+      "chapter": 107,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Verdwaalden, zeevaarders en haven zijn aanwezig. Gevangenen en zieken missen nog een eigen beeld. Het refreinschema maakt de vier bevrijdingsgroepen en de overeenkomstige oproepen zichtbaar.",
+      "additions": [
+        {
+          "verse": 14,
+          "scene": "Bevrijdingsmotief: uit het donker gehaald",
+          "kind": "poetic",
+          "file": "107-14-uit-het-donker-verdieping.webp"
+        },
+        {
+          "verse": 20,
+          "scene": "Bevrijdingsmotief: herstel na ziekte",
+          "kind": "poetic",
+          "file": "107-20-herstel-verdieping.webp"
+        },
+        {
+          "verse": 4,
+          "file": "107-vier-keer-roepen-en-danken.svg",
+          "scene": "Vier keer roepen en danken",
+          "kind": "diagram",
+          "source": "Psalm 107:4–32"
+        }
+      ]
+    },
+    {
+      "book": "psalmen",
+      "chapter": 99,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "Lof, vergeving en buigen zijn aanwezig. Een schema verbindt de heiligheidsrefreinen met recht en de drie afzonderlijk herinnerde personen.",
+      "additions": [
+        {
+          "verse": 3,
+          "file": "99-heilig-en-rechtvaardig.svg",
+          "scene": "Heilig en rechtvaardig",
+          "kind": "diagram",
+          "source": "Psalm 99:1–9"
+        }
+      ]
+    },
+    {
+      "book": "psalmen",
+      "chapter": 101,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "Zang, eigen huis en trouwe gasten zijn aanwezig. Een schema verbindt dit met roddel, bedrog en de bestuurstaak in de stad.",
+      "additions": [
+        {
+          "verse": 2,
+          "file": "101-huis-en-stad.svg",
+          "scene": "Huis en stad",
+          "kind": "diagram",
+          "source": "Psalm 101:2–8"
+        }
+      ]
+    },
+    {
+      "book": "psalmen",
+      "chapter": 103,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "Adelaar, vader en veldbloem zijn aanwezig. Een schema brengt de vergeten weldaden, verdere vergelijkingen en de omvattende slotlof bijeen.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "103-loof-en-vergeet-niet.svg",
+          "scene": "Loof en vergeet niet",
+          "kind": "diagram",
+          "source": "Psalm 103:1–22"
+        }
+      ]
+    },
+    {
+      "book": "psalmen",
+      "chapter": 98,
+      "status": "reviewed",
+      "target_images": 3,
+      "reason": "Zang, trompetten en ramshoorn en de juichende rivier zijn aanwezig. Zij dekken de negen verzen; een tweede muziek- of rivierbeeld voegt weinig toe.",
+      "additions": []
+    },
+    {
+      "book": "psalmen",
+      "chapter": 100,
+      "status": "reviewed",
+      "target_images": 3,
+      "reason": "Vreugdedienst, kudde en dank bij de poort dekken het korte lied. Drie volstaan zonder herhaalde zangscène.",
+      "additions": []
     }
   ]
 }
