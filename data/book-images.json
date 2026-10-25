@@ -33353,13 +33353,21 @@
         "chapter": 1,
         "file": "1-jordan.webp",
         "alt": "Johannes de Doper spreekt bij de Jordaan tot een groep mensen",
-        "scene": "Johannes bij de Jordaan"
+        "scene": "Johannes bij de Jordaan",
+        "verse": 4,
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 4,
         "file": "4-boat.webp",
         "alt": "Jezus en zijn leerlingen varen op het Meer van Galilea na de storm",
-        "scene": "De stilte na de storm"
+        "scene": "De stilte na de storm",
+        "verse": 39,
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 10,
@@ -33372,91 +33380,130 @@
         "verse": 17,
         "file": "1-17.webp",
         "alt": "Beeld bij Markus 1: Vissers worden geroepen",
-        "scene": "Vissers worden geroepen"
+        "scene": "Vissers worden geroepen",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 1,
         "verse": 35,
         "file": "1-35.webp",
         "alt": "Beeld bij Markus 1: Bidden voor zonsopgang",
-        "scene": "Bidden voor zonsopgang"
+        "scene": "Bidden voor zonsopgang",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 2,
         "verse": 4,
         "file": "2-4.webp",
         "alt": "Beeld bij Markus 2: Door het dak naar Jezus",
-        "scene": "Door het dak naar Jezus"
+        "scene": "Door het dak naar Jezus",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 2,
         "verse": 14,
         "file": "2-14.webp",
         "alt": "Beeld bij Markus 2: Levi verlaat het tolhuis",
-        "scene": "Levi verlaat het tolhuis"
+        "scene": "Levi verlaat het tolhuis",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 2,
         "verse": 22,
         "file": "2-22.webp",
         "alt": "Beeld bij Markus 2: Nieuwe leren wijnzakken",
-        "scene": "Nieuwe leren wijnzakken"
+        "scene": "Nieuwe leren wijnzakken",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 3,
         "verse": 5,
         "file": "3-5.webp",
         "alt": "Beeld bij Markus 3: Een gezonde uitgestrekte hand",
-        "scene": "Een gezonde uitgestrekte hand"
+        "scene": "Een gezonde uitgestrekte hand",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 3,
         "verse": 14,
         "file": "3-14.webp",
         "alt": "Beeld bij Markus 3: Jezus stelt leerlingen aan",
-        "scene": "Jezus stelt leerlingen aan"
+        "scene": "Jezus stelt leerlingen aan",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 3,
         "verse": 35,
         "file": "3-35.webp",
         "alt": "Beeld bij Markus 3: Een nieuwe familie",
-        "scene": "Een nieuwe familie"
+        "scene": "Een nieuwe familie",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 4,
         "verse": 21,
         "file": "4-21.webp",
         "alt": "Beeld bij Markus 4: De lamp op de standaard",
-        "scene": "De lamp op de standaard"
+        "scene": "De lamp op de standaard",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 4,
         "verse": 28,
         "file": "4-28.webp",
         "alt": "Beeld bij Markus 4: Graan groeit vanzelf",
-        "scene": "Graan groeit vanzelf"
+        "scene": "Graan groeit vanzelf",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 5,
         "verse": 15,
         "file": "5-15.webp",
         "alt": "Beeld bij Markus 5: Gekleed en tot rust gekomen",
-        "scene": "Gekleed en tot rust gekomen"
+        "scene": "Gekleed en tot rust gekomen",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 5,
         "verse": 27,
         "file": "5-27.webp",
         "alt": "Beeld bij Markus 5: De vrouw raakt zijn kleed aan",
-        "scene": "De vrouw raakt zijn kleed aan"
+        "scene": "De vrouw raakt zijn kleed aan",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 5,
         "verse": 41,
         "file": "5-41.webp",
         "alt": "Beeld bij Markus 5: Meisje sta op",
-        "scene": "Meisje sta op"
+        "scene": "Meisje sta op",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 6,
@@ -33681,6 +33728,266 @@
         "file": "16-15.webp",
         "alt": "Beeld bij Markus 16: Verkondig aan iedereen",
         "scene": "Verkondig aan iedereen"
+      },
+      {
+        "chapter": 1,
+        "verse": 9,
+        "file": "1-9-jezus-doop-verdieping.webp",
+        "scene": "Johannes doopt Jezus",
+        "alt": "Johannes doopt Jezus — Markus 1:9; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 1,
+        "verse": 20,
+        "file": "1-20-zebedeus-dagloners-verdieping.webp",
+        "scene": "Zebedeüs en de dagloners blijven",
+        "alt": "Zebedeüs en de dagloners blijven — Markus 1:20; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 1,
+        "verse": 25,
+        "file": "1-25-synagoge-bevrijding-verdieping.webp",
+        "scene": "Jezus spreekt de man toe",
+        "alt": "Jezus spreekt de man toe — Markus 1:25; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 1,
+        "verse": 31,
+        "file": "1-31-schoonmoeder-hand-verdieping.webp",
+        "scene": "Jezus helpt Simons schoonmoeder",
+        "alt": "Jezus helpt Simons schoonmoeder — Markus 1:31; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 1,
+        "verse": 41,
+        "file": "1-41-man-rein-verdieping.webp",
+        "scene": "Jezus raakt de man aan",
+        "alt": "Jezus raakt de man aan — Markus 1:41; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 2,
+        "verse": 12,
+        "file": "2-12-slaapmat-dragen-verdieping.webp",
+        "scene": "De man draagt zijn slaapmat weg",
+        "alt": "De man draagt zijn slaapmat weg — Markus 2:12; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 2,
+        "verse": 15,
+        "file": "2-15-levi-maaltijd-verdieping.webp",
+        "scene": "De maaltijd in Levi’s huis",
+        "alt": "De maaltijd in Levi’s huis — Markus 2:15; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 2,
+        "verse": 23,
+        "file": "2-23-aren-sabbat-verdieping.webp",
+        "scene": "De leerlingen plukken aren",
+        "alt": "De leerlingen plukken aren — Markus 2:23; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 3,
+        "verse": 9,
+        "file": "3-9-bootje-gereed-verdieping.webp",
+        "scene": "De leerlingen houden een boot gereed",
+        "alt": "De leerlingen houden een boot gereed — Markus 3:9; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 3,
+        "verse": 31,
+        "file": "3-31-familie-buiten-verdieping.webp",
+        "scene": "Moeder en broers blijven buiten",
+        "alt": "Moeder en broers blijven buiten — Markus 3:31; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 4,
+        "verse": 1,
+        "file": "4-1-boot-onderwijs-verdieping.webp",
+        "scene": "Jezus onderwijst vanuit het schip",
+        "alt": "Jezus onderwijst vanuit het schip — Markus 4:1; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 4,
+        "verse": 3,
+        "file": "4-3-zaaier-verdieping.webp",
+        "scene": "Gelijkenis: de zaaier",
+        "alt": "Gelijkenis: de zaaier — Markus 4:3; tekstillustratie.",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 4,
+        "verse": 31,
+        "file": "4-31-mosterd-groei-verdieping.webp",
+        "scene": "Gelijkenis: mosterd met vogels",
+        "alt": "Gelijkenis: mosterd met vogels — Markus 4:31; tekstillustratie.",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 4,
+        "verse": 38,
+        "file": "4-38-slapen-kussen-verdieping.webp",
+        "scene": "Jezus slaapt op het kussen",
+        "alt": "Jezus slaapt op het kussen — Markus 4:38; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 5,
+        "verse": 19,
+        "file": "5-19-man-naar-huis-verdieping.webp",
+        "scene": "De bevrijde man gaat naar huis",
+        "alt": "De bevrijde man gaat naar huis — Markus 5:19; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 5,
+        "verse": 22,
+        "file": "5-22-jairus-knielt-verdieping.webp",
+        "scene": "Jaïrus vraagt Jezus om hulp",
+        "alt": "Jaïrus vraagt Jezus om hulp — Markus 5:22; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 5,
+        "verse": 33,
+        "file": "5-33-vrouw-vertelt-verdieping.webp",
+        "scene": "De vrouw vertelt Jezus de waarheid",
+        "alt": "De vrouw vertelt Jezus de waarheid — Markus 5:33; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 5,
+        "verse": 43,
+        "file": "5-43-meisje-eten-verdieping.webp",
+        "scene": "Eten voor het meisje",
+        "alt": "Brood en water bij een bed — Markus 5:43; illustratie bij de opdracht het meisje te eten te geven.",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 1,
+        "verse": 1,
+        "file": "1-leeswijzer.svg",
+        "scene": "Begin, roeping en ontferming",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1035
+      },
+      {
+        "chapter": 2,
+        "verse": 1,
+        "file": "2-leeswijzer.svg",
+        "scene": "Vergeving, tafel en sabbat",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 992
+      },
+      {
+        "chapter": 3,
+        "verse": 1,
+        "file": "3-leeswijzer.svg",
+        "scene": "Goeddoen, twaalf en familie",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 992
+      },
+      {
+        "chapter": 4,
+        "verse": 1,
+        "file": "4-leeswijzer.svg",
+        "scene": "Horen, groeien en vertrouwen",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1035
+      },
+      {
+        "chapter": 5,
+        "verse": 1,
+        "file": "5-leeswijzer.svg",
+        "scene": "Bevrijding en twee dochters",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1035
+      },
+      {
+        "chapter": 3,
+        "verse": 16,
+        "file": "3-twaalf-namen.svg",
+        "scene": "Namen en bijnamen van de twaalf",
+        "alt": "Namen en bijnamen van de twaalf met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1012
+      },
+      {
+        "chapter": 4,
+        "verse": 14,
+        "file": "4-vier-gronden.svg",
+        "scene": "Vier gronden en het woord",
+        "alt": "Vier gronden en het woord met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1012
+      },
+      {
+        "chapter": 5,
+        "verse": 21,
+        "file": "5-verweven-verhalen.svg",
+        "scene": "De twee verhalen onderweg",
+        "alt": "De twee verhalen onderweg met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1055
       }
     ],
     "johannes": [
