@@ -1,0 +1,610 @@
+{
+  "date": "2026-10-24",
+  "started": "2026-10-24T23:31:06Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "1kronieken",
+      "chapter": 9,
+      "verse": 28,
+      "scene": "Levieten tellen het gerei",
+      "alt": "Levieten tellen het gerei — 1 Kronieken 9:28",
+      "kind": "scene",
+      "file": "9-28-inhoudelijk.webp",
+      "prompt": "Use case: historical scene. Photorealistic educational Bible illustration, landscape 3:2, ancient Jerusalem temple service. Fully modest woven robes, natural hands and exactly two arms each. No modern objects, Roman armor, readable writing, watermark, visible deity, nudity, blood or violence. Adult Levite attendants in simple ancient robes carefully count bronze and wooden service vessels on a table as they carry them in and out of a storeroom; ceramic jars and shelves, orderly inventory, no readable account or modern equipment.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 9,
+      "verse": 30,
+      "scene": "Priesterzonen bereiden de specerijen",
+      "alt": "Priesterzonen bereiden de specerijen — 1 Kronieken 9:30",
+      "kind": "scene",
+      "file": "9-30-inhoudelijk.webp",
+      "prompt": "Use case: historical scene. Photorealistic educational Bible illustration, landscape 3:2, ancient Jerusalem temple service. Fully modest woven robes, natural hands and exactly two arms each. No modern objects, Roman armor, readable writing, watermark, visible deity, nudity, blood or violence. Fully robed adult priestly sons grind fragrant spices with a stone mortar and prepare an aromatic mixture in small ancient bowls in a temple workroom, natural precise hands, no modern bottles, distillation laboratory, labels or burning incense altar.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 6,
+      "verse": 1,
+      "file": "6-levi-drie-takken.svg",
+      "scene": "Levi’s drie familietakken",
+      "alt": "Levi’s drie familietakken — 1 Kronieken 6:1–3, 16–19",
+      "kind": "diagram",
+      "width": 840,
+      "height": 864,
+      "source": "1 Kronieken 6:1–3, 16–19",
+      "design": {
+        "type": "parent-child branches",
+        "parent": "Levi",
+        "children": [
+          [
+            "Gerson",
+            "Zonen: Libni en Simeï."
+          ],
+          [
+            "Kahath",
+            "Zonen: Amram, Jizhar, Hebron en Uzziël. Amrams kinderen: Aäron, Mozes en Mirjam."
+          ],
+          [
+            "Merari",
+            "Zonen: Maheli en Musi."
+          ]
+        ],
+        "note": "Aäron, Mozes en Mirjam zijn drie kinderen van Amram; alleen Aärons zonen vormen de hier genoemde priesterlijn."
+      }
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 6,
+      "verse": 3,
+      "file": "6-aaron-ahimaaz.svg",
+      "scene": "Priesterlijn, eerste deel",
+      "alt": "Priesterlijn, eerste deel — 1 Kronieken 6:3–8",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1282,
+      "source": "1 Kronieken 6:3–8",
+      "design": {
+        "type": "vertical named sequence",
+        "names": [
+          "Aäron",
+          "Eleazar",
+          "Pinehas",
+          "Abisua",
+          "Bukki",
+          "Uzzi",
+          "Zerahja",
+          "Merajoth",
+          "Amarja",
+          "Ahitub",
+          "Zadok",
+          "Ahimaäz"
+        ],
+        "note": "Gekozen lijn door Eleazar. Nadab, Abihu en Ithamar zijn zijn broers; het volgende schema sluit aan bij Ahimaäz."
+      }
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 6,
+      "verse": 9,
+      "file": "6-ahimaaz-jozadak.svg",
+      "scene": "Priesterlijn, tweede deel",
+      "alt": "Priesterlijn, tweede deel — 1 Kronieken 6:9–15",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1282,
+      "source": "1 Kronieken 6:9–15",
+      "design": {
+        "type": "vertical named sequence",
+        "names": [
+          "Ahimaäz",
+          "Azarja",
+          "Johanan",
+          "Azarja",
+          "Amarja",
+          "Ahitub",
+          "Zadok",
+          "Sallum",
+          "Hilkia",
+          "Azarja",
+          "Seraja",
+          "Jozadak"
+        ],
+        "note": "Herhaalde namen blijven aparte generaties. Jozadak wordt weggevoerd bij de ballingschap door Nebukadnezar."
+      }
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 6,
+      "verse": 31,
+      "file": "6-zangers-en-dienst.svg",
+      "scene": "Drie zangers en hun families",
+      "alt": "De drie zangers met hun gecontroleerde herkomst en taken.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1412,
+      "source": "1 Kronieken 6:31–49",
+      "design": {
+        "rows": [
+          [
+            "Heman: Kahath",
+            "Zoon van Joël, zoon van Samuël; zijn lange afstamming loopt via Korah en Jizhar naar Kahath."
+          ],
+          [
+            "Asaf rechts: Gerson",
+            "Zoon van Berechja, zoon van Simea; de reeks eindigt via Jahath bij Gerson en Levi."
+          ],
+          [
+            "Ethan links: Merari",
+            "Zoon van Kisi, zoon van Abdi; de reeks loopt via Maheli en Musi naar Merari."
+          ],
+          [
+            "De taak",
+            "Zang bij de ontmoetingstent tot Salomo de tempel bouwt."
+          ],
+          [
+            "De priesters",
+            "Aäron en zijn zonen bij de altaren en de verzoening; andere Levieten hebben overige taken."
+          ]
+        ],
+        "note": "Rechts en links volgen de opstelling in de tekst. Zangers en priesters worden niet als dezelfde taak voorgesteld."
+      }
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 6,
+      "verse": 54,
+      "file": "6-levieten-steden-a.svg",
+      "scene": "Steden voor Aäron en Kahath",
+      "alt": "De twee onderscheiden groepen binnen Kahaths families en hun woonrechten.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1369,
+      "source": "1 Kronieken 6:54–70",
+      "design": {
+        "rows": [
+          [
+            "Aärons families",
+            "Het eerste lot; dertien steden genoemd."
+          ],
+          [
+            "Hebron",
+            "Stad en weidegronden voor hen; de akkers en dorpen voor Kaleb, zoon van Jefunne."
+          ],
+          [
+            "Juda en Benjamin",
+            "Onder meer Libna, Jattir, Esthemoa, Debir, Asan, Beth-Semes, Geba, Allemeth en Anathoth."
+          ],
+          [
+            "Overige Kahathieten",
+            "Tien steden; onder meer Sichem, Gezer, Jokmeam, Beth-Horon, Ajalon en Gath-Rimmon."
+          ],
+          [
+            "Half Manasse",
+            "Aner en Bileam met weidegronden bij de overige Kahathieten."
+          ]
+        ],
+        "note": "De lijsten worden geselecteerd weergegeven; stadsgrond en Kalebs akkers worden niet als hetzelfde bezit getekend."
+      }
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 6,
+      "verse": 71,
+      "file": "6-levieten-steden-b.svg",
+      "scene": "Steden voor Gerson en Merari",
+      "alt": "Toewijzende stammen, aantallen en geselecteerde stadsnamen voor de andere Levieten.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1134,
+      "source": "1 Kronieken 6:62–63, 71–81",
+      "design": {
+        "rows": [
+          [
+            "Gerson: dertien steden",
+            "Uit Issaschar, Aser, Nafthali en Manasse in Basan."
+          ],
+          [
+            "Voorbeelden bij Gerson",
+            "Golan, Astharoth, Kedes, Dobrath, Ramoth, Anem, Masal, Abdon, Hukok, Rehob, Hammon en Kirjathaim."
+          ],
+          [
+            "Merari: twaalf steden",
+            "Uit Ruben, Gad en Zebulon."
+          ],
+          [
+            "Voorbeelden bij Merari",
+            "Rimmono, Thabor, Bezer, Jahza, Kedemoth, Mefaath, Ramoth in Gilead, Mahanaïm, Hesbon en Jaëzer."
+          ]
+        ],
+        "note": "De namen Ramoth en Kedes komen met verschillende gebiedsaanduidingen voor. Elk genoemde stad heeft weidegronden."
+      }
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 7,
+      "verse": 1,
+      "file": "7-issaschar-benjamin.svg",
+      "scene": "Issaschar en Benjamin",
+      "alt": "De takken en verschillende telgroepen in de eerste lijsten.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1177,
+      "source": "1 Kronieken 7:1–13",
+      "design": {
+        "rows": [
+          [
+            "Issaschar",
+            "Thola, Pua, Jasib en Simron. Bij Thola 22.600; alle Issascharfamilies samen 87.000 dappere mannen."
+          ],
+          [
+            "Uzzi en Jizrahja",
+            "Uzzi → Jizrahja; diens zonen Michaël, Obadja, Joël en Jisia; vijf hoofden met hun vader meegerekend."
+          ],
+          [
+            "Benjamin",
+            "Bela, Becher en Jediael; de drie takken hebben 22.034, 20.200 en 17.200 mannen."
+          ],
+          [
+            "Nafthali",
+            "Jahziël, Guni, Jezer en Sallum; nakomelingen van Bilha."
+          ]
+        ],
+        "note": "Aantallen van deelgroepen worden niet bij hun eigen stamtotalen opgeteld. De zoon Benjamin bij Bilhan is een naamgenoot."
+      }
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 7,
+      "verse": 14,
+      "file": "7-manasse-efraim.svg",
+      "scene": "Manasse en Efraïm",
+      "alt": "Familietakken, rouw, een bouwster en de afsluitende lijn naar Jozua.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1247,
+      "source": "1 Kronieken 7:14–29",
+      "design": {
+        "rows": [
+          [
+            "Manasse",
+            "Asriël; bij de Syrische bijvrouw Machir, vader van Gilead."
+          ],
+          [
+            "Maächa en Machir",
+            "Peres; zijn broer Seres met zonen Ulam en Rekem; Ulam krijgt Bedan."
+          ],
+          [
+            "Efraïms verdriet",
+            "Doden bij Gath; langdurige rouw en troost; daarna de geboorte van Beria."
+          ],
+          [
+            "Seëra",
+            "Bouwt Beneden-Beth-Horon, Boven-Beth-Horon en Uzzen-Seëra."
+          ],
+          [
+            "De latere lijn",
+            "Telah → Tahan → Ladan → Ammihud → Elisama → Non → Jozua."
+          ]
+        ],
+        "note": "De vele naamgenoten blijven in hun eigen families. Seëra is een genoemde bouwende vrouw."
+      }
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 7,
+      "verse": 30,
+      "file": "7-aser-kinderen.svg",
+      "scene": "Aser en zijn nakomelingen",
+      "alt": "Aser en zijn nakomelingen — 1 Kronieken 7:30–40",
+      "kind": "diagram",
+      "width": 840,
+      "height": 775,
+      "source": "1 Kronieken 7:30–40",
+      "design": {
+        "type": "parent-child branches",
+        "parent": "Aser",
+        "children": [
+          [
+            "Jimna, Jisva en Jisvi",
+            "Als zonen genoemd; Sera is hun zus."
+          ],
+          [
+            "Beria",
+            "Zonen Heber en Malchiël. Malchiël is vader van Birzavith. Heber krijgt Jaflet, Somer en Hotham, en hun zus Sua."
+          ]
+        ],
+        "note": "Het hoofdstuk noemt bij de geslachtsregisters van Aser 26.000 strijdbare mannen. Beria in Efraïms verhaal is een naamgenoot."
+      }
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 8,
+      "verse": 33,
+      "file": "8-sauls-kinderen.svg",
+      "scene": "Saul en zijn kinderen",
+      "alt": "Saul en zijn kinderen — 1 Kronieken 8:33–35",
+      "kind": "diagram",
+      "width": 840,
+      "height": 915,
+      "source": "1 Kronieken 8:33–35",
+      "design": {
+        "type": "parent-child branches",
+        "parent": "Saul, zoon van Kis",
+        "children": [
+          [
+            "Jonathan",
+            "Zijn zoon Merib-Baäl krijgt Micha."
+          ],
+          [
+            "Malchi-Sua",
+            "Zoon van Saul."
+          ],
+          [
+            "Abinadab",
+            "Zoon van Saul."
+          ],
+          [
+            "Esbaäl",
+            "Zoon van Saul."
+          ]
+        ],
+        "note": "Ner is Kis’ vader. De vier vakken zijn Sauls zonen; Micha hoort twee generaties na Jonathan in deze reeks."
+      }
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 8,
+      "verse": 34,
+      "file": "8-jonathan-azel.svg",
+      "scene": "Van Jonathan tot Azel",
+      "alt": "Van Jonathan tot Azel — 1 Kronieken 8:34–38",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1202,
+      "source": "1 Kronieken 8:34–38",
+      "design": {
+        "type": "vertical named sequence",
+        "names": [
+          "Jonathan",
+          "Merib-Baäl",
+          "Micha",
+          "Achaz",
+          "Jehoadda",
+          "Zimri",
+          "Moza",
+          "Bina",
+          "Rafa",
+          "Elasa",
+          "Azel"
+        ],
+        "note": "Gekozen lijn: Alemeth en Azmaveth zijn broers van Zimri. Azel heeft Azrikam, Bochru, Ismaël, Searja, Obadja en Hanan."
+      }
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 8,
+      "verse": 1,
+      "file": "8-benjamin-zijtakken.svg",
+      "scene": "Zijtakken van Benjamin",
+      "alt": "Naast elkaar genoemde takken en het onderscheid tussen plaats en persoon.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1283,
+      "source": "1 Kronieken 8:1–32, 39–40",
+      "design": {
+        "rows": [
+          [
+            "Vijf zonen van Benjamin",
+            "Bela, Asbel, Ahrah, Naho en Rafa."
+          ],
+          [
+            "Saharaim",
+            "Kinderen bij Hodes in Moab; Abitub en Elpaäl waren bij Husim geboren."
+          ],
+          [
+            "Semed",
+            "Zoon van Elpaäl; bouwt Ono en Lod met hun omliggende plaatsen."
+          ],
+          [
+            "De familiehoofden",
+            "Van onder anderen Beria, Simeï, Sasak en Jeroham; zij wonen in Jeruzalem."
+          ],
+          [
+            "Esek en Ulam",
+            "Esek is Azels broer; zonen Ulam, Jeüs en Elifelet; bij Ulams zonen en kleinzonen 150."
+          ]
+        ],
+        "note": "Deze takken staan naast de lijn naar Saul; ze worden niet als rechtstreekse voorouders van Saul getekend."
+      }
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 9,
+      "verse": 2,
+      "file": "9-terugkeer-en-groepen.svg",
+      "scene": "Terugkeer en dienstgroepen",
+      "alt": "Stammen, dienstgroepen en onderscheiden aantallen bij de terugkeer.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1283,
+      "source": "1 Kronieken 9:2–22",
+      "design": {
+        "rows": [
+          [
+            "Eerste teruggekeerden",
+            "Israëlieten, priesters, Levieten en tempeldienaren op hun eigen bezit."
+          ],
+          [
+            "In Jeruzalem",
+            "Mensen uit Juda, Benjamin, Efraïm en Manasse."
+          ],
+          [
+            "De getelde groepen",
+            "Bij Juda 690; Benjamin 956; priesters 1.760."
+          ],
+          [
+            "Poortwachters",
+            "Sallum, Akkub, Talmon en Ahiman; Sallum is hun hoofd."
+          ],
+          [
+            "De selectie",
+            "212 mannen; door David en Samuël de taak toevertrouwd."
+          ]
+        ],
+        "note": "Deze aantallen horen bij verschillende genoemde groepen en zijn niet één totaal van alle teruggekeerden."
+      }
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 9,
+      "verse": 24,
+      "file": "9-poorten-en-rooster.svg",
+      "scene": "Poorten en dienstrooster",
+      "alt": "Richtingen, aflossing en verschillende dagelijkse en wekelijkse taken.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1369,
+      "source": "1 Kronieken 9:24–33",
+      "design": {
+        "rows": [
+          [
+            "Vier richtingen",
+            "Oosten, westen, noorden en zuiden."
+          ],
+          [
+            "De aflossing",
+            "Verwanten uit de dorpen komen telkens zeven dagen meedienen."
+          ],
+          [
+            "Vier hoofdpoortwachters",
+            "Vaste zorg voor kamers en voorraden; overnachten rondom het huis en openen elke morgen."
+          ],
+          [
+            "Voorraad en bereiding",
+            "Gerei tellen; meel, wijn, olie, wierook en specerijen; priesterzonen bereiden de zalf."
+          ],
+          [
+            "Vaste taken",
+            "Mattithja maakt gebak; Kahathieten de toonbroden per sabbat; zangers werken dag en nacht."
+          ]
+        ],
+        "note": "De richtingen geven taakverdeling aan; dit overzicht doet geen uitspraak over exacte poortmaten of plattegrond."
+      }
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 9,
+      "verse": 35,
+      "file": "9-gibeon-naamvormen.svg",
+      "scene": "Gibeon en de naamvormen",
+      "alt": "Parallelle familiegegevens met zichtbare verschillen in naamvormen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1283,
+      "source": "1 Kronieken 9:35–44",
+      "design": {
+        "rows": [
+          [
+            "Jeiël en Maächa",
+            "Jeiël is stichter van Gibeon; Maächa is zijn vrouw."
+          ],
+          [
+            "De reeks naar Saul",
+            "Ner → Kis → Saul → Jonathan → Merib-Baäl → Micha."
+          ],
+          [
+            "Na Achaz",
+            "Hier staat Jaera; daarna Alemeth, Azmaveth en Zimri."
+          ],
+          [
+            "De gekozen verdere lijn",
+            "Zimri → Moza → Bina → Refaja → Elasa → Azel."
+          ],
+          [
+            "Azels zes zonen",
+            "Azrikam, Bochru, Ismaël, Searja, Obadja en Hanan."
+          ]
+        ],
+        "note": "Hoofdstuk 8 gebruikt in de parallelle lijst de vormen Jehoadda en Rafa. De eigen schrijfwijzen van elk hoofdstuk blijven behouden."
+      }
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 10,
+      "verse": 1,
+      "file": "10-gilboa-en-jabes.svg",
+      "scene": "Van Gilboa naar Jabes",
+      "alt": "De gebeurtenissen op Gilboa, in het dal en in Jabes in hun volgorde.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1369,
+      "source": "1 Kronieken 10:1–12",
+      "design": {
+        "rows": [
+          [
+            "De strijd",
+            "Israël vlucht op Gilboa; Jonathan, Abinadab en Malchi-Sua worden gedood."
+          ],
+          [
+            "Saul en de wapendrager",
+            "De wapendrager weigert Saul te doden; beiden vallen uiteindelijk in hun eigen zwaard."
+          ],
+          [
+            "Het dal",
+            "Bewoners vluchten; Filistijnen nemen de steden in."
+          ],
+          [
+            "De volgende dag",
+            "Filistijnen nemen Sauls hoofd en wapens mee naar hun godentempels."
+          ],
+          [
+            "De mannen van Jabes",
+            "Halen de lichamen weg, begraven de beenderen onder de eik en vasten zeven dagen."
+          ]
+        ],
+        "note": "Het hoofdstuk beschrijft Sauls dood, de schending erna en de latere zorg van Jabes als verschillende momenten."
+      }
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 10,
+      "verse": 13,
+      "file": "10-sauls-ontrouw.svg",
+      "scene": "De uitleg van Sauls einde",
+      "alt": "De redenen die de verteller zelf bij de overgang van het koningschap noemt.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1048,
+      "source": "1 Kronieken 10:13–14",
+      "design": {
+        "rows": [
+          [
+            "Het oordeel",
+            "Saul was de HEERE ontrouw en hield zich niet aan Zijn woord."
+          ],
+          [
+            "De raadpleging",
+            "Hij liet een geest van een dode oproepen om raad te vragen."
+          ],
+          [
+            "Het gemiste zoeken",
+            "Hij zocht de HEERE niet."
+          ],
+          [
+            "De overgang",
+            "God geeft het koningschap aan David, zoon van Isaï."
+          ]
+        ],
+        "note": "Dit is de expliciete uitleg van de verteller bij het historische verslag, geen uitspraak van de Filistijnen."
+      }
+    }
+  ]
+}

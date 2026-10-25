@@ -9476,6 +9476,182 @@
           "source": "1 Kronieken 5:11–26"
         }
       ]
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 9,
+      "status": "reviewed",
+      "target_images": 8,
+      "reason": "Terugkeer, openen en toonbroden zijn aanwezig. Gerei tellen en specerijen bereiden zijn afzonderlijke taken; drie schema’s tonen groepen, rooster en naamvormen.",
+      "additions": [
+        {
+          "verse": 28,
+          "scene": "Levieten tellen het gerei",
+          "kind": "scene",
+          "file": "9-28-inhoudelijk.webp"
+        },
+        {
+          "verse": 30,
+          "scene": "Priesterzonen bereiden de specerijen",
+          "kind": "scene",
+          "file": "9-30-inhoudelijk.webp"
+        },
+        {
+          "verse": 2,
+          "file": "9-terugkeer-en-groepen.svg",
+          "scene": "Terugkeer en dienstgroepen",
+          "kind": "diagram",
+          "source": "1 Kronieken 9:2–22"
+        },
+        {
+          "verse": 24,
+          "file": "9-poorten-en-rooster.svg",
+          "scene": "Poorten en dienstrooster",
+          "kind": "diagram",
+          "source": "1 Kronieken 9:24–33"
+        },
+        {
+          "verse": 35,
+          "file": "9-gibeon-naamvormen.svg",
+          "scene": "Gibeon en de naamvormen",
+          "kind": "diagram",
+          "source": "1 Kronieken 9:35–44"
+        }
+      ]
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 6,
+      "status": "reviewed",
+      "target_images": 9,
+      "reason": "Drie bestaande beelden tonen Amrams kinderen, zang en steden. Zes schema’s voegen de familietakken, twee delen van de priesterlijn, zangers en twee groepen woonrechten toe; genealogie vraagt hier leesbare namen.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "6-levi-drie-takken.svg",
+          "scene": "Levi’s drie familietakken",
+          "kind": "diagram",
+          "source": "1 Kronieken 6:1–3, 16–19"
+        },
+        {
+          "verse": 3,
+          "file": "6-aaron-ahimaaz.svg",
+          "scene": "Priesterlijn, eerste deel",
+          "kind": "diagram",
+          "source": "1 Kronieken 6:3–8"
+        },
+        {
+          "verse": 9,
+          "file": "6-ahimaaz-jozadak.svg",
+          "scene": "Priesterlijn, tweede deel",
+          "kind": "diagram",
+          "source": "1 Kronieken 6:9–15"
+        },
+        {
+          "verse": 31,
+          "file": "6-zangers-en-dienst.svg",
+          "scene": "Drie zangers en hun families",
+          "kind": "diagram",
+          "source": "1 Kronieken 6:31–49"
+        },
+        {
+          "verse": 54,
+          "file": "6-levieten-steden-a.svg",
+          "scene": "Steden voor Aäron en Kahath",
+          "kind": "diagram",
+          "source": "1 Kronieken 6:54–70"
+        },
+        {
+          "verse": 71,
+          "file": "6-levieten-steden-b.svg",
+          "scene": "Steden voor Gerson en Merari",
+          "kind": "diagram",
+          "source": "1 Kronieken 6:62–63, 71–81"
+        }
+      ]
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 7,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Rouw, Seëra en woongebied zijn geïllustreerd. Drie schema’s onderscheiden stammen, telgroepen en de tak van Aser zonder namen tot één keten te maken.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "7-issaschar-benjamin.svg",
+          "scene": "Issaschar en Benjamin",
+          "kind": "diagram",
+          "source": "1 Kronieken 7:1–13"
+        },
+        {
+          "verse": 14,
+          "file": "7-manasse-efraim.svg",
+          "scene": "Manasse en Efraïm",
+          "kind": "diagram",
+          "source": "1 Kronieken 7:14–29"
+        },
+        {
+          "verse": 30,
+          "file": "7-aser-kinderen.svg",
+          "scene": "Aser en zijn nakomelingen",
+          "kind": "diagram",
+          "source": "1 Kronieken 7:30–40"
+        }
+      ]
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 8,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Bouw, familiehoofden en boogschutters zijn aanwezig. Drie schema’s geven Sauls vier zonen, een gekozen lijn naar Azel en de andere takken.",
+      "additions": [
+        {
+          "verse": 33,
+          "file": "8-sauls-kinderen.svg",
+          "scene": "Saul en zijn kinderen",
+          "kind": "diagram",
+          "source": "1 Kronieken 8:33–35"
+        },
+        {
+          "verse": 34,
+          "file": "8-jonathan-azel.svg",
+          "scene": "Van Jonathan tot Azel",
+          "kind": "diagram",
+          "source": "1 Kronieken 8:34–38"
+        },
+        {
+          "verse": 1,
+          "file": "8-benjamin-zijtakken.svg",
+          "scene": "Zijtakken van Benjamin",
+          "kind": "diagram",
+          "source": "1 Kronieken 8:1–32, 39–40"
+        }
+      ]
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 10,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Vlucht, verlaten steden en begrafenis zijn al afgebeeld. Twee schema’s vullen de niet afgebeelde dood en schending aan en onderscheiden de vertellersuitleg; nieuwe rasters zouden vooral herhalen.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "10-gilboa-en-jabes.svg",
+          "scene": "Van Gilboa naar Jabes",
+          "kind": "diagram",
+          "source": "1 Kronieken 10:1–12"
+        },
+        {
+          "verse": 13,
+          "file": "10-sauls-ontrouw.svg",
+          "scene": "De uitleg van Sauls einde",
+          "kind": "diagram",
+          "source": "1 Kronieken 10:13–14"
+        }
+      ]
     }
   ]
 }
