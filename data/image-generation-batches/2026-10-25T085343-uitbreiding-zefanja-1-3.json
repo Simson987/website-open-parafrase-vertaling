@@ -1,0 +1,255 @@
+{
+  "date": "2026-10-25",
+  "started": "2026-10-25T08:53:43Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "zefanja",
+      "chapter": 1,
+      "verse": 5,
+      "file": "1-5-daken-sterren-verdieping.webp",
+      "scene": "Aanklacht: aanbidding op de daken",
+      "alt": "Aanklacht: aanbidding op de daken — Zefanja 1:5; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, ancient Levant, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, divine portrait, blood, injury or watermark. Several modestly robed ancient adults bow on a flat mudbrick rooftop beneath the natural starry sky; no deity face, magical constellation signs or modern railings. A condemned practice.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "zefanja",
+      "chapter": 1,
+      "verse": 13,
+      "file": "1-13-ongebruikt-huis-verdieping.webp",
+      "scene": "Aankondiging: huizen blijven ongebruikt",
+      "alt": "Aankondiging: huizen blijven ongebruikt — Zefanja 1:13; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, ancient Levant, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, divine portrait, blood, injury or watermark. An empty newly built plain ancient house beside an untended vineyard, unused doorway, no people, modern windows or ruin battle scene.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "zefanja",
+      "chapter": 1,
+      "verse": 16,
+      "file": "1-16-hoorn-hoektorens-verdieping.webp",
+      "scene": "Aankondiging: ramshoorn bij de torens",
+      "alt": "Aankondiging: ramshoorn bij de torens — Zefanja 1:16; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, ancient Levant, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, divine portrait, blood, injury or watermark. A robed ancient adult watchman sounds a natural ram horn near a high corner tower of a stone city wall, two arms, no battle victims or modern trumpet.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "zefanja",
+      "chapter": 2,
+      "verse": 9,
+      "file": "2-9-netels-zout-verdieping.webp",
+      "scene": "Aankondiging: netels en zoutgroeve",
+      "alt": "Aankondiging: netels en zoutgroeve — Zefanja 2:9; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, ancient Levant, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, divine portrait, blood, injury or watermark. An empty saline hollow with pale salt crust and a patch of nettles at the edge in ancient dry terrain, no victims, modern mining equipment, labels or deity.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "zefanja",
+      "chapter": 3,
+      "verse": 3,
+      "file": "3-3-wolven-avond-verdieping.webp",
+      "scene": "Vergelijking: wolven in de avond",
+      "alt": "Vergelijking: wolven in de avond — Zefanja 3:3; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, ancient Levant, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, divine portrait, blood, injury or watermark. Two natural wolves stand alert at dusk on an ancient rocky hillside, separate coherent bodies, no attack, prey or human. Metaphor for corrupted judges.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "zefanja",
+      "chapter": 3,
+      "verse": 19,
+      "file": "3-19-verstotenen-bijeen-verdieping.webp",
+      "scene": "Belofte: verstotenen bijeen",
+      "alt": "Belofte: verstotenen bijeen — Zefanja 3:19; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, ancient Levant, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, divine portrait, blood, injury or watermark. A respectful group of modestly robed ancient adult displaced travellers gathers at a town entrance, one with impaired walking using a simple wooden cane, dignified ordinary expressions, no healing spectacle or divine portrait.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "zefanja",
+      "chapter": 1,
+      "verse": 1,
+      "file": "1-leeswijzer.svg",
+      "scene": "De dag en de doorzoeking",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 949,
+      "source": "Zefanja 1:1–18",
+      "design": {
+        "rows": [
+          [
+            "Het woord · 1–6",
+            "Zefanja’s herkomst, Josia; land en Juda/Jeruzalem, Baäl, dakaanbidding en afkeer."
+          ],
+          [
+            "De doorzoeking · 7–13",
+            "Stil, dag nabij; vorsten, drempel, Vispoort/benedenstad, lantaarns en zelfgenoegzaamheid; bezit weg."
+          ],
+          [
+            "De grote dag · 14–18",
+            "Benauwdheid, donker en hoorn, zonde en oordeel; zilver/goud redden niet."
+          ]
+        ],
+        "note": "Beeldspraak, klacht, herinnering en belofte volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "zefanja",
+      "chapter": 2,
+      "verse": 1,
+      "file": "2-leeswijzer.svg",
+      "scene": "Zoeken en volken aangesproken",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 992,
+      "source": "Zefanja 2:1–15",
+      "design": {
+        "rows": [
+          [
+            "Eerst zoeken · 1–3",
+            "Verzamelen voor dag, kafvergelijking, gerechtigheid en zachtmoedigheid zoeken."
+          ],
+          [
+            "Kust en oosten · 4–11",
+            "Filistijnse kust naar weide/rest Juda; Moab/Ammon hoogmoed naar netels/zout, volken aanbidden."
+          ],
+          [
+            "Zuid en noorden · 12–15",
+            "Ethiopië, Assur en Ninevé, droge woestenij, dieren in trotse verlaten stad."
+          ]
+        ],
+        "note": "Beeldspraak, klacht, herinnering en belofte volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "zefanja",
+      "chapter": 3,
+      "verse": 1,
+      "file": "3-leeswijzer.svg",
+      "scene": "Van aanklacht naar thuisbrengen",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1035,
+      "source": "Zefanja 3:1–20",
+      "design": {
+        "rows": [
+          [
+            "De stad · 1–8",
+            "Niet horen of vertrouwen; leiders leeuwen/wolven, priesters/profeten ontrouw, recht elke morgen, volken verzameld."
+          ],
+          [
+            "De rest · 9–13",
+            "Reine lippen, samen dienen, Ethiopische rivieren; hoogmoed weg, klein volk zonder bedrog, veilig rusten."
+          ],
+          [
+            "De vreugde · 14–20",
+            "Zing, oordeel weg, Koning in midden, niet bang; liefde en verzamelen, kreupelen beschermen en thuisbrengen."
+          ]
+        ],
+        "note": "Beeldspraak, klacht, herinnering en belofte volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "zefanja",
+      "chapter": 1,
+      "verse": 1,
+      "file": "1-herkomst-en-koning.svg",
+      "scene": "Herkomst en koningsdagen",
+      "alt": "Herkomst en koningsdagen met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 664,
+      "source": "Zefanja 1:1",
+      "design": {
+        "rows": [
+          [
+            "De herkomstketen",
+            "Hizkia → Amarja → Gedalja → Cuschi → Zefanja."
+          ],
+          [
+            "De genoemde koning",
+            "Josia, zoon van Amon, koning van Juda."
+          ]
+        ],
+        "note": "Hizkia in de herkomstketen wordt hier niet zonder nadere tekst als de koning Hizkia geïdentificeerd."
+      }
+    },
+    {
+      "book": "zefanja",
+      "chapter": 2,
+      "verse": 4,
+      "file": "2-volken-en-gevolgen.svg",
+      "scene": "Volken en hun eigen woorden",
+      "alt": "Volken en hun eigen woorden met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1012,
+      "source": "Zefanja 2:4–15",
+      "design": {
+        "rows": [
+          [
+            "Filistijnse kust · 4–7",
+            "Gaza, Askelon, Asdod en Ekron; weiden, kudden en rest van Juda."
+          ],
+          [
+            "Moab en Ammon · 8–11",
+            "Spot en hoogmoed; netels, zoutgroeve en bezit voor de rest."
+          ],
+          [
+            "Ethiopië · 12",
+            "Aangekondigd zwaard."
+          ],
+          [
+            "Assur en Ninevé · 13–15",
+            "Noorden, dorre woestenij, dieren en verlaten zelfverzekerde stad."
+          ]
+        ],
+        "note": "Dit is een tekstoverzicht, geen ingevulde moderne landsgrenzen."
+      }
+    },
+    {
+      "book": "zefanja",
+      "chapter": 3,
+      "verse": 9,
+      "file": "3-verzamelde-groepen.svg",
+      "scene": "Wie worden bijeengebracht?",
+      "alt": "Wie worden bijeengebracht? met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 985,
+      "source": "Zefanja 3:9–20",
+      "design": {
+        "rows": [
+          [
+            "Volken · 9–10",
+            "Reine lippen, schouder aan schouder dienen; van over Ethiopische rivieren aanbidders."
+          ],
+          [
+            "Klein en arm volk · 11–13",
+            "Hoogmoed weg; vertrouwen, geen leugen of onrecht, ongestoord rusten."
+          ],
+          [
+            "Rouwenden en verstotenen · 18–20",
+            "Feesten missen, kreupelen beschermd, verstotenen bijeen, thuisgebracht en lot gekeerd."
+          ]
+        ],
+        "note": "De onderscheiden groepen zijn die van de belofte. Geen extra historische thuiskomst wordt als reeds gebeurd geclaimd."
+      }
+    }
+  ]
+}

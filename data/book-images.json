@@ -52866,61 +52866,211 @@
         "chapter": 1,
         "file": "1-prophet.webp",
         "alt": "Zefanja spreekt op een plein in Jeruzalem",
-        "scene": "Zefanja spreekt"
+        "scene": "Zefanja spreekt",
+        "verse": 1,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 2,
         "file": "2-seek.webp",
         "alt": "Mensen verzamelen zich voor gebed",
-        "scene": "Zoek de HEERE"
+        "scene": "Zoek de HEERE",
+        "verse": 3,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 3,
         "file": "3-joy.webp",
         "alt": "Een gemeenschap viert herstel in Jeruzalem",
-        "scene": "Vreugde na herstel"
+        "scene": "Vreugde na herstel",
+        "verse": 14,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 1,
         "verse": 7,
         "file": "1-7.webp",
         "alt": "Beeld bij Zefanja 1: Eerbiedige stilte",
-        "scene": "Eerbiedige stilte"
+        "scene": "Eerbiedige stilte",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 1,
         "verse": 12,
         "file": "1-12.webp",
         "alt": "Beeld bij Zefanja 1: Jeruzalem bij lamplicht",
-        "scene": "Jeruzalem bij lamplicht"
+        "scene": "Jeruzalem bij lamplicht",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 2,
         "verse": 7,
         "file": "2-7.webp",
         "alt": "Beeld bij Zefanja 2: Kudden bij Askelon",
-        "scene": "Kudden bij Askelon"
+        "scene": "Kudden bij Askelon",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 2,
         "verse": 14,
         "file": "2-14.webp",
         "alt": "Beeld bij Zefanja 2: Vogels in de verlaten stad",
-        "scene": "Vogels in de verlaten stad"
+        "scene": "Vogels in de verlaten stad",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 3,
         "verse": 9,
         "file": "3-9.webp",
         "alt": "Beeld bij Zefanja 3: Volken roepen samen aan",
-        "scene": "Volken roepen samen aan"
+        "scene": "Volken roepen samen aan",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 3,
         "verse": 12,
         "file": "3-12.webp",
         "alt": "Beeld bij Zefanja 3: Een nederig overblijfsel",
-        "scene": "Een nederig overblijfsel"
+        "scene": "Een nederig overblijfsel",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 1,
+        "verse": 5,
+        "file": "1-5-daken-sterren-verdieping.webp",
+        "scene": "Aanklacht: aanbidding op de daken",
+        "alt": "Aanklacht: aanbidding op de daken — Zefanja 1:5; tekstillustratie.",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 1,
+        "verse": 13,
+        "file": "1-13-ongebruikt-huis-verdieping.webp",
+        "scene": "Aankondiging: huizen blijven ongebruikt",
+        "alt": "Aankondiging: huizen blijven ongebruikt — Zefanja 1:13; tekstillustratie.",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 1,
+        "verse": 16,
+        "file": "1-16-hoorn-hoektorens-verdieping.webp",
+        "scene": "Aankondiging: ramshoorn bij de torens",
+        "alt": "Aankondiging: ramshoorn bij de torens — Zefanja 1:16; tekstillustratie.",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 2,
+        "verse": 9,
+        "file": "2-9-netels-zout-verdieping.webp",
+        "scene": "Aankondiging: netels en zoutgroeve",
+        "alt": "Aankondiging: netels en zoutgroeve — Zefanja 2:9; tekstillustratie.",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 3,
+        "verse": 3,
+        "file": "3-3-wolven-avond-verdieping.webp",
+        "scene": "Vergelijking: wolven in de avond",
+        "alt": "Vergelijking: wolven in de avond — Zefanja 3:3; tekstillustratie.",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 3,
+        "verse": 19,
+        "file": "3-19-verstotenen-bijeen-verdieping.webp",
+        "scene": "Belofte: verstotenen bijeen",
+        "alt": "Belofte: verstotenen bijeen — Zefanja 3:19; tekstillustratie.",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 1,
+        "verse": 1,
+        "file": "1-leeswijzer.svg",
+        "scene": "De dag en de doorzoeking",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 949
+      },
+      {
+        "chapter": 2,
+        "verse": 1,
+        "file": "2-leeswijzer.svg",
+        "scene": "Zoeken en volken aangesproken",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 992
+      },
+      {
+        "chapter": 3,
+        "verse": 1,
+        "file": "3-leeswijzer.svg",
+        "scene": "Van aanklacht naar thuisbrengen",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1035
+      },
+      {
+        "chapter": 1,
+        "verse": 1,
+        "file": "1-herkomst-en-koning.svg",
+        "scene": "Herkomst en koningsdagen",
+        "alt": "Herkomst en koningsdagen met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 664
+      },
+      {
+        "chapter": 2,
+        "verse": 4,
+        "file": "2-volken-en-gevolgen.svg",
+        "scene": "Volken en hun eigen woorden",
+        "alt": "Volken en hun eigen woorden met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1012
+      },
+      {
+        "chapter": 3,
+        "verse": 9,
+        "file": "3-verzamelde-groepen.svg",
+        "scene": "Wie worden bijeengebracht?",
+        "alt": "Wie worden bijeengebracht? met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 985
       }
     ],
     "haggai": [

@@ -23275,6 +23275,111 @@
           "source": "Habakuk 3:17–19"
         }
       ]
+    },
+    {
+      "book": "zefanja",
+      "chapter": 1,
+      "status": "reviewed",
+      "target_images": 8,
+      "reason": "Profeet, stilte en lamplicht zijn aanwezig. Dakaanbidding, ongebruikt huis en ramshoorn voegen drie afzonderlijke genoemde onderdelen toe. Twee schema’s bewaren herkomstnamen, koning en hoofdstukverband.",
+      "additions": [
+        {
+          "verse": 5,
+          "file": "1-5-daken-sterren-verdieping.webp",
+          "scene": "Aanklacht: aanbidding op de daken",
+          "kind": "poetic"
+        },
+        {
+          "verse": 13,
+          "file": "1-13-ongebruikt-huis-verdieping.webp",
+          "scene": "Aankondiging: huizen blijven ongebruikt",
+          "kind": "poetic"
+        },
+        {
+          "verse": 16,
+          "file": "1-16-hoorn-hoektorens-verdieping.webp",
+          "scene": "Aankondiging: ramshoorn bij de torens",
+          "kind": "poetic"
+        },
+        {
+          "verse": 1,
+          "file": "1-leeswijzer.svg",
+          "scene": "De dag en de doorzoeking",
+          "kind": "diagram",
+          "source": "Zefanja 1:1–18"
+        },
+        {
+          "verse": 1,
+          "file": "1-herkomst-en-koning.svg",
+          "scene": "Herkomst en koningsdagen",
+          "kind": "diagram",
+          "source": "Zefanja 1:1"
+        }
+      ]
+    },
+    {
+      "book": "zefanja",
+      "chapter": 2,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Zoeken, Askelonkudde en vogels zijn aanwezig. Netels met zoutgroeve voegen het afzonderlijke Moab/Ammonwoord toe. Twee schema’s houden oproep, kust/oosten/zuiden/noorden en hun eigen uitspraken intact.",
+      "additions": [
+        {
+          "verse": 9,
+          "file": "2-9-netels-zout-verdieping.webp",
+          "scene": "Aankondiging: netels en zoutgroeve",
+          "kind": "poetic"
+        },
+        {
+          "verse": 1,
+          "file": "2-leeswijzer.svg",
+          "scene": "Zoeken en volken aangesproken",
+          "kind": "diagram",
+          "source": "Zefanja 2:1–15"
+        },
+        {
+          "verse": 4,
+          "file": "2-volken-en-gevolgen.svg",
+          "scene": "Volken en hun eigen woorden",
+          "kind": "diagram",
+          "source": "Zefanja 2:4–15"
+        }
+      ]
+    },
+    {
+      "book": "zefanja",
+      "chapter": 3,
+      "status": "reviewed",
+      "target_images": 7,
+      "reason": "Vreugde, samen bidden en klein volk zijn aanwezig. Wolvenvergelijking en verzamelde verstotenen voegen twee andere beelden toe. Twee schema’s onderscheiden de corrupte stad en de verschillende beloofde groepen.",
+      "additions": [
+        {
+          "verse": 3,
+          "file": "3-3-wolven-avond-verdieping.webp",
+          "scene": "Vergelijking: wolven in de avond",
+          "kind": "poetic"
+        },
+        {
+          "verse": 19,
+          "file": "3-19-verstotenen-bijeen-verdieping.webp",
+          "scene": "Belofte: verstotenen bijeen",
+          "kind": "poetic"
+        },
+        {
+          "verse": 1,
+          "file": "3-leeswijzer.svg",
+          "scene": "Van aanklacht naar thuisbrengen",
+          "kind": "diagram",
+          "source": "Zefanja 3:1–20"
+        },
+        {
+          "verse": 9,
+          "file": "3-verzamelde-groepen.svg",
+          "scene": "Wie worden bijeengebracht?",
+          "kind": "diagram",
+          "source": "Zefanja 3:9–20"
+        }
+      ]
     }
   ]
 }
