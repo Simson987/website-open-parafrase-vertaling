@@ -30793,19 +30793,31 @@
         "chapter": 14,
         "file": "14-return.webp",
         "alt": "Een gezin keert bij zonsopgang terug naar een dorp in de heuvels",
-        "scene": "Keer terug"
+        "scene": "Keer terug",
+        "verse": 2,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 14,
         "file": "14-healing.webp",
         "alt": "Een oudere vader omhelst zijn teruggekeerde zoon in een olijfgaard",
-        "scene": "Herstel en vergeving"
+        "scene": "Herstel en vergeving",
+        "verse": 5,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 14,
         "file": "14-fruit.webp",
         "alt": "Dorpsbewoners verzorgen een olijfboom en graanveld na de regen",
-        "scene": "Opnieuw vrucht dragen"
+        "scene": "Opnieuw vrucht dragen",
+        "verse": 8,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 1,
@@ -31112,63 +31124,90 @@
         "verse": 1,
         "file": "11-1.webp",
         "alt": "Beeld bij Hosea 11: Uit Egypte geroepen",
-        "scene": "Uit Egypte geroepen"
+        "scene": "Uit Egypte geroepen",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 11,
         "verse": 10,
         "file": "11-10.webp",
         "alt": "Beeld bij Hosea 11: Beeldspraak: het brullen van een leeuw",
-        "scene": "Beeldspraak: het brullen van een leeuw"
+        "scene": "Beeldspraak: het brullen van een leeuw",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 11,
         "verse": 11,
         "file": "11-11.webp",
         "alt": "Beeld bij Hosea 11: Als een duif naar huis",
-        "scene": "Als een duif naar huis"
+        "scene": "Als een duif naar huis",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 12,
         "verse": 8,
         "file": "12-8.webp",
         "alt": "Beeld bij Hosea 12: Een bedrieglijke weegschaal",
-        "scene": "Een bedrieglijke weegschaal"
+        "scene": "Een bedrieglijke weegschaal",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 12,
         "verse": 10,
         "file": "12-10.webp",
         "alt": "Beeld bij Hosea 12: Opnieuw wonen in tenten",
-        "scene": "Opnieuw wonen in tenten"
+        "scene": "Opnieuw wonen in tenten",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 12,
         "verse": 13,
         "file": "12-13.webp",
         "alt": "Beeld bij Hosea 12: Jakob hoedt de kudde",
-        "scene": "Jakob hoedt de kudde"
+        "scene": "Jakob hoedt de kudde",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 13,
         "verse": 3,
         "file": "13-3.webp",
         "alt": "Beeld bij Hosea 13: Dauw die verdwijnt",
-        "scene": "Dauw die verdwijnt"
+        "scene": "Dauw die verdwijnt",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 13,
         "verse": 5,
         "file": "13-5.webp",
         "alt": "Beeld bij Hosea 13: In een heet woestijnland",
-        "scene": "In een heet woestijnland"
+        "scene": "In een heet woestijnland",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 13,
         "verse": 6,
         "file": "13-6.webp",
         "alt": "Beeld bij Hosea 13: Verzadigd en vergeten",
-        "scene": "Verzadigd en vergeten"
+        "scene": "Verzadigd en vergeten",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 1,
@@ -31509,6 +31548,206 @@
         "kind": "diagram",
         "width": 840,
         "height": 1220
+      },
+      {
+        "chapter": 11,
+        "verse": 3,
+        "file": "11-3-leren-lopen-verdieping.webp",
+        "scene": "Vergelijking: leren lopen",
+        "alt": "Vergelijking: leren lopen — Hosea 11:3; tekstbeeld of herinnering.",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 12,
+        "verse": 2,
+        "file": "12-2-olie-egypte-verdieping.webp",
+        "scene": "Herinnering: olie naar Egypte",
+        "alt": "Herinnering: olie naar Egypte — Hosea 12:2; tekstbeeld of herinnering.",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 12,
+        "verse": 5,
+        "file": "12-5-jakob-worstelt-verdieping.webp",
+        "scene": "Herinnering: Jakob en de Engel",
+        "alt": "Herinnering: Jakob en de Engel — Hosea 12:5; tekstbeeld of herinnering.",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 12,
+        "verse": 12,
+        "file": "12-12-steenhopen-voren-verdieping.webp",
+        "scene": "Vergelijking: altaren als steenhopen",
+        "alt": "Vergelijking: altaren als steenhopen — Hosea 12:12; tekstbeeld of herinnering.",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 13,
+        "verse": 2,
+        "file": "13-2-zilveren-kalf-smid-verdieping.webp",
+        "scene": "Aanklacht: het kalf als smidswerk",
+        "alt": "Aanklacht: het kalf als smidswerk — Hosea 13:2; tekstbeeld of herinnering.",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 13,
+        "verse": 3,
+        "file": "13-3-kaf-dorsvloer-verdieping.webp",
+        "scene": "Vergelijking: kaf in de wind",
+        "alt": "Vergelijking: kaf in de wind — Hosea 13:3; tekstbeeld of herinnering.",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 13,
+        "verse": 3,
+        "file": "13-3-rook-raam-verdieping.webp",
+        "scene": "Vergelijking: rook uit een raam",
+        "alt": "Vergelijking: rook uit een raam — Hosea 13:3; tekstbeeld of herinnering.",
+        "kind": "poetic",
+        "width": 1672,
+        "height": 941
+      },
+      {
+        "chapter": 13,
+        "verse": 7,
+        "file": "13-7-luipaard-weg-verdieping.webp",
+        "scene": "Vergelijking: het loerende luipaard",
+        "alt": "Vergelijking: het loerende luipaard — Hosea 13:7; tekstbeeld of herinnering.",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 13,
+        "verse": 8,
+        "file": "13-8-berin-verdieping.webp",
+        "scene": "Vergelijking: een berin",
+        "alt": "Vergelijking: een berin — Hosea 13:8; tekstbeeld of herinnering.",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 13,
+        "verse": 15,
+        "file": "13-15-opgedroogde-bron-verdieping.webp",
+        "scene": "Aankondiging: de bron droogt op",
+        "alt": "Aankondiging: de bron droogt op — Hosea 13:15; tekstbeeld of herinnering.",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 14,
+        "verse": 6,
+        "file": "14-6-lelie-dauw-verdieping.webp",
+        "scene": "Belofte: bloeien als een lelie",
+        "alt": "Belofte: bloeien als een lelie — Hosea 14:6; tekstbeeld of herinnering.",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 14,
+        "verse": 9,
+        "file": "14-9-groene-cipres-verdieping.webp",
+        "scene": "Vergelijking: de groene cipres",
+        "alt": "Vergelijking: de groene cipres — Hosea 14:9; tekstbeeld of herinnering.",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 11,
+        "verse": 1,
+        "file": "11-leeswijzer.svg",
+        "scene": "Liefde, afkeer en ontferming",
+        "alt": "De opbouw van het volledige hoofdstuk met zorg, aanklacht en gegeven antwoord.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 985
+      },
+      {
+        "chapter": 12,
+        "verse": 1,
+        "file": "12-leeswijzer.svg",
+        "scene": "Herinnering en terugkeer",
+        "alt": "De opbouw van het volledige hoofdstuk met zorg, aanklacht en gegeven antwoord.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1071
+      },
+      {
+        "chapter": 13,
+        "verse": 1,
+        "file": "13-leeswijzer.svg",
+        "scene": "Vergeten en verdwenen",
+        "alt": "De opbouw van het volledige hoofdstuk met zorg, aanklacht en gegeven antwoord.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1071
+      },
+      {
+        "chapter": 14,
+        "verse": 1,
+        "file": "14-leeswijzer.svg",
+        "scene": "Terugkeer, genezing en vrucht",
+        "alt": "De opbouw van het volledige hoofdstuk met zorg, aanklacht en gegeven antwoord.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1071
+      },
+      {
+        "chapter": 11,
+        "verse": 3,
+        "file": "11-zorg-en-reactie.svg",
+        "scene": "Zorg en reactie",
+        "alt": "De concrete zorgbeelden, de menselijke reactie en het ontfermingswoord.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1028
+      },
+      {
+        "chapter": 12,
+        "verse": 4,
+        "file": "12-jakob-en-profeet.svg",
+        "scene": "Jakob en de profeet",
+        "alt": "De verschillende verwijzingen naar Jakob en Israël en de centrale oproep.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1213
+      },
+      {
+        "chapter": 13,
+        "verse": 3,
+        "file": "13-vier-verdwijnbeelden.svg",
+        "scene": "Vier beelden van verdwijnen",
+        "alt": "De exact vier vergelijkingen uit hetzelfde vers naast elkaar.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 962
+      },
+      {
+        "chapter": 14,
+        "verse": 6,
+        "file": "14-groei-en-vrucht.svg",
+        "scene": "De beelden van herstel",
+        "alt": "De verschillende herstelvergelijkingen zonder ze tot aparte gebeurtenissen te maken.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1091
       }
     ],
     "jona": [
