@@ -22731,6 +22731,146 @@
           "source": "Obadja 1:19–21"
         }
       ]
+    },
+    {
+      "book": "jona",
+      "chapter": 1,
+      "status": "reviewed",
+      "target_images": 10,
+      "reason": "Storm, aan boord gaan en stille zee zijn aanwezig. Slapen, lot, poging tot roeien, ontzag van zeelui en grote vis voegen vijf nog ontbrekende handelingen toe. Twee schema’s houden opdracht, vlucht en routewoorden helder zonder vissoort of Tarsiscoördinaat te verzinnen.",
+      "additions": [
+        {
+          "verse": 5,
+          "file": "1-5-slaap-in-ruim-verdieping.webp",
+          "scene": "Jona slaapt in het ruim",
+          "kind": "scene"
+        },
+        {
+          "verse": 7,
+          "file": "1-7-loten-op-jona-verdieping.webp",
+          "scene": "Het lot valt op Jona",
+          "kind": "scene"
+        },
+        {
+          "verse": 13,
+          "file": "1-13-roeien-naar-land-verdieping.webp",
+          "scene": "De zeelui proberen terug te roeien",
+          "kind": "scene"
+        },
+        {
+          "verse": 16,
+          "file": "1-16-ontzag-zeelui-verdieping.webp",
+          "scene": "De zeelui krijgen ontzag",
+          "kind": "scene"
+        },
+        {
+          "verse": 17,
+          "file": "1-17-grote-vis-verdieping.webp",
+          "scene": "De grote vis",
+          "kind": "scene"
+        },
+        {
+          "verse": 1,
+          "file": "1-leeswijzer.svg",
+          "scene": "Roeping, vlucht en redding",
+          "kind": "diagram",
+          "source": "Jona 1:1–17"
+        },
+        {
+          "verse": 3,
+          "file": "1-wegen-woorden.svg",
+          "scene": "Opdracht en gevaren route",
+          "kind": "diagram",
+          "source": "Jona 1:1–3; 3:1–3"
+        }
+      ]
+    },
+    {
+      "book": "jona",
+      "chapter": 2,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Bidden, golven en kust zijn aanwezig. Zeewier voegt een concreet eigen gebedsbeeld toe. Twee schema’s bewaren de hele gebedsbeweging en onderscheiden beeldtaal van de concrete redding op land.",
+      "additions": [
+        {
+          "verse": 5,
+          "file": "2-5-wier-en-diepte-verdieping.webp",
+          "scene": "Gebedsbeeld: zeewier in de diepte",
+          "kind": "poetic"
+        },
+        {
+          "verse": 1,
+          "file": "2-leeswijzer.svg",
+          "scene": "Het gebed en het droge land",
+          "kind": "diagram",
+          "source": "Jona 2:1–10"
+        },
+        {
+          "verse": 3,
+          "file": "2-gebedsbeelden.svg",
+          "scene": "De beelden in het gebed",
+          "kind": "diagram",
+          "source": "Jona 2:2–9"
+        }
+      ]
+    },
+    {
+      "book": "jona",
+      "chapter": 3,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Stadsverkondiging, vasten en koning in as zijn aanwezig. Mensen en dieren in rouwkleed voegen het bijzondere gegeven van het koningsbevel toe. Twee schema’s bewaken de drie verschillende tijdwoorden en het expliciete afzien van onheil.",
+      "additions": [
+        {
+          "verse": 8,
+          "file": "3-8-dieren-rouwkleed-verdieping.webp",
+          "scene": "Mensen en dieren in rouwkleren",
+          "kind": "scene"
+        },
+        {
+          "verse": 1,
+          "file": "3-leeswijzer.svg",
+          "scene": "Ninevé hoort en keert om",
+          "kind": "diagram",
+          "source": "Jona 3:1–10"
+        },
+        {
+          "verse": 3,
+          "file": "3-drie-tijdsaanduidingen.svg",
+          "scene": "Drie verschillende tijdwoorden",
+          "kind": "diagram",
+          "source": "Jona 3:3–4"
+        }
+      ]
+    },
+    {
+      "book": "jona",
+      "chapter": 4,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Plant, verdorren en stadsbevolking met vee zijn aanwezig. De verzengende oostenwind met Jona voegt de nog ontbrekende ervaring toe. Twee schema’s bewaren de herhaalde vraag, plant/stad-verhouding en open einde zonder een later antwoord te verzinnen.",
+      "additions": [
+        {
+          "verse": 8,
+          "file": "4-8-verzengende-wind-verdieping.webp",
+          "scene": "Jona in de verzengende wind",
+          "kind": "scene"
+        },
+        {
+          "verse": 1,
+          "file": "4-leeswijzer.svg",
+          "scene": "Boosheid en medelijden",
+          "kind": "diagram",
+          "source": "Jona 4:1–11"
+        },
+        {
+          "verse": 4,
+          "file": "4-twee-vragen.svg",
+          "scene": "De herhaalde vraag en het slot",
+          "kind": "diagram",
+          "source": "Jona 4:4–11"
+        }
+      ]
     }
   ]
 }

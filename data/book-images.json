@@ -31755,82 +31755,281 @@
         "chapter": 1,
         "file": "1-ship.webp",
         "alt": "Zeelieden beveiligen een oud zeilschip tijdens een storm",
-        "scene": "De storm op zee"
+        "scene": "De storm op zee",
+        "verse": 4,
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 2,
         "file": "2-shore.webp",
         "alt": "Jona zit uitgeput op de rotskust bij het ochtendlicht",
-        "scene": "Jona aan de kust"
+        "scene": "Jona aan de kust",
+        "verse": 10,
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 3,
         "file": "3-city.webp",
         "alt": "Jona loopt door de drukke stadspoort van Ninevé",
-        "scene": "Jona in Ninevé"
+        "scene": "Jona in Ninevé",
+        "verse": 4,
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 1,
         "verse": 3,
         "file": "1-3.webp",
         "alt": "Beeld bij Jona 1: Jona gaat aan boord in Jafo",
-        "scene": "Jona gaat aan boord in Jafo"
+        "scene": "Jona gaat aan boord in Jafo",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 1,
         "verse": 15,
         "file": "1-15.webp",
         "alt": "Beeld bij Jona 1: De zee komt tot rust",
-        "scene": "De zee komt tot rust"
+        "scene": "De zee komt tot rust",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 2,
         "verse": 1,
         "file": "2-1.webp",
         "alt": "Beeld bij Jona 2: Jona bidt in de vis",
-        "scene": "Jona bidt in de vis"
+        "scene": "Jona bidt in de vis",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 2,
         "verse": 3,
         "file": "2-3.webp",
         "alt": "Beeld bij Jona 2: Golven boven de diepte",
-        "scene": "Golven boven de diepte"
+        "scene": "Golven boven de diepte",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 3,
         "verse": 5,
         "file": "3-5.webp",
         "alt": "Beeld bij Jona 3: Nineve vast en keert om",
-        "scene": "Nineve vast en keert om"
+        "scene": "Nineve vast en keert om",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 3,
         "verse": 6,
         "file": "3-6.webp",
         "alt": "Beeld bij Jona 3: De koning zit in de as",
-        "scene": "De koning zit in de as"
+        "scene": "De koning zit in de as",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 4,
         "verse": 6,
         "file": "4-6.webp",
         "alt": "Beeld bij Jona 4: Schaduw voor Jona",
-        "scene": "Schaduw voor Jona"
+        "scene": "Schaduw voor Jona",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 4,
         "verse": 7,
         "file": "4-7.webp",
         "alt": "Beeld bij Jona 4: De plant verdort",
-        "scene": "De plant verdort"
+        "scene": "De plant verdort",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 4,
         "verse": 11,
         "file": "4-11.webp",
         "alt": "Beeld bij Jona 4: De mensen en dieren van Nineve",
-        "scene": "De mensen en dieren van Nineve"
+        "scene": "De mensen en dieren van Nineve",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 1,
+        "verse": 5,
+        "file": "1-5-slaap-in-ruim-verdieping.webp",
+        "scene": "Jona slaapt in het ruim",
+        "alt": "Jona slaapt in het ruim — Jona 1:5.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 1,
+        "verse": 7,
+        "file": "1-7-loten-op-jona-verdieping.webp",
+        "scene": "Het lot valt op Jona",
+        "alt": "Het lot valt op Jona — Jona 1:7.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 1,
+        "verse": 13,
+        "file": "1-13-roeien-naar-land-verdieping.webp",
+        "scene": "De zeelui proberen terug te roeien",
+        "alt": "De zeelui proberen terug te roeien — Jona 1:13.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 1,
+        "verse": 16,
+        "file": "1-16-ontzag-zeelui-verdieping.webp",
+        "scene": "De zeelui krijgen ontzag",
+        "alt": "De zeelui krijgen ontzag — Jona 1:16.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 1,
+        "verse": 17,
+        "file": "1-17-grote-vis-verdieping.webp",
+        "scene": "De grote vis",
+        "alt": "De grote vis — Jona 1:17.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 2,
+        "verse": 5,
+        "file": "2-5-wier-en-diepte-verdieping.webp",
+        "scene": "Gebedsbeeld: zeewier in de diepte",
+        "alt": "Gebedsbeeld: zeewier in de diepte — Jona 2:5; beeld uit het gebed.",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 3,
+        "verse": 8,
+        "file": "3-8-dieren-rouwkleed-verdieping.webp",
+        "scene": "Mensen en dieren in rouwkleren",
+        "alt": "Mensen en dieren in rouwkleren — Jona 3:8.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 4,
+        "verse": 8,
+        "file": "4-8-verzengende-wind-verdieping.webp",
+        "scene": "Jona in de verzengende wind",
+        "alt": "Jona in de verzengende wind — Jona 4:8.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 1,
+        "verse": 1,
+        "file": "1-leeswijzer.svg",
+        "scene": "Roeping, vlucht en redding",
+        "alt": "De afzonderlijke handelingen in het hele hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1071
+      },
+      {
+        "chapter": 2,
+        "verse": 1,
+        "file": "2-leeswijzer.svg",
+        "scene": "Het gebed en het droge land",
+        "alt": "Het verloop van roepen via herinneren naar dank en concrete redding.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1028
+      },
+      {
+        "chapter": 3,
+        "verse": 1,
+        "file": "3-leeswijzer.svg",
+        "scene": "Ninevé hoort en keert om",
+        "alt": "De opdracht, reactie en expliciete afloop.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1028
+      },
+      {
+        "chapter": 4,
+        "verse": 1,
+        "file": "4-leeswijzer.svg",
+        "scene": "Boosheid en medelijden",
+        "alt": "De herhaalde vraag en de verhouding tussen plant en grote stad.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1071
+      },
+      {
+        "chapter": 1,
+        "verse": 3,
+        "file": "1-wegen-woorden.svg",
+        "scene": "Opdracht en gevaren route",
+        "alt": "Opdracht en gevaren route — Jona 1:1–3; 3:1–3",
+        "kind": "diagram",
+        "width": 840,
+        "height": 722
+      },
+      {
+        "chapter": 2,
+        "verse": 3,
+        "file": "2-gebedsbeelden.svg",
+        "scene": "De beelden in het gebed",
+        "alt": "De eigen beeldspraak en de wending van het gebed.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1134
+      },
+      {
+        "chapter": 3,
+        "verse": 3,
+        "file": "3-drie-tijdsaanduidingen.svg",
+        "scene": "Drie verschillende tijdwoorden",
+        "alt": "Stadsomvang, afgelegde weg en boodschapstermijn onderscheiden.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 856
+      },
+      {
+        "chapter": 4,
+        "verse": 4,
+        "file": "4-twee-vragen.svg",
+        "scene": "De herhaalde vraag en het slot",
+        "alt": "De twee boosheidsvragen en de afsluitende vergelijking.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1091
       }
     ],
     "gebedvanmanasse": [
