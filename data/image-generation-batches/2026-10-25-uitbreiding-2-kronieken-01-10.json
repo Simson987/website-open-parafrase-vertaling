@@ -1,0 +1,826 @@
+{
+  "date": "2026-10-25",
+  "started": "2026-10-25T00:32:44Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "2kronieken",
+      "chapter": 1,
+      "verse": 14,
+      "scene": "Wagens in de wagenstad",
+      "alt": "Wagens in de wagenstad — 2 Kronieken 1:14",
+      "kind": "scene",
+      "file": "1-14-inhoudelijk.webp",
+      "prompt": "Use case: historical-scene. Photorealistic educational Bible illustration, landscape 3:2, ancient Israel in Solomon’s time. Fully modest woven robes, natural hands, exactly two arms per human, correct animal anatomy. No modern objects, Roman armor, readable text, watermark, visible deity, blood, injuries or nudity. Ancient Israelite attendants park wooden two-wheeled chariots in an orderly chariot storage yard near Jerusalem. Calm horses being led by reins, no battle, no modern carriages or many-headed animals.",
+      "edit_prompt": "Use case: precise-object-edit. Edit only the distant top-right skyline of this historical scene at the beginning of Solomon’s reign, before the temple was built. Replace the conspicuous large monumental white temple-like building at the top right with modest flat-roofed ancient stone houses and a low hill. Preserve the entire foreground: chariot yard, horses with four legs each, adult attendants with exactly two arms and natural hands, reins, chariots, wooden sheds, stone walls, warm daylight and photorealism. No large temple or finished royal palace in that distant skyline, no modern objects or text.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2kronieken",
+      "chapter": 2,
+      "verse": 10,
+      "scene": "Voorraden voor de houthakkers",
+      "alt": "Voorraden voor de houthakkers — 2 Kronieken 2:10",
+      "kind": "scene",
+      "file": "2-10-inhoudelijk.webp",
+      "prompt": "Use case: historical-scene. Photorealistic educational Bible illustration, landscape 3:2, ancient Israel in Solomon’s time. Fully modest woven robes, natural hands, exactly two arms per human, correct animal anatomy. No modern objects, Roman armor, readable text, watermark, visible deity, blood, injuries or nudity. Adult workers prepare wheat and barley sacks and large ceramic jars of wine and oil for delivery to the woodcutters serving King Huram. Ancient store yard, grain visible in open baskets, no labels or modern barrels.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2kronieken",
+      "chapter": 5,
+      "verse": 4,
+      "scene": "Levieten tillen de ark op",
+      "alt": "Levieten tillen de ark op — 2 Kronieken 5:4",
+      "kind": "scene",
+      "file": "5-4-inhoudelijk.webp",
+      "prompt": "Use case: historical-scene. Photorealistic educational Bible illustration, landscape 3:2, ancient Israel in Solomon’s time. Fully modest woven robes, natural hands, exactly two arms per human, correct animal anatomy. No modern objects, Roman armor, readable text, watermark, visible deity, blood, injuries or nudity. Adult Levites in modest linen lift the gold-covered covenant ark onto their shoulders using long wooden carrying poles running through side rings. Their hands hold only the poles, not the chest. Two small golden cherubs on the lid, reverent procession beginning in the City of David, no cart or exposed divine figure.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2kronieken",
+      "chapter": 7,
+      "verse": 3,
+      "scene": "Het volk knielt op de vloer",
+      "alt": "Het volk knielt op de vloer — 2 Kronieken 7:3",
+      "kind": "scene",
+      "file": "7-3-inhoudelijk.webp",
+      "prompt": "Use case: historical-scene. Photorealistic educational Bible illustration, landscape 3:2, ancient Israel in Solomon’s time. Fully modest woven robes, natural hands, exactly two arms per human, correct animal anatomy. No modern objects, Roman armor, readable text, watermark, visible deity, blood, injuries or nudity. Adult Israelites in modest robes bow face down on the paved temple courtyard after the fire from heaven, with the distant altar and temple entrance glowing and smoking. Focus on human worship, natural kneeling bodies, no visible deity or victims.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2kronieken",
+      "chapter": 7,
+      "verse": 12,
+      "scene": "Het nachtelijke antwoord",
+      "alt": "Het nachtelijke antwoord — 2 Kronieken 7:12",
+      "kind": "scene",
+      "file": "7-12-inhoudelijk.webp",
+      "prompt": "Use case: historical-scene. Photorealistic educational Bible illustration, landscape 3:2, ancient Israel in Solomon’s time. Fully modest woven robes, natural hands, exactly two arms per human, correct animal anatomy. No modern objects, Roman armor, readable text, watermark, visible deity, blood, injuries or nudity. Adult King Solomon alone in a quiet ancient palace chamber at night, listening reverently with a sober attentive expression to God’s answer after temple dedication. Warm oil lamp and moonlight, no human deity, angel, visible words or heavenly face.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2kronieken",
+      "chapter": 8,
+      "verse": 11,
+      "scene": "De dochter van Farao verhuist",
+      "alt": "De dochter van Farao verhuist — 2 Kronieken 8:11",
+      "kind": "scene",
+      "file": "8-11-inhoudelijk.webp",
+      "prompt": "Use case: historical-scene. Photorealistic educational Bible illustration, landscape 3:2, ancient Israel in Solomon’s time. Fully modest woven robes, natural hands, exactly two arms per human, correct animal anatomy. No modern objects, Roman armor, readable text, watermark, visible deity, blood, injuries or nudity. An adult Egyptian princess, Solomon’s wife, modestly dressed in an elegant ancient linen robe with a mantle, arrives with attendants carrying household bundles at a separate royal residence in Jerusalem. Respectful relocation, no moving ark or idols, no temple interior.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2kronieken",
+      "chapter": 9,
+      "verse": 21,
+      "scene": "De vloot brengt kostbaarheden",
+      "alt": "De vloot brengt kostbaarheden — 2 Kronieken 9:21",
+      "kind": "scene",
+      "file": "9-21-inhoudelijk.webp",
+      "prompt": "Use case: historical-scene. Photorealistic educational Bible illustration, landscape 3:2, ancient Israel in Solomon’s time. Fully modest woven robes, natural hands, exactly two arms per human, correct animal anatomy. No modern objects, Roman armor, readable text, watermark, visible deity, blood, injuries or nudity. Ancient Phoenician-style wooden trading ship unloading gold and silver vessels and bundled ivory at a harbor. An adult handler carefully leads one small monkey and another carries a wicker carrier with a peacock visible; correct natural animals, fully clothed workers, no modern cargo machinery.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2kronieken",
+      "chapter": 9,
+      "verse": 31,
+      "scene": "Salomo wordt begraven",
+      "alt": "Salomo wordt begraven — 2 Kronieken 9:31",
+      "kind": "scene",
+      "file": "9-31-inhoudelijk.webp",
+      "prompt": "Use case: historical-scene. Photorealistic educational Bible illustration, landscape 3:2, ancient Israel in Solomon’s time. Fully modest woven robes, natural hands, exactly two arms per human, correct animal anatomy. No modern objects, Roman armor, readable text, watermark, visible deity, blood, injuries or nudity. A respectful adult funeral procession carries a fully covered royal bier toward an ancient rock-cut burial place in the City of David. Modest mourners, no exposed corpse, no visible wounds or modern coffin, sober daylight.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2kronieken",
+      "chapter": 10,
+      "verse": 8,
+      "scene": "Rehabeam luistert naar zijn tijdgenoten",
+      "alt": "Rehabeam luistert naar zijn tijdgenoten — 2 Kronieken 10:8",
+      "kind": "scene",
+      "file": "10-8-inhoudelijk.webp",
+      "prompt": "Use case: historical-scene. Photorealistic educational Bible illustration, landscape 3:2, ancient Israel in Solomon’s time. Fully modest woven robes, natural hands, exactly two arms per human, correct animal anatomy. No modern objects, Roman armor, readable text, watermark, visible deity, blood, injuries or nudity. Rehoboam, a mature 41-year-old king with natural early-middle-aged face and a short dark beard, discusses an arrogant political response with advisers of his own generation, adult men about forty, in a palace room. No teenagers or elderly advisers in this particular scene, no actual scorpions or torture.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2kronieken",
+      "chapter": 10,
+      "verse": 18,
+      "scene": "Rehabeam vlucht naar Jeruzalem",
+      "alt": "Rehabeam vlucht naar Jeruzalem — 2 Kronieken 10:18",
+      "kind": "scene",
+      "file": "10-18-inhoudelijk.webp",
+      "prompt": "Use case: historical-scene. Photorealistic educational Bible illustration, landscape 3:2, ancient Israel in Solomon’s time. Fully modest woven robes, natural hands, exactly two arms per human, correct animal anatomy. No modern objects, Roman armor, readable text, watermark, visible deity, blood, injuries or nudity. A mature 41-year-old King Rehoboam hastily steps onto a simple ancient two-wheeled horse chariot to flee, helped by his adult driver, while distant adult crowds remain far behind in a town square. No stoning, victims, blood or violence shown, anatomically correct horses and hands.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2kronieken",
+      "chapter": 1,
+      "verse": 3,
+      "file": "1-gibeon-en-jeruzalem.svg",
+      "scene": "Gibeon en Jeruzalem",
+      "alt": "Twee locaties, verzoek en antwoord bij Salomo’s begin.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1184,
+      "source": "2 Kronieken 1:3–13",
+      "design": {
+        "rows": [
+          [
+            "Gibeon",
+            "De ontmoetingstent van Mozes en het koperen altaar van Bezaleël, zoon van Uri en kleinzoon van Hur."
+          ],
+          [
+            "Jeruzalem",
+            "De ark staat in de tent die David ervoor heeft gemaakt."
+          ],
+          [
+            "De nachtelijke vraag",
+            "Salomo vraagt wijsheid en inzicht om Gods volk te leiden en recht te spreken."
+          ],
+          [
+            "Het antwoord",
+            "Wijsheid en inzicht, en daarnaast rijkdom, bezit en eer; vervolgens keert Salomo naar Jeruzalem terug."
+          ]
+        ],
+        "note": "De twee tenten en plaatsen worden niet samengevoegd."
+      }
+    },
+    {
+      "book": "2kronieken",
+      "chapter": 1,
+      "verse": 14,
+      "file": "1-wagens-paarden-prijzen.svg",
+      "scene": "Wagens, ruiters en handel",
+      "alt": "Aantallen, handelsrichting en onderscheiden prijzen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1091,
+      "source": "2 Kronieken 1:14–17",
+      "design": {
+        "rows": [
+          [
+            "Wagens en ruiters",
+            "1.400 wagens en 12.000 ruiters; in wagensteden en bij de koning."
+          ],
+          [
+            "Invoer uit Egypte",
+            "Handelaars kopen paarden in groepen voor een vaste prijs."
+          ],
+          [
+            "Prijzen in deze vertaling",
+            "Een wagen ongeveer zeven kilo zilver; een paard bijna twee kilo."
+          ],
+          [
+            "Uitvoer",
+            "Ook voor de koningen van de Hethieten en van Syrië."
+          ]
+        ],
+        "note": "Deze aantallen en afgeronde gewichten volgen dit hoofdstuk; goud en zilver als stenen is een vergelijking voor overvloed."
+      }
+    },
+    {
+      "book": "2kronieken",
+      "chapter": 2,
+      "verse": 2,
+      "file": "2-werkers-en-goederen.svg",
+      "scene": "Werkers en goederen",
+      "alt": "Aantallen en de twee richtingen van de uitwisseling.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1141,
+      "source": "2 Kronieken 2:2, 7–18",
+      "design": {
+        "rows": [
+          [
+            "Dragers en steenhouwers",
+            "70.000 dragers en 80.000 steenhouwers in het bergland."
+          ],
+          [
+            "Opzichters",
+            "3.600; samen 153.600 getelde vreemdelingen."
+          ],
+          [
+            "Hout",
+            "Ceder, cipres en sandelhout uit de Libanon; over zee op vlotten naar Jafo, daarna naar Jeruzalem."
+          ],
+          [
+            "Voor de houthakkers",
+            "Ongeveer 4.400 ton tarwe en evenveel gerst; 440.000 liter wijn en evenveel olie."
+          ]
+        ],
+        "note": "De aantallen werkers tellen exact op; levering en tegenprestatie zijn afzonderlijke stromen."
+      }
+    },
+    {
+      "book": "2kronieken",
+      "chapter": 2,
+      "verse": 13,
+      "file": "2-twee-hurams.svg",
+      "scene": "Huram en Huram-Abi",
+      "alt": "Namen, herkomst en taken zonder de twee personen te vermengen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1098,
+      "source": "2 Kronieken 2:3–16",
+      "design": {
+        "rows": [
+          [
+            "Huram",
+            "Koning van Tyrus; ontvangt het verzoek en antwoordt per brief."
+          ],
+          [
+            "Huram-Abi",
+            "De gestuurde vakman; moeder uit Dan, vader uit Tyrus."
+          ],
+          [
+            "Zijn vaardigheden",
+            "Goud, zilver, koper, ijzer, steen, hout, kleuren, fijn linnen en graveerwerk."
+          ],
+          [
+            "Samenwerking",
+            "Met de vaklieden van Salomo en die van David."
+          ]
+        ],
+        "note": "Koning en vakman zijn twee verschillende personen; dit hoofdstuk noemt Dan bij de moeder."
+      }
+    },
+    {
+      "book": "2kronieken",
+      "chapter": 3,
+      "verse": 1,
+      "file": "3-bouwplaats-en-maten.svg",
+      "scene": "Bouwplaats en hoofdmaten",
+      "alt": "Plaats, datering en expliciet genoemde bouwmaten.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1290,
+      "source": "2 Kronieken 3:1–9",
+      "design": {
+        "rows": [
+          [
+            "Plaats en begin",
+            "Moria in Jeruzalem, Ornans dorsvloer; tweede dag van maand twee in Salomo’s vierde regeringsjaar."
+          ],
+          [
+            "Het huis",
+            "Volgens de oude maat ongeveer 27 meter lang en 9 meter breed."
+          ],
+          [
+            "Voorhal",
+            "Ongeveer 9 meter breed en volgens dit vers 54 meter hoog."
+          ],
+          [
+            "Allerheiligste",
+            "Ongeveer 9 bij 9 meter; bekleed met ongeveer twintig ton goud."
+          ],
+          [
+            "Versiering",
+            "Cipres, goud, palmen, vlechtwerk, kostbare stenen en gegraveerde cherubs."
+          ]
+        ],
+        "note": "Afgeronde maten volgen deze vertaling; de voorhalhoogte wordt niet stilzwijgend gewijzigd."
+      }
+    },
+    {
+      "book": "2kronieken",
+      "chapter": 3,
+      "verse": 10,
+      "file": "3-cherubs-en-zuilen.svg",
+      "scene": "Cherubs en twee zuilen",
+      "alt": "Vleugelrelaties, materialen en namen van de zuilen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1141,
+      "source": "2 Kronieken 3:10–17",
+      "design": {
+        "rows": [
+          [
+            "Twee cherubs",
+            "Rechtop, naar de zaal gericht; elke vleugel ongeveer 2,25 meter."
+          ],
+          [
+            "Wand tot wand",
+            "Vier vleugels spannen samen ongeveer 9 meter; buitenste vleugels raken de wanden, binnenste elkaar."
+          ],
+          [
+            "Voorhangsel",
+            "Blauwpurper, purper, karmozijn en fijn linnen, met cherubs."
+          ],
+          [
+            "Zuilen",
+            "Ongeveer 16 meter hoog met kapitelen van 2,25 meter; rechts Jachin, links Boaz."
+          ]
+        ],
+        "note": "De vleugellengten vormen samen de breedte; de zijden volgen de beschrijving in de tekst."
+      }
+    },
+    {
+      "book": "2kronieken",
+      "chapter": 4,
+      "verse": 1,
+      "file": "4-altaar-zee-wasvaten.svg",
+      "scene": "Altaar, zee en wasvaten",
+      "alt": "Maten, steunrunderen en verschillende wasfuncties.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1369,
+      "source": "2 Kronieken 4:1–6, 10",
+      "design": {
+        "rows": [
+          [
+            "Koperen altaar",
+            "Ongeveer 9 bij 9 meter en 4,5 meter hoog."
+          ],
+          [
+            "Gegoten zee",
+            "Rond: doorsnede 4,5 meter; hoogte 2,25 meter; genoemde omtrek 13,5 meter."
+          ],
+          [
+            "Wand en inhoud",
+            "Ongeveer 7,5 centimeter dik; capaciteit circa 66.000 liter."
+          ],
+          [
+            "Twaalf runderen",
+            "Drie naar elk van de vier windrichtingen; achterkanten naar binnen."
+          ],
+          [
+            "Twee functies",
+            "Zee: priesters wassen zich. Tien wasvaten: vijf per zijde, om offerdelen te spoelen."
+          ]
+        ],
+        "note": "De afgeronde omtrek en doorsnede zijn de vermelde maten; de zee staat oostelijk naar het zuiden."
+      }
+    },
+    {
+      "book": "2kronieken",
+      "chapter": 4,
+      "verse": 7,
+      "file": "4-gerei-en-materialen.svg",
+      "scene": "Gerei en materialen",
+      "alt": "Aantallen, materialen en de plaats van het gietwerk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1283,
+      "source": "2 Kronieken 4:7–22",
+      "design": {
+        "rows": [
+          [
+            "Tien en tien",
+            "Tien gouden kandelaars en tien tafels: telkens vijf rechts en vijf links."
+          ],
+          [
+            "Goud",
+            "Honderd sprengschalen; ook altaar, lampen, bekers, gerei en deuren."
+          ],
+          [
+            "Koper",
+            "Zuilen, zee, onderstellen, wasvaten, potten, scheppen en vorken."
+          ],
+          [
+            "Vierhonderd",
+            "Granaatappels rond twee kapitelen, in twee rijen per vlechtwerk."
+          ],
+          [
+            "Gietplaats",
+            "Jordaanvlakte tussen Sukkoth en Zeredatha, in vaste kleivormen."
+          ]
+        ],
+        "note": "De aantallen per hoofdstuk worden behouden; hoofdstuk 3 noemt honderd bij zijn eigen beschrijving van het vlechtwerk."
+      }
+    },
+    {
+      "book": "2kronieken",
+      "chapter": 5,
+      "verse": 2,
+      "file": "5-ark-naar-allerheiligste.svg",
+      "scene": "De ark naar haar plaats",
+      "alt": "Volgorde en plaatsing met alleen de hier genoemde inhoud van de ark.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1333,
+      "source": "2 Kronieken 5:2–14",
+      "design": {
+        "rows": [
+          [
+            "De zevende maand",
+            "Oudsten, stamhoofden en families komen voor het feest bijeen."
+          ],
+          [
+            "Dragen",
+            "Levieten tillen de ark; priesters en Levieten brengen ook tent en heilig gerei."
+          ],
+          [
+            "Binnenste vertrek",
+            "Ark en draagbomen komen onder de uitgespreide vleugels van de cherubs."
+          ],
+          [
+            "Inhoud",
+            "Alleen de twee stenen platen die Mozes bij Horeb in de ark legde."
+          ],
+          [
+            "Zang en wolk",
+            "Zangers aan de oostkant van het altaar, 120 trompetters; de wolk verhindert de priesterdienst."
+          ]
+        ],
+        "note": "De stoet, plaatsing, muziek en wolk zijn verschillende fasen."
+      }
+    },
+    {
+      "book": "2kronieken",
+      "chapter": 6,
+      "verse": 13,
+      "file": "6-verhoging-en-gebed.svg",
+      "scene": "Verhoging en gebedsrichting",
+      "alt": "Afmetingen en het onderscheid tussen gebedsplaats en Gods woonplaats.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1098,
+      "source": "2 Kronieken 6:12–21",
+      "design": {
+        "rows": [
+          [
+            "Koperen verhoging",
+            "Midden op de voorhof; ongeveer 2,25 bij 2,25 meter en 1,35 meter hoog."
+          ],
+          [
+            "Salomo",
+            "Knielt voor de vergadering en spreidt zijn handen naar de hemel."
+          ],
+          [
+            "Verbond en trouw",
+            "Hij vraagt bevestiging van Gods belofte aan David."
+          ],
+          [
+            "Gods woonplaats",
+            "Zelfs de hoogste hemel kan God niet bevatten; Salomo vraagt dat God vanuit de hemel hoort en vergeeft."
+          ]
+        ],
+        "note": "De verhoging is de gebedsplaats, niet het brandofferaltaar."
+      }
+    },
+    {
+      "book": "2kronieken",
+      "chapter": 6,
+      "verse": 22,
+      "file": "6-gebed-situaties-eerste.svg",
+      "scene": "Gebed bij nood en schuld",
+      "alt": "De voorwaardelijke gebedsgevallen met hun eigen verzoeken.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1240,
+      "source": "2 Kronieken 6:22–33",
+      "design": {
+        "rows": [
+          [
+            "Eed en rechtszaak",
+            "Recht voor onschuldige en schuldige."
+          ],
+          [
+            "Nederlaag",
+            "Inkeer, vergeving en terugkeer naar het land."
+          ],
+          [
+            "Geen regen",
+            "Inkeer, onderwijs in de goede weg en regen."
+          ],
+          [
+            "Plagen en ziekte",
+            "Ieder kent eigen verdriet; God kent het hart."
+          ],
+          [
+            "De vreemdeling",
+            "Horen opdat alle volken Gods naam kennen."
+          ]
+        ],
+        "note": "Dit zijn mogelijke situaties in het gebed, geen vijf gebeurtenissen die bij de inwijding plaatsvonden."
+      }
+    },
+    {
+      "book": "2kronieken",
+      "chapter": 6,
+      "verse": 34,
+      "file": "6-gebed-strijd-ballingschap.svg",
+      "scene": "Gebed in strijd en ballingschap",
+      "alt": "Strijd, inkeer en de slotbede zonder toekomst en inwijding te verwisselen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1141,
+      "source": "2 Kronieken 6:34–42",
+      "design": {
+        "rows": [
+          [
+            "Ten strijde",
+            "Bidden naar de gekozen stad en het huis; vraag om recht."
+          ],
+          [
+            "Wegvoering",
+            "Er is niemand zonder zonde; gevangenschap kan volgen."
+          ],
+          [
+            "Terugkeer van het hart",
+            "Inkeer en schuldbelijdenis in het land van gevangenschap; bidden naar land, stad en huis."
+          ],
+          [
+            "Slotbede",
+            "Gods ogen en oren open; rustplaats, ark, priesters, getrouwen en trouw aan David."
+          ]
+        ],
+        "note": "Ballingschap staat hier als mogelijk toekomstig geval in Salomo’s gebed."
+      }
+    },
+    {
+      "book": "2kronieken",
+      "chapter": 7,
+      "verse": 4,
+      "file": "7-inwijding-feest-en-afscheid.svg",
+      "scene": "Inwijding, feest en afscheid",
+      "alt": "Aantallen, dienst en tijdsaanduidingen bij de inwijding.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1220,
+      "source": "2 Kronieken 7:4–11",
+      "design": {
+        "rows": [
+          [
+            "Offers",
+            "22.000 runderen en 120.000 schapen; de voorhof wordt mede gebruikt omdat het altaar te klein is."
+          ],
+          [
+            "Dienst",
+            "Priesters op hun post, Levieten met Davids instrumenten en trompetters tegenover hen."
+          ],
+          [
+            "Twee perioden",
+            "Zeven dagen inwijding van het altaar en zeven dagen feest; een feestelijke slotdag."
+          ],
+          [
+            "Naar huis",
+            "Op dag 23 van de zevende maand; blij om het goede aan David, Salomo en Israël."
+          ]
+        ],
+        "note": "De twee zevendaagse perioden blijven afzonderlijk; de genoemde slotdag wordt niet tot één kort feest teruggebracht."
+      }
+    },
+    {
+      "book": "2kronieken",
+      "chapter": 7,
+      "verse": 12,
+      "file": "7-antwoord-en-waarschuwing.svg",
+      "scene": "Antwoord en waarschuwing",
+      "alt": "De samenhang van gebed, bekering, belofte en waarschuwing.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1134,
+      "source": "2 Kronieken 7:12–22",
+      "design": {
+        "rows": [
+          [
+            "Gebed gehoord",
+            "God kiest de plaats als huis waar geofferd wordt."
+          ],
+          [
+            "Bij droogte of plaag",
+            "Nederig worden, bidden, God zoeken en slechte wegen verlaten: horen, vergeven, land genezen."
+          ],
+          [
+            "Aan Salomo",
+            "Geboden houden; belofte over het koningschap."
+          ],
+          [
+            "Bij afkeer",
+            "Andere goden dienen leidt tot weggerukt worden en verwerping van het huis."
+          ]
+        ],
+        "note": "Zegen en waarschuwing staan beide in het nachtelijke antwoord; het gebouw is geen vrijbrief voor ontrouw."
+      }
+    },
+    {
+      "book": "2kronieken",
+      "chapter": 8,
+      "verse": 1,
+      "file": "8-bouwen-en-arbeid.svg",
+      "scene": "Stedenbouw en arbeid",
+      "alt": "Bouwplaatsen, groepen en de reden voor de verhuizing.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1369,
+      "source": "2 Kronieken 8:1–11",
+      "design": {
+        "rows": [
+          [
+            "Na twintig jaar",
+            "Werk aan tempel en paleis; daarna stedenbouw en vestiging."
+          ],
+          [
+            "Genoemde plaatsen",
+            "Hamath-Zoba, Tadmor, Hoog- en Laag-Beth-Horon en Baälath."
+          ],
+          [
+            "Dwangarbeid",
+            "Overgebleven Hethieten, Amorieten, Ferezieten, Hevieten en Jebusieten."
+          ],
+          [
+            "Israëlieten",
+            "Soldaten en bevelhebbers; geen slaven voor dit werk. Daarnaast 250 opzichters."
+          ],
+          [
+            "Eigen woning",
+            "De dochter van Farao verhuist uit Davids stad wegens de heilige plaatsen waar de ark was."
+          ]
+        ],
+        "note": "De verschillende arbeidsgroepen worden benoemd; dit is geen beeld van uitsluitend vrijwillige bouwarbeid."
+      }
+    },
+    {
+      "book": "2kronieken",
+      "chapter": 8,
+      "verse": 12,
+      "file": "8-dienst-en-zeevaart.svg",
+      "scene": "Vaste dienst en zeevaart",
+      "alt": "Het dienstrooster, de genoemde havens en de opbrengst.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1247,
+      "source": "2 Kronieken 8:12–18",
+      "design": {
+        "rows": [
+          [
+            "Vaste offers",
+            "Elke dag, sabbatten, nieuwemaansdagen en drie jaarfeesten."
+          ],
+          [
+            "Drie feesten",
+            "Ongezuurde broden, Wekenfeest en Loofhuttenfeest."
+          ],
+          [
+            "Dienstgroepen",
+            "Priesters, Levieten en poortwachters volgens Davids regeling."
+          ],
+          [
+            "Zeevaart",
+            "Via Ezeon-Geber en Eloth in Edom; Hurams zeelui varen met Salomo’s mensen naar Ofir."
+          ],
+          [
+            "Goud",
+            "Zij brengen ongeveer vijftien ton mee."
+          ]
+        ],
+        "note": "De zeevaarders en de vaste tempeldienst zijn twee onderscheiden onderwerpen in dit hoofdstuk."
+      }
+    },
+    {
+      "book": "2kronieken",
+      "chapter": 9,
+      "verse": 1,
+      "file": "9-scheba-en-geschenken.svg",
+      "scene": "Scheba: vragen en geschenken",
+      "alt": "De beweging van vragen via waarneming naar erkenning en uitwisseling.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1177,
+      "source": "2 Kronieken 9:1–12",
+      "design": {
+        "rows": [
+          [
+            "Aankomst",
+            "Raadsels en vragen; kamelen met specerijen, goud en edelstenen."
+          ],
+          [
+            "Waarneming",
+            "Wijsheid, paleis, tafel, dienaren en opgang maken diepe indruk."
+          ],
+          [
+            "Erkenning",
+            "Zij prijst God en noemt recht en gerechtigheid als doel van Salomo’s koningschap."
+          ],
+          [
+            "Wederzijdse gaven",
+            "Zij geeft circa vier ton goud en kostbaarheden; Salomo geeft haar wat zij vraagt en meer."
+          ]
+        ],
+        "note": "Haar bezoek wordt niet tot alleen rijkdom teruggebracht; vragen en rechtspraak horen bij de passage."
+      }
+    },
+    {
+      "book": "2kronieken",
+      "chapter": 9,
+      "verse": 13,
+      "file": "9-rijkdom-en-troon.svg",
+      "scene": "Rijkdom, troon en afloop",
+      "alt": "Aantallen, troononderdelen en de overgang naar Rehabeam.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1412,
+      "source": "2 Kronieken 9:13–31",
+      "design": {
+        "rows": [
+          [
+            "Goud en schilden",
+            "Circa 23 ton per jaar; 200 grote schilden van circa 7 kilo en 300 kleinere van circa 3,5 kilo."
+          ],
+          [
+            "Troon",
+            "Ivoor met goud; zes treden met twaalf leeuwen, naast de zitting nog twee leeuwen."
+          ],
+          [
+            "Handel",
+            "Driejaarlijkse vaart met goud, zilver, ivoor, apen en pauwen; paarden uit Egypte en elders."
+          ],
+          [
+            "Stallen en ruiters",
+            "4.000 stallen voor paarden en wagens en 12.000 ruiters."
+          ],
+          [
+            "Opvolging",
+            "Na veertig jaar sterft Salomo; Rehabeam wordt koning."
+          ]
+        ],
+        "note": "Twaalf leeuwen op de treden en twee bij de leuningen zijn onderscheiden groepen; aantallen volgen dit hoofdstuk."
+      }
+    },
+    {
+      "book": "2kronieken",
+      "chapter": 10,
+      "verse": 4,
+      "file": "10-twee-adviezen.svg",
+      "scene": "Twee adviezen aan Rehabeam",
+      "alt": "Tegenovergestelde raad en het gekozen antwoord.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1091,
+      "source": "2 Kronieken 10:4–14",
+      "design": {
+        "rows": [
+          [
+            "De vraag van het volk",
+            "Minder hard werk en een lichter juk; dan zullen zij dienen."
+          ],
+          [
+            "De oudsten",
+            "Wees goed en vriendelijk, spreek goede woorden."
+          ],
+          [
+            "Zijn tijdgenoten",
+            "Maak het juk zwaarder en dreig met strengere bestraffing."
+          ],
+          [
+            "De keuze",
+            "Na drie dagen geeft Rehabeam een hard antwoord volgens zijn tijdgenoten."
+          ]
+        ],
+        "note": "Juk, pink en schorpioenen horen bij beeldspraak en dreiging; het zijn geen letterlijk afgebeelde dieren op het plein."
+      }
+    },
+    {
+      "book": "2kronieken",
+      "chapter": 10,
+      "verse": 15,
+      "file": "10-breuk-en-vlucht.svg",
+      "scene": "Breuk en vlucht",
+      "alt": "Reden, breuk en vlucht met correcte persoonsrollen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1240,
+      "source": "2 Kronieken 10:15–19",
+      "design": {
+        "rows": [
+          [
+            "De verteller",
+            "Verbindt de wending met het woord via Ahia uit Silo aan Jerobeam."
+          ],
+          [
+            "Israël",
+            "Keert zich af van Davids huis en gaat naar huis."
+          ],
+          [
+            "Juda",
+            "Rehabeam blijft koning over de Israëlieten in Juda’s steden."
+          ],
+          [
+            "Hadoram",
+            "Opzichter over dwangarbeid, wordt gestenigd en sterft."
+          ],
+          [
+            "Rehabeam",
+            "Vlucht op zijn wagen naar Jeruzalem."
+          ]
+        ],
+        "note": "Dit hoofdstuk noemt Hadoram; hij wordt niet verward met Hadoram, de zoon van Thou, uit het eerdere boek."
+      }
+    }
+  ]
+}
