@@ -1,0 +1,26 @@
+{
+  "mode": "built-in image edit",
+  "description": "Gaven tijdens Davids voorbereiding; een nog niet bestaande tempelbouw uit de achtergrond verwijderd. Anatomie en nieuwe achtergrond visueel gecontroleerd.",
+  "prompt": "Edit only the background setting of this historical Bible illustration for 1 Chronicles 29:6-9. The temple has NOT yet been built during David's preparation and donation gathering. Replace the monumental temple columns, construction scaffolding, workers building a temple and temple stairs with a simple ancient Jerusalem palace storage courtyard and a plain low stone wall. Keep the three foreground adult men carrying donated precious metals, wood and stones, their faces, fully modest robes, poses, baskets, proportions, correct two arms and hands; preserve photorealism, warm daylight and landscape framing. Show donations being brought for future construction, no temple already under construction, no modern objects or text.",
+  "metadata_corrections": [
+    {
+      "book": "1kronieken",
+      "before": {
+        "chapter": 29,
+        "file": "29-gifts.webp",
+        "alt": "Leiders brengen materialen voor de tempel",
+        "scene": "Gaven voor de tempel"
+      },
+      "after": {
+        "chapter": 29,
+        "file": "29-gifts-v2.webp",
+        "alt": "Leiders brengen vrijwillige gaven voor de toekomstige tempelbouw naar een opslagplaats",
+        "scene": "Gaven voor de tempel",
+        "verse": 6,
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      }
+    }
+  ]
+}

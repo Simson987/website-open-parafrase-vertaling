@@ -1,0 +1,39 @@
+{
+  "description": "Bestaande beelden met de plaatselijke verzen gecontroleerd; ark op de wagen bij 13:7 en lofzang bij 16:7 geplaatst.",
+  "metadata_corrections": [
+    {
+      "book": "1kronieken",
+      "before": {
+        "chapter": 13,
+        "file": "13-ark.webp",
+        "alt": "Mensen begeleiden de ark op een wagen",
+        "scene": "De ark onderweg"
+      },
+      "after": {
+        "chapter": 13,
+        "file": "13-ark.webp",
+        "alt": "Mensen begeleiden de ark op een wagen",
+        "scene": "De ark onderweg",
+        "verse": 7,
+        "kind": "scene"
+      }
+    },
+    {
+      "book": "1kronieken",
+      "before": {
+        "chapter": 16,
+        "file": "16-music.webp",
+        "alt": "Zangers en muzikanten vieren bij de ark",
+        "scene": "Danklied bij de ark"
+      },
+      "after": {
+        "chapter": 16,
+        "file": "16-music.webp",
+        "alt": "Zangers en muzikanten vieren bij de ark",
+        "scene": "Danklied bij de ark",
+        "verse": 7,
+        "kind": "scene"
+      }
+    }
+  ]
+}
