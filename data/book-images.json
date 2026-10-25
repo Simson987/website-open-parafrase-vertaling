@@ -34792,42 +34792,60 @@
         "verse": 7,
         "file": "9-7.webp",
         "alt": "Beeld bij Johannes 9: Wassen bij Siloam",
-        "scene": "Wassen bij Siloam"
+        "scene": "Wassen bij Siloam",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 9,
         "verse": 25,
         "file": "9-25.webp",
         "alt": "Beeld bij Johannes 9: Ik was blind en nu zie ik",
-        "scene": "Ik was blind en nu zie ik"
+        "scene": "Ik was blind en nu zie ik",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 9,
         "verse": 38,
         "file": "9-38.webp",
         "alt": "Beeld bij Johannes 9: Ik geloof Heere",
-        "scene": "Ik geloof Heere"
+        "scene": "Ik geloof Heere",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 10,
         "verse": 3,
         "file": "10-3.webp",
         "alt": "Beeld bij Johannes 10: De schapen volgen de stem",
-        "scene": "De schapen volgen de stem"
+        "scene": "De schapen volgen de stem",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 10,
         "verse": 11,
         "file": "10-11.webp",
         "alt": "Beeld bij Johannes 10: De goede herder",
-        "scene": "De goede herder"
+        "scene": "De goede herder",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 10,
         "verse": 28,
         "file": "10-28.webp",
         "alt": "Beeld bij Johannes 10: Niemand rukt hen uit mijn hand",
-        "scene": "Niemand rukt hen uit mijn hand"
+        "scene": "Niemand rukt hen uit mijn hand",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 11,
@@ -35592,6 +35610,96 @@
         "kind": "diagram",
         "width": 840,
         "height": 1028
+      },
+      {
+        "chapter": 9,
+        "verse": 6,
+        "file": "9-6-modder-ogen-verdieping.webp",
+        "scene": "Jezus strijkt modder op de ogen",
+        "alt": "Jezus strijkt modder op de ogen — Johannes 9:6; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 9,
+        "verse": 20,
+        "file": "9-20-ouders-antwoord-verdieping.webp",
+        "scene": "De ouders beantwoorden de vragen",
+        "alt": "De ouders beantwoorden de vragen — Johannes 9:20; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 9,
+        "verse": 34,
+        "file": "9-34-buiten-gezet-verdieping.webp",
+        "scene": "De man wordt buitengezet",
+        "alt": "De man wordt buitengezet — Johannes 9:34; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 10,
+        "verse": 23,
+        "file": "10-23-salomo-winter-verdieping.webp",
+        "scene": "Jezus in de zuilengang van Salomo",
+        "alt": "Jezus in de zuilengang van Salomo — Johannes 10:23; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 10,
+        "verse": 40,
+        "file": "10-40-jordaan-terug-verdieping.webp",
+        "scene": "Jezus keert terug naar de overkant van de Jordaan",
+        "alt": "Jezus keert terug naar de overkant van de Jordaan — Johannes 10:40; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 9,
+        "verse": 1,
+        "file": "9-leeswijzer.svg",
+        "scene": "Van blind geboren naar geloven",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 992
+      },
+      {
+        "chapter": 10,
+        "verse": 1,
+        "file": "10-leeswijzer.svg",
+        "scene": "Herder, horen en één zijn",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 992
+      },
+      {
+        "chapter": 9,
+        "verse": 8,
+        "file": "9-vragen-en-antwoorden.svg",
+        "scene": "Wie vraagt, wie antwoordt?",
+        "alt": "Wie vraagt, wie antwoordt? met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1098
+      },
+      {
+        "chapter": 10,
+        "verse": 1,
+        "file": "10-herder-en-huurling.svg",
+        "scene": "Herder, huurling en schapen",
+        "alt": "Herder, huurling en schapen met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 949
       }
     ],
     "handelingen": [

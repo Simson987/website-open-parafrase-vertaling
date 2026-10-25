@@ -1,0 +1,189 @@
+{
+  "date": "2026-10-25",
+  "started": "2026-10-25T10:50:16Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "johannes",
+      "chapter": 9,
+      "verse": 6,
+      "file": "9-6-modder-ogen-verdieping.webp",
+      "scene": "Jezus strijkt modder op de ogen",
+      "alt": "Jezus strijkt modder op de ogen — Johannes 9:6; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. A robed adult Jewish teacher gently applies a small amount of clean clay to the closed eyelids of a fully clothed adult man seated beside an ancient Jerusalem path, no injury, coherent hands, respectful interaction.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "johannes",
+      "chapter": 9,
+      "verse": 20,
+      "file": "9-20-ouders-antwoord-verdieping.webp",
+      "scene": "De ouders beantwoorden de vragen",
+      "alt": "De ouders beantwoorden de vragen — Johannes 9:20; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. An older fully clothed Jewish husband and wife in modest long robes speak cautiously with three seated ancient religious leaders in a stone courtyard, separate natural hands.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "johannes",
+      "chapter": 9,
+      "verse": 34,
+      "file": "9-34-buiten-gezet-verdieping.webp",
+      "scene": "De man wordt buitengezet",
+      "alt": "De man wordt buitengezet — Johannes 9:34; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. A fully clothed healthy adult Jewish man stands outside an ancient synagogue doorway as stern leaders inside gesture for him to leave, no physical violence or injury.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "johannes",
+      "chapter": 10,
+      "verse": 23,
+      "file": "10-23-salomo-winter-verdieping.webp",
+      "scene": "Jezus in de zuilengang van Salomo",
+      "alt": "Jezus in de zuilengang van Salomo — Johannes 10:23; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. A robed adult Jewish teacher walks in a long ancient Jerusalem temple colonnade in winter with gray sky, a small group of adult questioners approach, stone columns, no snow or modern objects.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "johannes",
+      "chapter": 10,
+      "verse": 40,
+      "file": "10-40-jordaan-terug-verdieping.webp",
+      "scene": "Jezus keert terug naar de overkant van de Jordaan",
+      "alt": "Jezus keert terug naar de overkant van de Jordaan — Johannes 10:40; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. A robed adult Jewish teacher sits beside the Jordan with a group of clothed adult listeners on the far bank, peaceful river landscape, no baptism taking place.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "johannes",
+      "chapter": 9,
+      "verse": 1,
+      "file": "9-leeswijzer.svg",
+      "scene": "Van blind geboren naar geloven",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 992,
+      "source": "Johannes 9:1–41",
+      "design": {
+        "rows": [
+          [
+            "Zien · 1–12",
+            "Geen oorzakelijke schuld ouders/man; modder, opdracht Siloam, wassen en zien, buren vragen."
+          ],
+          [
+            "Ondervraagd · 13–34",
+            "Sabbat en verdeeldheid; ouders uit angst, man getuigt opnieuw, buitengezet."
+          ],
+          [
+            "Gevonden · 35–41",
+            "Jezus zoekt hem, Zoon van God, geloof en aanbidding; zien en blindheid als slotwoord."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "johannes",
+      "chapter": 10,
+      "verse": 1,
+      "file": "10-leeswijzer.svg",
+      "scene": "Herder, horen en één zijn",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 992,
+      "source": "Johannes 10:1–42",
+      "design": {
+        "rows": [
+          [
+            "Beeldspraak · 1–18",
+            "Deur, stem en volgen; herder tegenover vreemde/huurling, leven geven en één kudde."
+          ],
+          [
+            "Reacties en feest · 19–30",
+            "Verdeeldheid; winter, vernieuwing en Salomo’s zuilengang; werken, horen en veilig in hand; Vader en ik één."
+          ],
+          [
+            "Afwijzing en overkant · 31–42",
+            "Stenen en godslasteringsvraag; Schrift en werken, ontkomen en Jordaan, veel geloof."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "johannes",
+      "chapter": 9,
+      "verse": 8,
+      "file": "9-vragen-en-antwoorden.svg",
+      "scene": "Wie vraagt, wie antwoordt?",
+      "alt": "Wie vraagt, wie antwoordt? met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1098,
+      "source": "Johannes 9:8–38",
+      "design": {
+        "rows": [
+          [
+            "Buren · 8–12",
+            "Herkenning, hoe en waar; man vertelt van Jezus en wassen."
+          ],
+          [
+            "Leiders en ouders · 13–23",
+            "Sabbat, identiteit en afkomst blind; ouders bevestigen zoon maar verwijzen vraag naar hem."
+          ],
+          [
+            "Man opnieuw · 24–34",
+            "Eén ding weet hij: blind geweest en nu zien; verhoor en buitengezet."
+          ],
+          [
+            "Jezus · 35–38",
+            "Zoekt hem, vraagt geloof; man belijdt en aanbidt."
+          ]
+        ],
+        "note": "Uitspraken van de ondervragers zijn niet de verklaring van de verteller."
+      }
+    },
+    {
+      "book": "johannes",
+      "chapter": 10,
+      "verse": 1,
+      "file": "10-herder-en-huurling.svg",
+      "scene": "Herder, huurling en schapen",
+      "alt": "Herder, huurling en schapen met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 949,
+      "source": "Johannes 10:1–18",
+      "design": {
+        "rows": [
+          [
+            "Deur · 1–10",
+            "Herder komt door deur, wachter opent; schapen herkennen stem, gaan uit en vinden weide."
+          ],
+          [
+            "Goede herder · 11–18",
+            "Kent eigen schapen, legt leven vrijwillig af en neemt weer aan; andere schapen, één kudde."
+          ],
+          [
+            "Huurling · 12–13",
+            "Niet eigenaar, ziet wolf en vlucht; schapen uiteengejaagd."
+          ]
+        ],
+        "note": "Beeldspraak uit het onderwijs; geen vastgestelde werkplek of schapenbedrijf van Jezus."
+      }
+    }
+  ]
+}
