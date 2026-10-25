@@ -23082,13 +23082,9 @@
         "chapter": 2,
         "file": "2-court.webp",
         "alt": "Esther wordt voorgesteld aan het koninklijk hof",
-        "scene": "Esther aan het hof"
-      },
-      {
-        "chapter": 4,
-        "file": "4-decision.webp",
-        "alt": "Esther overlegt met Mordechai bij de paleispoort",
-        "scene": "Esthers besluit"
+        "scene": "Esther aan het hof",
+        "verse": 16,
+        "kind": "scene"
       },
       {
         "chapter": 8,
@@ -23284,6 +23280,176 @@
         "file": "10-3.webp",
         "alt": "Beeld bij Esther 10: Mordechai zoekt het welzijn van zijn volk",
         "scene": "Mordechai zoekt het welzijn van zijn volk"
+      },
+      {
+        "chapter": 1,
+        "verse": 12,
+        "scene": "Vasthi weigert de oproep",
+        "alt": "Vasthi weigert de oproep — Esther 1:12",
+        "kind": "scene",
+        "file": "1-12-inhoudelijk.webp",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 2,
+        "verse": 17,
+        "scene": "Esther ontvangt de koninklijke kroon",
+        "alt": "Esther ontvangt de koninklijke kroon — Esther 2:17",
+        "kind": "scene",
+        "file": "2-17-inhoudelijk.webp",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 2,
+        "verse": 23,
+        "scene": "De redding van de koning wordt vastgelegd",
+        "alt": "De redding van de koning wordt vastgelegd — Esther 2:23",
+        "kind": "scene",
+        "file": "2-23-inhoudelijk.webp",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 3,
+        "verse": 15,
+        "scene": "Boden brengen het bevel naar de gewesten",
+        "alt": "Boden brengen het bevel naar de gewesten — Esther 3:15",
+        "kind": "scene",
+        "file": "3-15-inhoudelijk.webp",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 4,
+        "verse": 9,
+        "scene": "Hatach brengt Mordechai’s boodschap bij Esther",
+        "alt": "Hatach brengt Mordechai’s boodschap bij Esther — Esther 4:9",
+        "kind": "scene",
+        "file": "4-9-inhoudelijk.webp",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 4,
+        "verse": 16,
+        "scene": "Esther en haar meisjes vasten",
+        "alt": "Esther en haar meisjes vasten — Esther 4:16",
+        "kind": "scene",
+        "file": "4-16-inhoudelijk.webp",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 5,
+        "verse": 9,
+        "scene": "Haman ziet de zittende Mordechai",
+        "alt": "Haman ziet de zittende Mordechai — Esther 5:9",
+        "kind": "scene",
+        "file": "5-9-inhoudelijk.webp",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 1,
+        "verse": 1,
+        "file": "1-feesten-en-koninklijk-besluit.svg",
+        "scene": "Feesten en koninklijk besluit",
+        "alt": "Data, twee feestlocaties en de stap van weigering naar koninklijk besluit.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1326
+      },
+      {
+        "chapter": 1,
+        "verse": 10,
+        "file": "1-twee-groepen-van-zeven.svg",
+        "scene": "Twee groepen van zeven",
+        "alt": "De veertien namen in hun verschillende functies.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 949
+      },
+      {
+        "chapter": 2,
+        "verse": 5,
+        "file": "2-familie-en-verschillende-functies.svg",
+        "scene": "Familie en hoffuncties",
+        "alt": "De expliciet genoemde verwantschap en de verschillende rollen aan het hof.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1369
+      },
+      {
+        "chapter": 2,
+        "verse": 12,
+        "file": "2-voorbereiding-kroon-kroniek.svg",
+        "scene": "Voorbereiding, kroon, kroniek",
+        "alt": "Verzorgingsduur, koninklijke datum en het vastgelegde onderzoek.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1362
+      },
+      {
+        "chapter": 3,
+        "verse": 1,
+        "file": "3-van-weigering-naar-vervolging.svg",
+        "scene": "Van weigering naar vervolging",
+        "alt": "De escalatie van persoonlijke woede naar een rijkwijd vervolgingsbevel.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1448
+      },
+      {
+        "chapter": 3,
+        "verse": 7,
+        "file": "3-drie-datums-van-het-bevel.svg",
+        "scene": "Drie datums rond het bevel",
+        "alt": "Het verschil tussen loting, het opstellen van het bevel en de geplande geweldsdag.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1177
+      },
+      {
+        "chapter": 4,
+        "verse": 1,
+        "file": "4-boodschappen-via-hatach.svg",
+        "scene": "Boodschappen via Hatach",
+        "alt": "De heen-en-weergaande berichten en hun rol bij Esthers besluit.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1405
+      },
+      {
+        "chapter": 4,
+        "verse": 11,
+        "file": "4-gevaar-vasten-en-besluit.svg",
+        "scene": "Gevaar, vasten en besluit",
+        "alt": "De verschillende termijnen en het persoonlijke risico van Esthers stap.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1333
+      },
+      {
+        "chapter": 5,
+        "verse": 1,
+        "file": "5-twee-uitnodigingen-en-haman.svg",
+        "scene": "Twee uitnodigingen en Haman",
+        "alt": "De twee uitnodigingen en de omslag van Hamans vreugde naar woede.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1283
+      },
+      {
+        "chapter": 5,
+        "verse": 14,
+        "file": "5-genoemde-hoogte.svg",
+        "scene": "De genoemde hoogte",
+        "alt": "De genoemde hoogte — Esther 5:14",
+        "kind": "diagram",
+        "width": 840,
+        "height": 900
       }
     ],
     "leviticus": [
@@ -33907,7 +34073,9 @@
         "chapter": 8,
         "file": "8-reading.webp",
         "alt": "Ezra leest de wet voor aan het volk",
-        "scene": "De wet wordt voorgelezen"
+        "scene": "De wet wordt voorgelezen",
+        "verse": 4,
+        "kind": "scene"
       },
       {
         "chapter": 1,
@@ -34116,8 +34284,8 @@
         "chapter": 11,
         "verse": 17,
         "file": "11-17.webp",
-        "alt": "Beeld bij Nehemia 11: Mattanja begint het dankgebed",
-        "scene": "Mattanja begint het dankgebed"
+        "alt": "Beeld bij Nehemia 11: Matthanja begint het dankgebed",
+        "scene": "Matthanja begint het dankgebed"
       },
       {
         "chapter": 12,
@@ -34309,7 +34477,7 @@
         "alt": "De twee huwelijksverbindingen en hun rol in de brievenwisseling.",
         "kind": "diagram",
         "width": 840,
-        "height": 1048
+        "height": 1000
       },
       {
         "chapter": 8,
@@ -34619,7 +34787,7 @@
         "alt": "De twee afzonderlijke routes en hun samenkomst zonder een verzonnen kaart.",
         "kind": "diagram",
         "width": 840,
-        "height": 1498
+        "height": 1580
       },
       {
         "chapter": 12,

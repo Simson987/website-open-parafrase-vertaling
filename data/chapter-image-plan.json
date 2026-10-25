@@ -12000,6 +12000,163 @@
           "source": "Nehemia 11:25–36"
         }
       ]
+    },
+    {
+      "book": "esther",
+      "chapter": 1,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Feesttuin, bekers en vrouwenfeest zijn aanwezig. Vasthi’s weigering krijgt een eigen scène; twee schema’s geven tijd, gevolgen en twee verschillende groepen van zeven.",
+      "additions": [
+        {
+          "verse": 12,
+          "scene": "Vasthi weigert de oproep",
+          "kind": "scene",
+          "file": "1-12-inhoudelijk.webp"
+        },
+        {
+          "verse": 1,
+          "file": "1-feesten-en-koninklijk-besluit.svg",
+          "scene": "Feesten en koninklijk besluit",
+          "kind": "diagram",
+          "source": "Esther 1:1–22"
+        },
+        {
+          "verse": 10,
+          "file": "1-twee-groepen-van-zeven.svg",
+          "scene": "Twee groepen van zeven",
+          "kind": "diagram",
+          "source": "Esther 1:10–14"
+        }
+      ]
+    },
+    {
+      "book": "esther",
+      "chapter": 2,
+      "status": "reviewed",
+      "target_images": 7,
+      "reason": "Hof, Mordechai’s navraag en waarschuwing zijn aanwezig. Kroonoverdracht en vastlegging in de kronieken zijn andere handelingen; twee schema’s verduidelijken afstamming, verblijven en tijd.",
+      "additions": [
+        {
+          "verse": 17,
+          "scene": "Esther ontvangt de koninklijke kroon",
+          "kind": "scene",
+          "file": "2-17-inhoudelijk.webp"
+        },
+        {
+          "verse": 23,
+          "scene": "De redding van de koning wordt vastgelegd",
+          "kind": "scene",
+          "file": "2-23-inhoudelijk.webp"
+        },
+        {
+          "verse": 5,
+          "file": "2-familie-en-verschillende-functies.svg",
+          "scene": "Familie en hoffuncties",
+          "kind": "diagram",
+          "source": "Esther 2:5–22"
+        },
+        {
+          "verse": 12,
+          "file": "2-voorbereiding-kroon-kroniek.svg",
+          "scene": "Voorbereiding, kroon, kroniek",
+          "kind": "diagram",
+          "source": "Esther 2:12–23"
+        }
+      ]
+    },
+    {
+      "book": "esther",
+      "chapter": 3,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Weigering, loting en ring zijn aanwezig. Boodschappers met de verwarde stad tonen de bekendmaking; twee schema’s geven escalatie en de drie verschillende datums.",
+      "additions": [
+        {
+          "verse": 15,
+          "scene": "Boden brengen het bevel naar de gewesten",
+          "kind": "scene",
+          "file": "3-15-inhoudelijk.webp"
+        },
+        {
+          "verse": 1,
+          "file": "3-van-weigering-naar-vervolging.svg",
+          "scene": "Van weigering naar vervolging",
+          "kind": "diagram",
+          "source": "Esther 3:1–15"
+        },
+        {
+          "verse": 7,
+          "file": "3-drie-datums-van-het-bevel.svg",
+          "scene": "Drie datums rond het bevel",
+          "kind": "diagram",
+          "source": "Esther 3:7–15"
+        }
+      ]
+    },
+    {
+      "book": "esther",
+      "chapter": 4,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Rouw en afschrift zijn aanwezig. De onjuiste rechtstreekse ontmoeting wordt vervangen door Hatach bij Esther; vasten krijgt een eigen scène. Twee schema’s maken bemiddeling, risico en tijd duidelijk.",
+      "additions": [
+        {
+          "verse": 9,
+          "scene": "Hatach brengt Mordechai’s boodschap bij Esther",
+          "kind": "scene",
+          "file": "4-9-inhoudelijk.webp"
+        },
+        {
+          "verse": 16,
+          "scene": "Esther en haar meisjes vasten",
+          "kind": "scene",
+          "file": "4-16-inhoudelijk.webp"
+        },
+        {
+          "verse": 1,
+          "file": "4-boodschappen-via-hatach.svg",
+          "scene": "Boodschappen via Hatach",
+          "kind": "diagram",
+          "source": "Esther 4:1–17"
+        },
+        {
+          "verse": 11,
+          "file": "4-gevaar-vasten-en-besluit.svg",
+          "scene": "Gevaar, vasten en besluit",
+          "kind": "diagram",
+          "source": "Esther 4:11–17"
+        }
+      ]
+    },
+    {
+      "book": "esther",
+      "chapter": 5,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Scepter, maaltijd en overleg met Zeres zijn aanwezig. Hamans ontmoeting met de zittende Mordechai is een afzonderlijke omslag; verhaalschema en eenvoudige maatvisual verduidelijken twee uitnodigingen en de paalhoogte zonder executiescène.",
+      "additions": [
+        {
+          "verse": 9,
+          "scene": "Haman ziet de zittende Mordechai",
+          "kind": "scene",
+          "file": "5-9-inhoudelijk.webp"
+        },
+        {
+          "verse": 1,
+          "file": "5-twee-uitnodigingen-en-haman.svg",
+          "scene": "Twee uitnodigingen en Haman",
+          "kind": "diagram",
+          "source": "Esther 5:1–14"
+        },
+        {
+          "verse": 14,
+          "file": "5-genoemde-hoogte.svg",
+          "scene": "De genoemde hoogte",
+          "kind": "diagram",
+          "source": "Esther 5:14"
+        }
+      ]
     }
   ]
 }
