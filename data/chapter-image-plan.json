@@ -22683,6 +22683,54 @@
           "source": "Amos 6:1–14"
         }
       ]
+    },
+    {
+      "book": "obadja",
+      "chapter": 1,
+      "status": "reviewed",
+      "target_images": 9,
+      "reason": "Rotswoning, reizigers en herstelarbeid zijn aanwezig. Arendsnest, doorzochte schatten en afgesneden kruispunt voegen drie afzonderlijke tekstonderdelen toe. Drie schema’s bewaren de volledige opbouw, de concrete aanklacht en alle groepen en gebieden zonder een onbewezen moderne kaart.",
+      "additions": [
+        {
+          "verse": 4,
+          "file": "1-4-arendsnest-verdieping.webp",
+          "scene": "Vergelijking: een hoog arendsnest",
+          "kind": "poetic"
+        },
+        {
+          "verse": 6,
+          "file": "1-6-schatten-doorzocht-verdieping.webp",
+          "scene": "Aanklacht: verborgen schatten doorzocht",
+          "kind": "poetic"
+        },
+        {
+          "verse": 14,
+          "file": "1-14-kruispunt-afgesneden-verdieping.webp",
+          "scene": "Aanklacht: vluchtelingen afgesneden",
+          "kind": "poetic"
+        },
+        {
+          "verse": 1,
+          "file": "1-leeswijzer.svg",
+          "scene": "Edoms trots en Jakobs redding",
+          "kind": "diagram",
+          "source": "Obadja 1:1–21"
+        },
+        {
+          "verse": 12,
+          "file": "1-niet-moeten-doen.svg",
+          "scene": "Wat Edom niet had moeten doen",
+          "kind": "diagram",
+          "source": "Obadja 1:10–15"
+        },
+        {
+          "verse": 19,
+          "file": "1-gebieden-en-ballingen.svg",
+          "scene": "Gebieden en ballingen",
+          "kind": "diagram",
+          "source": "Obadja 1:19–21"
+        }
+      ]
     }
   ]
 }
