@@ -1,0 +1,746 @@
+{
+  "date": "2026-10-24",
+  "started": "2026-10-24T23:31:06Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "2koningen",
+      "chapter": 11,
+      "verse": 4,
+      "scene": "Jojada overlegt met de bevelhebbers",
+      "alt": "Jojada overlegt met de bevelhebbers — 2 Koningen 11:4",
+      "kind": "scene",
+      "file": "11-4-inhoudelijk.webp",
+      "prompt": "Use case: historical scene. Photorealistic educational Bible illustration, landscape 3:2, ancient Israel and Judah. Fully modest woven robes, natural hands and exactly two arms each. No modern objects, Roman armor, readable writing, watermark, visible deity, nudity, blood or graphic violence. Elderly adult priest Jehoiada meets adult captains in a quiet room in the ancient Jerusalem temple, a solemn agreement before the public coronation, scroll closed, no children present, no raised weapons or conspiracy violence.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2koningen",
+      "chapter": 12,
+      "verse": 18,
+      "scene": "Joas stuurt gaven naar Hazaël",
+      "alt": "Joas stuurt gaven naar Hazaël — 2 Koningen 12:18",
+      "kind": "scene",
+      "file": "12-18-inhoudelijk.webp",
+      "prompt": "Use case: historical scene. Photorealistic educational Bible illustration, landscape 3:2, ancient Israel and Judah. Fully modest woven robes, natural hands and exactly two arms each. No modern objects, Roman armor, readable writing, watermark, visible deity, nudity, blood or graphic violence. Mature adult king Joash of Judah orders robed adult envoys to carry precious metal vessels and covered chests away from a Jerusalem treasury as payment to Hazael, serious expressions, no attack or prisoners.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2koningen",
+      "chapter": 13,
+      "verse": 21,
+      "scene": "Een man staat levend op in Elisa’s graf",
+      "alt": "Een man staat levend op in Elisa’s graf — 2 Koningen 13:21",
+      "kind": "scene",
+      "file": "13-21-inhoudelijk.webp",
+      "prompt": "Use case: historical scene. Photorealistic educational Bible illustration, landscape 3:2, ancient Israel and Judah. Fully modest woven robes, natural hands and exactly two arms each. No modern objects, Roman armor, readable writing, watermark, visible deity, nudity, blood or graphic violence. A fully modestly robed adult man stands alive in the doorway of a simple ancient rock tomb, astonished adult mourners look on from outside, no skeleton, bones, corpse, open wounds or eerie undead appearance; healthy living man in daylight. This is an unnamed man, not the elderly prophet Elisha.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2koningen",
+      "chapter": 14,
+      "verse": 19,
+      "scene": "Amazia vlucht naar Lachis",
+      "alt": "Amazia vlucht naar Lachis — 2 Koningen 14:19",
+      "kind": "scene",
+      "file": "14-19-inhoudelijk.webp",
+      "prompt": "Use case: historical scene. Photorealistic educational Bible illustration, landscape 3:2, ancient Israel and Judah. Fully modest woven robes, natural hands and exactly two arms each. No modern objects, Roman armor, readable writing, watermark, visible deity, nudity, blood or graphic violence. Mature adult Amaziah in a plain full-length travelling robe rides a horse toward the distant fortified city of Lachish, one adult companion follows along a dusty road, dignified urgent travel before pursuit reaches him, no weapons raised or violence.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2koningen",
+      "chapter": 15,
+      "verse": 29,
+      "scene": "Bewoners van het noorden worden weggevoerd",
+      "alt": "Bewoners van het noorden worden weggevoerd — 2 Koningen 15:29",
+      "kind": "scene",
+      "file": "15-29-inhoudelijk.webp",
+      "prompt": "Use case: historical scene. Photorealistic educational Bible illustration, landscape 3:2, ancient Israel and Judah. Fully modest woven robes, natural hands and exactly two arms each. No modern objects, Roman armor, readable writing, watermark, visible deity, nudity, blood or graphic violence. A solemn group of fully clothed adult Israelite villagers walk away from their northern hill town carrying modest bundles as Assyrian authorities direct their relocation from a distance, non-graphic historical displacement, no restraints, harmed people, children or raised weapons.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2koningen",
+      "chapter": 16,
+      "verse": 11,
+      "scene": "Uria laat het nieuwe altaar bouwen",
+      "alt": "Uria laat het nieuwe altaar bouwen — 2 Koningen 16:11",
+      "kind": "scene",
+      "file": "16-11-inhoudelijk.webp",
+      "prompt": "Use case: historical scene. Photorealistic educational Bible illustration, landscape 3:2, ancient Israel and Judah. Fully modest woven robes, natural hands and exactly two arms each. No modern objects, Roman armor, readable writing, watermark, visible deity, nudity, blood or graphic violence. Adult priest Uriah and adult stonemasons finish a large new stone altar in the Jerusalem temple court, checking a simple non-readable drawing, no offerings or fire, ancient hand tools, king not present.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2koningen",
+      "chapter": 18,
+      "verse": 16,
+      "scene": "Het goud wordt van de deuren gehaald",
+      "alt": "Het goud wordt van de deuren gehaald — 2 Koningen 18:16",
+      "kind": "scene",
+      "file": "18-16-inhoudelijk.webp",
+      "prompt": "Use case: historical scene. Photorealistic educational Bible illustration, landscape 3:2, ancient Israel and Judah. Fully modest woven robes, natural hands and exactly two arms each. No modern objects, Roman armor, readable writing, watermark, visible deity, nudity, blood or graphic violence. Adult Judean craftsmen carefully remove thin gold sheets from tall ancient wooden temple doors and posts, stacking recovered sheets on a cloth for tribute, modest robes, sober labor, no temple destruction, blood or modern tools.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2koningen",
+      "chapter": 19,
+      "verse": 36,
+      "scene": "Sanherib keert terug naar Ninevé",
+      "alt": "Sanherib keert terug naar Ninevé — 2 Koningen 19:36",
+      "kind": "scene",
+      "file": "19-36-inhoudelijk.webp",
+      "prompt": "Use case: historical scene. Photorealistic educational Bible illustration, landscape 3:2, ancient Israel and Judah. Fully modest woven robes, natural hands and exactly two arms each. No modern objects, Roman armor, readable writing, watermark, visible deity, nudity, blood or graphic violence. Mature Assyrian king Sennacherib travels away with a subdued small retinue along a dry road toward distant Nineveh, ancient Assyrian robes and horses, no fallen bodies, combat or city burning. A quiet retreat after the failed Jerusalem campaign.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2koningen",
+      "chapter": 20,
+      "verse": 7,
+      "scene": "De klomp vijgen wordt klaargemaakt",
+      "alt": "De klomp vijgen wordt klaargemaakt — 2 Koningen 20:7",
+      "kind": "scene",
+      "file": "20-7-inhoudelijk.webp",
+      "prompt": "Use case: historical scene. Photorealistic educational Bible illustration, landscape 3:2, ancient Israel and Judah. Fully modest woven robes, natural hands and exactly two arms each. No modern objects, Roman armor, readable writing, watermark, visible deity, nudity, blood or graphic violence. Mature prophet Isaiah directs an adult attendant preparing a small bowl of pressed figs beside fully clothed recovering Hezekiah in a simple ancient bedroom, no exposed sore, medical procedure or modern instruments, calm hopeful setting.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2koningen",
+      "chapter": 11,
+      "verse": 2,
+      "file": "11-familie-en-redding.svg",
+      "scene": "De familie en Joas’ redding",
+      "alt": "De gecontroleerde familiebanden en leeftijden rond de redding.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1240,
+      "source": "2 Koningen 11:1–3, 21",
+      "design": {
+        "rows": [
+          [
+            "Athalia",
+            "Moeder van de gestorven koning Ahazia; zij regeert over het land."
+          ],
+          [
+            "Joseba",
+            "Dochter van koning Joram en zus van Ahazia."
+          ],
+          [
+            "Joas",
+            "Zoon van Ahazia; Joseba verbergt hem met zijn voedster."
+          ],
+          [
+            "De verborgen jaren",
+            "Zes jaar in het huis van de HEERE."
+          ],
+          [
+            "Het aantreden",
+            "Joas is zeven jaar als hij koning wordt."
+          ]
+        ],
+        "note": "Joseba is Joas’ tante, niet zijn moeder. De voedster is een derde, afzonderlijk genoemde persoon."
+      }
+    },
+    {
+      "book": "2koningen",
+      "chapter": 11,
+      "verse": 12,
+      "file": "11-kroon-verbond-troon.svg",
+      "scene": "Kroon, verbond en troon",
+      "alt": "De publieke gebeurtenissen met hun plaats en volgorde.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1283,
+      "source": "2 Koningen 11:12–20",
+      "design": {
+        "rows": [
+          [
+            "De kroning",
+            "Kroon, getuigenis en zalving; toejuiching door het volk."
+          ],
+          [
+            "Athalia",
+            "Komt op het geluid af; wordt buiten het huis van de HEERE gedood."
+          ],
+          [
+            "Het verbond",
+            "Tussen de HEERE, koning en volk; ook tussen koning en volk."
+          ],
+          [
+            "Baäls tempel",
+            "Afgebroken; priester Mattan wordt gedood."
+          ],
+          [
+            "Het paleis",
+            "Joas wordt naar beneden gebracht en gaat op de koningstroon zitten."
+          ]
+        ],
+        "note": "De tekst onderscheidt de kroning in de tempelomgeving van het latere zitten op de paleistroon."
+      }
+    },
+    {
+      "book": "2koningen",
+      "chapter": 12,
+      "verse": 4,
+      "file": "12-geldstroom-herstel.svg",
+      "scene": "Geld voor het herstel",
+      "alt": "De verandering in inzameling, beheer en besteding van het herstelgeld.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1376,
+      "source": "2 Koningen 12:4–16",
+      "design": {
+        "rows": [
+          [
+            "De eerdere regeling",
+            "Priesters ontvangen de gaven, maar in het 23ste jaar is er nog geen herstel."
+          ],
+          [
+            "Nieuwe inzameling",
+            "Een kist met een gat in het deksel naast het altaar."
+          ],
+          [
+            "Tellen en wegen",
+            "De koninklijke schrijver en hogepriester beheren het ingezamelde geld."
+          ],
+          [
+            "De besteding",
+            "Opzichters betalen timmerlieden, bouwers, metselaars, steenhouwers en materialen."
+          ],
+          [
+            "De scheiding",
+            "Geen gouden of zilveren voorwerpen hiervan; schuld- en zondoffergeld is voor de priesters."
+          ]
+        ],
+        "note": "Het hoofdstuk onderscheidt bouwgeld en inkomsten die aan de priesters toekomen."
+      }
+    },
+    {
+      "book": "2koningen",
+      "chapter": 13,
+      "verse": 14,
+      "file": "13-drie-slagen.svg",
+      "scene": "Drie slagen, drie overwinningen",
+      "alt": "De twee pijlhandelingen en hun later genoemde vervulling.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1290,
+      "source": "2 Koningen 13:14–25",
+      "design": {
+        "rows": [
+          [
+            "De koning",
+            "Joas van Israël bezoekt de stervende Elisa."
+          ],
+          [
+            "De eerste pijl",
+            "Door het oostelijke venster: aankondiging van redding tegen Syrië."
+          ],
+          [
+            "De pijlen op de grond",
+            "Joas slaat drie keer en stopt."
+          ],
+          [
+            "Elisa’s reactie",
+            "Vijf of zes keer had volledige overwinning betekend; nu drie overwinningen."
+          ],
+          [
+            "De vervulling",
+            "Joas verslaat Benhadad, zoon van Hazaël, drie keer en neemt steden terug."
+          ]
+        ],
+        "note": "De zieke Elisa en de later levende man in zijn graf zijn verschillende personen."
+      }
+    },
+    {
+      "book": "2koningen",
+      "chapter": 13,
+      "verse": 1,
+      "file": "13-twee-joassen.svg",
+      "scene": "Twee koningen met de naam Joas",
+      "alt": "De twee Joassen en de onderscheiden opvolging in Israël en Syrië.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1161,
+      "source": "2 Koningen 13:1–13, 24–25",
+      "design": {
+        "rows": [
+          [
+            "Juda",
+            "Joas, zoon van Ahazia; zijn 23ste en 37ste jaar geven tijdsaanduidingen."
+          ],
+          [
+            "Israël: Joahaz",
+            "Zoon van Jehu; zeventien jaar regering; smeekt om hulp."
+          ],
+          [
+            "Israël: Joas",
+            "Zoon van Joahaz; zestien jaar regering; bezoekt Elisa."
+          ],
+          [
+            "Syrië",
+            "Hazaël → zijn zoon Benhadad."
+          ],
+          [
+            "Israëls opvolging",
+            "Joas → Jerobeam op zijn troon."
+          ]
+        ],
+        "note": "De gelijke naam maakt de koning van Juda niet dezelfde als de koning van Israël."
+      }
+    },
+    {
+      "book": "2koningen",
+      "chapter": 14,
+      "verse": 9,
+      "file": "14-distel-ceder.svg",
+      "scene": "De distel en de ceder",
+      "alt": "Fabel, waarschuwing en historisch gevolg zorgvuldig onderscheiden.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1283,
+      "source": "2 Koningen 14:9–14",
+      "design": {
+        "rows": [
+          [
+            "In het verhaal",
+            "De distel vraagt de dochter van de ceder voor zijn zoon."
+          ],
+          [
+            "De afloop van het beeld",
+            "Een wild dier vertrapt de distel."
+          ],
+          [
+            "De toepassing",
+            "Joas waarschuwt Amazia tegen hoogmoed na zijn overwinning op Edom."
+          ],
+          [
+            "Amazia luistert niet",
+            "Bij Beth-Semes wordt Juda verslagen en Amazia gevangen."
+          ],
+          [
+            "Jeruzalem",
+            "Circa 180 meter muur wordt afgebroken; schatten en gijzelaars worden meegenomen."
+          ]
+        ],
+        "note": "Dit is een fabel in Joas’ antwoord, geen werkelijke huwelijksaanvraag tussen twee planten."
+      }
+    },
+    {
+      "book": "2koningen",
+      "chapter": 14,
+      "verse": 16,
+      "file": "14-opvolgers-juda-israel.svg",
+      "scene": "Opvolgers in Juda en Israël",
+      "alt": "De parallelle opvolging en het onderscheid tussen twee Jerobeams.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1326,
+      "source": "2 Koningen 14:16–29",
+      "design": {
+        "rows": [
+          [
+            "Israël",
+            "Joas → zijn zoon Jerobeam; Jerobeam regeert 41 jaar."
+          ],
+          [
+            "Juda",
+            "Amazia leeft vijftien jaar langer dan Joas van Israël; daarna volgt zijn zoon Azaria."
+          ],
+          [
+            "Azaria",
+            "Zestien jaar bij aantreden; herbouwt Elath."
+          ],
+          [
+            "Jerobeams grensherstel",
+            "Van de weg naar Hamath tot de zee van de Vlakte, volgens het woord door Jona."
+          ],
+          [
+            "Jona",
+            "Zoon van Amitthai, profeet uit Gath-Hefer."
+          ]
+        ],
+        "note": "Deze Jerobeam is de zoon van Joas, niet Jerobeam, de zoon van Nebat, naar wie de zondeweg heet."
+      }
+    },
+    {
+      "book": "2koningen",
+      "chapter": 15,
+      "verse": 8,
+      "file": "15-noordelijke-reeks.svg",
+      "scene": "Zes koningen in Israël",
+      "alt": "De korte regeringen, staatsgrepen en enige vermelde vader-zoonopvolging.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1326,
+      "source": "2 Koningen 15:8–30",
+      "design": {
+        "rows": [
+          [
+            "Zacharia → Sallum",
+            "Zacharia: zes maanden; Sallum doodt hem en regeert één maand."
+          ],
+          [
+            "Menahem",
+            "Doodt Sallum; regeert tien jaar en betaalt Pul met zilver van rijke mannen."
+          ],
+          [
+            "Pekahia",
+            "Zoon van Menahem; twee jaar regering; door officier Pekah gedood."
+          ],
+          [
+            "Pekah",
+            "Zoon van Remalia; twintig jaar genoemd; Assyrië verovert noordelijke gebieden."
+          ],
+          [
+            "Hosea",
+            "Zoon van Ela; doodt Pekah en volgt hem op."
+          ]
+        ],
+        "note": "Opvolgingspijlen zijn geen familierelaties. Menahems gruwelijke geweld in Tifsah wordt in vers 16 apart vermeld."
+      }
+    },
+    {
+      "book": "2koningen",
+      "chapter": 15,
+      "verse": 1,
+      "file": "15-azaria-jotham.svg",
+      "scene": "Azaria en Jotham in Juda",
+      "alt": "Gecontroleerde namen, leeftijd, bestuur en opvolging in Juda.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1204,
+      "source": "2 Koningen 15:1–7, 32–38",
+      "design": {
+        "rows": [
+          [
+            "Azaria",
+            "Zoon van Amazia; zestien bij aantreden en 52 jaar regering; moeder Jecholia."
+          ],
+          [
+            "Het aparte huis",
+            "Hij blijft melaats; zijn zoon Jotham leidt paleis en land."
+          ],
+          [
+            "Jotham als koning",
+            "25 bij aantreden; zestien jaar; moeder Jerusa, dochter van Zadok."
+          ],
+          [
+            "Zijn bouwwerk",
+            "De bovenste poort van het huis van de HEERE."
+          ],
+          [
+            "De opvolging",
+            "Jothams zoon Achaz wordt koning."
+          ]
+        ],
+        "note": "De tekst gebruikt voor Azaria ook de naam Uzzia. De hoogten blijven onder beide koningen bestaan."
+      }
+    },
+    {
+      "book": "2koningen",
+      "chapter": 16,
+      "verse": 7,
+      "file": "16-assyrie-en-altaar.svg",
+      "scene": "Assyrië en het nieuwe altaar",
+      "alt": "Buitenlandse afhankelijkheid en de opeenvolgende tempelwijzigingen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1405,
+      "source": "2 Koningen 16:7–20",
+      "design": {
+        "rows": [
+          [
+            "Achaz vraagt hulp",
+            "Stuurt goud en zilver naar Tiglath-Pilezer."
+          ],
+          [
+            "Damaskus",
+            "Assyrië verovert de stad, voert bewoners naar Kir en doodt Rezin."
+          ],
+          [
+            "Het voorbeeld",
+            "Achaz stuurt vanuit Damaskus het altaarontwerp aan Uria."
+          ],
+          [
+            "De verandering",
+            "Het oude koperen altaar naar de noordkant; het nieuwe wordt het offeraltaar."
+          ],
+          [
+            "De overige ingrepen",
+            "Wasbekkens en zee van hun dragers; gangen en koninklijke ingang aangepast; Hizkia volgt later op."
+          ]
+        ],
+        "note": "De tekst keurt Achaz’ eerdere kinderofferpraktijk in vers 3 af. Het buitenlandse altaar is een andere latere handeling."
+      }
+    },
+    {
+      "book": "2koningen",
+      "chapter": 17,
+      "verse": 1,
+      "file": "17-val-en-oorzaak.svg",
+      "scene": "De val van Samaria",
+      "alt": "Tijdlijn en de in de tekst gegeven oorzaken van de wegvoering.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1283,
+      "source": "2 Koningen 17:1–23",
+      "design": {
+        "rows": [
+          [
+            "Hosea",
+            "Negen jaar koning; onderdaan van Salmaneser en schatplichtig."
+          ],
+          [
+            "De breuk",
+            "Zoekt steun bij So in Egypte en betaalt niet meer; wordt gevangengezet."
+          ],
+          [
+            "Het beleg",
+            "Drie jaar; in zijn negende jaar wordt Samaria ingenomen."
+          ],
+          [
+            "De wegvoering",
+            "Naar Halah, Habor aan de Gozan en steden van de Meden."
+          ],
+          [
+            "De uitleg",
+            "Afgoderij, afwijzing van wet en verbond en niet luisteren naar de profeten."
+          ]
+        ],
+        "note": "Het hoofdstuk geeft zowel politieke gebeurtenissen als zijn theologische uitleg; ook Juda wordt om ongehoorzaamheid bekritiseerd."
+      }
+    },
+    {
+      "book": "2koningen",
+      "chapter": 17,
+      "verse": 24,
+      "file": "17-nieuwe-bewoners.svg",
+      "scene": "Nieuwe bewoners en hun goden",
+      "alt": "Precieze plaatsnamen en godennamen bij de vermengde eredienst.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1283,
+      "source": "2 Koningen 17:24–41",
+      "design": {
+        "rows": [
+          [
+            "De herkomst",
+            "Babel, Chuta, Avva, Hamath en Sefarvaim."
+          ],
+          [
+            "De teruggekeerde priester",
+            "Onderwijst in Bethel hoe de HEERE te vereren."
+          ],
+          [
+            "Babel, Chut en Hamath",
+            "Sukkoth-Benoth, Nergal en Asima."
+          ],
+          [
+            "Avieten en Sefarvieten",
+            "Nibhaz en Tartak; Adramelech en Anamelech."
+          ],
+          [
+            "Het probleem",
+            "Verering van de HEERE vermengd met eigen beelden; het verbond verbiedt andere goden."
+          ]
+        ],
+        "note": "De tekst noemt ook dodelijke leeuwenaanvallen en Sefarvitische kinderoffers; het schema beeldt die niet uit."
+      }
+    },
+    {
+      "book": "2koningen",
+      "chapter": 18,
+      "verse": 17,
+      "file": "18-rede-opperschenker.svg",
+      "scene": "De rede van de opperschenker",
+      "alt": "Sprekers, taalkeuze, propaganda en de bevolen stilte.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1326,
+      "source": "2 Koningen 18:17–37",
+      "design": {
+        "rows": [
+          [
+            "De drie Judeeërs",
+            "Eljakim, zoon van Hilkia; Sebna; Joah, zoon van Asaf."
+          ],
+          [
+            "Het vertrouwen aangevallen",
+            "Egypte heet een geknakte rietstok; Hizkia’s hervorming wordt verdacht gemaakt."
+          ],
+          [
+            "De taal",
+            "Zij vragen Aramees; hij roept juist Judees naar het volk op de muur."
+          ],
+          [
+            "De beloften en dreiging",
+            "Eerst eigen voedsel, daarna wegvoering naar een ander land."
+          ],
+          [
+            "Het antwoord",
+            "Het volk zwijgt op koninklijk bevel; de drie doen verslag aan Hizkia."
+          ]
+        ],
+        "note": "De bewering dat de HEERE Assyrië opdracht gaf is onderdeel van de vijandelijke rede, niet het oordeel van de verteller."
+      }
+    },
+    {
+      "book": "2koningen",
+      "chapter": 19,
+      "verse": 14,
+      "file": "19-gebed-en-antwoord.svg",
+      "scene": "De brief, het gebed en antwoord",
+      "alt": "Gebedsvraag, profetische beeldspraak, oogstjaren en bescherming van Jeruzalem.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1369,
+      "source": "2 Koningen 19:14–34",
+      "design": {
+        "rows": [
+          [
+            "De brief",
+            "Hizkia legt Sanheribs woorden open in het huis van de HEERE."
+          ],
+          [
+            "Het gebed",
+            "Erkent dat mensenbeelden vernietigd zijn; vraagt redding opdat alle rijken God kennen."
+          ],
+          [
+            "Jesaja’s bericht",
+            "God heeft het gebed gehoord; de hoogmoed van Assyrië wordt beantwoord."
+          ],
+          [
+            "Het oogstteken",
+            "Eerst spontaan gewas, daarna nieuwe groei; in het derde jaar zaaien en oogsten."
+          ],
+          [
+            "De stadsbelofte",
+            "Sanherib zal de stad niet binnenkomen en er geen pijl in schieten."
+          ]
+        ],
+        "note": "De dochter Sion en het wortelschieten van de rest zijn beeldspraak in het profetische antwoord."
+      }
+    },
+    {
+      "book": "2koningen",
+      "chapter": 19,
+      "verse": 35,
+      "file": "19-sanheribs-einde.svg",
+      "scene": "Terugtocht en Sanheribs einde",
+      "alt": "Onderscheid tussen de nachtelijke ramp, terugtocht en latere familiedaad.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1240,
+      "source": "2 Koningen 19:35–37",
+      "design": {
+        "rows": [
+          [
+            "In het kamp",
+            "De engel van de HEERE doodt 185.000 man in één nacht."
+          ],
+          [
+            "De terugtocht",
+            "Sanherib keert terug en blijft in Ninevé."
+          ],
+          [
+            "Zijn dood",
+            "Adramelech en Sarezer doden hun vader in Nisrochs tempel."
+          ],
+          [
+            "De vlucht",
+            "Zij vluchten naar Ararat."
+          ],
+          [
+            "De opvolger",
+            "Esar-Haddon, eveneens een zoon van Sanherib, wordt koning."
+          ]
+        ],
+        "note": "De dood in Ninevé is een later afzonderlijk moment, geen sterfgeval in het kamp bij Jeruzalem."
+      }
+    },
+    {
+      "book": "2koningen",
+      "chapter": 20,
+      "verse": 1,
+      "file": "20-herstel-en-jaren.svg",
+      "scene": "Herstel en vijftien jaren",
+      "alt": "De omslag van doodsaankondiging naar herstel en de betekenis van de aantallen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1197,
+      "source": "2 Koningen 20:1–11",
+      "design": {
+        "rows": [
+          [
+            "De eerste boodschap",
+            "Regel je zaken; Hizkia zal sterven."
+          ],
+          [
+            "Het gebed",
+            "Hij wendt zich naar de muur en huilt."
+          ],
+          [
+            "De nieuwe boodschap",
+            "Nog voor Jesaja het middelste voorhof verlaat: teruggaan met herstelwoord."
+          ],
+          [
+            "De belofte",
+            "Over drie dagen naar het huis van de HEERE; vijftien extra levensjaren."
+          ],
+          [
+            "Het teken",
+            "De schaduw gaat tien treden terug op Achaz’ zonnewijzer."
+          ]
+        ],
+        "note": "De drie dagen, vijftien jaren en tien treden betreffen verschillende onderdelen van het verhaal."
+      }
+    },
+    {
+      "book": "2koningen",
+      "chapter": 20,
+      "verse": 12,
+      "file": "20-babel-en-schatten.svg",
+      "scene": "Babel ziet de schatten",
+      "alt": "Bezoek, onbegrensd tonen, toekomstig oordeel en opvolging.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1240,
+      "source": "2 Koningen 20:12–21",
+      "design": {
+        "rows": [
+          [
+            "De afzender",
+            "Berodach-Baladan, zoon van Baladan, koning van Babel."
+          ],
+          [
+            "De ontvangst",
+            "Brieven en geschenk na Hizkia’s ziekte."
+          ],
+          [
+            "Hizkia toont alles",
+            "Zilver, goud, specerijen, olie, wapens en schatkamers."
+          ],
+          [
+            "Jesaja’s woord",
+            "Later zal alles naar Babel gaan; ook nakomelingen naar het hof."
+          ],
+          [
+            "Het slot",
+            "Waterleiding als bouwwerk genoemd; Manasse volgt Hizkia op."
+          ]
+        ],
+        "note": "De aangekondigde wegvoering is toekomstig; zij vindt niet plaats tijdens het bezoek van de boden."
+      }
+    }
+  ]
+}
