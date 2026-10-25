@@ -1,0 +1,272 @@
+{
+  "date": "2026-10-25",
+  "started": "2026-10-25T01:34:20Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "esther",
+      "chapter": 7,
+      "verse": 8,
+      "scene": "Haman wordt het gezicht bedekt",
+      "alt": "Haman wordt het gezicht bedekt — Esther 7:8",
+      "kind": "scene",
+      "file": "7-8-vervolg.webp",
+      "prompt": "Use case: historical-scene. Photorealistic educational Bible illustration, landscape 3:2, Achaemenid Persian Susa. Fully modest ancient robes, adult main characters, natural hands, exactly two arms per person. No readable text, modern objects, visible deity, nudity, blood, injury or watermark. In a Persian palace banquet hall two adult court attendants gently place a plain linen cloth over the face and head of the standing disgraced official Haman. He wears a fully covering ornate dark red robe. The king stands several paces away, stern; Queen Esther remains seated apart. No gallows, rope, hanging, hitting or sexual contact. Clear separated hands and arms.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "esther",
+      "chapter": 8,
+      "verse": 3,
+      "scene": "Esther pleit opnieuw voor haar volk",
+      "alt": "Esther pleit opnieuw voor haar volk — Esther 8:3",
+      "kind": "scene",
+      "file": "8-3-vervolg.webp",
+      "prompt": "Use case: historical-scene. Photorealistic educational Bible illustration, landscape 3:2, Achaemenid Persian Susa. Fully modest ancient robes, adult main characters, natural hands, exactly two arms per person. No readable text, modern objects, visible deity, nudity, blood, injury or watermark. Adult Queen Esther in a fully covering cream-purple robe kneels solemnly at the Persian king’s feet in a public audience chamber, asking that the threat to her people be removed. The seated king holds a golden scepter toward her. Mordecai stands quietly behind at a distance in plain modest robes, no banquet table, no embrace, no physical violence.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "esther",
+      "chapter": 8,
+      "verse": 15,
+      "scene": "Mordechai verlaat het paleis in koninklijke kleding",
+      "alt": "Mordechai verlaat het paleis in koninklijke kleding — Esther 8:15",
+      "kind": "scene",
+      "file": "8-15-vervolg.webp",
+      "prompt": "Use case: historical-scene. Photorealistic educational Bible illustration, landscape 3:2, Achaemenid Persian Susa. Fully modest ancient robes, adult main characters, natural hands, exactly two arms per person. No readable text, modern objects, visible deity, nudity, blood, injury or watermark. Adult Jewish official Mordecai exits the Persian palace at Susa wearing a sky-blue and white royal robe, a purple fine-linen mantle and a large golden crown. Townspeople rejoice in the public street around him. He is a senior official, not seated on the king’s throne. No high-priest breastplate, ephod, gold priestly forehead plate or readable text.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "esther",
+      "chapter": 9,
+      "verse": 2,
+      "scene": "De gemeenschap verzamelt zich ter verdediging",
+      "alt": "De gemeenschap verzamelt zich ter verdediging — Esther 9:2",
+      "kind": "scene",
+      "file": "9-2-vervolg.webp",
+      "prompt": "Use case: historical-scene. Photorealistic educational Bible illustration, landscape 3:2, Achaemenid Persian Susa. Fully modest ancient robes, adult main characters, natural hands, exactly two arms per person. No readable text, modern objects, visible deity, nudity, blood, injury or watermark. Adult Jewish townspeople gather together in an ancient Persian provincial city street to defend their lives, carrying simple shields and sheathed swords. Modest varied woven robes, organized community, women and families safely behind in the background. No attack actually shown, no dead or wounded bodies, no blood, no modern army uniforms.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "esther",
+      "chapter": 7,
+      "verse": 1,
+      "file": "7-tweede-maaltijd-en-hamans-einde.svg",
+      "scene": "De tweede maaltijd",
+      "alt": "Volgorde en sprekers bij de tweede maaltijd, zonder gebeurtenissen uit de eerste maaltijd te mengen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1326,
+      "source": "Esther 7:1–10",
+      "design": {
+        "rows": [
+          [
+            "Esthers verzoek",
+            "Leven voor haarzelf en haar volk; Haman als onderdrukker aangewezen."
+          ],
+          [
+            "De paleistuin",
+            "Koning woedend naar buiten; Haman smeekt Esther om zijn leven."
+          ],
+          [
+            "De terugkeer",
+            "Haman op de bank; de koning ziet dit als geweld tegen de koningin."
+          ],
+          [
+            "Het gezicht bedekt",
+            "Na het woord van de koning bedekken de aanwezigen Hamans gezicht."
+          ],
+          [
+            "Charbona en het bevel",
+            "Noemt de paal van 22,5 meter voor Mordechai; de koning laat Haman daaraan ophangen."
+          ]
+        ],
+        "note": "De dreiging tegen Mordechai keert zich tegen Haman. De beschuldiging bij de bank is weergegeven als het woord van de koning."
+      }
+    },
+    {
+      "book": "esther",
+      "chapter": 8,
+      "verse": 1,
+      "file": "8-nieuw-besluit-en-oude-wet.svg",
+      "scene": "Nieuw besluit en oude wet",
+      "alt": "Juridische volgorde, twee datums en de verschillende taken van Esther en Mordechai.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1726,
+      "source": "Esther 8:1–17",
+      "design": {
+        "rows": [
+          [
+            "Huis en zegelring",
+            "Esther krijgt Hamans huis; Mordechai krijgt de ring en beheert het huis."
+          ],
+          [
+            "Esther vraagt herroeping",
+            "Zij pleit voor het leven van haar volk en familie."
+          ],
+          [
+            "Een nieuw besluit",
+            "De koning noemt een verzegeld koninklijk geschrift onherroepelijk; er komt een afzonderlijk tegenbevel."
+          ],
+          [
+            "Sivan drieëntwintig",
+            "Maand drie: brieven in eigen schrift en taal naar 127 gewesten, India tot Nubië."
+          ],
+          [
+            "Adar dertien",
+            "Maand twaalf: samenkomen en voor het leven opkomen tegen aanvallende machten; de tekst noemt ook vrouwen, kinderen en buit."
+          ],
+          [
+            "Bekendmaking en vreugde",
+            "Snelle koninklijke paarden; Mordechai in blauw, wit, goud en purper; Susan juicht."
+          ]
+        ],
+        "note": "Het tegenbevel wist het eerdere stuk niet eenvoudig uit. De verstrekkende geweldsbepaling blijft als inhoud van de toenmalige brief zichtbaar."
+      }
+    },
+    {
+      "book": "esther",
+      "chapter": 9,
+      "verse": 7,
+      "file": "9-tien-zonen-van-haman.svg",
+      "scene": "De tien zonen van Haman",
+      "alt": "De tien zonen van Haman — Esther 9:7–10",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1331,
+      "source": "Esther 9:7–10",
+      "design": {
+        "type": "parent-child branches",
+        "parent": "Haman",
+        "children": [
+          [
+            "Parsandatha",
+            ""
+          ],
+          [
+            "Dalfon",
+            ""
+          ],
+          [
+            "Asfata",
+            ""
+          ],
+          [
+            "Poratha",
+            ""
+          ],
+          [
+            "Adalia",
+            ""
+          ],
+          [
+            "Aridatha",
+            ""
+          ],
+          [
+            "Parmastha",
+            ""
+          ],
+          [
+            "Arisai",
+            ""
+          ],
+          [
+            "Aridai",
+            ""
+          ],
+          [
+            "Vaizatha",
+            ""
+          ]
+        ],
+        "note": "De tien namen staan naast elkaar als broers, niet als opeenvolgende generaties; de tekst vermeldt hun dood en dat de buit niet genomen werd."
+      }
+    },
+    {
+      "book": "esther",
+      "chapter": 9,
+      "verse": 1,
+      "file": "9-dagen-aantallen-en-rust.svg",
+      "scene": "Dagen, aantallen en rust",
+      "alt": "Afzonderlijke aantallen en het verschil tussen de rustdagen in Susan en de overige steden.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1326,
+      "source": "Esther 9:1–19",
+      "design": {
+        "rows": [
+          [
+            "Adar dertien, Susan",
+            "Vijfhonderd mannen en de tien zonen van Haman gedood; geen buit genomen."
+          ],
+          [
+            "Verlenging in Susan",
+            "Esther vraagt een extra dag en het ophangen van Hamans tien zonen."
+          ],
+          [
+            "Adar veertien, Susan",
+            "Driehonderd mannen gedood; opnieuw geen buit genomen."
+          ],
+          [
+            "Andere gewesten",
+            "75.000 vijanden gedood; geen buit genomen. Strijd op dag dertien, rust op dag veertien."
+          ],
+          [
+            "Twee rustdagen",
+            "Open steden: veertien. Susan, na twee dagen: vijftien."
+          ]
+        ],
+        "note": "Dit overzicht noemt de dodelijke aantallen expliciet. De passage wordt niet tot uitsluitend een onschuldig feestverhaal teruggebracht."
+      }
+    },
+    {
+      "book": "esther",
+      "chapter": 9,
+      "verse": 20,
+      "file": "9-purim-brieven-en-herdenken.svg",
+      "scene": "Purim: brieven en herdenken",
+      "alt": "Het verband tussen de naam, twee brieven, data en manieren van herdenken.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1647,
+      "source": "Esther 9:20–32",
+      "design": {
+        "rows": [
+          [
+            "Mordechai’s brief",
+            "Elk jaar Adar veertien en vijftien; rust en omkeer van verdriet naar vreugde."
+          ],
+          [
+            "Concrete viering",
+            "Maaltijden, elkaar porties sturen en gaven aan de armen."
+          ],
+          [
+            "Pur en Purim",
+            "De naam herinnert aan het lot waarmee Haman het geweld plande."
+          ],
+          [
+            "Blijvende afspraak",
+            "Generaties, families, gewesten en steden moeten de dagen blijven gedenken."
+          ],
+          [
+            "Tweede brief",
+            "Esther, dochter van Abichaïl, en Mordechai bevestigen de regeling met gezag, vrede en trouw."
+          ],
+          [
+            "Vasten en roepen",
+            "Ook vastgelegd naast de feestdagen; Esthers bevel wordt in een boek geschreven."
+          ]
+        ],
+        "note": "De strijd, de eerste rustdagen en de latere brieven zijn verschillende fasen van het hoofdstuk."
+      }
+    }
+  ]
+}
