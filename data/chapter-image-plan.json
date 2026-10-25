@@ -21694,6 +21694,152 @@
           "source": "Daniël 8:13–19,26–27"
         }
       ]
+    },
+    {
+      "book": "daniel",
+      "chapter": 9,
+      "status": "reviewed",
+      "target_images": 7,
+      "reason": "Gebed, Gabriël en herbouw zijn aanwezig. Het voorafgaande lezen en het verwoeste heiligdom als gebedsonderwerp vullen aparte momenten aan. Twee schema’s onderscheiden zeventig jaar, belijdenis en alle weekwoorden zonder eigen datumberekening.",
+      "additions": [
+        {
+          "verse": 2,
+          "scene": "Daniël leest de boeken",
+          "kind": "scene",
+          "file": "9-2-jeremia-lezen-verdieping.webp"
+        },
+        {
+          "verse": 17,
+          "scene": "Gebedsbeeld: het verwoeste heiligdom",
+          "kind": "poetic",
+          "file": "9-17-verwoest-heiligdom-verdieping.webp"
+        },
+        {
+          "verse": 1,
+          "file": "9-leeswijzer.svg",
+          "scene": "Gebed en zeventig weken",
+          "kind": "diagram",
+          "source": "Daniël 9:1–27"
+        },
+        {
+          "verse": 24,
+          "file": "9-weken-in-de-tekst.svg",
+          "scene": "De weken in de ontvangen woorden",
+          "kind": "diagram",
+          "source": "Daniël 9:24–27"
+        }
+      ]
+    },
+    {
+      "book": "daniel",
+      "chapter": 10,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Rivier, krachtverlies en bemoediging zijn aanwezig. De vlucht van de metgezellen voegt de uitdrukkelijk andere reactie toe. De leeswijzer bewaart alle aanrakingen en onderscheidt drie weken rouw, 21 dagen tegenstand en de gegeven verklaring.",
+      "additions": [
+        {
+          "verse": 7,
+          "scene": "De metgezellen vluchten weg",
+          "kind": "poetic",
+          "file": "10-7-metgezellen-vluchten-verdieping.webp"
+        },
+        {
+          "verse": 1,
+          "file": "10-leeswijzer.svg",
+          "scene": "Rouw, ontzetting en versterking",
+          "kind": "diagram",
+          "source": "Daniël 10:1–21"
+        }
+      ]
+    },
+    {
+      "book": "daniel",
+      "chapter": 11,
+      "status": "reviewed",
+      "target_images": 11,
+      "reason": "Machtige koning, standvastig volk en onderwijs in loutering zijn aanwezig. Vijf aparte concrete aankondigingen voegen dochterverdrag, belastingambtenaar, twee koningen aan tafel, Chittims schepen en laatste tentplaats toe. Drie schema’s houden het lange politieke verloop en het verbond uiteen zonder ongenoemde personen zelf te identificeren.",
+      "additions": [
+        {
+          "verse": 6,
+          "scene": "Aankondiging: de dochter en het verdrag",
+          "kind": "poetic",
+          "file": "11-6-dochter-en-verdrag-verdieping.webp"
+        },
+        {
+          "verse": 20,
+          "scene": "Aankondiging: de belastingambtenaar",
+          "kind": "poetic",
+          "file": "11-20-belastingambtenaar-verdieping.webp"
+        },
+        {
+          "verse": 27,
+          "scene": "Aankondiging: twee koningen aan tafel",
+          "kind": "poetic",
+          "file": "11-27-koningen-aan-tafel-verdieping.webp"
+        },
+        {
+          "verse": 30,
+          "scene": "Aankondiging: schepen uit Chittim",
+          "kind": "poetic",
+          "file": "11-30-schepen-chittim-verdieping.webp"
+        },
+        {
+          "verse": 45,
+          "scene": "Aankondiging: de koninklijke tenten",
+          "kind": "poetic",
+          "file": "11-45-koninklijke-tenten-verdieping.webp"
+        },
+        {
+          "verse": 1,
+          "file": "11-leeswijzer.svg",
+          "scene": "Koningen, verdragen en tegenstand",
+          "kind": "diagram",
+          "source": "Daniël 11:1–45"
+        },
+        {
+          "verse": 6,
+          "file": "11-verdragen-en-opvolging.svg",
+          "scene": "Verdragen en opvolgingen",
+          "kind": "diagram",
+          "source": "Daniël 11:2–24"
+        },
+        {
+          "verse": 25,
+          "file": "11-tafel-schepen-verbond.svg",
+          "scene": "Tafel, schepen en het verbond",
+          "kind": "diagram",
+          "source": "Daniël 11:25–35"
+        }
+      ]
+    },
+    {
+      "book": "daniel",
+      "chapter": 12,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Sterrenbeeld, verzegeld boek en rust zijn aanwezig. De twee tegenoverliggende oevers voegen de uitdrukkelijke ruimtelijke situatie toe. Twee schema’s bewaren redding, beide uitkomsten van ontwaken, vragen, alle tijdwoorden en het laatste woord aan Daniël.",
+      "additions": [
+        {
+          "verse": 5,
+          "scene": "Visioen: twee tegenoverliggende oevers",
+          "kind": "poetic",
+          "file": "12-5-beide-oevers-verdieping.webp"
+        },
+        {
+          "verse": 1,
+          "file": "12-leeswijzer.svg",
+          "scene": "Benauwdheid, woorden en wachten",
+          "kind": "diagram",
+          "source": "Daniël 12:1–13"
+        },
+        {
+          "verse": 7,
+          "file": "12-drie-tijdwoorden.svg",
+          "scene": "De drie tijdwoorden",
+          "kind": "diagram",
+          "source": "Daniël 12:7–13"
+        }
+      ]
     }
   ]
 }

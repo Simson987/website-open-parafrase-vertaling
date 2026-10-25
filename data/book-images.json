@@ -29911,7 +29911,11 @@
         "chapter": 9,
         "file": "9.webp",
         "alt": "Daniël bidt bij een open venster",
-        "scene": "Het gebed van Daniël"
+        "scene": "Het gebed van Daniël",
+        "verse": 3,
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 1,
@@ -30138,77 +30142,110 @@
         "verse": 21,
         "file": "9-21.webp",
         "alt": "Beeld bij Daniel 9: Gabriël komt tijdens het gebed",
-        "scene": "Gabriël komt tijdens het gebed"
+        "scene": "Gabriël komt tijdens het gebed",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 9,
         "verse": 25,
         "file": "9-25.webp",
         "alt": "Beeld bij Daniel 9: Jeruzalem wordt herbouwd",
-        "scene": "Jeruzalem wordt herbouwd"
+        "scene": "Jeruzalem wordt herbouwd",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 10,
         "verse": 4,
         "file": "10-4.webp",
         "alt": "Beeld bij Daniel 10: Aan de rivier Hiddekel",
-        "scene": "Aan de rivier Hiddekel"
+        "scene": "Aan de rivier Hiddekel",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 10,
         "verse": 8,
         "file": "10-8.webp",
         "alt": "Beeld bij Daniel 10: Daniël verliest zijn kracht",
-        "scene": "Daniël verliest zijn kracht"
+        "scene": "Daniël verliest zijn kracht",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 10,
         "verse": 12,
         "file": "10-12.webp",
         "alt": "Beeld bij Daniel 10: Vrees niet Daniël",
-        "scene": "Vrees niet Daniël"
+        "scene": "Vrees niet Daniël",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 11,
         "verse": 3,
         "file": "11-3.webp",
         "alt": "Beeld bij Daniel 11: Een machtige koning",
-        "scene": "Een machtige koning"
+        "scene": "Een machtige koning",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 11,
         "verse": 32,
         "file": "11-32.webp",
         "alt": "Beeld bij Daniel 11: Een standvastig volk",
-        "scene": "Een standvastig volk"
+        "scene": "Een standvastig volk",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 11,
         "verse": 35,
         "file": "11-35.webp",
         "alt": "Beeld bij Daniel 11: Loutering in moeilijke tijden",
-        "scene": "Loutering in moeilijke tijden"
+        "scene": "Loutering in moeilijke tijden",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 12,
         "verse": 3,
         "file": "12-3.webp",
         "alt": "Beeld bij Daniel 12: Stralen als de sterren",
-        "scene": "Stralen als de sterren"
+        "scene": "Stralen als de sterren",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 12,
         "verse": 4,
         "file": "12-4.webp",
         "alt": "Beeld bij Daniel 12: Het boek verzegeld",
-        "scene": "Het boek verzegeld"
+        "scene": "Het boek verzegeld",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 12,
         "verse": 13,
         "file": "12-13.webp",
         "alt": "Beeld bij Daniel 12: Rust na een lange weg",
-        "scene": "Rust na een lange weg"
+        "scene": "Rust na een lange weg",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 1,
@@ -30579,6 +30616,176 @@
         "kind": "diagram",
         "width": 840,
         "height": 1263
+      },
+      {
+        "chapter": 9,
+        "verse": 2,
+        "scene": "Daniël leest de boeken",
+        "alt": "Daniël leest de boeken — Daniël 9:2; vertelde handeling.",
+        "kind": "scene",
+        "file": "9-2-jeremia-lezen-verdieping.webp",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 9,
+        "verse": 17,
+        "scene": "Gebedsbeeld: het verwoeste heiligdom",
+        "alt": "Gebedsbeeld: het verwoeste heiligdom — Daniël 9:17; gebedsbeeld, visioen of aankondiging.",
+        "kind": "poetic",
+        "file": "9-17-verwoest-heiligdom-verdieping.webp",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 10,
+        "verse": 7,
+        "scene": "De metgezellen vluchten weg",
+        "alt": "De metgezellen vluchten weg — Daniël 10:7; gebedsbeeld, visioen of aankondiging.",
+        "kind": "poetic",
+        "file": "10-7-metgezellen-vluchten-verdieping.webp",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 11,
+        "verse": 6,
+        "scene": "Aankondiging: de dochter en het verdrag",
+        "alt": "Aankondiging: de dochter en het verdrag — Daniël 11:6; gebedsbeeld, visioen of aankondiging.",
+        "kind": "poetic",
+        "file": "11-6-dochter-en-verdrag-verdieping.webp",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 11,
+        "verse": 20,
+        "scene": "Aankondiging: de belastingambtenaar",
+        "alt": "Aankondiging: de belastingambtenaar — Daniël 11:20; gebedsbeeld, visioen of aankondiging.",
+        "kind": "poetic",
+        "file": "11-20-belastingambtenaar-verdieping.webp",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 11,
+        "verse": 27,
+        "scene": "Aankondiging: twee koningen aan tafel",
+        "alt": "Aankondiging: twee koningen aan tafel — Daniël 11:27; gebedsbeeld, visioen of aankondiging.",
+        "kind": "poetic",
+        "file": "11-27-koningen-aan-tafel-verdieping.webp",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 11,
+        "verse": 30,
+        "scene": "Aankondiging: schepen uit Chittim",
+        "alt": "Aankondiging: schepen uit Chittim — Daniël 11:30; gebedsbeeld, visioen of aankondiging.",
+        "kind": "poetic",
+        "file": "11-30-schepen-chittim-verdieping.webp",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 11,
+        "verse": 45,
+        "scene": "Aankondiging: de koninklijke tenten",
+        "alt": "Aankondiging: de koninklijke tenten — Daniël 11:45; gebedsbeeld, visioen of aankondiging.",
+        "kind": "poetic",
+        "file": "11-45-koninklijke-tenten-verdieping.webp",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 12,
+        "verse": 5,
+        "scene": "Visioen: twee tegenoverliggende oevers",
+        "alt": "Visioen: twee tegenoverliggende oevers — Daniël 12:5; gebedsbeeld, visioen of aankondiging.",
+        "kind": "poetic",
+        "file": "12-5-beide-oevers-verdieping.webp",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 9,
+        "verse": 1,
+        "file": "9-leeswijzer.svg",
+        "scene": "Gebed en zeventig weken",
+        "alt": "Gebed en zeventig weken — Daniël 9:1–27",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1035
+      },
+      {
+        "chapter": 9,
+        "verse": 24,
+        "file": "9-weken-in-de-tekst.svg",
+        "scene": "De weken in de ontvangen woorden",
+        "alt": "Alle genoemde weekgroepen en de beschreven gebeurtenissen.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1514
+      },
+      {
+        "chapter": 10,
+        "verse": 1,
+        "file": "10-leeswijzer.svg",
+        "scene": "Rouw, ontzetting en versterking",
+        "alt": "De onderscheiden reacties, aanrakingen en woorden van versterking.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1313
+      },
+      {
+        "chapter": 11,
+        "verse": 1,
+        "file": "11-leeswijzer.svg",
+        "scene": "Koningen, verdragen en tegenstand",
+        "alt": "Overzicht van alle drie grote gedeelten van het lange hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1157
+      },
+      {
+        "chapter": 11,
+        "verse": 6,
+        "file": "11-verdragen-en-opvolging.svg",
+        "scene": "Verdragen en opvolgingen",
+        "alt": "De volgorde van beide diplomatieke stappen en onderscheiden opvolgers.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1349
+      },
+      {
+        "chapter": 11,
+        "verse": 25,
+        "file": "11-tafel-schepen-verbond.svg",
+        "scene": "Tafel, schepen en het verbond",
+        "alt": "De verbanden van tafelleugens, schepen, verbond en standvastigheid.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1157
+      },
+      {
+        "chapter": 12,
+        "verse": 1,
+        "file": "12-leeswijzer.svg",
+        "scene": "Benauwdheid, woorden en wachten",
+        "alt": "De opbouw met de verschillende toekomstwoorden en Daniëls eigen vraag.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1078
+      },
+      {
+        "chapter": 12,
+        "verse": 7,
+        "file": "12-drie-tijdwoorden.svg",
+        "scene": "De drie tijdwoorden",
+        "alt": "Drie verschillende tijdformuleringen met de eigen tekstvoorwaarden.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1134
       }
     ],
     "hosea": [

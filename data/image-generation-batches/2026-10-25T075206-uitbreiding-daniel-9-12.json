@@ -1,0 +1,366 @@
+{
+  "date": "2026-10-25",
+  "started": "2026-10-25T07:52:06Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "daniel",
+      "chapter": 9,
+      "verse": 2,
+      "scene": "Daniël leest de boeken",
+      "alt": "Daniël leest de boeken — Daniël 9:2; vertelde handeling.",
+      "kind": "scene",
+      "file": "9-2-jeremia-lezen-verdieping.webp",
+      "prompt": "Use case: historical-scene. Photorealistic ancient Bible illustration, landscape 3:2, realistic linen, stone, clay and wood, natural light, coherent separate bodies and hands, exactly two arms per person, fully covering opaque modest robes. No modern objects, legible writing, watermark, literal deity body, wounds or blood. An elderly fully robed Judean male prophet studies two old unrolled parchment scrolls at a simple low table in a Babylonian mudbrick room, one normal hand points along faint indistinct ink marks while the other steadies a scroll. No readable letters, modern bound Bible, additional person or divine apparition. The reading about Jeremiah’s seventy years before the prayer.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "daniel",
+      "chapter": 9,
+      "verse": 17,
+      "scene": "Gebedsbeeld: het verwoeste heiligdom",
+      "alt": "Gebedsbeeld: het verwoeste heiligdom — Daniël 9:17; gebedsbeeld, visioen of aankondiging.",
+      "kind": "poetic",
+      "file": "9-17-verwoest-heiligdom-verdieping.webp",
+      "prompt": "Use case: historical-scene. Photorealistic ancient Bible illustration, landscape 3:2, realistic linen, stone, clay and wood, natural light, coherent separate bodies and hands, exactly two arms per person, fully covering opaque modest robes. No modern objects, legible writing, watermark, literal deity body, wounds or blood. An ancient Jerusalem sanctuary site in ruins, broken pale stone walls and scattered fallen timber on an empty hilltop, sober natural daylight. No people, bodies, modern monument or reconstructed intact temple. Material illustration of the ruined sanctuary mentioned in the prayer, separate from its rebuilding image.",
+      "edit_prompt": "Revise this illustration of the ruined sanctuary in Daniel 9:17: replace all Greco-Roman fluted columns, classical pediments and Corinthian details with a plausible ruined Iron Age Levantine sanctuary of plain limestone masonry, burned cedar beams and simple unornamented stone piers. No classical Greek architectural vocabulary. Keep the photorealistic landscape composition and rubble, no people, no writing or modern objects.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "daniel",
+      "chapter": 10,
+      "verse": 7,
+      "scene": "De metgezellen vluchten weg",
+      "alt": "De metgezellen vluchten weg — Daniël 10:7; gebedsbeeld, visioen of aankondiging.",
+      "kind": "poetic",
+      "file": "10-7-metgezellen-vluchten-verdieping.webp",
+      "prompt": "Use case: historical-scene. Photorealistic ancient Bible illustration, landscape 3:2, realistic linen, stone, clay and wood, natural light, coherent separate bodies and hands, exactly two arms per person, fully covering opaque modest robes. No modern objects, legible writing, watermark, literal deity body, wounds or blood. Several modestly fully robed ancient adult male companions hasten away from a wide river bank toward reed cover, faces startled but no injury; an elderly fully robed man remains alone in the foreground looking away from them. Natural coherent bodies, no visible angel, deity, pursuing army or panic crowd. The companions do not see the vision; they flee in fear.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "daniel",
+      "chapter": 11,
+      "verse": 6,
+      "scene": "Aankondiging: de dochter en het verdrag",
+      "alt": "Aankondiging: de dochter en het verdrag — Daniël 11:6; gebedsbeeld, visioen of aankondiging.",
+      "kind": "poetic",
+      "file": "11-6-dochter-en-verdrag-verdieping.webp",
+      "prompt": "Use case: historical-scene. Photorealistic ancient Bible illustration, landscape 3:2, realistic linen, stone, clay and wood, natural light, coherent separate bodies and hands, exactly two arms per person, fully covering opaque modest robes. No modern objects, legible writing, watermark, literal deity body, wounds or blood. A dignified fully robed adult royal woman travels with a small adult diplomatic escort toward a fortified ancient palace entrance, a sealed unlettered scroll carried by one envoy. Ordinary separate hands, no identifiable named historical ruler, modern flag, child marriage, romantic scene or violence. Illustration of the foretold diplomatic journey of the southern king’s daughter, not an added personal name.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "daniel",
+      "chapter": 11,
+      "verse": 20,
+      "scene": "Aankondiging: de belastingambtenaar",
+      "alt": "Aankondiging: de belastingambtenaar — Daniël 11:20; gebedsbeeld, visioen of aankondiging.",
+      "kind": "poetic",
+      "file": "11-20-belastingambtenaar-verdieping.webp",
+      "prompt": "Use case: historical-scene. Photorealistic ancient Bible illustration, landscape 3:2, realistic linen, stone, clay and wood, natural light, coherent separate bodies and hands, exactly two arms per person, fully covering opaque modest robes. No modern objects, legible writing, watermark, literal deity body, wounds or blood. One fully robed ancient royal fiscal official at a plain stone town table records a small collected pouch of plain silver pieces on a scroll with indistinct ink marks, two fully robed adult townspeople stand beside him. Normal hands, no modern currency, labels, named ruler, cruelty or legal advice. An illustration of the announced collector, not a present-day tax scene.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "daniel",
+      "chapter": 11,
+      "verse": 27,
+      "scene": "Aankondiging: twee koningen aan tafel",
+      "alt": "Aankondiging: twee koningen aan tafel — Daniël 11:27; gebedsbeeld, visioen of aankondiging.",
+      "kind": "poetic",
+      "file": "11-27-koningen-aan-tafel-verdieping.webp",
+      "prompt": "Use case: historical-scene. Photorealistic ancient Bible illustration, landscape 3:2, realistic linen, stone, clay and wood, natural light, coherent separate bodies and hands, exactly two arms per person, fully covering opaque modest robes. No modern objects, legible writing, watermark, literal deity body, wounds or blood. Exactly two fully robed ancient kings sit opposite each other at one low banquet table, politely speaking with guarded expressions, a few plain cups and a food dish between them. Each has two natural arms and hands, no secretly added people, modern treaty, visible writing or violent threat. Illustration of the two kings speaking deceptive words at one table without inventing their identities.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "daniel",
+      "chapter": 11,
+      "verse": 30,
+      "scene": "Aankondiging: schepen uit Chittim",
+      "alt": "Aankondiging: schepen uit Chittim — Daniël 11:30; gebedsbeeld, visioen of aankondiging.",
+      "kind": "poetic",
+      "file": "11-30-schepen-chittim-verdieping.webp",
+      "prompt": "Use case: historical-scene. Photorealistic ancient Bible illustration, landscape 3:2, realistic linen, stone, clay and wood, natural light, coherent separate bodies and hands, exactly two arms per person, fully covering opaque modest robes. No modern objects, legible writing, watermark, literal deity body, wounds or blood. Several ancient Mediterranean wooden ships with plain linen sails approach a rocky eastern coastal anchorage, viewed from an ancient empty shoreline at natural daylight. No modern vessels, named ruler, flags, attacking bodies or fire. General illustration of the ships named in the prediction, no exact modern location asserted.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "daniel",
+      "chapter": 11,
+      "verse": 45,
+      "scene": "Aankondiging: de koninklijke tenten",
+      "alt": "Aankondiging: de koninklijke tenten — Daniël 11:45; gebedsbeeld, visioen of aankondiging.",
+      "kind": "poetic",
+      "file": "11-45-koninklijke-tenten-verdieping.webp",
+      "prompt": "Use case: historical-scene. Photorealistic ancient Bible illustration, landscape 3:2, realistic linen, stone, clay and wood, natural light, coherent separate bodies and hands, exactly two arms per person, fully covering opaque modest robes. No modern objects, legible writing, watermark, literal deity body, wounds or blood. A small cluster of large restrained ancient royal cloth tents pitched on a broad slope between a distant sea and a prominent inland mountain ridge, natural landscape light, no humans, modern insignia, named modern holy site, bodies or celestial figure. Illustrate the stated placement of tents, not a surveyed historical map.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "daniel",
+      "chapter": 12,
+      "verse": 5,
+      "scene": "Visioen: twee tegenoverliggende oevers",
+      "alt": "Visioen: twee tegenoverliggende oevers — Daniël 12:5; gebedsbeeld, visioen of aankondiging.",
+      "kind": "poetic",
+      "file": "12-5-beide-oevers-verdieping.webp",
+      "prompt": "Use case: historical-scene. Photorealistic ancient Bible illustration, landscape 3:2, realistic linen, stone, clay and wood, natural light, coherent separate bodies and hands, exactly two arms per person, fully covering opaque modest robes. No modern objects, legible writing, watermark, literal deity body, wounds or blood. A wide ancient river with exactly one modestly fully robed adult male standing on each of the two opposite banks, seen from an unobstructed side overlook; the water separates them clearly. No figure walking on water, divine body, modern bridge, additional people or inscriptions. A location detail of the two others on opposite banks, not a complete depiction of the vision.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "daniel",
+      "chapter": 9,
+      "verse": 1,
+      "file": "9-leeswijzer.svg",
+      "scene": "Gebed en zeventig weken",
+      "alt": "Gebed en zeventig weken — Daniël 9:1–27",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1035,
+      "source": "Daniël 9:1–27",
+      "design": {
+        "rows": [
+          [
+            "Lezen en zoeken · 1–3",
+            "Eerste jaar Darius; Jeremia’s zeventig jaar gelezen, gebed met vasten, rouwkleed en as."
+          ],
+          [
+            "De belijdenis · 4–19",
+            "Eigen ontrouw, niet horen en rechtvaardig oordeel; vergeving en herstel gevraagd om Zijn naam en barmhartigheid."
+          ],
+          [
+            "Onderwijs · 20–27",
+            "Tijdens gebed Gabriël bij avondoffer; geliefd, inzicht en zeventig weken over volk en stad."
+          ]
+        ],
+        "note": "De zeventig jaren in vers 2 en zeventig weken in vers 24 hebben elk hun eigen formulering."
+      }
+    },
+    {
+      "book": "daniel",
+      "chapter": 9,
+      "verse": 24,
+      "file": "9-weken-in-de-tekst.svg",
+      "scene": "De weken in de ontvangen woorden",
+      "alt": "Alle genoemde weekgroepen en de beschreven gebeurtenissen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1514,
+      "source": "Daniël 9:24–27",
+      "design": {
+        "rows": [
+          [
+            "Zeventig weken · 24",
+            "Over volk en heilige stad: ontrouw beëindigen, zonden verzegelen, schuld verzoenen, eeuwige gerechtigheid, visioen en profeet bezegelen, allerheiligste zalven."
+          ],
+          [
+            "Zeven en tweeënzestig · 25",
+            "Vanaf het woord om Jeruzalem te herbouwen tot de Messias, de Vorst; straten en grachten in benauwdheid herbouwd."
+          ],
+          [
+            "Na de tweeënzestig · 26",
+            "Messias uitgeroeid, niet voor zichzelf; volk van komende vorst verwoest stad en heiligdom, oorlog en vaststaande verwoestingen."
+          ],
+          [
+            "Eén week en de helft · 27",
+            "Verbond voor velen versterkt; halverwege slachtoffer en graanoffer weg, gruwel en vastgesteld einde over de verwoester."
+          ]
+        ],
+        "note": "De formuleringen en volgorde blijven staan. Er zijn geen eigen beginjaren, huidige kalenderdatums of niet genoemde persoonsnamen ingevuld."
+      }
+    },
+    {
+      "book": "daniel",
+      "chapter": 10,
+      "verse": 1,
+      "file": "10-leeswijzer.svg",
+      "scene": "Rouw, ontzetting en versterking",
+      "alt": "De onderscheiden reacties, aanrakingen en woorden van versterking.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1313,
+      "source": "Daniël 10:1–21",
+      "design": {
+        "rows": [
+          [
+            "Tijd en rouw · 1–4",
+            "Derde jaar Kores, drie weken geen lekker eten, vlees, wijn of olie; dag 24 van maand 1 aan de Tigris."
+          ],
+          [
+            "Het gezicht · 5–9",
+            "Man in linnen, gouden gordel en glans; Daniël ziet, metgezellen niet, zij vluchten; hij verliest kracht en valt in slaap."
+          ],
+          [
+            "Opgericht · 10–19",
+            "Aangeraakt, woorden vanaf eerste dag gehoord; 21 dagen tegenstand en Michaëls hulp; lippen en lichaam aangeraakt, vrede en kracht."
+          ],
+          [
+            "Wat volgt · 20–21",
+            "Strijd met vorst van Perzië, daarna Griekenland; boek van waarheid en Michaël als hulp."
+          ]
+        ],
+        "note": "De drie weken rouw en 21 dagen tegenstand worden beide vermeld zonder meer datums toe te voegen."
+      }
+    },
+    {
+      "book": "daniel",
+      "chapter": 11,
+      "verse": 1,
+      "file": "11-leeswijzer.svg",
+      "scene": "Koningen, verdragen en tegenstand",
+      "alt": "Overzicht van alle drie grote gedeelten van het lange hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1157,
+      "source": "Daniël 11:1–45",
+      "design": {
+        "rows": [
+          [
+            "Opvolgingen · 1–20",
+            "Perzische koningen, machtig rijk verdeeld, Zuiden en Noorden, dochterverdragen, veldtochten en belastingambtenaar."
+          ],
+          [
+            "Bedrog en verbond · 21–35",
+            "Verachte man, vleierij, legers, leugens aan één tafel, Chittim, heiligdom en offer, standvastig volk en vervolgde leraars."
+          ],
+          [
+            "Hoogmoed en het einde · 36–45",
+            "Eigen grootheid, god van vestingen, nieuwe strijd, genoemde landen, berichten en tenten; einde zonder helper."
+          ]
+        ],
+        "note": "Dit hoofdstuk geeft rollen en ontwikkelingen. Niet genoemde koningsnamen worden hier niet als tekstfeit toegevoegd."
+      }
+    },
+    {
+      "book": "daniel",
+      "chapter": 11,
+      "verse": 6,
+      "file": "11-verdragen-en-opvolging.svg",
+      "scene": "Verdragen en opvolgingen",
+      "alt": "De volgorde van beide diplomatieke stappen en onderscheiden opvolgers.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1349,
+      "source": "Daniël 11:2–24",
+      "design": {
+        "rows": [
+          [
+            "Perzië en breuk · 2–4",
+            "Drie en een vierde rijke koning; daarna machtige koning, rijk verdeeld naar vier windstreken en niet naar nakomelingen."
+          ],
+          [
+            "Eerste dochter · 5–9",
+            "Zuiden en Noorden verbinden; dochter verliest positie, haar familie volgt met overwinning en buit naar Egypte."
+          ],
+          [
+            "Nieuwe strijd en dochter · 10–19",
+            "Legers en ommekeer; verdrag met dochter om rijk te gronde te richten mislukt, kustlanden en eigen einde."
+          ],
+          [
+            "Nog twee opvolgers · 20–24",
+            "Belastingambtenaar snel gebroken zonder oorlog; verachte man krijgt rijk via vleierij, verbond, bedrog en verdeling van buit."
+          ]
+        ],
+        "note": "De twee dochterpassages blijven apart. De tekst noemt deze vrouwen en opvolgers hier niet bij naam."
+      }
+    },
+    {
+      "book": "daniel",
+      "chapter": 11,
+      "verse": 25,
+      "file": "11-tafel-schepen-verbond.svg",
+      "scene": "Tafel, schepen en het verbond",
+      "alt": "De verbanden van tafelleugens, schepen, verbond en standvastigheid.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1157,
+      "source": "Daniël 11:25–35",
+      "design": {
+        "rows": [
+          [
+            "Legers en tafel · 25–28",
+            "Zuiden door plannen en tafelgenoten gebroken; twee koningen liegen, terugkeer met bezit en hart tegen het verbond."
+          ],
+          [
+            "Terugkeer en Chittim · 29–31",
+            "Nieuwe zuidelijke tocht loopt anders; schepen, moedverlies, woede tegen verbond, heiligdom en dagelijks offer aangetast."
+          ],
+          [
+            "Twee reacties · 32–35",
+            "Vleierij tot huichelen tegenover volk dat God kent; leraars onderwijzen, vervolging, beperkte hulp en loutering tot vaste tijd."
+          ]
+        ],
+        "note": "Het schema onderscheidt politiek bedrog en de reacties onder het volk. De uitspraak over de vastgestelde tijd loopt door de passage."
+      }
+    },
+    {
+      "book": "daniel",
+      "chapter": 12,
+      "verse": 1,
+      "file": "12-leeswijzer.svg",
+      "scene": "Benauwdheid, woorden en wachten",
+      "alt": "De opbouw met de verschillende toekomstwoorden en Daniëls eigen vraag.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1078,
+      "source": "Daniël 12:1–13",
+      "design": {
+        "rows": [
+          [
+            "Redding en ontwaken · 1–3",
+            "Michaël, benauwdheid, gered wie in het boek staat; ontwaken tot twee uitkomsten, leraars en rechtvaardigmakers stralen."
+          ],
+          [
+            "Bewaren en vragen · 4–10",
+            "Boek verzegeld, twee oevers en Man boven water, tijdwoord; Daniël begrijpt niet, geheim tot einde, wijzen en goddelozen."
+          ],
+          [
+            "Dagen en laatste woord · 11–13",
+            "1290 dagen, gelukkig wie 1335 bereikt; Daniël gaat heen, rust en staat op voor zijn deel."
+          ]
+        ],
+        "note": "Ontwaken heeft in de passage twee uitkomsten. Die worden in de uitleg allebei genoemd."
+      }
+    },
+    {
+      "book": "daniel",
+      "chapter": 12,
+      "verse": 7,
+      "file": "12-drie-tijdwoorden.svg",
+      "scene": "De drie tijdwoorden",
+      "alt": "Drie verschillende tijdformuleringen met de eigen tekstvoorwaarden.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1134,
+      "source": "Daniël 12:7–13",
+      "design": {
+        "rows": [
+          [
+            "Een, twee en een halve tijd · 7",
+            "Tot de macht van het heilige volk gebroken is en alles voltooid is."
+          ],
+          [
+            "1290 dagen · 11",
+            "Vanaf het wegnemen van het dagelijkse offer en het neerzetten van de verwoestende gruwel."
+          ],
+          [
+            "1335 dagen · 12",
+            "Gelukkig wie blijft wachten en die dagen bereikt."
+          ],
+          [
+            "Tot Daniël · 13",
+            "Ga heen tot einde, rust en opstaan voor eigen deel aan einde der dagen."
+          ]
+        ],
+        "note": "De verschillende formuleringen blijven intact; er worden geen alternatieve eenheden, kalenderbeginpunten of datums berekend."
+      }
+    }
+  ]
+}
