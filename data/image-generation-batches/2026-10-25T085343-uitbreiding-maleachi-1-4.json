@@ -1,0 +1,297 @@
+{
+  "date": "2026-10-25",
+  "started": "2026-10-25T08:53:43Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "maleachi",
+      "chapter": 1,
+      "verse": 3,
+      "file": "1-3-jakhalzen-erfdeel-verdieping.webp",
+      "scene": "Aankondiging: het erfdeel voor jakhalzen",
+      "alt": "Aankondiging: het erfdeel voor jakhalzen — Maleachi 1:3; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, ancient Levant, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, divine portrait, blood, injury or watermark. Two natural jackals wander through a dry ruined ancient hill settlement in rocky wilderness, no people, bones, prey, injuries or exact modern Edom identification.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "maleachi",
+      "chapter": 1,
+      "verse": 10,
+      "file": "1-10-deuren-dicht-verdieping.webp",
+      "scene": "De oproep: sluit de deuren",
+      "alt": "De oproep: sluit de deuren — Maleachi 1:10; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, ancient Levant, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, divine portrait, blood, injury or watermark. Closed plain timber doors of an ancient stone sanctuary with an unlit simple altar in the empty foreground, no deity, guards, modern architecture, flames or readable inscriptions.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "maleachi",
+      "chapter": 3,
+      "verse": 2,
+      "file": "3-2-wolwasser-verdieping.webp",
+      "scene": "Vergelijking: de zeep van de wolwasser",
+      "alt": "Vergelijking: de zeep van de wolwasser — Maleachi 3:2; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, ancient Levant, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, divine portrait, blood, injury or watermark. An ancient fully robed adult washer cleans pale wool in a shallow stone trough using plain traditional soap and water, two natural arms, no naked body, modern detergent packaging, machines or labels.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "maleachi",
+      "chapter": 3,
+      "verse": 16,
+      "file": "3-16-gedenkboek-verdieping.webp",
+      "scene": "Het gedenkboek voor de eerbiedigen",
+      "alt": "Het gedenkboek voor de eerbiedigen — Maleachi 3:16; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, ancient Levant, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, divine portrait, blood, injury or watermark. A modest fully robed ancient adult scribe records in an opened plain scroll while a few fully robed adults speak thoughtfully together nearby, exactly two arms each, no legible invented names, deity portrait, magic or modern book binding.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "maleachi",
+      "chapter": 1,
+      "verse": 1,
+      "file": "1-leeswijzer.svg",
+      "scene": "Liefde, eer en het afgewezen offer",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 992,
+      "source": "Maleachi 1:1–14",
+      "design": {
+        "rows": [
+          [
+            "Liefde en de vraag · 1–5",
+            "Israël, Maleachi, Jakob/Ezau en Edom; Zijn grootheid buiten Israël."
+          ],
+          [
+            "Priesters en eer · 6–10",
+            "Zoon/vader en dienaar/heer, naam veracht, onrein brood en gebrekkig vee; gouverneurvergelijking en deuren sluiten."
+          ],
+          [
+            "Naam onder de volken · 11–14",
+            "Overal naam groot en rein offer; minachting, geroofd/ziek vee en gebroken belofte, grote Koning."
+          ]
+        ],
+        "note": "Beeldspraak, klacht, herinnering en belofte volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "maleachi",
+      "chapter": 2,
+      "verse": 1,
+      "file": "2-leeswijzer.svg",
+      "scene": "Levi en het geschonden verbond",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 992,
+      "source": "Maleachi 2:1–17",
+      "design": {
+        "rows": [
+          [
+            "De priesters · 1–9",
+            "Horen en eer, vloek; Levi leven/vrede/ontzag, betrouwbaar onderwijs tegenover partijdige struikelblokken."
+          ],
+          [
+            "Onderlinge ontrouw · 10–16",
+            "Eén Vader/Schepper, verbond en heiligdom, vrouw van jeugd/gezellin; let op jezelf, geen ontrouw of geweld."
+          ],
+          [
+            "De vermoeiende woorden · 17",
+            "Kwaaddoener goed noemen en vragen waar de God van recht is."
+          ]
+        ],
+        "note": "Beeldspraak, klacht, herinnering en belofte volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "maleachi",
+      "chapter": 3,
+      "verse": 1,
+      "file": "3-leeswijzer.svg",
+      "scene": "Bode, terugkeer en gedenkboek",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1078,
+      "source": "Maleachi 3:1–18",
+      "design": {
+        "rows": [
+          [
+            "Komst en recht · 1–6",
+            "Bode en tempel, vuur/zeep, Levieten gelouterd, recht tegen eedbreuk, loonroof en verdrukking; Hij verandert niet."
+          ],
+          [
+            "Terugkeer en gaven · 7–12",
+            "Hoe terugkomen? Tienden/offergaven en voedsel, zegen, vreter gestuit en vrucht behouden."
+          ],
+          [
+            "Woorden en onderscheid · 13–18",
+            "Dienst zinloos genoemd; eerbiedigen spreken en gehoord, gedenkboek/eigendom, verschil dienaar en niet-dienaar."
+          ]
+        ],
+        "note": "Beeldspraak, klacht, herinnering en belofte volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "maleachi",
+      "chapter": 4,
+      "verse": 1,
+      "file": "4-leeswijzer.svg",
+      "scene": "De dag, de wet en terugkeer",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 949,
+      "source": "Maleachi 4:1–6",
+      "design": {
+        "rows": [
+          [
+            "Twee uitkomsten · 1–3",
+            "Oven/stoppels en geen wortel/tak tegenover Zon/genezing en kalveren, as onder voeten."
+          ],
+          [
+            "Herinnering · 4",
+            "Wet van Mozes bij Horeb voor heel Israël, regels en bepalingen."
+          ],
+          [
+            "De bode en het hart · 5–6",
+            "Elia voor grote dag; vaderen naar kinderen en kinderen naar vaderen, anders ban."
+          ]
+        ],
+        "note": "Beeldspraak, klacht, herinnering en belofte volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "maleachi",
+      "chapter": 1,
+      "verse": 6,
+      "file": "1-eer-en-offer.svg",
+      "scene": "De vragen over eer en offer",
+      "alt": "De vragen over eer en offer met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1091,
+      "source": "Maleachi 1:6–14",
+      "design": {
+        "rows": [
+          [
+            "Als Vader en Heer · 6",
+            "Waar eer en ontzag? Priesters vragen hoe zij naam verachten."
+          ],
+          [
+            "Brood en vee · 7–9",
+            "Onrein brood, blind/kreupel/ziek; zou gouverneur dit graag ontvangen?"
+          ],
+          [
+            "De deuren · 10",
+            "Liever sluiten dan vergeefs altaarvuur, offer niet aangenomen."
+          ],
+          [
+            "De belofte · 11–14",
+            "Naam groot onder volken; gaaf mannetje beloofd maar gebrekkig gebracht."
+          ]
+        ],
+        "note": "De vergelijking veroordeelt de offerpraktijk. Zij verklaart mensen met een beperking niet minderwaardig."
+      }
+    },
+    {
+      "book": "maleachi",
+      "chapter": 2,
+      "verse": 5,
+      "file": "2-onderwijs-en-trouw.svg",
+      "scene": "Betrouwbaarheid en ontrouw",
+      "alt": "Betrouwbaarheid en ontrouw met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1134,
+      "source": "Maleachi 2:5–16",
+      "design": {
+        "rows": [
+          [
+            "Levi · 5–7",
+            "Leven/vrede, ontzag, betrouwbaar onderwijs, oprechtheid en velen terug van schuld."
+          ],
+          [
+            "Aangesproken priesters · 8–9",
+            "Weg af, velen laten struikelen en partijdig onderwijs."
+          ],
+          [
+            "Verbond met elkaar · 10–12",
+            "Eén Vader/Schepper tegenover ontrouw en ontheiliging."
+          ],
+          [
+            "Huwelijksverbond · 13–16",
+            "Gezellin en vrouw van jeugd; Hij getuige, geen ontrouw en geweld."
+          ]
+        ],
+        "note": "Priesterlijk onderwijs en huwelijksverbond horen bij dezelfde oproep tot betrouwbaarheid maar hebben eigen concrete beschuldigingen."
+      }
+    },
+    {
+      "book": "maleachi",
+      "chapter": 3,
+      "verse": 7,
+      "file": "3-vragen-en-antwoorden.svg",
+      "scene": "Vragen en antwoorden",
+      "alt": "Tegenvragen en het gegeven antwoord met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1028,
+      "source": "Maleachi 3:7–18",
+      "design": {
+        "rows": [
+          [
+            "Hoe terugkomen? · 7–12",
+            "Afgeweken regels; tienden/offergaven onthouden, alles brengen naar voorraadhuis."
+          ],
+          [
+            "Wat tegen U gezegd? · 13–15",
+            "Zinloos God dienen, hoogmoedigen gelukkig en goddelozen opgebouwd genoemd."
+          ],
+          [
+            "Wie ontzag hebben · 16–18",
+            "Spreken samen, Hij hoort, gedenkboek; gespaard eigendom en onderscheid wordt zichtbaar."
+          ]
+        ],
+        "note": "De tekstuele discussie en het concrete volk staan centraal; er worden geen nieuwe financiële beloften aan individuele lezers toegevoegd."
+      }
+    },
+    {
+      "book": "maleachi",
+      "chapter": 4,
+      "verse": 4,
+      "file": "4-mozes-en-elia.svg",
+      "scene": "Mozes, Elia en de harten",
+      "alt": "Mozes, Elia en de harten met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 899,
+      "source": "Maleachi 4:4–6",
+      "design": {
+        "rows": [
+          [
+            "Mozes · 4",
+            "Zijn knecht; wet, regels en bepalingen bij Horeb aan heel Israël."
+          ],
+          [
+            "Elia · 5",
+            "Profeet die voor de grote, ontzagwekkende dag gestuurd wordt."
+          ],
+          [
+            "De harten · 6",
+            "Vaderen naar kinderen en kinderen naar vaderen terugbrengen."
+          ]
+        ],
+        "note": "Beide namen hebben een eigen functie in het slotwoord; geen extra gebeurtenissen worden hier als reeds verteld ingevoegd."
+      }
+    }
+  ]
+}
