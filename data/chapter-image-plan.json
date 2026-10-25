@@ -12157,6 +12157,28 @@
           "source": "Esther 5:14"
         }
       ]
+    },
+    {
+      "book": "esther",
+      "chapter": 6,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Kronieken, ererit en gesprek met Zeres zijn aanwezig. Het koninklijke vraag-en-antwoord is de afzonderlijke omslag; één leeswijzer maakt de tegenovergestelde bedoelingen en het gevolg van de kronieknotitie duidelijk.",
+      "additions": [
+        {
+          "verse": 6,
+          "scene": "Haman adviseert over de koninklijke eer",
+          "kind": "scene",
+          "file": "6-6-inhoudelijk.webp"
+        },
+        {
+          "verse": 1,
+          "file": "6-kroniek-eer-en-omkering.svg",
+          "scene": "Kroniek, eer en omkering",
+          "kind": "diagram",
+          "source": "Esther 6:1–14"
+        }
+      ]
     }
   ]
 }

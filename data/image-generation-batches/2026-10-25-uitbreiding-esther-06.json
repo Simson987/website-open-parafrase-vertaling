@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-25",
+  "started": "2026-10-25T00:32:44Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "esther",
+      "chapter": 6,
+      "verse": 6,
+      "scene": "Haman adviseert over de koninklijke eer",
+      "alt": "Haman geeft de koning raad over eerbetoon — Esther 6:6–10",
+      "kind": "scene",
+      "file": "6-6-inhoudelijk.webp",
+      "prompt": "Photorealistic educational historical scene of Esther 6:6–10, Achaemenid Persian palace at Susa, landscape 3:2. Adult Persian official Haman in richly patterned purple robes stands respectfully and confidently before the adult Persian king on his throne, proposing how to honor a favored man. The king gestures firmly toward the outer court, revealing the honor must go to Mordecai. Just these two prominent men with a distant adult court attendant; no literal thought bubbles or readable text, no horse inside throne room, no Mordecai present, no violence, fully modest robes and exactly two anatomically correct arms per person. Natural daylight, realistic hands, no watermark.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "esther",
+      "chapter": 6,
+      "verse": 1,
+      "file": "6-kroniek-eer-en-omkering.svg",
+      "scene": "Kroniek, eer en omkering",
+      "alt": "De oorzaak-gevolgketen van de kronieknotitie naar de omkering en het volgende maal.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1518,
+      "source": "Esther 6:1–14",
+      "design": {
+        "rows": [
+          [
+            "De nacht",
+            "Slapeloze koning hoort de kronieken; Mordechai’s redding staat beschreven."
+          ],
+          [
+            "Geen eer ontvangen",
+            "De koning vraagt naar eerdere beloning; er is niets gegeven."
+          ],
+          [
+            "Hamans bedoeling",
+            "Komt om Mordechai’s ophanging te vragen."
+          ],
+          [
+            "Zijn vergissing",
+            "Denkt dat de koning hém wil eren; stelt koningskleed, paard en uitroep voor."
+          ],
+          [
+            "Het bevel",
+            "Haman moet het zelf voor Mordechai uitvoeren en niets weglaten."
+          ],
+          [
+            "Het vervolg",
+            "Mordechai terug bij de poort; Haman treurig naar huis en daarna haastig naar Esthers maaltijd."
+          ]
+        ],
+        "note": "Hamans verwachting en de feitelijke ontvanger van de eer worden onderscheiden. Het ereteken is geen kroning tot koning."
+      }
+    }
+  ]
+}
