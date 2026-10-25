@@ -1,0 +1,259 @@
+{
+  "date": "2026-10-25",
+  "started": "2026-10-25T02:38:01Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "psalmen",
+      "chapter": 128,
+      "verse": 3,
+      "scene": "Vergelijkingen: wijnstok en jonge olijfbomen",
+      "alt": "Vergelijkingen: wijnstok en jonge olijfbomen — Psalm 128:3; poëtische illustratie.",
+      "kind": "poetic",
+      "file": "128-3-wijnstok-olijfbomen-verdieping.webp",
+      "prompt": "Photorealistic Bible poetic illustration, landscape 3:2, ancient Near Eastern natural materials. No visible deity, modern objects, readable text, gore or injury. Humans in modest opaque robes, coherent anatomy, exactly two arms. A fruitful grapevine along the inside edge of an open ancient house courtyard and several small young olive saplings near a plain unoccupied family table. Natural plants and pots, no humans transformed into plants, faces on trees or lettering. A still life of the two explicit family comparisons.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "psalmen",
+      "chapter": 132,
+      "verse": 4,
+      "scene": "Herinnerde gelofte: geen slaap gunnen",
+      "alt": "Herinnerde gelofte: geen slaap gunnen — Psalm 132:4; poëtische illustratie.",
+      "kind": "poetic",
+      "file": "132-4-geen-slaap-verdieping.webp",
+      "prompt": "Photorealistic Bible poetic illustration, landscape 3:2, ancient Near Eastern natural materials. No visible deity, modern objects, readable text, gore or injury. Humans in modest opaque robes, coherent anatomy, exactly two arms. An empty simple ancient wooden bed with folded linen and a clay oil lamp still burning nearby at night. No person, readable oath, deity or elaborate palace. A quiet material illustration of David’s remembered resolve not to lie down until a dwelling place is found.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "psalmen",
+      "chapter": 136,
+      "verse": 14,
+      "scene": "Herinnerde trouw: door de zee",
+      "alt": "Herinnerde trouw: door de zee — Psalm 136:14; poëtische illustratie.",
+      "kind": "poetic",
+      "file": "136-14-zee-doortocht-verdieping.webp",
+      "prompt": "Photorealistic Bible poetic illustration, landscape 3:2, ancient Near Eastern natural materials. No visible deity, modern objects, readable text, gore or injury. Humans in modest opaque robes, coherent anatomy, exactly two arms. A distant group of modestly clothed ancient Israelite travelers walks a broad dry path between two standing walls of blue sea water. Clear safe passage, no drowning people, enemy army or visible deity. Wide view, coherent small silhouettes.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "psalmen",
+      "chapter": 136,
+      "verse": 16,
+      "scene": "Herinnerde trouw: geleid door de woestijn",
+      "alt": "Herinnerde trouw: geleid door de woestijn — Psalm 136:16; poëtische illustratie.",
+      "kind": "poetic",
+      "file": "136-16-woestijn-leiding-verdieping.webp",
+      "prompt": "Photorealistic Bible poetic illustration, landscape 3:2, ancient Near Eastern natural materials. No visible deity, modern objects, readable text, gore or injury. Humans in modest opaque robes, coherent anatomy, exactly two arms. A small ancient Israelite caravan of modestly clothed adults with donkeys carrying woven bundles follows a winding firm desert trail between rocky slopes in daylight. A pale high cloud ahead, no deity face, modern gear, readable signs or injured people. Coherent animal legs, quiet purposeful travel.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "psalmen",
+      "chapter": 129,
+      "verse": 1,
+      "file": "129-verdrukking-en-beelden.svg",
+      "scene": "Verdrukking en beelden",
+      "alt": "Samenhang van verdrukking, bevrijding en het verdorrende dakgras.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 935,
+      "source": "Psalm 129:1–8",
+      "design": {
+        "rows": [
+          [
+            "Herhaald · 1–2",
+            "Vaak benauwd vanaf de jeugd, maar niet overwonnen."
+          ],
+          [
+            "Rug en touwen · 3–4",
+            "Ploegen als beeld van verdrukking; doorgesneden touwen als bevrijding."
+          ],
+          [
+            "Dakgras · 5–8",
+            "Verdorren vóór de oogst; handen blijven leeg en de oogstzegen klinkt niet."
+          ]
+        ],
+        "note": "De ploegvoren over de rug verbeelden verdrukking. De leeswijzer beeldt die vergelijking niet uit als een anatomische verwonding."
+      }
+    },
+    {
+      "book": "psalmen",
+      "chapter": 130,
+      "verse": 1,
+      "file": "130-van-ik-naar-israel.svg",
+      "scene": "Van ik naar Israël",
+      "alt": "De beweging van persoonlijk roepen naar de gezamenlijke oproep.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "Psalm 130:1–8",
+      "design": {
+        "rows": [
+          [
+            "Uit de diepten · 1–2",
+            "De ik roept en vraagt gehoord te worden."
+          ],
+          [
+            "Vergeving · 3–4",
+            "Wie kan standhouden? Bij U is vergeving."
+          ],
+          [
+            "Wachten · 5–6",
+            "Hoop op het woord, meer dan wachters op de morgen."
+          ],
+          [
+            "Israël · 7–8",
+            "De oproep wordt gezamenlijk: hoop, trouw en veel verlossing."
+          ]
+        ],
+        "note": "De herhaling van wachten verdiept het verlangen. Het slot richt de persoonlijke hoop tot Israël."
+      }
+    },
+    {
+      "book": "psalmen",
+      "chapter": 132,
+      "verse": 2,
+      "file": "132-twee-eden-en-sion.svg",
+      "scene": "Twee eden en Sion",
+      "alt": "De twee gezworen uitspraken en de samenhang met Sion.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1091,
+      "source": "Psalm 132:2–18",
+      "design": {
+        "rows": [
+          [
+            "David zweert · 2–5",
+            "Geen huis of slaap vóór er een woning gevonden is."
+          ],
+          [
+            "Wij gaan · 6–10",
+            "Efratha, velden van Jaär, woning, ark en de bede voor de gezalfde."
+          ],
+          [
+            "De HEERE zweert · 11–12",
+            "Een zoon op de troon; verbond en getuigenissen voor de zonen."
+          ],
+          [
+            "Sion · 13–18",
+            "Rustplaats, brood, redding, vreugde, hoorn, lamp en bloeiende kroon."
+          ]
+        ],
+        "note": "De twee eden hebben verschillende sprekers. De namen volgen de tekst; dit overzicht maakt geen niet beschreven route van de ark."
+      }
+    },
+    {
+      "book": "psalmen",
+      "chapter": 135,
+      "verse": 4,
+      "file": "135-keuze-daden-en-lof.svg",
+      "scene": "Keuze, daden en lof",
+      "alt": "Exacte namen, herinnerde daden en de groepen in de slotoproep.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1283,
+      "source": "Psalm 135:4–21",
+      "design": {
+        "rows": [
+          [
+            "Keuze en macht · 4–7",
+            "Jakob en Israël; hemel, aarde, zee en weer."
+          ],
+          [
+            "Herinnering · 8–12",
+            "Egypte en Farao; Sihon, koning van de Amorieten, en Og, koning van Basan; Kanaän als erfdeel."
+          ],
+          [
+            "Naam en medelijden · 13–14",
+            "Blijvende naam, recht en ontferming."
+          ],
+          [
+            "Mensenwerk · 15–18",
+            "Stomme afgoden zonder adem tegenover de levende macht."
+          ],
+          [
+            "Oproep · 19–21",
+            "Israël, Aäron, Levi en wie ontzag hebben: prijs uit Sion."
+          ]
+        ],
+        "note": "De persoons- en groepsnamen zijn die van de psalm. Hun plaats in het lied verbindt ontvangen erfdeel en hulp met de oproep tot lof."
+      }
+    },
+    {
+      "book": "psalmen",
+      "chapter": 136,
+      "verse": 1,
+      "file": "136-het-terugkerende-refrein.svg",
+      "scene": "Het terugkerende refrein",
+      "alt": "Vijf gedeelten met het door alle verzen herhaalde antwoord.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1233,
+      "source": "Psalm 136:1–26",
+      "design": {
+        "rows": [
+          [
+            "Lof · 1–4",
+            "Goedheid, God boven goden en grote wonderen."
+          ],
+          [
+            "Schepping · 5–9",
+            "Hemel, aarde, zon, maan en sterren."
+          ],
+          [
+            "Bevrijding · 10–16",
+            "Egypte, uittocht, Schelfzee en woestijn."
+          ],
+          [
+            "Erfdeel · 17–22",
+            "Sihon en Og; land voor Israël."
+          ],
+          [
+            "Dichtbij · 23–26",
+            "Onze vernedering, bevrijding, voedsel voor al het levende en slotlof."
+          ]
+        ],
+        "note": "Alle 26 verzen antwoorden met hetzelfde refrein: Zijn trouw duurt voor altijd. De herinnering beweegt van schepping naar bevrijding en dagelijks voedsel."
+      }
+    },
+    {
+      "book": "psalmen",
+      "chapter": 137,
+      "verse": 1,
+      "file": "137-herinnering-en-bittere-wens.svg",
+      "scene": "Herinnering en bittere wens",
+      "alt": "De ballingschapsklacht en het onderscheid tussen herinnering en uitgesproken wraakwens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1048,
+      "source": "Psalm 137:1–9",
+      "design": {
+        "rows": [
+          [
+            "Daar · 1–3",
+            "Rivieren van Babel, tranen, opgehangen harpen en een gevraagd lied."
+          ],
+          [
+            "Jeruzalem · 4–6",
+            "Vreemd land en de bezwering om Sion niet te vergeten."
+          ],
+          [
+            "Denk aan · 7",
+            "De woorden van Edom bij de verwoesting."
+          ],
+          [
+            "Bittere wens · 8–9",
+            "Vergelding aan Babel, tot in de gewelddadige slotwens tegen kinderen."
+          ]
+        ],
+        "note": "Het slot staat als uitgesproken wraakwens van ballingen in het lied. De tekst vertelt hier niet dat die wens wordt uitgevoerd."
+      }
+    }
+  ]
+}

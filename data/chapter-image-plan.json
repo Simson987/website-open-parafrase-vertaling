@@ -15433,6 +15433,159 @@
       "target_images": 3,
       "reason": "Stroom, ontkomen vogel en Schepperhulp dekken de uitgesproken vergelijkingen; geen verzonnen concrete verdrinking of nieuwe val.",
       "additions": []
+    },
+    {
+      "book": "psalmen",
+      "chapter": 128,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "Arbeid, gezinstafel en kleinkinderen zijn aanwezig. De wijnstok en jonge olijfbomen zijn twee expliciete vergelijkingen die één eigen botanisch beeld krijgen.",
+      "additions": [
+        {
+          "verse": 3,
+          "scene": "Vergelijkingen: wijnstok en jonge olijfbomen",
+          "kind": "poetic",
+          "file": "128-3-wijnstok-olijfbomen-verdieping.webp"
+        }
+      ]
+    },
+    {
+      "book": "psalmen",
+      "chapter": 132,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Ark, brood en lamp zijn aanwezig. Het lege bed geeft de herinnerde gelofte een afzonderlijk motief. Het schema bewaart de twee eden, hun sprekers en de genoemde plaatsen.",
+      "additions": [
+        {
+          "verse": 4,
+          "scene": "Herinnerde gelofte: geen slaap gunnen",
+          "kind": "poetic",
+          "file": "132-4-geen-slaap-verdieping.webp"
+        },
+        {
+          "verse": 2,
+          "file": "132-twee-eden-en-sion.svg",
+          "scene": "Twee eden en Sion",
+          "kind": "diagram",
+          "source": "Psalm 132:2–18"
+        }
+      ]
+    },
+    {
+      "book": "psalmen",
+      "chapter": 136,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Zon, nacht en voedsel zijn aanwezig. Zee en woestijn voegen twee eigen bevrijdingsmotieven toe. Een refreinschema verbindt deze met Egypte, erfdeel en onze vernedering.",
+      "additions": [
+        {
+          "verse": 14,
+          "scene": "Herinnerde trouw: door de zee",
+          "kind": "poetic",
+          "file": "136-14-zee-doortocht-verdieping.webp"
+        },
+        {
+          "verse": 16,
+          "scene": "Herinnerde trouw: geleid door de woestijn",
+          "kind": "poetic",
+          "file": "136-16-woestijn-leiding-verdieping.webp"
+        },
+        {
+          "verse": 1,
+          "file": "136-het-terugkerende-refrein.svg",
+          "scene": "Het terugkerende refrein",
+          "kind": "diagram",
+          "source": "Psalm 136:1–26"
+        }
+      ]
+    },
+    {
+      "book": "psalmen",
+      "chapter": 129,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "Standhouden, doorgesneden touwen en dakgras zijn aanwezig. Een schema verduidelijkt de ploegvergelijking en het uitblijven van oogstzegen zonder lichamelijke verminking te tekenen.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "129-verdrukking-en-beelden.svg",
+          "scene": "Verdrukking en beelden",
+          "kind": "diagram",
+          "source": "Psalm 129:1–8"
+        }
+      ]
+    },
+    {
+      "book": "psalmen",
+      "chapter": 130,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "Diepte, woordhoop en morgenwachters zijn aanwezig. Een schema maakt de overgang van ik naar Israël zichtbaar.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "130-van-ik-naar-israel.svg",
+          "scene": "Van ik naar Israël",
+          "kind": "diagram",
+          "source": "Psalm 130:1–8"
+        }
+      ]
+    },
+    {
+      "book": "psalmen",
+      "chapter": 135,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "Lied, weer en afgoden zijn aanwezig. Een namen- en structuurschema voegt historische herinnering, erfdeel en de vier slotgroepen toe.",
+      "additions": [
+        {
+          "verse": 4,
+          "file": "135-keuze-daden-en-lof.svg",
+          "scene": "Keuze, daden en lof",
+          "kind": "diagram",
+          "source": "Psalm 135:4–21"
+        }
+      ]
+    },
+    {
+      "book": "psalmen",
+      "chapter": 137,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "Rivierverdriet, wilgenharpen en herinnering zijn aanwezig. Het slot vraagt een eerlijke tekstuele leeswijzer die de geweldswens benoemt als wens; geen uitgevoerde aanval op kinderen tekenen.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "137-herinnering-en-bittere-wens.svg",
+          "scene": "Herinnering en bittere wens",
+          "kind": "diagram",
+          "source": "Psalm 137:1–9"
+        }
+      ]
+    },
+    {
+      "book": "psalmen",
+      "chapter": 131,
+      "status": "reviewed",
+      "target_images": 3,
+      "reason": "Nederigheid, het gespeende kind en Israëls hoop dekken de drie verzen. Geen nieuwe scène nodig.",
+      "additions": []
+    },
+    {
+      "book": "psalmen",
+      "chapter": 133,
+      "status": "reviewed",
+      "target_images": 3,
+      "reason": "Samenwonen, zalfolie en dauw dekken de drie verzen en beide vergelijkingen. Geen herhaling nodig.",
+      "additions": []
+    },
+    {
+      "book": "psalmen",
+      "chapter": 134,
+      "status": "reviewed",
+      "target_images": 3,
+      "reason": "Nachtelijke dienaren, opgeheven handen en zegen dekken de drie verzen. Drie bestaande beelden volstaan.",
+      "additions": []
     }
   ]
 }
