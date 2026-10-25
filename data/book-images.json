@@ -58108,84 +58108,110 @@
         "verse": 2,
         "file": "21-2.webp",
         "alt": "Beeld bij Lukas 21: De twee penningen",
-        "scene": "De twee penningen"
+        "scene": "De twee penningen",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 21,
         "verse": 5,
         "file": "21-5.webp",
         "alt": "Beeld bij Lukas 21: De prachtige tempel",
-        "scene": "De prachtige tempel"
+        "scene": "De prachtige tempel",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 21,
         "verse": 29,
         "file": "21-29.webp",
         "alt": "Beeld bij Lukas 21: De bomen lopen uit",
-        "scene": "De bomen lopen uit"
+        "scene": "De bomen lopen uit",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 22,
         "verse": 19,
         "file": "22-19.webp",
         "alt": "Beeld bij Lukas 22: Brood om te gedenken",
-        "scene": "Brood om te gedenken"
+        "scene": "Brood om te gedenken",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 22,
         "verse": 43,
         "file": "22-43.webp",
         "alt": "Beeld bij Lukas 22: Een engel geeft kracht",
-        "scene": "Een engel geeft kracht"
+        "scene": "Een engel geeft kracht",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 22,
         "verse": 61,
         "file": "22-61.webp",
         "alt": "Beeld bij Lukas 22: Jezus kijkt Petrus aan",
-        "scene": "Jezus kijkt Petrus aan"
+        "scene": "Jezus kijkt Petrus aan",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 23,
         "verse": 26,
         "file": "23-26.webp",
         "alt": "Beeld bij Lukas 23: Simon draagt achter Jezus het kruis",
-        "scene": "Simon draagt achter Jezus het kruis"
+        "scene": "Simon draagt achter Jezus het kruis",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 23,
         "verse": 45,
         "file": "23-45.webp",
         "alt": "Beeld bij Lukas 23: Het gordijn scheurt",
-        "scene": "Het gordijn scheurt"
-      },
-      {
-        "chapter": 23,
-        "verse": 53,
-        "file": "23-53.webp",
-        "alt": "Beeld bij Lukas 23: In een nieuw graf gelegd",
-        "scene": "In een nieuw graf gelegd"
+        "scene": "Het gordijn scheurt",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 24,
         "verse": 4,
         "file": "24-4.webp",
         "alt": "Beeld bij Lukas 24: Twee mannen in stralende kleren",
-        "scene": "Twee mannen in stralende kleren"
+        "scene": "Twee mannen in stralende kleren",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 24,
         "verse": 30,
         "file": "24-30.webp",
         "alt": "Beeld bij Lukas 24: Brood breken in Emmaüs",
-        "scene": "Brood breken in Emmaüs"
+        "scene": "Brood breken in Emmaüs",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 24,
         "verse": 50,
         "file": "24-50.webp",
         "alt": "Beeld bij Lukas 24: De zegen bij Bethanië",
-        "scene": "De zegen bij Bethanië"
+        "scene": "De zegen bij Bethanië",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 1,
@@ -59336,6 +59362,296 @@
         "kind": "diagram",
         "width": 840,
         "height": 906
+      },
+      {
+        "chapter": 21,
+        "verse": 21,
+        "file": "21-21-bergen-vluchten-verdieping.webp",
+        "scene": "Lesbeeld: vluchten naar de bergen",
+        "alt": "Lesbeeld: vluchten naar de bergen — Lukas 21:21; tekstillustratie.",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 21,
+        "verse": 37,
+        "file": "21-37-olijfberg-nacht-verdieping.webp",
+        "scene": "Jezus brengt de nacht op de Olijfberg door",
+        "alt": "Jezus brengt de nacht op de Olijfberg door — Lukas 21:37; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 22,
+        "verse": 10,
+        "file": "22-10-waterkruik-man-verdieping.webp",
+        "scene": "Petrus en Johannes volgen de man met de kruik",
+        "alt": "Petrus en Johannes volgen de man met de kruik — Lukas 22:10; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 22,
+        "verse": 13,
+        "file": "22-13-pascha-klaarmaken-verdieping.webp",
+        "scene": "Petrus en Johannes maken het pascha klaar",
+        "alt": "Petrus en Johannes maken het pascha klaar — Lukas 22:13; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 22,
+        "verse": 20,
+        "file": "22-20-beker-verbond-verdieping.webp",
+        "scene": "Jezus deelt de beker na de maaltijd",
+        "alt": "Jezus deelt de beker na de maaltijd — Lukas 22:20; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 22,
+        "verse": 45,
+        "file": "22-45-slapen-verdriet-verdieping.webp",
+        "scene": "De leerlingen slapen van verdriet",
+        "alt": "De leerlingen slapen van verdriet — Lukas 22:45; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 22,
+        "verse": 48,
+        "file": "22-48-judas-kus-verdieping.webp",
+        "scene": "Judas nadert Jezus met een kus",
+        "alt": "Judas nadert Jezus met een kus — Lukas 22:48; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 22,
+        "verse": 51,
+        "file": "22-51-oor-genezen-verdieping.webp",
+        "scene": "Jezus geneest het oor van de knecht",
+        "alt": "Jezus geneest het oor van de knecht — Lukas 22:51; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 22,
+        "verse": 62,
+        "file": "22-62-petrus-huilt-verdieping.webp",
+        "scene": "Petrus gaat naar buiten en huilt",
+        "alt": "Petrus gaat naar buiten en huilt — Lukas 22:62; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 23,
+        "verse": 9,
+        "file": "23-9-herodes-vragen-verdieping.webp",
+        "scene": "Jezus zwijgt voor Herodes",
+        "alt": "Jezus zwijgt voor Herodes — Lukas 23:9; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 23,
+        "verse": 28,
+        "file": "23-28-dochters-jeruzalem-verdieping.webp",
+        "scene": "Jezus spreekt de dochters van Jeruzalem aan",
+        "alt": "Jezus spreekt de dochters van Jeruzalem aan — Lukas 23:28; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 23,
+        "verse": 33,
+        "file": "23-33-drie-kruisen-verdieping.webp",
+        "scene": "Jezus tussen twee misdadigers",
+        "alt": "Jezus tussen twee misdadigers — Lukas 23:33; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 23,
+        "verse": 47,
+        "file": "23-47-hoofdman-verdieping.webp",
+        "scene": "De hoofdman noemt Jezus rechtvaardig",
+        "alt": "De hoofdman noemt Jezus rechtvaardig — Lukas 23:47; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 23,
+        "verse": 56,
+        "file": "23-56-kruiden-zalf-verdieping.webp",
+        "scene": "De vrouwen bereiden kruiden en zalf",
+        "alt": "De vrouwen bereiden kruiden en zalf — Lukas 23:56; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 24,
+        "verse": 9,
+        "file": "24-9-vrouwen-vertellen-verdieping.webp",
+        "scene": "De vrouwen vertellen het aan de apostelen",
+        "alt": "De vrouwen vertellen het aan de apostelen — Lukas 24:9; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 24,
+        "verse": 12,
+        "file": "24-12-petrus-graf-verdieping.webp",
+        "scene": "Petrus ziet de linnen doeken",
+        "alt": "Petrus ziet de linnen doeken — Lukas 24:12; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 24,
+        "verse": 15,
+        "file": "24-15-emmaus-weg-verdieping.webp",
+        "scene": "Jezus loopt met de twee mee",
+        "alt": "Jezus loopt met de twee mee — Lukas 24:15; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 24,
+        "verse": 43,
+        "file": "24-43-vis-honingraat-verdieping.webp",
+        "scene": "Jezus eet voor hun ogen",
+        "alt": "Jezus eet voor hun ogen — Lukas 24:43; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 24,
+        "verse": 53,
+        "file": "24-53-tempel-lof-verdieping.webp",
+        "scene": "De leerlingen danken God in de tempel",
+        "alt": "De leerlingen danken God in de tempel — Lukas 24:53; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 23,
+        "verse": 53,
+        "file": "23-53-jozef-begrafenis-gecorrigeerd.webp",
+        "scene": "Jozef legt het lichaam in het graf",
+        "alt": "Jozef en helpers leggen Jezus’ in linnen gewikkelde lichaam in het graf — Lukas 23:53.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 21,
+        "verse": 1,
+        "file": "21-leeswijzer.svg",
+        "scene": "Gave en waakzaamheid",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 949
+      },
+      {
+        "chapter": 22,
+        "verse": 1,
+        "file": "22-leeswijzer.svg",
+        "scene": "Pascha, gebed en gevangenneming",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1141
+      },
+      {
+        "chapter": 23,
+        "verse": 1,
+        "file": "23-leeswijzer.svg",
+        "scene": "Vonnis, kruis en voorbereiding",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 992
+      },
+      {
+        "chapter": 24,
+        "verse": 1,
+        "file": "24-leeswijzer.svg",
+        "scene": "Opstanding, herkennen en getuigen",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 992
+      },
+      {
+        "chapter": 21,
+        "verse": 8,
+        "file": "21-onderscheiden-en-waken.svg",
+        "scene": "Opletten en volhouden",
+        "alt": "Opletten en volhouden met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 906
+      },
+      {
+        "chapter": 22,
+        "verse": 14,
+        "file": "22-tafel-en-dienen.svg",
+        "scene": "Aan tafel: verbond en dienen",
+        "alt": "Aan tafel: verbond en dienen met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 913
+      },
+      {
+        "chapter": 22,
+        "verse": 54,
+        "file": "22-petrus-drie-ontkenningen.svg",
+        "scene": "Petrus’ drie ontkenningen",
+        "alt": "Petrus’ drie ontkenningen met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1055
+      },
+      {
+        "chapter": 23,
+        "verse": 1,
+        "file": "23-pilatus-herodes.svg",
+        "scene": "Pilatus, Herodes en het vonnis",
+        "alt": "Pilatus, Herodes en het vonnis met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 906
+      },
+      {
+        "chapter": 24,
+        "verse": 1,
+        "file": "24-berichten-en-herkennen.svg",
+        "scene": "Berichten en herkenning",
+        "alt": "Berichten en herkenning met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1098
       }
     ],
     "2korinthiers": [
