@@ -22313,6 +22313,117 @@
           "source": "Hosea 14:5–10"
         }
       ]
+    },
+    {
+      "book": "joel",
+      "chapter": 1,
+      "status": "reviewed",
+      "target_images": 8,
+      "reason": "Sprinkhanen, verwoest veld en vasten zijn aanwezig. De kale vijg, lege schuur en het vee zonder weide voegen drie andere concrete gevolgen toe. Leeswijzer en volgordeschema bewaren alle vier namen en alle groepen zonder onbewezen insectentaxonomie.",
+      "additions": [
+        {
+          "verse": 7,
+          "file": "1-7-kale-vijgentakken-verdieping.webp",
+          "scene": "Aanklacht: de kaalgevreten vijg",
+          "kind": "poetic"
+        },
+        {
+          "verse": 17,
+          "file": "1-17-lege-graanschuur-verdieping.webp",
+          "scene": "Aanklacht: de lege graanschuur",
+          "kind": "poetic"
+        },
+        {
+          "verse": 18,
+          "file": "1-18-vee-zonder-weide-verdieping.webp",
+          "scene": "Aanklacht: vee zonder weide",
+          "kind": "poetic"
+        },
+        {
+          "verse": 1,
+          "file": "1-leeswijzer.svg",
+          "scene": "Verwoesting en vasten",
+          "kind": "diagram",
+          "source": "Joël 1:1–20"
+        },
+        {
+          "verse": 4,
+          "file": "1-vier-vreters.svg",
+          "scene": "Vier namen, telkens het restant",
+          "kind": "diagram",
+          "source": "Joël 1:4"
+        }
+      ]
+    },
+    {
+      "book": "joel",
+      "chapter": 2,
+      "status": "reviewed",
+      "target_images": 7,
+      "reason": "Terugkeer, ramshoorn en regen zijn aanwezig. Volle dorsvloer/kuipen en een diverse menselijke luistergroep voegen het materiële herstel en de breedte van de Geestbelofte toe. Twee schema’s onderscheiden alarm, gebed, antwoord en latere belofte zonder Pinksteren als hier vertelde geschiedenis in te voegen.",
+      "additions": [
+        {
+          "verse": 24,
+          "file": "2-24-volle-perskuipen-verdieping.webp",
+          "scene": "Belofte: volle dorsvloer en kuipen",
+          "kind": "poetic"
+        },
+        {
+          "verse": 28,
+          "file": "2-28-alle-generaties-verdieping.webp",
+          "scene": "Belofte: zonen, dochters en ouderen",
+          "kind": "poetic"
+        },
+        {
+          "verse": 1,
+          "file": "2-leeswijzer.svg",
+          "scene": "Alarm, terugkeer en herstel",
+          "kind": "diagram",
+          "source": "Joël 2:1–32"
+        },
+        {
+          "verse": 28,
+          "file": "2-geest-en-aanroepen.svg",
+          "scene": "De belofte aan alle mensen",
+          "kind": "diagram",
+          "source": "Joël 2:28–32"
+        }
+      ]
+    },
+    {
+      "book": "joel",
+      "chapter": 3,
+      "status": "reviewed",
+      "target_images": 7,
+      "reason": "Herstel van land, omgesmede werktuigen en stromend water zijn aanwezig. De geroofde schatten en menigten in het dal voegen twee aparte tekstonderdelen toe. Twee schema’s onderscheiden mensenhandel als aanklacht, de oogst als oordeel en de overvloed als belofte.",
+      "additions": [
+        {
+          "verse": 5,
+          "file": "3-5-weggevoerde-schatten-verdieping.webp",
+          "scene": "Aanklacht: weggenomen zilver en goud",
+          "kind": "poetic"
+        },
+        {
+          "verse": 14,
+          "file": "3-14-menigten-in-dal-verdieping.webp",
+          "scene": "Aankondiging: menigten in het dal",
+          "kind": "poetic"
+        },
+        {
+          "verse": 1,
+          "file": "3-leeswijzer.svg",
+          "scene": "Rechtszaak en blijvende woning",
+          "kind": "diagram",
+          "source": "Joël 3:1–21"
+        },
+        {
+          "verse": 2,
+          "file": "3-aanklacht-en-gevolg.svg",
+          "scene": "De genoemde aanklachten",
+          "kind": "diagram",
+          "source": "Joël 3:2–8,19–21"
+        }
+      ]
     }
   ]
 }
