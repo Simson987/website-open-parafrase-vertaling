@@ -1,0 +1,191 @@
+{
+  "date": "2026-10-25",
+  "started": "2026-10-25T08:53:43Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "haggai",
+      "chapter": 1,
+      "verse": 6,
+      "file": "1-6-buidel-gaten-verdieping.webp",
+      "scene": "Vergelijking: loon in een lekke buidel",
+      "alt": "Vergelijking: loon in een lekke buidel — Haggai 1:6; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, ancient Levant, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, divine portrait, blood, injury or watermark. An ancient worn leather wage pouch with visible holes and a few unmarked dull silver pieces falling onto a plain stone floor, no people, modern coins or readable text.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "haggai",
+      "chapter": 2,
+      "verse": 24,
+      "file": "2-24-zegelring-verdieping.webp",
+      "scene": "Belofte: als een zegelring",
+      "alt": "Belofte: als een zegelring — Haggai 2:24; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, ancient Levant, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, divine portrait, blood, injury or watermark. A plain ancient signet ring with a simple nonreadable geometric seal on a small stone surface beside natural clay, no modern gemstone branding, readable royal name, giant hand or deity. Illustration of the comparison about Zerubbabel.",
+      "edit_prompt": "Make the signet ring the only subject: a normal small finger-sized ancient plain gold signet ring resting on a plain stone surface beside a small dab of clay. Remove all people, temple architecture and background objects. The ring must have a clearly visible circular band with a hole for a normal finger and a small geometric seal face. Macro still-life photo, no readable letters, no giant stamp or royal sceptre.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "haggai",
+      "chapter": 1,
+      "verse": 1,
+      "file": "1-leeswijzer.svg",
+      "scene": "Let op je wegen en bouw",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 992,
+      "source": "Haggai 1:1–14",
+      "design": {
+        "rows": [
+          [
+            "De aangesprokenen · 1–4",
+            "Tweede jaar Darius, maand zes dag één; Haggai tot Zerubbabel en Josua; eigen betimmerd huis tegenover puin."
+          ],
+          [
+            "Het tekort en de oproep · 5–11",
+            "Weinig opbrengst, honger/dorst/kou en lekke buidel; hout halen en bouwen, droogte wegens eigen huis voorop."
+          ],
+          [
+            "Het antwoord · 12–14",
+            "Leiders en rest luisteren, ontzag, Ik ben met jullie; geest gewekt en samen aan werk."
+          ]
+        ],
+        "note": "Beeldspraak, klacht, herinnering en belofte volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "haggai",
+      "chapter": 2,
+      "verse": 1,
+      "file": "2-leeswijzer.svg",
+      "scene": "Werk, onderwijs en belofte",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1035,
+      "source": "Haggai 2:1–24",
+      "design": {
+        "rows": [
+          [
+            "Sterk en aan werk · 1–10",
+            "Nieuwe datum, oude pracht en huidig huis, sterke leiders/volk; Geest en geen angst, beven en grotere heerlijkheid/vrede."
+          ],
+          [
+            "Priestervragen · 11–20",
+            "Heiligheid niet via kleedpunt, onreinheid wel; volk/werk, tekort, fundamentdatum en vanaf nu zegen."
+          ],
+          [
+            "Zerubbabel · 21–24",
+            "Tweede woord die dag, koninkrijken en wagens omgekeerd; uitgekozen knecht als zegelring."
+          ]
+        ],
+        "note": "Beeldspraak, klacht, herinnering en belofte volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "haggai",
+      "chapter": 2,
+      "verse": 1,
+      "file": "2-data-in-volgorde.svg",
+      "scene": "De data in de tekst",
+      "alt": "De data in de tekst met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "Haggai 1:1; 2:1–2,11,19,21",
+      "design": {
+        "rows": [
+          [
+            "Tweede jaar, maand 6 dag 1",
+            "Haggai 1:1 — woord tot leiders."
+          ],
+          [
+            "Maand 6 dag 24",
+            "Haggai 2:1 — voorafgaande bouwreactie gedateerd."
+          ],
+          [
+            "Maand 7 dag 21",
+            "Haggai 2:2 — woord over heerlijkheid en werk."
+          ],
+          [
+            "Maand 9 dag 24",
+            "Haggai 2:11,19,21 — onderwijs, fundament en tweede woord tot Zerubbabel."
+          ]
+        ],
+        "note": "Plaatselijke hoofdstukindeling. Er zijn geen moderne kalenderdata toegevoegd."
+      }
+    },
+    {
+      "book": "haggai",
+      "chapter": 2,
+      "verse": 13,
+      "file": "2-twee-priestervragen.svg",
+      "scene": "Twee vragen, twee antwoorden",
+      "alt": "Twee vragen, twee antwoorden met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1012,
+      "source": "Haggai 2:12–15",
+      "design": {
+        "rows": [
+          [
+            "Vraag 1 · 13",
+            "Heilig vlees in kleedpunt; raakt de punt ander voedsel: wordt dat heilig?"
+          ],
+          [
+            "Antwoord 1",
+            "Nee."
+          ],
+          [
+            "Vraag 2 · 14",
+            "Iemand onrein door dood lichaam raakt dat voedsel: onrein?"
+          ],
+          [
+            "Antwoord 2 en toepassing · 14–15",
+            "Het wordt onrein; zo het volk, natie, handwerk en hun offers."
+          ]
+        ],
+        "note": "Heiligheid en onreinheid worden niet als gelijk overdraagbaar voorgesteld."
+      }
+    },
+    {
+      "book": "haggai",
+      "chapter": 2,
+      "verse": 17,
+      "file": "2-verwacht-en-gevonden.svg",
+      "scene": "Verwacht en werkelijk gevonden",
+      "alt": "Verwacht en werkelijk gevonden met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1012,
+      "source": "Haggai 2:16–20",
+      "design": {
+        "rows": [
+          [
+            "Korenhoop · 17",
+            "Twintig maten verwacht → tien gevonden."
+          ],
+          [
+            "Wijnbak · 17",
+            "Vijftig maten verwacht → twintig gevonden."
+          ],
+          [
+            "Herinnering · 18–19",
+            "Graanbrand, meeldauw, hagel; niet teruggekeerd, let op fundamentdag."
+          ],
+          [
+            "Het woord · 20",
+            "Zaad en bomen nog zonder vrucht; vanaf deze dag zegen."
+          ]
+        ],
+        "note": "De hoeveelheden staan in hun eigen maateenheid en worden niet tot liters omgerekend."
+      }
+    }
+  ]
+}
