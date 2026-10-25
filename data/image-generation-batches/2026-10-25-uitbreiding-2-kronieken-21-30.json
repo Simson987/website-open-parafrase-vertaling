@@ -1,0 +1,846 @@
+{
+  "date": "2026-10-25",
+  "started": "2026-10-25T00:32:44Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "2kronieken",
+      "chapter": 23,
+      "verse": 20,
+      "scene": "Joas wordt op de troon gezet",
+      "alt": "Joas wordt op de troon gezet — 2 Kronieken 23:20",
+      "kind": "scene",
+      "file": "23-20-inhoudelijk.webp",
+      "prompt": "Use case: historical-scene. Photorealistic educational Bible illustration, landscape 3:2, ancient Judah. Fully modest woven robes, natural hands, exactly two arms per person, correct anatomy. No modern objects, Roman armor, readable text, watermark, visible deity, blood, injuries or nudity. Seven-year-old boy King Joash in a fully modest long royal robe and a simple crown is escorted by adult priest Jehoiada and officials into the ancient palace and gently seated on the royal throne. Joyful peaceful crowd, natural age-seven child proportions, no weapons pointed at anyone or oil anointing in this separate moment.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2kronieken",
+      "chapter": 24,
+      "verse": 11,
+      "scene": "De ingezamelde bijdrage wordt geteld",
+      "alt": "De ingezamelde bijdrage wordt geteld — 2 Kronieken 24:11",
+      "kind": "scene",
+      "file": "24-11-inhoudelijk.webp",
+      "prompt": "Use case: historical-scene. Photorealistic educational Bible illustration, landscape 3:2, ancient Judah. Fully modest woven robes, natural hands, exactly two arms per person, correct anatomy. No modern objects, Roman armor, readable text, watermark, visible deity, blood, injuries or nudity. Two adult ancient officials, the royal scribe and representative of the high priest, empty collected silver pieces from a wooden contribution chest onto a low worktable for careful counting, adult Levites nearby ready to put the chest back. No King Joash as a child, no modern coins, printed accounts or readable writing.",
+      "edit_prompt": "Photorealistic ancient Judah scene of 2 Chronicles 24:11: two administrators at a courtyard table, a royal scribe in plain robes and the high priest in linen. They weigh the collected temple repair silver using a simple balance. On the table ONLY five large rough silver bars, visibly long irregular rectangular hammered ingots, and a few long cut strips of rough silver. One open empty plain wooden collection chest stands BEHIND the table. No pouring, no piles, no disks, absolutely no coins, no round pieces, no currency stamps. Both administrators have exactly two anatomically correct arms and hands, one adjusts the balance and the other records a mark on a clay tablet. Period appropriate temple courtyard stone architecture. Natural daylight, 1536x1024 landscape photo realism, no text.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2kronieken",
+      "chapter": 24,
+      "verse": 15,
+      "scene": "Jojada wordt met eer begraven",
+      "alt": "Jojada wordt met eer begraven — 2 Kronieken 24:15",
+      "kind": "scene",
+      "file": "24-15-inhoudelijk.webp",
+      "prompt": "Use case: historical-scene. Photorealistic educational Bible illustration, landscape 3:2, ancient Judah. Fully modest woven robes, natural hands, exactly two arms per person, correct anatomy. No modern objects, Roman armor, readable text, watermark, visible deity, blood, injuries or nudity. Respectful ancient Jerusalem funeral: fully covered bier of the very elderly priest Jehoiada is carried by modestly robed adult men toward a rock-cut burial site among royal tombs. Quiet mourners, no exposed corpse or visible wounds.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2kronieken",
+      "chapter": 25,
+      "verse": 18,
+      "scene": "De distel en de ceder",
+      "alt": "De distel en de ceder — 2 Kronieken 25:18",
+      "kind": "parable",
+      "file": "25-18-inhoudelijk.webp",
+      "prompt": "Use case: historical-scene. Photorealistic educational Bible illustration, landscape 3:2, ancient Judah. Fully modest woven robes, natural hands, exactly two arms per person, correct anatomy. No modern objects, Roman armor, readable text, watermark, visible deity, blood, injuries or nudity. Illustration of a parable quoted by King Joash, not a historical event: a small thorny thistle beside a majestic cedar tree in a natural Lebanon mountain landscape, with one wild deer stepping past and trampling the thistle. Photorealistic plants and anatomically correct deer with four legs, no faces or human speech bubbles in plants, no human wedding or readable writing.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2kronieken",
+      "chapter": 25,
+      "verse": 23,
+      "scene": "De doorbroken muur van Jeruzalem",
+      "alt": "De doorbroken muur van Jeruzalem — 2 Kronieken 25:23",
+      "kind": "scene",
+      "file": "25-23-inhoudelijk.webp",
+      "prompt": "Use case: historical-scene. Photorealistic educational Bible illustration, landscape 3:2, ancient Judah. Fully modest woven robes, natural hands, exactly two arms per person, correct anatomy. No modern objects, Roman armor, readable text, watermark, visible deity, blood, injuries or nudity. A breached section of ancient Jerusalem’s stone defensive wall after defeat, with a long stretch of rubble and damaged gate area. Adult Israelite soldiers and modestly clothed residents stand at a distance, no battle, wounds or corpses. No modern siege engine; do not show temple on fire.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2kronieken",
+      "chapter": 26,
+      "verse": 21,
+      "scene": "Uzzia in een apart huis",
+      "alt": "Uzzia in een apart huis — 2 Kronieken 26:21",
+      "kind": "scene",
+      "file": "26-21-inhoudelijk.webp",
+      "prompt": "Use case: historical-scene. Photorealistic educational Bible illustration, landscape 3:2, ancient Judah. Fully modest woven robes, natural hands, exactly two arms per person, correct anatomy. No modern objects, Roman armor, readable text, watermark, visible deity, blood, injuries or nudity. An elderly King Uzziah, fully modestly robed, sits alone in a separate simple royal residence courtyard looking toward distant Jerusalem. A subtle pale patch on his forehead suggests his chronic skin condition, no sores or gore. He is apart from temple service; no priest performing incense in the house, natural hands.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2kronieken",
+      "chapter": 28,
+      "verse": 21,
+      "scene": "Achaz geeft schatten aan Assyrië",
+      "alt": "Achaz geeft schatten aan Assyrië — 2 Kronieken 28:21",
+      "kind": "scene",
+      "file": "28-21-inhoudelijk.webp",
+      "prompt": "Use case: historical-scene. Photorealistic educational Bible illustration, landscape 3:2, ancient Judah. Fully modest woven robes, natural hands, exactly two arms per person, correct anatomy. No modern objects, Roman armor, readable text, watermark, visible deity, blood, injuries or nudity. Adult King Ahaz in modest royal robes sends silver and gold vessels from temple and palace stores with adult messengers to the Assyrian king. Ancient Jerusalem treasury courtyard, Assyrian envoy in historically plausible long robe accepts the covered trays, no modern coins, no violence.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2kronieken",
+      "chapter": 30,
+      "verse": 18,
+      "scene": "Jehizkia bidt voor het volk",
+      "alt": "Jehizkia bidt voor het volk — 2 Kronieken 30:18",
+      "kind": "scene",
+      "file": "30-18-inhoudelijk.webp",
+      "prompt": "Use case: historical-scene. Photorealistic educational Bible illustration, landscape 3:2, ancient Judah. Fully modest woven robes, natural hands, exactly two arms per person, correct anatomy. No modern objects, Roman armor, readable text, watermark, visible deity, blood, injuries or nudity. Young adult King Hezekiah around twenty-five, in modest royal robes, prays earnestly with natural open hands for the assembled Passover pilgrims in the Jerusalem temple courtyard. Fully clothed adult pilgrims listen nearby. Focus on intercession for those not ritually purified, no visible disease, deity, blood or slaughter.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2kronieken",
+      "chapter": 30,
+      "verse": 23,
+      "scene": "Nog zeven dagen feest",
+      "alt": "Nog zeven dagen feest — 2 Kronieken 30:23",
+      "kind": "scene",
+      "file": "30-23-inhoudelijk.webp",
+      "prompt": "Use case: historical-scene. Photorealistic educational Bible illustration, landscape 3:2, ancient Judah. Fully modest woven robes, natural hands, exactly two arms per person, correct anatomy. No modern objects, Roman armor, readable text, watermark, visible deity, blood, injuries or nudity. Ancient Jerusalem pilgrims, fully modestly clothed adults from different Israelite regions, joyfully share unleavened flatbread and simple pottery cups at low tables during an additional seven days of festival. Natural hands and relaxed fellowship, no anointing, no modern dishes, no readable text or animal slaughter.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2kronieken",
+      "chapter": 21,
+      "verse": 1,
+      "file": "21-joram-familie-en-regering.svg",
+      "scene": "Joram en zijn broers",
+      "alt": "Alle broers, erfenis, geweld en verbondsbelofte.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1290,
+      "source": "2 Kronieken 21:1–7",
+      "design": {
+        "rows": [
+          [
+            "Josafats zonen",
+            "Joram; Azarja, Jehiël, Zecharja, Azarjahu, Michaël en Sefatja."
+          ],
+          [
+            "De erfenis",
+            "De broers krijgen rijkdom en vestingen; oudste zoon Joram het koningschap."
+          ],
+          [
+            "Het geweld",
+            "Joram doodt zijn broers en ook leiders om zijn positie te versterken."
+          ],
+          [
+            "Regering",
+            "Begint op 32 jaar; acht jaar in Jeruzalem; getrouwd met een dochter van Achab."
+          ],
+          [
+            "Het verbond",
+            "God wil Davids huis niet vernietigen vanwege Zijn belofte."
+          ]
+        ],
+        "note": "Azarja en Azarjahu zijn twee apart genoemde namen, geen weg te werken herhaling."
+      }
+    },
+    {
+      "book": "2kronieken",
+      "chapter": 21,
+      "verse": 8,
+      "file": "21-opstanden-en-brief.svg",
+      "scene": "Opstanden, brief en einde",
+      "alt": "Opstanden, boodschap, plundering en de beschreven afloop.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1326,
+      "source": "2 Kronieken 21:8–20",
+      "design": {
+        "rows": [
+          [
+            "Edom en Libna",
+            "Komen in opstand; de nachtelijke uitbraak maakt Edoms opstand niet ongedaan."
+          ],
+          [
+            "Elia’s brief",
+            "Verwijt ontrouw en broedermoord; kondigt zwaar onheil en ziekte aan."
+          ],
+          [
+            "Filistijnen en Arabieren",
+            "Voeren paleisbezit en familie weg; alleen jongste zoon Joahaz blijft over."
+          ],
+          [
+            "De ziekte",
+            "Ongeneeslijk; na twee jaar sterft Joram in pijn."
+          ],
+          [
+            "Begrafenis",
+            "Geen eerbetoon met vuur; buiten de koningsgraven in Davids stad."
+          ]
+        ],
+        "note": "De lichamelijke details blijven in de hoofdstuktekst; dit overzicht onderscheidt oorzaak en gebeurtenissen."
+      }
+    },
+    {
+      "book": "2kronieken",
+      "chapter": 22,
+      "verse": 1,
+      "file": "22-twee-jorams-en-ahazia.svg",
+      "scene": "Twee Jorams en Ahazia",
+      "alt": "De gelijknamige koningen en de bezoeker met hun juiste relaties.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1091,
+      "source": "2 Kronieken 22:1–9",
+      "design": {
+        "rows": [
+          [
+            "Joram van Juda",
+            "Zoon van Josafat; vader van Ahazia."
+          ],
+          [
+            "Joram van Israël",
+            "Zoon van Achab; raakt gewond bij Ramoth en herstelt in Jizreël."
+          ],
+          [
+            "Ahazia",
+            "Koning van Juda; gaat bij de gewonde Joram op bezoek en trekt met hem tegen Jehu op."
+          ],
+          [
+            "Jehu",
+            "Oordeelt over Achabs huis; Ahazia wordt gevonden en gedood."
+          ]
+        ],
+        "note": "Dit hoofdstuk noemt 42 jaar voor Ahazia en één regeringsjaar. De twee Jorams worden niet als dezelfde persoon getekend."
+      }
+    },
+    {
+      "book": "2kronieken",
+      "chapter": 22,
+      "verse": 10,
+      "file": "22-joas-en-jozabath.svg",
+      "scene": "Joas gered en verborgen",
+      "alt": "De drie beschermende rollen en de exacte familiebanden.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1098,
+      "source": "2 Kronieken 22:10–12",
+      "design": {
+        "rows": [
+          [
+            "Athalia",
+            "Moeder van Ahazia; doodt de koningskinderen na zijn dood."
+          ],
+          [
+            "Jozabath",
+            "Dochter van Joram, zus van Ahazia en vrouw van priester Jojada."
+          ],
+          [
+            "Joas",
+            "Zoon van Ahazia; Jozabath brengt hem en zijn voedster in een slaapkamer in veiligheid."
+          ],
+          [
+            "Zes jaar",
+            "Verborgen in het huis van God, terwijl Athalia regeert."
+          ]
+        ],
+        "note": "Jozabath is Joas’ tante; Jojada haar man. De voedster is een afzonderlijke aanwezige persoon."
+      }
+    },
+    {
+      "book": "2kronieken",
+      "chapter": 23,
+      "verse": 1,
+      "file": "23-jojada-en-wachtverdeling.svg",
+      "scene": "Jojada en de wachtverdeling",
+      "alt": "Namen, drie posten en het onderscheid in toegang.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1263,
+      "source": "2 Kronieken 23:1–10",
+      "design": {
+        "rows": [
+          [
+            "Vijf aanvoerders",
+            "Azarja, zoon van Jeroham; Ismaël, zoon van Johanan; Azarja, zoon van Obed; Maäseja, zoon van Adaja; Elisafat, zoon van Zichri."
+          ],
+          [
+            "Drie groepen",
+            "Eén derde bij de drempels; één bij het paleis; één bij de Fundamentpoort."
+          ],
+          [
+            "Toegang",
+            "Volk in de voorhoven; alleen priesters en dienstdoende Levieten het huis binnen."
+          ],
+          [
+            "Rond de koning",
+            "Levieten bewaken hem met Davids speren en schilden; dienstgroepen blijven bijeen."
+          ]
+        ],
+        "note": "De twee Azarja’s hebben verschillende vaders. Dit is taakverdeling, geen plattegrond met verzonnen afstanden."
+      }
+    },
+    {
+      "book": "2kronieken",
+      "chapter": 23,
+      "verse": 11,
+      "file": "23-zalving-verbond-en-rust.svg",
+      "scene": "Zalving, verbond en rust",
+      "alt": "De gebeurtenissen inclusief het beschreven geweld en het herstel.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1290,
+      "source": "2 Kronieken 23:11–21",
+      "design": {
+        "rows": [
+          [
+            "De koning",
+            "Kroon en getuigenis; Jojada en zijn zonen zalven Joas."
+          ],
+          [
+            "Athalia",
+            "Komt op het gejuich af, roept verraad en wordt buiten het heiligdom bij de Paardenpoort gedood."
+          ],
+          [
+            "Het verbond",
+            "HEERE, volk en koning; Baäls tempel wordt afgebroken en Matthan gedood."
+          ],
+          [
+            "Herstel",
+            "Dienstgroepen, zang en poortbewaking worden geregeld."
+          ],
+          [
+            "De troon",
+            "Joas gaat naar het paleis; volk verheugd en stad rustig."
+          ]
+        ],
+        "note": "Zalving bij het huis van God en plaatsnemen op de paleistroon zijn twee verschillende momenten."
+      }
+    },
+    {
+      "book": "2kronieken",
+      "chapter": 24,
+      "verse": 4,
+      "file": "24-kist-geld-en-herstel.svg",
+      "scene": "Kist, geld en herstel",
+      "alt": "De geldstroom en het werk onder Jojada.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1376,
+      "source": "2 Kronieken 24:4–16",
+      "design": {
+        "rows": [
+          [
+            "Eerste oproep",
+            "Joas vraagt de bijdrage; de Levieten haastten zich aanvankelijk niet."
+          ],
+          [
+            "De kist",
+            "Buiten bij de poort; volk en leiders brengen blij hun bijdrage."
+          ],
+          [
+            "Verantwoording",
+            "Koninklijke schrijver en gemachtigde van de hogepriester legen de kist; steeds teruggezet."
+          ],
+          [
+            "Vaklieden en restgeld",
+            "Steen, hout, ijzer en koper; overgebleven geld voor gouden en zilveren gerei."
+          ],
+          [
+            "Jojada",
+            "Sterft op 130 jaar en wordt bij de koningen begraven wegens zijn goede werk."
+          ]
+        ],
+        "note": "De inzameling, controle, besteding en restbestemming zijn onderscheiden stappen."
+      }
+    },
+    {
+      "book": "2kronieken",
+      "chapter": 24,
+      "verse": 17,
+      "file": "24-na-jojadas-dood.svg",
+      "scene": "Na Jojada’s dood",
+      "alt": "De late omslag, profetenmoord, nederlaag en opvolging.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1326,
+      "source": "2 Kronieken 24:17–27",
+      "design": {
+        "rows": [
+          [
+            "De omslag",
+            "Joas luistert naar de leiders; het volk verlaat Gods huis en dient afgoden."
+          ],
+          [
+            "Profetisch woord",
+            "Zacharia, Jojada’s zoon, waarschuwt en wordt op koninklijk bevel gestenigd in de voorhof."
+          ],
+          [
+            "Syrië",
+            "Een klein leger verslaat het grote; leiders gedood, buit naar Damascus."
+          ],
+          [
+            "Joas’ einde",
+            "Dienaren doden hem op zijn bed; wel in Davids stad, niet in de koningsgraven begraven."
+          ],
+          [
+            "Opvolging",
+            "Zijn zoon Amazia wordt koning."
+          ]
+        ],
+        "note": "De koning die eerst herstelde, keert zich later af; Zacharia is de zoon van zijn vroegere beschermer."
+      }
+    },
+    {
+      "book": "2kronieken",
+      "chapter": 25,
+      "verse": 1,
+      "file": "25-amazia-en-het-leger.svg",
+      "scene": "Amazia en het gehuurde leger",
+      "alt": "Recht, aantallen, opdracht en de gewelddadige gevolgen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1455,
+      "source": "2 Kronieken 25:1–13",
+      "design": {
+        "rows": [
+          [
+            "Regering",
+            "Begint op 25 jaar; 29 jaar koning. Moeder Joaddan uit Jeruzalem."
+          ],
+          [
+            "Eigen schuld",
+            "Doodt vaders moordenaars, maar spaart hun kinderen volgens Mozes’ wet."
+          ],
+          [
+            "Troepen",
+            "300.000 uit Juda en Benjamin; 100.000 uit Israël gehuurd voor circa 3,4 ton zilver."
+          ],
+          [
+            "De waarschuwing",
+            "Israëls troepen terugsturen; de HEERE kan meer geven dan de verloren betaling."
+          ],
+          [
+            "Gevolgen",
+            "Tienduizend doden in het Zoutdal en tienduizend gevangenen gedood; teruggestuurde troepen plunderen en doden drieduizend."
+          ]
+        ],
+        "note": "De overwinnaars plegen zwaar geweld; het schema laat dat niet als een louter vreedzame triomf staan."
+      }
+    },
+    {
+      "book": "2kronieken",
+      "chapter": 25,
+      "verse": 14,
+      "file": "25-hoogmoed-en-twee-joassen.svg",
+      "scene": "Hoogmoed en twee Joassen",
+      "alt": "Personen, beeldspraak, de doorbroken muur en de afloop.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1412,
+      "source": "2 Kronieken 25:14–28",
+      "design": {
+        "rows": [
+          [
+            "Amazia",
+            "Zoon van Joas, koning van Juda; neemt Edoms goden mee en verwerpt een waarschuwing."
+          ],
+          [
+            "Joas van Israël",
+            "Zoon van Joahaz, kleinzoon van Jehu; antwoordt met de gelijkenis van distel en ceder."
+          ],
+          [
+            "Bij Beth-Semes",
+            "Juda verslagen; Amazia gevangen."
+          ],
+          [
+            "Jeruzalem",
+            "180 meter muur afgebroken van Efraïmpoort tot Hoekpoort; schatten en gijzelaars naar Samaria."
+          ],
+          [
+            "Later",
+            "Amazia leeft vijftien jaar langer dan Joas van Israël en wordt bij Lachis gedood."
+          ]
+        ],
+        "note": "De twee Joassen zijn niet dezelfde koning. Distel en ceder zijn de parabel in Joas’ antwoord."
+      }
+    },
+    {
+      "book": "2kronieken",
+      "chapter": 26,
+      "verse": 1,
+      "file": "26-uzzia-groei-en-organisatie.svg",
+      "scene": "Uzzia’s groei en organisatie",
+      "alt": "Regeringsgegevens en de onderscheiden bouw- en legertaken.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1412,
+      "source": "2 Kronieken 26:1–15",
+      "design": {
+        "rows": [
+          [
+            "Regering",
+            "Begint op zestien jaar; 52 jaar koning. Moeder Jecholia uit Jeruzalem."
+          ],
+          [
+            "Zoeken en bouwen",
+            "In Zacharia’s tijd zoekt hij God; Eloth, muren, torens, putten en landbouw."
+          ],
+          [
+            "Het leger",
+            "2.600 familiehoofden en 307.500 soldaten; Jeïel, Mahaseja en Hananja bij de organisatie."
+          ],
+          [
+            "Uitrusting",
+            "Schilden, speren, helmen, pantsers, bogen en slingerstenen."
+          ],
+          [
+            "Oorlogstuig",
+            "Vakmensen bedenken toestellen voor pijlen en grote stenen op torens en hoeken."
+          ]
+        ],
+        "note": "De tekst beschrijft geen precieze bouwtekening van de toestellen; daar wordt geen moderne machine bij verzonnen."
+      }
+    },
+    {
+      "book": "2kronieken",
+      "chapter": 26,
+      "verse": 16,
+      "file": "26-hoogmoed-en-regentschap.svg",
+      "scene": "Hoogmoed en afzondering",
+      "alt": "Vergrijp, gevolgen en de overgang naar Jotham.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1369,
+      "source": "2 Kronieken 26:16–23",
+      "design": {
+        "rows": [
+          [
+            "De grens",
+            "Koning Uzzia wil reukwerk offeren; Azaria en tachtig priesters spreken hem tegen."
+          ],
+          [
+            "De ziekte",
+            "Terwijl hij boos wordt, verschijnt melaatsheid op zijn voorhoofd; hij haast zich naar buiten."
+          ],
+          [
+            "Apart huis",
+            "Blijft ziek tot zijn dood en afgesneden van het huis van de HEERE."
+          ],
+          [
+            "Jotham",
+            "Zijn zoon beheert het paleis en spreekt recht; later koning in zijn plaats."
+          ],
+          [
+            "Begrafenis",
+            "Op het veld bij de koningsgraven, vanwege zijn ziekte."
+          ]
+        ],
+        "note": "Koning, priester en bestuurder hebben verschillende bevoegdheden; Jothams taak begint al tijdens vaders afzondering."
+      }
+    },
+    {
+      "book": "2kronieken",
+      "chapter": 27,
+      "verse": 1,
+      "file": "27-jotham-in-kort-bestek.svg",
+      "scene": "Jotham in kort bestek",
+      "alt": "Regering, beoordeling, bouw en de driejarige schatting.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1369,
+      "source": "2 Kronieken 27:1–9",
+      "design": {
+        "rows": [
+          [
+            "Regering",
+            "Begint op 25 jaar, zestien jaar koning; moeder Jerusa, dochter van Zadok."
+          ],
+          [
+            "Beoordeling",
+            "Doet wat juist is, gaat de tempel niet binnen; het volk blijft verkeerd handelen."
+          ],
+          [
+            "Bouw",
+            "Bovenpoort, Ofelmuur, steden, burchten en torens."
+          ],
+          [
+            "Ammon",
+            "Na overwinning drie jaar circa 3,4 ton zilver, 2.200 ton tarwe en evenveel gerst per jaar."
+          ],
+          [
+            "Opvolging",
+            "Na zijn dood wordt zijn zoon Achaz koning."
+          ]
+        ],
+        "note": "De schatting wordt drie achtereenvolgende jaren gebracht, met dezelfde genoemde hoeveelheid per jaar."
+      }
+    },
+    {
+      "book": "2kronieken",
+      "chapter": 28,
+      "verse": 1,
+      "file": "28-achaz-en-de-nederlagen.svg",
+      "scene": "Achaz en de nederlagen",
+      "alt": "Ontrouw, nederlagen, aantallen en de omkeer naar zorg.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1455,
+      "source": "2 Kronieken 28:1–15",
+      "design": {
+        "rows": [
+          [
+            "Achaz",
+            "Begint op twintig jaar, zestien jaar koning; Baälbeelden, verboden offers en het verbranden van zonen."
+          ],
+          [
+            "Nederlagen",
+            "Syrië voert gevangenen naar Damascus; Pekah doodt 120.000 op één dag."
+          ],
+          [
+            "Naar Samaria",
+            "200.000 vrouwen, zonen en dochters als gevangenen; Oded wijst op Israëls eigen schuld."
+          ],
+          [
+            "Vier leiders",
+            "Azaria, Berechja, Jehizkia en Amasa weigeren dat de gevangenen worden binnengebracht."
+          ],
+          [
+            "Ontferming",
+            "Kleren, schoenen, voedsel, drinken, olie en ezels voor zwakken; naar Jericho, dan terug naar Samaria."
+          ]
+        ],
+        "note": "De wrede offers en oorlog staan in woorden; de zorgscène volgt pas nadat gevangenen en buit worden losgelaten."
+      }
+    },
+    {
+      "book": "2kronieken",
+      "chapter": 28,
+      "verse": 16,
+      "file": "28-assyrie-en-verdere-ontrouw.svg",
+      "scene": "Assyrië en verdere ontrouw",
+      "alt": "Buitenlandse hulp, verlies en de sluiting van het heiligdom.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1412,
+      "source": "2 Kronieken 28:16–27",
+      "design": {
+        "rows": [
+          [
+            "Nog meer verlies",
+            "Edom en Filistijnen nemen gebieden en gevangenen."
+          ],
+          [
+            "Assyrië",
+            "Tiglath-Pilneser helpt niet; ondanks schatten uit tempel, paleis en leiders brengt hij Achaz in het nauw."
+          ],
+          [
+            "Damascus’ goden",
+            "Achaz offert hun omdat hij denkt dat zij de Syriërs helpen; het wordt zijn ondergang."
+          ],
+          [
+            "De deuren dicht",
+            "Gerei stukgeslagen, heiligdom gesloten, altaren in Jeruzalem en offerhoogten in Juda."
+          ],
+          [
+            "Opvolging",
+            "Achaz buiten de koningsgraven begraven; zijn zoon Jehizkia wordt koning."
+          ]
+        ],
+        "note": "De geschenken aan Assyrië brengen hier geen redding; het verslag noemt juist toenemende ontrouw."
+      }
+    },
+    {
+      "book": "2kronieken",
+      "chapter": 29,
+      "verse": 1,
+      "file": "29-heropening-en-zestien-dagen.svg",
+      "scene": "Heropening en zestien dagen",
+      "alt": "Regering, volgorde, tijdsduur en taken bij de reiniging.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1290,
+      "source": "2 Kronieken 29:1–19",
+      "design": {
+        "rows": [
+          [
+            "Jehizkia",
+            "Begint op 25 jaar; 29 jaar koning. Moeder Abia, dochter van Zacharia."
+          ],
+          [
+            "Jaar één, maand één",
+            "Deuren geopend en hersteld; priesters en Levieten bijeengeroepen."
+          ],
+          [
+            "Dag één tot acht",
+            "Heiliging vanaf de eerste dag; op dag acht bij de voorhal."
+          ],
+          [
+            "Tot dag zestien",
+            "Nog acht dagen voor het huis; op dag zestien klaar."
+          ],
+          [
+            "Werkverdeling",
+            "Priesters brengen onreinheid naar de voorhof; Levieten dragen die naar de Kidron."
+          ]
+        ],
+        "note": "De oorspronkelijke deuren worden heropend; de reiniging is niet op één dag voltooid."
+      }
+    },
+    {
+      "book": "2kronieken",
+      "chapter": 29,
+      "verse": 12,
+      "file": "29-levieten-bij-de-reiniging.svg",
+      "scene": "Levieten bij de reiniging",
+      "alt": "Alle genoemde Levieten met hun families en gecontroleerde namen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1283,
+      "source": "2 Kronieken 29:12–15",
+      "design": {
+        "rows": [
+          [
+            "Kahath en Merari",
+            "Mahath, zoon van Amasai, en Joël, zoon van Azarja; Kis, zoon van Abdi, en Azarja, zoon van Jehaleël."
+          ],
+          [
+            "Gerson",
+            "Joah, zoon van Zimma, en Eden, zoon van Joah."
+          ],
+          [
+            "Elizafan en Asaf",
+            "Simri en Jeïel; Zecharja en Mattanja."
+          ],
+          [
+            "Heman en Jeduthun",
+            "Jehiël en Simeï; Semaja en Uzziël."
+          ],
+          [
+            "Samen",
+            "Roepen hun broers bijeen, heiligen zich en reinigen op gezag van het woord van de HEERE."
+          ]
+        ],
+        "note": "Azarja en Joah staan met verschillende vaders of generaties genoemd; Jeïel en Jehiël behouden hun eigen spelling."
+      }
+    },
+    {
+      "book": "2kronieken",
+      "chapter": 29,
+      "verse": 20,
+      "file": "29-offers-zang-en-vreugde.svg",
+      "scene": "Offers, zang en vreugde",
+      "alt": "Aantallen, muziek, hulp en de vreugde bij de herstelde dienst.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1376,
+      "source": "2 Kronieken 29:20–36",
+      "design": {
+        "rows": [
+          [
+            "Eerste reeks",
+            "Zeven stieren, zeven rammen, zeven lammeren en zeven bokken; voor koningshuis, heiligdom en Juda."
+          ],
+          [
+            "Heel Israël",
+            "De koning beveelt verzoening voor heel Israël."
+          ],
+          [
+            "Zang en trompetten",
+            "Begint bij het brandoffer; de vergadering buigt en knielt."
+          ],
+          [
+            "Verdere gaven",
+            "70 runderen, 100 rammen en 200 lammeren als brandoffer; 600 runderen en 3.000 schapen als gewijde gaven."
+          ],
+          [
+            "De helpers",
+            "Te weinig priesters; Levieten helpen tot het werk klaar is. Koning en volk verheugen zich."
+          ]
+        ],
+        "note": "De verschillende offerreeksen en gewijde gaven worden niet als één identiek getal samengevoegd."
+      }
+    },
+    {
+      "book": "2kronieken",
+      "chapter": 30,
+      "verse": 1,
+      "file": "30-uitnodiging-en-tweede-maand.svg",
+      "scene": "Uitnodiging in de tweede maand",
+      "alt": "Reden, datum en verschillende reacties op de uitnodiging.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1369,
+      "source": "2 Kronieken 30:1–17",
+      "design": {
+        "rows": [
+          [
+            "Reden voor uitstel",
+            "Niet genoeg geheiligde priesters en het volk nog niet bijeen; gezamenlijk besluit voor maand twee."
+          ],
+          [
+            "De oproep",
+            "Van Berseba tot Dan; brieven ook aan Efraïm en Manasse."
+          ],
+          [
+            "Twee reacties",
+            "Spot in Efraïm, Manasse en Zebulon; sommigen uit Aser, Manasse en Zebulon komen wel."
+          ],
+          [
+            "Jeruzalem",
+            "Altaren weggehaald naar de Kidron; pascha op dag veertien van maand twee."
+          ],
+          [
+            "Dienst",
+            "Priesters en Levieten heiligen zich; Levieten helpen wie niet rein is."
+          ]
+        ],
+        "note": "Uitstel, uitnodiging, zuivering en viering zijn onderscheiden stappen; spot en gehoorzaamheid bestaan naast elkaar."
+      }
+    },
+    {
+      "book": "2kronieken",
+      "chapter": 30,
+      "verse": 18,
+      "file": "30-gebed-en-verlengd-feest.svg",
+      "scene": "Gebed en verlengd feest",
+      "alt": "Voorbede, antwoord, tijdsduur en onderscheiden gevers.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1412,
+      "source": "2 Kronieken 30:18–27",
+      "design": {
+        "rows": [
+          [
+            "Voor wie niet rein waren",
+            "Uit Efraïm, Manasse, Issaschar en Zebulon; Jehizkia bidt om verzoening voor wie God met heel hun hart zoeken."
+          ],
+          [
+            "Het antwoord",
+            "God hoort en geneest het volk."
+          ],
+          [
+            "Zeven plus zeven",
+            "Eerst zeven dagen ongezuurde broden, daarna gezamenlijk besloten extra zeven dagen."
+          ],
+          [
+            "De bijdragen",
+            "Koning: 1.000 stieren en 7.000 schapen; leiders: 1.000 stieren en 10.000 schapen."
+          ],
+          [
+            "Samen blij",
+            "Juda, gekomen Israëlieten en vreemdelingen; priesters zegenen het volk en hun gebed wordt gehoord."
+          ]
+        ],
+        "note": "Het gebed om reinheid, de verlenging en de priesterzegen zijn verschillende momenten binnen één feest."
+      }
+    }
+  ]
+}
