@@ -1,0 +1,900 @@
+{
+  "date": "2026-10-25",
+  "started": "2026-10-25T00:32:44Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "ezra",
+      "chapter": 3,
+      "verse": 12,
+      "scene": "Tranen en gejuich bij het fundament",
+      "alt": "Tranen en gejuich bij het fundament — Ezra 3:12",
+      "kind": "scene",
+      "file": "3-12-inhoudelijk.webp",
+      "prompt": "Use case: historical-scene. Photorealistic educational Bible illustration, landscape 3:2, Persian-period Judah. Fully modest ancient woven robes, natural hands, exactly two arms per person, no modern objects, Roman armor, readable text, watermark, visible deity, blood, injuries or nudity. Close view of two elderly Israelite men weeping quietly beside a newly laid low stone temple foundation, while nearby younger adults rejoice at the same event. Ancient Jerusalem still partly ruined, no completed temple or tall finished temple walls. Natural tears and hands, sorrow and joy together.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "ezra",
+      "chapter": 6,
+      "verse": 9,
+      "scene": "Dagelijkse benodigdheden voor de dienst",
+      "alt": "Dagelijkse benodigdheden voor de dienst — Ezra 6:9",
+      "kind": "scene",
+      "file": "6-9-inhoudelijk.webp",
+      "prompt": "Use case: historical-scene. Photorealistic educational Bible illustration, landscape 3:2, Persian-period Judah. Fully modest ancient woven robes, natural hands, exactly two arms per person, no modern objects, Roman armor, readable text, watermark, visible deity, blood, injuries or nudity. Adult Persian-period Judean attendants receive sacks of wheat, small salt bags and large clay jars of wine and oil for daily temple service, following King Darius’s provision. Simple temple storage courtyard, no king personally standing there, no modern money or labels.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "ezra",
+      "chapter": 7,
+      "verse": 25,
+      "scene": "Ezra stelt rechters aan",
+      "alt": "Ezra stelt rechters aan — Ezra 7:25",
+      "kind": "scene",
+      "file": "7-25-inhoudelijk.webp",
+      "prompt": "Use case: historical-scene. Photorealistic educational Bible illustration, landscape 3:2, Persian-period Judah. Fully modest ancient woven robes, natural hands, exactly two arms per person, no modern objects, Roman armor, readable text, watermark, visible deity, blood, injuries or nudity. Adult priest and scribe Ezra in modest plain robes appoints adult judges and administrators, speaking to a small group in a Persian-period Judean public hall. Simple seated officials listen attentively; no crown on Ezra, no modern courtroom, police uniforms or readable text.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "ezra",
+      "chapter": 8,
+      "verse": 18,
+      "scene": "Levieten sluiten zich bij Ezra aan",
+      "alt": "Levieten sluiten zich bij Ezra aan — Ezra 8:18",
+      "kind": "scene",
+      "file": "8-18-inhoudelijk.webp",
+      "prompt": "Use case: historical-scene. Photorealistic educational Bible illustration, landscape 3:2, Persian-period Judah. Fully modest ancient woven robes, natural hands, exactly two arms per person, no modern objects, Roman armor, readable text, watermark, visible deity, blood, injuries or nudity. Adult Levite Sherebiah arrives with adult male relatives carrying travel bundles at Ezra’s riverside camp near Ahava. Ezra greets them calmly; families and pack animals in the background, no royal escort or soldiers, natural hands and modest robes.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "ezra",
+      "chapter": 8,
+      "verse": 31,
+      "scene": "Vertrek van de rivier Ahava",
+      "alt": "Vertrek van de rivier Ahava — Ezra 8:31",
+      "kind": "scene",
+      "file": "8-31-inhoudelijk.webp",
+      "prompt": "Use case: historical-scene. Photorealistic educational Bible illustration, landscape 3:2, Persian-period Judah. Fully modest ancient woven robes, natural hands, exactly two arms per person, no modern objects, Roman armor, readable text, watermark, visible deity, blood, injuries or nudity. A long caravan of fully robed adult Judean returnees with bundled valuables and pack donkeys leaves a broad river camp toward the road to Jerusalem. Ezra walks near the front with an ancient scroll case, no soldiers or horse cavalry escort, no visible attack or modern objects.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "ezra",
+      "chapter": 10,
+      "verse": 6,
+      "scene": "Ezra vast in een kamer",
+      "alt": "Ezra vast in een kamer — Ezra 10:6",
+      "kind": "scene",
+      "file": "10-6-inhoudelijk.webp",
+      "prompt": "Use case: historical-scene. Photorealistic educational Bible illustration, landscape 3:2, Persian-period Judah. Fully modest ancient woven robes, natural hands, exactly two arms per person, no modern objects, Roman armor, readable text, watermark, visible deity, blood, injuries or nudity. Adult Ezra in a modest robe sits alone and solemn in the room of Johanan son of Eliashib after communal prayer, an empty low table nearby showing no meal. Ancient stone walls and window light, quiet fasting and grief, no palace throne, readable text or visible deity.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "ezra",
+      "chapter": 1,
+      "verse": 1,
+      "file": "1-kores-ondersteuning-en-gerei.svg",
+      "scene": "Kores, hulp en heilig gerei",
+      "alt": "Opdracht, ondersteuning, overdracht en het zichtbare verschil tussen lijst en totaal.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1448,
+      "source": "Ezra 1:1–11",
+      "design": {
+        "rows": [
+          [
+            "De oproep",
+            "Kores’ eerste jaar; optrekken naar Jeruzalem en Gods huis bouwen."
+          ],
+          [
+            "De helpers",
+            "Buren geven zilver, goud, bezit, vee en vrijwillige gaven."
+          ],
+          [
+            "De bewaarders",
+            "Kores laat Mithredath, de schatmeester, voorwerpen uittellen aan Sesbazar, leider van Juda."
+          ],
+          [
+            "Genoemde soorten",
+            "30 gouden schalen, 1.000 zilveren schalen, 29 messen; 30 gouden bekers, 410 andere zilveren bekers en 1.000 andere voorwerpen."
+          ],
+          [
+            "Het genoemde totaal",
+            "5.400 gouden en zilveren voorwerpen mee naar Jeruzalem."
+          ]
+        ],
+        "note": "De gespecificeerde aantallen tellen op tot 2.499; het opgegeven totaal is 5.400. Het verschil wordt niet met verzonnen voorwerpen gevuld."
+      }
+    },
+    {
+      "book": "ezra",
+      "chapter": 2,
+      "verse": 3,
+      "file": "2-families-01.svg",
+      "scene": "Familiegroepen, eerste deel",
+      "alt": "De namen en aantallen uit deze eigen passage.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1664,
+      "source": "Ezra 2:3–11",
+      "design": {
+        "rows": [
+          [
+            "Paros",
+            "2.172"
+          ],
+          [
+            "Sefatja",
+            "372"
+          ],
+          [
+            "Arach",
+            "775"
+          ],
+          [
+            "Pahath-Moab",
+            "2.812; via Jesua en Joab"
+          ],
+          [
+            "Elam",
+            "1.254"
+          ],
+          [
+            "Zatthu",
+            "945"
+          ],
+          [
+            "Zakkai",
+            "760"
+          ],
+          [
+            "Bani",
+            "642"
+          ],
+          [
+            "Bebai",
+            "623"
+          ]
+        ],
+        "note": "Genoemde groep en aantal; geen vader-zoonketen. Gelijknamige families in andere lijsten krijgen niet automatisch hetzelfde getal."
+      }
+    },
+    {
+      "book": "ezra",
+      "chapter": 2,
+      "verse": 12,
+      "file": "2-families-02.svg",
+      "scene": "Familiegroepen, tweede deel",
+      "alt": "De namen en aantallen uit deze eigen passage.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1664,
+      "source": "Ezra 2:12–20",
+      "design": {
+        "rows": [
+          [
+            "Azgad",
+            "1.222"
+          ],
+          [
+            "Adonikam",
+            "666"
+          ],
+          [
+            "Bigvai",
+            "2.056"
+          ],
+          [
+            "Adin",
+            "454"
+          ],
+          [
+            "Ater",
+            "98; via Hizkia"
+          ],
+          [
+            "Bezai",
+            "323"
+          ],
+          [
+            "Jora",
+            "112"
+          ],
+          [
+            "Hasum",
+            "223"
+          ],
+          [
+            "Gibbar",
+            "95"
+          ]
+        ],
+        "note": "Genoemde groep en aantal; geen vader-zoonketen. Gelijknamige families in andere lijsten krijgen niet automatisch hetzelfde getal."
+      }
+    },
+    {
+      "book": "ezra",
+      "chapter": 2,
+      "verse": 21,
+      "file": "2-plaatsen-01.svg",
+      "scene": "Woonplaatsen, eerste deel",
+      "alt": "De namen en aantallen uit deze eigen passage.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1515,
+      "source": "Ezra 2:21–28",
+      "design": {
+        "rows": [
+          [
+            "Bethlehem",
+            "123"
+          ],
+          [
+            "Netofa",
+            "56"
+          ],
+          [
+            "Anathoth",
+            "128"
+          ],
+          [
+            "Azmaveth",
+            "42"
+          ],
+          [
+            "Kirjath-Arim, Cefira, Beëroth",
+            "743 samen"
+          ],
+          [
+            "Rama en Gaba",
+            "621 samen"
+          ],
+          [
+            "Michmas",
+            "122"
+          ],
+          [
+            "Bethel en Ai",
+            "223 samen"
+          ]
+        ],
+        "note": "Genoemde groep en aantal; geen vader-zoonketen. Gelijknamige families in andere lijsten krijgen niet automatisch hetzelfde getal."
+      }
+    },
+    {
+      "book": "ezra",
+      "chapter": 2,
+      "verse": 29,
+      "file": "2-plaatsen-02.svg",
+      "scene": "Plaatsen en verdere families",
+      "alt": "De namen en aantallen uit deze eigen passage.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1366,
+      "source": "Ezra 2:29–35",
+      "design": {
+        "rows": [
+          [
+            "Nebo",
+            "52"
+          ],
+          [
+            "Magbis",
+            "156"
+          ],
+          [
+            "Andere Elam",
+            "1.254"
+          ],
+          [
+            "Harim",
+            "320"
+          ],
+          [
+            "Lod, Hadid en Ono",
+            "725 samen"
+          ],
+          [
+            "Jericho",
+            "345"
+          ],
+          [
+            "Senaä",
+            "3.630"
+          ]
+        ],
+        "note": "Genoemde groep en aantal; geen vader-zoonketen. Gelijknamige families in andere lijsten krijgen niet automatisch hetzelfde getal."
+      }
+    },
+    {
+      "book": "ezra",
+      "chapter": 2,
+      "verse": 36,
+      "file": "2-dienstgroepen-en-registratie.svg",
+      "scene": "Dienstgroepen en registratie",
+      "alt": "Verschillende dienstgroepen en de functie van afstammingsbewijs.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1369,
+      "source": "Ezra 2:36–63",
+      "design": {
+        "rows": [
+          [
+            "Vier priestergroepen",
+            "Jedaja 973; Immer 1.052; Pashur 1.247; Harim 1.017."
+          ],
+          [
+            "Levieten en zangers",
+            "Jesua en Kadmiël uit Hodavja 74; Asafs nakomelingen 128."
+          ],
+          [
+            "Poortwachters",
+            "Sallum, Ater, Talmon, Akkub, Hatita en Sobai: samen 139."
+          ],
+          [
+            "Tempelknechten en dienaren",
+            "Samen 392; hun familielijsten staan in vers 43–58."
+          ],
+          [
+            "Zonder aantoonbare herkomst",
+            "Delaja, Tobia en Nekoda: 652; ook priesters zonder registerbewijs mogen voorlopig niet van de allerheiligste gaven eten."
+          ]
+        ],
+        "note": "De toelating van de priesters blijft uitgesteld tot een priester met urim en tummim; er wordt geen ontbrekend register verzonnen."
+      }
+    },
+    {
+      "book": "ezra",
+      "chapter": 2,
+      "verse": 64,
+      "file": "2-totalen-dieren-en-gaven.svg",
+      "scene": "Totalen, dieren en gaven",
+      "alt": "De aparte totalen, soorten dieren, gaven en vestiging.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1134,
+      "source": "Ezra 2:64–70",
+      "design": {
+        "rows": [
+          [
+            "Vergadering",
+            "42.360; daarnaast 7.337 slaven en slavinnen en 200 zangers en zangeressen."
+          ],
+          [
+            "Rijdieren",
+            "736 paarden, 245 muildieren, 435 kamelen en 6.720 ezels."
+          ],
+          [
+            "Vrijwillige gaven",
+            "61.000 gouden munten, ongeveer 2,9 ton zilver en honderd priestergewaden."
+          ],
+          [
+            "Vestiging",
+            "Dienstgroepen en heel Israël gaan in hun eigen steden wonen."
+          ]
+        ],
+        "note": "De aanvullende groepen worden niet zonder toelichting bij een ander lijsttotaal gevoegd; bedragen volgen deze vertaling."
+      }
+    },
+    {
+      "book": "ezra",
+      "chapter": 3,
+      "verse": 1,
+      "file": "3-altaar-vroeger-dan-fundament.svg",
+      "scene": "Altaar vóór het fundament",
+      "alt": "Tijdstappen, juiste vadersnamen en de gemengde reactie.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1376,
+      "source": "Ezra 3:1–13",
+      "design": {
+        "rows": [
+          [
+            "Zevende maand",
+            "Eensgezind bijeen; Jesua, zoon van Jozadak, en Zerubbabel, zoon van Sealthiël, gaan voor."
+          ],
+          [
+            "Eerste dag",
+            "Offers vanaf dag één van maand zeven; tempel nog niet gegrondvest."
+          ],
+          [
+            "Materiaal",
+            "Betaling aan vaklieden en voedsel, drinken en olie voor hout uit Libanon via Jafo."
+          ],
+          [
+            "Jaar twee, maand twee",
+            "De bouw begint; Levieten vanaf twintig jaar houden toezicht."
+          ],
+          [
+            "Het fundament",
+            "Trompetten, cimbalen en dank; gejuich én huilen van wie het eerste huis gekend hebben."
+          ]
+        ],
+        "note": "Altaarherstel en de latere tempelgrondlegging zijn niet hetzelfde bouwmoment."
+      }
+    },
+    {
+      "book": "ezra",
+      "chapter": 4,
+      "verse": 1,
+      "file": "4-tegenstand-en-koningsnamen.svg",
+      "scene": "Tegenstand onder koningen",
+      "alt": "Koningsnamen en onderwerpen zonder alle brieven op één dag te plaatsen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1362,
+      "source": "Ezra 4:1–24",
+      "design": {
+        "rows": [
+          [
+            "Kores tot Darius",
+            "Afgewezen aanbod, ontmoediging en ingehuurde raadgevers tegen de bouw."
+          ],
+          [
+            "Ahasveros",
+            "Aanklacht aan het begin van zijn regering."
+          ],
+          [
+            "Arthahsasta",
+            "Brief over Jeruzalem als opstandige stad, belasting en muren; antwoord beveelt stop tot nader bevel."
+          ],
+          [
+            "Uitvoering",
+            "Rehum en Simsai dwingen het werk te stoppen."
+          ],
+          [
+            "Terug naar de tempelbouw",
+            "Vers 24 noemt stilstand tot Darius’ tweede jaar."
+          ]
+        ],
+        "note": "Het hoofdstuk verzamelt verschillende perioden van tegenstand. De stadsmuren in de brief zijn niet automatisch dezelfde bouwfase als het tempelfundament."
+      }
+    },
+    {
+      "book": "ezra",
+      "chapter": 5,
+      "verse": 1,
+      "file": "5-herbouw-vraag-en-antwoord.svg",
+      "scene": "Herbouw, vraag en antwoord",
+      "alt": "Profeten, bestuurders en de gang van het officiële onderzoek.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1412,
+      "source": "Ezra 5:1–17",
+      "design": {
+        "rows": [
+          [
+            "Bemoediging",
+            "Haggai en Zacharia, zoon van Iddo, steunen Zerubbabel en Jesua."
+          ],
+          [
+            "Onderzoek",
+            "Thathnai en Sthar-Boznai vragen naar bevel en namen; het werk wordt voorlopig niet gestopt."
+          ],
+          [
+            "De verklaring",
+            "Eerder huis gebouwd, door schuld verwoest; Kores beval herbouw en teruggave van het gerei."
+          ],
+          [
+            "Sesbazar",
+            "Ontving de voorwerpen en legde volgens het antwoord de fundamenten."
+          ],
+          [
+            "Verzoek aan Darius",
+            "Zoek het bevel van Kores in het koninklijke archief en stuur een besluit."
+          ]
+        ],
+        "note": "De verklaring van de oudsten is als hun antwoord weergegeven; de archiefvondst volgt in hoofdstuk 6."
+      }
+    },
+    {
+      "book": "ezra",
+      "chapter": 6,
+      "verse": 1,
+      "file": "6-gevonden-bevel-en-voorziening.svg",
+      "scene": "Gevonden bevel en voorziening",
+      "alt": "De archiefvondst, bouwvoorwaarden en dagelijkse ondersteuning.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1369,
+      "source": "Ezra 6:1–14",
+      "design": {
+        "rows": [
+          [
+            "Archiefonderzoek",
+            "Zoeken in Babel; rol gevonden in Achmetha in Medië."
+          ],
+          [
+            "Kores’ bevel",
+            "Herbouw; circa 27 meter hoog en breed; drie steenlagen en één houtlaag; kosten uit de koninklijke kas."
+          ],
+          [
+            "Darius’ antwoord",
+            "Werk met rust laten en betalen uit de belastinginkomsten van het gebied."
+          ],
+          [
+            "Dagelijkse benodigdheden",
+            "Offerdieren, tarwe, zout, wijn en olie; priesters geven de behoefte aan."
+          ],
+          [
+            "De sanctie",
+            "Verandering van het besluit wordt met dood en verwoesting van het huis bedreigd."
+          ]
+        ],
+        "note": "De twee koninklijke teksten worden onderscheiden; de genoemde bouwmaten vormen geen complete plattegrond."
+      }
+    },
+    {
+      "book": "ezra",
+      "chapter": 6,
+      "verse": 15,
+      "file": "6-voltooiing-inwijding-pascha.svg",
+      "scene": "Voltooiing, inwijding, pascha",
+      "alt": "Data, offeraantallen en de deelnemers aan het feest.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1290,
+      "source": "Ezra 6:15–22",
+      "design": {
+        "rows": [
+          [
+            "Voltooiing",
+            "Dag drie van Adar in Darius’ zesde jaar."
+          ],
+          [
+            "Inwijding",
+            "100 runderen, 200 rammen, 400 lammeren en twaalf bokken voor heel Israël."
+          ],
+          [
+            "Dienstgroepen",
+            "Priesters en Levieten volgens Mozes’ boek."
+          ],
+          [
+            "Pascha",
+            "Dag veertien van maand één; ook wie zich afkeert van onreinheid en God zoekt eet mee."
+          ],
+          [
+            "Feest",
+            "Zeven dagen ongezuurde broden met blijdschap."
+          ]
+        ],
+        "note": "Bouwvoltooiing, inwijding en pascha zijn onderscheiden gebeurtenissen met eigen datums."
+      }
+    },
+    {
+      "book": "ezra",
+      "chapter": 7,
+      "verse": 1,
+      "file": "7-aaron-ezra.svg",
+      "scene": "De genoemde lijn naar Ezra",
+      "alt": "De genoemde lijn naar Ezra — Ezra 7:1–5",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1716,
+      "source": "Ezra 7:1–5",
+      "design": {
+        "type": "vertical named sequence",
+        "names": [
+          "Aäron",
+          "Eleazar",
+          "Pinehas",
+          "Abisua",
+          "Bukki",
+          "Uzzi",
+          "Zerahja",
+          "Merajoth",
+          "Azarja",
+          "Amarja",
+          "Ahitub",
+          "Zadok",
+          "Sallum",
+          "Hilkia",
+          "Azarja",
+          "Seraja",
+          "Ezra"
+        ],
+        "note": "De keten volgt de in dit hoofdstuk genoemde afstamming in omgekeerde leesrichting, van Aäron naar Ezra; terugkerende namen blijven aparte posities."
+      }
+    },
+    {
+      "book": "ezra",
+      "chapter": 7,
+      "verse": 6,
+      "file": "7-reis-en-opdracht.svg",
+      "scene": "Reis en koninklijke opdracht",
+      "alt": "Tijd, persoonlijke toewijding en inhoud van de machtiging.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1369,
+      "source": "Ezra 7:6–28",
+      "design": {
+        "rows": [
+          [
+            "De reis",
+            "Arthahsasta’s zevende jaar; vertrek op dag één van maand één, aankomst op dag één van maand vijf."
+          ],
+          [
+            "Ezra’s hart",
+            "Wet zoeken, doen en Israël onderwijzen."
+          ],
+          [
+            "Vrije deelname",
+            "Israëlieten en dienstgroepen mogen met hem mee."
+          ],
+          [
+            "Middelen",
+            "Tot circa 3,4 ton zilver, 22 ton tarwe, 2.200 liter wijn en 2.200 liter olie; zout zonder vaste limiet."
+          ],
+          [
+            "Bestuur",
+            "Rechters aanstellen, onwetenden onderwijzen; dienaren van Gods huis vrij van belasting, accijns en tol."
+          ]
+        ],
+        "note": "Ezra is priester en schriftgeleerde, geen koning; de brief verleent hem onderscheiden taken en middelen."
+      }
+    },
+    {
+      "book": "ezra",
+      "chapter": 8,
+      "verse": 1,
+      "file": "8-reisgroepen-eerste.svg",
+      "scene": "Reisgroepen en leiders",
+      "alt": "Leiders en genoemde groepsaantallen zonder ontbrekende namen te verzinnen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1240,
+      "source": "Ezra 8:1–14",
+      "design": {
+        "rows": [
+          [
+            "Drie lijnen",
+            "Pinehas: Gersom; Ithamar: Daniël; David: Hattus."
+          ],
+          [
+            "Paros en Pahath-Moab",
+            "Zacharja met 150; Eljehoenai met 200."
+          ],
+          [
+            "Sechanja en Adin",
+            "De zoon van Jahaziël met 300; Ebed met vijftig."
+          ],
+          [
+            "Elam, Sefatja en Joab",
+            "Jesaja met zeventig; Zebadja met tachtig; Obadja met 218."
+          ],
+          [
+            "Andere groepen",
+            "Selomith 160, Babai 28, Azgad 110, Adonikam zestig, Bigvai zeventig."
+          ]
+        ],
+        "note": "Vers 5 en 10 geven een vadersnaam zonder de eigennaam van de zoon. Die wordt niet ingevuld; Babai en Bebai staan in vers 11 in eigen vormen."
+      }
+    },
+    {
+      "book": "ezra",
+      "chapter": 8,
+      "verse": 15,
+      "file": "8-ahava-levieten-en-vasten.svg",
+      "scene": "Ahava: Levieten en vasten",
+      "alt": "De voorbereiding en de verschillende groepen bij de rivier.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1326,
+      "source": "Ezra 8:15–24",
+      "design": {
+        "rows": [
+          [
+            "Drie dagen",
+            "Ezra onderzoekt het kamp en vindt nog geen Levieten."
+          ],
+          [
+            "Naar Chasifja",
+            "Een gezantschap naar Iddo om dienaren voor Gods huis te vragen."
+          ],
+          [
+            "De komst",
+            "Serebja met achttien; Hasabja en Jesaja met twintig; 220 tempelknechten."
+          ],
+          [
+            "Vasten",
+            "Veilige reis gevraagd voor mensen, kinderen en bezit; geen soldaten of ruiters aangevraagd."
+          ],
+          [
+            "Twaalf bewaarders",
+            "Serebja, Hasabja en tien broers worden aangewezen."
+          ]
+        ],
+        "note": "Het ontbreken van Levieten wordt eerst opgemerkt en daarna opgelost; de groepen worden niet bij aankomst teruggeprojecteerd."
+      }
+    },
+    {
+      "book": "ezra",
+      "chapter": 8,
+      "verse": 25,
+      "file": "8-bewaren-reizen-verantwoorden.svg",
+      "scene": "Bewaren en verantwoorden",
+      "alt": "Voorraad, bewaarders, reistijd en controle bij aankomst.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1412,
+      "source": "Ezra 8:25–36",
+      "design": {
+        "rows": [
+          [
+            "Afgewogen gaven",
+            "Circa 22 ton zilver, honderd zilveren voorwerpen van circa 34 kilo elk, 3,4 ton goud, twintig gouden bekers en twee kostbare koperen voorwerpen."
+          ],
+          [
+            "Vertrek",
+            "Dag twaalf van maand één vanaf Ahava; bescherming onderweg."
+          ],
+          [
+            "Jeruzalem",
+            "Drie dagen rust; op dag vier tellen, wegen en alles opschrijven."
+          ],
+          [
+            "Vier ontvangers",
+            "Meremoth, Eleazar, Jozabad en Noadja met genoemde vaders."
+          ],
+          [
+            "Offers en bevelen",
+            "Twaalf stieren, 96 rammen, 77 lammeren, twaalf bokken; koninklijke wetten aan bestuurders overhandigd."
+          ]
+        ],
+        "note": "Gaven worden vóór en na de reis gewogen; de afzonderlijke honderd voorwerpen blijven naast het genoemde zilvergewicht staan."
+      }
+    },
+    {
+      "book": "ezra",
+      "chapter": 9,
+      "verse": 1,
+      "file": "9-melding-en-gebed.svg",
+      "scene": "Melding, rouw en gebed",
+      "alt": "De beweging van bericht via rouw naar schuldbelijdenis en genade.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1455,
+      "source": "Ezra 9:1–15",
+      "design": {
+        "rows": [
+          [
+            "De melding",
+            "Ook leiders, priesters en Levieten hebben buitenlandse huwelijken gesloten en de gruwelijke daden overgenomen."
+          ],
+          [
+            "Ezra’s rouw",
+            "Scheurt kleed en mantel, trekt haren uit en zit verslagen tot het avondoffer."
+          ],
+          [
+            "Schuldbelijdenis",
+            "Gezamenlijke schuld sinds de voorouders en de gevolgen van oorlog en gevangenschap."
+          ],
+          [
+            "Ontvangen genade",
+            "Een overgebleven groep, herbouw en bescherming onder Perzische koningen."
+          ],
+          [
+            "De vraag",
+            "Na die genade toch opnieuw de geboden verlaten? Ezra erkent Gods rechtvaardigheid."
+          ]
+        ],
+        "note": "Het schema beschrijft Ezra’s eigen gebed en de toenmalige verbondscrisis; de gebedsbeelden zijn geen aparte historische rampen op dat moment."
+      }
+    },
+    {
+      "book": "ezra",
+      "chapter": 10,
+      "verse": 1,
+      "file": "10-voorstel-regen-en-onderzoek.svg",
+      "scene": "Voorstel, regen en onderzoek",
+      "alt": "Voorstel, sanctie, tegenstemmen en tijdsverloop van het onderzoek.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1491,
+      "source": "Ezra 10:1–17",
+      "design": {
+        "rows": [
+          [
+            "Sechanja’s voorstel",
+            "Verbond om de buitenlandse vrouwen en hun kinderen weg te sturen; Ezra laat een eed afleggen."
+          ],
+          [
+            "Drie dagen",
+            "Oproep met verlies van bezit en uitsluiting als sanctie voor wegblijven."
+          ],
+          [
+            "Dag twintig, maand negen",
+            "Vergadering rilt op het plein in de stortregen."
+          ],
+          [
+            "Bezwaar en regeling",
+            "Te veel mensen en regen; behandeling per stad en tijdstip. Jonathan, Jehazia, Mesullam en Sabbethai zijn tegen."
+          ],
+          [
+            "Onderzoeksperiode",
+            "Van dag één van maand tien tot dag één van maand één."
+          ]
+        ],
+        "note": "Het wegsturen van vrouwen en kinderen is de harde inhoud van het voorstel; dit overzicht verzwijgt die niet en verzint geen uitgebeelde geweldsscène."
+      }
+    },
+    {
+      "book": "ezra",
+      "chapter": 10,
+      "verse": 18,
+      "file": "10-priesters-en-dienstgroepen.svg",
+      "scene": "Priesters en dienstgroepen",
+      "alt": "Alle namen uit de genoemde priester- en dienstgroepen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1326,
+      "source": "Ezra 10:18–24",
+      "design": {
+        "rows": [
+          [
+            "Jesua’s familie",
+            "Maäseja, Eliëzer, Jarib en Gedalja; belofte van wegsturen en een ram als schuldoffer."
+          ],
+          [
+            "Immer",
+            "Hanani en Zebadja."
+          ],
+          [
+            "Harim",
+            "Maäseja, Elia, Semaja, Jehiël en Uzia."
+          ],
+          [
+            "Pashur",
+            "Eljoënai, Maäseja, Ismaël, Nethaneël, Jozabad en Elasa."
+          ],
+          [
+            "Levieten en anderen",
+            "Jozabad, Simeï, Kelaja/Kelita, Pethahja, Juda en Eliëzer; zanger Eljasib; poortwachters Sallum, Telem en Uri."
+          ]
+        ],
+        "note": "Kelaja en Kelita zijn twee namen van dezelfde persoon; herhaalde namen in andere families worden niet samengevoegd."
+      }
+    },
+    {
+      "book": "ezra",
+      "chapter": 10,
+      "verse": 25,
+      "file": "10-familienamen-en-onderscheid.svg",
+      "scene": "Families in de verdere lijst",
+      "alt": "Groepsindeling, herhaalde namen en de expliciete vermelding van kinderen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1170,
+      "source": "Ezra 10:25–44",
+      "design": {
+        "rows": [
+          [
+            "Eerste groepen",
+            "Paros, Elam, Zatthu, Bebai, Bani en Pahath-Moab."
+          ],
+          [
+            "Daarna",
+            "Harim en Hasum; opnieuw een lange groep bij Bani in vers 34–42."
+          ],
+          [
+            "Laatste groep",
+            "Nebo: Jeïel, Mattithja, Zabad, Zebina, Jaddai, Joël en Benaja."
+          ],
+          [
+            "De slotzin",
+            "Allen hadden buitenlandse vrouwen; sommigen hadden met hen kinderen gekregen."
+          ]
+        ],
+        "note": "De lijst noemt twee passages met Bani en tweemaal Malchia bij Paros. De eigen lijstvorm blijft behouden; geen nieuwe verwantschappen afgeleid."
+      }
+    }
+  ]
+}

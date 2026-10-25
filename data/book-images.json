@@ -33424,13 +33424,17 @@
         "chapter": 3,
         "file": "3-foundation.webp",
         "alt": "Families verzamelen zich bij de grondlegging van de tempel",
-        "scene": "De grondlegging"
+        "scene": "De grondlegging",
+        "verse": 10,
+        "kind": "scene"
       },
       {
         "chapter": 7,
         "file": "7-journey.webp",
         "alt": "Ezra vertrekt met een groep reizigers naar Jeruzalem",
-        "scene": "Ezra op reis"
+        "scene": "Ezra op reis",
+        "verse": 9,
+        "kind": "scene"
       },
       {
         "chapter": 1,
@@ -33520,8 +33524,8 @@
         "chapter": 5,
         "verse": 3,
         "file": "5-3.webp",
-        "alt": "Beeld bij Ezra 5: Tattenai vraagt naar de bouwvergunning",
-        "scene": "Tattenai vraagt naar de bouwvergunning"
+        "alt": "Beeld bij Ezra 5: Thathnai vraagt naar de bouwvergunning",
+        "scene": "Thathnai vraagt naar de bouwvergunning"
       },
       {
         "chapter": 6,
@@ -33620,6 +33624,276 @@
         "file": "10-16.webp",
         "alt": "Beeld bij Ezra 10: De familiehoofden onderzoeken de zaak",
         "scene": "De familiehoofden onderzoeken de zaak"
+      },
+      {
+        "chapter": 3,
+        "verse": 12,
+        "scene": "Tranen en gejuich bij het fundament",
+        "alt": "Tranen en gejuich bij het fundament — Ezra 3:12",
+        "kind": "scene",
+        "file": "3-12-inhoudelijk.webp",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 6,
+        "verse": 9,
+        "scene": "Dagelijkse benodigdheden voor de dienst",
+        "alt": "Dagelijkse benodigdheden voor de dienst — Ezra 6:9",
+        "kind": "scene",
+        "file": "6-9-inhoudelijk.webp",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 7,
+        "verse": 25,
+        "scene": "Ezra stelt rechters aan",
+        "alt": "Ezra stelt rechters aan — Ezra 7:25",
+        "kind": "scene",
+        "file": "7-25-inhoudelijk.webp",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 8,
+        "verse": 18,
+        "scene": "Levieten sluiten zich bij Ezra aan",
+        "alt": "Levieten sluiten zich bij Ezra aan — Ezra 8:18",
+        "kind": "scene",
+        "file": "8-18-inhoudelijk.webp",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 8,
+        "verse": 31,
+        "scene": "Vertrek van de rivier Ahava",
+        "alt": "Vertrek van de rivier Ahava — Ezra 8:31",
+        "kind": "scene",
+        "file": "8-31-inhoudelijk.webp",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 10,
+        "verse": 6,
+        "scene": "Ezra vast in een kamer",
+        "alt": "Ezra vast in een kamer — Ezra 10:6",
+        "kind": "scene",
+        "file": "10-6-inhoudelijk.webp",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 1,
+        "verse": 1,
+        "file": "1-kores-ondersteuning-en-gerei.svg",
+        "scene": "Kores, hulp en heilig gerei",
+        "alt": "Opdracht, ondersteuning, overdracht en het zichtbare verschil tussen lijst en totaal.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1448
+      },
+      {
+        "chapter": 2,
+        "verse": 3,
+        "file": "2-families-01.svg",
+        "scene": "Familiegroepen, eerste deel",
+        "alt": "De namen en aantallen uit deze eigen passage.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1664
+      },
+      {
+        "chapter": 2,
+        "verse": 12,
+        "file": "2-families-02.svg",
+        "scene": "Familiegroepen, tweede deel",
+        "alt": "De namen en aantallen uit deze eigen passage.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1664
+      },
+      {
+        "chapter": 2,
+        "verse": 21,
+        "file": "2-plaatsen-01.svg",
+        "scene": "Woonplaatsen, eerste deel",
+        "alt": "De namen en aantallen uit deze eigen passage.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1515
+      },
+      {
+        "chapter": 2,
+        "verse": 29,
+        "file": "2-plaatsen-02.svg",
+        "scene": "Plaatsen en verdere families",
+        "alt": "De namen en aantallen uit deze eigen passage.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1366
+      },
+      {
+        "chapter": 2,
+        "verse": 36,
+        "file": "2-dienstgroepen-en-registratie.svg",
+        "scene": "Dienstgroepen en registratie",
+        "alt": "Verschillende dienstgroepen en de functie van afstammingsbewijs.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1369
+      },
+      {
+        "chapter": 2,
+        "verse": 64,
+        "file": "2-totalen-dieren-en-gaven.svg",
+        "scene": "Totalen, dieren en gaven",
+        "alt": "De aparte totalen, soorten dieren, gaven en vestiging.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1134
+      },
+      {
+        "chapter": 3,
+        "verse": 1,
+        "file": "3-altaar-vroeger-dan-fundament.svg",
+        "scene": "Altaar vóór het fundament",
+        "alt": "Tijdstappen, juiste vadersnamen en de gemengde reactie.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1376
+      },
+      {
+        "chapter": 4,
+        "verse": 1,
+        "file": "4-tegenstand-en-koningsnamen.svg",
+        "scene": "Tegenstand onder koningen",
+        "alt": "Koningsnamen en onderwerpen zonder alle brieven op één dag te plaatsen.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1362
+      },
+      {
+        "chapter": 5,
+        "verse": 1,
+        "file": "5-herbouw-vraag-en-antwoord.svg",
+        "scene": "Herbouw, vraag en antwoord",
+        "alt": "Profeten, bestuurders en de gang van het officiële onderzoek.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1412
+      },
+      {
+        "chapter": 6,
+        "verse": 1,
+        "file": "6-gevonden-bevel-en-voorziening.svg",
+        "scene": "Gevonden bevel en voorziening",
+        "alt": "De archiefvondst, bouwvoorwaarden en dagelijkse ondersteuning.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1369
+      },
+      {
+        "chapter": 6,
+        "verse": 15,
+        "file": "6-voltooiing-inwijding-pascha.svg",
+        "scene": "Voltooiing, inwijding, pascha",
+        "alt": "Data, offeraantallen en de deelnemers aan het feest.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1290
+      },
+      {
+        "chapter": 7,
+        "verse": 1,
+        "file": "7-aaron-ezra.svg",
+        "scene": "De genoemde lijn naar Ezra",
+        "alt": "De genoemde lijn naar Ezra — Ezra 7:1–5",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1716
+      },
+      {
+        "chapter": 7,
+        "verse": 6,
+        "file": "7-reis-en-opdracht.svg",
+        "scene": "Reis en koninklijke opdracht",
+        "alt": "Tijd, persoonlijke toewijding en inhoud van de machtiging.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1369
+      },
+      {
+        "chapter": 8,
+        "verse": 1,
+        "file": "8-reisgroepen-eerste.svg",
+        "scene": "Reisgroepen en leiders",
+        "alt": "Leiders en genoemde groepsaantallen zonder ontbrekende namen te verzinnen.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1240
+      },
+      {
+        "chapter": 8,
+        "verse": 15,
+        "file": "8-ahava-levieten-en-vasten.svg",
+        "scene": "Ahava: Levieten en vasten",
+        "alt": "De voorbereiding en de verschillende groepen bij de rivier.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1326
+      },
+      {
+        "chapter": 8,
+        "verse": 25,
+        "file": "8-bewaren-reizen-verantwoorden.svg",
+        "scene": "Bewaren en verantwoorden",
+        "alt": "Voorraad, bewaarders, reistijd en controle bij aankomst.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1412
+      },
+      {
+        "chapter": 9,
+        "verse": 1,
+        "file": "9-melding-en-gebed.svg",
+        "scene": "Melding, rouw en gebed",
+        "alt": "De beweging van bericht via rouw naar schuldbelijdenis en genade.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1455
+      },
+      {
+        "chapter": 10,
+        "verse": 1,
+        "file": "10-voorstel-regen-en-onderzoek.svg",
+        "scene": "Voorstel, regen en onderzoek",
+        "alt": "Voorstel, sanctie, tegenstemmen en tijdsverloop van het onderzoek.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1491
+      },
+      {
+        "chapter": 10,
+        "verse": 18,
+        "file": "10-priesters-en-dienstgroepen.svg",
+        "scene": "Priesters en dienstgroepen",
+        "alt": "Alle namen uit de genoemde priester- en dienstgroepen.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1326
+      },
+      {
+        "chapter": 10,
+        "verse": 25,
+        "file": "10-familienamen-en-onderscheid.svg",
+        "scene": "Families in de verdere lijst",
+        "alt": "Groepsindeling, herhaalde namen en de expliciete vermelding van kinderen.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1170
       }
     ],
     "nehemia": [
