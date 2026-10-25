@@ -34722,12 +34722,6 @@
         "height": 1024
       },
       {
-        "chapter": 20,
-        "file": "20-garden.webp",
-        "alt": "Maria Magdalena staat bij een open graf in een stille tuin bij zonsopgang",
-        "scene": "Het lege graf"
-      },
-      {
         "chapter": 7,
         "verse": 14,
         "file": "7-14.webp",
@@ -35192,98 +35186,140 @@
         "verse": 1,
         "file": "17-1.webp",
         "alt": "Beeld bij Johannes 17: Vader het uur is gekomen",
-        "scene": "Vader het uur is gekomen"
+        "scene": "Vader het uur is gekomen",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 17,
         "verse": 11,
         "file": "17-11.webp",
         "alt": "Beeld bij Johannes 17: Bewaar hen in Uw naam",
-        "scene": "Bewaar hen in Uw naam"
+        "scene": "Bewaar hen in Uw naam",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 17,
         "verse": 21,
         "file": "17-21.webp",
         "alt": "Beeld bij Johannes 17: Dat zij allen één zijn",
-        "scene": "Dat zij allen één zijn"
+        "scene": "Dat zij allen één zijn",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 18,
         "verse": 1,
         "file": "18-1.webp",
         "alt": "Beeld bij Johannes 18: Over de Kedronbeek",
-        "scene": "Over de Kedronbeek"
+        "scene": "Over de Kedronbeek",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 18,
         "verse": 11,
         "file": "18-11.webp",
         "alt": "Beeld bij Johannes 18: Het zwaard terug in de schede",
-        "scene": "Het zwaard terug in de schede"
+        "scene": "Het zwaard terug in de schede",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 18,
         "verse": 37,
         "file": "18-37.webp",
         "alt": "Beeld bij Johannes 18: Jezus antwoordt Pilatus",
-        "scene": "Jezus antwoordt Pilatus"
+        "scene": "Jezus antwoordt Pilatus",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 19,
         "verse": 17,
         "file": "19-17.webp",
         "alt": "Beeld bij Johannes 19: Jezus draagt het kruis",
-        "scene": "Jezus draagt het kruis"
+        "scene": "Jezus draagt het kruis",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 19,
         "verse": 30,
         "file": "19-30.webp",
         "alt": "Beeld bij Johannes 19: Het is volbracht",
-        "scene": "Het is volbracht"
+        "scene": "Het is volbracht",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 19,
         "verse": 41,
         "file": "19-41.webp",
         "alt": "Beeld bij Johannes 19: Een nieuw graf in de tuin",
-        "scene": "Een nieuw graf in de tuin"
+        "scene": "Een nieuw graf in de tuin",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 20,
         "verse": 16,
         "file": "20-16.webp",
         "alt": "Beeld bij Johannes 20: Maria herkent haar Meester",
-        "scene": "Maria herkent haar Meester"
+        "scene": "Maria herkent haar Meester",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 20,
         "verse": 27,
         "file": "20-27.webp",
         "alt": "Beeld bij Johannes 20: Thomas ziet en gelooft",
-        "scene": "Thomas ziet en gelooft"
+        "scene": "Thomas ziet en gelooft",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 21,
         "verse": 6,
         "file": "21-6.webp",
         "alt": "Beeld bij Johannes 21: Het net aan de rechterkant",
-        "scene": "Het net aan de rechterkant"
+        "scene": "Het net aan de rechterkant",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 21,
         "verse": 9,
         "file": "21-9.webp",
         "alt": "Beeld bij Johannes 21: Brood en vis op het kolenvuur",
-        "scene": "Brood en vis op het kolenvuur"
+        "scene": "Brood en vis op het kolenvuur",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 21,
         "verse": 17,
         "file": "21-17.webp",
         "alt": "Beeld bij Johannes 21: Petrus krijgt een opdracht",
-        "scene": "Petrus krijgt een opdracht"
+        "scene": "Petrus krijgt een opdracht",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 1,
@@ -36041,6 +36077,296 @@
         "file": "16-korte-tijd.svg",
         "scene": "Een korte tijd en blijvende vreugde",
         "alt": "Een korte tijd en blijvende vreugde met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1055
+      },
+      {
+        "chapter": 18,
+        "verse": 6,
+        "file": "18-6-deinzen-terug-verdieping.webp",
+        "scene": "De mannen deinzen terug",
+        "alt": "De mannen deinzen terug — Johannes 18:6; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 18,
+        "verse": 12,
+        "file": "18-12-gebonden-verdieping.webp",
+        "scene": "Jezus wordt gebonden",
+        "alt": "Jezus wordt gebonden — Johannes 18:12; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 18,
+        "verse": 19,
+        "file": "18-19-annas-verhoor-verdieping.webp",
+        "scene": "Annas ondervraagt Jezus",
+        "alt": "Annas ondervraagt Jezus — Johannes 18:19; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 18,
+        "verse": 18,
+        "file": "18-18-petrus-kolenvuur-verdieping.webp",
+        "scene": "Petrus bij het kolenvuur",
+        "alt": "Petrus bij het kolenvuur — Johannes 18:18; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 18,
+        "verse": 40,
+        "file": "18-40-barabbas-verdieping.webp",
+        "scene": "De menigte vraagt om Barabbas",
+        "alt": "De menigte vraagt om Barabbas — Johannes 18:40; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 19,
+        "verse": 5,
+        "file": "19-5-zie-de-mens-verdieping.webp",
+        "scene": "Jezus voor de menigte",
+        "alt": "Jezus voor de menigte — Johannes 19:5; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 19,
+        "verse": 24,
+        "file": "19-24-loten-kleed-verdieping.webp",
+        "scene": "De soldaten loten om het kleed",
+        "alt": "De soldaten loten om het kleed — Johannes 19:24; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 19,
+        "verse": 27,
+        "file": "19-27-moeder-leerling-verdieping.webp",
+        "scene": "De leerling neemt Jezus’ moeder op",
+        "alt": "De leerling neemt Jezus’ moeder op — Johannes 19:27; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 19,
+        "verse": 39,
+        "file": "19-39-nicodemus-specerijen-verdieping.webp",
+        "scene": "Nicodemus brengt specerijen",
+        "alt": "Nicodemus brengt specerijen — Johannes 19:39; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 20,
+        "verse": 4,
+        "file": "20-4-rennen-graf-verdieping.webp",
+        "scene": "Twee leerlingen rennen naar het graf",
+        "alt": "Twee leerlingen rennen naar het graf — Johannes 20:4; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 20,
+        "verse": 7,
+        "file": "20-7-doeken-apart-verdieping.webp",
+        "scene": "De hoofddoek ligt apart",
+        "alt": "De hoofddoek ligt apart — Johannes 20:7; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 20,
+        "verse": 12,
+        "file": "20-12-twee-engelen-verdieping.webp",
+        "scene": "Maria ziet twee engelen",
+        "alt": "Maria ziet twee engelen — Johannes 20:12; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 20,
+        "verse": 19,
+        "file": "20-19-gesloten-deuren-verdieping.webp",
+        "scene": "Jezus bij de verzamelde leerlingen",
+        "alt": "Jezus bij de verzamelde leerlingen — Johannes 20:19; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 21,
+        "verse": 3,
+        "file": "21-3-nacht-zonder-vangst-verdieping.webp",
+        "scene": "Een nacht zonder vangst",
+        "alt": "Een nacht zonder vangst — Johannes 21:3; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 21,
+        "verse": 7,
+        "file": "21-7-petrus-naar-jezus-verdieping.webp",
+        "scene": "Petrus gaat het water in",
+        "alt": "Petrus gaat het water in — Johannes 21:7; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 21,
+        "verse": 13,
+        "file": "21-13-ontbijt-aan-oever-verdieping.webp",
+        "scene": "Jezus deelt brood en vis",
+        "alt": "Jezus deelt brood en vis — Johannes 21:13; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 21,
+        "verse": 20,
+        "file": "21-20-volg-mij-verdieping.webp",
+        "scene": "Petrus kijkt naar de volgende leerling",
+        "alt": "Petrus kijkt naar de volgende leerling — Johannes 21:20; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 20,
+        "file": "20-1-graf-in-het-donker-v2.webp",
+        "alt": "Maria Magdalena staat bij een open graf in een stille tuin bij zonsopgang",
+        "scene": "Het lege graf",
+        "verse": 1,
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 17,
+        "verse": 1,
+        "file": "17-leeswijzer.svg",
+        "scene": "Jezus’ gebed tot de Vader",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1012
+      },
+      {
+        "chapter": 18,
+        "verse": 1,
+        "file": "18-leeswijzer.svg",
+        "scene": "Tuin, binnenplaats en rechtbank",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1055
+      },
+      {
+        "chapter": 19,
+        "verse": 1,
+        "file": "19-leeswijzer.svg",
+        "scene": "Veroordeling, kruis en graf",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1055
+      },
+      {
+        "chapter": 20,
+        "verse": 1,
+        "file": "20-leeswijzer.svg",
+        "scene": "Zien, geloven en leven",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1012
+      },
+      {
+        "chapter": 21,
+        "verse": 1,
+        "file": "21-leeswijzer.svg",
+        "scene": "Aan het Meer van Tiberias",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1055
+      },
+      {
+        "chapter": 17,
+        "verse": 9,
+        "file": "17-gebed-voor-wie.svg",
+        "scene": "Voor wie bidt Jezus?",
+        "alt": "Voor wie bidt Jezus? met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1012
+      },
+      {
+        "chapter": 18,
+        "verse": 13,
+        "file": "18-verhoorroute.svg",
+        "scene": "Van tuin naar Pilatus",
+        "alt": "Van tuin naar Pilatus met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1055
+      },
+      {
+        "chapter": 19,
+        "verse": 19,
+        "file": "19-opschrift.svg",
+        "scene": "Het opschrift bij het kruis",
+        "alt": "Het opschrift bij het kruis met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1055
+      },
+      {
+        "chapter": 20,
+        "verse": 19,
+        "file": "20-verschijningen.svg",
+        "scene": "De twee avonden onderscheiden",
+        "alt": "De twee avonden onderscheiden met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1055
+      },
+      {
+        "chapter": 21,
+        "verse": 15,
+        "file": "21-drie-opdrachten.svg",
+        "scene": "Drie vragen aan Petrus",
+        "alt": "Drie vragen aan Petrus met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 863
+      },
+      {
+        "chapter": 21,
+        "verse": 23,
+        "file": "21-gerucht.svg",
+        "scene": "Wat Jezus wel en niet zei",
+        "alt": "Wat Jezus wel en niet zei met gecontroleerde tekstgegevens.",
         "kind": "diagram",
         "width": 840,
         "height": 1055
