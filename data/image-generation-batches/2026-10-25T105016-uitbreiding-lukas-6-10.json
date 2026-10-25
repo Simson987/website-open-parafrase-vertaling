@@ -1,0 +1,592 @@
+{
+  "date": "2026-10-25",
+  "started": "2026-10-25T10:50:16Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "lukas",
+      "chapter": 6,
+      "verse": 12,
+      "file": "6-12-nacht-gebed-verdieping.webp",
+      "scene": "Jezus bidt de hele nacht",
+      "alt": "Jezus bidt de hele nacht — Lukas 6:12; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. A solitary robed Jewish man prays on a rocky Galilean mountain under a quiet starry sky, realistic moonlight.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "lukas",
+      "chapter": 6,
+      "verse": 38,
+      "file": "6-38-overlopende-maat-verdieping.webp",
+      "scene": "Lesbeeld: een overlopende maat",
+      "alt": "Lesbeeld: een overlopende maat — Lukas 6:38; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. A generous wooden grain measure heaped overflowing with wheat, resting above a folded wool garment on a first-century stone bench, no people or writing.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "lukas",
+      "chapter": 6,
+      "verse": 48,
+      "file": "6-48-huis-rots-verdieping.webp",
+      "scene": "Gelijkenis: het huis op de rots",
+      "alt": "Gelijkenis: het huis op de rots — Lukas 6:48; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. An ancient stone house with foundations deeply embedded in solid bedrock remains steady while a flood surges around its base; no people or modern buildings.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "lukas",
+      "chapter": 7,
+      "verse": 10,
+      "file": "7-10-dienaar-gezond-verdieping.webp",
+      "scene": "De boodschappers vinden de dienaar gezond",
+      "alt": "De boodschappers vinden de dienaar gezond — Lukas 7:10; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. Two clothed ancient adult messengers return to a Roman household and greet a healthy clothed adult servant standing beside a simple bed, friendly relief.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "lukas",
+      "chapter": 7,
+      "verse": 20,
+      "file": "7-20-twee-boodschappers-verdieping.webp",
+      "scene": "Twee leerlingen brengen Johannes’ vraag",
+      "alt": "Twee leerlingen brengen Johannes’ vraag — Lukas 7:20; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. Exactly two adult messengers speak to a Jewish teacher on a village road with a few other listening adults, daylight.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "lukas",
+      "chapter": 7,
+      "verse": 50,
+      "file": "7-50-vrouw-vrede-verdieping.webp",
+      "scene": "De vrouw mag in vrede gaan",
+      "alt": "De vrouw mag in vrede gaan — Lukas 7:50; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. A fully clothed adult woman holding a small alabaster perfume vessel looks relieved while a Jewish teacher speaks gently to her in a first-century dining courtyard; other adults at low table.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "lukas",
+      "chapter": 8,
+      "verse": 3,
+      "file": "8-3-vrouwen-ondersteunen-verdieping.webp",
+      "scene": "Vrouwen ondersteunen de verkondiging",
+      "alt": "Vrouwen ondersteunen de verkondiging — Lukas 8:3; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. Three adult Jewish women in long modest robes and head coverings bring bread and supplies to a small travelling group of robed adult men on a Galilean road, natural hands.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "lukas",
+      "chapter": 8,
+      "verse": 35,
+      "file": "8-35-man-gekleed-verdieping.webp",
+      "scene": "De bevrijde man zit gekleed bij Jezus",
+      "alt": "De bevrijde man zit gekleed bij Jezus — Lukas 8:35; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. A calm fully clothed adult man in a clean long tunic sits listening at a Jewish teacher’s feet beside a lakeshore, local adults look on amazed, no chains or injury.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "lukas",
+      "chapter": 8,
+      "verse": 39,
+      "file": "8-39-man-vertelt-verdieping.webp",
+      "scene": "De man vertelt thuis wat God deed",
+      "alt": "De man vertelt thuis wat God deed — Lukas 8:39; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. A fully clothed adult man in a plain tunic joyfully speaks to several adult neighbors in an ancient village doorway, daylight.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "lukas",
+      "chapter": 8,
+      "verse": 44,
+      "file": "8-44-mantelzoom-verdieping.webp",
+      "scene": "De vrouw raakt de mantelzoom aan",
+      "alt": "De vrouw raakt de mantelzoom aan — Lukas 8:44; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. A fully modestly robed adult woman reaches with one hand toward the lower hem of the cloak of an adult Jewish teacher walking through a peaceful village crowd. Clear hands, no medical imagery.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "lukas",
+      "chapter": 8,
+      "verse": 55,
+      "file": "8-55-meisje-opstaat-verdieping.webp",
+      "scene": "Het meisje staat op",
+      "alt": "Het meisje staat op — Lukas 8:55; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. A healthy girl wearing a long plain tunic stands beside her bed between her fully clothed parents and an adult Jewish teacher, warm domestic daylight, peaceful family reunion.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "lukas",
+      "chapter": 9,
+      "verse": 6,
+      "file": "9-6-dorpen-uitgezonden-verdieping.webp",
+      "scene": "De twaalf trekken door de dorpen",
+      "alt": "De twaalf trekken door de dorpen — Lukas 9:6; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. Four fully robed adult Jewish messengers walk in two pairs toward an ancient Galilean village. No walking staffs, bags, food bundles or spare clothing; ordinary sandals and worn tunics.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "lukas",
+      "chapter": 9,
+      "verse": 42,
+      "file": "9-42-zoon-vader-verdieping.webp",
+      "scene": "Jezus geeft de zoon aan zijn vader",
+      "alt": "Jezus geeft de zoon aan zijn vader — Lukas 9:42; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. A Jewish teacher warmly guides a healthy fully clothed boy toward his joyful fully clothed father near a village crowd, no illness visible, separate natural hands.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "lukas",
+      "chapter": 9,
+      "verse": 47,
+      "file": "9-47-kind-naast-verdieping.webp",
+      "scene": "Jezus zet een kind naast zich",
+      "alt": "Jezus zet een kind naast zich — Lukas 9:47; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. A fully robed Jewish teacher stands beside a child wearing a long tunic while adult disciples listen, teacher gently gestures to child, stone village setting.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "lukas",
+      "chapter": 9,
+      "verse": 56,
+      "file": "9-56-ander-dorp-verdieping.webp",
+      "scene": "Zij gaan naar een ander dorp",
+      "alt": "Zij gaan naar een ander dorp — Lukas 9:56; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. A Jewish teacher and adult disciples calmly leave a Samaritan stone village along a hillside path, peaceful sky without fire or violence.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "lukas",
+      "chapter": 9,
+      "verse": 62,
+      "file": "9-62-ploeg-achterom-verdieping.webp",
+      "scene": "Lesbeeld: de hand aan de ploeg",
+      "alt": "Lesbeeld: de hand aan de ploeg — Lukas 9:62; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. A fully clothed ancient farmer grips a simple wooden plow in a field while looking back over his shoulder, one pair of oxen, realistic coherent farm equipment.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "lukas",
+      "chapter": 10,
+      "verse": 17,
+      "file": "10-17-zeventig-terug-verdieping.webp",
+      "scene": "De zeventig keren blij terug",
+      "alt": "De zeventig keren blij terug — Lukas 10:17; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. Several robed adult messengers joyfully report to a Jewish teacher beside a Galilean village, no bags or travel packs, natural hands.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "lukas",
+      "chapter": 10,
+      "verse": 35,
+      "file": "10-35-twee-penningen-verdieping.webp",
+      "scene": "Gelijkenis: de waard ontvangt twee penningen",
+      "alt": "Gelijkenis: de waard ontvangt twee penningen — Lukas 10:35; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. A fully clothed ancient traveller hands exactly two small silver coins to an innkeeper at a stone inn doorway; both have separate hands, no writing or injured people.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "lukas",
+      "chapter": 10,
+      "verse": 40,
+      "file": "10-40-martha-vraagt-verdieping.webp",
+      "scene": "Martha spreekt Jezus aan",
+      "alt": "Martha spreekt Jezus aan — Lukas 10:40; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. A fully clothed adult woman in a plain long robe and head covering holds a serving bowl while speaking to a seated Jewish teacher, another adult woman sits listening nearby in a first-century home.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "lukas",
+      "verse": 16,
+      "chapter": 9,
+      "file": "9-16-vijf-broden-twee-vissen.webp",
+      "scene": "Vijf broden en twee vissen",
+      "alt": "Precies vijf broden en twee vissen — Lukas 9:16.",
+      "prompt": "Edit only the bread in the basket for Luke 9:16. Show exactly FIVE distinct small loaves, clearly countable: three along the back of the basket and two at the front, with visible spacing. Keep exactly two fish, the basket, Jesus, his two hands, all other people, scene and light unchanged. Remove the extra sixth loaf; no additional bread elsewhere.",
+      "kind": "scene",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "lukas",
+      "verse": 1,
+      "chapter": 10,
+      "file": "10-1-zonder-reistassen.webp",
+      "scene": "Twee aan twee vooruit, zonder reistassen",
+      "alt": "Twee aan twee vooruit zonder geldbuidel of reistas — Lukas 10:1–4.",
+      "prompt": "Edit only the travel equipment for Luke 10:1–4. Remove EVERY shoulder bag, purse and bag strap from every departing messenger, including small figures in the distance. Remove any rolled spare garments or bundles. Restore their ordinary long tunics naturally. Keep all people, pairs, walking poses, staffs, worn sandals, scenery and light unchanged. Correct coherent arms and hands.",
+      "kind": "scene",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "lukas",
+      "chapter": 6,
+      "verse": 1,
+      "file": "6-leeswijzer.svg",
+      "scene": "Twaalf, liefde en gehoorzaamheid",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 949,
+      "source": "Lukas 6:1–49",
+      "design": {
+        "rows": [
+          [
+            "Sabbat en twaalf · 1–19",
+            "Aren, rechterhand, nachtelijk gebed en twaalf namen; vlakke plaats en genezing."
+          ],
+          [
+            "Gelukkig en wee · 20–26",
+            "Arm/rijk, honger/verzadigd, huilen/lachen en afgewezen/geprezen."
+          ],
+          [
+            "Onderwijs · 27–49",
+            "Vijanden lief, geven, oordeel en vergeving; blinden, balk, boom en huizen; horen én doen."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "lukas",
+      "chapter": 7,
+      "verse": 1,
+      "file": "7-leeswijzer.svg",
+      "scene": "Gezag, getuigen en vergeving",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 863,
+      "source": "Lukas 7:1–50",
+      "design": {
+        "rows": [
+          [
+            "Hoofdman · 1–10",
+            "Joodse leiders en vrienden brengen verzoek; dienaar gezond gevonden."
+          ],
+          [
+            "Naïn en Johannes · 11–35",
+            "Weduwes enige zoon; twee boodschappers, tekenen en oordeel over reacties."
+          ],
+          [
+            "Simon en de vrouw · 36–50",
+            "Voeten, liefde en twee schuldenaars; vergeving en vrede."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "lukas",
+      "chapter": 8,
+      "verse": 1,
+      "file": "8-leeswijzer.svg",
+      "scene": "Horen, vertrouwen en redding",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 906,
+      "source": "Lukas 8:1–56",
+      "design": {
+        "rows": [
+          [
+            "Reizen en luisteren · 1–21",
+            "Twaalf en ondersteunende vrouwen; zaaier, lamp en familie."
+          ],
+          [
+            "Overkant · 22–39",
+            "Storm, Gadarenen, bevrijde man gekleed en terug naar huis vertellen."
+          ],
+          [
+            "Terug · 40–56",
+            "Jaïrus, vrouw met twaalf jaar lijden en dochter van ongeveer twaalf; hand, opstaan en eten."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "lukas",
+      "chapter": 9,
+      "verse": 1,
+      "file": "9-leeswijzer.svg",
+      "scene": "Wie Jezus is en wat volgen vraagt",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 992,
+      "source": "Lukas 9:1–62",
+      "design": {
+        "rows": [
+          [
+            "Zending en maaltijd · 1–17",
+            "Twaalf zonder staf of bagage; Herodes; vijf broden, twee vissen, groepen vijftig en twaalf manden."
+          ],
+          [
+            "Belijdenis en berg · 18–36",
+            "Petrus, lijden en dagelijks kruis; na ongeveer acht dagen berg, Mozes/Elia, wolk/stem."
+          ],
+          [
+            "Onderweg · 37–62",
+            "Zoon aan vader, overlevering, minste kind, andere uitdrijver; Samaria en drie volgvragen."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "lukas",
+      "chapter": 10,
+      "verse": 1,
+      "file": "10-leeswijzer.svg",
+      "scene": "Zending, naaste en luisteren",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 949,
+      "source": "Lukas 10:1–42",
+      "design": {
+        "rows": [
+          [
+            "Zeventig · 1–24",
+            "Twee aan twee, vrede en ontvangst, steden en oordeel; terugkeer, vreugde en openbaring."
+          ],
+          [
+            "Naaste · 25–37",
+            "Liefdegebod; gewonde reiziger, priester, Leviet, Samaritaan en waard; barmhartigheid doen."
+          ],
+          [
+            "Huis · 38–42",
+            "Martha zorgt en vraagt; Maria luistert; één ding nodig."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "lukas",
+      "chapter": 6,
+      "verse": 13,
+      "file": "6-twaalf-namen.svg",
+      "scene": "De twaalf gekozen apostelen",
+      "alt": "De twaalf gekozen apostelen met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 863,
+      "source": "Lukas 6:13–16",
+      "design": {
+        "rows": [
+          [
+            "Eerste zes · 14",
+            "Simon/Petrus, Andreas, Jakobus, Johannes, Filippus, Bartholomeüs."
+          ],
+          [
+            "Volgende vier · 15",
+            "Mattheüs, Thomas, Jakobus zoon Alfeüs, Simon de Zeloot."
+          ],
+          [
+            "Laatste twee · 16",
+            "Judas broer Jakobus; Judas Iskariot, later verrader."
+          ]
+        ],
+        "note": "De verwantschapsaanduiding volgt letterlijk deze plaatselijke vertaling."
+      }
+    },
+    {
+      "book": "lukas",
+      "chapter": 6,
+      "verse": 20,
+      "file": "6-gelukkig-en-wee.svg",
+      "scene": "Vier uitspraken en vier weeën",
+      "alt": "Vier uitspraken en vier weeën met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1012,
+      "source": "Lukas 6:20–26",
+      "design": {
+        "rows": [
+          [
+            "Arm ↔ rijk",
+            "Koninkrijk tegenover al ontvangen troost."
+          ],
+          [
+            "Honger ↔ volop eten",
+            "Verzadigd worden tegenover later hongeren."
+          ],
+          [
+            "Huilen ↔ lachen",
+            "Later lachen tegenover later treuren."
+          ],
+          [
+            "Afgewezen ↔ geprezen",
+            "Om Mensenzoon, profeten; algemene lof en valse profeten."
+          ]
+        ],
+        "note": "Uitspraken uit de toespraak; geen individuele levensvoorspellingen toegevoegd."
+      }
+    },
+    {
+      "book": "lukas",
+      "chapter": 7,
+      "verse": 41,
+      "file": "7-twee-schulden.svg",
+      "scene": "Twee kwijtgescholden schulden",
+      "alt": "Twee kwijtgescholden schulden met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 906,
+      "source": "Lukas 7:41–47",
+      "design": {
+        "rows": [
+          [
+            "Eén geldschieter",
+            "Twee schuldenaars kunnen geen van beiden betalen."
+          ],
+          [
+            "Bedragen",
+            "Eén: 500 penningen. Ander: 50 penningen."
+          ],
+          [
+            "Vraag en antwoord",
+            "Beiden kwijtgescholden; wie meest lief? Degene met grootste kwijtgescholden schuld."
+          ]
+        ],
+        "note": "Een onderwijsverhaal, geen gerapporteerde boekhouding."
+      }
+    },
+    {
+      "book": "lukas",
+      "chapter": 8,
+      "verse": 5,
+      "file": "8-zaad-en-horen.svg",
+      "scene": "Vier plaatsen voor het zaad",
+      "alt": "Vier plaatsen voor het zaad met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 969,
+      "source": "Lukas 8:5–15",
+      "design": {
+        "rows": [
+          [
+            "Weg · 5 en 12",
+            "Vertrapt/vogels; woord weggenomen."
+          ],
+          [
+            "Rots · 6 en 13",
+            "Geen vocht/wortel; tijdelijk geloof, beproeving."
+          ],
+          [
+            "Dorens · 7 en 14",
+            "Zorgen, rijkdom en genoegens verstikken."
+          ],
+          [
+            "Goede grond · 8 en 15",
+            "Honderdvoudig; vasthouden en volhouden."
+          ]
+        ],
+        "note": "Dit hoofdstuk noemt honderdvoudig; geen dertig of zestig toegevoegd."
+      }
+    },
+    {
+      "book": "lukas",
+      "chapter": 9,
+      "verse": 1,
+      "file": "9-zending-en-groepen.svg",
+      "scene": "Opdrachten en aantallen",
+      "alt": "Opdrachten en aantallen met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 906,
+      "source": "Lukas 9:1–17",
+      "design": {
+        "rows": [
+          [
+            "De twaalf · 1–6",
+            "Verkondigen en genezen; geen staf, tas, brood, geld of extra kleding."
+          ],
+          [
+            "De maaltijd · 13–16",
+            "Vijf broden en twee vissen; ongeveer vijfduizend mannen, groepen ongeveer vijftig."
+          ],
+          [
+            "Wat overblijft · 17",
+            "Allen verzadigd; twaalf manden broodstukken."
+          ]
+        ],
+        "note": "Geen staven uit Markus’ zending of groepen honderd uit een ander hoofdstuk toegevoegd."
+      }
+    },
+    {
+      "book": "lukas",
+      "chapter": 10,
+      "verse": 30,
+      "file": "10-drie-voorbijgangers.svg",
+      "scene": "Wie werd de naaste?",
+      "alt": "Wie werd de naaste? met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1048,
+      "source": "Lukas 10:30–37",
+      "design": {
+        "rows": [
+          [
+            "Priester · 31",
+            "Ziet en gaat voorbij."
+          ],
+          [
+            "Leviet · 32",
+            "Ziet en gaat voorbij."
+          ],
+          [
+            "Samaritaan · 33–35",
+            "Ziet, ontfermt, verbindt, vervoert en verzorgt; twee penningen en terugkeerbelofte."
+          ],
+          [
+            "Toepassing · 36–37",
+            "Wie medelijden had; ga en doe hetzelfde."
+          ]
+        ],
+        "note": "Geen plattegrond van een vastgestelde historische overval; dit is Jezus’ antwoordverhaal."
+      }
+    }
+  ]
+}
