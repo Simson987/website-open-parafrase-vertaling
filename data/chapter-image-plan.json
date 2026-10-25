@@ -9107,6 +9107,176 @@
           "source": "2 Koningen 17:24–41"
         }
       ]
+    },
+    {
+      "book": "2koningen",
+      "chapter": 22,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Boekoverdracht en Hulda zijn aanwezig. Josia’s reactie wordt een aparte scène; twee schema’s volgen de rol en maken de tweeledige boodschap duidelijk.",
+      "additions": [
+        {
+          "verse": 11,
+          "scene": "Josia reageert op het wetboek",
+          "kind": "scene",
+          "file": "22-11-inhoudelijk.webp"
+        },
+        {
+          "verse": 8,
+          "file": "22-weg-van-het-wetboek.svg",
+          "scene": "De weg van het wetboek",
+          "kind": "diagram",
+          "source": "2 Koningen 22:8–14"
+        },
+        {
+          "verse": 15,
+          "file": "22-hulda-antwoord.svg",
+          "scene": "Hulda’s tweeledige antwoord",
+          "kind": "diagram",
+          "source": "2 Koningen 22:15–20"
+        }
+      ]
+    },
+    {
+      "book": "2koningen",
+      "chapter": 23,
+      "status": "reviewed",
+      "target_images": 8,
+      "reason": "Verbond, verbranding en pascha zijn aanwezig. Paarden wegleiden en het graf sparen zijn afzonderlijke hervormingshandelingen. Drie overzichten leggen plaatsen, oordeel en opvolging uit.",
+      "additions": [
+        {
+          "verse": 11,
+          "scene": "De aan de zon gewijde paarden verdwijnen",
+          "kind": "scene",
+          "file": "23-11-inhoudelijk.webp"
+        },
+        {
+          "verse": 17,
+          "scene": "Josia vraagt naar het grafteken",
+          "kind": "scene",
+          "file": "23-17-inhoudelijk.webp"
+        },
+        {
+          "verse": 4,
+          "file": "23-hervorming-plaatsen.svg",
+          "scene": "Hervorming op vele plaatsen",
+          "kind": "diagram",
+          "source": "2 Koningen 23:4–20"
+        },
+        {
+          "verse": 21,
+          "file": "23-pascha-en-oordeel.svg",
+          "scene": "Pascha en blijvend oordeel",
+          "kind": "diagram",
+          "source": "2 Koningen 23:21–27"
+        },
+        {
+          "verse": 29,
+          "file": "23-na-josias-dood.svg",
+          "scene": "Na Josia’s dood",
+          "kind": "diagram",
+          "source": "2 Koningen 23:29–37"
+        }
+      ]
+    },
+    {
+      "book": "2koningen",
+      "chapter": 24,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Beleg, overgave en deportatie zijn aanwezig. Schatzending en aanstelling van Mattanja zijn andere gebeurtenissen; het schema voorkomt verwarring van drie koningen.",
+      "additions": [
+        {
+          "verse": 13,
+          "scene": "De schatten worden weggevoerd",
+          "kind": "scene",
+          "file": "24-13-inhoudelijk.webp"
+        },
+        {
+          "verse": 17,
+          "scene": "Mattanja krijgt de naam Zedekia",
+          "kind": "scene",
+          "file": "24-17-inhoudelijk.webp"
+        },
+        {
+          "verse": 1,
+          "file": "24-drie-koningen-babel.svg",
+          "scene": "Drie koningen en Babel",
+          "kind": "diagram",
+          "source": "2 Koningen 24:1–20"
+        }
+      ]
+    },
+    {
+      "book": "2koningen",
+      "chapter": 25,
+      "status": "reviewed",
+      "target_images": 9,
+      "reason": "Brand, boeren en Jojachins maaltijd zijn aanwezig. Nachtelijke vlucht, Gedalia en tocht naar Egypte ontbreken; drie schema’s bewaken data, familie en de lange termijn.",
+      "additions": [
+        {
+          "verse": 4,
+          "scene": "Zedekia verlaat de stad in de nacht",
+          "kind": "scene",
+          "file": "25-4-inhoudelijk.webp"
+        },
+        {
+          "verse": 24,
+          "scene": "Gedalia spreekt de achterblijvers toe",
+          "kind": "scene",
+          "file": "25-24-inhoudelijk.webp"
+        },
+        {
+          "verse": 26,
+          "scene": "De achterblijvers trekken naar Egypte",
+          "kind": "scene",
+          "file": "25-26-inhoudelijk.webp"
+        },
+        {
+          "verse": 1,
+          "file": "25-beleg-en-verwoesting.svg",
+          "scene": "Beleg, bres en verwoesting",
+          "kind": "diagram",
+          "source": "2 Koningen 25:1–21"
+        },
+        {
+          "verse": 22,
+          "file": "25-gedalia-en-egypte.svg",
+          "scene": "Gedalia en de tocht naar Egypte",
+          "kind": "diagram",
+          "source": "2 Koningen 25:22–26"
+        },
+        {
+          "verse": 27,
+          "file": "25-jojachins-vrijlating.svg",
+          "scene": "Jojachins vrijlating",
+          "kind": "diagram",
+          "source": "2 Koningen 25:27–30"
+        }
+      ]
+    },
+    {
+      "book": "2koningen",
+      "chapter": 21,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Altaren, profeten en Josia’s uitroeping zijn aanwezig. Bronvaste schema’s verklaren de oordeelstaal en de drie generaties; extra geweldscènes voegen niets bruikbaars toe.",
+      "additions": [
+        {
+          "verse": 10,
+          "file": "21-oordeel-en-beeldspraak.svg",
+          "scene": "Oordeel en beeldspraak",
+          "kind": "diagram",
+          "source": "2 Koningen 21:10–16"
+        },
+        {
+          "verse": 18,
+          "file": "21-manasse-amon-josia.svg",
+          "scene": "Manasse, Amon en Josia",
+          "kind": "diagram",
+          "source": "2 Koningen 21:1, 18–26; 22:1"
+        }
+      ]
     }
   ]
 }
