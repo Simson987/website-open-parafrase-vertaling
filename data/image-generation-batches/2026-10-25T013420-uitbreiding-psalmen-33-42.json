@@ -1,0 +1,372 @@
+{
+  "date": "2026-10-25",
+  "started": "2026-10-25T01:34:20Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "psalmen",
+      "chapter": 34,
+      "verse": 1,
+      "scene": "Bij het opschrift: David mag vertrekken",
+      "alt": "Bij het opschrift: David mag vertrekken — Psalm 34:1; illustratie bij het historische opschrift.",
+      "kind": "scene",
+      "file": "34-1-verdieping.webp",
+      "prompt": "Photorealistic Bible educational illustration, landscape 3:2, ancient Near Eastern stone architecture and natural materials. No readable lettering, watermark, modern objects or visible deity. Modest opaque clothing and coherent natural anatomy. An adult ancient Near Eastern fugitive David in plain worn woven robes walks away through a stone city gate while two adult guards remain behind inside, allowing his departure. No crown, triumphal entry, injuries, mockery or caricature of mental illness. This illustrates only his allowed departure in the local psalm superscription about Abimelech.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "psalmen",
+      "chapter": 37,
+      "verse": 35,
+      "scene": "Beeldspraak: machtig als een boom",
+      "alt": "Beeldspraak: machtig als een boom — Psalm 37:35; illustratie bij het gedicht.",
+      "kind": "poetic",
+      "file": "37-35-verdieping.webp",
+      "prompt": "Photorealistic Bible educational illustration, landscape 3:2, ancient Near Eastern stone architecture and natural materials. No readable lettering, watermark, modern objects or visible deity. Modest opaque clothing and coherent natural anatomy. A single enormous spreading green tree dominates a fertile Near Eastern hillside, lush branches and thick trunk against small distant village buildings. No human head in the tree, no king on it, no modern objects. This evokes the psalm’s remembered comparison of a ruthless powerful man to a flourishing native tree, his apparent permanence before his disappearance.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "psalmen",
+      "chapter": 40,
+      "verse": 3,
+      "scene": "Beeldspraak: de modderige put",
+      "alt": "Beeldspraak: de modderige put — Psalm 40:3; illustratie bij het gedicht.",
+      "kind": "poetic",
+      "file": "40-3-verdieping.webp",
+      "prompt": "Photorealistic Bible educational illustration, landscape 3:2, ancient Near Eastern stone architecture and natural materials. No readable lettering, watermark, modern objects or visible deity. Modest opaque clothing and coherent natural anatomy. A close wide view into an empty rough ancient rock pit containing thick mud and dark shallow water at the bottom, contrasted with firm sunlit dry rock at its upper rim. No trapped person or animal, rope around anyone, accident, giant hand or deity. An evocative still landscape of the psalm’s contrast between miry pit and secure rock.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "psalmen",
+      "chapter": 42,
+      "verse": 5,
+      "scene": "Herinnering: mee in de feeststoet",
+      "alt": "Herinnering: mee in de feeststoet — Psalm 42:5; illustratie bij het gedicht.",
+      "kind": "poetic",
+      "file": "42-5-verdieping.webp",
+      "prompt": "Photorealistic Bible educational illustration, landscape 3:2, ancient Near Eastern stone architecture and natural materials. No readable lettering, watermark, modern objects or visible deity. Modest opaque clothing and coherent natural anatomy. A remembered scene of ancient Israelite worshippers men and women in modest woven robes walking together uphill toward a simple sanctuary courtyard, singing with joy and thanksgiving, a few small hand instruments. No crowned David or named individual, no modern building, no visible deity. Warm nostalgic light. The psalm is attributed to the sons of Korah; this visualizes the speaker’s remembered festive procession, not a newly occurring festival.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "psalmen",
+      "chapter": 33,
+      "verse": 2,
+      "file": "33-tien-snaren.svg",
+      "scene": "Tien snaren bij de lof",
+      "alt": "Tien snaren bij de lof — Psalm 33:2",
+      "kind": "diagram",
+      "width": 840,
+      "height": 790,
+      "source": "Psalm 33:2",
+      "design": {
+        "type": "schematic string instrument",
+        "strings": 10,
+        "source_verse": 2,
+        "note": "Schematische voorstelling; de tien lijnen geven het genoemde aantal snaren weer."
+      }
+    },
+    {
+      "book": "psalmen",
+      "chapter": 34,
+      "verse": 1,
+      "file": "34-ervaring-lof-en-onderricht.svg",
+      "scene": "Ervaring, lof en onderricht",
+      "alt": "De beweging van het opschrift via lof naar ethisch onderricht en bemoediging.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1127,
+      "source": "Psalm 34:1–23",
+      "design": {
+        "rows": [
+          [
+            "Opschrift · 1",
+            "David wordt bij Abimelech weggestuurd en kan vertrekken."
+          ],
+          [
+            "Samen loven · 2–11",
+            "Zoeken, antwoord, redding en proeven van goedheid."
+          ],
+          [
+            "Leren · 12–15",
+            "Luisteren, eerlijk spreken, goed doen en vrede najagen."
+          ],
+          [
+            "Nabijheid · 16–23",
+            "Gehoord geroep, gebroken harten, tegenslag en vrijgekocht leven."
+          ]
+        ],
+        "note": "De herinnering aan redding leidt naar lof en vervolgens naar onderricht. Het hoofdstuk verbindt vertrouwen met concreet spreken en handelen."
+      }
+    },
+    {
+      "book": "psalmen",
+      "chapter": 35,
+      "verse": 1,
+      "file": "35-drie-beden-om-recht.svg",
+      "scene": "Drie beden om recht",
+      "alt": "Drie opeenvolgende gebedsgroepen en het contrast van eerdere zorg met huidige vijandschap.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 942,
+      "source": "Psalm 35:1–28",
+      "design": {
+        "rows": [
+          [
+            "Eerste bede · 1–10",
+            "Strijd voor mijn zaak; verborgen net en kuil keren op de dader terug."
+          ],
+          [
+            "Tweede bede · 11–18",
+            "Valse getuigen en kwaad voor goed; vroegere zorg wordt met spot beantwoord."
+          ],
+          [
+            "Derde bede · 19–28",
+            "Zwijg niet bij bedrog; doe recht en laat de vrienden van het recht juichen."
+          ]
+        ],
+        "note": "Schild, speer, kaf, net en leeuwen vormen de beeldtaal van de klacht. Het herhaalde doel is recht, redding en lof in de samenkomst."
+      }
+    },
+    {
+      "book": "psalmen",
+      "chapter": 36,
+      "verse": 2,
+      "file": "36-bedrog-en-onmetelijke-trouw.svg",
+      "scene": "Bedrog en onmetelijke trouw",
+      "alt": "De tegenstelling tussen zelfmisleiding en de breedte van Gods trouw.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1170,
+      "source": "Psalm 36:2–13",
+      "design": {
+        "rows": [
+          [
+            "Zelfmisleiding · 2–5",
+            "Geen ontzag, zichzelf goedpraten, bedrieglijke woorden en beraamd onrecht."
+          ],
+          [
+            "Omvattende trouw · 6–7",
+            "Hemel en wolken, hoge bergen en diepe zee."
+          ],
+          [
+            "Ontvangen leven · 8–10",
+            "Vleugels, huis, vreugdebeek, levensbron en licht."
+          ],
+          [
+            "Gebed · 11–13",
+            "Blijf trouw en bescherm tegen de macht van onrecht."
+          ]
+        ],
+        "note": "De omvang van trouw en gerechtigheid wordt met hoogten en diepten verbeeld. De levensbron staat binnen diezelfde belijdenis van ontvangen goedheid."
+      }
+    },
+    {
+      "book": "psalmen",
+      "chapter": 37,
+      "verse": 1,
+      "file": "37-wachten-doen-en-toekomst.svg",
+      "scene": "Wachten, doen en toekomst",
+      "alt": "De instructies, contrasten en afsluitende toekomstvergelijking van de lange wijsheidpsalm.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1091,
+      "source": "Psalm 37:1–40",
+      "design": {
+        "rows": [
+          [
+            "Begin · 1–11",
+            "Geen afgunst of drift; vertrouwen, goed doen en wachten."
+          ],
+          [
+            "Twee levenswijzen · 12–26",
+            "Bedreiging en bezitsdrang tegenover recht, mededogen en geven."
+          ],
+          [
+            "De weg bewaren · 27–34",
+            "Goed doen, wijs spreken en op de HEERE wachten."
+          ],
+          [
+            "Einde · 35–40",
+            "De machtige boom verdwijnt; het einde van de eerlijke is vrede en redding."
+          ]
+        ],
+        "note": "Het wijsheidslied spreekt een hoorder aan die de voorspoed van onrecht ziet. Het verbindt geduld met actief goeddoen en een blik op het einde."
+      }
+    },
+    {
+      "book": "psalmen",
+      "chapter": 38,
+      "verse": 2,
+      "file": "38-schuld-ziekte-en-eenzaamheid.svg",
+      "scene": "Schuld, ziekte en eenzaamheid",
+      "alt": "De verbinding tussen lichamelijke klacht, eenzaamheid, belijdenis en hulpgeroep.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1091,
+      "source": "Psalm 38:2–23",
+      "design": {
+        "rows": [
+          [
+            "Lichaam en schuld · 2–11",
+            "Last, pijn, koorts, zuchten en verlies van kracht."
+          ],
+          [
+            "Mensen rondom · 12–15",
+            "Vrienden blijven weg; vijanden smeden plannen; de bidder zwijgt."
+          ],
+          [
+            "Belijden en hopen · 16–21",
+            "Hij verwacht antwoord, erkent schuld en noemt kwaad dat voor goed vergolden wordt."
+          ],
+          [
+            "Laatste roep · 22–23",
+            "Verlaat mij niet; kom mij snel te hulp."
+          ]
+        ],
+        "note": "Dit gedicht geeft de bidder een stem in pijn en schuld. De sociale afstand en het gehoopte antwoord horen bij dezelfde nood."
+      }
+    },
+    {
+      "book": "psalmen",
+      "chapter": 39,
+      "verse": 2,
+      "file": "39-zwijgen-adem-en-gast-zijn.svg",
+      "scene": "Zwijgen, adem en gast zijn",
+      "alt": "Van ingehouden woorden naar de vraag om ruimte binnen een kort leven.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1127,
+      "source": "Psalm 39:2–14",
+      "design": {
+        "rows": [
+          [
+            "Zwijgen en spreken · 2–4",
+            "De tong in toom; pijn en innerlijke hitte worden een gebed."
+          ],
+          [
+            "Kortheid · 5–7",
+            "Dagen als een handbreed, mens als adem en schaduw."
+          ],
+          [
+            "Hoop · 8–12",
+            "De hoop richt zich op God; vraag om bevrijding en verlichting."
+          ],
+          [
+            "Gast · 13–14",
+            "Een vreemdeling bij God bidt met tranen om nog te mogen opleven."
+          ]
+        ],
+        "note": "Handbreed, adem, schaduw en mot verwoorden de kwetsbaarheid van een kort bestaan. Het slotbeeld van een gast geeft daaraan een persoonlijke gebedsvorm."
+      }
+    },
+    {
+      "book": "psalmen",
+      "chapter": 40,
+      "verse": 2,
+      "file": "40-redding-gehoorzaamheid-en-nood.svg",
+      "scene": "Redding, gehoorzaamheid en nood",
+      "alt": "Het verband van ontvangen redding, gehoorzaamheid, getuigenis en hernieuwd smeken.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1091,
+      "source": "Psalm 40:2–18",
+      "design": {
+        "rows": [
+          [
+            "Ervaren redding · 2–6",
+            "Wachten, gehoord worden, van put naar rots en een nieuw lied."
+          ],
+          [
+            "Antwoord · 7–11",
+            "Geopende oren, de boekrol, graag Gods wil doen en openlijk vertellen."
+          ],
+          [
+            "Nieuwe nood · 12–16",
+            "Rampen, schuld en vijanden; opnieuw de vraag om snelle hulp."
+          ],
+          [
+            "Slot · 17–18",
+            "Lof voor allen die zoeken, en de arme bidder vraagt om bevrijding."
+          ]
+        ],
+        "note": "Het dankgedeelte gaat over in een nieuwe hulpvraag. De veilige rots maakt het latere roepen in nood niet overbodig."
+      }
+    },
+    {
+      "book": "psalmen",
+      "chapter": 41,
+      "verse": 2,
+      "file": "41-arme-zieke-en-vriend.svg",
+      "scene": "Arme, zieke en vriend",
+      "alt": "De overgang van zorg voor kwetsbaren naar de eigen ziekte en geschonden vriendschap.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1170,
+      "source": "Psalm 41:2–14",
+      "design": {
+        "rows": [
+          [
+            "Aandacht · 2–4",
+            "Oog voor de arme en steun op het ziekbed."
+          ],
+          [
+            "Eigen klacht · 5–10",
+            "Genade en genezing; leugenachtig bezoek, kwaadsprekerij en verraad van de broodvriend."
+          ],
+          [
+            "Hulpvraag · 11–13",
+            "Overeind komen en blijvend staande gehouden worden."
+          ],
+          [
+            "Lof · 14",
+            "De God van Israël wordt geprezen van eeuwigheid tot eeuwigheid."
+          ]
+        ],
+        "note": "Brood delen geeft de vertrouwensband aan die door verraad wordt geschonden. De lof aan het einde plaatst de klacht in een grotere belijdenis."
+      }
+    },
+    {
+      "book": "psalmen",
+      "chapter": 42,
+      "verse": 1,
+      "file": "42-dorst-herinnering-en-refrein.svg",
+      "scene": "Dorst, herinnering en refrein",
+      "alt": "De verschillende tijdlagen, de Korachitische aanduiding en het tweemaal terugkerende refrein.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1197,
+      "source": "Psalm 42:1–12",
+      "design": {
+        "rows": [
+          [
+            "Opschrift · 1",
+            "Een leerlied van de zonen van Korach."
+          ],
+          [
+            "Dorst en herinnering · 2–5",
+            "Hert, tranen en de vroegere feeststoet."
+          ],
+          [
+            "Eerste refrein · 6",
+            "Waarom bedroefd? Hoop op God; ik zal Hem weer prijzen."
+          ],
+          [
+            "Diepte en nacht · 7–11",
+            "Jordaan en Hermon, watervallen, golven, nachtlied en hoon."
+          ],
+          [
+            "Herhaald refrein · 12",
+            "Dezelfde aanspraak tot de eigen ziel keert terug."
+          ]
+        ],
+        "note": "Het hert en de golven verbeelden verlangen en overweldiging. De feeststoet wordt herinnerd; het refrein spreekt de eigen ziel moed in."
+      }
+    }
+  ]
+}
