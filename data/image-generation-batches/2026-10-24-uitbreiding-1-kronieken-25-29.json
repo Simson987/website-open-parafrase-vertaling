@@ -1,0 +1,580 @@
+{
+  "date": "2026-10-24",
+  "started": "2026-10-24T23:31:06Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "1kronieken",
+      "chapter": 27,
+      "verse": 30,
+      "file": "27-30-inhoudelijk.webp",
+      "kind": "scene",
+      "scene": "Obil beheert de kamelen",
+      "alt": "Obil en volwassen verzorgers bij Davids kamelen — 1 Kronieken 27:30",
+      "prompt": "Photorealistic educational Bible historical scene, ancient Israel during King David, landscape 3:2. Obil, an adult Ishmaelite steward, and adult workers calmly care for several anatomically correct camels in an ancient livestock enclosure near Jerusalem; feeding and checking a camel, baskets of fodder, all humans modestly clothed in natural robes, two arms each and natural hands. Camels have four legs each and correct necks, no modern tack, vehicles, writing, watermark, violence, blood or deity.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 29,
+      "verse": 22,
+      "file": "29-22-inhoudelijk.webp",
+      "kind": "scene",
+      "scene": "Vreugde bij de gezamenlijke maaltijd",
+      "alt": "De vergadering eet en drinkt met grote vreugde — 1 Kronieken 29:22",
+      "prompt": "Photorealistic educational Bible historical scene, ancient Jerusalem during King David, landscape 3:2. A gathering of fully modestly robed adults joyfully share bread and drink from simple pottery cups around low tables in a sunny ancient open courtyard; focus on fellowship and thanksgiving meal before Solomon's second royal anointing. No anointing ceremony or oil poured on a head in this image, no temple already built, no modern tables or cutlery, no readable writing, watermark, visible deity, blood or violence. Natural hands, two arms per person, anatomically correct adult bodies.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 25,
+      "verse": 1,
+      "file": "25-drie-muziekfamilies.svg",
+      "scene": "Drie muziekfamilies",
+      "alt": "Families, aantallen en het zichtbare telverschil in de bron.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1134,
+      "source": "1 Kronieken 25:1–8",
+      "design": {
+        "rows": [
+          [
+            "Asaf",
+            "Zakkur, Jozef, Nethanja en Asarela; onder Asaf en de koning."
+          ],
+          [
+            "Jeduthun",
+            "Gedalja, Zeri, Jesaja, Hasabja en Mattithja; de tekst zegt zes, maar noemt hier vijf namen."
+          ],
+          [
+            "Heman",
+            "Veertien zonen en drie dochters; de zonen worden in vers 4 genoemd."
+          ],
+          [
+            "Geoefende zangers",
+            "288 vakkundige zangers; loting voor jong en oud, meester en leerling."
+          ]
+        ],
+        "note": "De ontbrekende zesde naam in vers 3 wordt niet verzonnen; naamvormen verschillen tussen familie- en lotenlijst."
+      }
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 25,
+      "verse": 9,
+      "file": "25-muziekloten-01-12.svg",
+      "scene": "Muziekgroepen 1 tot 12",
+      "alt": "De eerste twaalf muzikale dienstafdelingen in exacte volgorde.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 919,
+      "source": "1 Kronieken 25:9–20",
+      "design": {
+        "rows": [
+          [
+            "1–3",
+            "Jozef; Gedalja; Zakkur."
+          ],
+          [
+            "4–6",
+            "Jizri; Nethanja; Bukkia."
+          ],
+          [
+            "7–9",
+            "Jesarela; Jesaja; Mattanja."
+          ],
+          [
+            "10–12",
+            "Simeï; Azareël; Hasabja."
+          ]
+        ],
+        "note": "Dit is dienstvolgorde, geen stamboom. De familieleden en zonen dienen mee in groepen van twaalf."
+      }
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 25,
+      "verse": 20,
+      "file": "25-muziekloten-13-24.svg",
+      "scene": "Muziekgroepen 13 tot 24",
+      "alt": "De tweede twaalf muzikale dienstafdelingen in exacte volgorde.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 919,
+      "source": "1 Kronieken 25:20–31",
+      "design": {
+        "rows": [
+          [
+            "13–15",
+            "Subael; Mattithja; Jeremoth."
+          ],
+          [
+            "16–18",
+            "Hananja; Josbekasa; Hanani."
+          ],
+          [
+            "19–21",
+            "Mallothi; Eliatha; Hothir."
+          ],
+          [
+            "22–24",
+            "Giddalti; Mahazioth; Romamthi-Ezer."
+          ]
+        ],
+        "note": "Elk genoemd hoofd dient met zonen en verwanten, twaalf samen; alle dienstgroepen vallen onder dezelfde lotingsregel."
+      }
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 26,
+      "verse": 1,
+      "file": "26-poortwachters-families.svg",
+      "scene": "Families van poortwachters",
+      "alt": "De drie families en hun onderscheiden aantallen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "1 Kronieken 26:1–13",
+      "design": {
+        "rows": [
+          [
+            "Meselemja",
+            "Uit Korah; zeven zonen genoemd; met zonen en verwanten achttien mannen."
+          ],
+          [
+            "Obed-Edom",
+            "Acht zonen genoemd; met hun zonen en verwanten 62 geschikte mannen."
+          ],
+          [
+            "Hosa",
+            "Uit Merari; Simri is hoofd hoewel niet de oudste; met zonen en verwanten dertien."
+          ],
+          [
+            "De loting",
+            "Per familie, voor jong en oud gelijk."
+          ]
+        ],
+        "note": "Het aantal zonen en de grotere groep met verwanten zijn verschillende tellingen."
+      }
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 26,
+      "verse": 14,
+      "file": "26-poorten-richtingen.svg",
+      "scene": "Poorten en wachtposten",
+      "alt": "Toewijzing en aantallen wachtposten per richting.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1005,
+      "source": "1 Kronieken 26:14–19",
+      "design": {
+        "rows": [
+          [
+            "Oosten",
+            "Salemja; zes Levieten."
+          ],
+          [
+            "Noorden",
+            "Zijn zoon Zecharja; vier per dag."
+          ],
+          [
+            "Zuiden en voorraad",
+            "Obed-Edom; vier per dag. Zijn zonen bij de voorraadkamers, twee aan twee."
+          ],
+          [
+            "Westen",
+            "Suppim en Hosa, Schallechetpoort; vier aan de weg en twee bij het bijgebouw."
+          ]
+        ],
+        "note": "Taakoverzicht per richting, geen bouwplattegrond op schaal. De tekst gebruikt hier Salemja als naamvorm."
+      }
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 26,
+      "verse": 20,
+      "file": "26-schatten-en-toezicht.svg",
+      "scene": "Schatten en toezicht",
+      "alt": "Bewaring, herkomst en verschillende toezichtgebieden.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1369,
+      "source": "1 Kronieken 26:20–32",
+      "design": {
+        "rows": [
+          [
+            "Voorraad van het huis",
+            "Ahia; ook Zetham en Joël uit Jehiëli’s familie worden genoemd."
+          ],
+          [
+            "Sebuël en Selomith",
+            "Sebuël leidt de schatten; Selomith en zijn verwanten beheren gewijde buit en gaven."
+          ],
+          [
+            "Wat is gewijd?",
+            "Gaven van David, aanvoerders, Samuël, Saul, Abner en Joab voor onderhoud."
+          ],
+          [
+            "Buiten het heiligdom",
+            "Chenanja en zijn zonen zijn opzichters en rechters."
+          ],
+          [
+            "West en oost",
+            "Hasabja met 1.700 ten westen van de Jordaan; Jeria’s 2.700 familiehoofden over Ruben, Gad en half Manasse."
+          ]
+        ],
+        "note": "Schatbeheer en bestuurlijke taken worden onderscheiden; de twee aantallen horen bij verschillende gebieden."
+      }
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 27,
+      "verse": 1,
+      "file": "27-legermaanden-01-06.svg",
+      "scene": "Legerdienst, maanden 1–6",
+      "alt": "De eerste zes maanden met correcte aanvoerders en opvolging.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1260,
+      "source": "1 Kronieken 27:1–9",
+      "design": {
+        "rows": [
+          [
+            "1: Jasobam",
+            "Zoon van Zabdiël, uit Perez."
+          ],
+          [
+            "2: Dodai",
+            "Uit Ahoah; Mikloth als tweede man."
+          ],
+          [
+            "3: Benaja",
+            "Zoon van Jojada; zijn zoon Ammizabad leidt zijn afdeling."
+          ],
+          [
+            "4: Asahel",
+            "Joabs broer; daarna zijn zoon Zebadja."
+          ],
+          [
+            "5: Samhuth",
+            "Uit de familie Jizrah."
+          ],
+          [
+            "6: Ira",
+            "Zoon van Ikkes, uit Thekoa."
+          ]
+        ],
+        "note": "Elke maandafdeling telt 24.000 man; afdelingen lossen elkaar af, niet allemaal tegelijk in maanddienst."
+      }
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 27,
+      "verse": 10,
+      "file": "27-legermaanden-07-12.svg",
+      "scene": "Legerdienst, maanden 7–12",
+      "alt": "De laatste zes maanden met plaats en stam of familie.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1217,
+      "source": "1 Kronieken 27:10–15",
+      "design": {
+        "rows": [
+          [
+            "7: Helez",
+            "Uit Pelon en de stam Efraïm."
+          ],
+          [
+            "8: Sibbechai",
+            "Uit Husa en de familie Zerah."
+          ],
+          [
+            "9: Abiëzer",
+            "Uit Anathoth en Benjamin."
+          ],
+          [
+            "10: Maharai",
+            "Uit Netofa en Zerah."
+          ],
+          [
+            "11: Benaja",
+            "Uit Pirhathon en Efraïm."
+          ],
+          [
+            "12: Heldai",
+            "Uit Netofa en Othniëls familie."
+          ]
+        ],
+        "note": "Ook elk van deze afdelingen telt 24.000. Benaja uit Pirhathon is hier apart genoemd van Benaja, zoon van Jojada."
+      }
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 27,
+      "verse": 16,
+      "file": "27-stamleiders.svg",
+      "scene": "Leiders van de stammen",
+      "alt": "Alle genoemde stamleiders zonder ontbrekende stammen aan te vullen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1475,
+      "source": "1 Kronieken 27:16–24",
+      "design": {
+        "rows": [
+          [
+            "Ruben en Simeon",
+            "Eliëzer, zoon van Zichri; Sefatja, zoon van Maächa."
+          ],
+          [
+            "Levi, Aäron en Juda",
+            "Hasabja, zoon van Kemuël; Zadok; Elihu, Davids broer."
+          ],
+          [
+            "Issaschar en Zebulon",
+            "Omri, zoon van Michaël; Jismaja, zoon van Obadja."
+          ],
+          [
+            "Nafthali en Efraïm",
+            "Jerimoth, zoon van Azriël; Hosea, zoon van Azazja."
+          ],
+          [
+            "Manasse west en oost",
+            "Joël, zoon van Pedaja; Jiddo, zoon van Zecharja."
+          ],
+          [
+            "Benjamin en Dan",
+            "Jaäsiël, zoon van Abner; Azarel, zoon van Jeroham."
+          ]
+        ],
+        "note": "De tekst noemt niet iedere stam in deze lijst. Joabs telling werd niet voltooid; mannen van twintig en jonger waren uitgesloten."
+      }
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 27,
+      "verse": 25,
+      "file": "27-bezit-en-raadgevers.svg",
+      "scene": "Bezit en raadgevers",
+      "alt": "Beheerders per bezit en de onderscheiden raadgevers.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1376,
+      "source": "1 Kronieken 27:25–34",
+      "design": {
+        "rows": [
+          [
+            "Schatten en voorraden",
+            "Azmaveth en Jonathan, zoon van Uzzia; Ezri leidt de landarbeiders."
+          ],
+          [
+            "Wijn en olie",
+            "Simeï: wijngaarden; Zabdi: wijn. Baäl-Hanan: olijf- en vijgenbomen; Joas: olie."
+          ],
+          [
+            "Dieren",
+            "Sitrai en Safat: runderen; Obil: kamelen; Jechdeja: ezelinnen; Jaziz: kleinvee."
+          ],
+          [
+            "Bij het hof",
+            "Jonathan, Davids oom, is raadgever; Jehiël zorgt voor koningszonen; Husai is vriend van de koning."
+          ],
+          [
+            "Raad en leger",
+            "Achitofel, daarna Jojada en Abjathar; Joab is legeraanvoerder."
+          ]
+        ],
+        "note": "Jonathan, zoon van Uzzia, en Jonathan, Davids oom, worden niet tot één persoon samengevoegd."
+      }
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 28,
+      "verse": 2,
+      "file": "28-verkiezing-en-opdracht.svg",
+      "scene": "Verkiezing en opdracht",
+      "alt": "Verkiezing, gehoorzaamheid, bouwopdracht en hulp onderscheiden.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1412,
+      "source": "1 Kronieken 28:2–10, 20–21",
+      "design": {
+        "rows": [
+          [
+            "David",
+            "Uit Juda en Isaï’s huis tot koning gekozen; wegens bloedvergieten geen tempelbouwer."
+          ],
+          [
+            "Salomo",
+            "Uit Davids zonen gekozen om huis en voorhoven te bouwen."
+          ],
+          [
+            "Het volk",
+            "Geboden zoeken en houden; het land aan de kinderen doorgeven."
+          ],
+          [
+            "Het hart",
+            "Salomo moet God kennen en met toegewijd hart dienen; zoeken en verlaten hebben gevolgen."
+          ],
+          [
+            "De hulp",
+            "God laat hem niet in de steek; priesters, Levieten, vaklieden, leiders en volk staan klaar."
+          ]
+        ],
+        "note": "De belofte in vers 7 noemt ook standvastigheid in de geboden; de oproep is niet alleen een bouwtechnische instructie."
+      }
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 28,
+      "verse": 11,
+      "file": "28-ontwerp-en-gewichten.svg",
+      "scene": "Ontwerp, dienst en gewichten",
+      "alt": "Welke onderdelen David aan Salomo overdraagt zonder verzonnen maten.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1412,
+      "source": "1 Kronieken 28:11–19",
+      "design": {
+        "rows": [
+          [
+            "De ruimten",
+            "Voorhal, omringende gebouwen, voorraadkamers, bovenzalen, binnenkamers en ruimte voor het verzoendeksel."
+          ],
+          [
+            "Voorhoven en voorraden",
+            "Alle omringende kamers en schatten van het huis en de gewijde gaven."
+          ],
+          [
+            "De dienst",
+            "Groepen priesters en Levieten, werkzaamheden en gerei."
+          ],
+          [
+            "Metalen per voorwerp",
+            "Goud en zilver naar gewicht voor kandelaars, lampen, tafels, bekers en ander gerei."
+          ],
+          [
+            "Reukaltaar en cherubs",
+            "Goud voor het reukaltaar en het ontwerp van de cherubs boven de ark."
+          ]
+        ],
+        "note": "Dit hoofdstuk noemt functies en gewichten per soort, maar geeft hier geen exacte afmetingen voor een plattegrond."
+      }
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 29,
+      "verse": 2,
+      "file": "29-vrijwillige-gaven.svg",
+      "scene": "Vrijwillige gaven en beheer",
+      "alt": "Herkomst, hoeveelheden, beheer en de vrijwillige gezindheid.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1369,
+      "source": "1 Kronieken 29:2–9",
+      "design": {
+        "rows": [
+          [
+            "Davids voorbereiding",
+            "Goud, zilver, koper, ijzer, hout, sierstenen en marmer."
+          ],
+          [
+            "Davids persoonlijke gave",
+            "Ongeveer honderd ton goud uit Ofir en 240 ton gezuiverd zilver, bovenop de voorbereiding."
+          ],
+          [
+            "De leiders",
+            "Ongeveer 170 ton goud en 10.000 gouden munten; 340 ton zilver, 610 ton koper en 3.400 ton ijzer."
+          ],
+          [
+            "Edelstenen",
+            "Onder beheer van Jehiël uit Gersons familie."
+          ],
+          [
+            "De gezindheid",
+            "Vrijwillig en met toegewijd hart; volk en David zijn verheugd."
+          ]
+        ],
+        "note": "De afgeronde tonnen volgen deze vertaling. Davids eigen gave en de gaven van leiders zijn afzonderlijke groepen."
+      }
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 29,
+      "verse": 10,
+      "file": "29-dank-en-voorbede.svg",
+      "scene": "Dank en voorbede van David",
+      "alt": "De inhoudelijke beweging van lof, dank, nederigheid en voorbede.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1283,
+      "source": "1 Kronieken 29:10–20",
+      "design": {
+        "rows": [
+          [
+            "Lof",
+            "Gods grootheid, macht, glorie en koningschap; alles is van Hem."
+          ],
+          [
+            "Ontvangen en teruggeven",
+            "Alles komt uit Gods hand; het volk geeft wat het heeft ontvangen."
+          ],
+          [
+            "Vergankelijkheid",
+            "Mensen zijn vreemdelingen en gasten; hun dagen als een schaduw."
+          ],
+          [
+            "Oprechtheid",
+            "God toetst het hart; David vraagt blijvende toewijding bij het volk en Salomo."
+          ],
+          [
+            "Het antwoord",
+            "De vergadering prijst, buigt en knielt."
+          ]
+        ],
+        "note": "De schaduw is een vergelijking voor het menselijke leven, geen aparte historische gebeurtenis."
+      }
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 29,
+      "verse": 21,
+      "file": "29-troon-en-davids-einde.svg",
+      "scene": "De troon en Davids einde",
+      "alt": "De afloop van de vergadering, koningswisseling en samenvatting van Davids leven.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1240,
+      "source": "1 Kronieken 29:21–30",
+      "design": {
+        "rows": [
+          [
+            "De volgende morgen",
+            "Offers en een vreugdevolle maaltijd."
+          ],
+          [
+            "Tweede aanstelling",
+            "Salomo wordt opnieuw koning en gezalfd; ook Zadok wordt tot priester gezalfd."
+          ],
+          [
+            "Erkenning",
+            "Leiders, helden en Davids zonen onderwerpen zich aan Salomo."
+          ],
+          [
+            "Davids regering",
+            "Veertig jaar: zeven in Hebron en 33 in Jeruzalem; hij sterft op hoge leeftijd."
+          ],
+          [
+            "De beschreven geschiedenis",
+            "Geschriften van Samuël, Nathan en Gad worden genoemd."
+          ]
+        ],
+        "note": "De troonovergang en Davids overlijden worden als afzonderlijke fasen beschreven; de bron noemt geen sterfbedgesprek."
+      }
+    }
+  ]
+}
