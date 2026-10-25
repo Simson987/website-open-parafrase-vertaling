@@ -27428,6 +27428,82 @@
           "source": "Johannes 6:5–15 en 60–71"
         }
       ]
+    },
+    {
+      "book": "johannes",
+      "chapter": 7,
+      "status": "reviewed",
+      "target_images": 8,
+      "reason": "Onderwijs, wateroproep en vertrek bestaan. Heimelijke reis, dienarenbericht en Nicodemus voegen onderscheiden fasen toe. Reactieschema en overzicht bewaren meningsverschillen zonder uitspraken tot vertellersfeiten te maken.",
+      "additions": [
+        {
+          "verse": 10,
+          "file": "7-10-heimelijk-reis-verdieping.webp",
+          "scene": "Jezus reist heimelijk naar het feest",
+          "kind": "scene"
+        },
+        {
+          "verse": 46,
+          "file": "7-46-dienaren-antwoord-verdieping.webp",
+          "scene": "De dienaren vertellen waarom zij terugkomen",
+          "kind": "scene"
+        },
+        {
+          "verse": 51,
+          "file": "7-51-nicodemus-vraagt-verdieping.webp",
+          "scene": "Nicodemus vraagt om eerst te horen",
+          "kind": "scene"
+        },
+        {
+          "verse": 1,
+          "file": "7-leeswijzer.svg",
+          "scene": "Feest, vragen en levend water",
+          "kind": "diagram",
+          "source": "Johannes 7:1–53"
+        },
+        {
+          "verse": 37,
+          "file": "7-reacties-op-jezus.svg",
+          "scene": "De verschillende reacties",
+          "kind": "diagram",
+          "source": "Johannes 7:37–52"
+        }
+      ]
+    },
+    {
+      "book": "johannes",
+      "chapter": 8,
+      "status": "reviewed",
+      "target_images": 7,
+      "reason": "Beschuldigers die vertrekken, licht en vrijheidswoord bestaan. Schrijven en tempelvertrek voegen twee andere gebeurtenissen toe; overzicht en woord/waarheid/vrijheid structureren uitvoerig gesprek.",
+      "additions": [
+        {
+          "verse": 6,
+          "file": "8-6-grond-schrijven-verdieping.webp",
+          "scene": "Jezus schrijft op de grond",
+          "kind": "scene"
+        },
+        {
+          "verse": 59,
+          "file": "8-59-tempel-vertrek-verdieping.webp",
+          "scene": "Jezus verlaat de tempel",
+          "kind": "scene"
+        },
+        {
+          "verse": 1,
+          "file": "8-leeswijzer.svg",
+          "scene": "Licht, waarheid en vrijheid",
+          "kind": "diagram",
+          "source": "Johannes 8:1–59"
+        },
+        {
+          "verse": 31,
+          "file": "8-woord-waarheid-vrijheid.svg",
+          "scene": "Woord, waarheid en vrijheid",
+          "kind": "diagram",
+          "source": "Johannes 8:31–47"
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,193 @@
+{
+  "date": "2026-10-25",
+  "started": "2026-10-25T10:50:16Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "johannes",
+      "chapter": 7,
+      "verse": 10,
+      "file": "7-10-heimelijk-reis-verdieping.webp",
+      "scene": "Jezus reist heimelijk naar het feest",
+      "alt": "Jezus reist heimelijk naar het feest — Johannes 7:10; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. A solitary robed adult Jewish man travels quietly along a less crowded path toward ancient Jerusalem, modest appearance with no public procession, daylight.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "johannes",
+      "chapter": 7,
+      "verse": 46,
+      "file": "7-46-dienaren-antwoord-verdieping.webp",
+      "scene": "De dienaren vertellen waarom zij terugkomen",
+      "alt": "De dienaren vertellen waarom zij terugkomen — Johannes 7:46; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. Two adult Jewish temple officers in plain ancient clothing speak respectfully to seated priestly leaders in a Jerusalem courtyard, returned without a prisoner, natural hands.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "johannes",
+      "chapter": 7,
+      "verse": 51,
+      "file": "7-51-nicodemus-vraagt-verdieping.webp",
+      "scene": "Nicodemus vraagt om eerst te horen",
+      "alt": "Nicodemus vraagt om eerst te horen — Johannes 7:51; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. An older robed Jewish scholar respectfully addresses fellow seated leaders in an ancient council courtyard, one open hand, thoughtful serious listeners, no Jesus figure.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "johannes",
+      "chapter": 8,
+      "verse": 6,
+      "file": "8-6-grond-schrijven-verdieping.webp",
+      "scene": "Jezus schrijft op de grond",
+      "alt": "Jezus schrijft op de grond — Johannes 8:6; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. A fully robed Jewish teacher bends down and touches the dusty ground with one finger, a fully clothed adult woman in a long robe and head covering stands a respectful distance away while robed adult questioners wait; marks remain indistinct with no invented readable words, no violence.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "johannes",
+      "chapter": 8,
+      "verse": 59,
+      "file": "8-59-tempel-vertrek-verdieping.webp",
+      "scene": "Jezus verlaat de tempel",
+      "alt": "Jezus verlaat de tempel — Johannes 8:59; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. A robed Jewish teacher quietly passes behind a Jerusalem temple pillar toward an exit, several distant fully clothed adult opponents hold stones low but nobody throws, no injury or attack depicted.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "johannes",
+      "chapter": 7,
+      "verse": 1,
+      "file": "7-leeswijzer.svg",
+      "scene": "Feest, vragen en levend water",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 992,
+      "source": "Johannes 7:1–53",
+      "design": {
+        "rows": [
+          [
+            "Reis · 1–13",
+            "Broers, nog niet mijn tijd; later heimelijk, menigte discussieert maar is bang."
+          ],
+          [
+            "Onderwijs · 14–36",
+            "Leer van Gezondene, rechtvaardig oordelen; afkomst, grijpen lukt niet, dienaren en vertrekwoord."
+          ],
+          [
+            "Laatste dag · 37–53",
+            "Dorst, water als Geest; verdeeldheid, dienaren keren terug, Nicodemus vraagt eerst horen, ieder naar huis."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "johannes",
+      "chapter": 8,
+      "verse": 1,
+      "file": "8-leeswijzer.svg",
+      "scene": "Licht, waarheid en vrijheid",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1227,
+      "source": "Johannes 8:1–59",
+      "design": {
+        "rows": [
+          [
+            "Vrouw · 1–11",
+            "Vroeg tempel, aanklacht en schrijven; zonder zonde, beschuldigers weg, ga en zondig niet."
+          ],
+          [
+            "Getuigen · 12–30",
+            "Licht van wereld, Jezus en Vader; oorsprong, vertrek en verhoogde Mensenzoon; velen geloven."
+          ],
+          [
+            "Blijven en vrijheid · 31–47",
+            "Woord, waarheid en vrijmaken; Abraham, werken en leugen tegenover Gods woorden."
+          ],
+          [
+            "Abraham en vertrek · 48–59",
+            "Eer, woord bewaren en leven; vóór Abraham ben ik; stenen en tempel verlaten."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "johannes",
+      "chapter": 7,
+      "verse": 37,
+      "file": "7-reacties-op-jezus.svg",
+      "scene": "De verschillende reacties",
+      "alt": "De verschillende reacties met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1141,
+      "source": "Johannes 7:37–52",
+      "design": {
+        "rows": [
+          [
+            "Uitnodiging · 37–39",
+            "Dorst: komen en drinken; water betekent de Geest, nog niet gegeven vóór verheerlijking."
+          ],
+          [
+            "Menigte · 40–44",
+            "Profeet, Christus, vragen Galilea/Bethlehem; verdeeld en niet gegrepen."
+          ],
+          [
+            "Dienaren · 45–49",
+            "Nooit zo gesproken; leiders verwijten misleiding."
+          ],
+          [
+            "Nicodemus · 50–52",
+            "Eerst horen en onderzoeken; anderen wijzen op Galilea."
+          ]
+        ],
+        "note": "Uitspraken van gesprekspartners blijven onderscheiden van vertellersuitleg."
+      }
+    },
+    {
+      "book": "johannes",
+      "chapter": 8,
+      "verse": 31,
+      "file": "8-woord-waarheid-vrijheid.svg",
+      "scene": "Woord, waarheid en vrijheid",
+      "alt": "Woord, waarheid en vrijheid met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1028,
+      "source": "Johannes 8:31–47",
+      "design": {
+        "rows": [
+          [
+            "Blijven · 31–32",
+            "Blijven in Jezus’ woord; werkelijk leerling, waarheid kennen en vrijgemaakt."
+          ],
+          [
+            "Bezwaarmakers · 33–38",
+            "Afkomst Abraham; Jezus spreekt over slavernij aan zonde en vrijheid door Zoon."
+          ],
+          [
+            "Daden en luisteren · 39–47",
+            "Kinderen doen vaders werken; waarheid en liefde tegenover leugen en doodsplan."
+          ]
+        ],
+        "note": "Dit is het weergegeven gesprek over woord en daden, geen indeling van hedendaagse bevolkingsgroepen."
+      }
+    }
+  ]
+}
