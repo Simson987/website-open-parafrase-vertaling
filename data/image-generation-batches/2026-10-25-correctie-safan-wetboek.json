@@ -1,0 +1,25 @@
+{
+  "mode": "built-in edit",
+  "source": "2 Koningen 22:8–10",
+  "prompt": "Edit only the man on the left reading the law scroll to King Josiah. He is Shaphan the court scribe, not the high priest. Replace his priestly white headdress and ornate ceremonial garments with a simple modest brown woven robe and plain cloth headband appropriate to a court scribe. Preserve his elderly face, scroll, hands, the listening king and all other people and the palace. No readable text.",
+  "correction": {
+    "book": "2koningen",
+    "before": {
+      "chapter": 22,
+      "file": "22-scroll.webp",
+      "alt": "Een priester toont een gevonden wetboek aan de koning",
+      "scene": "Het gevonden wetboek"
+    },
+    "after": {
+      "chapter": 22,
+      "file": "22-scroll-v2.webp",
+      "alt": "De schrijver Safan leest het gevonden wetboek voor aan koning Josia",
+      "scene": "Safan leest het wetboek voor aan Josia",
+      "verse": 10,
+      "kind": "scene",
+      "width": 1536,
+      "height": 1024
+    }
+  },
+  "reason": "Safan, niet de hogepriester, leest de koning voor; oud bronbestand behouden."
+}
