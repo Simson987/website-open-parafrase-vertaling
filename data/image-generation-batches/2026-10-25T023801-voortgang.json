@@ -1,0 +1,47 @@
+{
+  "started": "2026-10-25T02:38:01Z",
+  "batches": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+  ],
+  "new_visuals": 193,
+  "new_asset_files": 193,
+  "replaced_baseline_images": 0,
+  "new_rasters": 95,
+  "new_schemas": 98,
+  "new_reviewed_chapters": 114,
+  "total_reviewed_chapters": 659,
+  "total_images": 6420,
+  "metadata_corrections": 342,
+  "verified": "local sources, visual anatomy and content review, SVG legibility and font bounds, SVG enlarge links, dimensions and decode, chapter plan targets, preservation of baseline work",
+  "finished": "2026-10-25T03:33:11.750547+00:00",
+  "next_chapter": {
+    "book": "prediker",
+    "chapter": 1
+  },
+  "remaining_chapters": 945,
+  "generation_errors": [],
+  "build": "passed: 88 books / 1604 chapters",
+  "coverage": "1604 chapters have at least three visuals; 659 reviewed chapter targets completed",
+  "additional_checks": [
+    "545 baseline chapter plans preserved verbatim",
+    "342 metadata updates checked against local verses and image dimensions",
+    "All registered files exist",
+    "95 new raster files have distinct SHA-256 hashes"
+  ],
+  "reviewed_this_run": [
+    "psalmen 68–150",
+    "spreuken 1–31"
+  ],
+  "generator": "built-in image generator",
+  "pr": "https://github.com/William-Carey-Missions/website-open-parafrase-vertaling/pull/3"
+}
