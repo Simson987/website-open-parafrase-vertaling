@@ -52534,61 +52534,201 @@
         "chapter": 1,
         "file": "1-nineveh.webp",
         "alt": "Ninevé ligt aan de rivier onder een donkere hemel",
-        "scene": "Ninevé"
+        "scene": "Ninevé",
+        "verse": 1,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 2,
         "file": "2-watch.webp",
         "alt": "Een wachter kijkt uit vanaf de stadsmuur",
-        "scene": "De wachter"
+        "scene": "De wachter",
+        "verse": 1,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 3,
         "file": "3-ruins.webp",
         "alt": "Verlaten straten van een vervallen stad",
-        "scene": "De vergankelijkheid van Ninevé"
+        "scene": "De vergankelijkheid van Ninevé",
+        "verse": 7,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 1,
         "verse": 7,
         "file": "1-7.webp",
         "alt": "Beeld bij Nahum 1: Een toevlucht in benauwdheid",
-        "scene": "Een toevlucht in benauwdheid"
+        "scene": "Een toevlucht in benauwdheid",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 1,
         "verse": 15,
         "file": "1-15.webp",
         "alt": "Beeld bij Nahum 1: De boodschapper brengt vrede",
-        "scene": "De boodschapper brengt vrede"
+        "scene": "De boodschapper brengt vrede",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 2,
         "verse": 4,
         "file": "2-4.webp",
         "alt": "Beeld bij Nahum 2: Wagens razen door de straten",
-        "scene": "Wagens razen door de straten"
+        "scene": "Wagens razen door de straten",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 2,
         "verse": 6,
         "file": "2-6.webp",
         "alt": "Beeld bij Nahum 2: De rivierpoorten gaan open",
-        "scene": "De rivierpoorten gaan open"
+        "scene": "De rivierpoorten gaan open",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 3,
         "verse": 12,
         "file": "3-12.webp",
         "alt": "Beeld bij Nahum 3: Beeldspraak: rijpe vijgen vallen",
-        "scene": "Beeldspraak: rijpe vijgen vallen"
+        "scene": "Beeldspraak: rijpe vijgen vallen",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 3,
         "verse": 17,
         "file": "3-17.webp",
         "alt": "Beeld bij Nahum 3: Sprinkhanen vliegen weg",
-        "scene": "Sprinkhanen vliegen weg"
+        "scene": "Sprinkhanen vliegen weg",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 1,
+        "verse": 13,
+        "file": "1-13-juk-en-ketenen-verdieping.webp",
+        "scene": "Belofte: juk en ketenen breken",
+        "alt": "Belofte: juk en ketenen breken — Nahum 1:13; tekstbeeld of profetisch woord.",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 1,
+        "verse": 3,
+        "file": "1-3-wervelwind-en-wolken-verdieping.webp",
+        "scene": "Beeldspraak: storm en wolken",
+        "alt": "Beeldspraak: storm en wolken — Nahum 1:3; tekstbeeld of profetisch woord.",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 2,
+        "verse": 11,
+        "file": "2-11-leeuwenhol-verdieping.webp",
+        "scene": "Vergelijking: het leeuwenhol",
+        "alt": "Vergelijking: het leeuwenhol — Nahum 2:11; tekstbeeld of profetisch woord.",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 2,
+        "verse": 9,
+        "file": "2-9-zilver-en-goud-verdieping.webp",
+        "scene": "Oproep: roof zilver en goud",
+        "alt": "Oproep: roof zilver en goud — Nahum 2:9; tekstbeeld of profetisch woord.",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 3,
+        "verse": 14,
+        "file": "3-14-leem-en-steenvorm-verdieping.webp",
+        "scene": "Opdracht: leem en steenvorm",
+        "alt": "Opdracht: leem en steenvorm — Nahum 3:14; tekstbeeld of profetisch woord.",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 1,
+        "verse": 1,
+        "file": "1-leeswijzer.svg",
+        "scene": "Oordeel en toevlucht",
+        "alt": "De volledige beweging van macht en oordeel naar vredewoord.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1071
+      },
+      {
+        "chapter": 1,
+        "verse": 7,
+        "file": "1-twee-aansprekingen.svg",
+        "scene": "Toevlucht en einde van de macht",
+        "alt": "De eigen richting van de verschillende uitspraken.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1326
+      },
+      {
+        "chapter": 2,
+        "verse": 1,
+        "file": "2-leeswijzer.svg",
+        "scene": "Ninevé leeg en zonder stem",
+        "alt": "De aanval, leegte en slotvergelijking met gegeven uitleg.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1028
+      },
+      {
+        "chapter": 2,
+        "verse": 11,
+        "file": "2-leeuwen-en-macht.svg",
+        "scene": "Het hol en de verdwenen macht",
+        "alt": "De drie stappen van de expliciete leeuwenvergelijking.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 942
+      },
+      {
+        "chapter": 3,
+        "verse": 1,
+        "file": "3-leeswijzer.svg",
+        "scene": "De stad en haar einde",
+        "alt": "Alle grote onderdelen van de aanklacht en de afloop.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1342
+      },
+      {
+        "chapter": 3,
+        "verse": 8,
+        "file": "3-no-en-ninive.svg",
+        "scene": "No en Ninevé vergeleken",
+        "alt": "De genoemde helpers en het uitgesproken vergelijkingsargument.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1134
       }
     ],
     "zefanja": [

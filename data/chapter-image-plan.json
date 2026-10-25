@@ -23084,6 +23084,105 @@
           "source": "Micha 7:5–9,18–20"
         }
       ]
+    },
+    {
+      "book": "nahum",
+      "chapter": 1,
+      "status": "reviewed",
+      "target_images": 7,
+      "reason": "Ninevé, toevlucht en vredeboodschap zijn aanwezig. Storm/wolken en gebroken juk/ketenen voegen twee ontbrekende tekstbeelden toe. Twee schema’s houden oordeel, vertrouwenden en Juda’s bevrijdingswoord van elkaar onderscheiden.",
+      "additions": [
+        {
+          "verse": 13,
+          "file": "1-13-juk-en-ketenen-verdieping.webp",
+          "scene": "Belofte: juk en ketenen breken",
+          "kind": "poetic"
+        },
+        {
+          "verse": 3,
+          "file": "1-3-wervelwind-en-wolken-verdieping.webp",
+          "scene": "Beeldspraak: storm en wolken",
+          "kind": "poetic"
+        },
+        {
+          "verse": 1,
+          "file": "1-leeswijzer.svg",
+          "scene": "Oordeel en toevlucht",
+          "kind": "diagram",
+          "source": "Nahum 1:1–15"
+        },
+        {
+          "verse": 7,
+          "file": "1-twee-aansprekingen.svg",
+          "scene": "Toevlucht en einde van de macht",
+          "kind": "diagram",
+          "source": "Nahum 1:7–15"
+        }
+      ]
+    },
+    {
+      "book": "nahum",
+      "chapter": 2,
+      "status": "reviewed",
+      "target_images": 7,
+      "reason": "Wachter, razende wagens en rivierpoorten zijn aanwezig. Leeuwenfamilie bij het hol en zilver/goud in voorraad voegen de vergelijking en de plunderoproep toe. Twee schema’s bewaren de aanval, angst en omkering van vroegere roof zonder slachtoffers of dierenleed te tonen.",
+      "additions": [
+        {
+          "verse": 11,
+          "file": "2-11-leeuwenhol-verdieping.webp",
+          "scene": "Vergelijking: het leeuwenhol",
+          "kind": "poetic"
+        },
+        {
+          "verse": 9,
+          "file": "2-9-zilver-en-goud-verdieping.webp",
+          "scene": "Oproep: roof zilver en goud",
+          "kind": "poetic"
+        },
+        {
+          "verse": 1,
+          "file": "2-leeswijzer.svg",
+          "scene": "Ninevé leeg en zonder stem",
+          "kind": "diagram",
+          "source": "Nahum 2:1–13"
+        },
+        {
+          "verse": 11,
+          "file": "2-leeuwen-en-macht.svg",
+          "scene": "Het hol en de verdwenen macht",
+          "kind": "diagram",
+          "source": "Nahum 2:11–13"
+        }
+      ]
+    },
+    {
+      "book": "nahum",
+      "chapter": 3,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Ruïne, vijgen en sprinkhanen zijn aanwezig. Leem met steenvorm voegt de afzonderlijke voorbereidingsopdracht toe. Twee schema’s bewaren de volledige aanklacht, de No-vergelijking en alle genoemde bondgenoten zonder seksuele vernedering of geweld tegen kinderen af te beelden.",
+      "additions": [
+        {
+          "verse": 14,
+          "file": "3-14-leem-en-steenvorm-verdieping.webp",
+          "scene": "Opdracht: leem en steenvorm",
+          "kind": "poetic"
+        },
+        {
+          "verse": 1,
+          "file": "3-leeswijzer.svg",
+          "scene": "De stad en haar einde",
+          "kind": "diagram",
+          "source": "Nahum 3:1–19"
+        },
+        {
+          "verse": 8,
+          "file": "3-no-en-ninive.svg",
+          "scene": "No en Ninevé vergeleken",
+          "kind": "diagram",
+          "source": "Nahum 3:8–14"
+        }
+      ]
     }
   ]
 }
