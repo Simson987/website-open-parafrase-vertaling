@@ -34852,21 +34852,30 @@
         "verse": 25,
         "file": "11-25.webp",
         "alt": "Beeld bij Johannes 11: Ik ben de opstanding en het leven",
-        "scene": "Ik ben de opstanding en het leven"
+        "scene": "Ik ben de opstanding en het leven",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 11,
         "verse": 35,
         "file": "11-35.webp",
         "alt": "Beeld bij Johannes 11: Jezus huilt",
-        "scene": "Jezus huilt"
+        "scene": "Jezus huilt",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 11,
         "verse": 44,
         "file": "11-44.webp",
         "alt": "Beeld bij Johannes 11: Lazarus komt naar buiten",
-        "scene": "Lazarus komt naar buiten"
+        "scene": "Lazarus komt naar buiten",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 12,
@@ -35700,6 +35709,76 @@
         "kind": "diagram",
         "width": 840,
         "height": 949
+      },
+      {
+        "chapter": 11,
+        "verse": 28,
+        "file": "11-28-marta-roept-maria-verdieping.webp",
+        "scene": "Marta roept Maria stilletjes",
+        "alt": "Marta roept Maria stilletjes — Johannes 11:28; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 11,
+        "verse": 39,
+        "file": "11-39-steen-weg-verdieping.webp",
+        "scene": "De steen wordt weggehaald",
+        "alt": "De steen wordt weggehaald — Johannes 11:39; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 11,
+        "verse": 49,
+        "file": "11-49-kajafas-raad-verdieping.webp",
+        "scene": "Kajafas spreekt in de raad",
+        "alt": "Kajafas spreekt in de raad — Johannes 11:49; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 11,
+        "verse": 54,
+        "file": "11-54-efraim-verdieping.webp",
+        "scene": "Jezus vertrekt naar Efraïm",
+        "alt": "Jezus vertrekt naar Efraïm — Johannes 11:54; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 11,
+        "verse": 1,
+        "file": "11-leeswijzer.svg",
+        "scene": "Lazarus, geloof en het raadsbesluit",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1035
+      },
+      {
+        "chapter": 11,
+        "verse": 3,
+        "file": "11-bericht-en-ontmoetingen.svg",
+        "scene": "Bericht, aankomst en ontmoetingen",
+        "alt": "Bericht, aankomst en ontmoetingen met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1055
+      },
+      {
+        "chapter": 11,
+        "verse": 45,
+        "file": "11-reacties-en-profetie.svg",
+        "scene": "Reacties en Kajafas’ woorden",
+        "alt": "Reacties en Kajafas’ woorden met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 906
       }
     ],
     "handelingen": [

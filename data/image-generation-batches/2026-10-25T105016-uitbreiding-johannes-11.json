@@ -1,0 +1,148 @@
+{
+  "date": "2026-10-25",
+  "started": "2026-10-25T10:50:16Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "johannes",
+      "chapter": 11,
+      "verse": 28,
+      "file": "11-28-marta-roept-maria-verdieping.webp",
+      "scene": "Marta roept Maria stilletjes",
+      "alt": "Marta roept Maria stilletjes — Johannes 11:28; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. Two fully clothed adult Jewish sisters in plain long robes and head coverings speak quietly inside an ancient Bethany home, one seated grieving and the other leaning close to tell her news, natural hands.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "johannes",
+      "chapter": 11,
+      "verse": 39,
+      "file": "11-39-steen-weg-verdieping.webp",
+      "scene": "De steen wordt weggehaald",
+      "alt": "De steen wordt weggehaald — Johannes 11:39; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. Several fully clothed ancient adult men carefully roll a large round stone away from a rock tomb entrance while a robed Jewish teacher and two fully clothed adult women watch at a respectful distance. Tomb interior stays dark, no body visible, no injury.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "johannes",
+      "chapter": 11,
+      "verse": 49,
+      "file": "11-49-kajafas-raad-verdieping.webp",
+      "scene": "Kajafas spreekt in de raad",
+      "alt": "Kajafas spreekt in de raad — Johannes 11:49; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. An older bearded Jewish high priest in dignified long priestly garments speaks seriously to seated adult council members in an ancient Jerusalem stone hall, coherent separate hands, no Jesus or prisoner present.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "johannes",
+      "chapter": 11,
+      "verse": 54,
+      "file": "11-54-efraim-verdieping.webp",
+      "scene": "Jezus vertrekt naar Efraïm",
+      "alt": "Jezus vertrekt naar Efraïm — Johannes 11:54; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. A robed adult Jewish teacher and a small group of fully clothed adult disciples arrive at a quiet stone village bordering a Judean wilderness, peaceful dusty path, no army or modern buildings.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "johannes",
+      "chapter": 11,
+      "verse": 1,
+      "file": "11-leeswijzer.svg",
+      "scene": "Lazarus, geloof en het raadsbesluit",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1035,
+      "source": "Johannes 11:1–57",
+      "design": {
+        "rows": [
+          [
+            "Bericht en reis · 1–19",
+            "Zussen sturen, Jezus blijft twee dagen, terug Judea; slaap/dood uitgelegd, Thomas; vier dagen graf, Bethanië dichtbij."
+          ],
+          [
+            "Zussen en graf · 20–44",
+            "Marta gelooft, Maria geroepen; Jezus huilt, steen weg, dankgebed, roep en Lazarus losmaken."
+          ],
+          [
+            "Reacties · 45–57",
+            "Velen geloven, anderen berichten leiders; Kajafas en doodsbesluit, Jezus naar Efraïm; Pascha en zoeken."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "johannes",
+      "chapter": 11,
+      "verse": 3,
+      "file": "11-bericht-en-ontmoetingen.svg",
+      "scene": "Bericht, aankomst en ontmoetingen",
+      "alt": "Bericht, aankomst en ontmoetingen met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "Johannes 11:3–44",
+      "design": {
+        "rows": [
+          [
+            "Bericht · 3–16",
+            "Ziek; nog twee dagen blijven; reis Judea en dood verklaard."
+          ],
+          [
+            "Aankomst · 17–27",
+            "Lazarus vier dagen graf; Marta tegemoet en belijdenis over opstanding/leven."
+          ],
+          [
+            "Maria · 28–37",
+            "Marta roept stil, Maria gaat en valt neer; Jezus bewogen en huilt."
+          ],
+          [
+            "Graf · 38–44",
+            "Steen weg, danken, roepen; gebonden naar buiten en losmaken."
+          ]
+        ],
+        "note": "Twee dagen uitstel en vier dagen in graf blijven verschillende tijdsaanduidingen."
+      }
+    },
+    {
+      "book": "johannes",
+      "chapter": 11,
+      "verse": 45,
+      "file": "11-reacties-en-profetie.svg",
+      "scene": "Reacties en Kajafas’ woorden",
+      "alt": "Reacties en Kajafas’ woorden met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 906,
+      "source": "Johannes 11:45–57",
+      "design": {
+        "rows": [
+          [
+            "Getuigen · 45–48",
+            "Velen geloven; anderen naar Farizeeën, raad vreest Romeinen."
+          ],
+          [
+            "Kajafas · 49–52",
+            "Eén voor volk; verteller duidt profetie: Jezus voor volk en verstrooide kinderen bijeen."
+          ],
+          [
+            "Vervolg · 53–57",
+            "Doodsberaad, Efraïm en naderend Pascha; wie plaats weet moet melden."
+          ]
+        ],
+        "note": "Vrees voor Romeinen is het argument van de raad; de profetische uitleg komt van de verteller."
+      }
+    }
+  ]
+}
