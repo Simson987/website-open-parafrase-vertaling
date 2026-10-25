@@ -1,0 +1,43 @@
+{
+  "started": "2026-10-25T03:37:34Z",
+  "batches": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "new_visuals": 181,
+  "new_asset_files": 182,
+  "replaced_baseline_images": 1,
+  "new_rasters": 79,
+  "new_schemas": 103,
+  "new_reviewed_chapters": 86,
+  "total_reviewed_chapters": 745,
+  "total_images": 6601,
+  "metadata_corrections": 258,
+  "verified": "local sources, visual anatomy and content review, SVG legibility and font bounds, SVG enlarge links, dimensions and decode, chapter plan targets, preservation of baseline work",
+  "new_rasters_net": 78,
+  "corrected_rasters": 1,
+  "remaining_reviewed_chapters": 859,
+  "next_chapter": {
+    "book": "jeremia",
+    "chapter": 1
+  },
+  "completed_books_this_run": [
+    "prediker",
+    "hooglied",
+    "jesaja"
+  ],
+  "baseline_chapter_plans_preserved": 659,
+  "all_registered_assets_present": true,
+  "new_raster_hashes_unique": true,
+  "checked_metadata_source_verses_and_dimensions": 258,
+  "sitebuild": "passed",
+  "coverage": "all 1604 chapters have at least three visuals; all 745 reviewed chapter targets met",
+  "errors": []
+}
