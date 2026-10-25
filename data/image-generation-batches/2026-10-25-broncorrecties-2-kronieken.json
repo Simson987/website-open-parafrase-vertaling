@@ -1,0 +1,204 @@
+{
+  "description": "Broncorrecties bij inhoudelijke beoordeling van 2 Kronieken, Ezra, Nehemia en Esther.",
+  "metadata_corrections": [
+    {
+      "book": "2kronieken",
+      "before": {
+        "chapter": 22,
+        "verse": 11,
+        "file": "22-11.webp",
+        "alt": "Beeld bij 2 Kronieken 22: Jehosabath verbergt de kleine Joas",
+        "scene": "Jehosabath verbergt de kleine Joas"
+      },
+      "after": {
+        "chapter": 22,
+        "verse": 11,
+        "file": "22-11.webp",
+        "alt": "Jozabath verbergt Joas met zijn voedster — 2 Kronieken 22:11",
+        "scene": "Jozabath verbergt de kleine Joas"
+      }
+    },
+    {
+      "book": "2kronieken",
+      "before": {
+        "chapter": 31,
+        "verse": 12,
+        "file": "31-12.webp",
+        "alt": "Beeld bij 2 Kronieken 31: Chonanja en Simei beheren de voorraden",
+        "scene": "Chonanja en Simei beheren de voorraden"
+      },
+      "after": {
+        "chapter": 31,
+        "verse": 12,
+        "file": "31-12.webp",
+        "alt": "Beeld bij 2 Kronieken 31: Chonanja en Simeï beheren de voorraden",
+        "scene": "Chonanja en Simeï beheren de voorraden"
+      }
+    },
+    {
+      "book": "2kronieken",
+      "before": {
+        "chapter": 34,
+        "file": "34-repair.webp",
+        "alt": "Werklieden herstellen de tempel onder Josia",
+        "scene": "De tempel hersteld"
+      },
+      "after": {
+        "chapter": 34,
+        "file": "34-repair.webp",
+        "alt": "Werklieden herstellen de tempel onder Josia",
+        "scene": "De tempel hersteld",
+        "verse": 8,
+        "kind": "scene"
+      }
+    },
+    {
+      "book": "ezra",
+      "before": {
+        "chapter": 3,
+        "file": "3-foundation.webp",
+        "alt": "Families verzamelen zich bij de grondlegging van de tempel",
+        "scene": "De grondlegging"
+      },
+      "after": {
+        "chapter": 3,
+        "file": "3-foundation.webp",
+        "alt": "Families verzamelen zich bij de grondlegging van de tempel",
+        "scene": "De grondlegging",
+        "verse": 10,
+        "kind": "scene"
+      },
+      "reason": "Versanker gecorrigeerd naar de plaatselijke gebeurtenis."
+    },
+    {
+      "book": "ezra",
+      "before": {
+        "chapter": 7,
+        "file": "7-journey.webp",
+        "alt": "Ezra vertrekt met een groep reizigers naar Jeruzalem",
+        "scene": "Ezra op reis"
+      },
+      "after": {
+        "chapter": 7,
+        "file": "7-journey.webp",
+        "alt": "Ezra vertrekt met een groep reizigers naar Jeruzalem",
+        "scene": "Ezra op reis",
+        "verse": 9,
+        "kind": "scene"
+      },
+      "reason": "Versanker gecorrigeerd naar de plaatselijke gebeurtenis."
+    },
+    {
+      "book": "ezra",
+      "before": {
+        "chapter": 5,
+        "verse": 3,
+        "file": "5-3.webp",
+        "alt": "Beeld bij Ezra 5: Tattenai vraagt naar de bouwvergunning",
+        "scene": "Tattenai vraagt naar de bouwvergunning"
+      },
+      "after": {
+        "chapter": 5,
+        "verse": 3,
+        "file": "5-3.webp",
+        "alt": "Beeld bij Ezra 5: Thathnai vraagt naar de bouwvergunning",
+        "scene": "Thathnai vraagt naar de bouwvergunning"
+      },
+      "reason": "Naam volgt de plaatselijke hoofdstuktekst."
+    },
+    {
+      "book": "nehemia",
+      "before": {
+        "chapter": 2,
+        "file": "2-walls.webp",
+        "alt": "Nehemia bekijkt de beschadigde muur van Jeruzalem",
+        "scene": "Nehemia bekijkt de muren"
+      },
+      "after": {
+        "chapter": 2,
+        "verse": 13,
+        "scene": "Nachtelijke inspectie van de muren",
+        "alt": "Nachtelijke inspectie van de muren — Nehemia 2:13",
+        "kind": "scene",
+        "file": "2-13-inhoudelijk.webp",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "De eerdere daglichtweergave van de inspectie vervangen door nacht, één rijdier en enkele begeleiders zoals Nehemia 2:12–13."
+    },
+    {
+      "book": "nehemia",
+      "before": {
+        "chapter": 8,
+        "file": "8-reading.webp",
+        "alt": "Ezra leest de wet voor aan het volk",
+        "scene": "De wet wordt voorgelezen"
+      },
+      "after": {
+        "chapter": 8,
+        "file": "8-reading.webp",
+        "alt": "Ezra leest de wet voor aan het volk",
+        "scene": "De wet wordt voorgelezen",
+        "verse": 4,
+        "kind": "scene"
+      },
+      "reason": "Het beeld aan het bijbehorende vers gekoppeld in plaats van standaardvers 1."
+    },
+    {
+      "book": "esther",
+      "before": {
+        "chapter": 2,
+        "file": "2-court.webp",
+        "alt": "Esther wordt voorgesteld aan het koninklijk hof",
+        "scene": "Esther aan het hof"
+      },
+      "after": {
+        "chapter": 2,
+        "file": "2-court.webp",
+        "alt": "Esther wordt voorgesteld aan het koninklijk hof",
+        "scene": "Esther aan het hof",
+        "verse": 16,
+        "kind": "scene"
+      },
+      "reason": "Het beeld aan het bijbehorende vers gekoppeld in plaats van standaardvers 1."
+    },
+    {
+      "book": "nehemia",
+      "before": {
+        "chapter": 11,
+        "verse": 17,
+        "file": "11-17.webp",
+        "alt": "Beeld bij Nehemia 11: Mattanja begint het dankgebed",
+        "scene": "Mattanja begint het dankgebed"
+      },
+      "after": {
+        "chapter": 11,
+        "verse": 17,
+        "file": "11-17.webp",
+        "alt": "Beeld bij Nehemia 11: Matthanja begint het dankgebed",
+        "scene": "Matthanja begint het dankgebed"
+      },
+      "reason": "Naam volgt de plaatselijke hoofdstuktekst."
+    },
+    {
+      "book": "esther",
+      "before": {
+        "chapter": 4,
+        "file": "4-decision.webp",
+        "alt": "Esther overlegt met Mordechai bij de paleispoort",
+        "scene": "Esthers besluit"
+      },
+      "after": {
+        "chapter": 4,
+        "verse": 9,
+        "scene": "Hatach brengt Mordechai’s boodschap bij Esther",
+        "alt": "Hatach brengt Mordechai’s boodschap bij Esther — Esther 4:9",
+        "kind": "scene",
+        "file": "4-9-inhoudelijk.webp",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Rechtstreekse ontmoeting tussen Esther en Mordechai vervangen door de in Esther 4:9 genoemde bemiddeling van Hatach."
+    }
+  ]
+}

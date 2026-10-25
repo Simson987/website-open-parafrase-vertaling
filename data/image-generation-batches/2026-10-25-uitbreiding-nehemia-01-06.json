@@ -423,28 +423,84 @@
       "alt": "De twee huwelijksverbindingen en hun rol in de brievenwisseling.",
       "kind": "diagram",
       "width": 840,
-      "height": 1048,
+      "height": 1000,
       "source": "Nehemia 6:17–19",
       "design": {
-        "rows": [
+        "type": "genealogy and marriage network",
+        "nodes": [
           [
-            "Sechanja, zoon van Arah",
-            "Zijn dochter is getrouwd met Tobia; Tobia is Sechanja’s schoonzoon."
+            "Arah",
+            140,
+            180
           ],
           [
-            "Tobia en zijn zoon",
-            "Johanan is Tobia’s zoon."
+            "Berechja",
+            700,
+            180
           ],
           [
-            "Mesullam, zoon van Berechja",
-            "Zijn dochter is getrouwd met Johanan."
+            "Sechanja",
+            140,
+            300
           ],
           [
-            "De brieven",
-            "Edelen corresponderen met Tobia, prijzen hem bij Nehemia en geven Nehemia’s woorden door."
+            "Mesullam",
+            700,
+            300
+          ],
+          [
+            "Dochter",
+            140,
+            420
+          ],
+          [
+            "Tobia",
+            420,
+            420
+          ],
+          [
+            "Johanan",
+            420,
+            600
+          ],
+          [
+            "Dochter",
+            700,
+            600
           ]
         ],
-        "note": "De dochters krijgen hier geen eigennaam; beide huwelijksbanden worden niet tot één vader-zoonketen gemaakt."
+        "parent_child": [
+          [
+            "Arah",
+            "Sechanja"
+          ],
+          [
+            "Sechanja",
+            "unnamed daughter"
+          ],
+          [
+            "Berechja",
+            "Mesullam"
+          ],
+          [
+            "Mesullam",
+            "unnamed daughter"
+          ],
+          [
+            "Tobia",
+            "Johanan"
+          ]
+        ],
+        "marriages": [
+          [
+            "Sechanja daughter",
+            "Tobia"
+          ],
+          [
+            "Johanan",
+            "Mesullam daughter"
+          ]
+        ]
       }
     }
   ]

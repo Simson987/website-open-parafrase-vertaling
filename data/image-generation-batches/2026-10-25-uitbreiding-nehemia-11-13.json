@@ -329,32 +329,32 @@
       "alt": "De twee afzonderlijke routes en hun samenkomst zonder een verzonnen kaart.",
       "kind": "diagram",
       "width": 840,
-      "height": 1498,
+      "height": 1580,
       "source": "Nehemia 12:31–42",
       "design": {
-        "rows": [
-          [
-            "Eerste koor",
-            "Rechts naar de Mestpoort; Hosaja en helft leiders volgen; Ezra loopt voor hen uit."
-          ],
-          [
-            "Eerste route verder",
-            "Bronpoort → trappen Stad van David → opgang muur → huis van David → Waterpoort in het oosten."
-          ],
-          [
-            "Tweede koor",
-            "Andere richting; Nehemia met helft volk erachter."
-          ],
-          [
-            "Tweede route verder",
-            "Bakoventoren → brede muur → Efraïmpoort → Oude Poort → Vispoort → Hananeël → Mea → Schaapspoort; stilstaan bij Wachtpoort."
-          ],
-          [
-            "Samen",
-            "Beide koren daarna in Gods huis; priesters met trompetten en zangers onder Jizrahja."
-          ]
+        "type": "parallel procession flow",
+        "first": [
+          "Mestpoort",
+          "Bronpoort",
+          "Trappen Stad van David",
+          "Opgang van de muur",
+          "Huis van David",
+          "Waterpoort in het oosten"
         ],
-        "note": "De pijlen geven de tekstvolgorde, geen noordpijl, schaal of bewezen straatgeometrie. Twee verschillende optochten komen samen."
+        "second": [
+          "Bakoventoren",
+          "Brede muur",
+          "Efraïmpoort",
+          "Oude Poort",
+          "Vispoort",
+          "Toren Hananeël",
+          "Toren Mea",
+          "Schaapspoort",
+          "Wachtpoort: stilstaan"
+        ],
+        "meeting": "Huis van God",
+        "source": "Nehemia 12:31–42",
+        "note": "Tekstvolgorde zonder schaal of geografische reconstructie."
       }
     },
     {
