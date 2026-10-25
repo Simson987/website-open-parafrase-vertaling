@@ -1,0 +1,629 @@
+{
+  "date": "2026-10-25",
+  "started": "2026-10-25T04:41:08Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "daniel",
+      "chapter": 1,
+      "verse": 8,
+      "scene": "Daniël vraagt naar het eten",
+      "alt": "Daniël vraagt naar het eten — Daniël 1:8; scène uit het hoofdstuk.",
+      "kind": "scene",
+      "file": "1-8-verzoek-over-eten-verdieping.webp",
+      "prompt": "Use case: historical-scene. Photorealistic ancient Babylonian Bible illustration, landscape 3:2, linen robes, mudbrick, wood and natural metal; coherent separate bodies, normal fingers, exactly two arms per person, fully covering opaque modest clothing. No modern things, watermark, readable text, graphic violence, blood, wounds or deity body. A young fully robed Judean male student respectfully speaks to an older fully robed Babylonian court supervisor in a quiet palace side room, one plain table with a wine cup and a dish of rich food untouched beside them, ordinary hands, no angry punishment, written agreement, royal crown on the student or extra youths. Depict the respectful request to avoid defilement, not the later meal.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "daniel",
+      "chapter": 1,
+      "verse": 19,
+      "scene": "Vier jongemannen voor de koning",
+      "alt": "Vier jongemannen voor de koning — Daniël 1:19; scène uit het hoofdstuk.",
+      "kind": "scene",
+      "file": "1-19-voor-de-koning-verdieping.webp",
+      "prompt": "Use case: historical-scene. Photorealistic ancient Babylonian Bible illustration, landscape 3:2, linen robes, mudbrick, wood and natural metal; coherent separate bodies, normal fingers, exactly two arms per person, fully covering opaque modest clothing. No modern things, watermark, readable text, graphic violence, blood, wounds or deity body. Exactly four fully robed young Judean men stand side by side before a seated ancient Babylonian king in an audience hall; the king asks a question, the four listen attentively, ordinary separate bodies and hands, no huge crowd, supernatural aura, readable text or modern throne. Distinct from their studying or eating scene.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "daniel",
+      "chapter": 2,
+      "verse": 14,
+      "scene": "Daniël spreekt verstandig met Arioch",
+      "alt": "Daniël spreekt verstandig met Arioch — Daniël 2:14; scène uit het hoofdstuk.",
+      "kind": "scene",
+      "file": "2-14-gesprek-met-arioch-verdieping.webp",
+      "prompt": "Use case: historical-scene. Photorealistic ancient Babylonian Bible illustration, landscape 3:2, linen robes, mudbrick, wood and natural metal; coherent separate bodies, normal fingers, exactly two arms per person, fully covering opaque modest clothing. No modern things, watermark, readable text, graphic violence, blood, wounds or deity body. A fully robed young Judean man speaks calmly and thoughtfully with one Babylonian captain of the guard at a plain palace corridor, captain holds a sheathed sword at his belt but no drawn weapon, both listen, exactly two people, ordinary arms and hands, no threatened victims, violence, corpses or writing. Depict the prudent question about the harsh order.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "daniel",
+      "chapter": 2,
+      "verse": 19,
+      "scene": "Daniël dankt na het nachtvisioen",
+      "alt": "Daniël dankt na het nachtvisioen — Daniël 2:19; scène uit het hoofdstuk.",
+      "kind": "scene",
+      "file": "2-19-nachtelijk-lofgebed-verdieping.webp",
+      "prompt": "Use case: historical-scene. Photorealistic ancient Babylonian Bible illustration, landscape 3:2, linen robes, mudbrick, wood and natural metal; coherent separate bodies, normal fingers, exactly two arms per person, fully covering opaque modest clothing. No modern things, watermark, readable text, graphic violence, blood, wounds or deity body. A fully robed young Judean man alone in a small ancient mudbrick room at night, kneels beside a simple low bed and raises two ordinary open hands in grateful prayer, small oil lamp and soft night sky at a window. No divine face, ghost, displayed statue, readable writing or invented magical symbols. The thanksgiving after the secret is revealed in a night vision.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "daniel",
+      "chapter": 2,
+      "verse": 35,
+      "scene": "Droombeeld: de steen wordt een berg",
+      "alt": "Droombeeld: de steen wordt een berg — Daniël 2:35; beeld uit de droom.",
+      "kind": "poetic",
+      "file": "2-35-steen-wordt-berg-verdieping.webp",
+      "prompt": "Use case: historical-scene. Photorealistic ancient Babylonian Bible illustration, landscape 3:2, linen robes, mudbrick, wood and natural metal; coherent separate bodies, normal fingers, exactly two arms per person, fully covering opaque modest clothing. No modern things, watermark, readable text, graphic violence, blood, wounds or deity body. A vast natural rocky mountain rises across an ancient wide plain under a clear sky, very fine dust blows away from an empty foreground where no statue remains, no people, modern buildings, face in mountain, floating planets or readable words. Poetic final image of the dream: the stone becomes a mountain, distinct from the earlier impact on the statue feet.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "daniel",
+      "chapter": 2,
+      "verse": 48,
+      "scene": "Daniël krijgt zijn aanstelling",
+      "alt": "Daniël krijgt zijn aanstelling — Daniël 2:48; scène uit het hoofdstuk.",
+      "kind": "scene",
+      "file": "2-48-aanstelling-daniel-verdieping.webp",
+      "prompt": "Use case: historical-scene. Photorealistic ancient Babylonian Bible illustration, landscape 3:2, linen robes, mudbrick, wood and natural metal; coherent separate bodies, normal fingers, exactly two arms per person, fully covering opaque modest clothing. No modern things, watermark, readable text, graphic violence, blood, wounds or deity body. A fully robed Babylonian king seated in a plain ancient audience hall gestures to appoint one fully robed young Judean man standing before him; a respectful official sets a small covered gift chest beside the young man, coherent ordinary hands, no modern certificate, crown on the appointee, readable scroll or divine aura. Illustrate royal appointment and gifts after the explained dream.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "daniel",
+      "chapter": 3,
+      "verse": 5,
+      "scene": "De instrumenten bij het bevel",
+      "alt": "De instrumenten bij het bevel — Daniël 3:5; scène uit het hoofdstuk.",
+      "kind": "scene",
+      "file": "3-5-muziekinstrumenten-verdieping.webp",
+      "prompt": "Use case: historical-scene. Photorealistic ancient Babylonian Bible illustration, landscape 3:2, linen robes, mudbrick, wood and natural metal; coherent separate bodies, normal fingers, exactly two arms per person, fully covering opaque modest clothing. No modern things, watermark, readable text, graphic violence, blood, wounds or deity body. A quiet close still life of several ordinary ancient Near Eastern musical instruments laid near a ceremonial platform: horn, reed flute, small wooden lyre, harp and a simple leather bag with pipes. No modern brass trumpet, guitar, orchestra sheet music, letters, worshipping person or claim that each object is an exact excavated model. Material evocation of the listed music that signals the order.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "daniel",
+      "chapter": 3,
+      "verse": 25,
+      "scene": "Vier mannen lopen in het vuur",
+      "alt": "Vier mannen lopen in het vuur — Daniël 3:25; scène uit het hoofdstuk.",
+      "kind": "scene",
+      "file": "3-25-vier-in-de-oven-verdieping.webp",
+      "prompt": "Use case: historical-scene. Photorealistic ancient Babylonian Bible illustration, landscape 3:2, linen robes, mudbrick, wood and natural metal; coherent separate bodies, normal fingers, exactly two arms per person, fully covering opaque modest clothing. No modern things, watermark, readable text, graphic violence, blood, wounds or deity body. View from outside a broad opening of an ancient brick furnace: EXACTLY FOUR separate adult male figures stand and walk calmly inside amid flames that do not touch or damage their fully covering robes. Three ordinary young men in simple robes and a fourth robed messenger seen from behind in bright surrounding light; the fourth has no visible face, wings, halo, crucifix or asserted deity identity. All four have coherent heads, two arms and two legs, no extra humans, no ropes, injury, panic or burning flesh. The king’s report of four unharmed figures, no extra named identity for the fourth.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "daniel",
+      "chapter": 4,
+      "verse": 30,
+      "scene": "De koning spreekt op het paleisdak",
+      "alt": "De koning spreekt op het paleisdak — Daniël 4:30; scène uit het hoofdstuk.",
+      "kind": "scene",
+      "file": "4-30-dak-van-babel-verdieping.webp",
+      "prompt": "Use case: historical-scene. Photorealistic ancient Babylonian Bible illustration, landscape 3:2, linen robes, mudbrick, wood and natural metal; coherent separate bodies, normal fingers, exactly two arms per person, fully covering opaque modest clothing. No modern things, watermark, readable text, graphic violence, blood, wounds or deity body. A fully robed Babylonian king stands on a broad flat ancient palace rooftop overlooking a large mudbrick city, a ziggurat and river below, one ordinary hand gestures outward with proud posture. No modern city, floating being, text, angel or crown falling. The moment of his boast before the announcement, distinct from his later thankful upward gaze.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "daniel",
+      "chapter": 4,
+      "verse": 33,
+      "scene": "De koning leeft buiten bij de dieren",
+      "alt": "De koning leeft buiten bij de dieren — Daniël 4:33; scène uit het hoofdstuk.",
+      "kind": "scene",
+      "file": "4-33-leven-bij-dieren-verdieping.webp",
+      "prompt": "Use case: historical-scene. Photorealistic ancient Babylonian Bible illustration, landscape 3:2, linen robes, mudbrick, wood and natural metal; coherent separate bodies, normal fingers, exactly two arms per person, fully covering opaque modest clothing. No modern things, watermark, readable text, graphic violence, blood, wounds or deity body. A bearded ancient adult man with long unkempt hair wearing fully covering plain coarse opaque robes sits low in damp grass beside two grazing cattle outside a distant city, he gathers a small handful of grass near his mouth. Respectful sober portrayal of humiliation, coherent ordinary arms and legs, no nudity, human-animal hybrid, grotesque claws, feathers growing from skin, chains, mocking crowd or injuries. Illustrate the reported life among animals without turning comparisons into a monstrous anatomy.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "daniel",
+      "chapter": 5,
+      "verse": 10,
+      "scene": "De koningin komt met raad",
+      "alt": "De koningin komt met raad — Daniël 5:10; scène uit het hoofdstuk.",
+      "kind": "scene",
+      "file": "5-10-koningin-komt-verdieping.webp",
+      "prompt": "Use case: historical-scene. Photorealistic ancient Babylonian Bible illustration, landscape 3:2, linen robes, mudbrick, wood and natural metal; coherent separate bodies, normal fingers, exactly two arms per person, fully covering opaque modest clothing. No modern things, watermark, readable text, graphic violence, blood, wounds or deity body. A dignified fully covered ancient Babylonian queen enters a banquet hall and calmly addresses a frightened seated fully robed king while nearby robed courtiers turn to listen, natural restrained gestures and distinct hands, no magic aura, readable wall writing, modern gown, eroticism or violence. The queen’s recommendation to call Daniel, separate from the earlier feast scene.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "daniel",
+      "chapter": 5,
+      "verse": 29,
+      "scene": "Daniël ontvangt purper en een ketting",
+      "alt": "Daniël ontvangt purper en een ketting — Daniël 5:29; scène uit het hoofdstuk.",
+      "kind": "scene",
+      "file": "5-29-purper-en-ketting-verdieping.webp",
+      "prompt": "Use case: historical-scene. Photorealistic ancient Babylonian Bible illustration, landscape 3:2, linen robes, mudbrick, wood and natural metal; coherent separate bodies, normal fingers, exactly two arms per person, fully covering opaque modest clothing. No modern things, watermark, readable text, graphic violence, blood, wounds or deity body. An elderly bearded fully robed Judean man stands calmly while two ordinary fully robed Babylonian attendants put a purple outer robe over his existing modest garments and place one simple gold chain around his neck, exactly three people with coherent arms and hands, no crown, modern medals, empty robe that looks like an arm or written signs. Actual honor bestowed after he has given the explanation.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "daniel",
+      "chapter": 6,
+      "verse": 18,
+      "scene": "De steen wordt verzegeld",
+      "alt": "De steen wordt verzegeld — Daniël 6:18; scène uit het hoofdstuk.",
+      "kind": "scene",
+      "file": "6-18-steen-verzegeld-verdieping.webp",
+      "prompt": "Use case: historical-scene. Photorealistic ancient Babylonian Bible illustration, landscape 3:2, linen robes, mudbrick, wood and natural metal; coherent separate bodies, normal fingers, exactly two arms per person, fully covering opaque modest clothing. No modern things, watermark, readable text, graphic violence, blood, wounds or deity body. Close view of an ancient stone slab already covering a pit entrance, two fully robed adult men press distinct small signet rings into clay seals attached with cord at the slab edge, one man wears a restrained royal sleeve, normal separate four hands, no visible prisoner, lion, injuries, modern lock or readable letters. The king and courtiers sealing the stone, no violence in progress.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "daniel",
+      "chapter": 6,
+      "verse": 19,
+      "scene": "Darius waakt zonder eten",
+      "alt": "Darius waakt zonder eten — Daniël 6:19; scène uit het hoofdstuk.",
+      "kind": "scene",
+      "file": "6-19-slapeloze-nacht-verdieping.webp",
+      "prompt": "Use case: historical-scene. Photorealistic ancient Babylonian Bible illustration, landscape 3:2, linen robes, mudbrick, wood and natural metal; coherent separate bodies, normal fingers, exactly two arms per person, fully covering opaque modest clothing. No modern things, watermark, readable text, graphic violence, blood, wounds or deity body. A fully robed ancient Median king sits awake on the edge of a low palace bed at night, an untouched covered food tray on a distant table and a small oil lamp, sorrowful worried face, ordinary resting two hands. No feast, entertainers, music being played, sleeping person, lettered text, dramatic apparition or modern furniture. Depict his sleepless fast while Daniel is in the den.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "daniel",
+      "chapter": 6,
+      "verse": 21,
+      "scene": "Darius roept bij het eerste licht",
+      "alt": "Darius roept bij het eerste licht — Daniël 6:21; scène uit het hoofdstuk.",
+      "kind": "scene",
+      "file": "6-21-roepen-bij-de-kuil-verdieping.webp",
+      "prompt": "Use case: historical-scene. Photorealistic ancient Babylonian Bible illustration, landscape 3:2, linen robes, mudbrick, wood and natural metal; coherent separate bodies, normal fingers, exactly two arms per person, fully covering opaque modest clothing. No modern things, watermark, readable text, graphic violence, blood, wounds or deity body. At dawn a fully robed ancient Median king bends slightly toward a closed stone-covered rock pit entrance and calls down sorrowfully, one robed attendant stands behind, coherent ordinary bodies and hands, no visible victim, lion attacking, written text or open modern well. Depict the first-light inquiry before Daniel is taken out, no violent action.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "daniel",
+      "chapter": 6,
+      "verse": 24,
+      "scene": "Daniël komt ongedeerd uit de kuil",
+      "alt": "Daniël komt ongedeerd uit de kuil — Daniël 6:24; scène uit het hoofdstuk.",
+      "kind": "scene",
+      "file": "6-24-uit-de-kuil-gehaald-verdieping.webp",
+      "prompt": "Use case: historical-scene. Photorealistic ancient Babylonian Bible illustration, landscape 3:2, linen robes, mudbrick, wood and natural metal; coherent separate bodies, normal fingers, exactly two arms per person, fully covering opaque modest clothing. No modern things, watermark, readable text, graphic violence, blood, wounds or deity body. An elderly fully robed Judean man climbs safely from an ancient rock pit opening while two fully robed adult helpers on firm ground steady him with an ordinary rope loop around his waist and their normal hands, a relieved fully robed king stands aside. Exactly four people, coherent separate bodies and arms, robes completely intact, no wounds, dangling by neck, flying person, attacking lion or modern rescue harness. The safe removal after his answer, not a new fall into the pit.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "daniel",
+      "chapter": 1,
+      "verse": 1,
+      "file": "1-leeswijzer.svg",
+      "scene": "Vier jongeren, proef en dienst",
+      "alt": "De volledige voortgang van de gebeurtenissen en de plaats van de uitleg.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1157,
+      "source": "Daniël 1:1–21",
+      "design": {
+        "rows": [
+          [
+            "Wegvoering en opleiding · 1–7",
+            "Jojakim, voorwerpen naar Sinear; geselecteerde jongeren, drie jaar boeken en taal, koninklijk eten en andere namen."
+          ],
+          [
+            "De proef · 8–16",
+            "Niet onrein worden, gunst en vrees van de hofdienaar; opzichter stemt toe in tien dagen groente en water, beter uiterlijk."
+          ],
+          [
+            "De gaven en dienst · 17–21",
+            "Kennis en inzicht voor vier, dromen en visioenen voor Daniël; bij de koning tien keer beter bevonden, Daniël tot Kores."
+          ]
+        ],
+        "note": "De versnummering volgt deze hoofdstuktekst. Vertelde gebeurtenissen, geciteerde uitspraken en droombeelden hebben elk hun eigen plaats."
+      }
+    },
+    {
+      "book": "daniel",
+      "chapter": 2,
+      "verse": 1,
+      "file": "2-leeswijzer.svg",
+      "scene": "Droom, openbaring en koninkrijk",
+      "alt": "De volledige voortgang van de gebeurtenissen en de plaats van de uitleg.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1306,
+      "source": "Daniël 2:1–49",
+      "design": {
+        "rows": [
+          [
+            "De onmogelijke eis · 1–13",
+            "Tweede jaar, onrustige droom; koning vraagt droom én uitleg, wijzen kunnen niet, doodsbevel."
+          ],
+          [
+            "Vragen en danken · 14–23",
+            "Arioch, tijd vragen, vrienden om ontferming, nachtvisioen en dank voor geschonken wijsheid."
+          ],
+          [
+            "Droom en uitleg · 24–45",
+            "Daniël voorkomt doden, schrijft onthulling aan God toe; beeld, steen, berg en opvolgende koninkrijken."
+          ],
+          [
+            "De aanstellingen · 46–49",
+            "Koning erkent de onthuller van geheimen; Daniël groot en over Babel en wijzen, drie vrienden in bestuur, Daniël aan het hof."
+          ]
+        ],
+        "note": "De versnummering volgt deze hoofdstuktekst. Vertelde gebeurtenissen, geciteerde uitspraken en droombeelden hebben elk hun eigen plaats."
+      }
+    },
+    {
+      "book": "daniel",
+      "chapter": 3,
+      "verse": 1,
+      "file": "3-leeswijzer.svg",
+      "scene": "Bevel, weigering en redding",
+      "alt": "De volledige voortgang van de gebeurtenissen en de plaats van de uitleg.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1306,
+      "source": "Daniël 3:1–30",
+      "design": {
+        "rows": [
+          [
+            "Het bevel · 1–12",
+            "Gouden beeld 30 m hoog en 3 m breed in Dura, ambtenaren en muzieksignaal; weigering van drie Judeeërs aangeklaagd."
+          ],
+          [
+            "Het antwoord · 13–18",
+            "Tweede kans, dreiging en vertrouwen; God kan redden, en ook anders zullen zij het beeld niet aanbidden."
+          ],
+          [
+            "Het vuur · 19–27",
+            "Zevenmaal heter, drie gebonden in vuur; koning ziet vier los en ongedeerd, drie naar buiten en kleding onderzocht."
+          ],
+          [
+            "Het gevolg · 28–30",
+            "Koning prijst hun God die een engel zond, bevel tegen kwaadspreken en voorspoed voor de drie."
+          ]
+        ],
+        "note": "De versnummering volgt deze hoofdstuktekst. Vertelde gebeurtenissen, geciteerde uitspraken en droombeelden hebben elk hun eigen plaats."
+      }
+    },
+    {
+      "book": "daniel",
+      "chapter": 4,
+      "verse": 1,
+      "file": "4-leeswijzer.svg",
+      "scene": "Boomdroom en vernederde koning",
+      "alt": "De volledige voortgang van de gebeurtenissen en de plaats van de uitleg.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1263,
+      "source": "Daniël 4:1–37",
+      "design": {
+        "rows": [
+          [
+            "Het getuigenis · 1–9",
+            "Koninklijke groet, tekenen, rust en verontrustende droom; wijzen falen, Daniël gevraagd."
+          ],
+          [
+            "De droom · 10–18",
+            "Grote voedende boom, wachter, omhakken maar stronk met ijzer en brons; dierenhart en zeven tijden."
+          ],
+          [
+            "Uitleg en raad · 19–27",
+            "Boom is de koning, verstoten en daarna erkenning; stronk bewaart koninkrijk, oproep tot recht en zorg voor armen."
+          ],
+          [
+            "De vervulling · 28–37",
+            "Na twaalf maanden grootspraak op het dak; woord, leven bij dieren, later verstand, lof en koninkrijk hersteld."
+          ]
+        ],
+        "note": "De versnummering volgt deze hoofdstuktekst. Vertelde gebeurtenissen, geciteerde uitspraken en droombeelden hebben elk hun eigen plaats."
+      }
+    },
+    {
+      "book": "daniel",
+      "chapter": 5,
+      "verse": 1,
+      "file": "5-leeswijzer.svg",
+      "scene": "Schrift, uitleg en de nacht",
+      "alt": "De volledige voortgang van de gebeurtenissen en de plaats van de uitleg.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1220,
+      "source": "Daniël 5:1–30",
+      "design": {
+        "rows": [
+          [
+            "Feest en schrik · 1–9",
+            "Duizend hovelingen, tempelvoorwerpen en afgodenlof; vingers schrijven bij kandelaar, wijzen kunnen niet lezen."
+          ],
+          [
+            "Daniël gehaald · 10–17",
+            "Koningin herinnert aan inzicht, Daniël geroepen; beloning aangeboden en afgewezen, uitleg wel gegeven."
+          ],
+          [
+            "De aanklacht en uitleg · 18–28",
+            "Vader vernederd, Belsazar wist het en verheft zich toch; adem niet geëerd, geteld, gewogen en verdeeld."
+          ],
+          [
+            "Dezelfde nacht · 29–30",
+            "Toch purper, ketting en derde heerser; die nacht wordt Belsazar gedood."
+          ]
+        ],
+        "note": "De versnummering volgt deze hoofdstuktekst. Vertelde gebeurtenissen, geciteerde uitspraken en droombeelden hebben elk hun eigen plaats."
+      }
+    },
+    {
+      "book": "daniel",
+      "chapter": 6,
+      "verse": 1,
+      "file": "6-leeswijzer.svg",
+      "scene": "Trouw, verbod en redding",
+      "alt": "De volledige voortgang van de gebeurtenissen en de plaats van de uitleg.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1349,
+      "source": "Daniël 6:1–29",
+      "design": {
+        "rows": [
+          [
+            "Het plan · 1–10",
+            "Darius, 120 stadhouders en drie bestuurders; betrouwbare Daniël aangeklaagd via dertigdaags gebedsverbod."
+          ],
+          [
+            "Gebed en de kuil · 11–19",
+            "Driemaal per dag zoals altijd, aanklacht en vergeefse reddingspoging; kuil, verzegelde steen en slapeloze koning."
+          ],
+          [
+            "Het eerste licht · 20–25",
+            "Koning roept, Daniël antwoordt over engel en gesloten muilen; ongedeerd omhoog, oordeel over aanklagers."
+          ],
+          [
+            "De verkondiging · 26–29",
+            "Brief aan alle volken met vrede en eerbied voor levende God die redt; Daniël voorspoed onder Darius en Kores."
+          ]
+        ],
+        "note": "De versnummering volgt deze hoofdstuktekst. Vertelde gebeurtenissen, geciteerde uitspraken en droombeelden hebben elk hun eigen plaats."
+      }
+    },
+    {
+      "book": "daniel",
+      "chapter": 1,
+      "verse": 6,
+      "file": "1-vier-namen.svg",
+      "scene": "Vier mannen, andere namen",
+      "alt": "Exacte koppeling van de vier eigen namen en hofnamen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 919,
+      "source": "Daniël 1:6–7",
+      "design": {
+        "rows": [
+          [
+            "Daniël",
+            "Wordt Beltsazar genoemd."
+          ],
+          [
+            "Hananja",
+            "Wordt Sadrach genoemd."
+          ],
+          [
+            "Misaël",
+            "Wordt Mesach genoemd."
+          ],
+          [
+            "Azarja",
+            "Wordt Abed-Nego genoemd."
+          ]
+        ],
+        "note": "Beltsazar is Daniëls hofnaam. Belsazar zonder de t is de naam van de koning in hoofdstuk 5; de twee personen blijven onderscheiden."
+      }
+    },
+    {
+      "book": "daniel",
+      "chapter": 2,
+      "verse": 32,
+      "file": "2-beeld-en-uitleg.svg",
+      "scene": "Het beeld en de gegeven uitleg",
+      "alt": "Materiaal, lichaamsdeel en de expliciete gegeven uitleg zonder toegevoegde rijksnamen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1597,
+      "source": "Daniël 2:32–45",
+      "design": {
+        "rows": [
+          [
+            "Gouden hoofd · 32,37–38",
+            "Nebukadnezar, die koninkrijk, macht en eer kreeg: u bent het gouden hoofd."
+          ],
+          [
+            "Zilver · 32,39",
+            "Borst en armen; daarna een ander, minder groot koninkrijk."
+          ],
+          [
+            "Brons · 32,39",
+            "Buik en heupen; een derde koninkrijk dat over heel de aarde zal heersen."
+          ],
+          [
+            "IJzer · 33,40",
+            "Benen; vierde koninkrijk, sterk en verbrijzelend als ijzer."
+          ],
+          [
+            "IJzer en klei · 33,41–43",
+            "Voeten en tenen; verdeeld, deels sterk en deels breekbaar, ondanks huwelijken niet hechtend."
+          ],
+          [
+            "Steen en Koninkrijk · 34–35,44–45",
+            "Zonder mensenhanden uit de berg, vernietigt het beeld en wordt berg; God geeft een blijvend Koninkrijk."
+          ]
+        ],
+        "note": "Alleen het gouden hoofd wordt hier aan een genoemde koning gekoppeld. Niet genoemde namen van latere rijken worden niet als tekstfeit ingevuld."
+      }
+    },
+    {
+      "book": "daniel",
+      "chapter": 2,
+      "verse": 14,
+      "file": "2-van-vraag-naar-uitleg.svg",
+      "scene": "Van gevaar naar bekendmaking",
+      "alt": "Van gevaar naar bekendmaking — Daniël 2:14–30",
+      "kind": "diagram",
+      "width": 840,
+      "height": 836,
+      "source": "Daniël 2:14–30",
+      "design": {
+        "type": "vertical named sequence",
+        "names": [
+          "Arioch legt het bevel uit",
+          "Daniël vraagt tijd aan koning",
+          "Vrienden vragen om ontferming",
+          "Nachtvisioen en dankgebed",
+          "Arioch brengt hem bij koning",
+          "God onthult; Daniël verklaart"
+        ],
+        "note": "Daniël vraagt eerst om het doden van de wijzen te stoppen. Hij zegt dat het geheim hem niet om uitzonderlijke eigen wijsheid is onthuld, maar om de koning te laten begrijpen."
+      }
+    },
+    {
+      "book": "daniel",
+      "chapter": 3,
+      "verse": 20,
+      "file": "3-drie-vier-drie.svg",
+      "scene": "Drie, vier en drie",
+      "alt": "Exacte aantallen en verandering van gebonden naar los en ongedeerd.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1220,
+      "source": "Daniël 3:20–28",
+      "design": {
+        "rows": [
+          [
+            "Drie gebonden · 20–23",
+            "Sadrach, Mesach en Abed-Nego in hun kleding vastgebonden en in de oven."
+          ],
+          [
+            "Vier los · 24–25",
+            "De koning ziet vier mannen zonder letsel rondlopen; de vierde lijkt hem op een zoon van de goden."
+          ],
+          [
+            "Drie naar buiten · 26–27",
+            "De drie bij naam geroepen en onderzocht: geen verbrand haar, kapotte mantel of brandlucht."
+          ],
+          [
+            "Zijn erkenning · 28",
+            "De koning prijst hun God die Zijn engel stuurde en Zijn vertrouwende dienaren redde."
+          ]
+        ],
+        "note": "De waarneming in vers 25 en de uitspraak over de engel in vers 28 staan beide vermeld. De vierde krijgt geen extra persoonsnaam."
+      }
+    },
+    {
+      "book": "daniel",
+      "chapter": 4,
+      "verse": 20,
+      "file": "4-boom-en-betekenis.svg",
+      "scene": "Boom, stronk en de koning",
+      "alt": "De expliciete symbolische verbanden en het onderscheid tussen droom, raad en vervulling.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1213,
+      "source": "Daniël 4:20–37",
+      "design": {
+        "rows": [
+          [
+            "De hoge boom · 20–22",
+            "De koning: grootheid en macht, voedsel en schaduw voor velen."
+          ],
+          [
+            "De afgehakte boom · 23–25",
+            "Weggejaagd van mensen, bij dieren, gras en dauw; zeven tijden tot hij de Allerhoogste erkent."
+          ],
+          [
+            "De blijvende stronk · 26",
+            "Het koninkrijk blijft voor hem zodra hij erkent dat de Hemel regeert."
+          ],
+          [
+            "Raad en vervulling · 27–37",
+            "Recht en armenzorg; twaalf maanden later grootspraak, vernedering, later verstand en koningschap terug."
+          ]
+        ],
+        "note": "De zeven tijden worden niet zonder toelichting in zeven kalenderjaren veranderd. De dierenvergelijkingen worden niet als bovennatuurlijke lichaamsdelen getekend."
+      }
+    },
+    {
+      "book": "daniel",
+      "chapter": 5,
+      "verse": 25,
+      "file": "5-woorden-en-uitleg.svg",
+      "scene": "De woorden en hun uitleg",
+      "alt": "Exacte geschreven reeks en de drie gegeven verklaringen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1084,
+      "source": "Daniël 5:25–28",
+      "design": {
+        "rows": [
+          [
+            "Het schrift · 25",
+            "MENE, MENE, TEKEL, UPHARSIN."
+          ],
+          [
+            "MENE · 26",
+            "God heeft de dagen van uw koninkrijk geteld en er een einde aan gemaakt."
+          ],
+          [
+            "TEKEL · 27",
+            "Op de weegschaal gewogen en te licht bevonden."
+          ],
+          [
+            "PERES · 28",
+            "Uw koninkrijk is verdeeld en aan de Meden en de Perzen gegeven."
+          ]
+        ],
+        "note": "De geschreven reeks heeft tweemaal MENE en eindigt hier met UPHARSIN. Bij de uitleg gebruikt de hoofdstuktekst PERES; beide vormen blijven zichtbaar."
+      }
+    },
+    {
+      "book": "daniel",
+      "chapter": 6,
+      "verse": 2,
+      "file": "6-bestuur-en-gebed.svg",
+      "scene": "Bestuur, verbod en gebed",
+      "alt": "De precieze aantallen, hiërarchie en onderscheiden handelingen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1498,
+      "source": "Daniël 6:2–16",
+      "design": {
+        "rows": [
+          [
+            "Bestuur · 2–4",
+            "120 stadhouders onder drie rijksbestuurders; Daniël de eerste, koning wil hem over het hele rijk."
+          ],
+          [
+            "De zoektocht · 5–6",
+            "Geen bestuursfout of nalatigheid gevonden; alleen via de wet van zijn God een aanleiding zoeken."
+          ],
+          [
+            "Het verbod · 7–10",
+            "Dertig dagen niets vragen aan god of mens behalve koning, ondertekend en niet intrekbaar."
+          ],
+          [
+            "Daniëls gewoonte · 11–14",
+            "Open vensters naar Jeruzalem, driemaal per dag knielen, bidden en danken zoals daarvoor."
+          ],
+          [
+            "Darius · 15–16",
+            "Verdrietig en tot zonsondergang bezig hem te redden; herinnerd aan onwijzigbare wet."
+          ]
+        ],
+        "note": "Dertig dagen hoort bij het verbod, drie keer bij de dagelijkse gebeden. De aantallen worden niet met de drie bestuurders verwisseld."
+      }
+    }
+  ]
+}
