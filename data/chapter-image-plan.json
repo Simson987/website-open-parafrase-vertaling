@@ -11550,6 +11550,160 @@
           "source": "Ezra 9:1–15"
         }
       ]
+    },
+    {
+      "book": "nehemia",
+      "chapter": 2,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Koningsgesprek en publieke bouwoproep zijn aanwezig. De onjuiste daglichtweergave van de nachtelijke inspectie wordt vervangen door een gecontroleerde nachtscène; brieven met militaire begeleiding zijn een eigen gebeurtenis. Twee schema’s maken verzoek en route leesbaar.",
+      "additions": [
+        {
+          "verse": 9,
+          "scene": "Koninklijke brieven en begeleiding",
+          "kind": "scene",
+          "file": "2-9-inhoudelijk.webp"
+        },
+        {
+          "verse": 13,
+          "scene": "Nachtelijke inspectie van de muren",
+          "kind": "scene",
+          "file": "2-13-inhoudelijk.webp"
+        },
+        {
+          "verse": 1,
+          "file": "2-verzoek-brieven-en-reis.svg",
+          "scene": "Verzoek, brieven en reis",
+          "kind": "diagram",
+          "source": "Nehemia 2:1–11"
+        },
+        {
+          "verse": 12,
+          "file": "2-nachtelijke-inspectievolgorde.svg",
+          "scene": "De nachtelijke inspectie",
+          "kind": "diagram",
+          "source": "Nehemia 2:12–20"
+        }
+      ]
+    },
+    {
+      "book": "nehemia",
+      "chapter": 4,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Bouwen, wacht en hoornsignaal zijn aanwezig. Uitputting tussen het puin is een andere episode; een schema verbindt spot, dreiging en werkorganisatie.",
+      "additions": [
+        {
+          "verse": 10,
+          "scene": "Uitgeputte dragers tussen het puin",
+          "kind": "scene",
+          "file": "4-10-inhoudelijk.webp"
+        },
+        {
+          "verse": 1,
+          "file": "4-bouwen-bidden-en-bewaken.svg",
+          "scene": "Bouwen, bidden en bewaken",
+          "kind": "diagram",
+          "source": "Nehemia 4:1–23"
+        }
+      ]
+    },
+    {
+      "book": "nehemia",
+      "chapter": 5,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Graanklacht, eed en tafel zijn aanwezig. Mantel uitschudden is een apart teken; twee schema’s geven economische maatregelen en het verschil tussen bestuursjaren en bouwdagen.",
+      "additions": [
+        {
+          "verse": 13,
+          "scene": "Nehemia schudt zijn mantel uit",
+          "kind": "scene",
+          "file": "5-13-inhoudelijk.webp"
+        },
+        {
+          "verse": 1,
+          "file": "5-klachten-en-teruggave.svg",
+          "scene": "Klachten en teruggave",
+          "kind": "diagram",
+          "source": "Nehemia 5:1–13"
+        },
+        {
+          "verse": 14,
+          "file": "5-twaalf-jaar-en-de-tafel.svg",
+          "scene": "Twaalf jaar en de tafel",
+          "kind": "diagram",
+          "source": "Nehemia 5:14–19"
+        }
+      ]
+    },
+    {
+      "book": "nehemia",
+      "chapter": 6,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Weigering, Semaja en voltooiing zijn aanwezig. De open vijfde brief is een eigen gebeurtenis; twee schema’s ordenen intimidatie en de familiebanden achter de correspondentie.",
+      "additions": [
+        {
+          "verse": 5,
+          "scene": "De vijfde boodschap is een open brief",
+          "kind": "scene",
+          "file": "6-5-inhoudelijk.webp"
+        },
+        {
+          "verse": 1,
+          "file": "6-vijf-berichten-en-de-muur.svg",
+          "scene": "Vijf berichten en de muur",
+          "kind": "diagram",
+          "source": "Nehemia 6:1–16"
+        },
+        {
+          "verse": 17,
+          "file": "6-tobias-familiebanden.svg",
+          "scene": "Tobia’s familiebanden",
+          "kind": "diagram",
+          "source": "Nehemia 6:17–19"
+        }
+      ]
+    },
+    {
+      "book": "nehemia",
+      "chapter": 1,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "Bericht, rouw en gebed zijn al zichtbaar. Eén leeswijzer ordent tijd, functie en gebedsinhoud; geen tweede huil- of gebedsscène.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "1-bericht-rouw-en-gebed.svg",
+          "scene": "Van bericht naar gebed",
+          "kind": "diagram",
+          "source": "Nehemia 1:1–11"
+        }
+      ]
+    },
+    {
+      "book": "nehemia",
+      "chapter": 3,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Priesters, Sallum met dochters en vaklieden zijn afgebeeld. Twee schema’s lichten poorten, specifieke bouwers, beroepen en gelijknamige personen toe; meer generieke metselfoto’s zouden herhalen.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "3-poorten-en-bouwers-eerste.svg",
+          "scene": "Poorten en bouwers, deel één",
+          "kind": "diagram",
+          "source": "Nehemia 3:1–15"
+        },
+        {
+          "verse": 8,
+          "file": "3-beroepen-en-gelijknamigen.svg",
+          "scene": "Beroepen en gelijknamigen",
+          "kind": "diagram",
+          "source": "Nehemia 3:8–32"
+        }
+      ]
     }
   ]
 }
