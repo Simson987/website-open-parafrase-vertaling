@@ -1,0 +1,326 @@
+{
+  "date": "2026-10-25",
+  "started": "2026-10-25T01:34:20Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "psalmen",
+      "chapter": 44,
+      "verse": 12,
+      "scene": "Poëtische illustratie: verstrooid onder de volken",
+      "alt": "Poëtische illustratie: verstrooid onder de volken — Psalm 44:12; illustratie bij het gedicht.",
+      "kind": "poetic",
+      "file": "44-12-verdieping.webp",
+      "prompt": "Photorealistic poetic Bible illustration, landscape 3:2, ancient Near Eastern materials and setting. No readable lettering, watermark, modern objects, visible deity, nudity, blood or wounds. This illustrates psalm imagery, not an invented dated event. A small group of adult ancient Israelite displaced travelers in modest worn woven robes moves along a distant unfamiliar dry hillside path carrying simple cloth bundles, while another small group heads along a separate path far away. Show separation and lost homeland with dignity, no restraints, violence, threatened children, soldiers abusing people or modern refugee equipment.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "psalmen",
+      "chapter": 45,
+      "verse": 9,
+      "scene": "Poëtisch motief: mirre, aloë en kaneel",
+      "alt": "Poëtisch motief: mirre, aloë en kaneel — Psalm 45:9; illustratie bij het gedicht.",
+      "kind": "poetic",
+      "file": "45-9-verdieping.webp",
+      "prompt": "Photorealistic poetic Bible illustration, landscape 3:2, ancient Near Eastern materials and setting. No readable lettering, watermark, modern objects, visible deity, nudity, blood or wounds. This illustrates psalm imagery, not an invented dated event. Carefully arranged still life of a few myrrh resin tears, small dark fragrant aloeswood chips and curled cinnamon bark beside an ornate but modest woven garment on a stone palace shelf. Aloes here represented as aromatic wood, not a green aloe vera plant. Natural warm light, no named labels or fake inscriptions.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "psalmen",
+      "chapter": 48,
+      "verse": 8,
+      "scene": "Poëtische illustratie: schepen in de oostenwind",
+      "alt": "Poëtische illustratie: schepen in de oostenwind — Psalm 48:8; illustratie bij het gedicht.",
+      "kind": "poetic",
+      "file": "48-8-verdieping.webp",
+      "prompt": "Photorealistic poetic Bible illustration, landscape 3:2, ancient Near Eastern materials and setting. No readable lettering, watermark, modern objects, visible deity, nudity, blood or wounds. This illustrates psalm imagery, not an invented dated event. Ancient wooden merchant sailing vessels in a powerful gale on dark blue water, one distant ship with a snapped mast and torn sail, spray and dramatic eastern morning light. No modern motors, steel ships, people falling overboard, bodies, named geography or readable flags. Illustrate the psalm’s storm-broken trading ships without asserting a specific dated wreck.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "psalmen",
+      "chapter": 52,
+      "verse": 4,
+      "scene": "Beeldspraak: scherp als een scheermes",
+      "alt": "Beeldspraak: scherp als een scheermes — Psalm 52:4; illustratie bij het gedicht.",
+      "kind": "poetic",
+      "file": "52-4-verdieping.webp",
+      "prompt": "Photorealistic poetic Bible illustration, landscape 3:2, ancient Near Eastern materials and setting. No readable lettering, watermark, modern objects, visible deity, nudity, blood or wounds. This illustrates psalm imagery, not an invented dated event. Close still life of one simple ancient bronze razor with a short curved polished blade and plain handle on a rough wooden surface. No person, shaving, blood, cut skin, modern disposable razor or text. Strong side light emphasizes the sharp edge, illustrating the psalm’s comparison of a deceitful tongue to a sharpened razor.",
+      "edit_prompt": "Correct only the object in this poetic illustration of Psalm 52:4. It currently looks like a kitchen cleaver and must clearly become a SMALL ANCIENT SHAVING RAZOR: a thin semicircular bronze razor blade, compact palm-sized crescent shape with a very short integral metal tang, no long wooden handle, no chef knife silhouette, no cleaver. Place it next to a small shallow clay grooming bowl and a folded plain linen cloth as scale and context. Retain the photorealistic ancient stone courtyard setting, warm light and landscape 3:2 format. No person shaving, blood, injury, lettering, modern disposable razor or watermark.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "psalmen",
+      "chapter": 44,
+      "verse": 2,
+      "file": "44-vroeger-en-nu.svg",
+      "scene": "Vroeger en nu",
+      "alt": "De tegenstelling van overgeleverde redding en huidige nood, zonder verzonnen schuldoorzaak.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1170,
+      "source": "Psalm 44:2–27",
+      "design": {
+        "rows": [
+          [
+            "Overgeleverd · 2–9",
+            "De vaderen vertellen van redding en het ontvangen land; het vertrouwen ligt niet in eigen wapens."
+          ],
+          [
+            "Maar nu · 10–17",
+            "Terugdeinzen, verstrooiing, spot en schaamte."
+          ],
+          [
+            "De spanning · 18–23",
+            "Het volk zegt het verbond niet vergeten te zijn en ervaart toch verdrukking."
+          ],
+          [
+            "Het gebed · 24–27",
+            "Word wakker, vergeet de nood niet en help om Uw trouw."
+          ]
+        ],
+        "note": "Het is een gezamenlijke klacht. De schapenvergelijking verwoordt kwetsbaarheid; het volk beroept zich op trouw midden in onbegrepen nederlaag."
+      }
+    },
+    {
+      "book": "psalmen",
+      "chapter": 45,
+      "verse": 2,
+      "file": "45-lied-voor-koning-en-bruid.svg",
+      "scene": "Lied voor koning en bruid",
+      "alt": "De geadresseerden en tekstgedeelten van het koninklijke bruiloftslied.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1170,
+      "source": "Psalm 45:2–18",
+      "design": {
+        "rows": [
+          [
+            "De zanger · 2",
+            "Zijn tong als de pen van een vaardige schrijver."
+          ],
+          [
+            "De koning · 3–10",
+            "Woord, waarheid, recht, scepter, vreugdeolie, geur en koninklijke pracht."
+          ],
+          [
+            "De bruid · 11–16",
+            "Luisteren, een nieuwe verbondenheid en de feestelijke intocht met vriendinnen."
+          ],
+          [
+            "Toekomst · 17–18",
+            "Zonen, herinnering van geslacht op geslacht en blijvende lof."
+          ]
+        ],
+        "note": "Het opschrift noemt een liefdeslied. Het gedicht wisselt de aanspreking van koning en bruid af; waarheid en gerechtigheid horen bij de koninklijke lof."
+      }
+    },
+    {
+      "book": "psalmen",
+      "chapter": 46,
+      "verse": 2,
+      "file": "46-onrust-stad-en-vrede.svg",
+      "scene": "Onrust, stad en vrede",
+      "alt": "De contrasterende waterbeelden en de tweemaal terugkerende burchtbelijdenis.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1091,
+      "source": "Psalm 46:2–12",
+      "design": {
+        "rows": [
+          [
+            "Schepping in beroering · 2–4",
+            "Schuilplaats in nood, ook bij bruisend water en bevende bergen."
+          ],
+          [
+            "Stad en refrein · 5–8",
+            "Rivier, blijvende stad en de belijdenis: de HEERE is met ons."
+          ],
+          [
+            "Oorlogen eindigen · 9–11",
+            "Gebroken wapens en de oproep om los te laten en God te kennen."
+          ],
+          [
+            "Refrein · 12",
+            "De belijdenis van de burcht wordt herhaald."
+          ]
+        ],
+        "note": "Woelige zee en de vreugdegevende rivier staan tegenover elkaar. Het herhaalde refrein verbindt beschutting met het einde van de strijd."
+      }
+    },
+    {
+      "book": "psalmen",
+      "chapter": 48,
+      "verse": 2,
+      "file": "48-sion-zien-en-doorvertellen.svg",
+      "scene": "Sion zien en doorvertellen",
+      "alt": "De beweging van stadslof via dreiging naar herinnering, rondgang en overdracht.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1048,
+      "source": "Psalm 48:2–15",
+      "design": {
+        "rows": [
+          [
+            "Lof op de stad · 2–4",
+            "Heilige berg, vreugde en burcht."
+          ],
+          [
+            "Schrik van koningen · 5–8",
+            "Samen optrekken, schrik, vlucht en de vergelijking met stormmacht."
+          ],
+          [
+            "Gehoord en gezien · 9–12",
+            "Overgeleverde trouw wordt in de stad overdacht en bezongen."
+          ],
+          [
+            "Rondgang · 13–15",
+            "Torens, muur en paleizen bekijken om het aan latere mensen te vertellen."
+          ]
+        ],
+        "note": "De rondgang heeft een doel: vertellen aan de volgende generatie. De scheepsstorm voegt een afzonderlijk beeld van ontzagwekkende macht toe."
+      }
+    },
+    {
+      "book": "psalmen",
+      "chapter": 49,
+      "verse": 2,
+      "file": "49-bezit-leven-en-vrijkoop.svg",
+      "scene": "Bezit, leven en vrijkoop",
+      "alt": "Redenering van universeel gehoor via onbetaalbaar leven naar bevrijding van vrees voor rijkdom.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1134,
+      "source": "Psalm 49:2–21",
+      "design": {
+        "rows": [
+          [
+            "Iedereen hoort · 2–5",
+            "Gewoon en aanzienlijk, rijk en arm; de spreker brengt wijsheid."
+          ],
+          [
+            "Bezit schiet tekort · 6–14",
+            "Rijkdom kan de losprijs van een leven niet betalen. Ook wijze en dwaze mensen sterven."
+          ],
+          [
+            "Het tegenwoord · 15–16",
+            "De dood als herder tegenover de belijdenis dat God het leven vrijkoopt."
+          ],
+          [
+            "Daarom · 17–21",
+            "Wees niet bang voor toenemende pracht: zij wordt niet meegenomen in de dood."
+          ]
+        ],
+        "note": "Dit wijsheidslied onderzoekt wat bezit vermag. De herhaling van pracht en vergankelijkheid zet de grens van rijkdom naast hoop op God."
+      }
+    },
+    {
+      "book": "psalmen",
+      "chapter": 50,
+      "verse": 1,
+      "file": "50-verbond-dank-en-levensweg.svg",
+      "scene": "Verbond, dank en levensweg",
+      "alt": "De twee aangesproken groepen en de samenhang van danklied, verbond en handelen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1134,
+      "source": "Psalm 50:1–23",
+      "design": {
+        "rows": [
+          [
+            "Bijeenroepen · 1–6",
+            "Aarde, hemel en verbondsvolk worden tot het gericht geroepen."
+          ],
+          [
+            "Offers · 7–15",
+            "God heeft de dierenwereld al; dank, beloften en roepen in nood worden gevraagd."
+          ],
+          [
+            "Woorden en daden · 16–21",
+            "Verbondstaal past niet bij diefstal, overspel, bedrog en kwaadspreken."
+          ],
+          [
+            "Slot · 22–23",
+            "Begrijpen, dank en de goede weg verbinden zich met redding."
+          ]
+        ],
+        "note": "Het opschrift noemt Asaf. Het gedicht plaatst offerpraktijk naast dankbaarheid en een overeenkomstige levenswandel."
+      }
+    },
+    {
+      "book": "psalmen",
+      "chapter": 51,
+      "verse": 2,
+      "file": "51-schuld-vernieuwing-en-lof.svg",
+      "scene": "Schuld, vernieuwing en lof",
+      "alt": "De samenhang van historische aanleiding, belijdenis, vernieuwing en het bredere slotgebed.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1326,
+      "source": "Psalm 51:2–21",
+      "design": {
+        "rows": [
+          [
+            "Opschrift · 2",
+            "Natan komt bij David na zijn omgang met Batseba."
+          ],
+          [
+            "Belijdenis · 3–11",
+            "Genade, wassen, erkende schuld, waarheid en reiniging."
+          ],
+          [
+            "Vernieuwing · 12–14",
+            "Zuiver hart, vaste geest en herstelde vreugde."
+          ],
+          [
+            "Antwoord · 15–19",
+            "Anderen leren, bevrijding van bloedschuld, open lippen en een verslagen hart."
+          ],
+          [
+            "Sion · 20–21",
+            "Het persoonlijke gebed eindigt met de stad en eerlijke offers."
+          ]
+        ],
+        "note": "De hysop verbeeldt reiniging. De gevraagde vernieuwing omvat hart, geest, vreugde, spreken en de bereidheid anderen de weg te leren."
+      }
+    },
+    {
+      "book": "psalmen",
+      "chapter": 52,
+      "verse": 2,
+      "file": "52-bedrog-en-blijvende-trouw.svg",
+      "scene": "Bedrog en blijvende trouw",
+      "alt": "Historische aanleiding, kritiek op bedrieglijke taal en twee vormen van zekerheid.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1170,
+      "source": "Psalm 52:2–11",
+      "design": {
+        "rows": [
+          [
+            "Opschrift · 2",
+            "Doëg uit Edom bericht Saul dat David bij Achimelech is geweest."
+          ],
+          [
+            "Aanklacht · 3–6",
+            "Pochen, de tong als een scheermes en leugen boven eerlijke taal."
+          ],
+          [
+            "Ontworteling · 7–9",
+            "Vertrouwen op rijkdom en kwaad eindigt in afbraak."
+          ],
+          [
+            "Groene olijfboom · 10–11",
+            "De bidder stelt vertrouwen op Gods blijvende trouw tegenover die valse zekerheid."
+          ]
+        ],
+        "note": "Scheermes, ontworteling en groene olijfboom vormen de scherpe tegenstellingen van het gedicht. Het opschrift benoemt de aanleiding voor de aanklacht."
+      }
+    }
+  ]
+}
