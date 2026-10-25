@@ -1,0 +1,117 @@
+{
+  "started": "2026-10-25T08:53:43Z",
+  "batches": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+  ],
+  "new_visuals": 171,
+  "new_asset_files": 171,
+  "replaced_baseline_images": 0,
+  "new_rasters": 85,
+  "new_schemas": 86,
+  "new_reviewed_chapters": 40,
+  "total_reviewed_chapters": 943,
+  "total_images": 7270,
+  "metadata_corrections": 120,
+  "verified": "local sources, visual anatomy and content review, SVG legibility and font bounds, SVG enlarge links, dimensions and decode, chapter plan targets, preservation of baseline work",
+  "finished": "2026-10-25T09:49:15.365053+00:00",
+  "completed_books": [
+    "habakuk",
+    "zefanja",
+    "haggai",
+    "zacharia",
+    "maleachi"
+  ],
+  "reviewed_ranges": [
+    {
+      "book": "habakuk",
+      "first": 1,
+      "last": 3
+    },
+    {
+      "book": "zefanja",
+      "first": 1,
+      "last": 3
+    },
+    {
+      "book": "haggai",
+      "first": 1,
+      "last": 2
+    },
+    {
+      "book": "zacharia",
+      "first": 1,
+      "last": 14
+    },
+    {
+      "book": "maleachi",
+      "first": 1,
+      "last": 4
+    },
+    {
+      "book": "mattheus",
+      "first": 1,
+      "last": 14
+    }
+  ],
+  "next_chapter": {
+    "book": "mattheus",
+    "chapter": 15
+  },
+  "remaining_unreviewed_chapters": 661,
+  "open_targets": 0,
+  "generator": "built-in image_gen, one call per raster; native SVG for schemas",
+  "quality_corrections": [
+    {
+      "book": "haggai",
+      "chapter": 2,
+      "verse": 24,
+      "issue": "Te grote zegelring met afleidende achtergrondfiguren",
+      "resolution": "Bewerkt tot gewone kleine zegelring op klei, opnieuw visueel bekeken."
+    },
+    {
+      "book": "maleachi",
+      "chapter": 4,
+      "verse": 2,
+      "issue": "Bestaand zonsbeeld was aan hoofdstuk 3 gekoppeld",
+      "resolution": "Bij hoofdstuk 4:2 geregistreerd, beeldbestand behouden."
+    },
+    {
+      "book": "maleachi",
+      "chapter": 3,
+      "issue": "Te brede SVG-titel",
+      "resolution": "Titel ingekort, opnieuw gerenderd en lettertypegrenzen gecontroleerd."
+    },
+    {
+      "book": "mattheus",
+      "chapter": 2,
+      "verse": 12,
+      "issue": "Terugreis van wijzen kreeg een vrouw in familieachtige compositie",
+      "resolution": "Bewerkt tot volwassen mannelijke reizigers; opnieuw bekeken."
+    },
+    {
+      "book": "mattheus",
+      "chapter": 3,
+      "verse": 10,
+      "issue": "Ongevraagde Jezusachtige leraar bij Johannes’ bijlvergelijking",
+      "resolution": "Alle personen verwijderd; boom, wortel en bijl behouden en opnieuw bekeken."
+    }
+  ],
+  "errors": [],
+  "site_build": "passed",
+  "coverage_check": "passed",
+  "baseline_commit": "73151639427a5717de11553b250c8199fd2a1df6",
+  "asset_commit": "9ba596fcdd3b568145da435d94c410d5f55ac0ed",
+  "push_target": "Simson987/website-open-parafrase-vertaling:codex/three-images-per-chapter",
+  "pull_request": "https://github.com/William-Carey-Missions/website-open-parafrase-vertaling/pull/3",
+  "automation": "Active: content review is not complete; continue at the next unreviewed chapter."
+}
