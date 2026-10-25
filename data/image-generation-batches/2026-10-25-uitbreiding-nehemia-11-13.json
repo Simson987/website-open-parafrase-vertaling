@@ -1,0 +1,476 @@
+{
+  "date": "2026-10-25",
+  "started": "2026-10-25T00:32:44Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "nehemia",
+      "chapter": 12,
+      "verse": 30,
+      "scene": "Reiniging vóór de inwijding",
+      "alt": "Reiniging vóór de inwijding — Nehemia 12:30",
+      "kind": "scene",
+      "file": "12-30-inhoudelijk.webp",
+      "prompt": "Photorealistic educational historical Bible illustration, landscape 3:2, Persian-period Jerusalem. Fully modest ancient woven robes, exactly two arms per person, natural hands, no modern objects, readable text, visible deity, nudity, blood or injuries. Adult Judean priests and Levites in simple white linen robes solemnly prepare the restored Jerusalem city gate for dedication. One washes his hands from an ancient clay basin, other attendants stand near the gate with simple water vessels. Quiet ritual preparation before the procession, no medieval costumes, no crowd already celebrating, no modern taps.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "nehemia",
+      "chapter": 13,
+      "verse": 8,
+      "scene": "Tobia’s spullen uit de kamer",
+      "alt": "Tobia’s spullen uit de kamer — Nehemia 13:8",
+      "kind": "scene",
+      "file": "13-8-inhoudelijk.webp",
+      "prompt": "Photorealistic educational historical Bible illustration, landscape 3:2, Persian-period Jerusalem. Fully modest ancient woven robes, exactly two arms per person, natural hands, no modern objects, readable text, visible deity, nudity, blood or injuries. Adult Nehemiah in a simple robe sternly removes a folded bedding roll and cushions from a temple storage chamber into the outer courtyard. A small chest and a low wooden table already stand outside. Other fully dressed adults watch, nobody physically attacked. The room contains personal household belongings, not a divine ark, two natural arms.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "nehemia",
+      "chapter": 13,
+      "verse": 20,
+      "scene": "Handelaars overnachten buiten de muur",
+      "alt": "Handelaars overnachten buiten de muur — Nehemia 13:20",
+      "kind": "scene",
+      "file": "13-20-inhoudelijk.webp",
+      "prompt": "Photorealistic educational historical Bible illustration, landscape 3:2, Persian-period Jerusalem. Fully modest ancient woven robes, exactly two arms per person, natural hands, no modern objects, readable text, visible deity, nudity, blood or injuries. Night outside the closed gates of Persian-period Jerusalem: adult merchants sit quietly near their bundled goods, baskets and resting pack donkeys beneath the city wall. Small camping lamp, dark blue sky, no open market or fighting, no city gate open. Fully clothed and natural human anatomy.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "nehemia",
+      "chapter": 11,
+      "verse": 1,
+      "file": "11-bewoners-en-dienstgroepen.svg",
+      "scene": "Bewoners en dienstgroepen",
+      "alt": "Bewonersverdeling, afzonderlijke groepsaantallen en functies.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1482,
+      "source": "Nehemia 11:1–24",
+      "design": {
+        "rows": [
+          [
+            "Verdeling",
+            "Eén op de tien naar Jeruzalem, negen op de tien naar andere steden; daarnaast vrijwillige bewoners."
+          ],
+          [
+            "Juda en Benjamin",
+            "Perez: 468 dappere mannen; bij Gabbai en Sallai: 928 man."
+          ],
+          [
+            "Priestergroepen",
+            "822 voor het werk; 242 familiehoofden; 128 dappere helden."
+          ],
+          [
+            "Levieten en poortwachters",
+            "284 Levieten; 172 poortwachters."
+          ],
+          [
+            "Taken",
+            "Sabbethai en Jozabad: buitenwerk; Matthanja: dankgebed; zangers: vaste dagelijkse delen."
+          ],
+          [
+            "Ofel en hof",
+            "Ziha en Gispa over de tempelknechten; Petahja staat de koning terzijde."
+          ]
+        ],
+        "note": "De aantallen horen bij de genoemde groepen en zijn geen volledige volkstelling van heel Juda."
+      }
+    },
+    {
+      "book": "nehemia",
+      "chapter": 11,
+      "verse": 4,
+      "file": "11-lijnen-juda-en-benjamin.svg",
+      "scene": "Lijnen van Juda en Benjamin",
+      "alt": "Pijlen van genoemde voorouder naar nakomeling; afzonderlijke lijnen blijven apart.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 978,
+      "source": "Nehemia 11:4–9",
+      "design": {
+        "rows": [
+          [
+            "Athaja",
+            "Perez (nakomelingen) → Mahalaleël → Sefatja → Amarja → Zacharja → Uzzia → Athaja"
+          ],
+          [
+            "Maäseja",
+            "Siloni → Zacharja → Jojarib → Adaja → Hazaja → Kol-Hose → Baruch → Maäseja"
+          ],
+          [
+            "Sallu",
+            "Jesaja → Ithiël → Maäseja → Kolaja → Pedaja → Joëd → Mesullam → Sallu"
+          ]
+        ],
+        "note": "De eerste pijl vanaf Perez betekent afstamming, geen uitdrukkelijk genoemde directe vader. Andere schakels volgen de genoemde zoonsrelaties."
+      }
+    },
+    {
+      "book": "nehemia",
+      "chapter": 11,
+      "verse": 11,
+      "file": "11-priesters-genoemde-lijnen.svg",
+      "scene": "Genoemde priesterlijnen",
+      "alt": "Pijlen van genoemde voorouder naar nakomeling; afzonderlijke lijnen blijven apart.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 899,
+      "source": "Nehemia 11:11–14",
+      "design": {
+        "rows": [
+          [
+            "Seraja",
+            "Ahitub → Merajoth → Zadok → Mesullam → Hilkia → Seraja"
+          ],
+          [
+            "Adaja",
+            "Malchia → Pashur → Zacharja → Amzi → Pelalja → Jeroham → Adaja"
+          ],
+          [
+            "Amassai",
+            "Immer → Mesillemoth → Achzai → Azareël → Amassai"
+          ]
+        ],
+        "note": "De drie lijnen horen bij afzonderlijke mensen. Gelijknamige personen uit een andere passage worden niet automatisch ingevoegd."
+      }
+    },
+    {
+      "book": "nehemia",
+      "chapter": 11,
+      "verse": 15,
+      "file": "11-levieten-en-zangerslijnen.svg",
+      "scene": "Levieten en zangerslijnen",
+      "alt": "Pijlen van genoemde voorouder naar nakomeling; afzonderlijke lijnen blijven apart.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1233,
+      "source": "Nehemia 11:15–24",
+      "design": {
+        "rows": [
+          [
+            "Semaja",
+            "Buni → Hasabja → Azrikam → Hassub → Semaja"
+          ],
+          [
+            "Matthanja",
+            "Asaf → Zabdi → Micha → Matthanja"
+          ],
+          [
+            "Abda",
+            "Jeduthun → Galal → Sammua → Abda"
+          ],
+          [
+            "Uzzi",
+            "Micha → Matthanja → Hasabja → Bani → Uzzi"
+          ],
+          [
+            "Petahja",
+            "Juda → Zerah (nakomelingen) → Mesezabeël → Petahja"
+          ]
+        ],
+        "note": "Bij Petahja noemt de tekst afstamming uit Zerah; de pijl Zerah naar Mesezabeël beweert geen directe vader. Elke lijn volgt uitsluitend deze passage."
+      }
+    },
+    {
+      "book": "nehemia",
+      "chapter": 11,
+      "verse": 25,
+      "file": "11-woonplaatsen-van-juda-benjamin.svg",
+      "scene": "Woonplaatsen van twee groepen",
+      "alt": "De twee plaatsengroepen en de uitdrukkelijk beschreven vestiging.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1455,
+      "source": "Nehemia 11:25–36",
+      "design": {
+        "rows": [
+          [
+            "Juda, eerste deel",
+            "Kirjath-Arba, Dibon, Jekabzeël, Jesua, Molada, Beth-Pelet, Hazar-Sual en Berseba."
+          ],
+          [
+            "Juda, verder",
+            "Ziklag, Mechona, En-Rimmon, Zora, Jarmuth, Zanoah, Adullam, Lachis en Azeka."
+          ],
+          [
+            "Bereik van Juda",
+            "Van Berseba tot het dal Hinnom; plaatsen met hun dorpen of akkers zoals de passage ze noemt."
+          ],
+          [
+            "Benjamin",
+            "Geba, Michmas, Aja, Bethel, Anathoth, Nob, Ananja, Hazor, Rama, Gitthaïm, Hadid, Zeboïm, Neballat, Lod en Ono."
+          ],
+          [
+            "Levieten",
+            "Sommige groepen uit Juda wonen bij Benjamin."
+          ]
+        ],
+        "note": "Dit is een plaatsnamenoverzicht, geen schaalkaart; het hoofdstuk geeft niet voor elk dorp coördinaten of bewonersaantallen."
+      }
+    },
+    {
+      "book": "nehemia",
+      "chapter": 12,
+      "verse": 10,
+      "file": "12-jesua-tot-jaddua.svg",
+      "scene": "Jesua tot Jaddua",
+      "alt": "Jesua tot Jaddua — Nehemia 12:10–11",
+      "kind": "diagram",
+      "width": 840,
+      "height": 836,
+      "source": "Nehemia 12:10–11",
+      "design": {
+        "type": "vertical named sequence",
+        "names": [
+          "Jesua",
+          "Jojakim",
+          "Eljasib",
+          "Jojada",
+          "Jonathan",
+          "Jaddua"
+        ],
+        "note": "Deze keten volgt de genoemde zoonsrelaties van vers 10–11. Vers 22–23 heeft daarnaast de naam Johanan; die eigen vermeldingen worden niet stilzwijgend gewijzigd."
+      }
+    },
+    {
+      "book": "nehemia",
+      "chapter": 12,
+      "verse": 12,
+      "file": "12-familiehoofden-eerste.svg",
+      "scene": "Familiehoofden, eerste deel",
+      "alt": "Paren uit de familiehoofdenlijst met behoud van de gezamenlijke formulering in vers 17.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1346,
+      "source": "Nehemia 12:12–17",
+      "design": {
+        "rows": [
+          [
+            "Seraja en Jeremia",
+            "Meraja bij Seraja; Hananja bij Jeremia."
+          ],
+          [
+            "Ezra en Amarja",
+            "Mesullam bij Ezra; Johanan bij Amarja."
+          ],
+          [
+            "Melichu en Sebanja",
+            "Jonathan bij Melichu; Jozef bij Sebanja."
+          ],
+          [
+            "Harim en Merajoth",
+            "Adna bij Harim; Helkai bij Merajoth."
+          ],
+          [
+            "Iddo en Ginnethon",
+            "Zacharia bij Iddo; Mesullam bij Ginnethon."
+          ],
+          [
+            "Abia, Minjamin en Moadja",
+            "Zichri bij Abia; Piltai bij Minjamin en Moadja zoals samen in vers 17 genoemd."
+          ]
+        ],
+        "note": "Familie en bijbehorend hoofd in Jojakims tijd; de tekst noemt niet overal een expliciete directe vader-zoonrelatie."
+      }
+    },
+    {
+      "book": "nehemia",
+      "chapter": 12,
+      "verse": 18,
+      "file": "12-familiehoofden-en-dienst.svg",
+      "scene": "Familiehoofden en dienst",
+      "alt": "Verdere paren, tegenover elkaar dienende groepen en bewaking.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1389,
+      "source": "Nehemia 12:18–26",
+      "design": {
+        "rows": [
+          [
+            "Bilga en Semaja",
+            "Sammua bij Bilga; Jonathan bij Semaja."
+          ],
+          [
+            "Jojarib en Jedaja",
+            "Matthenai bij Jojarib; Uzzi bij Jedaja."
+          ],
+          [
+            "Sallai en Amok",
+            "Kallai bij Sallai; Heber bij Amok."
+          ],
+          [
+            "Hilkia en Jedaja",
+            "Hasabja bij Hilkia; Nethaneël bij Jedaja."
+          ],
+          [
+            "Tegenover elkaar",
+            "Hasabja, Serebja en Jesua, zoon van Kadmiël: groepen voor lof en dank."
+          ],
+          [
+            "Poortwachters",
+            "Matthanja, Bakbukja, Obadja, Mesullam, Talmon en Akkub bewaken de voorraadkamers."
+          ]
+        ],
+        "note": "Jedaja komt op twee eigen plaatsen in de lijst voor. Uzzi en Nethaneël worden daardoor niet tot dezelfde persoon gemaakt."
+      }
+    },
+    {
+      "book": "nehemia",
+      "chapter": 12,
+      "verse": 31,
+      "file": "12-twee-dankkoren-routes.svg",
+      "scene": "Twee dankkoren en hun routes",
+      "alt": "De twee afzonderlijke routes en hun samenkomst zonder een verzonnen kaart.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1498,
+      "source": "Nehemia 12:31–42",
+      "design": {
+        "rows": [
+          [
+            "Eerste koor",
+            "Rechts naar de Mestpoort; Hosaja en helft leiders volgen; Ezra loopt voor hen uit."
+          ],
+          [
+            "Eerste route verder",
+            "Bronpoort → trappen Stad van David → opgang muur → huis van David → Waterpoort in het oosten."
+          ],
+          [
+            "Tweede koor",
+            "Andere richting; Nehemia met helft volk erachter."
+          ],
+          [
+            "Tweede route verder",
+            "Bakoventoren → brede muur → Efraïmpoort → Oude Poort → Vispoort → Hananeël → Mea → Schaapspoort; stilstaan bij Wachtpoort."
+          ],
+          [
+            "Samen",
+            "Beide koren daarna in Gods huis; priesters met trompetten en zangers onder Jizrahja."
+          ]
+        ],
+        "note": "De pijlen geven de tekstvolgorde, geen noordpijl, schaal of bewezen straatgeometrie. Twee verschillende optochten komen samen."
+      }
+    },
+    {
+      "book": "nehemia",
+      "chapter": 12,
+      "verse": 43,
+      "file": "12-vreugde-en-dagelijkse-delen.svg",
+      "scene": "Vreugde en dagelijkse delen",
+      "alt": "De overgang van feest naar blijvende ondersteuning van de diensten.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1283,
+      "source": "Nehemia 12:43–47",
+      "design": {
+        "rows": [
+          [
+            "Blijdschap",
+            "Grote offers; ook vrouwen en kinderen blij; Jeruzalems vreugde ver te horen."
+          ],
+          [
+            "Beheerders",
+            "Mannen over schatkamers, hefoffers, eerstelingen en tienden."
+          ],
+          [
+            "Verzameling",
+            "Uit akkers bij de steden voor priesters en Levieten wat de wet toewijst."
+          ],
+          [
+            "Dagelijkse delen",
+            "Zangers en poortwachters ontvangen vaste delen."
+          ],
+          [
+            "Verdere overdracht",
+            "Volk geeft gewijde gaven aan Levieten; Levieten aan Aärons nakomelingen."
+          ]
+        ],
+        "note": "De feestelijke inwijdingsdag en het terugkerende dagelijkse onderhoud hebben elk hun plaats in het hoofdstuk."
+      }
+    },
+    {
+      "book": "nehemia",
+      "chapter": 13,
+      "verse": 1,
+      "file": "13-terugkeer-en-herstel.svg",
+      "scene": "Terugkeer en herstel",
+      "alt": "De verschillende hervormingen, context en opvolgende maatregelen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1769,
+      "source": "Nehemia 13:1–31",
+      "design": {
+        "rows": [
+          [
+            "Afwezig en terug",
+            "Nehemia was in Arthahsasta’s jaar 32 naar de koning; later opnieuw verlof en terugkeer."
+          ],
+          [
+            "Tobia’s kamer",
+            "Huishoudelijke spullen eruit; reinigen en heilig gerei, graanoffer en wierook terug."
+          ],
+          [
+            "Verwaarloosde dienst",
+            "Levieten waren naar hun akkers; terugroepen, tienden en betrouwbare beheerders."
+          ],
+          [
+            "Sabbat",
+            "Geen handel; poorten vóór sabbat dicht, handelaars buiten gewaarschuwd en Levieten bewaken."
+          ],
+          [
+            "Huwelijken en taal",
+            "Kinderen spreken andere talen; aanklacht, eed en verwijzing naar Salomo’s zonde."
+          ],
+          [
+            "Slot",
+            "Een schoonzoon van Sanballat weggejaagd; diensten, hout en eerstelingen geregeld."
+          ]
+        ],
+        "note": "Het hoofdstuk onderscheidt afwezigheid en terugkeer. Bij de huwelijkskwestie noemt het ook slaan, haren uittrekken en een eed als afzonderlijke handelingen."
+      }
+    },
+    {
+      "book": "nehemia",
+      "chapter": 13,
+      "verse": 13,
+      "file": "13-betrouwbare-beheerders.svg",
+      "scene": "Betrouwbare beheerders",
+      "alt": "Namen, verschillende functies en de gedeelde verantwoordelijkheid.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1154,
+      "source": "Nehemia 13:13–14",
+      "design": {
+        "rows": [
+          [
+            "Selemja",
+            "Priester."
+          ],
+          [
+            "Zadok",
+            "Schrijver."
+          ],
+          [
+            "Pedaja",
+            "Uit de Levieten."
+          ],
+          [
+            "Hanan",
+            "Zoon van Zakkur, zoon van Matthanja; staat hen bij."
+          ],
+          [
+            "Hun taak",
+            "Delen aan de broers uitdelen; zij gelden als betrouwbaar."
+          ]
+        ],
+        "note": "Functies en expliciete afstamming worden apart weergegeven. Er staat niet dat alle vier priesters zijn."
+      }
+    }
+  ]
+}
