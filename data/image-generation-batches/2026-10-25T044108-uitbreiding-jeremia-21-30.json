@@ -1,0 +1,482 @@
+{
+  "date": "2026-10-25",
+  "started": "2026-10-25T04:41:08Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "jeremia",
+      "chapter": 22,
+      "verse": 14,
+      "scene": "Het ruime huis met rood cederhout",
+      "alt": "Het ruime huis met rood cederhout — Jeremia 22:14; beeldspraak of belofte.",
+      "kind": "poetic",
+      "file": "22-14-cederhuis-verdieping.webp",
+      "prompt": "Use case: historical-scene. Photorealistic ancient Bible illustration, landscape 3:2, natural linen, wool, stone and wood, coherent anatomy and hands, modest fully covering opaque robes. No modern objects, text, watermark, deity, magic, blood or wounds. Interior of a lavish ancient Judean house under construction, large high upper-room windows, warm red-painted cedar wall paneling, an idle wooden workbench and carpentry tools. No people, modern glass, palace fantasy or text. Material illustration in the rebuke of luxurious construction through unpaid labor.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "jeremia",
+      "chapter": 23,
+      "verse": 28,
+      "scene": "Vergelijking: stro en koren",
+      "alt": "Vergelijking: stro en koren — Jeremia 23:28; beeldspraak of belofte.",
+      "kind": "poetic",
+      "file": "23-28-stro-en-koren-verdieping.webp",
+      "prompt": "Use case: historical-scene. Photorealistic ancient Bible illustration, landscape 3:2, natural linen, wool, stone and wood, coherent anatomy and hands, modest fully covering opaque robes. No modern objects, text, watermark, deity, magic, blood or wounds. A clear ancient threshing-floor still life, a heap of dry pale straw on one side and a separate shallow basket of clean golden wheat grain on the other, clay floor and simple winnowing fork. Not mixed together, no person, letters or modern machinery. Comparison in the passage about dream and faithful word.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "jeremia",
+      "chapter": 23,
+      "verse": 29,
+      "scene": "Vergelijking: het woord als vuur",
+      "alt": "Vergelijking: het woord als vuur — Jeremia 23:29; beeldspraak of belofte.",
+      "kind": "poetic",
+      "file": "23-29-woord-als-vuur-verdieping.webp",
+      "prompt": "Use case: historical-scene. Photorealistic ancient Bible illustration, landscape 3:2, natural linen, wool, stone and wood, coherent anatomy and hands, modest fully covering opaque robes. No modern objects, text, watermark, deity, magic, blood or wounds. Close view of an ordinary bright wood fire in a simple ancient stone hearth, naturally burning logs, warm light and dark background. No burning book, person, flaming mouth or magical letters. Material comparison paired with the hammer breaking rock, illustrating power of the word.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "jeremia",
+      "chapter": 25,
+      "verse": 36,
+      "scene": "De herders zien de verwoeste weide",
+      "alt": "De herders zien de verwoeste weide — Jeremia 25:36; beeldspraak of belofte.",
+      "kind": "poetic",
+      "file": "25-36-verwoeste-weide-verdieping.webp",
+      "prompt": "Use case: historical-scene. Photorealistic ancient Bible illustration, landscape 3:2, natural linen, wool, stone and wood, coherent anatomy and hands, modest fully covering opaque robes. No modern objects, text, watermark, deity, magic, blood or wounds. Two fully robed ancient adult shepherds stand apart at the edge of a ravaged empty pasture, broken low enclosure and dry trampled grass, their staffs held normally, sober lament. No bodies, dead animals or attack. The warning addressed to shepherds and leaders of the flock.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "jeremia",
+      "chapter": 26,
+      "verse": 21,
+      "scene": "Uria vlucht naar Egypte",
+      "alt": "Uria vlucht naar Egypte — Jeremia 26:21; vertelscène.",
+      "kind": "scene",
+      "file": "26-21-uria-egypte-verdieping.webp",
+      "prompt": "Use case: historical-scene. Photorealistic ancient Bible illustration, landscape 3:2, natural linen, wool, stone and wood, coherent anatomy and hands, modest fully covering opaque robes. No modern objects, text, watermark, deity, magic, blood or wounds. An ancient Judean adult prophet in simple full robes and a travel cloak walks urgently but safely down a dusty road entering a broad Egyptian Nile valley of reeds and flat fields, small ancient mudbrick buildings distant, one travel bundle. No pursuers, violence, pyramids beside him or modern signs. Uria’s flight described before he is brought back, not Jeremia fleeing.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "jeremia",
+      "chapter": 29,
+      "verse": 3,
+      "scene": "Elasa en Gemarja dragen de brief",
+      "alt": "Elasa en Gemarja dragen de brief — Jeremia 29:3; vertelscène.",
+      "kind": "scene",
+      "file": "29-3-briefdragers-verdieping.webp",
+      "prompt": "Use case: historical-scene. Photorealistic ancient Bible illustration, landscape 3:2, natural linen, wool, stone and wood, coherent anatomy and hands, modest fully covering opaque robes. No modern objects, text, watermark, deity, magic, blood or wounds. Two fully robed ancient Judean male envoys walk together on a dusty caravan road towards distant ancient Babylon mudbrick walls, one carefully carries a small rolled parchment tied with plain cord in a leather pouch opening. Exactly two travelers foreground, ordinary hands, no written letters, modern envelope or fantasy city. They carry Jeremia’s letter, distinct from writing it.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "jeremia",
+      "chapter": 29,
+      "verse": 29,
+      "scene": "Zefanja leest Semaja’s brief voor",
+      "alt": "Zefanja leest Semaja’s brief voor — Jeremia 29:29; vertelscène.",
+      "kind": "scene",
+      "file": "29-29-zefanja-leest-verdieping.webp",
+      "prompt": "Use case: historical-scene. Photorealistic ancient Bible illustration, landscape 3:2, natural linen, wool, stone and wood, coherent anatomy and hands, modest fully covering opaque robes. No modern objects, text, watermark, deity, magic, blood or wounds. Inside a plain ancient Jerusalem stone room, one fully robed adult priest holds an open parchment and reads to one fully robed bearded prophet seated attentively opposite. Exactly two people, clearly separate four hands, no legible letters or modern book. The priest Zefanja reads the opposing letter to Jeremia.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "jeremia",
+      "chapter": 30,
+      "verse": 19,
+      "scene": "Belofte: dank en feestvreugde",
+      "alt": "Belofte: dank en feestvreugde — Jeremia 30:19; beeldspraak of belofte.",
+      "kind": "poetic",
+      "file": "30-19-dank-en-feest-verdieping.webp",
+      "prompt": "Use case: historical-scene. Photorealistic ancient Bible illustration, landscape 3:2, natural linen, wool, stone and wood, coherent anatomy and hands, modest fully covering opaque robes. No modern objects, text, watermark, deity, magic, blood or wounds. A small group of fully modestly robed ancient Judean adults singing thanks together in a newly rebuilt stone courtyard, a woman holds a simple frame drum, no elaborate modern instruments, dancers with interlocked limbs, deity or text. A future restoration illustration, not an assertion of a dated historical celebration.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "jeremia",
+      "chapter": 21,
+      "verse": 1,
+      "file": "21-leeswijzer.svg",
+      "scene": "Twee wegen voor de stad",
+      "alt": "Hoofdstukopbouw met gecontroleerde namen en verwijzingen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1028,
+      "source": "Jeremia 21:1–14",
+      "design": {
+        "rows": [
+          [
+            "Vraag en antwoord · 1–7",
+            "Zedekia stuurt Pashur, zoon van Malchia, en Zefanja. Geen wonderbare ontzetting maar overgave aan Babel."
+          ],
+          [
+            "Twee wegen · 8–10",
+            "In de stad blijven: zwaard, honger, pest. Overlopen naar de Chaldeeën: leven behouden."
+          ],
+          [
+            "Het koningshuis · 11–14",
+            "Elke morgen recht spreken; beroofden redden. Zelfvertrouwen beschermt niet tegen oordeel naar daden."
+          ]
+        ],
+        "note": "Namen en versgroepen volgen deze hoofdstuktekst. Het schema houdt beschreven gebeurtenissen, aankondigingen en voorwaarden uiteen."
+      }
+    },
+    {
+      "book": "jeremia",
+      "chapter": 22,
+      "verse": 1,
+      "file": "22-leeswijzer.svg",
+      "scene": "Koningschap en gerechtigheid",
+      "alt": "Hoofdstukopbouw met gecontroleerde namen en verwijzingen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1028,
+      "source": "Jeremia 22:1–30",
+      "design": {
+        "rows": [
+          [
+            "Aan de koning · 1–9",
+            "Doe recht, bescherm kwetsbaren; luisteren of een woest huis. De verbondsbreuk verklaart de ondergang."
+          ],
+          [
+            "Sallum en Jojakim · 10–19",
+            "Huil om wie niet terugkeert. Cederpracht en onbetaald werk tegenover de vader die armen recht deed."
+          ],
+          [
+            "Het slot · 20–30",
+            "Niet geluisterd in voorspoed; Chonia als afgerukte zegelring, verbanning en geen geslaagd troonopvolger."
+          ]
+        ],
+        "note": "Namen en versgroepen volgen deze hoofdstuktekst. Het schema houdt beschreven gebeurtenissen, aankondigingen en voorwaarden uiteen."
+      }
+    },
+    {
+      "book": "jeremia",
+      "chapter": 23,
+      "verse": 1,
+      "file": "23-leeswijzer.svg",
+      "scene": "Herders, Spruit en profeten",
+      "alt": "Hoofdstukopbouw met gecontroleerde namen en verwijzingen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1028,
+      "source": "Jeremia 23:1–40",
+      "design": {
+        "rows": [
+          [
+            "Herstel · 1–8",
+            "Verstrooide schapen, aangestelde herders en de rechtvaardige Spruit voor David; veilige terugkeer."
+          ],
+          [
+            "Leugenprofeten · 9–22",
+            "Boosheid, valse vrede en niet gezonden spreken; echt horen zou terugbrengen van de boze weg."
+          ],
+          [
+            "Woord en verdraaiing · 23–40",
+            "Dromen, stro en koren, vuur en hamer; gestolen woorden en het misbruik van de uitdrukking last."
+          ]
+        ],
+        "note": "Namen en versgroepen volgen deze hoofdstuktekst. Het schema houdt beschreven gebeurtenissen, aankondigingen en voorwaarden uiteen."
+      }
+    },
+    {
+      "book": "jeremia",
+      "chapter": 24,
+      "verse": 1,
+      "file": "24-leeswijzer.svg",
+      "scene": "Twee korven uitgelegd",
+      "alt": "Hoofdstukopbouw met gecontroleerde namen en verwijzingen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1071,
+      "source": "Jeremia 24:1–10",
+      "design": {
+        "rows": [
+          [
+            "Gezicht · 1–3",
+            "Na Jechonia’s wegvoering: twee korven voor de tempel, heel goede en oneetbaar slechte vijgen."
+          ],
+          [
+            "Goede vijgen · 4–7",
+            "De ballingen van Juda in het land van de Chaldeeën; ten goede aanzien, terugbrengen, bouwen en een kennend hart."
+          ],
+          [
+            "Slechte vijgen · 8–10",
+            "Zedekia, zijn vorsten, achterblijvers en wie in Egypte wonen; smaad, zwaard, honger en pest."
+          ]
+        ],
+        "note": "Namen en versgroepen volgen deze hoofdstuktekst. Het schema houdt beschreven gebeurtenissen, aankondigingen en voorwaarden uiteen."
+      }
+    },
+    {
+      "book": "jeremia",
+      "chapter": 25,
+      "verse": 1,
+      "file": "25-leeswijzer.svg",
+      "scene": "Zeventig jaar en de beker",
+      "alt": "Hoofdstukopbouw met gecontroleerde namen en verwijzingen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1028,
+      "source": "Jeremia 25:1–38",
+      "design": {
+        "rows": [
+          [
+            "Juda en Babel · 1–14",
+            "Drieëntwintig jaar niet geluisterd; zeventig jaar dienst aan Babel, daarna oordeel over Babel zelf."
+          ],
+          [
+            "De beker · 15–29",
+            "Juda eerst en vele andere volken daarna; ook de weigeraars gaan niet vrijuit."
+          ],
+          [
+            "Wereldwijde klacht · 30–38",
+            "Rechtszaak, storm en slachtoffers; herders en leiders kunnen niet vluchten, hun weide is verwoest."
+          ]
+        ],
+        "note": "Namen en versgroepen volgen deze hoofdstuktekst. Het schema houdt beschreven gebeurtenissen, aankondigingen en voorwaarden uiteen."
+      }
+    },
+    {
+      "book": "jeremia",
+      "chapter": 26,
+      "verse": 1,
+      "file": "26-leeswijzer.svg",
+      "scene": "Aanklacht en bescherming",
+      "alt": "Hoofdstukopbouw met gecontroleerde namen en verwijzingen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1028,
+      "source": "Jeremia 26:1–24",
+      "design": {
+        "rows": [
+          [
+            "Tempelwoord · 1–9",
+            "Geen woord weglaten; mogelijkheid tot bekering, waarschuwing over Silo en de eis dat Jeremia sterft."
+          ],
+          [
+            "Verhoor · 10–16",
+            "Vorsten bij de nieuwe poort; Jeremia beroept zich op zijn zending en waarschuwt voor onschuldig bloed."
+          ],
+          [
+            "Voorbeelden en afloop · 17–24",
+            "Micha en Hizkia, Uria en Jojakim; Ahikam beschermt Jeremia tegen overgave aan het volk."
+          ]
+        ],
+        "note": "Namen en versgroepen volgen deze hoofdstuktekst. Het schema houdt beschreven gebeurtenissen, aankondigingen en voorwaarden uiteen."
+      }
+    },
+    {
+      "book": "jeremia",
+      "chapter": 27,
+      "verse": 1,
+      "file": "27-leeswijzer.svg",
+      "scene": "Het juk en de voorwerpen",
+      "alt": "Hoofdstukopbouw met gecontroleerde namen en verwijzingen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 985,
+      "source": "Jeremia 27:1–22",
+      "design": {
+        "rows": [
+          [
+            "De boden · 1–11",
+            "Jukken voor vijf koningen; dienst aan Babel en waarschuwing voor de leugen van niet dienen."
+          ],
+          [
+            "Zedekia · 12–15",
+            "Dien Babel en leef; niet luisteren naar niet gezonden profeten."
+          ],
+          [
+            "Priesters en volk · 16–22",
+            "Geen snelle terugkomst van voorwerpen; bid voor wat resteert, dat ook naar Babel gaat tot Hij ernaar omziet."
+          ]
+        ],
+        "note": "Namen en versgroepen volgen deze hoofdstuktekst. Het schema houdt beschreven gebeurtenissen, aankondigingen en voorwaarden uiteen."
+      }
+    },
+    {
+      "book": "jeremia",
+      "chapter": 28,
+      "verse": 1,
+      "file": "28-leeswijzer.svg",
+      "scene": "Hananja en Jeremia",
+      "alt": "Hoofdstukopbouw met gecontroleerde namen en verwijzingen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1028,
+      "source": "Jeremia 28:1–17",
+      "design": {
+        "rows": [
+          [
+            "De aanspraak · 1–4",
+            "Vijfde maand van Zedekia’s vierde jaar: Hananja belooft binnen twee jaren voorwerpen en ballingen terug."
+          ],
+          [
+            "De confrontatie · 5–11",
+            "Jeremia wenst herstel maar wijst op uitkomst als toets; Hananja breekt het houten juk."
+          ],
+          [
+            "Het antwoord · 12–17",
+            "IJzer in plaats van hout, niet gezonden spreken en aangekondigde dood; Hananja sterft in de zevende maand."
+          ]
+        ],
+        "note": "Namen en versgroepen volgen deze hoofdstuktekst. Het schema houdt beschreven gebeurtenissen, aankondigingen en voorwaarden uiteen."
+      }
+    },
+    {
+      "book": "jeremia",
+      "chapter": 29,
+      "verse": 1,
+      "file": "29-leeswijzer.svg",
+      "scene": "Brieven tussen twee steden",
+      "alt": "Hoofdstukopbouw met gecontroleerde namen en verwijzingen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1028,
+      "source": "Jeremia 29:1–32",
+      "design": {
+        "rows": [
+          [
+            "Aan de ballingen · 1–14",
+            "Elasa en Gemarja dragen de brief: huizen, tuinen, gezinnen en stadsvrede; zeventig jaar, zoeken en terugkeer."
+          ],
+          [
+            "Waarschuwingen · 15–23",
+            "Achterblijvers als slechte vijgen; Achab en Zedekia, zoon van Maäseja, spreken leugenwoorden."
+          ],
+          [
+            "Semaja’s brief · 24–32",
+            "Semaja vraagt Zefanja om Jeremia te berispen. Zefanja leest voor; oordeel over niet gezonden spreken."
+          ]
+        ],
+        "note": "Namen en versgroepen volgen deze hoofdstuktekst. Het schema houdt beschreven gebeurtenissen, aankondigingen en voorwaarden uiteen."
+      }
+    },
+    {
+      "book": "jeremia",
+      "chapter": 30,
+      "verse": 1,
+      "file": "30-leeswijzer.svg",
+      "scene": "Benauwdheid en herstel",
+      "alt": "Hoofdstukopbouw met gecontroleerde namen en verwijzingen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1028,
+      "source": "Jeremia 30:1–24",
+      "design": {
+        "rows": [
+          [
+            "Schrijven en redden · 1–11",
+            "Boek, terugkeer van Israël en Juda, Jakobs grote benauwdheid, gebroken juk en tucht met mate."
+          ],
+          [
+            "Breuk en genezing · 12–17",
+            "Pijn en verlatenheid vanwege schuld; plunderaars worden geplunderd, Sion krijgt herstel."
+          ],
+          [
+            "Stad en verbond · 18–24",
+            "Tenten, paleis en vergadering hersteld; dank, eigen heerser en Gods volk; slot over de aanhoudende storm."
+          ]
+        ],
+        "note": "Namen en versgroepen volgen deze hoofdstuktekst. Het schema houdt beschreven gebeurtenissen, aankondigingen en voorwaarden uiteen."
+      }
+    },
+    {
+      "book": "jeremia",
+      "chapter": 25,
+      "verse": 18,
+      "file": "25-volken-van-de-beker.svg",
+      "scene": "Wie drinken de beker?",
+      "alt": "Volledige reeks genoemde landen, steden en groepen in de bekerpassage.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1193,
+      "source": "Jeremia 25:18–26",
+      "design": {
+        "rows": [
+          [
+            "Begin · 18–21",
+            "Jeruzalem en Juda; Farao en Egypte; mengvolk, Uz, Filistijnen: Askelon, Gaza, Ekron, rest van Asdod; Edom, Moab, Ammonieten."
+          ],
+          [
+            "Verder · 22–24",
+            "Tyrus, Sidon, eilanden aan de overkant; Dedan, Thema, Buz en kaalgeschoren slapen; Arabië en mengvolk in de woestijn."
+          ],
+          [
+            "Slot · 25–26",
+            "Zimri, Elam, Medië; noordelijke koningen dichtbij en veraf, alle koninkrijken; de koning van Sesach na hen."
+          ]
+        ],
+        "note": "Dit is een geordende namenlijst uit het bekerbeeld, geen kaart met vastgestelde grenzen. De koning van Sesach wordt in deze verzen als laatste genoemd."
+      }
+    },
+    {
+      "book": "jeremia",
+      "chapter": 26,
+      "verse": 18,
+      "file": "26-twee-voorbeelden.svg",
+      "scene": "Twee aangehaalde voorbeelden",
+      "alt": "De twee voorbeelden en de bescherming van Jeremia apart weergegeven.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 985,
+      "source": "Jeremia 26:18–24",
+      "design": {
+        "rows": [
+          [
+            "Micha en Hizkia · 18–19",
+            "Micha uit Moreseth waarschuwde voor Sions ondergang. Hizkia vreesde en smeekte; Micha werd niet gedood."
+          ],
+          [
+            "Uria en Jojakim · 20–23",
+            "Uria, zoon van Semaja, sprak hetzelfde als Jeremia. Vlucht naar Egypte, door Elnathan teruggehaald en gedood."
+          ],
+          [
+            "Jeremia en Ahikam · 24",
+            "Ahikam, zoon van Safan, beschermde Jeremia tegen overgave aan het volk."
+          ]
+        ],
+        "note": "De tekst geeft verschillende reacties op profetische waarschuwing. De namen en uitkomsten horen bij hun eigen verhaal."
+      }
+    },
+    {
+      "book": "jeremia",
+      "chapter": 27,
+      "verse": 3,
+      "file": "27-vijf-boden.svg",
+      "scene": "Jukken voor vijf koningen",
+      "alt": "Alle vijf genoemde ontvangers en de overdracht door hun boden.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 813,
+      "source": "Jeremia 27:3",
+      "design": {
+        "rows": [
+          [
+            "Edom",
+            "Naar de koning van Edom."
+          ],
+          [
+            "Moab en Ammonieten",
+            "Naar de koningen van Moab en van de Ammonieten."
+          ],
+          [
+            "Tyrus en Sidon",
+            "Naar de koningen van Tyrus en Sidon."
+          ]
+        ],
+        "note": "De jukken gaan door hun boden die bij Zedekia in Jeruzalem komen. Jeremia spreekt later ook zelf tot Zedekia en daarna tot priesters en volk."
+      }
+    }
+  ]
+}
