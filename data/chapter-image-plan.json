@@ -9910,6 +9910,138 @@
           "source": "1 Kronieken 20:4–8"
         }
       ]
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 21,
+      "status": "reviewed",
+      "target_images": 7,
+      "reason": "Joabs bezwaar, aankoop en altaar zijn aanwezig. Davids en de oudsten hun rouw is een afzonderlijk moment; drie schema’s voegen telling, drie keuzen en de plaatselijke afloop toe.",
+      "additions": [
+        {
+          "verse": 16,
+          "scene": "David en de oudsten in rouw",
+          "kind": "scene",
+          "file": "21-16-inhoudelijk.webp"
+        },
+        {
+          "verse": 1,
+          "file": "21-telling-en-gevolgen.svg",
+          "scene": "Van telling naar oordeel",
+          "kind": "diagram",
+          "source": "1 Kronieken 21:1–17"
+        },
+        {
+          "verse": 12,
+          "file": "21-drie-keuzen.svg",
+          "scene": "Gads drie voorgestelde keuzen",
+          "kind": "diagram",
+          "source": "1 Kronieken 21:9–14"
+        },
+        {
+          "verse": 18,
+          "file": "21-dorsvloer-en-gibeon.svg",
+          "scene": "De dorsvloer en Gibeon",
+          "kind": "diagram",
+          "source": "1 Kronieken 21:18–30"
+        }
+      ]
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 22,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Stenen, ceder en opdracht aan Salomo zijn aanwezig. IJzer en poortbeslag vormen een aparte voorbereiding; twee schema’s maken voorraad en rolverdeling leesbaar.",
+      "additions": [
+        {
+          "verse": 3,
+          "scene": "Voorraad ijzer voor de poorten",
+          "kind": "scene",
+          "file": "22-3-inhoudelijk.webp"
+        },
+        {
+          "verse": 2,
+          "file": "22-materiaal-en-vaklieden.svg",
+          "scene": "Voorraad voor de bouw",
+          "kind": "diagram",
+          "source": "1 Kronieken 22:2–5, 14–16"
+        },
+        {
+          "verse": 6,
+          "file": "22-david-salomo-leiders.svg",
+          "scene": "David, Salomo en de leiders",
+          "kind": "diagram",
+          "source": "1 Kronieken 22:6–19"
+        }
+      ]
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 23,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Koningschap, voorraadwerk en lof zijn aanwezig. Drie schema’s voegen precieze aantallen, familierelaties en de twee onderscheiden leeftijdsregelingen toe; nieuwe scènes zouden de bestaande taken herhalen.",
+      "additions": [
+        {
+          "verse": 3,
+          "file": "23-levieten-taken-aantallen.svg",
+          "scene": "38.000 Levieten, vier taken",
+          "kind": "diagram",
+          "source": "1 Kronieken 23:3–5"
+        },
+        {
+          "verse": 6,
+          "file": "23-levi-families-hier.svg",
+          "scene": "Familietakken in dit register",
+          "kind": "diagram",
+          "source": "1 Kronieken 23:6–23"
+        },
+        {
+          "verse": 24,
+          "file": "23-leeftijd-en-dagritme.svg",
+          "scene": "Leeftijd en dagelijks werk",
+          "kind": "diagram",
+          "source": "1 Kronieken 23:24–32"
+        }
+      ]
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 24,
+      "status": "reviewed",
+      "target_images": 7,
+      "reason": "Indeling, registratie en loting zijn aanwezig. Vier schema’s tonen de twee takken, alle vierentwintig afdelingen en de overige Levieten met exacte naamvormen.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "24-aaron-en-loting.svg",
+          "scene": "Aärons takken en de loting",
+          "kind": "diagram",
+          "source": "1 Kronieken 24:1–6"
+        },
+        {
+          "verse": 7,
+          "file": "24-loten-01-12.svg",
+          "scene": "De eerste twaalf loten",
+          "kind": "diagram",
+          "source": "1 Kronieken 24:7–12"
+        },
+        {
+          "verse": 13,
+          "file": "24-loten-13-24.svg",
+          "scene": "De volgende twaalf loten",
+          "kind": "diagram",
+          "source": "1 Kronieken 24:13–19"
+        },
+        {
+          "verse": 20,
+          "file": "24-overige-levieten.svg",
+          "scene": "De overige Levieten",
+          "kind": "diagram",
+          "source": "1 Kronieken 24:20–31"
+        }
+      ]
     }
   ]
 }

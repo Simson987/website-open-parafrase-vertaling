@@ -1,0 +1,461 @@
+{
+  "date": "2026-10-24",
+  "started": "2026-10-24T23:31:06Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "1kronieken",
+      "chapter": 21,
+      "verse": 16,
+      "scene": "David en de oudsten in rouw",
+      "alt": "David en de oudsten in rouw — 1 Kronieken 21:16",
+      "kind": "scene",
+      "file": "21-16-inhoudelijk.webp",
+      "prompt": "Photorealistic educational historical Bible illustration, landscape 3:2, ancient Jerusalem in David’s time, modest woven robes, anatomically correct adults, natural hands, exactly two arms each. No modern objects, Roman armor, readable words, watermark, nudity, visible deity, blood or injury. Adult King David and several adult elders in coarse sackcloth fully covering their bodies bow face down on the ground outside Jerusalem, in grief and humility, sober natural daylight. Camera looks at the human response only, the sky and angel are outside the frame. Natural kneeling bodies with arms aligned, no duplicated hands.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 22,
+      "verse": 3,
+      "scene": "Voorraad ijzer voor de poorten",
+      "alt": "Voorraad ijzer voor de poorten — 1 Kronieken 22:3",
+      "kind": "scene",
+      "file": "22-3-inhoudelijk.webp",
+      "prompt": "Photorealistic educational historical Bible illustration, landscape 3:2, ancient Jerusalem in David’s time, modest woven robes, anatomically correct adults, natural hands, exactly two arms each. No modern objects, Roman armor, readable words, watermark, nudity, visible deity, blood or injury. Adult Israelite metalworkers sort hand-forged iron nails and large ancient door hinges on a stone worktable for the future temple gates. Simple ancient forge nearby and carefully stored bronze, no temple building already finished, no modern screws or machinery.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 21,
+      "verse": 1,
+      "file": "21-telling-en-gevolgen.svg",
+      "scene": "Van telling naar oordeel",
+      "alt": "Oorzaak, uitslag, schuld en gevolg van de volkstelling.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1290,
+      "source": "1 Kronieken 21:1–17",
+      "design": {
+        "rows": [
+          [
+            "Aanleiding en bevel",
+            "De satan zet David aan; David laat Joab van Ber-Seba tot Dan tellen, ondanks diens bezwaar."
+          ],
+          [
+            "Uitslag",
+            "1.100.000 mannen in Israël en 470.000 in Juda; Levi en Benjamin zijn niet meegeteld."
+          ],
+          [
+            "Erkenning",
+            "David belijdt zijn zonde en dwaasheid."
+          ],
+          [
+            "Pest en onderbreking",
+            "70.000 doden; bij Jeruzalem beveelt God de engel zijn hand terug te trekken."
+          ],
+          [
+            "Davids gebed",
+            "Hij erkent zijn eigen schuld en vraagt ontferming voor het volk."
+          ]
+        ],
+        "note": "De aantallen volgen dit hoofdstuk. Er wordt geen gelijkstelling met een andere telling opgelegd."
+      }
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 21,
+      "verse": 12,
+      "file": "21-drie-keuzen.svg",
+      "scene": "Gads drie voorgestelde keuzen",
+      "alt": "De drie alternatieven met de exacte duur en Davids antwoord.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "1 Kronieken 21:9–14",
+      "design": {
+        "rows": [
+          [
+            "Drie jaar",
+            "Honger."
+          ],
+          [
+            "Drie maanden",
+            "Vluchten voor tegenstanders en hun zwaard."
+          ],
+          [
+            "Drie dagen",
+            "Pest in het land en verderf door de engel van de HEERE."
+          ],
+          [
+            "Davids antwoord",
+            "Hij valt liever in de hand van de HEERE vanwege Zijn grote barmhartigheid dan in de hand van mensen."
+          ]
+        ],
+        "note": "Drie verschillende tijdseenheden: jaren, maanden en dagen. De pest volgt daarna in het verslag."
+      }
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 21,
+      "verse": 18,
+      "file": "21-dorsvloer-en-gibeon.svg",
+      "scene": "De dorsvloer en Gibeon",
+      "alt": "Plaats, betaling en afloop met het onderscheid tussen dorsvloer en Gibeon.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1220,
+      "source": "1 Kronieken 21:18–30",
+      "design": {
+        "rows": [
+          [
+            "Het bevel via Gad",
+            "David moet een altaar oprichten op Ornans dorsvloer."
+          ],
+          [
+            "De volle prijs",
+            "Ornan biedt alles aan; David weigert een offer dat hem niets kost en betaalt ongeveer zeven kilo goud."
+          ],
+          [
+            "Het antwoord",
+            "God antwoordt met vuur op het altaar; de engel steekt zijn zwaard in de schede."
+          ],
+          [
+            "Gibeon",
+            "De oude ontmoetingstent en het brandofferaltaar staan daar, maar David durft er niet heen."
+          ]
+        ],
+        "note": "Dorsvloer en offerhoogte zijn twee plaatsen. De vier zonen van Ornan verbergen zich tijdens het eerdere zien van de engel."
+      }
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 22,
+      "verse": 2,
+      "file": "22-materiaal-en-vaklieden.svg",
+      "scene": "Voorraad voor de bouw",
+      "alt": "De genoemde materialen, hoeveelheden en vaklieden.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1290,
+      "source": "1 Kronieken 22:2–5, 14–16",
+      "design": {
+        "rows": [
+          [
+            "Steen en hout",
+            "Steenhouwers bereiden stenen; cederhout komt uit Sidon en Tyrus."
+          ],
+          [
+            "IJzer en koper",
+            "IJzer voor spijkers en poortbeslagen; koper in onmeetbare hoeveelheid."
+          ],
+          [
+            "Goud en zilver",
+            "Ongeveer 3.400 ton goud en 34.000 ton zilver volgens de omrekening in deze vertaling."
+          ],
+          [
+            "Vaklieden",
+            "Steenhouwers, steen- en houtbewerkers en allerlei bekwame werklieden."
+          ],
+          [
+            "Nog aanvullen",
+            "Salomo moet zelf meer toevoegen en aan het werk gaan."
+          ]
+        ],
+        "note": "Deze voorraad is een voorbereiding; het heiligdom staat hier nog niet voltooid."
+      }
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 22,
+      "verse": 6,
+      "file": "22-david-salomo-leiders.svg",
+      "scene": "David, Salomo en de leiders",
+      "alt": "De onderscheiden opdrachten en redenen bij de overgang naar Salomo.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1177,
+      "source": "1 Kronieken 22:6–19",
+      "design": {
+        "rows": [
+          [
+            "David",
+            "Heeft het voornemen, maar mag wegens bloedvergieten en oorlogen het huis niet bouwen."
+          ],
+          [
+            "Salomo",
+            "Man van rust; krijgt de bouwopdracht en de belofte van Gods vaderschap."
+          ],
+          [
+            "Wet en moed",
+            "David vraagt om inzicht en verstand; Salomo moet de wet houden en sterk en moedig zijn."
+          ],
+          [
+            "Alle leiders",
+            "Moeten Salomo helpen, God met hart en ziel zoeken en het heiligdom bouwen."
+          ]
+        ],
+        "note": "Bouwvoorbereiding, bouwopdracht en hulp zijn verschillende rollen; de opdracht wordt niet aan David toegeschreven."
+      }
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 23,
+      "verse": 3,
+      "file": "23-levieten-taken-aantallen.svg",
+      "scene": "38.000 Levieten, vier taken",
+      "alt": "Vier aantallen en taken die exact optellen tot de genoemde groep.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 969,
+      "source": "1 Kronieken 23:3–5",
+      "design": {
+        "rows": [
+          [
+            "24.000",
+            "Toezicht op het werk in het huis van de HEERE."
+          ],
+          [
+            "6.000",
+            "Opzichters en rechters."
+          ],
+          [
+            "4.000",
+            "Poortwachters."
+          ],
+          [
+            "4.000",
+            "Lofzang met de door David gemaakte instrumenten."
+          ]
+        ],
+        "note": "24.000 + 6.000 + 4.000 + 4.000 = 38.000. Deze telling begint in vers 3 bij dertig jaar."
+      }
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 23,
+      "verse": 6,
+      "file": "23-levi-families-hier.svg",
+      "scene": "Familietakken in dit register",
+      "alt": "Familietakken en naamgenoten met alleen de genoemde relaties.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1412,
+      "source": "1 Kronieken 23:6–23",
+      "design": {
+        "rows": [
+          [
+            "Gerson",
+            "Ladan en Simeï; bij Ladan Jehiël, Zetham en Joël. Jeüs en Beria gelden samen als één familie."
+          ],
+          [
+            "Kehath",
+            "Amram, Jizhar, Hebron en Uzziël. Amram heeft Aäron en Mozes."
+          ],
+          [
+            "Mozes",
+            "Gersom → Sebuël; Eliëzer → Rehabja. Mozes’ nakomelingen worden tot Levi gerekend."
+          ],
+          [
+            "Merari",
+            "Maheli en Musi. Maheli heeft Eleazar en Kis; Musi heeft Maheli, Eder en Jeremoth."
+          ],
+          [
+            "Eleazars dochters",
+            "Hij heeft geen zonen; zijn dochters trouwen met de zonen van Kis."
+          ]
+        ],
+        "note": "Gersom, zoon van Mozes, is niet Gerson, zoon van Levi. Zina en Zizza zijn de twee vormen in vers 10 en 11."
+      }
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 23,
+      "verse": 24,
+      "file": "23-leeftijd-en-dagritme.svg",
+      "scene": "Leeftijd en dagelijks werk",
+      "alt": "De gewijzigde leeftijdsregeling en dagelijkse en feestelijke taken.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1177,
+      "source": "1 Kronieken 23:24–32",
+      "design": {
+        "rows": [
+          [
+            "Twintig jaar en ouder",
+            "De latere regeling volgens Davids laatste woorden; naast de eerdere telling vanaf dertig."
+          ],
+          [
+            "Geen draagtaak meer",
+            "Door de rust en vestiging hoeven zij tent en gerei niet meer te dragen."
+          ],
+          [
+            "Ondersteuning",
+            "Naast Aärons nakomelingen: voorhoven, kamers, reiniging, brood, meel, bakwerk, maten en gewichten."
+          ],
+          [
+            "Vaste tijden",
+            "Elke morgen en avond lof; ook bij sabbatten, nieuwemaansdagen en feesten."
+          ]
+        ],
+        "note": "De twee leeftijdsgrenzen staan in verschillende passages; er wordt geen enkele uniforme grens over het hele hoofdstuk gelegd."
+      }
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 24,
+      "verse": 1,
+      "file": "24-aaron-en-loting.svg",
+      "scene": "Aärons takken en de loting",
+      "alt": "Priesterlijke takken, aantallen en registratie met de twee naamvormen zichtbaar.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1134,
+      "source": "1 Kronieken 24:1–6",
+      "design": {
+        "rows": [
+          [
+            "Aärons vier zonen",
+            "Nadab, Abihu, Eleazar en Ithamar."
+          ],
+          [
+            "Twee priesterlijke takken",
+            "Nadab en Abihu sterven zonder zonen; Eleazar en Ithamar vervullen de dienst."
+          ],
+          [
+            "Zestien en acht",
+            "Zestien familiehoofden uit Eleazar en acht uit Ithamar: vierentwintig afdelingen."
+          ],
+          [
+            "Vastleggen",
+            "De Levitische schrijver Semaja, zoon van Nethaneël, schrijft de indeling op bij koning en leiders."
+          ]
+        ],
+        "note": "Vers 3 noemt Abimelech; vers 6 Achimelech, zoon van Abjathar. De bronvormen worden niet stilzwijgend gelijkgetrokken."
+      }
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 24,
+      "verse": 7,
+      "file": "24-loten-01-12.svg",
+      "scene": "De eerste twaalf loten",
+      "alt": "Alle namen en volgordenummers van de eerste twaalf dienstafdelingen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1217,
+      "source": "1 Kronieken 24:7–12",
+      "design": {
+        "rows": [
+          [
+            "1 en 2",
+            "Jojarib; Jedaja."
+          ],
+          [
+            "3 en 4",
+            "Harim; Seorim."
+          ],
+          [
+            "5 en 6",
+            "Malchia; Mijamin."
+          ],
+          [
+            "7 en 8",
+            "Hakkoz; Abia."
+          ],
+          [
+            "9 en 10",
+            "Jesua; Sechanja."
+          ],
+          [
+            "11 en 12",
+            "Eljasib; Jakim."
+          ]
+        ],
+        "note": "Volgorde van de dienstafdelingen, geen vader-zoonketen. Het volgende schema begint bij het dertiende lot."
+      }
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 24,
+      "verse": 13,
+      "file": "24-loten-13-24.svg",
+      "scene": "De volgende twaalf loten",
+      "alt": "Alle namen en volgordenummers van de tweede helft van de dienstafdelingen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1217,
+      "source": "1 Kronieken 24:13–19",
+      "design": {
+        "rows": [
+          [
+            "13 en 14",
+            "Huppa; Jesebeab."
+          ],
+          [
+            "15 en 16",
+            "Bilga; Immer."
+          ],
+          [
+            "17 en 18",
+            "Hezir; Happizzes."
+          ],
+          [
+            "19 en 20",
+            "Petahja; Jehezkel."
+          ],
+          [
+            "21 en 22",
+            "Jachin; Gamul."
+          ],
+          [
+            "23 en 24",
+            "Delaja; Maäzja."
+          ]
+        ],
+        "note": "De 24 afdelingen verrichten de dienst volgens de regel die Aäron had ontvangen; de lijst geeft geen jaarkalender."
+      }
+    },
+    {
+      "book": "1kronieken",
+      "chapter": 24,
+      "verse": 20,
+      "file": "24-overige-levieten.svg",
+      "scene": "De overige Levieten",
+      "alt": "De genoemde zijtakken en gelijke lotingsregel voor oud en jong.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1326,
+      "source": "1 Kronieken 24:20–31",
+      "design": {
+        "rows": [
+          [
+            "Amram en Rehabja",
+            "Subael → Jechdeja; bij Rehabja is Jissia het hoofd."
+          ],
+          [
+            "Jizhar en Hebron",
+            "Selomoth → Jahath; bij Hebron Jeria, Amarja, Jahaziël en Jekameam."
+          ],
+          [
+            "Uzziël",
+            "Micha → Samir; Micha’s broer Jissia → Zecharja."
+          ],
+          [
+            "Merari",
+            "Maheli en Musi; ook de tak via Jaazia met Beno, Soham, Zakkur en Hibri."
+          ],
+          [
+            "Dezelfde regel",
+            "Ook zij loten; voor het oudste hoofd geldt dezelfde regel als voor zijn jongste broer."
+          ]
+        ],
+        "note": "Dit hoofdstuk schrijft Subael en Selomoth; hoofdstuk 23 heeft Sebuël en Selomith. De eigen vormen blijven behouden."
+      }
+    }
+  ]
+}
