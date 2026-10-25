@@ -1,0 +1,754 @@
+{
+  "date": "2026-10-25",
+  "started": "2026-10-25T00:32:44Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "nehemia",
+      "chapter": 8,
+      "verse": 9,
+      "scene": "Levieten leggen de betekenis uit",
+      "alt": "Levieten leggen de betekenis uit — Nehemia 8:9",
+      "kind": "scene",
+      "file": "8-9-inhoudelijk.webp",
+      "prompt": "Photorealistic educational historical Bible illustration, landscape 3:2, fifth century BC Persian-period Jerusalem. Fully modest ancient robes, natural hands and exactly two arms per person. No modern objects, readable text, visible deity, nudity or watermark. An adult Levite in plain linen modest robes explains an opened ancient law scroll to a small standing group of Judean adult women and men in a public square near the Jerusalem Water Gate. Ezra is on a distant wooden platform. Focus on a patient explanation and attentive understanding, not a royal sermon, realistic gestures.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "nehemia",
+      "chapter": 8,
+      "verse": 16,
+      "scene": "Takken halen voor de loofhutten",
+      "alt": "Takken halen voor de loofhutten — Nehemia 8:16",
+      "kind": "scene",
+      "file": "8-16-inhoudelijk.webp",
+      "prompt": "Photorealistic educational historical Bible illustration, landscape 3:2, fifth century BC Persian-period Jerusalem. Fully modest ancient robes, natural hands and exactly two arms per person. No modern objects, readable text, visible deity, nudity or watermark. Adult Judean men and women carry freshly cut palm, myrtle and olive branches along a path in the wooded hills outside Jerusalem, collecting foliage to make festival booths. Joyful ordinary work, no completed booths yet, no tools cutting hands, modest full robes, natural warm daylight.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "nehemia",
+      "chapter": 7,
+      "verse": 1,
+      "file": "7-leiding-poorten-en-register.svg",
+      "scene": "Leiding, poorten en register",
+      "alt": "Leiders, veiligheidsmaatregelen en de functie van het gevonden register.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1362,
+      "source": "Nehemia 7:1–7",
+      "design": {
+        "rows": [
+          [
+            "Na de muur",
+            "Deuren geplaatst; poortwachters, zangers en Levieten aangesteld."
+          ],
+          [
+            "Twee leiders",
+            "Hanani, Nehemia’s broer, en Hananja, bevelhebber van de burcht."
+          ],
+          [
+            "De poorten",
+            "Pas open als de zon warm is; sluiten en grendelen onder toezicht."
+          ],
+          [
+            "Een grote, lege stad",
+            "Weinig inwoners, huizen nog niet herbouwd."
+          ],
+          [
+            "Het register",
+            "Familie-inschrijving; gevonden lijst van de eerste terugkeerders met Zerubbabel."
+          ]
+        ],
+        "note": "De oudere terugkeerlijst wordt in het huidige verhaal aangehaald; de daarin genoemde Nehemia wordt niet automatisch gelijkgesteld aan de verteller."
+      }
+    },
+    {
+      "book": "nehemia",
+      "chapter": 7,
+      "verse": 8,
+      "file": "7-families-eerste.svg",
+      "scene": "Familiegroepen, eerste deel",
+      "alt": "Namen en aantallen uit de plaatselijke passage.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1664,
+      "source": "Nehemia 7:8–16",
+      "design": {
+        "rows": [
+          [
+            "Parhos",
+            "2.172"
+          ],
+          [
+            "Sefatja",
+            "372"
+          ],
+          [
+            "Arach",
+            "652"
+          ],
+          [
+            "Pahath-Moab, via Jesua en Joab",
+            "2.818"
+          ],
+          [
+            "Elam",
+            "1.254"
+          ],
+          [
+            "Zatthu",
+            "845"
+          ],
+          [
+            "Zakkai",
+            "760"
+          ],
+          [
+            "Binnuï",
+            "648"
+          ],
+          [
+            "Bebai",
+            "628"
+          ]
+        ],
+        "note": "Deze aantallen volgen Nehemia 7. Verschillen met Ezra 2 zijn niet stilzwijgend gelijkgetrokken; namen blijven bij hun eigen lijst."
+      }
+    },
+    {
+      "book": "nehemia",
+      "chapter": 7,
+      "verse": 17,
+      "file": "7-families-tweede.svg",
+      "scene": "Familiegroepen, tweede deel",
+      "alt": "Namen en aantallen uit de plaatselijke passage.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1515,
+      "source": "Nehemia 7:17–24",
+      "design": {
+        "rows": [
+          [
+            "Azgad",
+            "2.322"
+          ],
+          [
+            "Adonikam",
+            "667"
+          ],
+          [
+            "Bigvai",
+            "2.067"
+          ],
+          [
+            "Adin",
+            "655"
+          ],
+          [
+            "Ater, via Hizkia",
+            "98"
+          ],
+          [
+            "Hassum",
+            "328"
+          ],
+          [
+            "Bezai",
+            "324"
+          ],
+          [
+            "Harif",
+            "112"
+          ]
+        ],
+        "note": "Deze aantallen volgen Nehemia 7. Verschillen met Ezra 2 zijn niet stilzwijgend gelijkgetrokken; namen blijven bij hun eigen lijst."
+      }
+    },
+    {
+      "book": "nehemia",
+      "chapter": 7,
+      "verse": 25,
+      "file": "7-plaatsen-eerste.svg",
+      "scene": "Woonplaatsen, eerste deel",
+      "alt": "Namen en aantallen uit de plaatselijke passage.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1366,
+      "source": "Nehemia 7:25–31",
+      "design": {
+        "rows": [
+          [
+            "Gibeon",
+            "95"
+          ],
+          [
+            "Bethlehem en Netofa",
+            "188"
+          ],
+          [
+            "Anathoth",
+            "128"
+          ],
+          [
+            "Beth-Azmaveth",
+            "42"
+          ],
+          [
+            "Kirjath-Jearim, Cefira en Beëroth",
+            "743"
+          ],
+          [
+            "Rama en Gaba",
+            "620"
+          ],
+          [
+            "Michmas",
+            "122"
+          ]
+        ],
+        "note": "Deze aantallen volgen Nehemia 7. Verschillen met Ezra 2 zijn niet stilzwijgend gelijkgetrokken; namen blijven bij hun eigen lijst."
+      }
+    },
+    {
+      "book": "nehemia",
+      "chapter": 7,
+      "verse": 32,
+      "file": "7-plaatsen-tweede.svg",
+      "scene": "Woonplaatsen, tweede deel",
+      "alt": "Namen en aantallen uit de plaatselijke passage.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1366,
+      "source": "Nehemia 7:32–38",
+      "design": {
+        "rows": [
+          [
+            "Bethel en Ai",
+            "123"
+          ],
+          [
+            "het andere Nebo",
+            "52"
+          ],
+          [
+            "de andere Elam",
+            "1.254"
+          ],
+          [
+            "Harim",
+            "320"
+          ],
+          [
+            "Jericho",
+            "345"
+          ],
+          [
+            "Lod, Hadid en Ono",
+            "721"
+          ],
+          [
+            "Senaä",
+            "3.930"
+          ]
+        ],
+        "note": "Deze aantallen volgen Nehemia 7. Verschillen met Ezra 2 zijn niet stilzwijgend gelijkgetrokken; namen blijven bij hun eigen lijst."
+      }
+    },
+    {
+      "book": "nehemia",
+      "chapter": 7,
+      "verse": 39,
+      "file": "7-dienstgroepen-en-onzekerheid.svg",
+      "scene": "Dienstgroepen en herkomst",
+      "alt": "Dienstfuncties, eigen aantallen en de grens van het registerbewijs.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1475,
+      "source": "Nehemia 7:39–65",
+      "design": {
+        "rows": [
+          [
+            "Priesters",
+            "Jedaja 973; Immer 1.052; Pashur 1.247; Harim 1.017."
+          ],
+          [
+            "Levieten en zangers",
+            "Jesua, via Kadmiël uit Hodeva: 74; nakomelingen van Asaf: 148."
+          ],
+          [
+            "Poortwachters",
+            "Sallum, Ater, Talmon, Akkub, Hatita, Sobai: samen 138."
+          ],
+          [
+            "Twee dienstlijsten",
+            "Tempelknechten en nakomelingen van Salomo’s dienaren: samen 392."
+          ],
+          [
+            "Herkomst niet aangetoond",
+            "Delaja, Tobia en Nekoda: 642; ook priesters zoeken vergeefs hun register."
+          ],
+          [
+            "Voorlopige uitsluiting",
+            "Geen allerheiligste gaven tot er een priester met urim en tummim is."
+          ]
+        ],
+        "note": "De lijst bewijst geen onbekende afstamming; de hier gegeven getallen verschillen op enkele plaatsen van Ezra 2."
+      }
+    },
+    {
+      "book": "nehemia",
+      "chapter": 7,
+      "verse": 66,
+      "file": "7-totalen-en-verschillende-gevers.svg",
+      "scene": "Totalen en verschillende gevers",
+      "alt": "De verschillende totalen, dieren en bijdragen met hun gevers.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1518,
+      "source": "Nehemia 7:66–73",
+      "design": {
+        "rows": [
+          [
+            "Vergadering",
+            "42.360; daarnaast 7.337 slaven en slavinnen en 245 zangers en zangeressen."
+          ],
+          [
+            "Dieren",
+            "736 paarden; 245 muildieren; 435 kamelen; 6.720 ezels."
+          ],
+          [
+            "De landvoogd",
+            "1.000 gouden munten, vijftig sprengschalen en 530 priestergewaden."
+          ],
+          [
+            "Andere familiehoofden",
+            "20.000 gouden munten en circa 1,3 ton zilver."
+          ],
+          [
+            "Rest van het volk",
+            "20.000 gouden munten, circa 1,1 ton zilver en 67 priestergewaden."
+          ],
+          [
+            "Vestiging",
+            "Dienstgroepen en heel Israël wonen in hun steden."
+          ]
+        ],
+        "note": "Bedragen en aparte gevers volgen deze vertaling; de drie bijdragen worden niet tot één afgebeelde schenker gemaakt."
+      }
+    },
+    {
+      "book": "nehemia",
+      "chapter": 8,
+      "verse": 2,
+      "file": "8-lezen-begrijpen-en-feest.svg",
+      "scene": "Lezen, begrijpen en feest",
+      "alt": "De samenhang tussen lezen, begrip, gedeelde vreugde en feestduur.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1482,
+      "source": "Nehemia 8:2–19",
+      "design": {
+        "rows": [
+          [
+            "Eerste dag, maand zeven",
+            "Ezra leest van ochtend tot middag bij de Waterpoort; mannen, vrouwen en wie begrijpen kan luisteren."
+          ],
+          [
+            "Opstaan en aanbidden",
+            "Boek open, volk staat; amen, opgeheven handen en buigen."
+          ],
+          [
+            "Uitleg",
+            "Duidelijk lezen en de betekenis uitleggen, zodat het volk begrijpt."
+          ],
+          [
+            "Huilen wordt feest",
+            "Niet rouwen; eten, drinken en porties sturen naar wie niets heeft."
+          ],
+          [
+            "De volgende dag",
+            "Leiders onderzoeken de wet en ontdekken het voorschrift over loofhutten."
+          ],
+          [
+            "Zeven en acht",
+            "Zeven dagen feest met dagelijks lezen; de achtste dag een slotdag."
+          ]
+        ],
+        "note": "Het feest krijgt opeenvolgende fasen; de uitleg in kleine groepen is geen tweede koningsrede."
+      }
+    },
+    {
+      "book": "nehemia",
+      "chapter": 8,
+      "verse": 5,
+      "file": "8-naast-ezra-op-het-hout.svg",
+      "scene": "Naast Ezra op de verhoging",
+      "alt": "Alle namen van de twee kanten en de afzonderlijke onderwijsgroep.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1177,
+      "source": "Nehemia 8:5–9",
+      "design": {
+        "rows": [
+          [
+            "Rechts van Ezra",
+            "Mattithja, Sema, Anaja, Uria, Hilkia en Maäseja."
+          ],
+          [
+            "In het midden",
+            "Ezra, priester en schriftgeleerde, op de houten verhoging."
+          ],
+          [
+            "Links van Ezra",
+            "Pedaja, Misaël, Malchia, Hasum, Hasbaddana, Zacharja en Mesullam."
+          ],
+          [
+            "Het onderwijs",
+            "Jesua, Bani, Serebja, Jamin, Akkub, Sabbethai, Hodia, Maäseja, Kelita, Azaria, Jozabad, Hanan en Pelaja met de Levieten."
+          ]
+        ],
+        "note": "Rechts en links zijn zoals de tekst ze noemt; de laatste groep wordt niet als extra rij op de verhoging geplaatst."
+      }
+    },
+    {
+      "book": "nehemia",
+      "chapter": 9,
+      "verse": 1,
+      "file": "9-gebedsdag-en-terugblik.svg",
+      "scene": "De gebedsdag en terugblik",
+      "alt": "Gebedsdag, tijdsverdeling en de eerste historische bewegingen in het gebed.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1475,
+      "source": "Nehemia 9:1–25",
+      "design": {
+        "rows": [
+          [
+            "Dag vierentwintig",
+            "Vasten, rouwkleding en aarde op het hoofd; schuld belijden."
+          ],
+          [
+            "Twee kwartdagen",
+            "Eén kwart lezen; één kwart belijden en aanbidden."
+          ],
+          [
+            "Schepping en Abraham",
+            "Lof voor de Schepper; Abram gekozen, naam Abraham en landbelofte."
+          ],
+          [
+            "Uittocht en wet",
+            "Egypte, zee, wolk en vuur; Sinaï, geboden, brood en water."
+          ],
+          [
+            "Ontrouw en trouw",
+            "Weigering en kalf, toch veertig jaar onderhouden."
+          ],
+          [
+            "Het land",
+            "Sihon, Og, talrijke kinderen, steden en overvloed ontvangen."
+          ]
+        ],
+        "note": "De uittocht en woestijn zijn herinnerde geschiedenis binnen dit gebed; ze vinden niet opnieuw op deze gebedsdag plaats."
+      }
+    },
+    {
+      "book": "nehemia",
+      "chapter": 9,
+      "verse": 26,
+      "file": "9-herhaling-en-verbond.svg",
+      "scene": "Herhaling, nood en verbond",
+      "alt": "Het herhaalde patroon en de overgang van schuldbelijdenis naar een vast verbond.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1369,
+      "source": "Nehemia 9:26–38",
+      "design": {
+        "rows": [
+          [
+            "Herhaald patroon",
+            "Opstand → onderdrukking → roepen → redding → rust → nieuwe opstand."
+          ],
+          [
+            "Lange waarschuwing",
+            "Profeten spreken; niet luisteren brengt overheersing door andere volken."
+          ],
+          [
+            "Toch niet verlaten",
+            "Het gebed belijdt Gods genade en barmhartigheid."
+          ],
+          [
+            "Vandaag",
+            "Landopbrengst naar koningen; heerschappij over lichaam en vee, grote nood."
+          ],
+          [
+            "Vast verbond",
+            "Leiders, Levieten en priesters schrijven de verbintenis op en verzegelen die."
+          ]
+        ],
+        "note": "De terugblik maakt Gods trouw en de eigen schuld zichtbaar. De opeenvolging is een patroon in het gebed, geen nieuwe veldslag."
+      }
+    },
+    {
+      "book": "nehemia",
+      "chapter": 10,
+      "verse": 1,
+      "file": "10-verzegelaars-priesters.svg",
+      "scene": "Verzegelaars en priesters",
+      "alt": "De eigen namenlijst met versankers en zonder toegevoegde verwantschappen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1644,
+      "source": "Nehemia 10:1–8",
+      "design": {
+        "rows": [
+          [
+            "Vers 1",
+            "De verzegelaars waren: Nehemia, de landvoogd, de zoon van Hachalja, en Zidkia,"
+          ],
+          [
+            "Vers 2",
+            "Seraja, Azarja, Jeremia,"
+          ],
+          [
+            "Vers 3",
+            "Pashur, Amarja, Malchia,"
+          ],
+          [
+            "Vers 4",
+            "Hattus, Sebanja, Malluch,"
+          ],
+          [
+            "Vers 5",
+            "Harim, Meremoth, Obadja,"
+          ],
+          [
+            "Vers 6",
+            "Daniël, Ginnethon, Baruch,"
+          ],
+          [
+            "Vers 7",
+            "Mesullam, Abia, Mijamin,"
+          ],
+          [
+            "Vers 8",
+            "Maäzia, Bilgai en Semaja. Dit waren de priesters."
+          ]
+        ],
+        "note": "Namen staan in de volgorde van deze eigen lijst. Herhaalde namen blijven zichtbaar; opeenvolging is geen vader-zoonrelatie."
+      }
+    },
+    {
+      "book": "nehemia",
+      "chapter": 10,
+      "verse": 9,
+      "file": "10-verzegelaars-levieten.svg",
+      "scene": "Verzegelaars: Levieten",
+      "alt": "De eigen namenlijst met versankers en zonder toegevoegde verwantschappen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1197,
+      "source": "Nehemia 10:9–13",
+      "design": {
+        "rows": [
+          [
+            "Vers 9",
+            "De Levieten waren: Jesua, de zoon van Azanja, Binnuï van de zonen van Henadad, en Kadmiël,"
+          ],
+          [
+            "Vers 10",
+            "en hun broers Sebanja, Hodia, Kelita, Pelaja, Hanan,"
+          ],
+          [
+            "Vers 11",
+            "Micha, Rehob, Hasabja,"
+          ],
+          [
+            "Vers 12",
+            "Zakkur, Serebja, Sebanja,"
+          ],
+          [
+            "Vers 13",
+            "Hodia, Bani en Beninu."
+          ]
+        ],
+        "note": "Namen staan in de volgorde van deze eigen lijst. Herhaalde namen blijven zichtbaar; opeenvolging is geen vader-zoonrelatie."
+      }
+    },
+    {
+      "book": "nehemia",
+      "chapter": 10,
+      "verse": 14,
+      "file": "10-verzegelaars-volk-eerste.svg",
+      "scene": "Volkshoofden, eerste deel",
+      "alt": "De eigen namenlijst met versankers en zonder toegevoegde verwantschappen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1409,
+      "source": "Nehemia 10:14–20",
+      "design": {
+        "rows": [
+          [
+            "Vers 14",
+            "De hoofden van het volk waren: Parhos, Pahath-Moab, Elam, Zatthu, Bani,"
+          ],
+          [
+            "Vers 15",
+            "Bunni, Azgad, Bebai,"
+          ],
+          [
+            "Vers 16",
+            "Adonia, Bigvai, Adin,"
+          ],
+          [
+            "Vers 17",
+            "Ater, Hizkia, Azzur,"
+          ],
+          [
+            "Vers 18",
+            "Hodia, Hasum, Bezai,"
+          ],
+          [
+            "Vers 19",
+            "Harif, Anathoth, Nebai,"
+          ],
+          [
+            "Vers 20",
+            "Magpias, Mesullam, Hezir,"
+          ]
+        ],
+        "note": "Namen staan in de volgorde van deze eigen lijst. Herhaalde namen blijven zichtbaar; opeenvolging is geen vader-zoonrelatie."
+      }
+    },
+    {
+      "book": "nehemia",
+      "chapter": 10,
+      "verse": 21,
+      "file": "10-verzegelaars-volk-tweede.svg",
+      "scene": "Volkshoofden, tweede deel",
+      "alt": "De eigen namenlijst met versankers en zonder toegevoegde verwantschappen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1366,
+      "source": "Nehemia 10:21–27",
+      "design": {
+        "rows": [
+          [
+            "Vers 21",
+            "Mesezabeël, Zadok, Jaddua,"
+          ],
+          [
+            "Vers 22",
+            "Pelatja, Hanan, Anaja,"
+          ],
+          [
+            "Vers 23",
+            "Hosea, Hananja, Hassub,"
+          ],
+          [
+            "Vers 24",
+            "Hallohes, Pilha, Sobek,"
+          ],
+          [
+            "Vers 25",
+            "Rehum, Hasabna, Maäseja,"
+          ],
+          [
+            "Vers 26",
+            "Ahia, Hanan, Anan,"
+          ],
+          [
+            "Vers 27",
+            "Malluch, Harim en Baäna."
+          ]
+        ],
+        "note": "Namen staan in de volgorde van deze eigen lijst. Herhaalde namen blijven zichtbaar; opeenvolging is geen vader-zoonrelatie."
+      }
+    },
+    {
+      "book": "nehemia",
+      "chapter": 10,
+      "verse": 28,
+      "file": "10-eed-en-afspraken.svg",
+      "scene": "De eed en de afspraken",
+      "alt": "Deelnemers en de concrete afspraken over samenleving en eredienst.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1475,
+      "source": "Nehemia 10:28–35",
+      "design": {
+        "rows": [
+          [
+            "Wie sluiten zich aan",
+            "Dienstgroepen en het overige volk; ook vrouwen, zonen en dochters die begrijpen kunnen."
+          ],
+          [
+            "De eed",
+            "Gods wet en geboden houden en doen."
+          ],
+          [
+            "Huwelijken",
+            "Geen dochters over en weer aan de volken van het land geven."
+          ],
+          [
+            "Sabbat en zevende jaar",
+            "Niet kopen op heilige dagen; landrust en schuldkwijtschelding in jaar zeven."
+          ],
+          [
+            "Jaarlijkse bijdrage",
+            "Circa vier gram zilver voor de dienst, offers, feestdagen en heilige gaven."
+          ],
+          [
+            "Brandhout en eerstelingen",
+            "Lot per familie op vaste tijden; eerste opbrengst en boomvruchten jaarlijks."
+          ]
+        ],
+        "note": "Deze afspraken behoren bij het in dit hoofdstuk gesloten verbond; het schema voegt geen latere regels toe."
+      }
+    },
+    {
+      "book": "nehemia",
+      "chapter": 10,
+      "verse": 36,
+      "file": "10-tienden-en-bewaring.svg",
+      "scene": "Tienden en bewaring",
+      "alt": "De verschillende ontvangers en de tiende die de Levieten verder afdragen.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1604,
+      "source": "Nehemia 10:36–39",
+      "design": {
+        "rows": [
+          [
+            "Eerstgeborenen",
+            "Zonen en dieren volgens de wet; runderen en schapen naar de dienende priesters."
+          ],
+          [
+            "Eerstelingen",
+            "Deeg, hefoffers, boomvruchten, nieuwe wijn en olie naar de priesters in de kamers."
+          ],
+          [
+            "De tienden",
+            "Landopbrengst naar Levieten, ingezameld in de landbouwsteden."
+          ],
+          [
+            "Priester erbij",
+            "Een zoon van Aäron aanwezig bij het innen."
+          ],
+          [
+            "Tiende van de tienden",
+            "De Levieten brengen een tiende naar de kamers van het schathuis."
+          ],
+          [
+            "Het doel",
+            "Voorwerpen en dienstdoende groepen in het huis; het huis van God niet in de steek laten."
+          ]
+        ],
+        "note": "Priesters en Levieten hebben verschillende stappen in deze stroom; eerstelingen en tienden worden niet vereenzelvigd."
+      }
+    }
+  ]
+}
