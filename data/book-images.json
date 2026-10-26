@@ -42665,7 +42665,11 @@
         "chapter": 22,
         "file": "22-river.webp",
         "alt": "Helder water stroomt tussen vruchtbomen in een stille tuin",
-        "scene": "De rivier van het leven"
+        "scene": "De rivier van het leven",
+        "verse": 1,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 1,
@@ -43252,35 +43256,50 @@
         "verse": 2,
         "file": "21-2.webp",
         "alt": "Beeld bij Openbaring 21: Het nieuwe Jeruzalem",
-        "scene": "Het nieuwe Jeruzalem"
+        "scene": "Het nieuwe Jeruzalem",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 21,
         "verse": 4,
         "file": "21-4.webp",
         "alt": "Beeld bij Openbaring 21: Geen tranen of pijn meer",
-        "scene": "Geen tranen of pijn meer"
+        "scene": "Geen tranen of pijn meer",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 21,
         "verse": 23,
         "file": "21-23.webp",
         "alt": "Beeld bij Openbaring 21: Het Lam is haar lamp",
-        "scene": "Het Lam is haar lamp"
+        "scene": "Het Lam is haar lamp",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 22,
         "verse": 2,
         "file": "22-2.webp",
         "alt": "Beeld bij Openbaring 22: Bladeren tot genezing van de volken",
-        "scene": "Bladeren tot genezing van de volken"
+        "scene": "Bladeren tot genezing van de volken",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 22,
         "verse": 17,
         "file": "22-17.webp",
         "alt": "Beeld bij Openbaring 22: Water voor wie dorst heeft",
-        "scene": "Water voor wie dorst heeft"
+        "scene": "Water voor wie dorst heeft",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 1,
@@ -43991,6 +44010,76 @@
         "kind": "diagram",
         "width": 840,
         "height": 802
+      },
+      {
+        "chapter": 21,
+        "verse": 1,
+        "file": "21-leeswijzer.svg",
+        "scene": "Alles wordt nieuw",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 906
+      },
+      {
+        "chapter": 22,
+        "verse": 1,
+        "file": "22-leeswijzer.svg",
+        "scene": "Water, woorden en verwachting",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1141
+      },
+      {
+        "chapter": 21,
+        "verse": 16,
+        "file": "21-maten-stad.svg",
+        "scene": "De maten van de stad",
+        "alt": "De maten van de stad met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1134
+      },
+      {
+        "chapter": 22,
+        "verse": 1,
+        "file": "22-rivier-boom.svg",
+        "scene": "Rivier en levensboom",
+        "alt": "Rivier en levensboom met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1055
+      },
+      {
+        "chapter": 22,
+        "verse": 12,
+        "file": "22-namen-jezus.svg",
+        "scene": "Hoe Jezus Zich noemt",
+        "alt": "Hoe Jezus Zich noemt met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 969
+      },
+      {
+        "chapter": 21,
+        "verse": 12,
+        "file": "21-poorten-richtingen.svg",
+        "scene": "Twaalf poorten",
+        "alt": "Twaalf poorten — Openbaring 21:12–14",
+        "kind": "diagram",
+        "width": 840,
+        "height": 870
+      },
+      {
+        "chapter": 21,
+        "verse": 19,
+        "file": "21-fundamenten-stenen.svg",
+        "scene": "Twaalf fundamenten",
+        "alt": "Twaalf fundamenten — Openbaring 21:19–20",
+        "kind": "diagram",
+        "width": 840,
+        "height": 830
       }
     ],
     "esther": [

@@ -33638,6 +33638,73 @@
           "source": "Openbaring 20:1–15"
         }
       ]
+    },
+    {
+      "book": "openbaring",
+      "chapter": 21,
+      "status": "reviewed",
+      "target_images": 7,
+      "reason": "Neerdalende stad, vertroosting en Lam als lamp zijn aanwezig. De ontbrekende exacte maten, twaalf poorten in vier richtingen en twaalf namen van edelstenen krijgen native schema’s, naast een hoofdstukleeswijzer. Er worden geen stamnamen of apostelnamen ingevuld die hier niet afzonderlijk genoemd zijn.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "21-leeswijzer.svg",
+          "scene": "Alles wordt nieuw",
+          "kind": "diagram",
+          "source": "Openbaring 21:1–27"
+        },
+        {
+          "verse": 16,
+          "file": "21-maten-stad.svg",
+          "scene": "De maten van de stad",
+          "kind": "diagram",
+          "source": "Openbaring 21:15–21"
+        },
+        {
+          "verse": 12,
+          "file": "21-poorten-richtingen.svg",
+          "scene": "Twaalf poorten",
+          "kind": "diagram",
+          "source": "Openbaring 21:12–14"
+        },
+        {
+          "verse": 19,
+          "file": "21-fundamenten-stenen.svg",
+          "scene": "Twaalf fundamenten",
+          "kind": "diagram",
+          "source": "Openbaring 21:19–20"
+        }
+      ]
+    },
+    {
+      "book": "openbaring",
+      "chapter": 22,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Rivier, bladeren en de vrije uitnodiging zijn aanwezig en passend als poëtische visioenbeelden. Leeswijzer en twee tekstschema’s ontsluiten het slot en corrigeren mogelijke verwarring tussen twaalf keer vrucht en twaalf vruchtsoorten. Nieuwe vergelijkbare waterfoto’s zouden dupliceren.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "22-leeswijzer.svg",
+          "scene": "Water, woorden en verwachting",
+          "kind": "diagram",
+          "source": "Openbaring 22:1–21"
+        },
+        {
+          "verse": 1,
+          "file": "22-rivier-boom.svg",
+          "scene": "Rivier en levensboom",
+          "kind": "diagram",
+          "source": "Openbaring 22:1–5"
+        },
+        {
+          "verse": 12,
+          "file": "22-namen-jezus.svg",
+          "scene": "Hoe Jezus Zich noemt",
+          "kind": "diagram",
+          "source": "Openbaring 22:12–17"
+        }
+      ]
     }
   ]
 }
