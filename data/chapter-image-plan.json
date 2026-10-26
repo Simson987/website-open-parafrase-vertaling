@@ -35701,6 +35701,104 @@
           "source": "Wijsheid 9:1–19"
         }
       ]
+    },
+    {
+      "book": "boekderwijsheid",
+      "chapter": 14,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Schipbouw, veilige vaart en het koningsbeeld zijn aanwezig. De rouwende vader is een apart voorbeeld dat nog ontbreekt. Twee schema’s geven de twee herkomsten en de twee gronden bij de valse eed weer zonder ze als één geschiedenis te vermengen.",
+      "additions": [
+        {
+          "verse": 15,
+          "file": "14-15-vader-en-beeld-verdieping.webp",
+          "scene": "Een vader maakt een beeld van zijn zoon",
+          "kind": "scene"
+        },
+        {
+          "verse": 15,
+          "file": "14-ontstaan-beeldendienst.svg",
+          "scene": "Twee wegen naar beeldendienst",
+          "kind": "diagram",
+          "source": "Wijsheid 14:12–21"
+        },
+        {
+          "verse": 28,
+          "file": "14-eed-en-oordeel.svg",
+          "scene": "Wat de valse eed niet veilig maakt",
+          "kind": "diagram",
+          "source": "Wijsheid 14:22–31"
+        }
+      ]
+    },
+    {
+      "book": "boekderwijsheid",
+      "chapter": 11,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Rotswater, maat-gewicht en dauw zijn aanwezig. Twee schema’s leggen de vergelijking met de tegenstanders uit en onderscheiden mogelijke monsters van werkelijk vertelde plagen.",
+      "additions": [
+        {
+          "verse": 4,
+          "file": "11-water-en-uitwerking.svg",
+          "scene": "Eén middel, twee uitwerkingen",
+          "kind": "diagram",
+          "source": "Wijsheid 11:4–17"
+        },
+        {
+          "verse": 18,
+          "file": "11-macht-en-maat.svg",
+          "scene": "Grote macht, maat en ontferming",
+          "kind": "diagram",
+          "source": "Wijsheid 11:18–27"
+        }
+      ]
+    },
+    {
+      "book": "boekderwijsheid",
+      "chapter": 12,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Wespen, mild oordelen en bekering zijn aanwezig. Twee verbandenschema’s bewaren zowel geduld als de ernstige waarschuwing over het vereerde middel; extra geweldsscènes voegen aan dit betoog weinig toe.",
+      "additions": [
+        {
+          "verse": 10,
+          "file": "12-kracht-en-geduld.svg",
+          "scene": "Waarom macht geduldig oordeelt",
+          "kind": "diagram",
+          "source": "Wijsheid 12:1–22"
+        },
+        {
+          "verse": 23,
+          "file": "12-vereerd-en-gestraft.svg",
+          "scene": "Van dierenverering naar erkenning",
+          "kind": "diagram",
+          "source": "Wijsheid 12:23–27"
+        }
+      ]
+    },
+    {
+      "book": "boekderwijsheid",
+      "chapter": 13,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Natuur, snijden van een beeld en overweging zijn aanwezig. De twee redeneringsschema’s maken maker versus werk en de ironie van hulpbehoevend hout duidelijk; geen vierde soortgelijke werkplaatsfoto.",
+      "additions": [
+        {
+          "verse": 11,
+          "file": "13-hout-en-hulp.svg",
+          "scene": "Wat gebeurt er met hetzelfde hout?",
+          "kind": "diagram",
+          "source": "Wijsheid 13:11–19"
+        },
+        {
+          "verse": 1,
+          "file": "13-schepsel-en-maker.svg",
+          "scene": "Van zichtbaar werk naar de maker",
+          "kind": "diagram",
+          "source": "Wijsheid 13:1–10"
+        }
+      ]
     }
   ]
 }

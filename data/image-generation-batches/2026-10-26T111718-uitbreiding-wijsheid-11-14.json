@@ -1,0 +1,285 @@
+{
+  "date": "2026-10-26",
+  "started": "2026-10-26T11:17:18Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "boekderwijsheid",
+      "chapter": 14,
+      "verse": 15,
+      "file": "14-15-vader-en-beeld-verdieping.webp",
+      "scene": "Een vader maakt een beeld van zijn zoon",
+      "alt": "Een vader maakt een beeld van zijn zoon — Wijsheid 14:15; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an example told in Book of Wisdom, ancient Mediterranean materials, landscape 3:2, natural daylight, coherent anatomy with exactly two arms per person, modest opaque clothing. No modern objects, readable writing, divine figure, injuries or watermark. A sober illustration of the example in Wisdom 14:15: a grieving adult father in modest ancient linen robes sits in a quiet workshop, carefully shaping a small wooden memorial figure of his deceased young son, clothed and upright, on the table. The father’s expression shows sadness and remembrance. Only the father is physically present; no child body, ghost, dying person, ritual sacrifice or wound. Tools and wood shavings, natural late-afternoon light. This begins as a memorial in the text’s explanation of idol worship; do not show a new named historical person or modern photograph.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "boekderwijsheid",
+      "chapter": 11,
+      "verse": 4,
+      "file": "11-water-en-uitwerking.svg",
+      "scene": "Eén middel, twee uitwerkingen",
+      "alt": "Eén middel, twee uitwerkingen met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1091,
+      "source": "Wijsheid 11:4–17",
+      "design": {
+        "rows": [
+          [
+            "Het eigen volk · 4,8–11",
+            "Dorst, roepen en overvloedig rotswater; beproefd als door een vader."
+          ],
+          [
+            "De tegenstanders · 7,11–15",
+            "Het water wordt een plaag; onderzocht als door een strenge koning."
+          ],
+          [
+            "Dieren · 16–17",
+            "De vereerde dieren keren terug in de straf."
+          ],
+          [
+            "De les · 17",
+            "Waarmee men zondigt, daarmee wordt men gestraft."
+          ]
+        ],
+        "note": "Het hoofdstuk vergelijkt twee uitwerkingen; de beelden worden niet tot één enkel woestijnvoorval samengevoegd."
+      }
+    },
+    {
+      "book": "boekderwijsheid",
+      "chapter": 11,
+      "verse": 18,
+      "file": "11-macht-en-maat.svg",
+      "scene": "Grote macht, maat en ontferming",
+      "alt": "Grote macht, maat en ontferming met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1098,
+      "source": "Wijsheid 11:18–27",
+      "design": {
+        "rows": [
+          [
+            "Wat had gekund · 18–21",
+            "Beren, leeuwen, onbekende dieren en één ademstoot worden als mogelijkheden genoemd."
+          ],
+          [
+            "Wat de tekst zegt · 21–23",
+            "Alles is geordend naar maat, getal en gewicht; de wereld is als stof of dauw."
+          ],
+          [
+            "Waarom sparen · 24",
+            "Macht gaat samen met ontferming en ruimte voor bekering."
+          ],
+          [
+            "Waarom behouden · 25–27",
+            "God houdt van wat Hij gemaakt heeft en spaart wat van Hem is."
+          ]
+        ],
+        "note": "De vuurblazende dieren zijn een hypothetische mogelijkheid, geen vertelde historische plaag."
+      }
+    },
+    {
+      "book": "boekderwijsheid",
+      "chapter": 12,
+      "verse": 10,
+      "file": "12-kracht-en-geduld.svg",
+      "scene": "Waarom macht geduldig oordeelt",
+      "alt": "Waarom macht geduldig oordeelt met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1177,
+      "source": "Wijsheid 12:1–22",
+      "design": {
+        "rows": [
+          [
+            "De werkwijze · 1–10",
+            "Langzame terechtwijzing en tijd om van kwaad af te zien."
+          ],
+          [
+            "De grond · 12–18",
+            "Geen onmacht of angst: rechtvaardigheid, heerschappij en geduld."
+          ],
+          [
+            "De les voor het volk · 19–21",
+            "Vriendelijk voor mensen zijn, hoop op bekering en zorg voor de eigen kinderen."
+          ],
+          [
+            "De toepassing · 22",
+            "Bij eigen rechtspraak op goedheid letten en zelf ontferming verwachten."
+          ]
+        ],
+        "note": "Dit is de redenering van het hoofdstuk. De eerste illustraties tonen wespen, mild oordelen en omkeer."
+      }
+    },
+    {
+      "book": "boekderwijsheid",
+      "chapter": 12,
+      "verse": 23,
+      "file": "12-vereerd-en-gestraft.svg",
+      "scene": "Van dierenverering naar erkenning",
+      "alt": "Van dierenverering naar erkenning met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1098,
+      "source": "Wijsheid 12:23–27",
+      "design": {
+        "rows": [
+          [
+            "De dwaling · 23–24",
+            "Mensen houden zelfs verachte dieren voor goden."
+          ],
+          [
+            "De waarschuwing · 25",
+            "Een bespottelijk oordeel behandelt hun dwaasheid als die van onwetende kinderen."
+          ],
+          [
+            "De ernst · 26",
+            "Niet luisteren naar die waarschuwing leidt tot zwaarder oordeel."
+          ],
+          [
+            "De erkenning · 27",
+            "Door de straf via hun vermeende goden erkennen zij wie de ware God is."
+          ]
+        ],
+        "note": "Het slot verbindt de dwaling, waarschuwing en erkenning aan de gevolgen van het oordeel."
+      }
+    },
+    {
+      "book": "boekderwijsheid",
+      "chapter": 13,
+      "verse": 11,
+      "file": "13-hout-en-hulp.svg",
+      "scene": "Wat gebeurt er met hetzelfde hout?",
+      "alt": "Wat gebeurt er met hetzelfde hout? met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "Wijsheid 13:11–19",
+      "design": {
+        "rows": [
+          [
+            "Het nuttige werk · 11",
+            "De timmerman maakt iets bruikbaars voor het dagelijks leven."
+          ],
+          [
+            "De resten · 12",
+            "Schaafsel dient om eten te koken."
+          ],
+          [
+            "Het overblijvende stuk · 13–16",
+            "Een krom stuk wordt gesneden, geverfd en vastgezet omdat het zichzelf niet kan helpen."
+          ],
+          [
+            "De omkering · 17–19",
+            "Toch wordt het om gezondheid, leven, reis en winst gevraagd."
+          ]
+        ],
+        "note": "De ironie berust op de tegenstelling tussen hulp nodig hebben en om hulp worden gevraagd."
+      }
+    },
+    {
+      "book": "boekderwijsheid",
+      "chapter": 13,
+      "verse": 1,
+      "file": "13-schepsel-en-maker.svg",
+      "scene": "Van zichtbaar werk naar de maker",
+      "alt": "Van zichtbaar werk naar de maker met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1098,
+      "source": "Wijsheid 13:1–10",
+      "design": {
+        "rows": [
+          [
+            "Wat mensen zien · 1–2",
+            "Goede dingen, vuur, wind, sterren, water en hemellichten."
+          ],
+          [
+            "De gevolgtrekking · 3–5",
+            "Schoonheid en kracht wijzen volgens het betoog op een grotere maker."
+          ],
+          [
+            "De zoekende mensen · 6–7",
+            "Zij onderzoeken de mooie werken en willen vinden."
+          ],
+          [
+            "Het verwijt · 8–10",
+            "Kennis van de wereld wordt niet tot erkenning van de Heere gebracht; maakwerk wordt god genoemd."
+          ]
+        ],
+        "note": "Natuurelementen en menselijke beelden zijn de twee besproken vormen van verwarring."
+      }
+    },
+    {
+      "book": "boekderwijsheid",
+      "chapter": 14,
+      "verse": 15,
+      "file": "14-ontstaan-beeldendienst.svg",
+      "scene": "Twee wegen naar beeldendienst",
+      "alt": "Twee wegen naar beeldendienst met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1177,
+      "source": "Wijsheid 14:12–21",
+      "design": {
+        "rows": [
+          [
+            "Verdriet · 15–16",
+            "Een vader maakt een beeld van zijn verloren zoon; de gewoonte wordt later als wet gehouden."
+          ],
+          [
+            "Afstand · 17",
+            "Een afbeelding vervangt de afwezige koning om hem te eren."
+          ],
+          [
+            "Eerzucht · 18–20",
+            "De kunstenaar verfraait het beeld; het volk gaat de vereerde mens voor god houden."
+          ],
+          [
+            "Het gezamenlijke gevolg · 21",
+            "Aan steen en hout wordt de naam gegeven die hun niet toekomt."
+          ]
+        ],
+        "note": "Dit zijn de oorsprongsverklaringen in het betoog; de tekst geeft hier geen namen of jaartallen."
+      }
+    },
+    {
+      "book": "boekderwijsheid",
+      "chapter": 14,
+      "verse": 28,
+      "file": "14-eed-en-oordeel.svg",
+      "scene": "Wat de valse eed niet veilig maakt",
+      "alt": "Wat de valse eed niet veilig maakt met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "Wijsheid 14:22–31",
+      "design": {
+        "rows": [
+          [
+            "Het verkeerde vertrouwen · 28–29",
+            "Men verwacht geen kwaad van een valse eed bij levenloze beelden."
+          ],
+          [
+            "Eerste grond · 30",
+            "Verkeerd over God denken en zich aan de afgoden vastklampen."
+          ],
+          [
+            "Tweede grond · 30",
+            "Onrechtvaardig en bedrieglijk zweren en de heiligheid verachten."
+          ],
+          [
+            "De uitkomst · 31",
+            "Het oordeel volgt de overtreding, niet de macht van het aangeroepen beeld."
+          ]
+        ],
+        "note": "Het schema koppelt de twee genoemde gronden van het oordeel aan het slot van het betoog."
+      }
+    }
+  ]
+}

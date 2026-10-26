@@ -19403,19 +19403,31 @@
         "chapter": 13,
         "file": "13-natuur.webp",
         "alt": "Een man kijkt naar de sterren boven de zee en verwondert zich over de schepping",
-        "scene": "Verwondering over de natuur"
+        "scene": "Verwondering over de natuur",
+        "verse": 2,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 13,
         "file": "13-beeldhouwer.webp",
         "alt": "Een timmerman bewerkt een houten beeld in zijn werkplaats",
-        "scene": "Het gemaakte beeld"
+        "scene": "Het gemaakte beeld",
+        "verse": 13,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 13,
         "file": "13-overweging.webp",
         "alt": "Een vrouw kijkt langs een klein beeldje naar zonlicht en bomen buiten",
-        "scene": "De Schepper en het gemaakte"
+        "scene": "De Schepper en het gemaakte",
+        "verse": 1,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 1,
@@ -19722,63 +19734,90 @@
         "verse": 4,
         "file": "11-4.webp",
         "alt": "Beeld bij Boekderwijsheid 11: Water uit de rots",
-        "scene": "Water uit de rots"
+        "scene": "Water uit de rots",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 11,
         "verse": 21,
         "file": "11-21.webp",
         "alt": "Beeld bij Boekderwijsheid 11: Maat, getal en gewicht",
-        "scene": "Maat, getal en gewicht"
+        "scene": "Maat, getal en gewicht",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 11,
         "verse": 23,
         "file": "11-23.webp",
         "alt": "Beeld bij Boekderwijsheid 11: Een druppel morgendauw",
-        "scene": "Een druppel morgendauw"
+        "scene": "Een druppel morgendauw",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 12,
         "verse": 8,
         "file": "12-8.webp",
         "alt": "Beeld bij Boekderwijsheid 12: Wespen gaan vooruit",
-        "scene": "Wespen gaan vooruit"
+        "scene": "Wespen gaan vooruit",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 12,
         "verse": 18,
         "file": "12-18.webp",
         "alt": "Beeld bij Boekderwijsheid 12: Oordelen met mildheid",
-        "scene": "Oordelen met mildheid"
+        "scene": "Oordelen met mildheid",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 12,
         "verse": 19,
         "file": "12-19.webp",
         "alt": "Beeld bij Boekderwijsheid 12: Ruimte voor bekering",
-        "scene": "Ruimte voor bekering"
+        "scene": "Ruimte voor bekering",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 14,
         "verse": 2,
         "file": "14-2.webp",
         "alt": "Beeld bij Boekderwijsheid 14: Het vakmanschap van een schip",
-        "scene": "Het vakmanschap van een schip"
+        "scene": "Het vakmanschap van een schip",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 14,
         "verse": 5,
         "file": "14-5.webp",
         "alt": "Beeld bij Boekderwijsheid 14: Veilig door de golven",
-        "scene": "Veilig door de golven"
+        "scene": "Veilig door de golven",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 14,
         "verse": 19,
         "file": "14-19.webp",
         "alt": "Beeld bij Boekderwijsheid 14: De beeldhouwer maakt een koningsbeeld",
-        "scene": "De beeldhouwer maakt een koningsbeeld"
+        "scene": "De beeldhouwer maakt een koningsbeeld",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 15,
@@ -20084,6 +20123,96 @@
         "kind": "diagram",
         "width": 840,
         "height": 882
+      },
+      {
+        "chapter": 14,
+        "verse": 15,
+        "file": "14-15-vader-en-beeld-verdieping.webp",
+        "scene": "Een vader maakt een beeld van zijn zoon",
+        "alt": "Een vader maakt een beeld van zijn zoon — Wijsheid 14:15; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 11,
+        "verse": 4,
+        "file": "11-water-en-uitwerking.svg",
+        "scene": "Eén middel, twee uitwerkingen",
+        "alt": "Eén middel, twee uitwerkingen met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1091
+      },
+      {
+        "chapter": 11,
+        "verse": 18,
+        "file": "11-macht-en-maat.svg",
+        "scene": "Grote macht, maat en ontferming",
+        "alt": "Grote macht, maat en ontferming met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1098
+      },
+      {
+        "chapter": 12,
+        "verse": 10,
+        "file": "12-kracht-en-geduld.svg",
+        "scene": "Waarom macht geduldig oordeelt",
+        "alt": "Waarom macht geduldig oordeelt met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1177
+      },
+      {
+        "chapter": 12,
+        "verse": 23,
+        "file": "12-vereerd-en-gestraft.svg",
+        "scene": "Van dierenverering naar erkenning",
+        "alt": "Van dierenverering naar erkenning met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1098
+      },
+      {
+        "chapter": 13,
+        "verse": 11,
+        "file": "13-hout-en-hulp.svg",
+        "scene": "Wat gebeurt er met hetzelfde hout?",
+        "alt": "Wat gebeurt er met hetzelfde hout? met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1055
+      },
+      {
+        "chapter": 13,
+        "verse": 1,
+        "file": "13-schepsel-en-maker.svg",
+        "scene": "Van zichtbaar werk naar de maker",
+        "alt": "Van zichtbaar werk naar de maker met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1098
+      },
+      {
+        "chapter": 14,
+        "verse": 15,
+        "file": "14-ontstaan-beeldendienst.svg",
+        "scene": "Twee wegen naar beeldendienst",
+        "alt": "Twee wegen naar beeldendienst met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1177
+      },
+      {
+        "chapter": 14,
+        "verse": 28,
+        "file": "14-eed-en-oordeel.svg",
+        "scene": "Wat de valse eed niet veilig maakt",
+        "alt": "Wat de valse eed niet veilig maakt met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1055
       }
     ],
     "prediker": [
