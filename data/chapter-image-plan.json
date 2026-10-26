@@ -30728,6 +30728,181 @@
           "source": "2 Korinthiërs 13:13"
         }
       ]
+    },
+    {
+      "book": "galaten",
+      "chapter": 1,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Evangelie en roeping zijn aanwezig. Het bezoek aan Petrus is een afzonderlijk gegeven. Het oude beeld bij vers 24 leek op een ontmoeting met Paulus; dat wordt vervangen door een gemeente die alleen het bericht hoort, overeenkomstig vers 22–24. Leeswijzer en volgordeschema verduidelijken plaatsen en tijdsaanduidingen.",
+      "additions": [
+        {
+          "verse": 18,
+          "file": "1-18-petrus-bezoek-verdieping.webp",
+          "scene": "Paulus bezoekt Petrus",
+          "kind": "scene"
+        },
+        {
+          "verse": 24,
+          "file": "1-24-judea-hoort-verdieping.webp",
+          "scene": "De gemeenten in Judea horen het bericht",
+          "kind": "scene"
+        },
+        {
+          "verse": 1,
+          "file": "1-leeswijzer.svg",
+          "scene": "Het evangelie en de roeping",
+          "kind": "diagram",
+          "source": "Galaten 1:1–24"
+        },
+        {
+          "verse": 17,
+          "file": "1-genoemde-volgorde.svg",
+          "scene": "De genoemde volgorde",
+          "kind": "diagram",
+          "source": "Galaten 1:17–21"
+        }
+      ]
+    },
+    {
+      "book": "galaten",
+      "chapter": 2,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Gemeenschap, armenzorg en geloof zijn aanwezig. De afzonderlijke confrontatie met Petrus in Antiochië krijgt een eigen beeld. Leeswijzer en rollenoverzicht onderscheiden dit van de eerdere erkenning in Jeruzalem.",
+      "additions": [
+        {
+          "verse": 14,
+          "file": "2-14-petrus-aanspreken-verdieping.webp",
+          "scene": "Paulus spreekt Petrus tegen",
+          "kind": "scene"
+        },
+        {
+          "verse": 1,
+          "file": "2-leeswijzer.svg",
+          "scene": "Vrijheid, tafel en rechtvaardiging",
+          "kind": "diagram",
+          "source": "Galaten 2:1–21"
+        },
+        {
+          "verse": 1,
+          "file": "2-personen-opdracht.svg",
+          "scene": "De mensen en de besproken dienst",
+          "kind": "diagram",
+          "source": "Galaten 2:1–10"
+        }
+      ]
+    },
+    {
+      "book": "galaten",
+      "chapter": 4,
+      "status": "reviewed",
+      "target_images": 7,
+      "reason": "Abba, onderricht en de belofte zijn aanwezig. De ontvangst tijdens ziekte is een apart herinnerd gegeven. Leeswijzer, de door de brief genoemde familierelaties en het schema van twee verbonden onderscheiden historische verwantschap en diepere betekenis.",
+      "additions": [
+        {
+          "verse": 14,
+          "file": "4-14-zieke-paulus-ontvangst-verdieping.webp",
+          "scene": "De Galaten ontvangen de zieke Paulus",
+          "kind": "scene"
+        },
+        {
+          "verse": 1,
+          "file": "4-leeswijzer.svg",
+          "scene": "Kinderen van de belofte",
+          "kind": "diagram",
+          "source": "Galaten 4:1–31"
+        },
+        {
+          "verse": 24,
+          "file": "4-twee-verbonden.svg",
+          "scene": "De diepere betekenis in het betoog",
+          "kind": "diagram",
+          "source": "Galaten 4:21–31"
+        },
+        {
+          "verse": 22,
+          "file": "4-twee-zonen.svg",
+          "scene": "De twee zonen in het betoog",
+          "kind": "diagram",
+          "source": "Galaten 4:22–28"
+        }
+      ]
+    },
+    {
+      "book": "galaten",
+      "chapter": 6,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Lasten, zaaien en goeddoen zijn aanwezig. Paulus’ eigen hand krijgt een apart beeld. Leeswijzer en het onderscheid tussen onderlinge hulp en eigen verantwoordelijkheid verbinden de aansporingen.",
+      "additions": [
+        {
+          "verse": 11,
+          "file": "6-11-eigen-hand-brief-verdieping.webp",
+          "scene": "Paulus schrijft met eigen hand",
+          "kind": "scene"
+        },
+        {
+          "verse": 1,
+          "file": "6-leeswijzer.svg",
+          "scene": "Lasten, eigen werk en het kruis",
+          "kind": "diagram",
+          "source": "Galaten 6:1–18"
+        },
+        {
+          "verse": 1,
+          "file": "6-last-en-eigen-werk.svg",
+          "scene": "Elkaar helpen en jezelf toetsen",
+          "kind": "diagram",
+          "source": "Galaten 6:1–5"
+        }
+      ]
+    },
+    {
+      "book": "galaten",
+      "chapter": 3,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Abraham, kindschap en eenheid zijn aanwezig. Leeswijzer en het tijdschema van de 430 jaar maken de verhouding tussen eerdere belofte en latere wet begrijpelijk; geen extra generieke Abrahamfoto.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "3-leeswijzer.svg",
+          "scene": "Belofte, wet en het geloof",
+          "kind": "diagram",
+          "source": "Galaten 3:1–29"
+        },
+        {
+          "verse": 15,
+          "file": "3-belofte-latere-wet.svg",
+          "scene": "De belofte en de latere wet",
+          "kind": "diagram",
+          "source": "Galaten 3:15–19"
+        }
+      ]
+    },
+    {
+      "book": "galaten",
+      "chapter": 5,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Vrijheid, vruchten en dienen zijn aanwezig. Leeswijzer en een overzicht met precies de negen genoemde vruchtkenmerken maken de metafoor expliciet zonder meer generieke boomgaardbeelden.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "5-leeswijzer.svg",
+          "scene": "Vrijheid die werkt door liefde",
+          "kind": "diagram",
+          "source": "Galaten 5:1–26"
+        },
+        {
+          "verse": 22,
+          "file": "5-negen-vruchtkenmerken.svg",
+          "scene": "De vrucht van de Geest",
+          "kind": "diagram",
+          "source": "Galaten 5:22–23"
+        }
+      ]
     }
   ]
 }
