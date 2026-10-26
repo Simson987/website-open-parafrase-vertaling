@@ -1,0 +1,285 @@
+{
+  "date": "2026-10-26",
+  "started": "2026-10-26T11:17:18Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "jezussirach",
+      "chapter": 24,
+      "verse": 23,
+      "file": "24-23-zoeter-dan-honing-verdieping.webp",
+      "scene": "Beeldspraak: zoeter dan honing",
+      "alt": "Beeldspraak: zoeter dan honing — Jezus Sirach 24:23; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: historical-scene. Photorealistic poetic illustration for Jesus Sirach, ancient Mediterranean materials and natural light. Landscape 3:2, no modern objects, readable writing, divine human figure or watermark. A luminous still life illustrating Sirach 24:22–24: a golden natural honeycomb with clear drops of honey in a simple unglazed clay bowl, alongside ripe grapes and figs on a rough ancient wooden table beneath a leafy vine. Warm inviting daylight, fine realistic textures. No human figure called Wisdom, no written page, no text, no modern utensils. The honey and fruitful vine evoke the sweetness and nourishment of wisdom in a poem, not an identified historical meal.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "jezussirach",
+      "chapter": 21,
+      "verse": 2,
+      "file": "21-beelden-en-gedrag.svg",
+      "scene": "Beelden van wijs en dwaas",
+      "alt": "Beelden van wijs en dwaas met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1098,
+      "source": "Jezus Sirach 21:1–31",
+      "design": {
+        "rows": [
+          [
+            "Zonde en onrecht · 1–11",
+            "Slang, leeuwentanden, zwaard, brandhout en een weg naar de kuil beelden gevaar uit."
+          ],
+          [
+            "Leren · 12–20",
+            "Wijsheid als levende bron; de dwaas als een lek vat dat niets bewaart."
+          ],
+          [
+            "Tucht · 21–24",
+            "De een ervaart boeien; de ander een gouden sieraad en armband."
+          ],
+          [
+            "Omgang · 25–31",
+            "Huizen en deuren eerbiedigen, woorden afwegen en roddel laten."
+          ]
+        ],
+        "note": "De beelden monden uit in heel concrete lessen over luisteren, grenzen en de tong."
+      }
+    },
+    {
+      "book": "jezussirach",
+      "chapter": 22,
+      "verse": 19,
+      "file": "22-steun-en-vriendschap.svg",
+      "scene": "Steun en herstel van vriendschap",
+      "alt": "Steun en herstel van vriendschap met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1220,
+      "source": "Jezus Sirach 22:1–31",
+      "design": {
+        "rows": [
+          [
+            "Onwil om te leren · 1–18",
+            "Moddersteen, mest, scherven en slaap verbeelden luiheid en onverstand."
+          ],
+          [
+            "Goede raad · 19–22",
+            "Een stevig ingemetselde balk en verzorgd pleisterwerk staan tegenover wankele palen."
+          ],
+          [
+            "Herstel en breuk · 23–26",
+            "Er is terugkeer na ruzie; minachting, hoogmoed, verraad en een verklapt geheim doen vrienden weggaan."
+          ],
+          [
+            "Trouw en beheersing · 27–31",
+            "Blijf bij een naaste in armoede en verdrukking en vraag om bewaking van je mond."
+          ]
+        ],
+        "note": "De houten balk is een vergelijking voor doordachte raad; de vriendschapslessen sluiten erop aan."
+      }
+    },
+    {
+      "book": "jezussirach",
+      "chapter": 23,
+      "verse": 1,
+      "file": "23-gebed-tong-en-trouw.svg",
+      "scene": "Gebed, tong en trouw",
+      "alt": "Gebed, tong en trouw met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1134,
+      "source": "Jezus Sirach 23:1–35",
+      "design": {
+        "rows": [
+          [
+            "Het gebed · 1–5",
+            "Vraag om onderwijs van het hart en bescherming tegen hoogmoed en begeerte."
+          ],
+          [
+            "Het spreken · 6–18",
+            "Waarachtige woorden tegenover gewoontezweren, overtrokken eden en schelden."
+          ],
+          [
+            "De verborgen daad · 19–28",
+            "De gedachte dat duisternis en muren zonde verbergen wordt doorbroken."
+          ],
+          [
+            "De huwelijkstrouw · 29–35",
+            "Het slot bespreekt ontrouw, gevolgen en ontzag voor Gods geboden."
+          ]
+        ],
+        "note": "De ogen die helderder zijn dan de zon drukken Gods kennis uit; de passage is geen verslag van een zichtbaar oog boven de stad."
+      }
+    },
+    {
+      "book": "jezussirach",
+      "chapter": 24,
+      "verse": 13,
+      "file": "24-bomen-en-plaatsen.svg",
+      "scene": "Bomen en hun genoemde plaatsen",
+      "alt": "Bomen en hun genoemde plaatsen met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 926,
+      "source": "Jezus Sirach 24:13–15",
+      "design": {
+        "rows": [
+          [
+            "Ceder · 13",
+            "Libanon."
+          ],
+          [
+            "Cipres · 13",
+            "De bergen van Hermon."
+          ],
+          [
+            "Dadelpalm en rozenstruik · 14",
+            "Engedi en Jericho."
+          ],
+          [
+            "Olijfboom en plataan · 15",
+            "Een fraai veld en opkomen uit het water."
+          ]
+        ],
+        "note": "Het zijn groeivergelijkingen waarmee de sprekende wijsheid zichzelf beschrijft."
+      }
+    },
+    {
+      "book": "jezussirach",
+      "chapter": 24,
+      "verse": 16,
+      "file": "24-geuren-takken-vrucht.svg",
+      "scene": "Geuren, takken en vrucht",
+      "alt": "Geuren, takken en vrucht met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1141,
+      "source": "Jezus Sirach 24:16–24",
+      "design": {
+        "rows": [
+          [
+            "Geur · 16–17",
+            "Kaneel, geurbal, uitgelezen mirre, galbanum, onyx, stacte en reukwerk in de tent."
+          ],
+          [
+            "Takken · 18",
+            "Als een terpentijnboom, prachtig en aangenaam uitgespreid."
+          ],
+          [
+            "Bloei en vrucht · 19",
+            "Als een uitlopende wijnstok, met geur en vrucht van eer en rijkdom."
+          ],
+          [
+            "De uitnodiging · 20–24",
+            "Liefde, ontzag, kennis en hoop; komen, eten en drinken van wat zij voortbrengt."
+          ]
+        ],
+        "note": "De namen volgen deze plaatselijke verzen, inclusief het woord onyx in de opsomming."
+      }
+    },
+    {
+      "book": "jezussirach",
+      "chapter": 24,
+      "verse": 26,
+      "file": "24-wet-en-waterlopen.svg",
+      "scene": "Wet en waterlopen in de lofrede",
+      "alt": "Wet en waterlopen in de lofrede met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1177,
+      "source": "Jezus Sirach 24:26–38",
+      "design": {
+        "rows": [
+          [
+            "Het boek · 26",
+            "De lof wordt verbonden aan het verbondsboek en de wet van Mozes voor Jakob."
+          ],
+          [
+            "Wijsheid · 27",
+            "Pison en Tigris in de dagen van de eerste vruchten."
+          ],
+          [
+            "Verstand en kennis · 28–29",
+            "Eufraat en Jordaan bij de oogst; Gichon bij de druivenoogst."
+          ],
+          [
+            "Het onderwijs · 30–38",
+            "Niet te doorgronden; een kanaal wordt rivier en zee, licht voor verre landen en komende geslachten."
+          ]
+        ],
+        "note": "De riviernamen zijn vergelijkingen voor overvloedig onderwijs; het schema is een tekstverband, geen gereconstrueerde landkaart."
+      }
+    },
+    {
+      "book": "jezussirach",
+      "chapter": 24,
+      "verse": 3,
+      "file": "24-wijsheid-spreekt.svg",
+      "scene": "Wie spreekt en waar zij rust vindt",
+      "alt": "Wie spreekt en waar zij rust vindt met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1098,
+      "source": "Jezus Sirach 24:1–12,20–26",
+      "design": {
+        "rows": [
+          [
+            "De stem · 1–7",
+            "De gepersonifieerde wijsheid vertelt over haar oorsprong, rondgang en zoeken naar rust."
+          ],
+          [
+            "De opdracht · 8–9",
+            "De Schepper laat haar tent rusten in Jakob, met erfdeel in Jeruzalem."
+          ],
+          [
+            "De worteling · 10–12",
+            "Heilige tent, Sion, geheiligde stad en geëerd volk."
+          ],
+          [
+            "De uitleg · 20–26",
+            "Moederlijke uitnodiging, blijvende vruchten en het boek van het verbond."
+          ]
+        ],
+        "note": "De vrouwelijke ik-stem is de sprekende wijsheid in deze lofrede."
+      }
+    },
+    {
+      "book": "jezussirach",
+      "chapter": 25,
+      "verse": 1,
+      "file": "25-reeksen-en-waardering.svg",
+      "scene": "De reeksen in dit hoofdstuk",
+      "alt": "De reeksen in dit hoofdstuk met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1177,
+      "source": "Jezus Sirach 25:1–31",
+      "design": {
+        "rows": [
+          [
+            "Drie mooie dingen · 1–2",
+            "Eendracht tussen broeders, vriendschap met de naaste en harmonie tussen man en vrouw."
+          ],
+          [
+            "Drie afgewezen levens · 3–4",
+            "Hoogmoed bij de arme, leugen bij de rijke en overspel bij de oude man."
+          ],
+          [
+            "Wijsheid en geluk · 5–16",
+            "Ervaring en ontzag; vers 9 kondigt negen en een tiende gelukspreking aan."
+          ],
+          [
+            "Het scherpe slot · 17–31",
+            "Vergelijkingen over vijandschap en huwelijksconflict leiden naar de genoemde scheidingsbrief."
+          ]
+        ],
+        "note": "De waarderingen en vergelijkingen worden weergegeven als de opeenvolgende uitspraken van deze tekst."
+      }
+    }
+  ]
+}
