@@ -1,0 +1,318 @@
+{
+  "date": "2026-10-26",
+  "started": "2026-10-26T10:14:43Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "tobit",
+      "chapter": 11,
+      "verse": 10,
+      "file": "11-10-ogen-genezing-verdieping.webp",
+      "scene": "Tobias verzorgt de ogen van Tobit",
+      "alt": "Tobias verzorgt de ogen van Tobit — Tobit 11:10; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic biblical narrative in ancient Assyrian-period Nineveh and Media, natural materials and garments, landscape 3:2, modest opaque robes, coherent anatomy with exactly two arms per human. No modern objects, readable text, blood, injury or watermark. Respectful biblical narrative of Tobit 11:10: elderly blind Tobit sits by his home doorway, and his adult son Tobias gently applies a tiny dab from a small ancient container to the closed eyelids near the eye corners with one fingertip, holding the container in the other hand. Anna stands aside with hopeful expression. Gentle non-graphic depiction, no eye damage or surgical tools, two arms each, no modern medicine, no readable labels.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "tobit",
+      "chapter": 12,
+      "verse": 20,
+      "file": "12-20-rafael-omhoog-verdieping.webp",
+      "scene": "Rafaël keert terug",
+      "alt": "Rafaël keert terug — Tobit 12:20; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic biblical narrative in ancient Assyrian-period Nineveh and Media, natural materials and garments, landscape 3:2, modest opaque robes, coherent anatomy with exactly two arms per human. No modern objects, readable text, blood, injury or watermark. Biblical visionary narrative, Raphael in modest opaque white robes with two wings rises calmly in luminous air above a small ancient Nineveh courtyard as Tobit and his adult son Tobias look upward in wonder and gratitude from below. Exactly two arms and two legs per figure, no extra people, no portrait of God or modern objects. Shows departure after his revelation, not worship of the angel.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "tobit",
+      "chapter": 9,
+      "verse": 1,
+      "file": "9-leeswijzer.svg",
+      "scene": "Het geld en de bruiloft",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 906,
+      "source": "Tobit 9:1–8",
+      "design": {
+        "rows": [
+          [
+            "1–5 · Tobias’ verzoek",
+            "Rafaël moet met een knecht en twee kamelen naar Rages; Tobit telt thuis de dagen."
+          ],
+          [
+            "6–7 · Bij Gabaël",
+            "Schuldbewijs getoond; de nog verzegelde zakjes worden overgedragen."
+          ],
+          [
+            "8 · Terug",
+            "Rafaël en Gabaël komen naar de bruiloft; Tobias zegent zijn vrouw."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "tobit",
+      "chapter": 10,
+      "verse": 1,
+      "file": "10-leeswijzer.svg",
+      "scene": "Wachten en laten gaan",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 906,
+      "source": "Tobit 10:1–13",
+      "design": {
+        "rows": [
+          [
+            "1–9 · In Nineve",
+            "Tobit telt; Anna vreest het ergste en kijkt dagelijks uit naar de weg."
+          ],
+          [
+            "10–11 · Bij Raguël",
+            "Na veertien bruiloftsdagen vraagt Tobias te vertrekken; hij krijgt Sara en de helft mee."
+          ],
+          [
+            "12–13 · De zegen",
+            "Raguël en Edna zegenen hen en vragen respect en zorg; Tobias dankt."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "tobit",
+      "chapter": 11,
+      "verse": 1,
+      "file": "11-leeswijzer.svg",
+      "scene": "Thuiskomst en hersteld zicht",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 863,
+      "source": "Tobit 11:1–20",
+      "design": {
+        "rows": [
+          [
+            "1–8 · Vooruit",
+            "Tobias en Rafaël gaan met de hond vooruit; Anna ziet hen aankomen."
+          ],
+          [
+            "9–15 · Omhelzing en genezing",
+            "Anna omhelst Tobias; Tobit krijgt weer zicht en prijst God."
+          ],
+          [
+            "16–20 · Sara welkom",
+            "Tobias vertelt, Tobit begroet Sara; zeven dagen vreugde in Nineve."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "tobit",
+      "chapter": 12,
+      "verse": 1,
+      "file": "12-leeswijzer.svg",
+      "scene": "Rafaël maakt zich bekend",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1098,
+      "source": "Tobit 12:1–21",
+      "design": {
+        "rows": [
+          [
+            "1–6 · Het loon",
+            "Tobit en Tobias willen de reisgenoot de helft geven."
+          ],
+          [
+            "7–11 · Dank en gerechtigheid",
+            "Maak Gods werken openbaar, bid, geef en leef rechtvaardig."
+          ],
+          [
+            "12–19 · De onthulling",
+            "Rafaël bracht hun gebeden en werd voor hun herstel gezonden; hij is een van de zeven engelen."
+          ],
+          [
+            "20–21 · Het afscheid",
+            "Schrijf het op; Rafaël verdwijnt en zij prijzen God openlijk."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "tobit",
+      "chapter": 9,
+      "verse": 3,
+      "file": "9-opdracht-overdracht.svg",
+      "scene": "Verzoek, bewijs en overdracht",
+      "alt": "Verzoek, bewijs en overdracht met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1012,
+      "source": "Tobit 9:3–8",
+      "design": {
+        "rows": [
+          [
+            "Wie reist?",
+            "Rafaël, een knecht en twee kamelen; Tobias blijft bij het feest."
+          ],
+          [
+            "Waarheen?",
+            "Naar Gabaël in Rages in Medië."
+          ],
+          [
+            "Welk bewijs?",
+            "Het schuldbewijs dat Tobit had meegegeven."
+          ],
+          [
+            "Wat komt terug?",
+            "De verzegelde geldzakjes en Gabaël zelf voor de bruiloft."
+          ]
+        ],
+        "note": "De geldbewaarder Gabaël en Sara’s vader Raguël zijn twee verschillende personen."
+      }
+    },
+    {
+      "book": "tobit",
+      "chapter": 10,
+      "verse": 1,
+      "file": "10-twee-plaatsen.svg",
+      "scene": "Wat zij op twee plaatsen weten",
+      "alt": "Wat zij op twee plaatsen weten met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "Tobit 10:1–13",
+      "design": {
+        "rows": [
+          [
+            "Tobit en Anna",
+            "Weten niet waarom Tobias later terugkomt; Anna vreest dat hij dood is."
+          ],
+          [
+            "Tobias en Sara",
+            "Blijven de afgesproken veertien bruiloftsdagen bij Raguël."
+          ],
+          [
+            "Tobias’ verzoek",
+            "Hij wil weg omdat zijn ouders op hem wachten."
+          ],
+          [
+            "Raguël en Edna",
+            "Laten hen met zegen gaan; vragen liefdevolle zorg en goede berichten."
+          ]
+        ],
+        "note": "De angst thuis is geen bewijs dat de reizigers iets is overkomen."
+      }
+    },
+    {
+      "book": "tobit",
+      "chapter": 11,
+      "verse": 9,
+      "file": "11-herstel-volgorde.svg",
+      "scene": "De volgorde van de thuiskomst",
+      "alt": "De volgorde van de thuiskomst met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1012,
+      "source": "Tobit 11:9–20",
+      "design": {
+        "rows": [
+          [
+            "Anna",
+            "Rent naar Tobias en omhelst hem."
+          ],
+          [
+            "Tobit",
+            "Komt naar de deur; Tobias grijpt hem vast en verzorgt zijn ogen."
+          ],
+          [
+            "Hersteld zicht",
+            "Tobit ziet zijn zoon, omhelst hem en prijst God."
+          ],
+          [
+            "Daarna Sara",
+            "Tobit gaat haar tegemoet tot de poort en heet haar welkom."
+          ]
+        ],
+        "note": "De beschreven gebeurtenissen volgen het verhaal; het schema is geen behandeling voor oogziekte."
+      }
+    },
+    {
+      "book": "tobit",
+      "chapter": 12,
+      "verse": 12,
+      "file": "12-rafael-terugblik.svg",
+      "scene": "Wat Rafaël al gedaan had",
+      "alt": "Wat Rafaël al gedaan had met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "Tobit 12:12–20",
+      "design": {
+        "rows": [
+          [
+            "Gebeden",
+            "Bracht de herinnering aan Tobits en Sara’s gebed voor de Heilige."
+          ],
+          [
+            "Goeddoen",
+            "Was aanwezig toen Tobit zijn maaltijd verliet om doden te begraven."
+          ],
+          [
+            "Herstel",
+            "Werd gestuurd om Tobit en Sara te genezen."
+          ],
+          [
+            "Nu de opdracht",
+            "Wees niet bang, prijs God en schrijf alles op wat is gebeurd."
+          ]
+        ],
+        "note": "De reisgenoot wordt nu pas aan de twee mannen als Rafaël bekend."
+      }
+    },
+    {
+      "book": "tobit",
+      "chapter": 12,
+      "verse": 7,
+      "file": "12-dank-openbaar.svg",
+      "scene": "Wat openbaar moet worden",
+      "alt": "Wat openbaar moet worden met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1012,
+      "source": "Tobit 12:7–11,18–21",
+      "design": {
+        "rows": [
+          [
+            "Geheim van een koning",
+            "Dat wordt bedekt gehouden."
+          ],
+          [
+            "Werken van God",
+            "Die worden met eerbied openbaar gemaakt."
+          ],
+          [
+            "Eer aan God",
+            "Rafaël is door Gods wil gekomen; daarom moeten zij God prijzen."
+          ],
+          [
+            "Hun antwoord",
+            "Zij vertellen openlijk de grote en wonderlijke werken van God."
+          ]
+        ],
+        "note": "De engel vraagt dank voor God en beveelt vastlegging van het verhaal."
+      }
+    }
+  ]
+}

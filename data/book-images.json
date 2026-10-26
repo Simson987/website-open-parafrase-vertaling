@@ -57666,7 +57666,11 @@
         "chapter": 11,
         "file": "11-home.webp",
         "alt": "Tobias keert terug en omhelst zijn ouders",
-        "scene": "Thuiskomst van Tobias"
+        "scene": "Thuiskomst van Tobias",
+        "verse": 9,
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 1,
@@ -57893,77 +57897,110 @@
         "verse": 3,
         "file": "9-3.webp",
         "alt": "Beeld bij Tobit 9: Azarias reist met twee kamelen",
-        "scene": "Azarias reist met twee kamelen"
+        "scene": "Azarias reist met twee kamelen",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 9,
         "verse": 6,
         "file": "9-6.webp",
         "alt": "Beeld bij Tobit 9: Het schuldbewijs bij Gabaël",
-        "scene": "Het schuldbewijs bij Gabaël"
+        "scene": "Het schuldbewijs bij Gabaël",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 9,
         "verse": 7,
         "file": "9-7.webp",
         "alt": "Beeld bij Tobit 9: De verzegelde geldzakjes",
-        "scene": "De verzegelde geldzakjes"
+        "scene": "De verzegelde geldzakjes",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 10,
         "verse": 1,
         "file": "10-1.webp",
         "alt": "Beeld bij Tobit 10: Tobit telt de dagen",
-        "scene": "Tobit telt de dagen"
+        "scene": "Tobit telt de dagen",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 10,
         "verse": 7,
         "file": "10-7.webp",
         "alt": "Beeld bij Tobit 10: Anna kijkt uit langs de weg",
-        "scene": "Anna kijkt uit langs de weg"
+        "scene": "Anna kijkt uit langs de weg",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 10,
         "verse": 12,
         "file": "10-12.webp",
         "alt": "Beeld bij Tobit 10: Raguël zegent het vertrek",
-        "scene": "Raguël zegent het vertrek"
+        "scene": "Raguël zegent het vertrek",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 11,
         "verse": 5,
         "file": "11-5.webp",
         "alt": "Beeld bij Tobit 11: De hond loopt achter hen aan",
-        "scene": "De hond loopt achter hen aan"
+        "scene": "De hond loopt achter hen aan",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 11,
         "verse": 18,
         "file": "11-18.webp",
         "alt": "Beeld bij Tobit 11: Tobit verwelkomt Sara",
-        "scene": "Tobit verwelkomt Sara"
+        "scene": "Tobit verwelkomt Sara",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 12,
         "verse": 1,
         "file": "12-1.webp",
         "alt": "Beeld bij Tobit 12: Tobit bespreekt een rechtvaardig loon",
-        "scene": "Tobit bespreekt een rechtvaardig loon"
+        "scene": "Tobit bespreekt een rechtvaardig loon",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 12,
         "verse": 9,
         "file": "12-9.webp",
         "alt": "Beeld bij Tobit 12: Bidden en geven",
-        "scene": "Bidden en geven"
+        "scene": "Bidden en geven",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 12,
         "verse": 15,
         "file": "12-15.webp",
         "alt": "Beeld bij Tobit 12: Rafaël maakt zich bekend",
-        "scene": "Rafaël maakt zich bekend"
+        "scene": "Rafaël maakt zich bekend",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 13,
@@ -58276,6 +58313,116 @@
         "kind": "diagram",
         "width": 840,
         "height": 1048
+      },
+      {
+        "chapter": 11,
+        "verse": 10,
+        "file": "11-10-ogen-genezing-verdieping.webp",
+        "scene": "Tobias verzorgt de ogen van Tobit",
+        "alt": "Tobias verzorgt de ogen van Tobit — Tobit 11:10; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 12,
+        "verse": 20,
+        "file": "12-20-rafael-omhoog-verdieping.webp",
+        "scene": "Rafaël keert terug",
+        "alt": "Rafaël keert terug — Tobit 12:20; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 9,
+        "verse": 1,
+        "file": "9-leeswijzer.svg",
+        "scene": "Het geld en de bruiloft",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 906
+      },
+      {
+        "chapter": 10,
+        "verse": 1,
+        "file": "10-leeswijzer.svg",
+        "scene": "Wachten en laten gaan",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 906
+      },
+      {
+        "chapter": 11,
+        "verse": 1,
+        "file": "11-leeswijzer.svg",
+        "scene": "Thuiskomst en hersteld zicht",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 863
+      },
+      {
+        "chapter": 12,
+        "verse": 1,
+        "file": "12-leeswijzer.svg",
+        "scene": "Rafaël maakt zich bekend",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1098
+      },
+      {
+        "chapter": 9,
+        "verse": 3,
+        "file": "9-opdracht-overdracht.svg",
+        "scene": "Verzoek, bewijs en overdracht",
+        "alt": "Verzoek, bewijs en overdracht met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1012
+      },
+      {
+        "chapter": 10,
+        "verse": 1,
+        "file": "10-twee-plaatsen.svg",
+        "scene": "Wat zij op twee plaatsen weten",
+        "alt": "Wat zij op twee plaatsen weten met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1055
+      },
+      {
+        "chapter": 11,
+        "verse": 9,
+        "file": "11-herstel-volgorde.svg",
+        "scene": "De volgorde van de thuiskomst",
+        "alt": "De volgorde van de thuiskomst met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1012
+      },
+      {
+        "chapter": 12,
+        "verse": 12,
+        "file": "12-rafael-terugblik.svg",
+        "scene": "Wat Rafaël al gedaan had",
+        "alt": "Wat Rafaël al gedaan had met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1055
+      },
+      {
+        "chapter": 12,
+        "verse": 7,
+        "file": "12-dank-openbaar.svg",
+        "scene": "Wat openbaar moet worden",
+        "alt": "Wat openbaar moet worden met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1012
       }
     ],
     "judith": [

@@ -34825,6 +34825,117 @@
           "source": "Tobit 6:15–23"
         }
       ]
+    },
+    {
+      "book": "tobit",
+      "chapter": 11,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Thuiskomst, hond en Sara welkom zijn aanwezig. Het herstel van Tobits zicht is een eigen ontbrekende hoofdgebeurtenis en wordt voorzichtig zonder letsel verbeeld. Leeswijzer en volgordeschema plaatsen Anna, Tobit en Sara in de juiste volgorde.",
+      "additions": [
+        {
+          "verse": 10,
+          "file": "11-10-ogen-genezing-verdieping.webp",
+          "scene": "Tobias verzorgt de ogen van Tobit",
+          "kind": "scene"
+        },
+        {
+          "verse": 1,
+          "file": "11-leeswijzer.svg",
+          "scene": "Thuiskomst en hersteld zicht",
+          "kind": "diagram",
+          "source": "Tobit 11:1–20"
+        },
+        {
+          "verse": 9,
+          "file": "11-herstel-volgorde.svg",
+          "scene": "De volgorde van de thuiskomst",
+          "kind": "diagram",
+          "source": "Tobit 11:9–20"
+        }
+      ]
+    },
+    {
+      "book": "tobit",
+      "chapter": 12,
+      "status": "reviewed",
+      "target_images": 7,
+      "reason": "Loon, geven en Rafaëls onthulling zijn aanwezig. Zijn vertrek na de onthulling krijgt een eigen verbeelding. Opbouw, terugblik en openbaar-dank-schema geven de vertellende uitleg zonder Rafaël als doel van aanbidding af te beelden.",
+      "additions": [
+        {
+          "verse": 20,
+          "file": "12-20-rafael-omhoog-verdieping.webp",
+          "scene": "Rafaël keert terug",
+          "kind": "scene"
+        },
+        {
+          "verse": 1,
+          "file": "12-leeswijzer.svg",
+          "scene": "Rafaël maakt zich bekend",
+          "kind": "diagram",
+          "source": "Tobit 12:1–21"
+        },
+        {
+          "verse": 12,
+          "file": "12-rafael-terugblik.svg",
+          "scene": "Wat Rafaël al gedaan had",
+          "kind": "diagram",
+          "source": "Tobit 12:12–20"
+        },
+        {
+          "verse": 7,
+          "file": "12-dank-openbaar.svg",
+          "scene": "Wat openbaar moet worden",
+          "kind": "diagram",
+          "source": "Tobit 12:7–11,18–21"
+        }
+      ]
+    },
+    {
+      "book": "tobit",
+      "chapter": 9,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Reis met twee kamelen, schuldbewijs en geldzakjes dekken de korte handeling. Leeswijzer en een beknopt overdrachtsschema voorkomen verwarring tussen Gabaël en Raguël; geen vierde overdrachtsfoto.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "9-leeswijzer.svg",
+          "scene": "Het geld en de bruiloft",
+          "kind": "diagram",
+          "source": "Tobit 9:1–8"
+        },
+        {
+          "verse": 3,
+          "file": "9-opdracht-overdracht.svg",
+          "scene": "Verzoek, bewijs en overdracht",
+          "kind": "diagram",
+          "source": "Tobit 9:3–8"
+        }
+      ]
+    },
+    {
+      "book": "tobit",
+      "chapter": 10,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Dagen tellen, Anna op de weg en vertrekzegen zijn aanwezig. Een leeswijzer en vergelijking van de kennis op beide locaties volstaan; nog een afscheidsfoto zou dupliceren.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "10-leeswijzer.svg",
+          "scene": "Wachten en laten gaan",
+          "kind": "diagram",
+          "source": "Tobit 10:1–13"
+        },
+        {
+          "verse": 1,
+          "file": "10-twee-plaatsen.svg",
+          "scene": "Wat zij op twee plaatsen weten",
+          "kind": "diagram",
+          "source": "Tobit 10:1–13"
+        }
+      ]
     }
   ]
 }
