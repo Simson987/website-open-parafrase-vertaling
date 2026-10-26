@@ -68308,61 +68308,191 @@
         "chapter": 1,
         "file": "1-grow.webp",
         "alt": "Een leraar moedigt jonge leerlingen aan",
-        "scene": "Groei in deugd"
+        "scene": "Groei in deugd",
+        "verse": 5,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 2,
         "file": "2-test.webp",
         "alt": "Mensen bespreken zorgvuldig een bewering",
-        "scene": "Wees waakzaam"
+        "scene": "Wees waakzaam",
+        "verse": 1,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 3,
         "file": "3-dawn.webp",
         "alt": "Een gemeenschap ziet de zon opkomen boven zee",
-        "scene": "Uitkijken naar een nieuwe dag"
+        "scene": "Uitkijken naar een nieuwe dag",
+        "verse": 13,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 1,
         "verse": 7,
         "file": "1-7.webp",
         "alt": "Beeld bij 2petrus 1: Genegenheid en liefde voor iedereen",
-        "scene": "Genegenheid en liefde voor iedereen"
+        "scene": "Genegenheid en liefde voor iedereen",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 1,
         "verse": 19,
         "file": "1-19.webp",
         "alt": "Beeld bij 2petrus 1: Licht op een donkere plaats",
-        "scene": "Licht op een donkere plaats"
+        "scene": "Licht op een donkere plaats",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 2,
         "verse": 16,
         "file": "2-16.webp",
         "alt": "Beeld bij 2petrus 2: Bileam wordt terechtgewezen",
-        "scene": "Bileam wordt terechtgewezen"
+        "scene": "Bileam wordt terechtgewezen",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 2,
         "verse": 17,
         "file": "2-17.webp",
         "alt": "Beeld bij 2petrus 2: Een bron zonder water",
-        "scene": "Een bron zonder water"
+        "scene": "Een bron zonder water",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 3,
         "verse": 9,
         "file": "3-9.webp",
         "alt": "Beeld bij 2petrus 3: Geduld dat tot omkeer leidt",
-        "scene": "Geduld dat tot omkeer leidt"
+        "scene": "Geduld dat tot omkeer leidt",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 3,
         "verse": 18,
         "file": "3-18.webp",
         "alt": "Beeld bij 2petrus 3: Groei in genade en kennis",
-        "scene": "Groei in genade en kennis"
+        "scene": "Groei in genade en kennis",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 1,
+        "verse": 17,
+        "file": "1-17-heilige-berg-verdieping.webp",
+        "scene": "De majesteit op de heilige berg",
+        "alt": "De majesteit op de heilige berg — 2 Petrus 1:17; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 2,
+        "verse": 5,
+        "file": "2-5-noach-acht-verdieping.webp",
+        "scene": "Noach en zeven anderen bewaard",
+        "alt": "Noach en zeven anderen bewaard — 2 Petrus 2:5; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 2,
+        "verse": 7,
+        "file": "2-7-lot-gered-verdieping.webp",
+        "scene": "De rechtvaardige Lot gered",
+        "alt": "De rechtvaardige Lot gered — 2 Petrus 2:7; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 2,
+        "verse": 22,
+        "file": "2-22-zeug-modder-verdieping.webp",
+        "scene": "Spreekwoord: terug in de modder",
+        "alt": "Spreekwoord: terug in de modder — 2 Petrus 2:22; tekstillustratie.",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 1,
+        "verse": 1,
+        "file": "1-leeswijzer.svg",
+        "scene": "Groei, herinnering en getuigenis",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1055
+      },
+      {
+        "chapter": 2,
+        "verse": 1,
+        "file": "2-leeswijzer.svg",
+        "scene": "Waarschuwing tegen misleiding",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1055
+      },
+      {
+        "chapter": 3,
+        "verse": 1,
+        "file": "3-leeswijzer.svg",
+        "scene": "Geduld, verwachting en groei",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1012
+      },
+      {
+        "chapter": 2,
+        "verse": 4,
+        "file": "2-oordeel-bewaring.svg",
+        "scene": "Oordeel en bewaring",
+        "alt": "Oordeel en bewaring met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 969
+      },
+      {
+        "chapter": 3,
+        "verse": 8,
+        "file": "3-tijd-geduld.svg",
+        "scene": "De tijd en Gods geduld",
+        "alt": "De tijd en Gods geduld met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1048
+      },
+      {
+        "chapter": 1,
+        "verse": 5,
+        "file": "1-deugden-keten.svg",
+        "scene": "Voeg bij je geloof",
+        "alt": "Voeg bij je geloof — 2 Petrus 1:5–7",
+        "kind": "diagram",
+        "width": 840,
+        "height": 928
       }
     ],
     "2johannes": [

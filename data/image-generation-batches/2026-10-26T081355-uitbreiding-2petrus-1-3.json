@@ -1,0 +1,248 @@
+{
+  "date": "2026-10-26",
+  "started": "2026-10-26T08:13:55Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "2petrus",
+      "chapter": 1,
+      "verse": 17,
+      "file": "1-17-heilige-berg-verdieping.webp",
+      "scene": "De majesteit op de heilige berg",
+      "alt": "De majesteit op de heilige berg — 2 Petrus 1:17; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. 2 Peter 1:16–18 recalls eyewitnesses seeing Jesus’ majesty and hearing the heavenly voice on the holy mountain. Respectful first-century biblical transfiguration scene: Jesus standing on a quiet rocky mountaintop in radiant fully covering white robes, three adult male disciples nearby looking up in awe, all natural two arms each. The radiance comes from soft brilliant light around Jesus, no visible human portrait of the Father, sky face, written speech, wings, exaggerated magical anatomy or frightening lightning. Dignified photorealism, uncluttered landscape 3:2.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2petrus",
+      "chapter": 2,
+      "verse": 5,
+      "file": "2-5-noach-acht-verdieping.webp",
+      "scene": "Noach en zeven anderen bewaard",
+      "alt": "Noach en zeven anderen bewaard — 2 Petrus 2:5; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. 2 Peter 2:5 says God preserved Noah and seven others during the flood. Ancient Genesis-era ark interior: exactly eight adult humans total, four men and four women in simple modest opaque robes, gathered calmly together inside a spacious wooden ark room, muted daylight through a high window with rain beyond. Noah elderly with grey beard, the seven others varied adults. Clear separate faces and limbs, no ninth human or child, no drowning bodies, modern ship machinery or readable text. Focus on the household preserved, not ark construction.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2petrus",
+      "chapter": 2,
+      "verse": 7,
+      "file": "2-7-lot-gered-verdieping.webp",
+      "scene": "De rechtvaardige Lot gered",
+      "alt": "De rechtvaardige Lot gered — 2 Petrus 2:7; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. 2 Peter 2:6–8 recalls the destruction of Sodom and Gomorrah and the rescue of righteous Lot. Restrained ancient Genesis-era historical illustration: adult Lot in modest opaque travelling robes walking safely away from a distant plain where ancient cities are shrouded in dark smoke and far-off orange light. Foreground man alive and unharmed with travel bag, grave expression, no victims, bodies, gore, exploding modern buildings or readable signs. No invented scene of sexual misconduct. Photorealistic landscape focused on rescue.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2petrus",
+      "chapter": 2,
+      "verse": 22,
+      "file": "2-22-zeug-modder-verdieping.webp",
+      "scene": "Spreekwoord: terug in de modder",
+      "alt": "Spreekwoord: terug in de modder — 2 Petrus 2:22; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. 2 Peter 2:22 quotes the proverb of a washed sow returning to wallow in mud as an image of returning to wrongdoing. Photorealistic calm adult female pig rolling in an ordinary shallow mud patch beside a rustic ancient animal pen, healthy animal with coherent anatomy and visible correct legs, simple rural daylight. No vomit, filth on people, harm, modern branding, text or anthropomorphic expression. A proverb illustration, not a historical event involving named humans.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2petrus",
+      "chapter": 1,
+      "verse": 1,
+      "file": "1-leeswijzer.svg",
+      "scene": "Groei, herinnering en getuigenis",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "2 Petrus 1:1–21",
+      "design": {
+        "rows": [
+          [
+            "1–4 · Kostbaar geloof en beloften",
+            "Goddelijke kracht geeft wat nodig is voor leven en vroomheid."
+          ],
+          [
+            "5–11 · De deugden toevoegen",
+            "Groei, vrucht en het vastmaken van de roeping."
+          ],
+          [
+            "12–15 · Blijven herinneren",
+            "Petrus’ lichaam als tent en zijn naderende heengaan."
+          ],
+          [
+            "16–21 · Gezien en gesproken",
+            "Getuigen op de berg; het vaste profetische Woord."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "2petrus",
+      "chapter": 2,
+      "verse": 1,
+      "file": "2-leeswijzer.svg",
+      "scene": "Waarschuwing tegen misleiding",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "2 Petrus 2:1–22",
+      "design": {
+        "rows": [
+          [
+            "1–3 · Valse leraars",
+            "Verderfelijke leer, hebzucht en uitbuiting."
+          ],
+          [
+            "4–9 · Oordeel en bewaring",
+            "Engelen, vloed en steden; Noach en Lot gered."
+          ],
+          [
+            "10–16 · Begeerte en Bileam",
+            "Onrecht en de terechtwijzing door het lastdier."
+          ],
+          [
+            "17–22 · Loze beloften",
+            "Droge bronnen, slavernij en terugkeer naar het oude."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "2petrus",
+      "chapter": 3,
+      "verse": 1,
+      "file": "3-leeswijzer.svg",
+      "scene": "Geduld, verwachting en groei",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1012,
+      "source": "2 Petrus 3:1–18",
+      "design": {
+        "rows": [
+          [
+            "1–7 · Herinnering en spot",
+            "Schepping, vloed en het komende oordeel."
+          ],
+          [
+            "8–10 · Geduld en de dag",
+            "Gods tijd en geduld; de dag komt onverwacht."
+          ],
+          [
+            "11–14 · Heilig en in vrede",
+            "De nieuwe hemel en aarde verwachten."
+          ],
+          [
+            "15–18 · Schrift en groei",
+            "Paulus’ brieven, geen verdraaiing en groeien in genade."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "2petrus",
+      "chapter": 2,
+      "verse": 4,
+      "file": "2-oordeel-bewaring.svg",
+      "scene": "Oordeel en bewaring",
+      "alt": "Oordeel en bewaring met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 969,
+      "source": "2 Petrus 2:4–9",
+      "design": {
+        "rows": [
+          [
+            "De engelen · vers 4",
+            "Bewaard in duisternis voor het oordeel."
+          ],
+          [
+            "De vloed · vers 5",
+            "Noach en zeven anderen bewaard."
+          ],
+          [
+            "De steden · vers 6–8",
+            "Sodom en Gomorra veroordeeld; de rechtvaardige Lot gered."
+          ],
+          [
+            "De gevolgtrekking · vers 9",
+            "De Heere redt vromen uit beproeving en bewaart onrechtvaardigen voor oordeel."
+          ]
+        ],
+        "note": "De brief gebruikt eerdere voorbeelden om de waarschuwing te onderbouwen."
+      }
+    },
+    {
+      "book": "2petrus",
+      "chapter": 3,
+      "verse": 8,
+      "file": "3-tijd-geduld.svg",
+      "scene": "De tijd en Gods geduld",
+      "alt": "De tijd en Gods geduld met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1048,
+      "source": "2 Petrus 3:8–14",
+      "design": {
+        "rows": [
+          [
+            "De vergelijking · vers 8",
+            "Eén dag als duizend jaar en duizend jaar als één dag."
+          ],
+          [
+            "Het geduld · vers 9",
+            "Hij wil dat allen tot bekering komen."
+          ],
+          [
+            "De dag · vers 10–12",
+            "Onverwacht; een oproep tot heilig en vroom leven."
+          ],
+          [
+            "De belofte · vers 13–14",
+            "Nieuwe hemel en aarde met gerechtigheid; leef in vrede."
+          ]
+        ],
+        "note": "De dag-jaarvergelijking beschrijft Gods verhouding tot tijd en is hier geen datumberekening."
+      }
+    },
+    {
+      "book": "2petrus",
+      "chapter": 1,
+      "verse": 5,
+      "file": "1-deugden-keten.svg",
+      "scene": "Voeg bij je geloof",
+      "alt": "Voeg bij je geloof — 2 Petrus 1:5–7",
+      "kind": "diagram",
+      "width": 840,
+      "height": 928,
+      "source": "2 Petrus 1:5–7",
+      "design": {
+        "type": "vertical named sequence",
+        "names": [
+          "Geloof",
+          "Deugd",
+          "Kennis",
+          "Zelfbeheersing",
+          "Volharding",
+          "Vroomheid",
+          "Onderlinge genegenheid",
+          "Liefde voor iedereen"
+        ],
+        "note": "De volgorde volgt vers 5–7; vers 8 vraagt dat deze dingen groeien."
+      }
+    }
+  ]
+}

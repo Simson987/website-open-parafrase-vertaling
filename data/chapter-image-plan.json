@@ -32654,6 +32654,99 @@
           "source": "1 Petrus 3:18–22"
         }
       ]
+    },
+    {
+      "book": "2petrus",
+      "chapter": 1,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Groei, liefde en het lamplicht zijn aanwezig. Het concrete ooggetuigenbericht van de heilige berg krijgt een apart beeld. Leeswijzer en volledige deugdenketen maken de volgorde controleerbaar zonder vaderportret.",
+      "additions": [
+        {
+          "verse": 17,
+          "file": "1-17-heilige-berg-verdieping.webp",
+          "scene": "De majesteit op de heilige berg",
+          "kind": "scene"
+        },
+        {
+          "verse": 1,
+          "file": "1-leeswijzer.svg",
+          "scene": "Groei, herinnering en getuigenis",
+          "kind": "diagram",
+          "source": "2 Petrus 1:1–21"
+        },
+        {
+          "verse": 5,
+          "file": "1-deugden-keten.svg",
+          "scene": "Voeg bij je geloof",
+          "kind": "diagram",
+          "source": "2 Petrus 1:5–7"
+        }
+      ]
+    },
+    {
+      "book": "2petrus",
+      "chapter": 2,
+      "status": "reviewed",
+      "target_images": 8,
+      "reason": "Waakzaamheid, Bileams lastdier en de droge bron zijn aanwezig. Noachs acht geredden, Lots redding en het zeugspreekwoord zijn afzonderlijke voorbeelden en krijgen elk een beeld. Leeswijzer en oordeel-bewaringoverzicht bewaren het onderscheid tussen geschiedenis en spreekwoord.",
+      "additions": [
+        {
+          "verse": 5,
+          "file": "2-5-noach-acht-verdieping.webp",
+          "scene": "Noach en zeven anderen bewaard",
+          "kind": "scene"
+        },
+        {
+          "verse": 7,
+          "file": "2-7-lot-gered-verdieping.webp",
+          "scene": "De rechtvaardige Lot gered",
+          "kind": "scene"
+        },
+        {
+          "verse": 22,
+          "file": "2-22-zeug-modder-verdieping.webp",
+          "scene": "Spreekwoord: terug in de modder",
+          "kind": "poetic"
+        },
+        {
+          "verse": 1,
+          "file": "2-leeswijzer.svg",
+          "scene": "Waarschuwing tegen misleiding",
+          "kind": "diagram",
+          "source": "2 Petrus 2:1–22"
+        },
+        {
+          "verse": 4,
+          "file": "2-oordeel-bewaring.svg",
+          "scene": "Oordeel en bewaring",
+          "kind": "diagram",
+          "source": "2 Petrus 2:4–9"
+        }
+      ]
+    },
+    {
+      "book": "2petrus",
+      "chapter": 3,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Verwachting, geduld en groei zijn aanwezig. Leeswijzer en tijd-geduld-belofteschema verduidelijken de gedachtegang zonder een datum of gedetailleerde niet beschreven nieuwe wereld te verzinnen.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "3-leeswijzer.svg",
+          "scene": "Geduld, verwachting en groei",
+          "kind": "diagram",
+          "source": "2 Petrus 3:1–18"
+        },
+        {
+          "verse": 8,
+          "file": "3-tijd-geduld.svg",
+          "scene": "De tijd en Gods geduld",
+          "kind": "diagram",
+          "source": "2 Petrus 3:8–14"
+        }
+      ]
     }
   ]
 }
