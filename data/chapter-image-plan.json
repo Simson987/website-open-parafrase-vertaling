@@ -33521,6 +33521,123 @@
           "source": "Openbaring 13:1–18"
         }
       ]
+    },
+    {
+      "book": "openbaring",
+      "chapter": 17,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Engel, overwinnend Lam en stad zijn aanwezig. De vrouw met haar gouden beker ontbreekt als betekenisvol detail en krijgt een bescheiden geklede visioenverbeelding. Uitlegschema onderscheidt de verklaringen die de engel zelf geeft.",
+      "additions": [
+        {
+          "verse": 4,
+          "file": "17-4-vrouw-beker-verdieping.webp",
+          "scene": "De vrouw met de gouden beker",
+          "kind": "poetic"
+        },
+        {
+          "verse": 1,
+          "file": "17-leeswijzer.svg",
+          "scene": "De vrouw en de uitleg",
+          "kind": "diagram",
+          "source": "Openbaring 17:1–18"
+        },
+        {
+          "verse": 9,
+          "file": "17-verklaarde-symbolen.svg",
+          "scene": "Wat de engel verklaart",
+          "kind": "diagram",
+          "source": "Openbaring 17:9–18"
+        }
+      ]
+    },
+    {
+      "book": "openbaring",
+      "chapter": 18,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Val, handelaars en molensteen zijn aanwezig. De afzonderlijke oproep om uit de stad weg te gaan krijgt een eigen scène; opbouw en drie rouwende groepen worden onderscheiden.",
+      "additions": [
+        {
+          "verse": 4,
+          "file": "18-4-weg-uit-haar-verdieping.webp",
+          "scene": "Ga weg uit haar",
+          "kind": "poetic"
+        },
+        {
+          "verse": 1,
+          "file": "18-leeswijzer.svg",
+          "scene": "Babylons val en de rouw",
+          "kind": "diagram",
+          "source": "Openbaring 18:1–24"
+        },
+        {
+          "verse": 9,
+          "file": "18-drie-rouwenden.svg",
+          "scene": "Wie rouwen om Babylon?",
+          "kind": "diagram",
+          "source": "Openbaring 18:9–19"
+        }
+      ]
+    },
+    {
+      "book": "openbaring",
+      "chapter": 19,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Lof, bruiloft en witte ruiter zijn aanwezig. De weigering van de engel om aanbeden te worden ontbreekt als ontmoeting. Leeswijzer en namen van de ruiter geven de expliciete uitleg.",
+      "additions": [
+        {
+          "verse": 10,
+          "file": "19-10-aanbid-god-verdieping.webp",
+          "scene": "Aanbid God",
+          "kind": "poetic"
+        },
+        {
+          "verse": 1,
+          "file": "19-leeswijzer.svg",
+          "scene": "Lof, bruiloft en overwinning",
+          "kind": "diagram",
+          "source": "Openbaring 19:1–21"
+        },
+        {
+          "verse": 11,
+          "file": "19-namen-ruiter.svg",
+          "scene": "De namen van de ruiter",
+          "kind": "diagram",
+          "source": "Openbaring 19:11–16"
+        }
+      ]
+    },
+    {
+      "book": "openbaring",
+      "chapter": 20,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Sleutel en ketting, heersende getuigen en geopende boeken zijn aanwezig en passend. Een leeswijzer, een tijdsvolgorde en een begrippenschema zijn voldoende aanvullingen; extra vuur- of geweldsscènes zouden weinig begrip toevoegen.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "20-leeswijzer.svg",
+          "scene": "Duizend jaar en oordeel",
+          "kind": "diagram",
+          "source": "Openbaring 20:1–15"
+        },
+        {
+          "verse": 4,
+          "file": "20-opstanding-oordeel.svg",
+          "scene": "Leven, boeken en oordeel",
+          "kind": "diagram",
+          "source": "Openbaring 20:4–15"
+        },
+        {
+          "verse": 1,
+          "file": "20-tijdvolgorde.svg",
+          "scene": "Volgorde in het visioen",
+          "kind": "diagram",
+          "source": "Openbaring 20:1–15"
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,325 @@
+{
+  "date": "2026-10-26",
+  "started": "2026-10-26T10:14:43Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "openbaring",
+      "chapter": 17,
+      "verse": 4,
+      "file": "17-4-vrouw-beker-verdieping.webp",
+      "scene": "De vrouw met de gouden beker",
+      "alt": "De vrouw met de gouden beker — Openbaring 17:4; verbeelding van het vertelde visioen.",
+      "kind": "poetic",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. Revelation 17:4 symbolic visionary detail, a mature woman representing Babylon seated in an ancient desert setting, fully dressed in modest opaque long purple and scarlet robes, wearing gold jewelry, pearls and gemstones, holding ONE golden cup in her hand. Exactly two arms and hands. Solemn warning against corrupt luxury, not glamorous advertising or a modern person. No beast visible in this detail, no readable inscription, no nudity, seduction or blood.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "openbaring",
+      "chapter": 18,
+      "verse": 4,
+      "file": "18-4-weg-uit-haar-verdieping.webp",
+      "scene": "Ga weg uit haar",
+      "alt": "Ga weg uit haar — Openbaring 18:4; verbeelding van het vertelde visioen.",
+      "kind": "poetic",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. Revelation 18:4 symbolic visionary scene, a few modestly robed ancient Mediterranean families, men and women with small cloth travel bundles, walk away along an ancient stone road from a distant wealthy ancient city that is falling dark under ominous clouds. They are calmly leaving in obedience, not fleeing graphic violence. Wide photorealistic composition, coherent natural anatomy, no fire near people, no modern belongings.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "openbaring",
+      "chapter": 19,
+      "verse": 10,
+      "file": "19-10-aanbid-god-verdieping.webp",
+      "scene": "Aanbid God",
+      "alt": "Aanbid God — Openbaring 19:10; verbeelding van het vertelde visioen.",
+      "kind": "poetic",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. Revelation 19:10 visionary encounter. Elderly John of Patmos kneels low on the ground in brown and cream opaque robes before a fully robed angel, who raises one palm gently in a clear STOP gesture and points upward with the other hand. Exactly two arms for each person, angel two wings, both hands anatomically coherent. The angel refuses worship, John looks up in understanding. No deity portrait, readable words, blood or violence.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "openbaring",
+      "chapter": 17,
+      "verse": 1,
+      "file": "17-leeswijzer.svg",
+      "scene": "De vrouw en de uitleg",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 949,
+      "source": "Openbaring 17:1–18",
+      "design": {
+        "rows": [
+          [
+            "1–6 · Het visioen",
+            "In de woestijn ziet Johannes de vrouw op het scharlaken beest; zij draagt een gouden beker."
+          ],
+          [
+            "7–14 · Koppen en horens",
+            "De engel verklaart het geheim; het Lam overwint de koningen."
+          ],
+          [
+            "15–18 · Water en vrouw",
+            "Water wordt als volken uitgelegd, de vrouw als grote heersende stad; zij wordt geoordeeld."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "openbaring",
+      "chapter": 18,
+      "verse": 1,
+      "file": "18-leeswijzer.svg",
+      "scene": "Babylons val en de rouw",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 906,
+      "source": "Openbaring 18:1–24",
+      "design": {
+        "rows": [
+          [
+            "1–8 · Gevallen en verlaten",
+            "De engel kondigt de val aan; Gods volk wordt geroepen weg te gaan."
+          ],
+          [
+            "9–19 · Drie groepen rouwen",
+            "Koningen, handelaars en mensen op zee blijven ver weg en klagen."
+          ],
+          [
+            "20–24 · Oordeel bevestigd",
+            "Oproep tot vreugde in de hemel; molensteen als teken van de definitieve val."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "openbaring",
+      "chapter": 19,
+      "verse": 1,
+      "file": "19-leeswijzer.svg",
+      "scene": "Lof, bruiloft en overwinning",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1141,
+      "source": "Openbaring 19:1–21",
+      "design": {
+        "rows": [
+          [
+            "1–6 · Halleluja",
+            "De grote menigte, oudsten en vier wezens loven God om Zijn rechtvaardig oordeel."
+          ],
+          [
+            "7–10 · De bruiloft",
+            "Bruid in zuiver linnen; uitnodiging voor de maaltijd; de engel weigert aanbidding."
+          ],
+          [
+            "11–16 · De ruiter",
+            "Trouw en Waarachtig; het Woord van God; Koning van de koningen."
+          ],
+          [
+            "17–21 · Het oordeel",
+            "Beest en valse profeet worden gegrepen; hun legers worden verslagen."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "openbaring",
+      "chapter": 20,
+      "verse": 1,
+      "file": "20-leeswijzer.svg",
+      "scene": "Duizend jaar en oordeel",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1098,
+      "source": "Openbaring 20:1–15",
+      "design": {
+        "rows": [
+          [
+            "1–3 · Gebonden",
+            "De draak wordt duizend jaar opgesloten en daarna kort losgelaten."
+          ],
+          [
+            "4–6 · Leven en heersen",
+            "Getuigen heersen met Christus; de eerste opstanding wordt genoemd."
+          ],
+          [
+            "7–10 · Laatste misleiding",
+            "Gog en Magog omsingelen de geliefde stad; vuur en het oordeel volgen."
+          ],
+          [
+            "11–15 · Voor de witte troon",
+            "Boeken en het boek van het leven worden geopend; ieder wordt geoordeeld naar zijn werken."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "openbaring",
+      "chapter": 17,
+      "verse": 9,
+      "file": "17-verklaarde-symbolen.svg",
+      "scene": "Wat de engel verklaart",
+      "alt": "Wat de engel verklaart met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "Openbaring 17:9–18",
+      "design": {
+        "rows": [
+          [
+            "Zeven koppen · vers 9–10",
+            "Zeven bergen; ook zeven koningen: vijf gevallen, één aanwezig, één nog te komen."
+          ],
+          [
+            "Tien horens · vers 12–13",
+            "Tien koningen die één uur macht krijgen en hun kracht aan het beest geven."
+          ],
+          [
+            "Het water · vers 15",
+            "Volken, menigten, naties en talen."
+          ],
+          [
+            "De vrouw · vers 18",
+            "De grote stad die over de koningen van de aarde heerst."
+          ]
+        ],
+        "note": "De verklaringen van de engel zijn weergegeven; de stad en koningen krijgen geen extra namen."
+      }
+    },
+    {
+      "book": "openbaring",
+      "chapter": 18,
+      "verse": 9,
+      "file": "18-drie-rouwenden.svg",
+      "scene": "Wie rouwen om Babylon?",
+      "alt": "Wie rouwen om Babylon? met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1098,
+      "source": "Openbaring 18:9–19",
+      "design": {
+        "rows": [
+          [
+            "Koningen · vers 9–10",
+            "Zien de rook, blijven ver weg en rouwen om het snelle oordeel."
+          ],
+          [
+            "Handelaars · vers 11–16",
+            "Niemand koopt hun waren meer; zij treuren om de verdwenen rijkdom."
+          ],
+          [
+            "Zeevarenden · vers 17–19",
+            "Stuurlui, opvarenden, matrozen en wie op zee werken, klagen vanaf een afstand."
+          ],
+          [
+            "Wat terugkomt",
+            "De klacht over één uur; de ontzaglijke rijkdom valt weg."
+          ]
+        ],
+        "note": "De rouw om verloren voordeel verschilt van de oproep aan Gods volk om weg te gaan."
+      }
+    },
+    {
+      "book": "openbaring",
+      "chapter": 19,
+      "verse": 11,
+      "file": "19-namen-ruiter.svg",
+      "scene": "De namen van de ruiter",
+      "alt": "De namen van de ruiter met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "Openbaring 19:11–16",
+      "design": {
+        "rows": [
+          [
+            "Trouw en Waarachtig · vers 11",
+            "Hij oordeelt en voert rechtvaardig oorlog."
+          ],
+          [
+            "Een onbekende naam · vers 12",
+            "Alleen Hijzelf kent deze geschreven naam."
+          ],
+          [
+            "Het Woord van God · vers 13",
+            "De tekst noemt deze Naam bij Zijn kleed."
+          ],
+          [
+            "Koning en Heer · vers 16",
+            "Koning van de koningen en Heer van de heren."
+          ]
+        ],
+        "note": "De onbekende naam wordt niet ingevuld; de expliciet gegeven Namen blijven onderscheiden."
+      }
+    },
+    {
+      "book": "openbaring",
+      "chapter": 20,
+      "verse": 4,
+      "file": "20-opstanding-oordeel.svg",
+      "scene": "Leven, boeken en oordeel",
+      "alt": "Leven, boeken en oordeel met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "Openbaring 20:4–15",
+      "design": {
+        "rows": [
+          [
+            "Eerste opstanding · vers 4–6",
+            "Wie met Christus leeft en heerst, wordt gelukkig en heilig genoemd."
+          ],
+          [
+            "Geoordeeld · vers 12–13",
+            "Klein en groot; ieder naar de werken die in de boeken staan."
+          ],
+          [
+            "Het boek van het leven",
+            "Een ander boek wordt naast de boeken geopend."
+          ],
+          [
+            "Tweede dood · vers 14–15",
+            "De vuurpoel wordt de tweede dood genoemd; dood en dodenrijk gaan daarin."
+          ]
+        ],
+        "note": "Dit ordent de eigen benamingen van het visioen, zonder een extra eindtijdmodel."
+      }
+    },
+    {
+      "book": "openbaring",
+      "chapter": 20,
+      "verse": 1,
+      "file": "20-tijdvolgorde.svg",
+      "scene": "Volgorde in het visioen",
+      "alt": "Volgorde in het visioen — Openbaring 20:1–15",
+      "kind": "diagram",
+      "width": 840,
+      "height": 802,
+      "source": "Openbaring 20:1–15",
+      "design": {
+        "type": "vertical named sequence",
+        "names": [
+          "Satan duizend jaar gebonden",
+          "Getuigen heersen met Christus",
+          "Na duizend jaar: kort losgelaten",
+          "Gog en Magog; de stad omsingeld",
+          "Vuur en oordeel over de duivel",
+          "Witte troon en geopende boeken"
+        ],
+        "note": "De duizend jaar, het korte loslaten en het laatste oordeel volgen de volgorde van het vertelde visioen. Geen berekende kalenderjaren."
+      }
+    }
+  ]
+}
