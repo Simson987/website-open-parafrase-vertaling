@@ -33274,6 +33274,136 @@
           "source": "Openbaring 8:3–5"
         }
       ]
+    },
+    {
+      "book": "openbaring",
+      "chapter": 9,
+      "status": "reviewed",
+      "target_images": 7,
+      "reason": "Rook, vier engelen bij de Eufraat en afgoden zijn aanwezig. Een herkenbaar als visioen aangeduide sprinkhaanverbeelding vult de ontbrekende hoofdscène aan; de leeswijzer en twee schema’s verduidelijken grenzen, namen, duur en het exact gehoorde ruiteraantal.",
+      "additions": [
+        {
+          "verse": 7,
+          "file": "9-7-sprinkhaan-visioen-verdieping.webp",
+          "scene": "Visioen: de sprinkhanen",
+          "kind": "poetic"
+        },
+        {
+          "verse": 1,
+          "file": "9-leeswijzer.svg",
+          "scene": "Vijfde en zesde bazuin",
+          "kind": "diagram",
+          "source": "Openbaring 9:1–21"
+        },
+        {
+          "verse": 4,
+          "file": "9-grenzen-sprinkhanen.svg",
+          "scene": "Grenzen aan hun macht",
+          "kind": "diagram",
+          "source": "Openbaring 9:4–11"
+        },
+        {
+          "verse": 16,
+          "file": "9-ruiters-aantal.svg",
+          "scene": "Het gehoorde aantal",
+          "kind": "diagram",
+          "source": "Openbaring 9:13–19"
+        }
+      ]
+    },
+    {
+      "book": "openbaring",
+      "chapter": 10,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Engel, ontvangst van het boekje en nieuwe profetie zijn aanwezig. Het eten ontbreekt en wordt afzonderlijk als visioen verbeeld. Opbouw en tekstgrenzen worden ontsloten zonder onbekende donderslagen in te vullen.",
+      "additions": [
+        {
+          "verse": 10,
+          "file": "10-10-boekje-eten-verdieping.webp",
+          "scene": "Visioen: Johannes eet het boekje",
+          "kind": "poetic"
+        },
+        {
+          "verse": 1,
+          "file": "10-leeswijzer.svg",
+          "scene": "De engel en het boekje",
+          "kind": "diagram",
+          "source": "Openbaring 10:1–11"
+        },
+        {
+          "verse": 4,
+          "file": "10-boekje-grenzen.svg",
+          "scene": "Wat wel en niet wordt gezegd",
+          "kind": "diagram",
+          "source": "Openbaring 10:4–11"
+        }
+      ]
+    },
+    {
+      "book": "openbaring",
+      "chapter": 11,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "De getuigen, olijfbomen met kandelaars en ark zijn aanwezig. De levende opgang van twee getuigen is een afzonderlijke ontbrekende gebeurtenis; opbouw en precieze tijden en aantallen krijgen leesbare schema’s.",
+      "additions": [
+        {
+          "verse": 12,
+          "file": "11-12-getuigen-omhoog-verdieping.webp",
+          "scene": "De twee getuigen stijgen op",
+          "kind": "poetic"
+        },
+        {
+          "verse": 1,
+          "file": "11-leeswijzer.svg",
+          "scene": "Getuigen en zevende bazuin",
+          "kind": "diagram",
+          "source": "Openbaring 11:1–19"
+        },
+        {
+          "verse": 2,
+          "file": "11-getallen-getuigen.svg",
+          "scene": "Tijden en aantallen",
+          "kind": "diagram",
+          "source": "Openbaring 11:2–13"
+        }
+      ]
+    },
+    {
+      "book": "openbaring",
+      "chapter": 12,
+      "status": "reviewed",
+      "target_images": 7,
+      "reason": "Vrouw met sterren, schuilplaats en arendsvleugels zijn aanwezig. De aarde die de rivier opslokt is een aparte gebeurtenis. Drie schema’s onderscheiden opbouw, exacte tekens en tijdsaanduidingen; de anatomisch samengestelde draak wordt met gecontroleerde kenmerken uitgelegd.",
+      "additions": [
+        {
+          "verse": 16,
+          "file": "12-16-aarde-rivier-verdieping.webp",
+          "scene": "De aarde slokt de rivier op",
+          "kind": "poetic"
+        },
+        {
+          "verse": 1,
+          "file": "12-leeswijzer.svg",
+          "scene": "De vrouw en de draak",
+          "kind": "diagram",
+          "source": "Openbaring 12:1–18"
+        },
+        {
+          "verse": 3,
+          "file": "12-tekens-kenmerken.svg",
+          "scene": "Kenmerken van de tekenen",
+          "kind": "diagram",
+          "source": "Openbaring 12:1–9"
+        },
+        {
+          "verse": 6,
+          "file": "12-bewaring-tijden.svg",
+          "scene": "De vrouw wordt bewaard",
+          "kind": "diagram",
+          "source": "Openbaring 12:6,14–17"
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,379 @@
+{
+  "date": "2026-10-26",
+  "started": "2026-10-26T10:14:43Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "openbaring",
+      "chapter": 9,
+      "verse": 7,
+      "file": "9-7-sprinkhaan-visioen-verdieping.webp",
+      "scene": "Visioen: de sprinkhanen",
+      "alt": "Visioen: de sprinkhanen — Openbaring 9:7; verbeelding van het vertelde visioen.",
+      "kind": "poetic",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. Photorealistic yet explicitly visionary close view of ONE symbolic locust creature described in Revelation 9:7–10, standing on dark volcanic stone in smoke. It is a coherent six-legged winged locust with a small horse-like armored chest, human-like face, long flowing hair, visible small golden crown-like ring, lionlike teeth, and one scorpion-like curved tail with stinger. Keep all six insect legs distinct, two wings only, no human arms, no other creatures or humans, no injury, not a natural species or modern machine.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "openbaring",
+      "chapter": 10,
+      "verse": 10,
+      "file": "10-10-boekje-eten-verdieping.webp",
+      "scene": "Visioen: Johannes eet het boekje",
+      "alt": "Visioen: Johannes eet het boekje — Openbaring 10:10; verbeelding van het vertelde visioen.",
+      "kind": "poetic",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. An elderly Mediterranean John of Patmos in modest opaque brown and cream robes, exactly two arms, holding a small open parchment scroll with both hands and bringing one edge carefully to his mouth, in obedience to an angel offscreen. A visionary symbolic biblical scene, not a normal meal, coastline in background, intimate medium shot, realistic coherent hands and face. No bowls or food, no readable writing.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "openbaring",
+      "chapter": 11,
+      "verse": 12,
+      "file": "11-12-getuigen-omhoog-verdieping.webp",
+      "scene": "De twee getuigen stijgen op",
+      "alt": "De twee getuigen stijgen op — Openbaring 11:12; verbeelding van het vertelde visioen.",
+      "kind": "poetic",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. Explicit visionary scene of Revelation 11:11–12. Exactly TWO Middle Eastern male witnesses in rough opaque sackcloth robes, both alive and standing upright as a luminous cloud lifts them above a stone city street. A few distant onlookers below look upward in awe. Both witnesses have exactly two arms and two legs, complete anatomically coherent hands and feet, no wings, no blood or dead bodies, no portrait of God.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "openbaring",
+      "chapter": 12,
+      "verse": 16,
+      "file": "12-16-aarde-rivier-verdieping.webp",
+      "scene": "De aarde slokt de rivier op",
+      "alt": "De aarde slokt de rivier op — Openbaring 12:16; verbeelding van het vertelde visioen.",
+      "kind": "poetic",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. Explicit visionary scene of Revelation 12:15–16. Wide photorealistic desert landscape, one fully modestly robed Middle Eastern woman sheltered safely on a distant high rocky ledge on the left, only a small figure with two arms. A rushing river across dry land drains into a deep fissure in the earth below and short of her ledge. Emphasize the earth swallowing the river, dramatic natural lighting, not a geographic reconstruction. No dragon visible, no extra people or wings, no modern objects.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "openbaring",
+      "chapter": 9,
+      "verse": 1,
+      "file": "9-leeswijzer.svg",
+      "scene": "Vijfde en zesde bazuin",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 949,
+      "source": "Openbaring 9:1–21",
+      "design": {
+        "rows": [
+          [
+            "1–12 · De vijfde bazuin",
+            "Rook uit de afgrond, sprinkhanen en vijf maanden pijn; het eerste wee gaat voorbij."
+          ],
+          [
+            "13–19 · De zesde bazuin",
+            "Vier engelen bij de Eufraat worden losgemaakt; Johannes hoort het aantal ruiters."
+          ],
+          [
+            "20–21 · Geen bekering",
+            "De overigen houden vast aan afgoderij en hun verkeerde daden."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "openbaring",
+      "chapter": 10,
+      "verse": 1,
+      "file": "10-leeswijzer.svg",
+      "scene": "De engel en het boekje",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 949,
+      "source": "Openbaring 10:1–11",
+      "design": {
+        "rows": [
+          [
+            "1–4 · Engel en zeven donders",
+            "De sterke engel daalt neer. Wat de zeven donders zeggen, mag niet opgeschreven worden."
+          ],
+          [
+            "5–7 · De eed",
+            "Bij het klinken van de zevende bazuin wordt Gods geheim vervuld."
+          ],
+          [
+            "8–11 · Ontvangen, eten, spreken",
+            "Johannes eet het boekje: zoet in de mond, bitter in de maag; hij moet weer profeteren."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "openbaring",
+      "chapter": 11,
+      "verse": 1,
+      "file": "11-leeswijzer.svg",
+      "scene": "Getuigen en zevende bazuin",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "Openbaring 11:1–19",
+      "design": {
+        "rows": [
+          [
+            "1–2 · Meten",
+            "Tempel, altaar en aanbidders worden gemeten; de buitenste voorhof niet."
+          ],
+          [
+            "3–10 · De twee getuigen",
+            "Zij profeteren, worden overwonnen en liggen drie en een halve dag op straat."
+          ],
+          [
+            "11–14 · Leven en opgang",
+            "Zij staan op, gaan in een wolk omhoog; een aardbeving volgt."
+          ],
+          [
+            "15–19 · De zevende bazuin",
+            "Hemelse stemmen, aanbidding door de oudsten en de zichtbare verbondsark."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "openbaring",
+      "chapter": 12,
+      "verse": 1,
+      "file": "12-leeswijzer.svg",
+      "scene": "De vrouw en de draak",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "Openbaring 12:1–18",
+      "design": {
+        "rows": [
+          [
+            "1–6 · Twee tekenen",
+            "Vrouw, kind en draak; het kind wordt weggerukt, de vrouw vlucht."
+          ],
+          [
+            "7–12 · Strijd in de hemel",
+            "Michaël en zijn engelen strijden; de draak wordt neergeworpen."
+          ],
+          [
+            "13–16 · Bewaring van de vrouw",
+            "Twee arendsvleugels, een schuilplaats en de aarde die het water opslokt."
+          ],
+          [
+            "17–18 · De strijd gaat verder",
+            "De draak keert zich tegen het overige nageslacht van de vrouw."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "openbaring",
+      "chapter": 9,
+      "verse": 4,
+      "file": "9-grenzen-sprinkhanen.svg",
+      "scene": "Grenzen aan hun macht",
+      "alt": "Grenzen aan hun macht met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "Openbaring 9:4–11",
+      "design": {
+        "rows": [
+          [
+            "Geen schade aan planten",
+            "Gras, groen gewas en bomen mogen niet getroffen worden."
+          ],
+          [
+            "Wie worden getroffen?",
+            "Mensen zonder het zegel van God op hun voorhoofd."
+          ],
+          [
+            "Duur en grens",
+            "Vijf maanden pijnigen; geen macht om te doden."
+          ],
+          [
+            "Twee namen van hun koning",
+            "De engel van de afgrond: Abaddon in het Hebreeuws, Apollyon in het Grieks."
+          ]
+        ],
+        "note": "Dit beschrijft het visioen; geen identificatie met een hedendaags volk of wapen."
+      }
+    },
+    {
+      "book": "openbaring",
+      "chapter": 9,
+      "verse": 16,
+      "file": "9-ruiters-aantal.svg",
+      "scene": "Het gehoorde aantal",
+      "alt": "Het gehoorde aantal met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1019,
+      "source": "Openbaring 9:13–19",
+      "design": {
+        "rows": [
+          [
+            "Vier engelen",
+            "Gebonden bij de grote Eufraat; gereed voor uur, dag, maand en jaar."
+          ],
+          [
+            "Het aantal ruiters",
+            "20.000 × 10.000 = 200.000.000. Johannes zegt dat hij het aantal hoorde."
+          ],
+          [
+            "Drie plagen",
+            "Vuur, rook en zwavel uit de mond van de paarden."
+          ],
+          [
+            "Het getroffen deel",
+            "Door deze drie plagen sterft een derde van de mensen."
+          ]
+        ],
+        "note": "De aantallen horen bij de vertelde visioenscène."
+      }
+    },
+    {
+      "book": "openbaring",
+      "chapter": 10,
+      "verse": 4,
+      "file": "10-boekje-grenzen.svg",
+      "scene": "Wat wel en niet wordt gezegd",
+      "alt": "Wat wel en niet wordt gezegd met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "Openbaring 10:4–11",
+      "design": {
+        "rows": [
+          [
+            "Niet opschrijven · vers 4",
+            "Wat de zeven donderslagen spraken, moet verzegeld blijven."
+          ],
+          [
+            "Wel ontvangen · vers 8–9",
+            "Het open boekje wordt aan Johannes gegeven om te eten."
+          ],
+          [
+            "Twee ervaringen · vers 10",
+            "Zoet als honing in de mond; bitter in de maag."
+          ],
+          [
+            "Nieuwe opdracht · vers 11",
+            "Opnieuw profeteren over volken, naties, talen en koningen."
+          ]
+        ],
+        "note": "De inhoud van de verzegelde donderslagen wordt hier niet ingevuld."
+      }
+    },
+    {
+      "book": "openbaring",
+      "chapter": 11,
+      "verse": 2,
+      "file": "11-getallen-getuigen.svg",
+      "scene": "Tijden en aantallen",
+      "alt": "Tijden en aantallen met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1012,
+      "source": "Openbaring 11:2–13",
+      "design": {
+        "rows": [
+          [
+            "42 maanden · vers 2",
+            "De volken vertrappen de heilige stad."
+          ],
+          [
+            "1260 dagen · vers 3",
+            "De twee getuigen profeteren in rouwkleren."
+          ],
+          [
+            "3½ dag · vers 9–11",
+            "Hun lichamen blijven liggen; daarna gaan zij weer staan."
+          ],
+          [
+            "Aardbeving · vers 13",
+            "Een tiende van de stad stort in; zevenduizend mensen sterven."
+          ]
+        ],
+        "note": "De tekstgegevens worden weergegeven zonder ze naar moderne jaartallen om te rekenen."
+      }
+    },
+    {
+      "book": "openbaring",
+      "chapter": 12,
+      "verse": 3,
+      "file": "12-tekens-kenmerken.svg",
+      "scene": "Kenmerken van de tekenen",
+      "alt": "Kenmerken van de tekenen met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "Openbaring 12:1–9",
+      "design": {
+        "rows": [
+          [
+            "De vrouw · vers 1",
+            "Bekleed met de zon; maan onder de voeten; krans van twaalf sterren."
+          ],
+          [
+            "De rode draak · vers 3",
+            "Zeven koppen, tien horens en zeven kronen op de koppen."
+          ],
+          [
+            "Het kind · vers 5",
+            "Een zoon die de volken met een ijzeren staf zal hoeden; weggerukt naar God."
+          ],
+          [
+            "De draak benoemd · vers 9",
+            "De oude slang, duivel en satan, die de hele wereld misleidt."
+          ]
+        ],
+        "note": "Kenmerken en benamingen volgen het visioen zelf; geen extra historische identificatie."
+      }
+    },
+    {
+      "book": "openbaring",
+      "chapter": 12,
+      "verse": 6,
+      "file": "12-bewaring-tijden.svg",
+      "scene": "De vrouw wordt bewaard",
+      "alt": "De vrouw wordt bewaard met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "Openbaring 12:6,14–17",
+      "design": {
+        "rows": [
+          [
+            "Eerste tijdsaanduiding · vers 6",
+            "In de woestijn wordt zij 1260 dagen gevoed."
+          ],
+          [
+            "Tweede tijdsaanduiding · vers 14",
+            "Een tijd en tijden en een halve tijd, buiten het zicht van de slang."
+          ],
+          [
+            "De rivier · vers 15–16",
+            "De slang spuwt water; de aarde slokt het op."
+          ],
+          [
+            "Het overige nageslacht · vers 17",
+            "Bewaart Gods geboden en heeft het getuigenis van Jezus."
+          ]
+        ],
+        "note": "Beide tijdsaanduidingen blijven in de woorden van dit hoofdstuk staan."
+      }
+    }
+  ]
+}
