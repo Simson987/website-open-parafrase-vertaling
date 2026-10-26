@@ -1,0 +1,474 @@
+{
+  "date": "2026-10-25",
+  "started": "2026-10-25T11:55:44Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "1korinthiers",
+      "chapter": 9,
+      "verse": 9,
+      "file": "9-9-os-dorst-verdieping.webp",
+      "scene": "Vergelijking: de dorsende os",
+      "alt": "Vergelijking: de dorsende os — 1 Korinthiërs 9:9; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. Illustrate the scriptural comparison quoted in 1 Corinthians 9:9–10: an ox treading grain on an ancient open-air threshing floor. One healthy anatomically correct ox with four legs walks across sheaves on the circular earthen threshing surface. Its mouth is free with no muzzle, it may eat some grain. A modestly clothed adult farm worker stands safely to one side. No plough, no modern machine, no yoke pulling machinery, no whip or injury. The ox illustrates the quoted teaching about a worker sharing in the harvest; not a new event in Paul’s life.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "1korinthiers",
+      "chapter": 10,
+      "verse": 17,
+      "file": "10-17-een-brood-verdieping.webp",
+      "scene": "Lesbeeld: velen delen één brood",
+      "alt": "Lesbeeld: velen delen één brood — 1 Korinthiërs 10:17; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. Illustrate 1 Corinthians 10:16–17, one loaf shared by many as a sign of one body. A simple first-century household gathering of five adult believers around a low wooden table, central adult man gently breaks one large single round loaf into portions, other adults reach only with clearly distinct hands. One plain cup on the table. Quiet worship, not a reconstruction of the Last Supper, no Jesus portrait and no modern chalice. Focus on the single loaf and sharing.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "1korinthiers",
+      "chapter": 10,
+      "verse": 25,
+      "file": "10-25-markt-eten-verdieping.webp",
+      "scene": "Lesbeeld: eten kopen op de markt",
+      "alt": "Lesbeeld: eten kopen op de markt — 1 Korinthiërs 10:25; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. Illustrate the practical example of 1 Corinthians 10:25: an ordinary adult believer purchases food from a first-century market stall without interrogating the seller about its origin. A seller with a small selection of cooked meat and vegetables on pottery trays, a modestly dressed buyer paying a few coins. No blood, carcass, sacrifice, idol worship or modern signage. Roman Mediterranean town market, exactly two main adults, simple clear hands. This is a teaching example, not a named historical episode.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "1korinthiers",
+      "chapter": 6,
+      "verse": 1,
+      "file": "6-leeswijzer.svg",
+      "scene": "Recht, vrijheid en het lichaam",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "1 Korinthiërs 6:1–20",
+      "design": {
+        "rows": [
+          [
+            "1–8 · Onderlinge geschillen",
+            "Rechtszaken tegen elkaar zijn al een nederlaag."
+          ],
+          [
+            "9–11 · Een veranderd bestaan",
+            "Schoongewassen, geheiligd en rechtvaardig verklaard."
+          ],
+          [
+            "12–17 · Vrijheid en verbondenheid",
+            "Niet alles is nuttig; het lichaam hoort bij Christus."
+          ],
+          [
+            "18–20 · Eer God met je lichaam",
+            "Vlucht van ontucht; de Geest woont in jullie."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "1korinthiers",
+      "chapter": 7,
+      "verse": 1,
+      "file": "7-leeswijzer.svg",
+      "scene": "Roeping, huwelijk en toewijding",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "1 Korinthiërs 7:1–40",
+      "design": {
+        "rows": [
+          [
+            "1–16 · Huwelijk en vrede",
+            "Wederkerigheid, afspraken en verschillende situaties."
+          ],
+          [
+            "17–24 · Blijf bij God",
+            "Roeping, besnijdenis, slavernij en vrijheid."
+          ],
+          [
+            "25–35 · De nood en de korte tijd",
+            "Paulus licht zijn mening en bedoeling toe."
+          ],
+          [
+            "36–40 · Trouwen of blijven",
+            "Verloofden en weduwen; onderscheid tussen vrijheid en raad."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "1korinthiers",
+      "chapter": 8,
+      "verse": 1,
+      "file": "8-leeswijzer.svg",
+      "scene": "Kennis, vrijheid en liefde",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1012,
+      "source": "1 Korinthiërs 8:1–13",
+      "design": {
+        "rows": [
+          [
+            "1–3 · Liefde bouwt op",
+            "Kennis kan opgeblazen maken; God kent wie Hem liefheeft."
+          ],
+          [
+            "4–6 · Eén God en één Heere",
+            "Een afgod stelt niets voor."
+          ],
+          [
+            "7–10 · Niet hetzelfde geweten",
+            "Vrijheid kan voor een ander een struikelblok worden."
+          ],
+          [
+            "11–13 · De broeder ontzien",
+            "Zondigen tegen hem raakt Christus; daarom afzien van vlees."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "1korinthiers",
+      "chapter": 9,
+      "verse": 1,
+      "file": "9-leeswijzer.svg",
+      "scene": "Recht, dienstbaarheid en de prijs",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1012,
+      "source": "1 Korinthiërs 9:1–27",
+      "design": {
+        "rows": [
+          [
+            "1–6 · Apostelschap en rechten",
+            "Paulus verdedigt zijn dienst en het recht op onderhoud."
+          ],
+          [
+            "7–14 · Vergelijkingen en Schrift",
+            "Arbeid en het delen in de opbrengst."
+          ],
+          [
+            "15–23 · Vrijwillig afzien",
+            "Het evangelie gratis brengen en allen dienen."
+          ],
+          [
+            "24–27 · Beheerst lopen",
+            "Wedstrijd en boksen als beeld voor doelgericht leven."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "1korinthiers",
+      "chapter": 10,
+      "verse": 1,
+      "file": "10-leeswijzer.svg",
+      "scene": "Voorbeelden en geweten",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "1 Korinthiërs 10:1–33",
+      "design": {
+        "rows": [
+          [
+            "1–13 · De woestijn als waarschuwing",
+            "Voorbeelden voor ons; God blijft trouw in beproeving."
+          ],
+          [
+            "14–22 · Eén tafel",
+            "Vlucht van afgoderij; gemeenschap in beker en brood."
+          ],
+          [
+            "23–30 · Het belang van de ander",
+            "Markt, maaltijd en geweten vragen om onderscheid."
+          ],
+          [
+            "31–33 · Tot eer van God",
+            "Zoek het voordeel van velen, zodat zij gered worden."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "1korinthiers",
+      "chapter": 6,
+      "verse": 12,
+      "file": "6-vrijheid-vragen.svg",
+      "scene": "Twee vragen bij vrijheid",
+      "alt": "Twee vragen bij vrijheid met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "1 Korinthiërs 6:12–14, 19–20",
+      "design": {
+        "rows": [
+          [
+            "Is het nuttig?",
+            "Niet alles wat toegestaan is, is nuttig."
+          ],
+          [
+            "Gaat het mij overheersen?",
+            "Paulus wil zich door niets laten beheersen."
+          ],
+          [
+            "Van wie is het lichaam?",
+            "Het hoort bij de Heere en is een tempel van de Geest."
+          ],
+          [
+            "De aansporing",
+            "Eer God met je lichaam; jullie zijn duur gekocht."
+          ]
+        ],
+        "note": "De vragen volgen Paulus’ eigen woorden in het hoofdstuk."
+      }
+    },
+    {
+      "book": "1korinthiers",
+      "chapter": 7,
+      "verse": 6,
+      "file": "7-bevel-en-mening.svg",
+      "scene": "Bevel, toestemming en mening",
+      "alt": "Bevel, toestemming en mening met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "1 Korinthiërs 7:6–10, 12, 25, 35, 40",
+      "design": {
+        "rows": [
+          [
+            "Vers 6 · Toestemming",
+            "Paulus noemt dit toestemming, geen bevel."
+          ],
+          [
+            "Vers 10 · De Heere",
+            "Bij de getrouwden noemt hij een gebod van de Heere."
+          ],
+          [
+            "Vers 12 en 25 · Paulus",
+            "Hij onderscheidt zijn woorden en zijn betrouwbare mening."
+          ],
+          [
+            "Vers 35 en 40 · Zijn bedoeling",
+            "Helpen zonder vast te binden; advies over blijven."
+          ]
+        ],
+        "note": "De aanduidingen bewaren de verschillen die Paulus in de brief zelf maakt."
+      }
+    },
+    {
+      "book": "1korinthiers",
+      "chapter": 7,
+      "verse": 12,
+      "file": "7-verschillende-situaties.svg",
+      "scene": "Verschillende huwelijkssituaties",
+      "alt": "Verschillende huwelijkssituaties met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1091,
+      "source": "1 Korinthiërs 7:10–16, 36–40",
+      "design": {
+        "rows": [
+          [
+            "Getrouwd · vers 10–11",
+            "Geen scheiding zoeken; bij scheiding ongetrouwd of verzoend."
+          ],
+          [
+            "Ongelovige partner · vers 12–16",
+            "Blijven als die wil blijven; bij vertrek geldt de genoemde uitzondering."
+          ],
+          [
+            "Verloofd · vers 36–38",
+            "Trouwen is geen zonde; blijven kan zonder dwang."
+          ],
+          [
+            "Weduwe · vers 39–40",
+            "Vrij om in de Heere te trouwen; Paulus geeft ook zijn mening."
+          ]
+        ],
+        "note": "Dit ordent de besproken gevallen en verwijst naar de volledige nuances van de genoemde verzen."
+      }
+    },
+    {
+      "book": "1korinthiers",
+      "chapter": 8,
+      "verse": 7,
+      "file": "8-geweten-gevolg.svg",
+      "scene": "Vrijheid en het geweten",
+      "alt": "Vrijheid en het geweten met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "1 Korinthiërs 8:7–13",
+      "design": {
+        "rows": [
+          [
+            "De kennis",
+            "Niet iedereen heeft hetzelfde inzicht over offervlees."
+          ],
+          [
+            "Het voorbeeld",
+            "Iemand ziet een ander aanliggen in een afgodstempel."
+          ],
+          [
+            "Het gevaar",
+            "Zijn zwakke geweten wordt aangemoedigd tegen zijn overtuiging."
+          ],
+          [
+            "De reactie van Paulus",
+            "Laat de ander niet struikelen; liever geen vlees meer."
+          ]
+        ],
+        "note": "Het voorbeeld is voorwaardelijk en geen verslag van een concrete maaltijd in Korinthe."
+      }
+    },
+    {
+      "book": "1korinthiers",
+      "chapter": 9,
+      "verse": 7,
+      "file": "9-arbeid-voorbeelden.svg",
+      "scene": "Delen in de opbrengst",
+      "alt": "Delen in de opbrengst met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1012,
+      "source": "1 Korinthiërs 9:7–14",
+      "design": {
+        "rows": [
+          [
+            "Soldaat, wijnbouwer en herder",
+            "Kosten, vruchten en melk horen bij hun werk."
+          ],
+          [
+            "De dorsende os",
+            "Mag volgens de wet geen muilkorf dragen."
+          ],
+          [
+            "Ploegen en dorsen",
+            "Gebeurt in de hoop op een eigen deel."
+          ],
+          [
+            "De gevolgtrekking",
+            "Wie het evangelie verkondigt, mag ervan leven."
+          ]
+        ],
+        "note": "Paulus verdedigt een recht waarvan hij zelf vervolgens afziet."
+      }
+    },
+    {
+      "book": "1korinthiers",
+      "chapter": 9,
+      "verse": 15,
+      "file": "9-recht-en-keuze.svg",
+      "scene": "Een recht en een eigen keuze",
+      "alt": "Een recht en een eigen keuze met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1012,
+      "source": "1 Korinthiërs 9:12–23",
+      "design": {
+        "rows": [
+          [
+            "Het recht",
+            "Onderhoud ontvangen bij de verkondiging."
+          ],
+          [
+            "Paulus’ keuze",
+            "Van dat recht geen gebruik maken en gratis verkondigen."
+          ],
+          [
+            "Zijn bedoeling",
+            "Het evangelie niet in de weg staan."
+          ],
+          [
+            "Zijn dienstbaarheid",
+            "Vrij van allen, en toch dienaar van allen om mensen te winnen."
+          ]
+        ],
+        "note": "Recht en vrijwillig afzien blijven beide onderdeel van zijn betoog."
+      }
+    },
+    {
+      "book": "1korinthiers",
+      "chapter": 10,
+      "verse": 25,
+      "file": "10-maaltijd-geweten.svg",
+      "scene": "Markt, maaltijd en geweten",
+      "alt": "Markt, maaltijd en geweten met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1091,
+      "source": "1 Korinthiërs 10:23–30",
+      "design": {
+        "rows": [
+          [
+            "Het uitgangspunt · vers 23–24",
+            "Niet alles bouwt op; zoek het belang van de ander."
+          ],
+          [
+            "Op de markt · vers 25–26",
+            "Eet zonder onderzoek naar de herkomst om je geweten."
+          ],
+          [
+            "Op uitnodiging · vers 27",
+            "Als je gaat, eet wat wordt voorgezet zonder onderzoek."
+          ],
+          [
+            "Bij de melding offervlees · vers 28–29",
+            "Eet dan niet, om de ander en diens geweten."
+          ]
+        ],
+        "note": "Deze gevallen worden in het hoofdstuk uitdrukkelijk van afgodische tafelgemeenschap onderscheiden."
+      }
+    },
+    {
+      "book": "1korinthiers",
+      "chapter": 10,
+      "verse": 6,
+      "file": "10-woestijn-waarschuwingen.svg",
+      "scene": "De genoemde waarschuwingen",
+      "alt": "De genoemde waarschuwingen met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1005,
+      "source": "1 Korinthiërs 10:6–12",
+      "design": {
+        "rows": [
+          [
+            "Geen afgodendienst · vers 7",
+            "Het aangehaalde eten, drinken en dansen."
+          ],
+          [
+            "Geen ontucht · vers 8",
+            "De tekst noemt 23.000 doden op één dag."
+          ],
+          [
+            "Christus niet uitdagen · vers 9",
+            "Paulus noemt het omkomen door slangen."
+          ],
+          [
+            "Niet mopperen · vers 10–12",
+            "De voorbeelden waarschuwen wie denkt vast te staan."
+          ]
+        ],
+        "note": "De getallen en voorbeelden volgen deze plaatselijke tekst; geen afbeelding van slachtoffers nodig."
+      }
+    }
+  ]
+}
