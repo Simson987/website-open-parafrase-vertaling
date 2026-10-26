@@ -1,0 +1,186 @@
+{
+  "date": "2026-10-26",
+  "started": "2026-10-26T08:13:55Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "judas",
+      "chapter": 1,
+      "verse": 12,
+      "file": "1-12-ontwortelde-bomen-verdieping.webp",
+      "scene": "Vergelijking: bomen zonder vrucht",
+      "alt": "Vergelijking: bomen zonder vrucht — Judas 1:12; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. Jude 1:12 compares corrupt teachers to fruitless late-autumn trees, twice dead and uprooted. Photorealistic symbolic landscape of two leafless dead orchard trees toppled with exposed roots on dry ground under a restless autumn sky, no fruit on branches, no people or animals hurt. Restrained natural light, no faces in bark, supernatural monster or text. Clear botanical metaphor, distinct from the existing human study and mercy images.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "judas",
+      "chapter": 1,
+      "verse": 12,
+      "file": "1-12-wolken-zonder-water-verdieping.webp",
+      "scene": "Vergelijking: wolken zonder water",
+      "alt": "Vergelijking: wolken zonder water — Judas 1:12; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. Jude 1:12 describes clouds without water carried along by the wind. Photorealistic symbolic landscape of fast-moving streaks of cloud crossing an ancient dry farmland sky, dusty parched soil below receiving no rain. No raindrops, lightning disaster, people in danger, modern structures or writing. Emphasize the promise of clouds but unwatered dry ground; metaphor illustration rather than a recorded drought event.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "judas",
+      "chapter": 1,
+      "verse": 1,
+      "file": "1-leeswijzer.svg",
+      "scene": "Bewaren en je ontfermen",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "Judas 1:1–25",
+      "design": {
+        "rows": [
+          [
+            "1–4 · Groet en aanleiding",
+            "Strijden voor het overgeleverde geloof; binnengeslopen misleiding."
+          ],
+          [
+            "5–11 · Eerdere voorbeelden",
+            "Ongeloof, engelen, steden, Michaël en drie genoemde dwaalwegen."
+          ],
+          [
+            "12–19 · Beelden en profetie",
+            "Vruchteloosheid, Henoch en de aangekondigde spotters."
+          ],
+          [
+            "20–25 · Geloof en barmhartigheid",
+            "Opbouwen, bidden, ontfermen en Gods bewaring."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "judas",
+      "chapter": 1,
+      "verse": 9,
+      "file": "1-michael-woord.svg",
+      "scene": "Michaël en het oordeel",
+      "alt": "Michaël en het oordeel met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 969,
+      "source": "Judas 1:8–10",
+      "design": {
+        "rows": [
+          [
+            "Het contrast",
+            "De misleiders lasteren de hemelse machten."
+          ],
+          [
+            "De twist",
+            "Michaël en de duivel twisten over het lichaam van Mozes."
+          ],
+          [
+            "Michaëls terughoudendheid",
+            "Hij spreekt geen lasterend oordeel uit."
+          ],
+          [
+            "Zijn woorden",
+            "De Heere zal je bestraffen."
+          ]
+        ],
+        "note": "Het voorbeeld onderbouwt de waarschuwing tegen lasteren wat men niet kent."
+      }
+    },
+    {
+      "book": "judas",
+      "chapter": 1,
+      "verse": 11,
+      "file": "1-drie-wegen.svg",
+      "scene": "Drie genoemde dwaalwegen",
+      "alt": "Drie genoemde dwaalwegen met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 734,
+      "source": "Judas 1:11",
+      "design": {
+        "rows": [
+          [
+            "Kaïn",
+            "Zijn weg gaan."
+          ],
+          [
+            "Bileam",
+            "Voor geld in zijn dwaling terechtkomen."
+          ],
+          [
+            "Korach",
+            "Door zijn verzet omkomen."
+          ]
+        ],
+        "note": "De brief brengt deze drie namen bijeen als waarschuwing."
+      }
+    },
+    {
+      "book": "judas",
+      "chapter": 1,
+      "verse": 20,
+      "file": "1-barmhartigheid.svg",
+      "scene": "Opbouwen en je ontfermen",
+      "alt": "Opbouwen en je ontfermen met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1012,
+      "source": "Judas 1:20–24",
+      "design": {
+        "rows": [
+          [
+            "Zelf · vers 20–21",
+            "Opbouwen in geloof, bidden en in Gods liefde blijven."
+          ],
+          [
+            "Twijfelaars · vers 22",
+            "Je over hen ontfermen."
+          ],
+          [
+            "Anderen · vers 23",
+            "Redden als uit vuur; barmhartig zijn met ontzag."
+          ],
+          [
+            "Gods bewaring · vers 24",
+            "Hij kan voor struikelen bewaren en met vreugde voor Zich stellen."
+          ]
+        ],
+        "note": "Het vuurbeeld en de ontferming horen bij de oproep om mensen te helpen."
+      }
+    },
+    {
+      "book": "judas",
+      "chapter": 1,
+      "verse": 14,
+      "file": "1-henoch-afstamming.svg",
+      "scene": "Henoch: de zevende",
+      "alt": "Henoch: de zevende — Judas 1:14 · Genesis 5:3–18",
+      "kind": "diagram",
+      "width": 840,
+      "height": 848,
+      "source": "Judas 1:14 · Genesis 5:3–18",
+      "design": {
+        "type": "vertical named sequence",
+        "names": [
+          "1 · Adam",
+          "2 · Seth",
+          "3 · Enos",
+          "4 · Kenan",
+          "5 · Mahalal-el",
+          "6 · Jered",
+          "7 · Henoch"
+        ],
+        "note": "De pijlen geven vader naar zoon weer. Adam is in deze telling de eerste; namen volgen Genesis 5."
+      }
+    }
+  ]
+}
