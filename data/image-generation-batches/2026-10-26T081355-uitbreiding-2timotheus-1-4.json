@@ -1,0 +1,319 @@
+{
+  "date": "2026-10-26",
+  "started": "2026-10-26T08:13:55Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "2timotheus",
+      "chapter": 2,
+      "verse": 3,
+      "file": "2-3-soldaat-verdieping.webp",
+      "scene": "Vergelijking: de goede soldaat",
+      "alt": "Vergelijking: de goede soldaat — 2 Timotheüs 2:3; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. 2 Timothy 2:3–4 compares enduring hardship to a good soldier focused on pleasing his commander. A metaphor illustration, not Paul or Timothy literally joining an army: a single first-century Roman soldier standing attentive before his commander at a simple camp, subdued historical mail shirt, tunics covering legs to knees, helmet under one arm, no fighting, blood, weapon raised, modern insignia or readable writing. Two adult men clearly spaced, coherent limbs, quiet discipline.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2timotheus",
+      "chapter": 2,
+      "verse": 5,
+      "file": "2-5-atleet-verdieping.webp",
+      "scene": "Vergelijking: strijden volgens de regels",
+      "alt": "Vergelijking: strijden volgens de regels — 2 Timotheüs 2:5; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. 2 Timothy 2:5 compares faithful service to an athlete who must compete according to the rules to receive the wreath. A respectful first-century Greek stadium training illustration: one adult runner in a fully covering modest linen exercise tunic on a dusty track, one official in a plain robe beside a table holding a simple leafy wreath. Natural stride, two arms two legs each, no nudity, no modern track markings, lettering or equipment. It depicts the comparison, not Timothy literally winning a named race.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2timotheus",
+      "chapter": 4,
+      "verse": 16,
+      "file": "4-16-verdediging-verdieping.webp",
+      "scene": "Paulus bij zijn eerste verdediging",
+      "alt": "Paulus bij zijn eerste verdediging — 2 Timotheüs 4:16; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. 2 Timothy 4:16–17 recalls Paul’s first defence when no supporters stood beside him, yet the Lord strengthened him and the message was proclaimed. Mature Paul alone on the speaking floor in a restrained first-century Roman hearing room, calmly addressing two seated officials at a distance. No human supporters beside him, no visible apparition of God or Jesus, no literal lion, no violence or dramatic shackles pulled. Three adult people, coherent hands, historical stone and plaster room. Serious courage amid abandonment.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2timotheus",
+      "chapter": 1,
+      "verse": 1,
+      "file": "1-leeswijzer.svg",
+      "scene": "Geloof, gave en trouw",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 863,
+      "source": "2 Timotheüs 1:1–18",
+      "design": {
+        "rows": [
+          [
+            "1–7 · Herinnering en gave",
+            "Paulus’ gebed, het familiegeloof en kracht, liefde en bezonnenheid."
+          ],
+          [
+            "8–14 · Zonder schaamte",
+            "Lijden, genade, gezonde woorden en het toevertrouwde bewaren."
+          ],
+          [
+            "15–18 · Afkeer en hulp",
+            "Asia keert zich af; Onesiforus zoekt en bemoedigt Paulus."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "2timotheus",
+      "chapter": 2,
+      "verse": 1,
+      "file": "2-leeswijzer.svg",
+      "scene": "Doorgeven en trouw dienen",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "2 Timotheüs 2:1–26",
+      "design": {
+        "rows": [
+          [
+            "1–7 · Onderwijs en drie beelden",
+            "Betrouwbare mensen; soldaat, atleet en boer."
+          ],
+          [
+            "8–13 · Christus en volharding",
+            "Opgewekt uit de doden; Gods Woord is niet geketend."
+          ],
+          [
+            "14–19 · Waarheid recht uitleggen",
+            "Geen woordenstrijd en geen vervalsing van de opstanding."
+          ],
+          [
+            "20–26 · Bruikbaar en zachtmoedig",
+            "Voorwerpen, een zuiver hart en geduldig onderwijs."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "2timotheus",
+      "chapter": 3,
+      "verse": 1,
+      "file": "3-leeswijzer.svg",
+      "scene": "Tijden, voorbeeld en Schrift",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 863,
+      "source": "2 Timotheüs 3:1–17",
+      "design": {
+        "rows": [
+          [
+            "1–9 · Schijn en verzet",
+            "Slechte eigenschappen, misleiding en verzet tegen de waarheid."
+          ],
+          [
+            "10–13 · Paulus’ voorbeeld",
+            "Leer, levenswandel, liefde en volharding ondanks vervolging."
+          ],
+          [
+            "14–17 · Blijven bij de Schrift",
+            "Van kinds af geleerd; toegerust voor elk goed werk."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "2timotheus",
+      "chapter": 4,
+      "verse": 1,
+      "file": "4-leeswijzer.svg",
+      "scene": "De loop en de laatste verzoeken",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1012,
+      "source": "2 Timotheüs 4:1–22",
+      "design": {
+        "rows": [
+          [
+            "1–5 · Maak je dienst af",
+            "Het Woord verkondigen met geduld en nuchterheid."
+          ],
+          [
+            "6–8 · De loop volbracht",
+            "Strijd, geloof en de beloofde krans."
+          ],
+          [
+            "9–15 · Mensen en spullen",
+            "Reizen, Markus, Tychikus, mantel en perkamenten."
+          ],
+          [
+            "16–22 · Verdediging en groeten",
+            "Verlaten, maar gesterkt; groeten en vóór de winter komen."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "2timotheus",
+      "chapter": 1,
+      "verse": 5,
+      "file": "1-geloof-familie.svg",
+      "scene": "Drie namen bij het geloof",
+      "alt": "Drie namen bij het geloof met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 863,
+      "source": "2 Timotheüs 1:5",
+      "design": {
+        "rows": [
+          [
+            "Loïs",
+            "De grootmoeder van Timotheüs; oprecht geloof woonde in haar."
+          ],
+          [
+            "Eunice",
+            "De moeder van Timotheüs; ook in haar woonde dit geloof."
+          ],
+          [
+            "Timotheüs",
+            "Paulus is ervan overtuigd dat het geloof ook in hem woont."
+          ]
+        ],
+        "note": "De familierollen volgen precies de relaties die dit vers noemt."
+      }
+    },
+    {
+      "book": "2timotheus",
+      "chapter": 2,
+      "verse": 3,
+      "file": "2-drie-vergelijkingen.svg",
+      "scene": "Soldaat, atleet en boer",
+      "alt": "Soldaat, atleet en boer met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1012,
+      "source": "2 Timotheüs 2:3–7",
+      "design": {
+        "rows": [
+          [
+            "Soldaat · vers 3–4",
+            "Lijdt mee en wil zijn bevelhebber behagen."
+          ],
+          [
+            "Atleet · vers 5",
+            "Ontvangt de krans als hij volgens de regels strijdt."
+          ],
+          [
+            "Boer · vers 6",
+            "Werkt hard en krijgt als eerste van de vruchten."
+          ],
+          [
+            "Nadenken · vers 7",
+            "De Heere zal inzicht geven."
+          ]
+        ],
+        "note": "Het zijn drie vergelijkingen voor de dienst, geen drie beroepen van Timotheüs."
+      }
+    },
+    {
+      "book": "2timotheus",
+      "chapter": 3,
+      "verse": 16,
+      "file": "3-schrift-nut.svg",
+      "scene": "Waartoe de Schrift toerust",
+      "alt": "Waartoe de Schrift toerust met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 926,
+      "source": "2 Timotheüs 3:14–17",
+      "design": {
+        "rows": [
+          [
+            "Onderwijzen",
+            "De waarheid leren."
+          ],
+          [
+            "Weerleggen",
+            "Het onjuiste aan het licht brengen."
+          ],
+          [
+            "Verbeteren",
+            "Weer op de goede weg helpen."
+          ],
+          [
+            "Opvoeden",
+            "Oefenen in de gerechtigheid voor elk goed werk."
+          ]
+        ],
+        "note": "De vier functies staan in vers 16; het doel staat in vers 17."
+      }
+    },
+    {
+      "book": "2timotheus",
+      "chapter": 4,
+      "verse": 10,
+      "file": "4-reizen.svg",
+      "scene": "Wie gaat waarheen?",
+      "alt": "Wie gaat waarheen? met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1012,
+      "source": "2 Timotheüs 4:9–21",
+      "design": {
+        "rows": [
+          [
+            "Demas, Krescens en Titus",
+            "Naar Tessalonica, Galatië en Dalmatië."
+          ],
+          [
+            "Tychikus en Markus",
+            "Tychikus is naar Efeze gestuurd; Markus moet meekomen."
+          ],
+          [
+            "Karpus in Troas",
+            "Daar zijn de reismantel, boeken en vooral perkamenten."
+          ],
+          [
+            "Erastus en Trofimus",
+            "Erastus bleef in Korinthe; Trofimus bleef ziek achter in Milete."
+          ]
+        ],
+        "note": "Paulus vraagt Timotheüs snel, vóór de winter, te komen; alleen Lukas is bij hem."
+      }
+    },
+    {
+      "book": "2timotheus",
+      "chapter": 2,
+      "verse": 2,
+      "file": "2-onderwijs-keten.svg",
+      "scene": "Het onderwijs doorgeven",
+      "alt": "Het onderwijs doorgeven — 2 Timotheüs 2:2",
+      "kind": "diagram",
+      "width": 840,
+      "height": 608,
+      "source": "2 Timotheüs 2:2",
+      "design": {
+        "type": "vertical named sequence",
+        "names": [
+          "Paulus · veel getuigen",
+          "Timotheüs",
+          "Betrouwbare mensen",
+          "Ook anderen onderwijzen"
+        ],
+        "note": "De pijlen geven de overdracht van het onderwijs weer."
+      }
+    }
+  ]
+}

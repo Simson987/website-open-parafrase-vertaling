@@ -31711,6 +31711,123 @@
           "source": "1 Timotheüs 3:8–13"
         }
       ]
+    },
+    {
+      "book": "2timotheus",
+      "chapter": 2,
+      "status": "reviewed",
+      "target_images": 8,
+      "reason": "Onderwijsoverdracht, boer en zachtmoedigheid zijn aanwezig. Soldaat en atleet zijn twee afzonderlijke vergelijkingen en krijgen eigen als vergelijking gemarkeerde beelden. Leeswijzer, schema van de drie beelden en de onderwijsketen maken de verbanden leesbaar.",
+      "additions": [
+        {
+          "verse": 3,
+          "file": "2-3-soldaat-verdieping.webp",
+          "scene": "Vergelijking: de goede soldaat",
+          "kind": "poetic"
+        },
+        {
+          "verse": 5,
+          "file": "2-5-atleet-verdieping.webp",
+          "scene": "Vergelijking: strijden volgens de regels",
+          "kind": "poetic"
+        },
+        {
+          "verse": 1,
+          "file": "2-leeswijzer.svg",
+          "scene": "Doorgeven en trouw dienen",
+          "kind": "diagram",
+          "source": "2 Timotheüs 2:1–26"
+        },
+        {
+          "verse": 3,
+          "file": "2-drie-vergelijkingen.svg",
+          "scene": "Soldaat, atleet en boer",
+          "kind": "diagram",
+          "source": "2 Timotheüs 2:3–7"
+        },
+        {
+          "verse": 2,
+          "file": "2-onderwijs-keten.svg",
+          "scene": "Het onderwijs doorgeven",
+          "kind": "diagram",
+          "source": "2 Timotheüs 2:2"
+        }
+      ]
+    },
+    {
+      "book": "2timotheus",
+      "chapter": 4,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Voltooide loop, verkondiging en gevraagde spullen zijn aanwezig. De eerste verdediging zonder helpers is een aparte terugblik en krijgt een beeld. Leeswijzer en personen-bestemmingenoverzicht houden de vele slotnamen en reisverzoeken uit elkaar.",
+      "additions": [
+        {
+          "verse": 16,
+          "file": "4-16-verdediging-verdieping.webp",
+          "scene": "Paulus bij zijn eerste verdediging",
+          "kind": "scene"
+        },
+        {
+          "verse": 1,
+          "file": "4-leeswijzer.svg",
+          "scene": "De loop en de laatste verzoeken",
+          "kind": "diagram",
+          "source": "2 Timotheüs 4:1–22"
+        },
+        {
+          "verse": 10,
+          "file": "4-reizen.svg",
+          "scene": "Wie gaat waarheen?",
+          "kind": "diagram",
+          "source": "2 Timotheüs 4:9–21"
+        }
+      ]
+    },
+    {
+      "book": "2timotheus",
+      "chapter": 1,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Het familiegeloof, de gave van kracht en de hulp van Onesiforus zijn aanwezig. Leeswijzer en expliciete familierollen voegen inzicht toe; geen extra vrijwel gelijke gevangenisontmoeting.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "1-leeswijzer.svg",
+          "scene": "Geloof, gave en trouw",
+          "kind": "diagram",
+          "source": "2 Timotheüs 1:1–18"
+        },
+        {
+          "verse": 5,
+          "file": "1-geloof-familie.svg",
+          "scene": "Drie namen bij het geloof",
+          "kind": "diagram",
+          "source": "2 Timotheüs 1:5"
+        }
+      ]
+    },
+    {
+      "book": "2timotheus",
+      "chapter": 3,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Leren, Schrift vanaf de jeugd en goed werk zijn aanwezig. Leeswijzer en vier functies van de Schrift geven het nog ontbrekende tekstverband; geen herhaling van een leerscène nodig.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "3-leeswijzer.svg",
+          "scene": "Tijden, voorbeeld en Schrift",
+          "kind": "diagram",
+          "source": "2 Timotheüs 3:1–17"
+        },
+        {
+          "verse": 16,
+          "file": "3-schrift-nut.svg",
+          "scene": "Waartoe de Schrift toerust",
+          "kind": "diagram",
+          "source": "2 Timotheüs 3:14–17"
+        }
+      ]
     }
   ]
 }
