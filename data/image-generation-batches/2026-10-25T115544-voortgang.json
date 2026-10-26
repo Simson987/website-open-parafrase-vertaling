@@ -1,0 +1,140 @@
+{
+  "started": "2026-10-25T11:55:44Z",
+  "batches": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+  ],
+  "new_visuals": 404,
+  "new_asset_files": 407,
+  "replaced_baseline_images": 3,
+  "new_rasters": 161,
+  "new_schemas": 246,
+  "new_reviewed_chapters": 99,
+  "total_reviewed_chapters": 1107,
+  "total_images": 8043,
+  "metadata_corrections": 297,
+  "verified": "local sources, visual anatomy and content review, SVG legibility and font bounds, SVG enlarge links, dimensions and decode, chapter plan targets, preservation of baseline work",
+  "finished": "2026-10-26T08:06:09.691220+00:00",
+  "resumed_heartbeat": "2026-10-26T07:12:38.515Z",
+  "timing_note": "Deze voortgangsreeks is begonnen op 25 oktober en na onderbrekingen door nieuwe heartbeatberichten op 26 oktober voortgezet. De tijdspanne is geen claim van onafgebroken actieve uitvoering.",
+  "completed_books": [
+    "johannes",
+    "handelingen",
+    "romeinen",
+    "1korinthiers",
+    "2korinthiers",
+    "galaten",
+    "efeziers",
+    "filippenzen"
+  ],
+  "reviewed_ranges": [
+    {
+      "book": "johannes",
+      "first": 12,
+      "last": 21
+    },
+    {
+      "book": "handelingen",
+      "first": 1,
+      "last": 28
+    },
+    {
+      "book": "romeinen",
+      "first": 1,
+      "last": 16
+    },
+    {
+      "book": "1korinthiers",
+      "first": 1,
+      "last": 16
+    },
+    {
+      "book": "2korinthiers",
+      "first": 1,
+      "last": 13
+    },
+    {
+      "book": "galaten",
+      "first": 1,
+      "last": 6
+    },
+    {
+      "book": "efeziers",
+      "first": 1,
+      "last": 6
+    },
+    {
+      "book": "filippenzen",
+      "first": 1,
+      "last": 4
+    }
+  ],
+  "next_chapter": {
+    "book": "kolossenzen",
+    "chapter": 1
+  },
+  "remaining_unreviewed_chapters": 497,
+  "open_targets": 0,
+  "generator": "Built-in image_gen; one call per raster, independent calls in parallel; native SVG for diagrams and reading guides.",
+  "quality_corrections": [
+    {
+      "book": "johannes",
+      "chapter": 20,
+      "verse": 1,
+      "issue": "Het oude grafbeeld was te licht voor nog donker.",
+      "resolution": "Ingebouwde beeldbewerking naar het donkere tijdstip; opnieuw visueel gecontroleerd."
+    },
+    {
+      "book": "handelingen",
+      "chapter": 19,
+      "verse": 6,
+      "issue": "Het oude beeld bevatte een vrouw terwijl vers 7 mannen noemt.",
+      "resolution": "Gecorrigeerd naar volwassen mannen; opnieuw gecontroleerd op inhoud en anatomie."
+    },
+    {
+      "book": "handelingen",
+      "chapter": 12,
+      "verse": 14,
+      "issue": "Het nieuwe Rhodebeeld had een geopende poort.",
+      "resolution": "Poort met de ingebouwde beeldbewerker gesloten; Rhode blijft binnen en Petrus buiten."
+    },
+    {
+      "book": "galaten",
+      "chapter": 1,
+      "verse": 24,
+      "issue": "Het oude beeld leek op een persoonlijke ontvangst van Paulus, terwijl vers 22–24 zegt dat Judea hem niet van gezicht kende.",
+      "resolution": "Vervangen door een gemeente die het bericht van een gewone boodschapper hoort; Paulus is afwezig."
+    },
+    {
+      "scope": "native SVG",
+      "issue": "Enkele brede titels, krappe labels en onnodige voetnootformuleringen.",
+      "resolution": "Titels en labels ingekort of verdeeld, voetnoten verduidelijkt, opnieuw gerenderd en visueel bekeken; alle nieuwe SVG-tekst binnen de afbeeldingsgrenzen gecontroleerd."
+    }
+  ],
+  "errors": [],
+  "site_build": "passed",
+  "coverage_check": "passed",
+  "baseline_commit": "38daa932e52f1cd0cd76d871d6925e38e7a3038c",
+  "asset_commit": "37b3c536d051263d138d0458be8f0dc400ea4872",
+  "push_target": "Simson987/website-open-parafrase-vertaling:codex/three-images-per-chapter",
+  "pull_request": "https://github.com/William-Carey-Missions/website-open-parafrase-vertaling/pull/3",
+  "automation": "Active: continue with open targets first, otherwise the next unreviewed chapter. Not all 1604 chapters are reviewed yet."
+}
