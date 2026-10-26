@@ -42862,21 +42862,30 @@
         "verse": 2,
         "file": "8-2.webp",
         "alt": "Beeld bij Openbaring 8: Zeven engelen met bazuinen",
-        "scene": "Zeven engelen met bazuinen"
+        "scene": "Zeven engelen met bazuinen",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 8,
         "verse": 3,
         "file": "8-3.webp",
         "alt": "Beeld bij Openbaring 8: De engel met het wierookvat",
-        "scene": "De engel met het wierookvat"
+        "scene": "De engel met het wierookvat",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 8,
         "verse": 13,
         "file": "8-13.webp",
         "alt": "Beeld bij Openbaring 8: De arend hoog aan de hemel",
-        "scene": "De arend hoog aan de hemel"
+        "scene": "De arend hoog aan de hemel",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 9,
@@ -43464,6 +43473,36 @@
         "kind": "diagram",
         "width": 840,
         "height": 920
+      },
+      {
+        "chapter": 8,
+        "verse": 1,
+        "file": "8-leeswijzer.svg",
+        "scene": "Stilte en vier bazuinen",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1184
+      },
+      {
+        "chapter": 8,
+        "verse": 7,
+        "file": "8-bazuinen-gevolgen.svg",
+        "scene": "Wat wordt getroffen?",
+        "alt": "Wat wordt getroffen? met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1270
+      },
+      {
+        "chapter": 8,
+        "verse": 3,
+        "file": "8-wierook-volgorde.svg",
+        "scene": "Gebed en vuur bij het altaar",
+        "alt": "Gebed en vuur bij het altaar met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1141
       }
     ],
     "esther": [

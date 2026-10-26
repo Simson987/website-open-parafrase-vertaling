@@ -1,0 +1,108 @@
+{
+  "date": "2026-10-26",
+  "started": "2026-10-26T08:13:55Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "openbaring",
+      "chapter": 8,
+      "verse": 1,
+      "file": "8-leeswijzer.svg",
+      "scene": "Stilte en vier bazuinen",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1184,
+      "source": "Openbaring 8:1–13",
+      "design": {
+        "rows": [
+          [
+            "1–2 · Het zevende zegel",
+            "Ongeveer een half uur stilte in de hemel; zeven engelen ontvangen zeven bazuinen."
+          ],
+          [
+            "3–5 · Wierook en gebeden",
+            "Een andere engel brengt wierook met de gebeden; vuur uit het altaar wordt op aarde geworpen."
+          ],
+          [
+            "6–12 · De eerste vier bazuinen",
+            "Oordelen treffen aarde, zee, rivieren en hemellichten; de tekst noemt telkens eigen aantallen."
+          ],
+          [
+            "13 · Drie weeën",
+            "Een arend kondigt de drie resterende bazuinen aan."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "openbaring",
+      "chapter": 8,
+      "verse": 7,
+      "file": "8-bazuinen-gevolgen.svg",
+      "scene": "Wat wordt getroffen?",
+      "alt": "Wat wordt getroffen? met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1270,
+      "source": "Openbaring 8:7–12",
+      "design": {
+        "rows": [
+          [
+            "1 · Aarde · vers 7",
+            "Hagel en vuur met bloed: een derde van de bomen verbrandt, en al het groene gras."
+          ],
+          [
+            "2 · Zee · vers 8–9",
+            "Iets als een brandende berg: een derde van de zee wordt bloed; een derde van de zeedieren sterft en van de schepen vergaat."
+          ],
+          [
+            "3 · Rivieren · vers 10–11",
+            "De ster Alsem valt op een derde van de rivieren en bronnen. Een derde van het water wordt bitter; velen sterven."
+          ],
+          [
+            "4 · Hemellichten · vers 12",
+            "Een derde van zon, maan en sterren wordt getroffen; een derde van dag en nacht heeft geen licht."
+          ]
+        ],
+        "note": "Visioentaal van Johannes. Al het groene gras verschilt van een derde van de bomen."
+      }
+    },
+    {
+      "book": "openbaring",
+      "chapter": 8,
+      "verse": 3,
+      "file": "8-wierook-volgorde.svg",
+      "scene": "Gebed en vuur bij het altaar",
+      "alt": "Gebed en vuur bij het altaar met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1141,
+      "source": "Openbaring 8:3–5",
+      "design": {
+        "rows": [
+          [
+            "Een andere engel",
+            "Staat met een gouden wierookvat bij het gouden altaar vóór de troon."
+          ],
+          [
+            "Wierook en gebeden",
+            "Veel wierook wordt gegeven om te offeren met de gebeden van alle heiligen."
+          ],
+          [
+            "De rook stijgt op",
+            "De wierook met de gebeden stijgt uit de hand van de engel op vóór God."
+          ],
+          [
+            "Vuur naar de aarde",
+            "Het vat wordt met altaarvuur gevuld en op aarde geworpen; stemmen, donder, bliksem en aardbeving volgen."
+          ]
+        ],
+        "note": "De volgorde volgt het visioen; er wordt geen moderne gebeurtenis aan gekoppeld."
+      }
+    }
+  ]
+}
