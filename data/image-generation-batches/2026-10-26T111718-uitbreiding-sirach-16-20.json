@@ -1,0 +1,198 @@
+{
+  "date": "2026-10-26",
+  "started": "2026-10-26T11:17:18Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "jezussirach",
+      "chapter": 18,
+      "verse": 25,
+      "file": "18-25-voorraad-en-morgen-verdieping.webp",
+      "scene": "Lesbeeld: in overvloed aan gebrek denken",
+      "alt": "Lesbeeld: in overvloed aan gebrek denken — Jezus Sirach 18:25; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: historical-scene. Photorealistic teaching illustration for Jesus Sirach in ancient Judea. Landscape 3:2, natural light, modest opaque garments, anatomically coherent people with exactly two arms each. No modern objects, readable writing, divine human figure, injuries or watermark. An ancient Judean adult woman and man in modest linen robes carefully set aside a portion of grain into sealed clay storage jars while a plentiful harvest basket stands nearby. A small separate bowl remains for today’s meal. Thoughtful calm preparation for a future season of scarcity, not hoarding luxury. Exactly two people, coherent hands and arms, no modern storage, written labels or coins. Sirach 18:25 teaches remembering hunger in abundance.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "jezussirach",
+      "chapter": 20,
+      "verse": 14,
+      "file": "20-14-gave-met-verwijten-verdieping.webp",
+      "scene": "Lesbeeld: een gave met veel verwijten",
+      "alt": "Lesbeeld: een gave met veel verwijten — Jezus Sirach 20:14; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: historical-scene. Photorealistic teaching illustration for Jesus Sirach in ancient Judea. Landscape 3:2, natural light, modest opaque garments, anatomically coherent people with exactly two arms each. No modern objects, readable writing, divine human figure, injuries or watermark. Illustration of Sirach 20:13–15: in an ancient courtyard, an adult man in fine modest robes hands a very small loaf to another modestly clothed adult man, while speaking at excessive length with a self-important expression and one raised gesturing hand. The recipient listens with a weary but dignified expression. Two people, exactly two arms each, natural fingers, no aggression or ridicule, no text bubbles. The scene shows an ungracious gift accompanied by reproaches rather than generous kindness.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "jezussirach",
+      "chapter": 16,
+      "verse": 1,
+      "file": "16-aantal-en-rekenschap.svg",
+      "scene": "Aantal en rekenschap",
+      "alt": "Aantal en rekenschap met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1220,
+      "source": "Jezus Sirach 16:1–30",
+      "design": {
+        "rows": [
+          [
+            "Het aantal · 1–6",
+            "Eén rechtvaardige weegt in dit betoog zwaarder dan duizend goddeloze kinderen."
+          ],
+          [
+            "De herinneringen · 7–15",
+            "Reuzen, Lots omgeving, een zondigend volk, 600.000 voetvolk en de farao illustreren oordeel en ontferming."
+          ],
+          [
+            "De uitvlucht · 16–23",
+            "Zich onzichtbaar wanen tussen de menigte wordt afgewezen; Gods wegen blijven groot."
+          ],
+          [
+            "De orde · 24–30",
+            "Onderwijs wijst op de onderscheiden werken en de aarde vol goede gaven."
+          ]
+        ],
+        "note": "De aantallen horen bij verschillende voorbeelden: duizend bij de waardevergelijking en 600.000 bij het herinnerde voetvolk."
+      }
+    },
+    {
+      "book": "jezussirach",
+      "chapter": 17,
+      "verse": 1,
+      "file": "17-gaven-verbond-en-omkeer.svg",
+      "scene": "Gaven, verbond en omkeer",
+      "alt": "Gaven, verbond en omkeer met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1177,
+      "source": "Jezus Sirach 17:1–28",
+      "design": {
+        "rows": [
+          [
+            "Het maaksel · 1–8",
+            "Aarde, beperkte dagen, macht over dieren, verstand, spraak, zintuigen en hart."
+          ],
+          [
+            "Het verbond · 9–14",
+            "Wet, oordelen en naastenplicht; Israël wordt als Gods eigen deel genoemd."
+          ],
+          [
+            "Het toezicht · 15–18",
+            "Daden blijven zichtbaar, met sparen, genade en een weg terug."
+          ],
+          [
+            "De oproep · 19–28",
+            "Keer van onrecht terug, prijs God zolang je leeft en erken de menselijke sterfelijkheid."
+          ]
+        ],
+        "note": "De gaven aan de mens worden verbonden aan verantwoordelijkheid en de uitnodiging tot terugkeer."
+      }
+    },
+    {
+      "book": "jezussirach",
+      "chapter": 18,
+      "verse": 7,
+      "file": "18-tijd-gave-en-voorbereiding.svg",
+      "scene": "Tijd, gave en voorbereiding",
+      "alt": "Tijd, gave en voorbereiding met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1141,
+      "source": "Jezus Sirach 18:1–33",
+      "design": {
+        "rows": [
+          [
+            "De verhouding · 1–14",
+            "Beperkte kennis en korte menselijke tijd tegenover de eeuwigheid en ontferming voor alles wat leeft."
+          ],
+          [
+            "De gave · 15–18",
+            "Een goed woord en een geschenk horen bij elkaar; verwijten bederven de weldaad."
+          ],
+          [
+            "De voorbereiding · 19–29",
+            "Leer vóór je spreekt, kom beloften na en herinner je in overvloed het gebrek."
+          ],
+          [
+            "Het verlangen · 30–33",
+            "Beheers begeerte en vermijd feesten van geleend geld zonder eigen middelen."
+          ]
+        ],
+        "note": "De korte tijd en veranderende omstandigheden geven de praktische oproepen hun samenhang."
+      }
+    },
+    {
+      "book": "jezussirach",
+      "chapter": 19,
+      "verse": 13,
+      "file": "19-onderzoek-en-wijsheid.svg",
+      "scene": "Onderzoek vóór je oordeel",
+      "alt": "Onderzoek vóór je oordeel met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1184,
+      "source": "Jezus Sirach 19:1–29",
+      "design": {
+        "rows": [
+          [
+            "Wat je hoort · 1–12",
+            "Wantrouw snelle overlevering en laat roddel bij je sterven."
+          ],
+          [
+            "Wat je onderzoekt · 13–17",
+            "Spreek vriend en naaste eerst aan; iets kan ongedaan, ongezegd of onbedoeld zijn."
+          ],
+          [
+            "Wat wijsheid is · 18–23",
+            "Ontzag, wetskennis en rechtvaardigheid verschillen van slimme onrechtvaardigheid."
+          ],
+          [
+            "Wat verborgen kan zijn · 24–29",
+            "Schijnbare nederigheid kan bedrog bedekken; terechtwijzen vraagt het juiste moment."
+          ]
+        ],
+        "note": "Het hoofdstuk verbindt beheerst spreken aan zorgvuldig toetsen en eerlijk handelen."
+      }
+    },
+    {
+      "book": "jezussirach",
+      "chapter": 20,
+      "verse": 1,
+      "file": "20-spreken-geven-en-moment.svg",
+      "scene": "Spreken, geven en het moment",
+      "alt": "Spreken, geven en het moment met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1263,
+      "source": "Jezus Sirach 20:1–31",
+      "design": {
+        "rows": [
+          [
+            "Tijdig antwoord · 1–7",
+            "Terechtwijzing, schulderkenning en verstandig zwijgen vragen het juiste moment."
+          ],
+          [
+            "De gave · 8–17",
+            "Sommige giften schaden; een kleine gave met veel verwijten maakt geen vriendschap."
+          ],
+          [
+            "De tong · 18–26",
+            "Een misplaatste grap, onhoudbare belofte en voortdurende leugen brengen val en schaamte."
+          ],
+          [
+            "Open wijsheid · 27–31",
+            "Wijs spreken en werken hebben nut; geschenken kunnen oordeel verblinden en verborgen wijsheid mist nut."
+          ]
+        ],
+        "note": "Het gunstige effect van goede woorden wordt naast de schade van verkeerd gegeven of gesproken dingen gezet."
+      }
+    }
+  ]
+}
