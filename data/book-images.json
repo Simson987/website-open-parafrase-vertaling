@@ -42383,103 +42383,261 @@
         "chapter": 1,
         "file": "1-light.webp",
         "alt": "Gelovigen ontmoeten elkaar in een zonnige binnenplaats",
-        "scene": "Wandelen in het licht"
+        "scene": "Wandelen in het licht",
+        "verse": 7,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 2,
         "file": "2-love.webp",
         "alt": "Buren delen een maaltijd rond een lange tafel",
-        "scene": "Liefde voor elkaar"
+        "scene": "Liefde voor elkaar",
+        "verse": 10,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 3,
         "file": "3-share.webp",
         "alt": "Een gezin deelt voedsel en kleding met mensen die het nodig hebben",
-        "scene": "Liefde met daden"
+        "scene": "Liefde met daden",
+        "verse": 17,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 1,
         "verse": 1,
         "file": "1-1.webp",
         "alt": "Beeld bij 1johannes 1: Met eigen ogen gezien",
-        "scene": "Met eigen ogen gezien"
+        "scene": "Met eigen ogen gezien",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 1,
         "verse": 9,
         "file": "1-9.webp",
         "alt": "Beeld bij 1johannes 1: Eerlijk belijden en vergeving",
-        "scene": "Eerlijk belijden en vergeving"
+        "scene": "Eerlijk belijden en vergeving",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 2,
         "verse": 6,
         "file": "2-6.webp",
         "alt": "Beeld bij 1johannes 2: Leven zoals Hij geleefd heeft",
-        "scene": "Leven zoals Hij geleefd heeft"
+        "scene": "Leven zoals Hij geleefd heeft",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 2,
         "verse": 24,
         "file": "2-24.webp",
         "alt": "Beeld bij 1johannes 2: Bewaar wat je gehoord hebt",
-        "scene": "Bewaar wat je gehoord hebt"
+        "scene": "Bewaar wat je gehoord hebt",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 3,
         "verse": 1,
         "file": "3-1.webp",
         "alt": "Beeld bij 1johannes 3: Kinderen genoemd uit liefde",
-        "scene": "Kinderen genoemd uit liefde"
+        "scene": "Kinderen genoemd uit liefde",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 3,
         "verse": 23,
         "file": "3-23.webp",
         "alt": "Beeld bij 1johannes 3: Geloof en liefde bijeen",
-        "scene": "Geloof en liefde bijeen"
+        "scene": "Geloof en liefde bijeen",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 4,
         "verse": 1,
         "file": "4-1.webp",
         "alt": "Beeld bij 1johannes 4: Beproef wat waar is",
-        "scene": "Beproef wat waar is"
+        "scene": "Beproef wat waar is",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 4,
         "verse": 7,
         "file": "4-7.webp",
         "alt": "Beeld bij 1johannes 4: Laten wij elkaar liefhebben",
-        "scene": "Laten wij elkaar liefhebben"
+        "scene": "Laten wij elkaar liefhebben",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 4,
         "verse": 18,
         "file": "4-18.webp",
         "alt": "Beeld bij 1johannes 4: Liefde verdrijft angst",
-        "scene": "Liefde verdrijft angst"
+        "scene": "Liefde verdrijft angst",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 5,
         "verse": 4,
         "file": "5-4.webp",
         "alt": "Beeld bij 1johannes 5: Geloof overwint de wereld",
-        "scene": "Geloof overwint de wereld"
+        "scene": "Geloof overwint de wereld",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 5,
         "verse": 14,
         "file": "5-14.webp",
         "alt": "Beeld bij 1johannes 5: Vrijmoedig bidden",
-        "scene": "Vrijmoedig bidden"
+        "scene": "Vrijmoedig bidden",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 5,
         "verse": 21,
         "file": "5-21.webp",
         "alt": "Beeld bij 1johannes 5: Ver van de afgoden",
-        "scene": "Ver van de afgoden"
+        "scene": "Ver van de afgoden",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 1,
+        "verse": 1,
+        "file": "1-leeswijzer.svg",
+        "scene": "Het leven, het licht en belijden",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 863
+      },
+      {
+        "chapter": 2,
+        "verse": 1,
+        "file": "2-leeswijzer.svg",
+        "scene": "Geboden, liefde en blijven",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1055
+      },
+      {
+        "chapter": 3,
+        "verse": 1,
+        "file": "3-leeswijzer.svg",
+        "scene": "Kinderen van God en liefde doen",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1055
+      },
+      {
+        "chapter": 4,
+        "verse": 1,
+        "file": "4-leeswijzer.svg",
+        "scene": "Toetsen en elkaar liefhebben",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1055
+      },
+      {
+        "chapter": 5,
+        "verse": 1,
+        "file": "5-leeswijzer.svg",
+        "scene": "Getuigenis, leven en gebed",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1055
+      },
+      {
+        "chapter": 1,
+        "verse": 6,
+        "file": "1-als-wij.svg",
+        "scene": "Wat zeggen en doen wij?",
+        "alt": "Wat zeggen en doen wij? met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 969
+      },
+      {
+        "chapter": 2,
+        "verse": 12,
+        "file": "2-drie-groepen.svg",
+        "scene": "De drie aangesproken groepen",
+        "alt": "De drie aangesproken groepen met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 820
+      },
+      {
+        "chapter": 2,
+        "verse": 15,
+        "file": "2-begeerten.svg",
+        "scene": "Wat voorbijgaat en wat blijft",
+        "alt": "Wat voorbijgaat en wat blijft met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 969
+      },
+      {
+        "chapter": 3,
+        "verse": 12,
+        "file": "3-haat-liefde.svg",
+        "scene": "Haat en liefde zichtbaar",
+        "alt": "Haat en liefde zichtbaar met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 969
+      },
+      {
+        "chapter": 4,
+        "verse": 2,
+        "file": "4-toets-liefde.svg",
+        "scene": "Belijden en liefhebben",
+        "alt": "Belijden en liefhebben met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1055
+      },
+      {
+        "chapter": 5,
+        "verse": 7,
+        "file": "5-drie-getuigen.svg",
+        "scene": "De genoemde getuigen",
+        "alt": "De genoemde getuigen met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1012
       }
     ],
     "openbaring": [
