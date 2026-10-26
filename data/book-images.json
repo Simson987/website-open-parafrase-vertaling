@@ -56634,7 +56634,11 @@
         "chapter": 9,
         "file": "9-field.webp",
         "alt": "Ezra denkt na in een veld buiten de stad",
-        "scene": "Ezra zoekt inzicht"
+        "scene": "Ezra zoekt inzicht",
+        "verse": 26,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 14,
@@ -56877,77 +56881,110 @@
         "verse": 24,
         "file": "9-24.webp",
         "alt": "Beeld bij 4ezra 9: Een veld vol bloemen",
-        "scene": "Een veld vol bloemen"
+        "scene": "Een veld vol bloemen",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 9,
         "verse": 40,
         "file": "9-40.webp",
         "alt": "Beeld bij 4ezra 9: De bedroefde vrouw",
-        "scene": "De bedroefde vrouw"
+        "scene": "De bedroefde vrouw",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 10,
         "verse": 2,
         "file": "10-2.webp",
         "alt": "Beeld bij 4ezra 10: Buren komen troosten",
-        "scene": "Buren komen troosten"
+        "scene": "Buren komen troosten",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 10,
         "verse": 25,
         "file": "10-25.webp",
         "alt": "Beeld bij 4ezra 10: De vrouw begint te stralen",
-        "scene": "De vrouw begint te stralen"
+        "scene": "De vrouw begint te stralen",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 10,
         "verse": 30,
         "file": "10-30.webp",
         "alt": "Beeld bij 4ezra 10: Weer op de benen gezet",
-        "scene": "Weer op de benen gezet"
+        "scene": "Weer op de benen gezet",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 11,
         "verse": 1,
         "file": "11-1.webp",
         "alt": "Beeld bij 4ezra 11: De arend met drie koppen",
-        "scene": "De arend met drie koppen"
+        "scene": "De arend met drie koppen",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 11,
         "verse": 12,
         "file": "11-12.webp",
         "alt": "Beeld bij 4ezra 11: Een veer richt zich op",
-        "scene": "Een veer richt zich op"
+        "scene": "Een veer richt zich op",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 11,
         "verse": 37,
         "file": "11-37.webp",
         "alt": "Beeld bij 4ezra 11: Een leeuw komt uit het woud",
-        "scene": "Een leeuw komt uit het woud"
+        "scene": "Een leeuw komt uit het woud",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 12,
         "verse": 6,
         "file": "12-6.webp",
         "alt": "Beeld bij 4ezra 12: Ezra vraagt om kracht",
-        "scene": "Ezra vraagt om kracht"
+        "scene": "Ezra vraagt om kracht",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 12,
         "verse": 34,
         "file": "12-34.webp",
         "alt": "Beeld bij 4ezra 12: Het overgebleven volk bevrijd",
-        "scene": "Het overgebleven volk bevrijd"
+        "scene": "Het overgebleven volk bevrijd",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 12,
         "verse": 40,
         "file": "12-40.webp",
         "alt": "Beeld bij 4ezra 12: Het volk zoekt Ezra op",
-        "scene": "Het volk zoekt Ezra op"
+        "scene": "Het volk zoekt Ezra op",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 13,
@@ -57295,6 +57332,136 @@
         "kind": "diagram",
         "width": 840,
         "height": 1012
+      },
+      {
+        "chapter": 9,
+        "verse": 21,
+        "file": "9-21-bewaarde-druif-verdieping.webp",
+        "scene": "Beeldspraak: de bewaarde druif",
+        "alt": "Beeldspraak: de bewaarde druif — 4 Ezra 9:21; tekstillustratie.",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 10,
+        "verse": 27,
+        "file": "10-27-stad-verschijnt-verdieping.webp",
+        "scene": "Visioen: waar de stad verschijnt",
+        "alt": "Visioen: waar de stad verschijnt — 4 Ezra 10:27; tekstillustratie.",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 12,
+        "verse": 37,
+        "file": "12-37-boek-verborgen-verdieping.webp",
+        "scene": "Het boek op een verborgen plek",
+        "alt": "Het boek op een verborgen plek — 4 Ezra 12:37; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 9,
+        "verse": 1,
+        "file": "9-leeswijzer.svg",
+        "scene": "Tekenen, wet en de vrouw",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1055
+      },
+      {
+        "chapter": 10,
+        "verse": 1,
+        "file": "10-leeswijzer.svg",
+        "scene": "Van rouwende vrouw tot stad",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1098
+      },
+      {
+        "chapter": 11,
+        "verse": 1,
+        "file": "11-leeswijzer.svg",
+        "scene": "De droom van de arend",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 906
+      },
+      {
+        "chapter": 12,
+        "verse": 1,
+        "file": "12-leeswijzer.svg",
+        "scene": "Uitleg, geheim en het volk",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1098
+      },
+      {
+        "chapter": 9,
+        "verse": 31,
+        "file": "9-wet-zaad.svg",
+        "scene": "De wet en haar dragers",
+        "alt": "De wet en haar dragers met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1055
+      },
+      {
+        "chapter": 10,
+        "verse": 44,
+        "file": "10-vrouw-sion.svg",
+        "scene": "De vrouw verklaard als Sion",
+        "alt": "De vrouw verklaard als Sion met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1012
+      },
+      {
+        "chapter": 11,
+        "verse": 37,
+        "file": "11-leeuw-aanklacht.svg",
+        "scene": "Waarom de leeuw aanklaagt",
+        "alt": "Waarom de leeuw aanklaagt met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1055
+      },
+      {
+        "chapter": 12,
+        "verse": 14,
+        "file": "12-arend-uitleg.svg",
+        "scene": "De kenmerken uitgelegd",
+        "alt": "De kenmerken uitgelegd met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1134
+      },
+      {
+        "chapter": 12,
+        "verse": 31,
+        "file": "12-leeuw-en-wind.svg",
+        "scene": "Leeuw en gericht",
+        "alt": "Leeuw en gericht met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1184
+      },
+      {
+        "chapter": 11,
+        "verse": 1,
+        "file": "11-arend-kenmerken.svg",
+        "scene": "Kenmerken van de arend",
+        "alt": "Kenmerken van de arend — 4 Ezra 11:1–11",
+        "kind": "diagram",
+        "width": 840,
+        "height": 790
       }
     ],
     "tobit": [

@@ -1,0 +1,351 @@
+{
+  "date": "2026-10-26",
+  "started": "2026-10-26T10:14:43Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "4ezra",
+      "chapter": 9,
+      "verse": 21,
+      "file": "9-21-bewaarde-druif-verdieping.webp",
+      "scene": "Beeldspraak: de bewaarde druif",
+      "alt": "Beeldspraak: de bewaarde druif — 4 Ezra 9:21; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: illustration-story. Photorealistic textures for an ancient Near Eastern biblical narrative or explicitly symbolic vision, landscape 3:2, natural materials, coherent anatomy with two arms per human, modest opaque robes. No modern objects, readable writing, divine portrait, blood, injuries or watermark. Poetic symbolic close-up of a single ripe grape still held safely on a living vine twig, one healthy small shoot beside it, natural vine leaves and blurred vineyard in the background. This illustrates the image of one grape and one shoot preserved with care in 4 Ezra 9:21–22, not a literal count of rescued people. No humans, words or containers.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "4ezra",
+      "chapter": 10,
+      "verse": 27,
+      "file": "10-27-stad-verschijnt-verdieping.webp",
+      "scene": "Visioen: waar de stad verschijnt",
+      "alt": "Visioen: waar de stad verschijnt — 4 Ezra 10:27; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: illustration-story. Photorealistic textures for an ancient Near Eastern biblical narrative or explicitly symbolic vision, landscape 3:2, natural materials, coherent anatomy with two arms per human, modest opaque robes. No modern objects, readable writing, divine portrait, blood, injuries or watermark. Visionary scene in a previously unbuilt wildflower meadow at Ardath: elderly modestly robed Ezra, seen small from behind on the left, watches a luminous holy city with large visible foundations take form above the empty flower field. The mourning woman is no longer present. Ancient architecture, no Temple Mount modern monuments, no people in the city, no human construction workers, no deity.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "4ezra",
+      "chapter": 12,
+      "verse": 37,
+      "file": "12-37-boek-verborgen-verdieping.webp",
+      "scene": "Het boek op een verborgen plek",
+      "alt": "Het boek op een verborgen plek — 4 Ezra 12:37; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: illustration-story. Photorealistic textures for an ancient Near Eastern biblical narrative or explicitly symbolic vision, landscape 3:2, natural materials, coherent anatomy with two arms per human, modest opaque robes. No modern objects, readable writing, divine portrait, blood, injuries or watermark. Ancient biblical narrative illustration: Ezra, an elderly Jewish scribe in modest opaque robes, carefully places a rolled parchment manuscript into a clay storage jar in a secluded rock recess, to keep the revealed dream safe. Exactly two coherent arms and hands, calm daylight, no readable writing, no modern book or archaeological label.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "4ezra",
+      "chapter": 9,
+      "verse": 1,
+      "file": "9-leeswijzer.svg",
+      "scene": "Tekenen, wet en de vrouw",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "4 Ezra 9:1–47",
+      "design": {
+        "rows": [
+          [
+            "1–22 · Tijd en redding",
+            "Tekenen tonen het bezoek; vergelijkingen van zaad, druif en stek."
+          ],
+          [
+            "23–27 · Het veld Ardath",
+            "Zeven dagen tussen bloemen, zonder vlees of wijn, met onophoudelijk gebed."
+          ],
+          [
+            "28–37 · De wet en haar dragers",
+            "Mensen vergaan, maar de wet blijft werkzaam: Ezra’s vraag."
+          ],
+          [
+            "38–47 · Een rouwende vrouw",
+            "Ezra vraagt naar haar verdriet; zij vertelt over haar langverwachte zoon."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "4ezra",
+      "chapter": 10,
+      "verse": 1,
+      "file": "10-leeswijzer.svg",
+      "scene": "Van rouwende vrouw tot stad",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1098,
+      "source": "4 Ezra 10:1–60",
+      "design": {
+        "rows": [
+          [
+            "1–24 · Verlies en troost",
+            "De vrouw vertelt haar verlies; Ezra spreekt over het verdriet van Sion."
+          ],
+          [
+            "25–37 · De onthulling",
+            "De vrouw straalt en verdwijnt; een stad wordt zichtbaar. Uriël sterkt Ezra."
+          ],
+          [
+            "38–54 · De uitleg",
+            "De vrouw is Sion; haar verhaal verklaart offers, bewoning en val van Jeruzalem."
+          ],
+          [
+            "55–60 · Kijk en wacht",
+            "Ezra mag de stad zien en blijft wachten op de volgende visioenen."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "4ezra",
+      "chapter": 11,
+      "verse": 1,
+      "file": "11-leeswijzer.svg",
+      "scene": "De droom van de arend",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 906,
+      "source": "4 Ezra 11:1–46",
+      "design": {
+        "rows": [
+          [
+            "1–11 · De verschijning",
+            "Een arend uit zee met twaalf vleugels, drie koppen en acht kleinere veren."
+          ],
+          [
+            "12–35 · Macht verdwijnt",
+            "Veren en koppen heersen na elkaar, verdwijnen of verslinden elkaar."
+          ],
+          [
+            "36–46 · De leeuw spreekt",
+            "De leeuw klaagt de macht van de arend aan; de aarde moet van zijn geweld rust krijgen."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "4ezra",
+      "chapter": 12,
+      "verse": 1,
+      "file": "12-leeswijzer.svg",
+      "scene": "Uitleg, geheim en het volk",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1098,
+      "source": "4 Ezra 12:1–51",
+      "design": {
+        "rows": [
+          [
+            "1–9 · Ontwaken en bidden",
+            "De arend verdwijnt en brandt; Ezra bidt om kracht en uitleg."
+          ],
+          [
+            "10–35 · Het rijk verklaard",
+            "Vleugels, veren en koppen worden uitgelegd; de leeuw kondigt het gericht aan."
+          ],
+          [
+            "36–39 · Bewaren en leren",
+            "Opschrijven, verbergen en onderwijzen aan wie het geheim kunnen bewaren."
+          ],
+          [
+            "40–51 · Het volk en de wacht",
+            "Het volk zoekt Ezra; hij bemoedigt hen en wacht opnieuw zeven dagen."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "4ezra",
+      "chapter": 9,
+      "verse": 31,
+      "file": "9-wet-zaad.svg",
+      "scene": "De wet en haar dragers",
+      "alt": "De wet en haar dragers met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "4 Ezra 9:31–37",
+      "design": {
+        "rows": [
+          [
+            "De belofte · vers 31",
+            "God zaait Zijn wet; zij zal vrucht dragen."
+          ],
+          [
+            "Het probleem · vers 32–33",
+            "De ontvangers bewaren haar niet en gaan verloren."
+          ],
+          [
+            "Gewone voorbeelden · vers 34–35",
+            "Bij zaad, schip en voedsel vergaat de inhoud met wat haar bevat."
+          ],
+          [
+            "Het verschil · vers 36–37",
+            "Wij en ons hart vergaan als wij zondigen, maar de wet blijft werkzaam."
+          ]
+        ],
+        "note": "Het schema volgt Ezra’s redenering en onderscheidt het voorbeeld van zijn conclusie."
+      }
+    },
+    {
+      "book": "4ezra",
+      "chapter": 10,
+      "verse": 44,
+      "file": "10-vrouw-sion.svg",
+      "scene": "De vrouw verklaard als Sion",
+      "alt": "De vrouw verklaard als Sion met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1012,
+      "source": "4 Ezra 10:40–50",
+      "design": {
+        "rows": [
+          [
+            "De vrouw",
+            "Is Sion en wordt als gebouwde stad getoond."
+          ],
+          [
+            "Dertig jaar zonder kind",
+            "Volgens de uitleg: nog geen offer gebracht."
+          ],
+          [
+            "Geboorte en opgroeien",
+            "Salomo bouwt en offert; daarna het wonen binnen Jeruzalem."
+          ],
+          [
+            "De dood van de zoon",
+            "De val die Jeruzalem overkomen is."
+          ]
+        ],
+        "note": "Dit is Uriëls uitleg van het visioen; de vrouw is geen apart benoemde historische moeder."
+      }
+    },
+    {
+      "book": "4ezra",
+      "chapter": 11,
+      "verse": 37,
+      "file": "11-leeuw-aanklacht.svg",
+      "scene": "Waarom de leeuw aanklaagt",
+      "alt": "Waarom de leeuw aanklaagt met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "4 Ezra 11:37–46",
+      "design": {
+        "rows": [
+          [
+            "Onware regering",
+            "De aarde is niet naar waarheid geregeerd."
+          ],
+          [
+            "Geweld tegen mensen",
+            "Zachtmoedigen onderdrukt en wie rustig leefden pijn gedaan."
+          ],
+          [
+            "Verwoesting en leugen",
+            "Huizen en muren afgebroken; de leugen liefgehad."
+          ],
+          [
+            "Het doel van de val",
+            "De aarde moet weer op adem komen en hopen op oordeel en ontferming."
+          ]
+        ],
+        "note": "Aanklacht in de droom; geen huidige machthebber wordt ermee gelijkgesteld."
+      }
+    },
+    {
+      "book": "4ezra",
+      "chapter": 12,
+      "verse": 14,
+      "file": "12-arend-uitleg.svg",
+      "scene": "De kenmerken uitgelegd",
+      "alt": "De kenmerken uitgelegd met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1134,
+      "source": "4 Ezra 12:11–30",
+      "design": {
+        "rows": [
+          [
+            "Arend",
+            "Het rijk dat ook Daniël in een visioen gezien heeft."
+          ],
+          [
+            "Twaalf vleugels · vers 14–16",
+            "Twaalf koningen na elkaar; de tweede houdt het het langst vol."
+          ],
+          [
+            "Acht onderste vleugels",
+            "Acht koningen met korte tijd; verschillende groepen worden bewaard of verdwijnen."
+          ],
+          [
+            "Drie koppen · vers 22–28",
+            "Drie rijken aan het einde, met zwaard en onderlinge ondergang."
+          ]
+        ],
+        "note": "Alleen de verklaarde verbanden uit deze verzen; er worden geen koningsnamen of regeringsjaren ingevuld."
+      }
+    },
+    {
+      "book": "4ezra",
+      "chapter": 12,
+      "verse": 31,
+      "file": "12-leeuw-en-wind.svg",
+      "scene": "Leeuw en gericht",
+      "alt": "Leeuw en gericht met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1184,
+      "source": "4 Ezra 12:31–38",
+      "design": {
+        "rows": [
+          [
+            "Het beeld · vers 31",
+            "De leeuw komt uit het bos, spreekt en wijst de arend terecht."
+          ],
+          [
+            "De uitleg · vers 32",
+            "De plaatselijke tekst noemt de wind die de Allerhoogste tot het einde bewaard heeft."
+          ],
+          [
+            "Gericht en redding",
+            "Terechtwijzing en straf; het overgebleven volk uit de ellende bevrijd."
+          ],
+          [
+            "Ezra’s taak",
+            "Schrijf het op, verberg het boek en leer het aan verstandigen die het kunnen bewaren."
+          ]
+        ],
+        "note": "De ongebruikelijke benaming wind blijft staan zoals zij in deze hoofdstukweergave staat."
+      }
+    },
+    {
+      "book": "4ezra",
+      "chapter": 11,
+      "verse": 1,
+      "file": "11-arend-kenmerken.svg",
+      "scene": "Kenmerken van de arend",
+      "alt": "Kenmerken van de arend — 4 Ezra 11:1–11",
+      "kind": "diagram",
+      "width": 840,
+      "height": 790,
+      "source": "4 Ezra 11:1–11",
+      "design": "Drie gescheiden telrijen: twaalf vleugels, acht veren, drie koppen. Het beeld is een droomwezen, geen natuurlijke soort."
+    }
+  ]
+}
