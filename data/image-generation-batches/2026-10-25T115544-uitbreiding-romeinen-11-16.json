@@ -1,0 +1,517 @@
+{
+  "date": "2026-10-25",
+  "started": "2026-10-25T11:55:44Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "romeinen",
+      "chapter": 12,
+      "verse": 20,
+      "file": "12-20-vijand-voeden-verdieping.webp",
+      "scene": "Lesbeeld: de vijand eten geven",
+      "alt": "Lesbeeld: de vijand eten geven — Romeinen 12:20; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. Illustrate the ethical instruction of Romans 12:20, not a documented event. Two adult men who had been opponents sit at a simple outdoor table. One man gently places a bowl of food and cup of water before a hungry weary man; the hungry man is surprised, their expressions restrained and reconciliatory. No glowing coals on any head: that is a metaphor. Exactly two arms per person, clear simple hands and modest first-century clothes.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "romeinen",
+      "chapter": 15,
+      "verse": 26,
+      "file": "15-26-gave-jeruzalem-verdieping.webp",
+      "scene": "Lesbeeld: een gave voor Jeruzalem",
+      "alt": "Lesbeeld: een gave voor Jeruzalem — Romeinen 15:26; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. Illustrate Romans 15:25–27, the voluntary financial collection by believers in Macedonia and Achaia for poor believers in Jerusalem. Small first-century household group places coins into a simple cloth purse on a table; an older woman and a younger adult man contribute while a responsible adult watches. This is preparation of material support, no temple offering altar and no modern charity logos. Use a Roman provincial domestic courtyard.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "romeinen",
+      "chapter": 16,
+      "verse": 22,
+      "file": "16-22-tertius-schrijft-verdieping.webp",
+      "scene": "Tertius schrijft de brief",
+      "alt": "Tertius schrijft de brief — Romeinen 16:22; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. Romans 16:22 explicitly names Tertius as the person who wrote the letter. A first-century adult male scribe Tertius sits at a simple wooden table writing with a reed pen on an unrolled papyrus sheet; another adult man Paul speaks thoughtfully beside him. Side view where the papyrus writing cannot be read. Distinct two people, historically plausible ancient ink pot and papyrus, no codex or modern pen. The scene visualizes the named writing role; no claim to exact portraits.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "romeinen",
+      "chapter": 11,
+      "verse": 1,
+      "file": "11-leeswijzer.svg",
+      "scene": "Genade, Israël en de volken",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "Romeinen 11:1–36",
+      "design": {
+        "rows": [
+          [
+            "1–10 · Een rest uit genade",
+            "God heeft Zijn volk niet verstoten; Elia wordt aangehaald."
+          ],
+          [
+            "11–24 · De olijfboom",
+            "Waarschuwing tegen hoogmoed en oproep tot geloof."
+          ],
+          [
+            "25–32 · Ontferming",
+            "Geheim, verbond, roeping en barmhartigheid."
+          ],
+          [
+            "33–36 · Lof aan God",
+            "De rijkdom van Zijn wijsheid is ondoorgrondelijk."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "romeinen",
+      "chapter": 12,
+      "verse": 1,
+      "file": "12-leeswijzer.svg",
+      "scene": "Een leven in dienst van God",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "Romeinen 12:1–21",
+      "design": {
+        "rows": [
+          [
+            "1–2 · Beschikbaar voor God",
+            "Levend offer en vernieuwing van het denken."
+          ],
+          [
+            "3–8 · Samen één lichaam",
+            "Bescheidenheid en verschillende genadegaven."
+          ],
+          [
+            "9–16 · Echte liefde",
+            "Hoop, gebed, delen, gastvrijheid en meeleven."
+          ],
+          [
+            "17–21 · Het goede overwint",
+            "Geen wraak; geef ook de vijand eten en drinken."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "romeinen",
+      "chapter": 13,
+      "verse": 1,
+      "file": "13-leeswijzer.svg",
+      "scene": "Gezag, liefde en daglicht",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 863,
+      "source": "Romeinen 13:1–14",
+      "design": {
+        "rows": [
+          [
+            "1–7 · Gezag en geweten",
+            "Paulus spreekt over gehoorzaamheid en wat men verschuldigd is."
+          ],
+          [
+            "8–10 · Blijf liefde schuldig",
+            "De liefde doet de naaste geen kwaad en vervult de wet."
+          ],
+          [
+            "11–14 · Wakker worden",
+            "De nacht is bijna voorbij: leef zoals bij daglicht past."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "romeinen",
+      "chapter": 14,
+      "verse": 1,
+      "file": "14-leeswijzer.svg",
+      "scene": "Aannemen en rekening houden",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1012,
+      "source": "Romeinen 14:1–23",
+      "design": {
+        "rows": [
+          [
+            "1–6 · Verschillende overtuigingen",
+            "Eten en dagen zijn geen reden om elkaar te veroordelen."
+          ],
+          [
+            "7–12 · Wij zijn van de Heere",
+            "Ieder zal zelf verantwoording afleggen aan God."
+          ],
+          [
+            "13–18 · Geen struikelblok",
+            "Liefde houdt rekening met de ander."
+          ],
+          [
+            "19–23 · Vrede en opbouw",
+            "Breek Gods werk niet af om eten; handel uit geloof."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "romeinen",
+      "chapter": 15,
+      "verse": 1,
+      "file": "15-leeswijzer.svg",
+      "scene": "Eensgezindheid en reisplannen",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "Romeinen 15:1–33",
+      "design": {
+        "rows": [
+          [
+            "1–13 · Samen God prijzen",
+            "Draag de zwakke en neem elkaar aan; hoop voor de volken."
+          ],
+          [
+            "14–21 · Paulus’ dienst",
+            "Het evangelie verkondigen waar Christus nog niet bekend is."
+          ],
+          [
+            "22–29 · Een reisvoornemen",
+            "Eerst Jeruzalem, daarna via Rome naar Spanje."
+          ],
+          [
+            "30–33 · Strijd mee in gebed",
+            "Voor redding, aanvaarding van de dienst en een blijde komst."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "romeinen",
+      "chapter": 16,
+      "verse": 1,
+      "file": "16-leeswijzer.svg",
+      "scene": "Medewerkers, groeten en lof",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "Romeinen 16:1–27",
+      "design": {
+        "rows": [
+          [
+            "1–16 · Mensen bij name",
+            "Febe aanbevolen; medewerkers en huisgemeenschappen gegroet."
+          ],
+          [
+            "17–20 · Let op verdeeldheid",
+            "Blijf bij misleidende verdeeldheidbrengers weg."
+          ],
+          [
+            "21–24 · Groeten van nabij",
+            "Onder anderen Timotheüs, Tertius en Gajus groeten."
+          ],
+          [
+            "25–27 · God de eer",
+            "Het bekendgemaakte evangelie brengt tot geloofsgehoorzaamheid."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "romeinen",
+      "chapter": 11,
+      "verse": 17,
+      "file": "11-olijfboom-uitleg.svg",
+      "scene": "De olijfboom als beeld",
+      "alt": "De olijfboom als beeld met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1012,
+      "source": "Romeinen 11:16–24",
+      "design": {
+        "rows": [
+          [
+            "De wortel draagt",
+            "De ingeënte tak draagt de wortel niet."
+          ],
+          [
+            "De wilde tak",
+            "Deelt na het enten in de wortel van de olijfboom."
+          ],
+          [
+            "Geen hoogmoed",
+            "Sta door geloof en blijf in Gods goedheid."
+          ],
+          [
+            "Opnieuw enten",
+            "God kan eigen takken opnieuw enten als ongeloof niet blijft."
+          ]
+        ],
+        "note": "Paulus gebruikt een vergelijking en waarschuwt tegen opscheppen tegenover de andere takken."
+      }
+    },
+    {
+      "book": "romeinen",
+      "chapter": 11,
+      "verse": 30,
+      "file": "11-ontferming.svg",
+      "scene": "Barmhartigheid in het betoog",
+      "alt": "Barmhartigheid in het betoog met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1012,
+      "source": "Romeinen 11:25–32",
+      "design": {
+        "rows": [
+          [
+            "De volken · vers 30",
+            "Vroeger ongehoorzaam; nu barmhartigheid ontvangen."
+          ],
+          [
+            "Zij · vers 31",
+            "Ook zij zullen barmhartigheid ontvangen."
+          ],
+          [
+            "Gaven en roeping · vers 29",
+            "God komt daarop niet terug."
+          ],
+          [
+            "De slotsom · vers 32",
+            "God ontfermt Zich over allen die onder ongehoorzaamheid zijn."
+          ]
+        ],
+        "note": "Lees dit met de waarschuwing tegen eigenwijsheid uit vers 25."
+      }
+    },
+    {
+      "book": "romeinen",
+      "chapter": 13,
+      "verse": 8,
+      "file": "13-liefde-wet.svg",
+      "scene": "Liefde en de geboden",
+      "alt": "Liefde en de geboden met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 890,
+      "source": "Romeinen 13:8–10",
+      "design": {
+        "rows": [
+          [
+            "De genoemde geboden",
+            "Geen overspel, moord, diefstal, vals getuigenis of begeerte."
+          ],
+          [
+            "Het samenvattende woord",
+            "Heb je naaste lief als jezelf."
+          ],
+          [
+            "Het handelen van liefde",
+            "De liefde doet de naaste geen kwaad."
+          ],
+          [
+            "De gevolgtrekking",
+            "Liefde is de vervulling van de wet."
+          ]
+        ],
+        "note": "De lijst volgt de plaatselijke tekst van vers 9."
+      }
+    },
+    {
+      "book": "romeinen",
+      "chapter": 14,
+      "verse": 2,
+      "file": "14-eten-en-dagen.svg",
+      "scene": "Verschillen zonder veroordelen",
+      "alt": "Verschillen zonder veroordelen met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1012,
+      "source": "Romeinen 14:1–6",
+      "design": {
+        "rows": [
+          [
+            "Eten · vers 2–3",
+            "De een eet alles, een ander alleen groente."
+          ],
+          [
+            "Dagen · vers 5",
+            "De een onderscheidt dagen, de ander vindt ze gelijk."
+          ],
+          [
+            "Beiden · vers 6",
+            "Wie eet en wie niet eet, danken God."
+          ],
+          [
+            "De omgang · vers 1–4",
+            "Neem elkaar aan; kijk niet neer en veroordeel niet."
+          ]
+        ],
+        "note": "Het schema toont Paulus’ voorbeelden van overtuigingen binnen de gemeenschap."
+      }
+    },
+    {
+      "book": "romeinen",
+      "chapter": 14,
+      "verse": 17,
+      "file": "14-koninkrijk.svg",
+      "scene": "Vrede en opbouw voorop",
+      "alt": "Vrede en opbouw voorop met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "Romeinen 14:13–23",
+      "design": {
+        "rows": [
+          [
+            "Het Koninkrijk · vers 17",
+            "Gerechtigheid, vrede en blijdschap door de Heilige Geest."
+          ],
+          [
+            "Het doel · vers 19",
+            "Zoek wat de vrede dient en elkaar opbouwt."
+          ],
+          [
+            "De grens · vers 20–21",
+            "Laat eten, vlees of wijn geen struikelblok worden."
+          ],
+          [
+            "Het geweten · vers 22–23",
+            "Handel voor God en uit geloof, zonder twijfel te negeren."
+          ]
+        ],
+        "note": "De ander opbouwen is belangrijker dan je eigen vrijheid doordrijven."
+      }
+    },
+    {
+      "book": "romeinen",
+      "chapter": 15,
+      "verse": 25,
+      "file": "15-reisvoornemen.svg",
+      "scene": "Paulus’ reisvoornemen",
+      "alt": "Paulus’ reisvoornemen met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1091,
+      "source": "Romeinen 15:22–32",
+      "design": {
+        "rows": [
+          [
+            "Eerst · Jeruzalem",
+            "De gave voor de arme heiligen overdragen."
+          ],
+          [
+            "Daarna · Rome",
+            "De gemeente op doorreis bezoeken en samen op adem komen."
+          ],
+          [
+            "Vervolgens · Spanje",
+            "Paulus hoopt door Rome verder op weg geholpen te worden."
+          ],
+          [
+            "Daarbij · gebed",
+            "Voor redding en een goede ontvangst van zijn dienst."
+          ]
+        ],
+        "note": "Dit zijn de plannen zoals Paulus ze hier beschrijft; het schema bevestigt geen uitgevoerde reis naar Spanje."
+      }
+    },
+    {
+      "book": "romeinen",
+      "chapter": 16,
+      "verse": 1,
+      "file": "16-genoemde-rollen.svg",
+      "scene": "Enkele mensen en hun rol",
+      "alt": "Enkele mensen en hun rol met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1012,
+      "source": "Romeinen 16:1–5, 21–23",
+      "design": {
+        "rows": [
+          [
+            "Febe · vers 1–2",
+            "Dienares in Kenchreeën; aanbevolen om te ontvangen en helpen."
+          ],
+          [
+            "Prisca en Aquila · vers 3–5",
+            "Medewerkers; een gemeente komt in hun huis samen."
+          ],
+          [
+            "Tertius · vers 22",
+            "Heeft deze brief opgeschreven."
+          ],
+          [
+            "Gajus en Erastus · vers 23",
+            "Gastheer van Paulus en de gemeente; beheerder van de stad."
+          ]
+        ],
+        "note": "Dit is een selectie van expliciet genoemde rollen, geen volledige lijst van alle groeten."
+      }
+    },
+    {
+      "book": "romeinen",
+      "chapter": 12,
+      "verse": 6,
+      "file": "12-gaven.svg",
+      "scene": "Verschillende genadegaven",
+      "alt": "Verschillende genadegaven — Romeinen 12:4–8",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1262,
+      "source": "Romeinen 12:4–8",
+      "design": {
+        "type": "parent-child branches",
+        "parent": "Velen, samen één lichaam",
+        "children": [
+          [
+            "Profetie",
+            "Naar de maat van het geloof."
+          ],
+          [
+            "Dienen",
+            "Wie dienen mag, moet dienen."
+          ],
+          [
+            "Onderwijzen",
+            "Wie onderwijzen mag, moet onderwijzen."
+          ],
+          [
+            "Bemoedigen",
+            "Wie bemoedigen mag, moet bemoedigen."
+          ],
+          [
+            "Uitdelen",
+            "Eerlijk uitdelen."
+          ],
+          [
+            "Leidinggeven",
+            "Met inzet leidinggeven."
+          ],
+          [
+            "Barmhartig zijn",
+            "Met blijdschap barmhartig zijn."
+          ]
+        ],
+        "note": "De zeven genoemde gaven volgen vers 6–8; lichaamsdelen zijn beeldspraak."
+      }
+    }
+  ]
+}
