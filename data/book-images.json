@@ -55962,7 +55962,11 @@
         "chapter": 8,
         "file": "8-return.webp",
         "alt": "Teruggekeerde families bereiken Jeruzalem",
-        "scene": "Terugkeer naar Jeruzalem"
+        "scene": "Terugkeer naar Jeruzalem",
+        "verse": 3,
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 1,
@@ -56129,56 +56133,80 @@
         "verse": 5,
         "file": "7-5.webp",
         "alt": "Beeld bij 3ezra 7: Het heilige huis voltooid",
-        "scene": "Het heilige huis voltooid"
+        "scene": "Het heilige huis voltooid",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 7,
         "verse": 10,
         "file": "7-10.webp",
         "alt": "Beeld bij 3ezra 7: Het Pascha na de terugkeer",
-        "scene": "Het Pascha na de terugkeer"
+        "scene": "Het Pascha na de terugkeer",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 7,
         "verse": 15,
         "file": "7-15.webp",
         "alt": "Beeld bij 3ezra 7: Gesterkt voor het werk",
-        "scene": "Gesterkt voor het werk"
+        "scene": "Gesterkt voor het werk",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 8,
         "verse": 4,
         "file": "8-4.webp",
         "alt": "Beeld bij 3ezra 8: Ezra vindt gunst bij de koning",
-        "scene": "Ezra vindt gunst bij de koning"
+        "scene": "Ezra vindt gunst bij de koning",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 8,
         "verse": 22,
         "file": "8-22.webp",
         "alt": "Beeld bij 3ezra 8: Graan wijn en zilver voor de dienst",
-        "scene": "Graan wijn en zilver voor de dienst"
+        "scene": "Graan wijn en zilver voor de dienst",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 9,
         "verse": 6,
         "file": "9-6.webp",
         "alt": "Beeld bij 3ezra 9: De menigte in winterkou",
-        "scene": "De menigte in winterkou"
+        "scene": "De menigte in winterkou",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 9,
         "verse": 40,
         "file": "9-40.webp",
         "alt": "Beeld bij 3ezra 9: Ezra brengt de wet",
-        "scene": "Ezra brengt de wet"
+        "scene": "Ezra brengt de wet",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 9,
         "verse": 42,
         "file": "9-42.webp",
         "alt": "Beeld bij 3ezra 9: Op een houten verhoging",
-        "scene": "Op een houten verhoging"
+        "scene": "Op een houten verhoging",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 1,
@@ -56449,6 +56477,146 @@
         "kind": "diagram",
         "width": 840,
         "height": 516
+      },
+      {
+        "chapter": 8,
+        "verse": 51,
+        "file": "8-51-vasten-ahava-verdieping.webp",
+        "scene": "Vasten bij de rivier Ahava",
+        "alt": "Vasten bij de rivier Ahava — 3 Ezra 8:51; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 8,
+        "verse": 56,
+        "file": "8-56-wegen-gerei-verdieping.webp",
+        "scene": "Het zilver en goud afgewogen",
+        "alt": "Het zilver en goud afgewogen — 3 Ezra 8:56; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 8,
+        "verse": 74,
+        "file": "8-74-ezra-bid-verdieping.webp",
+        "scene": "Ezra knielt in gebed",
+        "alt": "Ezra knielt in gebed — 3 Ezra 8:74; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 9,
+        "verse": 55,
+        "file": "9-55-delen-vreugde-verdieping.webp",
+        "scene": "Geschenken voor wie niets heeft",
+        "alt": "Geschenken voor wie niets heeft — 3 Ezra 9:55; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 7,
+        "verse": 1,
+        "file": "7-leeswijzer.svg",
+        "scene": "Voltooiing, inwijding en Pascha",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 992
+      },
+      {
+        "chapter": 8,
+        "verse": 1,
+        "file": "8-leeswijzer.svg",
+        "scene": "Ezra: reis, opdracht en gebed",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1055
+      },
+      {
+        "chapter": 9,
+        "verse": 1,
+        "file": "9-leeswijzer.svg",
+        "scene": "Onderzoek en de gelezen wet",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1098
+      },
+      {
+        "chapter": 7,
+        "verse": 5,
+        "file": "7-inwijding-aantallen.svg",
+        "scene": "Datum en offers",
+        "alt": "Datum en offers met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1012
+      },
+      {
+        "chapter": 8,
+        "verse": 11,
+        "file": "8-koninklijk-mandaat.svg",
+        "scene": "Wat Artaxerxes toestaat",
+        "alt": "Wat Artaxerxes toestaat met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1098
+      },
+      {
+        "chapter": 8,
+        "verse": 56,
+        "file": "8-gewichten-overdracht.svg",
+        "scene": "Gewogen en overgedragen",
+        "alt": "Gewogen en overgedragen met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1177
+      },
+      {
+        "chapter": 8,
+        "verse": 43,
+        "file": "8-reis-stappen.svg",
+        "scene": "Van Ahava naar Jeruzalem",
+        "alt": "Van Ahava naar Jeruzalem met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1098
+      },
+      {
+        "chapter": 9,
+        "verse": 5,
+        "file": "9-onderzoek-tijden.svg",
+        "scene": "Tijden van het onderzoek",
+        "alt": "Tijden van het onderzoek met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1134
+      },
+      {
+        "chapter": 9,
+        "verse": 43,
+        "file": "9-naast-ezra.svg",
+        "scene": "Naast Ezra op de verhoging",
+        "alt": "Naast Ezra op de verhoging met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1048
+      },
+      {
+        "chapter": 8,
+        "verse": 1,
+        "file": "8-ezra-afstamming.svg",
+        "scene": "Ezra: de genoemde lijn",
+        "alt": "Ezra: de genoemde lijn — 3 Ezra 8:1–2",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1442
       }
     ],
     "4ezra": [

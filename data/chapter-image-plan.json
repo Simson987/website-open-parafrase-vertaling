@@ -33941,6 +33941,127 @@
           "source": "3 Ezra 6:24–31"
         }
       ]
+    },
+    {
+      "book": "3ezra",
+      "chapter": 8,
+      "status": "reviewed",
+      "target_images": 11,
+      "reason": "Bestaande beelden bestrijken terugkeer, gunst bij de koning en gaven. Vasten bij Ahava, het wegen en Ezra’s belijdenis zijn drie ontbrekende handelingen in dit lange hoofdstuk. Afstamming, reisstappen, mandaat en overdracht krijgen schema’s met de eigen namen, materialen en cijfers.",
+      "additions": [
+        {
+          "verse": 51,
+          "file": "8-51-vasten-ahava-verdieping.webp",
+          "scene": "Vasten bij de rivier Ahava",
+          "kind": "scene"
+        },
+        {
+          "verse": 56,
+          "file": "8-56-wegen-gerei-verdieping.webp",
+          "scene": "Het zilver en goud afgewogen",
+          "kind": "scene"
+        },
+        {
+          "verse": 74,
+          "file": "8-74-ezra-bid-verdieping.webp",
+          "scene": "Ezra knielt in gebed",
+          "kind": "scene"
+        },
+        {
+          "verse": 1,
+          "file": "8-leeswijzer.svg",
+          "scene": "Ezra: reis, opdracht en gebed",
+          "kind": "diagram",
+          "source": "3 Ezra 8:1–97"
+        },
+        {
+          "verse": 11,
+          "file": "8-koninklijk-mandaat.svg",
+          "scene": "Wat Artaxerxes toestaat",
+          "kind": "diagram",
+          "source": "3 Ezra 8:11–27"
+        },
+        {
+          "verse": 56,
+          "file": "8-gewichten-overdracht.svg",
+          "scene": "Gewogen en overgedragen",
+          "kind": "diagram",
+          "source": "3 Ezra 8:55–65"
+        },
+        {
+          "verse": 43,
+          "file": "8-reis-stappen.svg",
+          "scene": "Van Ahava naar Jeruzalem",
+          "kind": "diagram",
+          "source": "3 Ezra 8:43–68"
+        },
+        {
+          "verse": 1,
+          "file": "8-ezra-afstamming.svg",
+          "scene": "Ezra: de genoemde lijn",
+          "kind": "diagram",
+          "source": "3 Ezra 8:1–2"
+        }
+      ]
+    },
+    {
+      "book": "3ezra",
+      "chapter": 9,
+      "status": "reviewed",
+      "target_images": 7,
+      "reason": "Wintervergadering, Ezra met de wet en de houten verhoging zijn aanwezig. De afsluitende opdracht om te delen met wie niets heeft krijgt een eigen scène. Leeswijzer, onderzoekstijden en de exacte namen links en rechts bij Ezra verduidelijken verschillende passages.",
+      "additions": [
+        {
+          "verse": 55,
+          "file": "9-55-delen-vreugde-verdieping.webp",
+          "scene": "Geschenken voor wie niets heeft",
+          "kind": "scene"
+        },
+        {
+          "verse": 1,
+          "file": "9-leeswijzer.svg",
+          "scene": "Onderzoek en de gelezen wet",
+          "kind": "diagram",
+          "source": "3 Ezra 9:1–56"
+        },
+        {
+          "verse": 5,
+          "file": "9-onderzoek-tijden.svg",
+          "scene": "Tijden van het onderzoek",
+          "kind": "diagram",
+          "source": "3 Ezra 9:3–17"
+        },
+        {
+          "verse": 43,
+          "file": "9-naast-ezra.svg",
+          "scene": "Naast Ezra op de verhoging",
+          "kind": "diagram",
+          "source": "3 Ezra 9:42–44"
+        }
+      ]
+    },
+    {
+      "book": "3ezra",
+      "chapter": 7,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Voltooiing, Pascha en steun voor het werk zijn aanwezig en dekken de korte geschiedenis. Leeswijzer en exact datum-offerschema volstaan; een extra feestfoto zou dupliceren.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "7-leeswijzer.svg",
+          "scene": "Voltooiing, inwijding en Pascha",
+          "kind": "diagram",
+          "source": "3 Ezra 7:1–15"
+        },
+        {
+          "verse": 5,
+          "file": "7-inwijding-aantallen.svg",
+          "scene": "Datum en offers",
+          "kind": "diagram",
+          "source": "3 Ezra 7:5–14"
+        }
+      ]
     }
   ]
 }

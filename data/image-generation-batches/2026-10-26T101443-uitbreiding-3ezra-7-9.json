@@ -1,0 +1,383 @@
+{
+  "date": "2026-10-26",
+  "started": "2026-10-26T10:14:43Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "3ezra",
+      "chapter": 8,
+      "verse": 51,
+      "file": "8-51-vasten-ahava-verdieping.webp",
+      "scene": "Vasten bij de rivier Ahava",
+      "alt": "Vasten bij de rivier Ahava — 3 Ezra 8:51; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic biblical narrative, Achaemenid Persian period ancient Judea and Mesopotamia, natural materials and light, landscape 3:2, modest opaque period robes, anatomically coherent people with exactly two arms. No Roman objects, modern equipment, readable writing, blood, injury or watermark. Ezra the Jewish scribe and a small assembly of modestly robed travelers kneel in prayer and fasting beside the river Ahava at their ancient camp before their journey. Children and pack animals remain safely in the background. Solemn dependence on God, no soldiers or cavalry escort, no meals laid out, ancient tents and water.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "3ezra",
+      "chapter": 8,
+      "verse": 56,
+      "file": "8-56-wegen-gerei-verdieping.webp",
+      "scene": "Het zilver en goud afgewogen",
+      "alt": "Het zilver en goud afgewogen — 3 Ezra 8:56; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic biblical narrative, Achaemenid Persian period ancient Judea and Mesopotamia, natural materials and light, landscape 3:2, modest opaque period robes, anatomically coherent people with exactly two arms. No Roman objects, modern equipment, readable writing, blood, injury or watermark. Ezra and two Jewish priestly leaders in a Persian-period camp carefully weigh silver and gold using an ancient beam balance and stone weights on a wooden table. Sealed bags and a few gold bowls beside them, a scribe records the weight on a scroll with illegible marks. Accurate hands, two arms each, no modern scales, no invented visible numbers.",
+      "edit_prompt": "Use case: precise-object-edit. Edit this historical biblical weighing scene only to remove ALL background soldiers, guards, helmets, spears and weapons. Replace the removed figures with natural unoccupied tent, landscape, animals or civilian travelers in modest robes. Ezra specifically did not request an armed royal escort (3 Ezra 8:51–54). Keep the three foreground men, their faces, exactly two arms each, hands, beam balance, precious metal, bowls, table, tents, river, light and composition otherwise unchanged. No readable text, blood or modern objects.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "3ezra",
+      "chapter": 8,
+      "verse": 74,
+      "file": "8-74-ezra-bid-verdieping.webp",
+      "scene": "Ezra knielt in gebed",
+      "alt": "Ezra knielt in gebed — 3 Ezra 8:74; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic biblical narrative, Achaemenid Persian period ancient Judea and Mesopotamia, natural materials and light, landscape 3:2, modest opaque period robes, anatomically coherent people with exactly two arms. No Roman objects, modern equipment, readable writing, blood, injury or watermark. Ezra in modest opaque robes torn at the outer hem, kneels on stone ground before the temple courtyard at evening, both hands outstretched in humble confession, grief on his face; a respectful small group of men and women waits behind. Robes still fully cover his body; exactly two arms, no pulling hair, injuries or deity portrait.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "3ezra",
+      "chapter": 9,
+      "verse": 55,
+      "file": "9-55-delen-vreugde-verdieping.webp",
+      "scene": "Geschenken voor wie niets heeft",
+      "alt": "Geschenken voor wie niets heeft — 3 Ezra 9:55; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic biblical narrative, Achaemenid Persian period ancient Judea and Mesopotamia, natural materials and light, landscape 3:2, modest opaque period robes, anatomically coherent people with exactly two arms. No Roman objects, modern equipment, readable writing, blood, injury or watermark. Persian-period Jerusalem after a public reading of the law. Modestly clothed Judean men and women distribute baskets of bread and jars of drink to households who have nothing prepared, neighbors receive them with gratitude. A warm community meal in an ancient courtyard, clear act of sharing, realistic coherent hands, no modern packaging or coins.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "3ezra",
+      "chapter": 7,
+      "verse": 1,
+      "file": "7-leeswijzer.svg",
+      "scene": "Voltooiing, inwijding en Pascha",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 992,
+      "source": "3 Ezra 7:1–15",
+      "design": {
+        "rows": [
+          [
+            "1–5 · De tempel voltooid",
+            "Darius’ bevel wordt uitgevoerd; het huis is af op 23 Adar in zijn zesde jaar."
+          ],
+          [
+            "6–9 · De inwijding",
+            "Offers voor het huis en voor heel Israël; priesters en Levieten naar hun families."
+          ],
+          [
+            "10–15 · Het feest",
+            "Pascha op de veertiende dag van de eerste maand; zeven dagen ongezuurde broden."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "3ezra",
+      "chapter": 8,
+      "verse": 1,
+      "file": "8-leeswijzer.svg",
+      "scene": "Ezra: reis, opdracht en gebed",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "3 Ezra 8:1–97",
+      "design": {
+        "rows": [
+          [
+            "1–30 · Ezra en de koning",
+            "Afstamming, wetskennis en het bevel van Artaxerxes; Ezra dankt God."
+          ],
+          [
+            "31–54 · Reizigers en vasten",
+            "Leiders, extra dienaren en gebed om een goede reis bij Ahava."
+          ],
+          [
+            "55–68 · Verantwoord vervoer",
+            "Gerei gewogen en bewaakt; vertrek, aankomst, overdracht en offers."
+          ],
+          [
+            "69–97 · Schuld en belijdenis",
+            "Ezra hoort het bericht, treurt en bidt; de menigte sluit zich aan en zweert."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "3ezra",
+      "chapter": 9,
+      "verse": 1,
+      "file": "9-leeswijzer.svg",
+      "scene": "Onderzoek en de gelezen wet",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1098,
+      "source": "3 Ezra 9:1–56",
+      "design": {
+        "rows": [
+          [
+            "1–17 · Bijeenkomst en onderzoek",
+            "Ezra vast; de wintervergadering leidt tot onderzoek per familie en plaats."
+          ],
+          [
+            "18–36 · De namen",
+            "Priesters, Levieten en andere Israëlieten worden met hun families genoemd."
+          ],
+          [
+            "37–49 · De wet gehoord",
+            "Ezra leest vanaf de houten verhoging; de Levieten onderwijzen het volk."
+          ],
+          [
+            "50–56 · Van verdriet naar delen",
+            "De dag is heilig: feestvieren en geschenken sturen aan wie niets heeft."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "3ezra",
+      "chapter": 7,
+      "verse": 5,
+      "file": "7-inwijding-aantallen.svg",
+      "scene": "Datum en offers",
+      "alt": "Datum en offers met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1012,
+      "source": "3 Ezra 7:5–14",
+      "design": {
+        "rows": [
+          [
+            "Voltooiing · vers 5",
+            "23 Adar, het zesde jaar van Darius."
+          ],
+          [
+            "Inwijding · vers 7",
+            "100 stieren, 200 rammen en 400 lammeren."
+          ],
+          [
+            "Voor heel Israël · vers 8",
+            "12 bokken, naar het aantal leiders van de twaalf stammen."
+          ],
+          [
+            "Pascha · vers 10–14",
+            "Veertiende dag van de eerste maand; daarna zeven dagen feest."
+          ]
+        ],
+        "note": "Datum en aantallen volgen 3 Ezra zelf, zonder ze aan een parallelboek gelijk te maken."
+      }
+    },
+    {
+      "book": "3ezra",
+      "chapter": 8,
+      "verse": 11,
+      "file": "8-koninklijk-mandaat.svg",
+      "scene": "Wat Artaxerxes toestaat",
+      "alt": "Wat Artaxerxes toestaat met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1098,
+      "source": "3 Ezra 8:11–27",
+      "design": {
+        "rows": [
+          [
+            "Vrijwillige reis en gaven",
+            "Wie wil mag meetrekken; goud, zilver en gerei voor Jeruzalem."
+          ],
+          [
+            "Bijdragen · vers 22",
+            "Tot 100 talenten zilver, 100 maten graan en 100 vaten wijn."
+          ],
+          [
+            "Vrijstelling · vers 24–25",
+            "Geen belasting of andere lasten voor de genoemde tempeldienaren en schriftgeleerden."
+          ],
+          [
+            "Recht en onderwijs · vers 26",
+            "Ezra stelt rechters aan en leert de wet aan wie haar niet kent."
+          ]
+        ],
+        "note": "De bevoegdheden zijn onderdeel van dit koninklijk bevel in het verhaal."
+      }
+    },
+    {
+      "book": "3ezra",
+      "chapter": 8,
+      "verse": 56,
+      "file": "8-gewichten-overdracht.svg",
+      "scene": "Gewogen en overgedragen",
+      "alt": "Gewogen en overgedragen met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1177,
+      "source": "3 Ezra 8:55–65",
+      "design": {
+        "rows": [
+          [
+            "Gewogen · vers 57",
+            "650 talenten zilver, 100 talenten aan gouden voorwerpen en 100 talenten goud."
+          ],
+          [
+            "Gerei · vers 58",
+            "20 gouden schalen en 12 voorwerpen van fijn brons."
+          ],
+          [
+            "Bewaren · vers 59–61",
+            "Heilige mensen bewaken het heilige gerei tot het in de tempel wordt afgeleverd."
+          ],
+          [
+            "Verantwoorden · vers 63–65",
+            "Op de vierde dag in Jeruzalem naar aantal en gewicht overgedragen en opgeschreven."
+          ]
+        ],
+        "note": "De materiaalbenamingen zijn precies die van de plaatselijke tekst; er wordt niets uit een parallelboek vervangen."
+      }
+    },
+    {
+      "book": "3ezra",
+      "chapter": 8,
+      "verse": 43,
+      "file": "8-reis-stappen.svg",
+      "scene": "Van Ahava naar Jeruzalem",
+      "alt": "Van Ahava naar Jeruzalem met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1098,
+      "source": "3 Ezra 8:43–68",
+      "design": {
+        "rows": [
+          [
+            "Drie dagen bij Ahava",
+            "Inspectie van de reizigers; extra dienaren worden gevraagd en komen."
+          ],
+          [
+            "Vasten en bewaring",
+            "Geen koninklijk leger gevraagd; gebed om bescherming en het gerei afgewogen."
+          ],
+          [
+            "Vertrek · vers 62",
+            "Twaalfde dag van de eerste maand bij de rivier Ahava."
+          ],
+          [
+            "Aankomst en overdracht",
+            "Drie dagen verblijf, op de vierde dag wegen en afleveren; daarna offers en bevelen."
+          ]
+        ],
+        "note": "De stappen volgen deze passage. Er wordt geen extra reisroute of landkaart verondersteld."
+      }
+    },
+    {
+      "book": "3ezra",
+      "chapter": 9,
+      "verse": 5,
+      "file": "9-onderzoek-tijden.svg",
+      "scene": "Tijden van het onderzoek",
+      "alt": "Tijden van het onderzoek met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1134,
+      "source": "3 Ezra 9:3–17",
+      "design": {
+        "rows": [
+          [
+            "Oproep",
+            "Binnen twee of drie dagen naar Jeruzalem komen."
+          ],
+          [
+            "Bijeenkomst · vers 5",
+            "Twintigste dag van de negende maand, in de winterkou."
+          ],
+          [
+            "Begin · vers 16",
+            "Nieuwe maan van de tiende maand: de aangewezen leiders onderzoeken de zaken."
+          ],
+          [
+            "Afgerond · vers 17",
+            "Nieuwe maan van de eerste maand: het onderzoek is afgerond."
+          ]
+        ],
+        "note": "Dit betreft de winterbijeenkomst. Het lezen van de wet wordt daarna bij de zevende maand verteld."
+      }
+    },
+    {
+      "book": "3ezra",
+      "chapter": 9,
+      "verse": 43,
+      "file": "9-naast-ezra.svg",
+      "scene": "Naast Ezra op de verhoging",
+      "alt": "Naast Ezra op de verhoging met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1048,
+      "source": "3 Ezra 9:42–44",
+      "design": {
+        "rows": [
+          [
+            "Rechts genoemd · vers 43",
+            "Matthatias, Sammus, Ananias, Azarias, Urias, Ezekias en Baälsamus."
+          ],
+          [
+            "Links genoemd · vers 44",
+            "Chaldeüs, Misaël, Melchias, Haothasufus, Nabarias en Zacharias."
+          ],
+          [
+            "Ezra · vers 42",
+            "Op de speciaal gemaakte verhoogde houten katheder."
+          ],
+          [
+            "De plaats · vers 41",
+            "Het grote plein voor de heilige poort."
+          ]
+        ],
+        "note": "Rechts en links zijn de woorden van de tekst; de namen van de helpers worden niet met de latere leraren vermengd."
+      }
+    },
+    {
+      "book": "3ezra",
+      "chapter": 8,
+      "verse": 1,
+      "file": "8-ezra-afstamming.svg",
+      "scene": "Ezra: de genoemde lijn",
+      "alt": "Ezra: de genoemde lijn — 3 Ezra 8:1–2",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1442,
+      "source": "3 Ezra 8:1–2",
+      "design": {
+        "type": "vertical named sequence",
+        "names": [
+          "Aäron",
+          "Eleazar",
+          "Pinehas",
+          "Abisai",
+          "Bukki",
+          "Uria",
+          "Amaria",
+          "Achitob",
+          "Sadok",
+          "Sallem",
+          "Chelkia",
+          "Sechrie",
+          "Azaria",
+          "Ezra"
+        ],
+        "note": "Van Aäron naar Ezra, in omgekeerde leesrichting van de tekst. Alleen de hier genoemde namen; niet aangevuld vanuit andere geslachtslijsten."
+      }
+    }
+  ]
+}
