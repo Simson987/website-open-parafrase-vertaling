@@ -1,0 +1,357 @@
+{
+  "date": "2026-10-26",
+  "started": "2026-10-26T10:14:43Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "tobit",
+      "chapter": 1,
+      "verse": 20,
+      "file": "1-20-doden-begraven-verdieping.webp",
+      "scene": "Tobit begraaft een volksgenoot",
+      "alt": "Tobit begraaft een volksgenoot — Tobit 1:20; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic biblical narrative in ancient Assyrian-period Nineveh and Jewish exile communities, natural materials and period garments, landscape 3:2, fully modest opaque robes, coherent anatomy with exactly two arms per person. No Roman armor, modern objects, readable writing, blood, visible injury or watermark. At dusk outside ancient Nineveh’s wall, Tobit a middle-aged Jewish exile in modest rough robes respectfully lowers a completely wrapped linen shroud into a prepared simple grave, with one quiet helper. No exposed corpse or injuries, no crucifixes, no modern cemetery. Compassionate sober act, coherent arms and hands, lamp and digging tool nearby.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "tobit",
+      "chapter": 1,
+      "verse": 25,
+      "file": "1-25-achiachar-voorspraak-verdieping.webp",
+      "scene": "Achiachar spreekt voor Tobit",
+      "alt": "Achiachar spreekt voor Tobit — Tobit 1:25; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic biblical narrative in ancient Assyrian-period Nineveh and Jewish exile communities, natural materials and period garments, landscape 3:2, fully modest opaque robes, coherent anatomy with exactly two arms per person. No Roman armor, modern objects, readable writing, blood, visible injury or watermark. Ancient Assyrian royal court, Ahiqar called Achiachar in this narrative, a dignified Jewish court official in modest richly woven robes and an Assyrian-style cap, respectfully appeals to king Esarhaddon on his throne on behalf of his uncle Tobit. A few officials quietly observe; natural palace reliefs, no Persian or Roman insignia, no visible violence, two arms each.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "tobit",
+      "chapter": 2,
+      "verse": 10,
+      "file": "2-10-binnenplaats-muur-verdieping.webp",
+      "scene": "Tobit rust bij de muur",
+      "alt": "Tobit rust bij de muur — Tobit 2:10; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic biblical narrative in ancient Assyrian-period Nineveh and Jewish exile communities, natural materials and period garments, landscape 3:2, fully modest opaque robes, coherent anatomy with exactly two arms per person. No Roman armor, modern objects, readable writing, blood, visible injury or watermark. Night in an ancient Nineveh courtyard, Tobit fully covered in a modest opaque wool cloak rests on a mat beside a rough stone and mudbrick wall, his uncovered face turns upward. Small sparrows nest in a crevice above him. Calm scene just before the narrated loss of sight, no droppings shown, no injury, no supernatural light, no extra people.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "tobit",
+      "chapter": 1,
+      "verse": 1,
+      "file": "1-leeswijzer.svg",
+      "scene": "Tobits trouw in ballingschap",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1141,
+      "source": "Tobit 1:1–25",
+      "design": {
+        "rows": [
+          [
+            "1–9 · Familie en trouw",
+            "Naftali, Jeruzalem, eerstelingen en tienden; huwelijk met Anna en geboorte van Tobias."
+          ],
+          [
+            "10–18 · In Nineve",
+            "Eigen leefwijze, gunst bij Enemessar en zilver in bewaring bij Gabaël."
+          ],
+          [
+            "19–23 · Goeddoen en gevaar",
+            "Brood, kleren en begrafenissen; Tobit wordt verraden, vlucht en verliest bezit."
+          ],
+          [
+            "24–25 · Terugkeer",
+            "Onder Assar-Haddon doet neef Achiachar een goed woord voor hem."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "tobit",
+      "chapter": 2,
+      "verse": 1,
+      "file": "2-leeswijzer.svg",
+      "scene": "Feest, begrafenis en blindheid",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 949,
+      "source": "Tobit 2:1–15",
+      "design": {
+        "rows": [
+          [
+            "1–5 · Een onderbroken maaltijd",
+            "Tobit zoekt een arme gast, maar hoort van een dode en bergt hem."
+          ],
+          [
+            "6–11 · Rouw en nacht",
+            "Amos’ woorden, begrafenis na zonsondergang en blindheid na de nacht bij de muur."
+          ],
+          [
+            "12–15 · Anna en het bokje",
+            "Anna verdient loon en een geschenk; Tobit verdenkt haar en zij weerspreekt hem."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "tobit",
+      "chapter": 3,
+      "verse": 1,
+      "file": "3-leeswijzer.svg",
+      "scene": "Twee gebeden, één antwoord",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 863,
+      "source": "Tobit 3:1–25",
+      "design": {
+        "rows": [
+          [
+            "1–6 · Tobit in Nineve",
+            "Hij bidt om ontferming en verlossing uit zijn verdriet."
+          ],
+          [
+            "7–23 · Sara in Ecbatana",
+            "Bespot na zeven verloren mannen; zij bidt bij het raam."
+          ],
+          [
+            "24–25 · Gehoord",
+            "Beide gebeden worden gehoord en Rafaël wordt gestuurd voor beider herstel."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "tobit",
+      "chapter": 4,
+      "verse": 1,
+      "file": "4-leeswijzer.svg",
+      "scene": "Raad voor Tobias",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1098,
+      "source": "Tobit 4:1–21",
+      "design": {
+        "rows": [
+          [
+            "1–5 · Ouders en begraven",
+            "Tobit roept Tobias, vraagt zorg voor Anna en noemt het gezamenlijke graf."
+          ],
+          [
+            "6–14 · Recht en vrijgevigheid",
+            "Denk aan God, geef naar vermogen en vermijd trots."
+          ],
+          [
+            "15–20 · Dagelijks handelen",
+            "Meteen betalen, verstandig omgaan, delen, raad vragen en God prijzen."
+          ],
+          [
+            "21 · Het geld",
+            "Tien talenten bij Gabaël in Rages; rijkdom ligt ook in ontzag en rechtvaardigheid."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "tobit",
+      "chapter": 1,
+      "verse": 9,
+      "file": "1-familie-relaties.svg",
+      "scene": "Tobits gezin en zijn neef",
+      "alt": "Tobits gezin en zijn neef met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 962,
+      "source": "Tobit 1:9,24–25",
+      "design": {
+        "rows": [
+          [
+            "Tobit en Anna",
+            "Echtgenoten uit dezelfde familie."
+          ],
+          [
+            "Tobias",
+            "De zoon van Tobit en Anna."
+          ],
+          [
+            "Anaël",
+            "De broer van Tobit."
+          ],
+          [
+            "Achiachar",
+            "De zoon van Anaël; dus Tobits neef. Hij pleit voor Tobits terugkeer."
+          ]
+        ],
+        "note": "Gabaël uit Tobits voorouderlijst wordt niet zonder bewijs gelijkgesteld aan de geldbewaarder in Rages."
+      }
+    },
+    {
+      "book": "tobit",
+      "chapter": 2,
+      "verse": 2,
+      "file": "2-gebeurtenissen.svg",
+      "scene": "Hoe het verdriet toeneemt",
+      "alt": "Hoe het verdriet toeneemt met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1134,
+      "source": "Tobit 2:2–15",
+      "design": {
+        "rows": [
+          [
+            "Eerst de gast",
+            "Tobit wil op het feest iemand uitnodigen die gebrek lijdt."
+          ],
+          [
+            "Dan de begrafenis",
+            "Het bericht over een dode onderbreekt zijn maaltijd."
+          ],
+          [
+            "Daarna de blindheid",
+            "De nacht bij de muur, mussen en witte oogvlekken; artsen helpen niet."
+          ],
+          [
+            "Ten slotte het conflict",
+            "Anna’s bokje is volgens haar een geschenk boven op het loon, geen diefstal."
+          ]
+        ],
+        "note": "De vrouw geeft zelf uitleg over haar loon en geschenk; Tobits verdenking wordt niet als bewezen diefstal verteld."
+      }
+    },
+    {
+      "book": "tobit",
+      "chapter": 3,
+      "verse": 24,
+      "file": "3-gebeden-antwoord.svg",
+      "scene": "Twee plaatsen en het antwoord",
+      "alt": "Twee plaatsen en het antwoord met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "Tobit 3:1–25",
+      "design": {
+        "rows": [
+          [
+            "Nineve · Tobit",
+            "Verdriet na verwijten en blindheid; gebed om ontferming."
+          ],
+          [
+            "Ecbatana · Sara",
+            "Verdriet door spot en verlies; gebed bij het raam."
+          ],
+          [
+            "Op dezelfde dag",
+            "Beide gebeden worden vóór Gods heerlijkheid gehoord."
+          ],
+          [
+            "Rafaëls opdracht",
+            "Tobits ogen genezen, Sara aan Tobias verbinden en Asmodeüs binden."
+          ]
+        ],
+        "note": "De laatste regel is de aangekondigde opdracht, nog niet de uitvoering in dit hoofdstuk."
+      }
+    },
+    {
+      "book": "tobit",
+      "chapter": 4,
+      "verse": 7,
+      "file": "4-geven-vermogen.svg",
+      "scene": "Geven naar vermogen",
+      "alt": "Geven naar vermogen met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1012,
+      "source": "Tobit 4:7–12,17",
+      "design": {
+        "rows": [
+          [
+            "Wie veel heeft",
+            "Geef veel."
+          ],
+          [
+            "Wie weinig heeft",
+            "Wees niet bang ook van het weinige te geven."
+          ],
+          [
+            "Hoe je geeft",
+            "Keer je gezicht niet af van armen; kijk niet gierig."
+          ],
+          [
+            "Wat je deelt",
+            "Brood voor wie honger heeft en kleren voor wie niets heeft."
+          ]
+        ],
+        "note": "Tobits raad aan zijn zoon; er wordt geen zelfgekozen vast percentage aan toegevoegd."
+      }
+    },
+    {
+      "book": "tobit",
+      "chapter": 4,
+      "verse": 15,
+      "file": "4-raad-dagelijks.svg",
+      "scene": "Raad voor dagelijks handelen",
+      "alt": "Raad voor dagelijks handelen met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1012,
+      "source": "Tobit 4:15–20",
+      "design": {
+        "rows": [
+          [
+            "Werk en loon",
+            "Laat loon niet overnachten; betaal het meteen."
+          ],
+          [
+            "Omgang",
+            "Doe niemand aan wat hij haat; vermijd dronkenschap."
+          ],
+          [
+            "Verstand",
+            "Vraag goede raad en veracht die niet."
+          ],
+          [
+            "Gebed",
+            "Prijs de Heere en vraag om rechte wegen en goede plannen."
+          ]
+        ],
+        "note": "De korte toepassingen volgen de genoemde raad, zonder nieuwe gebeurtenissen toe te voegen."
+      }
+    },
+    {
+      "book": "tobit",
+      "chapter": 1,
+      "verse": 1,
+      "file": "1-tobit-afstamming.svg",
+      "scene": "Tobit: genoemde voorouders",
+      "alt": "Tobit: genoemde voorouders — Tobit 1:1",
+      "kind": "diagram",
+      "width": 840,
+      "height": 722,
+      "source": "Tobit 1:1",
+      "design": {
+        "type": "vertical named sequence",
+        "names": [
+          "Gabaël",
+          "Aduël",
+          "Ananiël",
+          "Tobiël",
+          "Tobit"
+        ],
+        "note": "Uit de familie van Azaël en de stam Naftali. Deze bredere aanduidingen worden niet als twee extra directe vaders getekend."
+      }
+    }
+  ]
+}

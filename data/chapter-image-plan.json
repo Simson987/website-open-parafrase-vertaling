@@ -34571,6 +34571,130 @@
           "source": "4 Ezra 15:1–9,24–27"
         }
       ]
+    },
+    {
+      "book": "tobit",
+      "chapter": 1,
+      "status": "reviewed",
+      "target_images": 8,
+      "reason": "Delen, eerstelingen en geld in bewaring zijn aanwezig. Het begraven van doden en Achiachars voorspraak zijn twee andere belangrijke gebeurtenissen. Opbouw, familierelaties en de genoemde voorouderlijn krijgen schema’s met onderscheid tussen Tobit en Tobias.",
+      "additions": [
+        {
+          "verse": 20,
+          "file": "1-20-doden-begraven-verdieping.webp",
+          "scene": "Tobit begraaft een volksgenoot",
+          "kind": "scene"
+        },
+        {
+          "verse": 25,
+          "file": "1-25-achiachar-voorspraak-verdieping.webp",
+          "scene": "Achiachar spreekt voor Tobit",
+          "kind": "scene"
+        },
+        {
+          "verse": 1,
+          "file": "1-leeswijzer.svg",
+          "scene": "Tobits trouw in ballingschap",
+          "kind": "diagram",
+          "source": "Tobit 1:1–25"
+        },
+        {
+          "verse": 9,
+          "file": "1-familie-relaties.svg",
+          "scene": "Tobits gezin en zijn neef",
+          "kind": "diagram",
+          "source": "Tobit 1:9,24–25"
+        },
+        {
+          "verse": 1,
+          "file": "1-tobit-afstamming.svg",
+          "scene": "Tobit: genoemde voorouders",
+          "kind": "diagram",
+          "source": "Tobit 1:1"
+        }
+      ]
+    },
+    {
+      "book": "tobit",
+      "chapter": 2,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Uitnodiging, Anna’s werk en het bokje zijn aanwezig. De nacht bij de muur vóór de blindheid is een ontbrekende belangrijke scène. Leeswijzer en gebeurtenissenketen plaatsen de blindheid en de onbewezen verdenking in hun volgorde.",
+      "additions": [
+        {
+          "verse": 10,
+          "file": "2-10-binnenplaats-muur-verdieping.webp",
+          "scene": "Tobit rust bij de muur",
+          "kind": "scene"
+        },
+        {
+          "verse": 1,
+          "file": "2-leeswijzer.svg",
+          "scene": "Feest, begrafenis en blindheid",
+          "kind": "diagram",
+          "source": "Tobit 2:1–15"
+        },
+        {
+          "verse": 2,
+          "file": "2-gebeurtenissen.svg",
+          "scene": "Hoe het verdriet toeneemt",
+          "kind": "diagram",
+          "source": "Tobit 2:2–15"
+        }
+      ]
+    },
+    {
+      "book": "tobit",
+      "chapter": 3,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Tobits gebed, Sara bij het raam en Rafaëls zending zijn aanwezig en passend. Een leeswijzer en een parallel overzicht verbinden tijd, plaatsen en aangekondigde opdracht; nieuwe gebedsfoto’s zijn overbodig.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "3-leeswijzer.svg",
+          "scene": "Twee gebeden, één antwoord",
+          "kind": "diagram",
+          "source": "Tobit 3:1–25"
+        },
+        {
+          "verse": 24,
+          "file": "3-gebeden-antwoord.svg",
+          "scene": "Twee plaatsen en het antwoord",
+          "kind": "diagram",
+          "source": "Tobit 3:1–25"
+        }
+      ]
+    },
+    {
+      "book": "tobit",
+      "chapter": 4,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Tobits raad, geven en direct loon betalen zijn aanwezig en dekken de handelingen. Leeswijzer en twee onderwijsdiagrammen structureren het uitgebreide advies zonder extra generieke vader-zoonfoto.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "4-leeswijzer.svg",
+          "scene": "Raad voor Tobias",
+          "kind": "diagram",
+          "source": "Tobit 4:1–21"
+        },
+        {
+          "verse": 7,
+          "file": "4-geven-vermogen.svg",
+          "scene": "Geven naar vermogen",
+          "kind": "diagram",
+          "source": "Tobit 4:7–12,17"
+        },
+        {
+          "verse": 15,
+          "file": "4-raad-dagelijks.svg",
+          "scene": "Raad voor dagelijks handelen",
+          "kind": "diagram",
+          "source": "Tobit 4:15–20"
+        }
+      ]
     }
   ]
 }
