@@ -33166,6 +33166,54 @@
           "source": "Openbaring 5:8–14"
         }
       ]
+    },
+    {
+      "book": "openbaring",
+      "chapter": 6,
+      "status": "reviewed",
+      "target_images": 9,
+      "reason": "Wit paard, zwart paard en de tekenen van het zesde zegel zijn aanwezig. Het rode paard, het vale paard en de wachtende getuigen krijgen afzonderlijke als visioen gemarkeerde beelden. Leeswijzer, de vier paarden op volgorde en het vijfde-zegeloverzicht geven de concrete aantallen, attributen en het antwoord aan de getuigen weer zonder moderne identificaties of grafisch geweld.",
+      "additions": [
+        {
+          "verse": 4,
+          "file": "6-4-rood-paard-verdieping.webp",
+          "scene": "Visioen: het rode paard",
+          "kind": "poetic"
+        },
+        {
+          "verse": 8,
+          "file": "6-8-vaal-paard-verdieping.webp",
+          "scene": "Visioen: het vale paard",
+          "kind": "poetic"
+        },
+        {
+          "verse": 11,
+          "file": "6-11-witte-gewaden-verdieping.webp",
+          "scene": "Visioen: witte gewaden en rust",
+          "kind": "poetic"
+        },
+        {
+          "verse": 1,
+          "file": "6-leeswijzer.svg",
+          "scene": "De eerste zes zegels",
+          "kind": "diagram",
+          "source": "Openbaring 6:1–17"
+        },
+        {
+          "verse": 2,
+          "file": "6-vier-paarden.svg",
+          "scene": "De vier paarden op volgorde",
+          "kind": "diagram",
+          "source": "Openbaring 6:1–8"
+        },
+        {
+          "verse": 9,
+          "file": "6-getuigen-wachten.svg",
+          "scene": "De getuigen en hun vraag",
+          "kind": "diagram",
+          "source": "Openbaring 6:9–11"
+        }
+      ]
     }
   ]
 }

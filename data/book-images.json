@@ -42802,21 +42802,30 @@
         "verse": 2,
         "file": "6-2.webp",
         "alt": "Beeld bij Openbaring 6: Het witte paard",
-        "scene": "Het witte paard"
+        "scene": "Het witte paard",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 6,
         "verse": 5,
         "file": "6-5.webp",
         "alt": "Beeld bij Openbaring 6: Het zwarte paard en de weegschaal",
-        "scene": "Het zwarte paard en de weegschaal"
+        "scene": "Het zwarte paard en de weegschaal",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 6,
         "verse": 12,
         "file": "6-12.webp",
         "alt": "Beeld bij Openbaring 6: Zwarte zon en rode maan",
-        "scene": "Zwarte zon en rode maan"
+        "scene": "Zwarte zon en rode maan",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 7,
@@ -43356,6 +43365,66 @@
         "kind": "diagram",
         "width": 840,
         "height": 1040
+      },
+      {
+        "chapter": 6,
+        "verse": 4,
+        "file": "6-4-rood-paard-verdieping.webp",
+        "scene": "Visioen: het rode paard",
+        "alt": "Visioen: het rode paard — Openbaring 6:4; tekstillustratie.",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 6,
+        "verse": 8,
+        "file": "6-8-vaal-paard-verdieping.webp",
+        "scene": "Visioen: het vale paard",
+        "alt": "Visioen: het vale paard — Openbaring 6:8; tekstillustratie.",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 6,
+        "verse": 11,
+        "file": "6-11-witte-gewaden-verdieping.webp",
+        "scene": "Visioen: witte gewaden en rust",
+        "alt": "Visioen: witte gewaden en rust — Openbaring 6:11; tekstillustratie.",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 6,
+        "verse": 1,
+        "file": "6-leeswijzer.svg",
+        "scene": "De eerste zes zegels",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 863
+      },
+      {
+        "chapter": 6,
+        "verse": 2,
+        "file": "6-vier-paarden.svg",
+        "scene": "De vier paarden op volgorde",
+        "alt": "De vier paarden op volgorde met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1134
+      },
+      {
+        "chapter": 6,
+        "verse": 9,
+        "file": "6-getuigen-wachten.svg",
+        "scene": "De getuigen en hun vraag",
+        "alt": "De getuigen en hun vraag met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1012
       }
     ],
     "esther": [

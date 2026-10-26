@@ -1,0 +1,140 @@
+{
+  "date": "2026-10-26",
+  "started": "2026-10-26T08:13:55Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "openbaring",
+      "chapter": 6,
+      "verse": 4,
+      "file": "6-4-rood-paard-verdieping.webp",
+      "scene": "Visioen: het rode paard",
+      "alt": "Visioen: het rode paard — Openbaring 6:4; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. Revelation 6:3–4 describes the second seal: a red horse and a rider given a great sword and power to take peace from earth. Photorealistic apocalyptic vision illustration, exactly one healthy red chestnut horse in full side view with all four anatomically correct legs and exactly one fully clothed adult rider. The rider carries one large ancient sword lowered safely beside him, no raised attack, victims, wounds, blood or burning people. Natural stormy landscape, sombre purposeful movement, no modern tack or readable writing. Clearly distinguish red chestnut from the white and black horses.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "openbaring",
+      "chapter": 6,
+      "verse": 8,
+      "file": "6-8-vaal-paard-verdieping.webp",
+      "scene": "Visioen: het vale paard",
+      "alt": "Visioen: het vale paard — Openbaring 6:8; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. Revelation 6:7–8 describes the fourth seal: a pale horse, its rider named Death and Hades following. A restrained photorealistic symbolic vision: exactly one pale grey horse with a subtle greenish undertone, full body in a quiet barren ancient landscape, exactly one rider fully covered in a plain sombre hooded robe, face shadowed but not a skull. A diffuse deep shadow follows on the ground as an abstract allusion to Hades, not a second horse or monstrous body. No scythe, skeleton, victims, wounds or gore. Correct four horse legs and two human arms, natural bridle.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "openbaring",
+      "chapter": 6,
+      "verse": 11,
+      "file": "6-11-witte-gewaden-verdieping.webp",
+      "scene": "Visioen: witte gewaden en rust",
+      "alt": "Visioen: witte gewaden en rust — Openbaring 6:11; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. Revelation 6:9–11 depicts the souls of witnesses killed for God’s word beneath the altar, given long white robes and told to rest a little longer. Reverent photorealistic visualization focused on exactly three adult human figures in long opaque white robes sitting quietly in a luminous shelter beneath the broad overhanging platform of an altar, the underside of the altar visible high above them. They are alive-looking, whole and dignified, no wounds, dead bodies, ghosts with missing limbs, tombs or portrait of God. Soft clear light, calm waiting after their plea; does not claim the total number of witnesses was three. Three coherent people with natural two arms each, no readable text.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "openbaring",
+      "chapter": 6,
+      "verse": 1,
+      "file": "6-leeswijzer.svg",
+      "scene": "De eerste zes zegels",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 863,
+      "source": "Openbaring 6:1–17",
+      "design": {
+        "rows": [
+          [
+            "1–8 · Vier paarden",
+            "Wit, rood, zwart en vaal; overwinning, vredeverlies, schaarste en dood."
+          ],
+          [
+            "9–11 · Het vijfde zegel",
+            "Getuigen onder het altaar; hun vraag, witte kleren en wachten."
+          ],
+          [
+            "12–17 · Het zesde zegel",
+            "Aardbeving en kosmische tekenen; mensen verbergen zich."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "openbaring",
+      "chapter": 6,
+      "verse": 2,
+      "file": "6-vier-paarden.svg",
+      "scene": "De vier paarden op volgorde",
+      "alt": "De vier paarden op volgorde met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1134,
+      "source": "Openbaring 6:1–8",
+      "design": {
+        "rows": [
+          [
+            "Eerste · wit",
+            "Boog en krans; uittrekken als overwinnaar."
+          ],
+          [
+            "Tweede · rood",
+            "Een groot zwaard; de vrede van de aarde wegnemen."
+          ],
+          [
+            "Derde · zwart",
+            "Weegschaal; tarwe en gerst voor een dagloon."
+          ],
+          [
+            "Vierde · vaal",
+            "De dood als ruiter; het dodenrijk volgt; macht over een vierde van de aarde."
+          ]
+        ],
+        "note": "De kleuren, voorwerpen en genoemde macht volgen het visioen; er worden geen moderne personen aan gekoppeld."
+      }
+    },
+    {
+      "book": "openbaring",
+      "chapter": 6,
+      "verse": 9,
+      "file": "6-getuigen-wachten.svg",
+      "scene": "De getuigen en hun vraag",
+      "alt": "De getuigen en hun vraag met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1012,
+      "source": "Openbaring 6:9–11",
+      "design": {
+        "rows": [
+          [
+            "Wie?",
+            "Gedood om Gods Woord en hun getuigenis."
+          ],
+          [
+            "Waar?",
+            "De zielen onder het altaar."
+          ],
+          [
+            "Hun roep",
+            "Hoelang nog tot het oordeel over hun vervolgers?"
+          ],
+          [
+            "Het antwoord",
+            "Ieder een lang wit kleed; nog een korte tijd rusten totdat de medegetuigen er zijn."
+          ]
+        ],
+        "note": "Het hoofdstuk noemt hier geen totaal aantal van deze getuigen."
+      }
+    }
+  ]
+}
