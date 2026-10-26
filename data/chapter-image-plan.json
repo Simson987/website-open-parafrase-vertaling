@@ -35477,6 +35477,99 @@
           "source": "Judith 16:24–30"
         }
       ]
+    },
+    {
+      "book": "boekderwijsheid",
+      "chapter": 5,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "De vrijmoedige rechtvaardige, schip en vogel zijn aanwezig. De twee vergelijkingsschema’s voegen de overige vergankelijkheidsbeelden en de wapenrusting toe. Eén stormbeeld verbeeldt de nog ontbrekende scheppingstaal zonder menselijke voorstelling van God.",
+      "additions": [
+        {
+          "verse": 22,
+          "file": "5-22-storm-beeldspraak-verdieping.webp",
+          "scene": "Beeldspraak: de schepping als strijdmacht",
+          "kind": "poetic"
+        },
+        {
+          "verse": 9,
+          "file": "5-vergankelijkheid-beelden.svg",
+          "scene": "Beelden van vergankelijkheid",
+          "kind": "diagram",
+          "source": "Wijsheid 5:9–15"
+        },
+        {
+          "verse": 18,
+          "file": "5-wapenrusting-vergelijking.svg",
+          "scene": "Wapenrusting als beeldspraak",
+          "kind": "diagram",
+          "source": "Wijsheid 5:18–24"
+        }
+      ]
+    },
+    {
+      "book": "boekderwijsheid",
+      "chapter": 1,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "De bestaande illustraties tonen rechtspraak en geschapen leven. Het schema legt de nog ontbrekende verbinding tussen eenvoudig hart, woorden en keuze voor het leven uit; een vierde vergelijkbare landschapfoto voegt weinig toe.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "1-gerechtigheid-woorden-leven.svg",
+          "scene": "Gerechtigheid, woorden en leven",
+          "kind": "diagram",
+          "source": "Wijsheid 1:1–16"
+        }
+      ]
+    },
+    {
+      "book": "boekderwijsheid",
+      "chapter": 2,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "Nevel, rozenkransen en botsing met de rechtvaardige zijn aanwezig. Een sprekersschema is nodig om hun geciteerde overleg te onderscheiden van het afwijzende oordeel in 21–24; geen folterbeeld nodig om dit betoog uit te leggen.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "2-sprekers-en-oordeel.svg",
+          "scene": "Wie spreekt in dit hoofdstuk?",
+          "kind": "diagram",
+          "source": "Wijsheid 2:1–24"
+        }
+      ]
+    },
+    {
+      "book": "boekderwijsheid",
+      "chapter": 3,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "Vrede, goud en vrucht zijn aanwezig. Eén betekenisschema behandelt ook zuiverheid zonder kinderen en bewaart het verschil tussen beeldspraak en waardering; geen generieke nieuwe familie toegevoegd.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "3-waarde-en-uitkomst.svg",
+          "scene": "Wat werkelijk vrucht draagt",
+          "kind": "diagram",
+          "source": "Wijsheid 3:1–19"
+        }
+      ]
+    },
+    {
+      "book": "boekderwijsheid",
+      "chapter": 4,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "Deugd, wortels en wijsheid boven jaren zijn aanwezig. Het leeftijd-wijsheidschema verduidelijkt de redenering over vroeg voltooid leven en rekenschap.",
+      "additions": [
+        {
+          "verse": 7,
+          "file": "4-wijsheid-en-jaren.svg",
+          "scene": "Wijsheid en het aantal jaren",
+          "kind": "diagram",
+          "source": "Wijsheid 4:1–20"
+        }
+      ]
     }
   ]
 }
