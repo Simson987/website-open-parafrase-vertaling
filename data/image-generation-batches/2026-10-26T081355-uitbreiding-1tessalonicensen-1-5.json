@@ -1,0 +1,389 @@
+{
+  "date": "2026-10-26",
+  "started": "2026-10-26T08:13:55Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "1tessalonicensen",
+      "chapter": 5,
+      "verse": 27,
+      "file": "5-27-brief-allen-verdieping.webp",
+      "scene": "Lesbeeld: de brief voor iedereen",
+      "alt": "Lesbeeld: de brief voor iedereen — 1 Tessalonicensen 5:27; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. 1 Thessalonians 5:27 explicitly commands this letter to be read to all the holy brothers and sisters. An illustrative enactment of this instruction, not a claim about a separately recorded historical meeting: one adult man standing in a simple first-century Macedonian house courtyard reads a small unrolled letter to six varied adult listeners, men and women, everyone included and attentive. Greek Roman domestic architecture rather than Jerusalem temple. No readable letters on the papyrus, no halo, no duplicate people, natural hands holding the two edges of the document. Wide composition showing the group together.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "1tessalonicensen",
+      "chapter": 1,
+      "verse": 1,
+      "file": "1-leeswijzer.svg",
+      "scene": "Geloof, liefde en verwachting",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 863,
+      "source": "1 Tessalonicensen 1:1–10",
+      "design": {
+        "rows": [
+          [
+            "1–3 · Groet en dank",
+            "Paulus, Silvanus en Timotheüs; geloof, liefde en hoop."
+          ],
+          [
+            "4–7 · Ontvangen en navolgen",
+            "Het evangelie met kracht ontvangen, ondanks verdrukking."
+          ],
+          [
+            "8–10 · Een bekend voorbeeld",
+            "Het Woord klinkt verder; God dienen en Zijn Zoon verwachten."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "1tessalonicensen",
+      "chapter": 2,
+      "verse": 1,
+      "file": "2-leeswijzer.svg",
+      "scene": "De zorg van de verkondigers",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "1 Tessalonicensen 2:1–20",
+      "design": {
+        "rows": [
+          [
+            "1–6 · Zuivere bedoelingen",
+            "Vrijmoedig spreken, zonder bedrog, vleierij of hebzucht."
+          ],
+          [
+            "7–12 · Zachte en trouwe zorg",
+            "Als een moeder en een vader; werken om niemand te belasten."
+          ],
+          [
+            "13–16 · Woord en lijden",
+            "Gods Woord ontvangen en tegenstand verdragen."
+          ],
+          [
+            "17–20 · Verlangen naar elkaar",
+            "Lichamelijk gescheiden, maar in het hart verbonden."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "1tessalonicensen",
+      "chapter": 3,
+      "verse": 1,
+      "file": "3-leeswijzer.svg",
+      "scene": "Timotheüs en het gebed",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 863,
+      "source": "1 Tessalonicensen 3:1–13",
+      "design": {
+        "rows": [
+          [
+            "1–5 · De zending",
+            "Vanuit Athene Timotheüs sturen om het geloof te versterken."
+          ],
+          [
+            "6–10 · Het goede bericht",
+            "Geloof en liefde geven Paulus troost, vreugde en dank."
+          ],
+          [
+            "11–13 · Het gebed",
+            "Een geopende weg, groeiende liefde en standvastige harten."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "1tessalonicensen",
+      "chapter": 4,
+      "verse": 1,
+      "file": "4-leeswijzer.svg",
+      "scene": "Levenswandel en verwachting",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 863,
+      "source": "1 Tessalonicensen 4:1–18",
+      "design": {
+        "rows": [
+          [
+            "1–8 · Heilig leven",
+            "God behagen, het lichaam eren en de ander geen onrecht doen."
+          ],
+          [
+            "9–12 · Liefde en arbeid",
+            "Meer liefde; rustig leven en met eigen handen werken."
+          ],
+          [
+            "13–18 · Troost en opstanding",
+            "Jezus’ dood en opstanding dragen de hoop voor de gestorvenen."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "1tessalonicensen",
+      "chapter": 5,
+      "verse": 1,
+      "file": "5-leeswijzer.svg",
+      "scene": "Wakker leven en elkaar helpen",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "1 Tessalonicensen 5:1–28",
+      "design": {
+        "rows": [
+          [
+            "1–11 · De dag van de Heere",
+            "Waakzaam en nuchter als kinderen van het licht."
+          ],
+          [
+            "12–15 · Omgang met elkaar",
+            "Werkers erkennen; passend helpen en het goede zoeken."
+          ],
+          [
+            "16–22 · Vreugde en toetsing",
+            "Bidden, danken, toetsen en het goede vasthouden."
+          ],
+          [
+            "23–28 · Heiliging en slot",
+            "God is trouw; gebed, groet en de brief voor allen."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "1tessalonicensen",
+      "chapter": 1,
+      "verse": 3,
+      "file": "1-geloof-liefde-hoop.svg",
+      "scene": "Drie dingen in de dank",
+      "alt": "Drie dingen in de dank met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 777,
+      "source": "1 Tessalonicensen 1:2–3",
+      "design": {
+        "rows": [
+          [
+            "Geloof",
+            "Het werk dat uit het geloof voortkomt."
+          ],
+          [
+            "Liefde",
+            "De inspanning die de liefde kost."
+          ],
+          [
+            "Hoop",
+            "De volharding door de hoop op Jezus Christus."
+          ]
+        ],
+        "note": "Paulus herinnert zich deze drie voor God, de Vader."
+      }
+    },
+    {
+      "book": "1tessalonicensen",
+      "chapter": 2,
+      "verse": 7,
+      "file": "2-moeder-vader.svg",
+      "scene": "Twee beelden voor de zorg",
+      "alt": "Twee beelden voor de zorg met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 863,
+      "source": "1 Tessalonicensen 2:7–12",
+      "design": {
+        "rows": [
+          [
+            "Als een moeder · vers 7–8",
+            "Zacht zorgen en het eigen leven willen delen."
+          ],
+          [
+            "Dag en nacht · vers 9–10",
+            "Arbeiden om niemand te belasten; heilig en rechtvaardig leven."
+          ],
+          [
+            "Als een vader · vers 11–12",
+            "Ieder bemoedigen, aansporen en oproepen waardig te leven."
+          ]
+        ],
+        "note": "Moeder en vader zijn vergelijkingen voor de zorg van de verkondigers."
+      }
+    },
+    {
+      "book": "1tessalonicensen",
+      "chapter": 3,
+      "verse": 11,
+      "file": "3-gebed-drie.svg",
+      "scene": "Wat Paulus voor hen bidt",
+      "alt": "Wat Paulus voor hen bidt met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 863,
+      "source": "1 Tessalonicensen 3:11–13",
+      "design": {
+        "rows": [
+          [
+            "De weg · vers 11",
+            "God, de Vader, en Jezus leiden de weg naar jullie."
+          ],
+          [
+            "De liefde · vers 12",
+            "Groeien in liefde voor elkaar en voor iedereen."
+          ],
+          [
+            "De harten · vers 13",
+            "Versterkt, onberispelijk en heilig bij de komst van Jezus."
+          ]
+        ],
+        "note": "De drie gebedswensen volgen op Timotheüs’ goede bericht."
+      }
+    },
+    {
+      "book": "1tessalonicensen",
+      "chapter": 4,
+      "verse": 15,
+      "file": "4-komst-volgorde.svg",
+      "scene": "Samen de Heere ontmoeten",
+      "alt": "Samen de Heere ontmoeten met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "1 Tessalonicensen 4:13–18",
+      "design": {
+        "rows": [
+          [
+            "De grond · vers 13–14",
+            "Jezus is gestorven en opgestaan; daarom is er hoop."
+          ],
+          [
+            "Eerst · vers 15–16",
+            "De Heere daalt neer; de doden in Christus staan eerst op."
+          ],
+          [
+            "Daarna · vers 17",
+            "De levenden worden samen met hen opgenomen om Hem te ontmoeten."
+          ],
+          [
+            "Altijd · vers 17–18",
+            "Bij de Heere zijn; troost elkaar met deze woorden."
+          ]
+        ],
+        "note": "Dit is het beschreven toekomstbeeld. De brief geeft hier geen kalenderdatum."
+      }
+    },
+    {
+      "book": "1tessalonicensen",
+      "chapter": 5,
+      "verse": 8,
+      "file": "5-wapenrusting.svg",
+      "scene": "Geloof, liefde en hoop",
+      "alt": "Geloof, liefde en hoop met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 926,
+      "source": "1 Tessalonicensen 5:8–11",
+      "design": {
+        "rows": [
+          [
+            "Borstharnas",
+            "Geloof en liefde."
+          ],
+          [
+            "Helm",
+            "De hoop op redding."
+          ],
+          [
+            "Bestemming",
+            "Redding door Jezus Christus; samen met Hem leven."
+          ],
+          [
+            "Omgang",
+            "Elkaar bemoedigen en opbouwen."
+          ]
+        ],
+        "note": "Deze uitrusting is beeldspraak voor nuchter leven; de koppelingen volgen dit hoofdstuk."
+      }
+    },
+    {
+      "book": "1tessalonicensen",
+      "chapter": 5,
+      "verse": 14,
+      "file": "5-passend-helpen.svg",
+      "scene": "Ieder passend helpen",
+      "alt": "Ieder passend helpen met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 926,
+      "source": "1 Tessalonicensen 5:14–15",
+      "design": {
+        "rows": [
+          [
+            "Wie ongeregeld leeft",
+            "Terechtwijzen."
+          ],
+          [
+            "Wie de moed verliest",
+            "Bemoedigen."
+          ],
+          [
+            "Wie zwak is",
+            "Ondersteunen."
+          ],
+          [
+            "Tegenover iedereen",
+            "Geduldig zijn en het goede zoeken; geen kwaad vergelden."
+          ]
+        ],
+        "note": "De verschillende aansporingen staan samen in dezelfde oproep."
+      }
+    },
+    {
+      "book": "1tessalonicensen",
+      "chapter": 5,
+      "verse": 16,
+      "file": "5-vreugde-gebed-dank.svg",
+      "scene": "Vreugde, gebed en dank",
+      "alt": "Vreugde, gebed en dank met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 863,
+      "source": "1 Tessalonicensen 5:16–22",
+      "design": {
+        "rows": [
+          [
+            "Altijd · vers 16–18",
+            "Verheug je, bid onophoudelijk en dank in alles."
+          ],
+          [
+            "Geest en profetie · vers 19–20",
+            "De Geest niet uitdoven en profetieën niet verachten."
+          ],
+          [
+            "Onderscheiden · vers 21–22",
+            "Alles toetsen, het goede houden en het kwaad mijden."
+          ]
+        ],
+        "note": "Deze korte opdrachten vormen een samenhangend deel van het slot."
+      }
+    }
+  ]
+}
