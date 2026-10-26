@@ -31466,6 +31466,81 @@
           "source": "1 Tessalonicensen 4:13–18"
         }
       ]
+    },
+    {
+      "book": "2tessalonicensen",
+      "chapter": 3,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Arbeid, goeddoen en vrede zijn aanwezig. Paulus’ eigenhandige slotgroet krijgt een specifiek beeld. Leeswijzer en schema van arbeid en broederlijke terechtwijzing behouden de samenhang en nuance van de opdracht.",
+      "additions": [
+        {
+          "verse": 17,
+          "file": "3-17-eigen-hand-verdieping.webp",
+          "scene": "Paulus schrijft de slotgroet",
+          "kind": "scene"
+        },
+        {
+          "verse": 1,
+          "file": "3-leeswijzer.svg",
+          "scene": "Werk, broederschap en vrede",
+          "kind": "diagram",
+          "source": "2 Tessalonicensen 3:1–18"
+        },
+        {
+          "verse": 8,
+          "file": "3-arbeid-broeder.svg",
+          "scene": "Voorbeeld en terechtwijzing",
+          "kind": "diagram",
+          "source": "2 Tessalonicensen 3:6–15"
+        }
+      ]
+    },
+    {
+      "book": "2tessalonicensen",
+      "chapter": 1,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Volharding, geloofsgroei en gebed zijn aanwezig. Leeswijzer en schema van de verschijning verduidelijken het toekomstgedeelte zonder een extra generieke gebedsfoto.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "1-leeswijzer.svg",
+          "scene": "Volharding en verschijning",
+          "kind": "diagram",
+          "source": "2 Tessalonicensen 1:1–12"
+        },
+        {
+          "verse": 7,
+          "file": "1-verschijning.svg",
+          "scene": "Bij Jezus’ verschijning",
+          "kind": "diagram",
+          "source": "2 Tessalonicensen 1:5–12"
+        }
+      ]
+    },
+    {
+      "book": "2tessalonicensen",
+      "chapter": 2,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Onderscheiding, vasthouden en goed werk zijn aanwezig. Leeswijzer en schema van alarmerend bericht tot afloop maken de tekstvolgorde zichtbaar zonder de niet benoemde tegenhouder of actuele personen te identificeren.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "2-leeswijzer.svg",
+          "scene": "Vaststaan in de waarheid",
+          "kind": "diagram",
+          "source": "2 Tessalonicensen 2:1–17"
+        },
+        {
+          "verse": 2,
+          "file": "2-bericht-waarheid.svg",
+          "scene": "Berichten en waarheid",
+          "kind": "diagram",
+          "source": "2 Tessalonicensen 2:1–8"
+        }
+      ]
     }
   ]
 }

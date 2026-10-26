@@ -1,0 +1,215 @@
+{
+  "date": "2026-10-26",
+  "started": "2026-10-26T08:13:55Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "2tessalonicensen",
+      "chapter": 3,
+      "verse": 17,
+      "file": "3-17-eigen-hand-verdieping.webp",
+      "scene": "Paulus schrijft de slotgroet",
+      "alt": "Paulus schrijft de slotgroet — 2 Tessalonicensen 3:17; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. 2 Thessalonians 3:17 says Paul writes the greeting with his own hand as the sign in every letter. Close medium shot of a mature bearded Paul in an ordinary modest first-century room, seated at a small wooden table, carefully adding the final greeting to a sheet of papyrus with a reed pen. One right hand holds the pen naturally, the other hand rests on the far edge of the sheet, precisely two arms. Warm window light, concentration, no readable writing, no modern binding or fountain pen. This is the specific handwritten closing sign, not another anonymous group discussion.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2tessalonicensen",
+      "chapter": 1,
+      "verse": 1,
+      "file": "1-leeswijzer.svg",
+      "scene": "Volharding en verschijning",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 863,
+      "source": "2 Tessalonicensen 1:1–12",
+      "design": {
+        "rows": [
+          [
+            "1–4 · Dank voor de groei",
+            "Geloof, liefde en volharding ondanks vervolging."
+          ],
+          [
+            "5–10 · Het rechtvaardige oordeel",
+            "Rust voor de verdrukten en Jezus’ verschijning."
+          ],
+          [
+            "11–12 · Gebed om vervulling",
+            "Roeping, goedheid en geloofswerk door Gods kracht."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "2tessalonicensen",
+      "chapter": 2,
+      "verse": 1,
+      "file": "2-leeswijzer.svg",
+      "scene": "Vaststaan in de waarheid",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "2 Tessalonicensen 2:1–17",
+      "design": {
+        "rows": [
+          [
+            "1–2 · Niet opschrikken",
+            "Een vermeend bericht over de dag van Christus."
+          ],
+          [
+            "3–8 · De wetteloze",
+            "Afval, tegenhouding en de verschijning van de Heere."
+          ],
+          [
+            "9–12 · Leugen en waarheid",
+            "Misleiding en de liefde voor de waarheid."
+          ],
+          [
+            "13–17 · Dank en bemoediging",
+            "Redding, overlevering, troost en goed woord en werk."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "2tessalonicensen",
+      "chapter": 3,
+      "verse": 1,
+      "file": "3-leeswijzer.svg",
+      "scene": "Werk, broederschap en vrede",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "2 Tessalonicensen 3:1–18",
+      "design": {
+        "rows": [
+          [
+            "1–5 · Bid voor ons",
+            "Het Woord, bescherming, trouw, liefde en volharding."
+          ],
+          [
+            "6–12 · Het voorbeeld volgen",
+            "Niet tot last zijn; rustig werken en eigen brood eten."
+          ],
+          [
+            "13–15 · Goed doen en vermanen",
+            "Volhouden en de ander als broeder terechtwijzen."
+          ],
+          [
+            "16–18 · Vrede en eigen groet",
+            "Vrede van de Heere en het handschrift van Paulus."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "2tessalonicensen",
+      "chapter": 1,
+      "verse": 7,
+      "file": "1-verschijning.svg",
+      "scene": "Bij Jezus’ verschijning",
+      "alt": "Bij Jezus’ verschijning met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1012,
+      "source": "2 Tessalonicensen 1:5–12",
+      "design": {
+        "rows": [
+          [
+            "De verdrukten · vers 7",
+            "Rust samen met de verkondigers."
+          ],
+          [
+            "Het oordeel · vers 6–9",
+            "God oordeelt rechtvaardig over verdrukking en ongehoorzaamheid."
+          ],
+          [
+            "De gelovigen · vers 10",
+            "Jezus wordt in hen verheerlijkt en bewonderd."
+          ],
+          [
+            "Het gebed · vers 11–12",
+            "Roeping en geloofswerk vervuld; Zijn Naam verheerlijkt."
+          ]
+        ],
+        "note": "De brief beschrijft een toekomstverwachting en het gebed dat daarop volgt."
+      }
+    },
+    {
+      "book": "2tessalonicensen",
+      "chapter": 2,
+      "verse": 2,
+      "file": "2-bericht-waarheid.svg",
+      "scene": "Berichten en waarheid",
+      "alt": "Berichten en waarheid met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1012,
+      "source": "2 Tessalonicensen 2:1–8",
+      "design": {
+        "rows": [
+          [
+            "Het alarmerende bericht",
+            "Geest, woord of een brief die van de schrijvers zou komen."
+          ],
+          [
+            "De reactie · vers 2–3",
+            "Laat je niet opschrikken of misleiden."
+          ],
+          [
+            "Wat eerst genoemd wordt",
+            "De afval en het verschijnen van de mens van de wetteloosheid."
+          ],
+          [
+            "De afloop · vers 8",
+            "De Heere vernietigt de wetteloze bij Zijn verschijning."
+          ]
+        ],
+        "note": "De tekst noemt een tegenhouder zonder hier zijn naam te geven."
+      }
+    },
+    {
+      "book": "2tessalonicensen",
+      "chapter": 3,
+      "verse": 8,
+      "file": "3-arbeid-broeder.svg",
+      "scene": "Voorbeeld en terechtwijzing",
+      "alt": "Voorbeeld en terechtwijzing met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1012,
+      "source": "2 Tessalonicensen 3:6–15",
+      "design": {
+        "rows": [
+          [
+            "Het voorbeeld · vers 7–9",
+            "De verkondigers werkten dag en nacht om niemand te belasten."
+          ],
+          [
+            "De opdracht · vers 10–12",
+            "Wie niet wil werken; rustig werken en eigen brood eten."
+          ],
+          [
+            "De aansporing · vers 13",
+            "Niet moe worden om goed te doen."
+          ],
+          [
+            "De houding · vers 14–15",
+            "Terechtwijzen als een broeder en niet behandelen als vijand."
+          ]
+        ],
+        "note": "De woorden gaan over ongeregeld leven en niet willen werken."
+      }
+    }
+  ]
+}
