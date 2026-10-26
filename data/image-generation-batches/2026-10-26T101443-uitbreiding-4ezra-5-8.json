@@ -1,0 +1,387 @@
+{
+  "date": "2026-10-26",
+  "started": "2026-10-26T10:14:43Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "4ezra",
+      "chapter": 5,
+      "verse": 16,
+      "file": "5-16-salathiel-bezoek-verdieping.webp",
+      "scene": "Salathiël zoekt Ezra op",
+      "alt": "Salathiël zoekt Ezra op — 4 Ezra 5:16; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: illustration-story. Photorealistic biblical illustration in ancient Near Eastern materials and clothing, landscape 3:2, natural lighting and coherent anatomy with exactly two arms per person, fully modest opaque robes. Explicit prophecies and comparisons are visualized as such. No modern objects, readable text, divine portrait, blood, injuries or watermark. A biblical narrative encounter: the community leader Salathiel visits sorrowful Ezra on the second night in an ancient Mesopotamian exile dwelling. Elderly Ezra sits quietly on a woven mat, Salathiel stands or crouches nearby with open hands in concern, encouraging him to rise and eat. Two modestly robed men, exactly two arms each, small clay oil lamp, no angel, no modern furniture.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "4ezra",
+      "chapter": 6,
+      "verse": 22,
+      "file": "6-22-lege-voorraad-verdieping.webp",
+      "scene": "Teken: lege voorraadkamers",
+      "alt": "Teken: lege voorraadkamers — 4 Ezra 6:22; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: illustration-story. Photorealistic biblical illustration in ancient Near Eastern materials and clothing, landscape 3:2, natural lighting and coherent anatomy with exactly two arms per person, fully modest opaque robes. Explicit prophecies and comparisons are visualized as such. No modern objects, readable text, divine portrait, blood, injuries or watermark. A prophetic symbolic vision of an ancient granary whose storage rooms stand suddenly empty: large open clay grain bins with no grain, an unplanted bare field visible through the doorway. No people starving, no corpses or readable labels. Photorealistic mudbrick, baskets and timber, sober daylight. Not a documented modern famine.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "4ezra",
+      "chapter": 7,
+      "verse": 53,
+      "file": "7-53-paradijs-hoop-verdieping.webp",
+      "scene": "Belofte: het paradijs getoond",
+      "alt": "Belofte: het paradijs getoond — 4 Ezra 7:53; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: illustration-story. Photorealistic biblical illustration in ancient Near Eastern materials and clothing, landscape 3:2, natural lighting and coherent anatomy with exactly two arms per person, fully modest opaque robes. Explicit prophecies and comparisons are visualized as such. No modern objects, readable text, divine portrait, blood, injuries or watermark. A poetic future hope from 4 Ezra 7:53: a peaceful luminous garden with abundant healthy fruit trees, clear water, safe inviting paths, an atmosphere of healing and security. No people or deity, no serpent, no buildings, photorealistic natural textures. The image illustrates a promise in Ezra’s lament, not a separate historical visit.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "4ezra",
+      "chapter": 8,
+      "verse": 41,
+      "file": "8-41-zaaier-vergelijking-verdieping.webp",
+      "scene": "Vergelijking: veel zaad",
+      "alt": "Vergelijking: veel zaad — 4 Ezra 8:41; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: illustration-story. Photorealistic biblical illustration in ancient Near Eastern materials and clothing, landscape 3:2, natural lighting and coherent anatomy with exactly two arms per person, fully modest opaque robes. Explicit prophecies and comparisons are visualized as such. No modern objects, readable text, divine portrait, blood, injuries or watermark. A biblical comparison: a modestly robed ancient farmer scatters many seeds from one hand over a broad field, holding a cloth seed pouch with the other. Some patches show young seedlings and some bare soil with seeds, natural coherent landscape, exactly two arms, no angels or modern farming equipment. Explicit illustration of the comparison of sowing, not a new event in Ezra’s life.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "4ezra",
+      "chapter": 5,
+      "verse": 1,
+      "file": "5-leeswijzer.svg",
+      "scene": "Tekenen en Ezra’s verdriet",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1184,
+      "source": "4 Ezra 5:1–56",
+      "design": {
+        "rows": [
+          [
+            "1–15 · Ontregeling en steun",
+            "Tekenen worden aangekondigd; de geschrokken Ezra wordt door de engel opgericht."
+          ],
+          [
+            "16–30 · Bezoek en gebed",
+            "Salathiël komt, Ezra vast zeven dagen en vraagt naar het uitgekozen volk."
+          ],
+          [
+            "31–40 · Grenzen aan begrip",
+            "De engel vraagt of Ezra meer liefheeft dan de Maker en stelt onmogelijke opdrachten."
+          ],
+          [
+            "41–56 · Tijden na elkaar",
+            "Oordeel als kring, geboorten na elkaar en een ouder wordende wereld als vergelijking."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "4ezra",
+      "chapter": 6,
+      "verse": 1,
+      "file": "6-leeswijzer.svg",
+      "scene": "Begin, tekenen en schepping",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "4 Ezra 6:1–59",
+      "design": {
+        "rows": [
+          [
+            "1–10 · Het begin en de tijden",
+            "De Schepper alleen maakt begin en einde; Jakob en Ezau als tijdsbeeld."
+          ],
+          [
+            "11–34 · De stem en de tekenen",
+            "Ezra staat op, hoort een stem als veel water en wordt tot moed opgeroepen."
+          ],
+          [
+            "35–54 · Vasten en herinneren",
+            "Opnieuw zeven dagen vasten; Ezra herinnert de zes scheppingsdagen."
+          ],
+          [
+            "55–59 · De vraag blijft",
+            "Waarom ontvangt het uitgekozen volk geen erfdeel met de wereld?"
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "4ezra",
+      "chapter": 7,
+      "verse": 1,
+      "file": "7-leeswijzer.svg",
+      "scene": "De nauwe weg en ontferming",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "4 Ezra 7:1–70",
+      "design": {
+        "rows": [
+          [
+            "1–25 · Nauwe ingangen",
+            "Zee en stad als vergelijkingen; gehoorzaamheid en het komende erfdeel."
+          ],
+          [
+            "26–35 · De aangekondigde afloop",
+            "De Zoon verschijnt, vierhonderd jaar, stilte, ontwaken en oordeel."
+          ],
+          [
+            "36–61 · Vragen over het oordeel",
+            "Voorbede, Adams overtreding en de strijd om het leven."
+          ],
+          [
+            "62–70 · Gods barmhartigheid",
+            "Ezra beroept zich op geduld, goedheid, ontferming en vergeving."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "4ezra",
+      "chapter": 8,
+      "verse": 1,
+      "file": "8-leeswijzer.svg",
+      "scene": "Ezra bidt om ontferming",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1141,
+      "source": "4 Ezra 8:1–63",
+      "design": {
+        "rows": [
+          [
+            "1–19 · Velen en weinigen",
+            "Aarde en goud als vergelijking; Ezra bidt voor het zorgvuldig geschapen leven."
+          ],
+          [
+            "20–36 · De smeekbede",
+            "Verhoor Uw maaksel; laat barmhartigheid blijken aan mensen die tekortschieten."
+          ],
+          [
+            "37–49 · Zaad en antwoord",
+            "Niet elk zaad blijft behouden; Ezra vraagt om sparen en ontvangt een antwoord."
+          ],
+          [
+            "50–63 · Toekomst en vraag",
+            "Paradijs en rust worden toegezegd; Ezra vraagt opnieuw naar het moment."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "4ezra",
+      "chapter": 5,
+      "verse": 23,
+      "file": "5-uitgekozen-beelden.svg",
+      "scene": "Beelden van het ene volk",
+      "alt": "Beelden van het ene volk met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "4 Ezra 5:23–30",
+      "design": {
+        "rows": [
+          [
+            "Wijnstok en lelie",
+            "Eén wijnstok uit alle bomen; één lelie uit alle bloemen."
+          ],
+          [
+            "Land en stad",
+            "Eén stuk grond en één geheiligde stad: Sion."
+          ],
+          [
+            "Duif en lam",
+            "Eén duif uit de vogels en één lammetje uit het vee."
+          ],
+          [
+            "Ezra’s vraag",
+            "Waarom is het ene uitgekozen volk aan velen overgegeven?"
+          ]
+        ],
+        "note": "Dit zijn beelden in Ezra’s gebed; de opsomming is geen rangorde van huidige volken."
+      }
+    },
+    {
+      "book": "4ezra",
+      "chapter": 6,
+      "verse": 38,
+      "file": "6-scheppingsdagen.svg",
+      "scene": "Ezra herinnert de schepping",
+      "alt": "Ezra herinnert de schepping met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1134,
+      "source": "4 Ezra 6:38–54",
+      "design": {
+        "rows": [
+          [
+            "Dag 1 en 2 · vers 38–41",
+            "Hemel en aarde, helder licht; daarna het hemelgewelf dat wateren scheidt."
+          ],
+          [
+            "Dag 3 · vers 42–44",
+            "Water verzameld, droge aarde, vruchten en bloemen."
+          ],
+          [
+            "Dag 4 en 5 · vers 45–52",
+            "Zon, maan en sterren; waterdieren en vogels; Behemoth en Leviathan gescheiden."
+          ],
+          [
+            "Dag 6 · vers 53–54",
+            "Groot en klein vee, kruipende dieren en Adam."
+          ]
+        ],
+        "note": "Volgorde van Ezra’s terugblik in dit hoofdstuk; details zijn niet vervangen door een ander scheppingsverhaal."
+      }
+    },
+    {
+      "book": "4ezra",
+      "chapter": 6,
+      "verse": 49,
+      "file": "6-twee-dieren.svg",
+      "scene": "Behemoth en Leviathan",
+      "alt": "Behemoth en Leviathan met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1091,
+      "source": "4 Ezra 6:49–52",
+      "design": {
+        "rows": [
+          [
+            "Twee namen",
+            "Behemoth en Leviathan worden apart bestemd."
+          ],
+          [
+            "Waarom gescheiden?",
+            "Het genoemde waterdeel kan volgens de tekst niet beide bevatten."
+          ],
+          [
+            "Behemoth",
+            "Ontvangt droog land, waar duizend bergen zijn."
+          ],
+          [
+            "Leviathan",
+            "Ontvangt het zevende deel van het water en wordt voor Gods tijd bewaard."
+          ]
+        ],
+        "note": "Verdeling in de vertelde kosmologie; geen identificatie als een bestaande diersoort of moderne wereldkaart."
+      }
+    },
+    {
+      "book": "4ezra",
+      "chapter": 7,
+      "verse": 26,
+      "file": "7-afloop-volgorde.svg",
+      "scene": "De aangekondigde volgorde",
+      "alt": "De aangekondigde volgorde met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1177,
+      "source": "4 Ezra 7:26–35",
+      "design": {
+        "rows": [
+          [
+            "Tekenen en verschijnen",
+            "De bruid wordt zichtbaar; de Zoon Jezus verschijnt met wie bij Hem zijn."
+          ],
+          [
+            "Vierhonderd jaar · vers 28–29",
+            "De overgeblevenen zijn blij; daarna sterven Christus en allen die adem hebben."
+          ],
+          [
+            "Zeven dagen · vers 30",
+            "De wereld keert terug naar de oude stilte."
+          ],
+          [
+            "Ontwaken en oordeel · vers 31–35",
+            "Aarde, stof en kamers geven hun doden terug; recht, waarheid en geloof houden stand."
+          ]
+        ],
+        "note": "De eigen volgorde en getallen van deze passage; geen samenvoeging met de duizend jaar uit Openbaring."
+      }
+    },
+    {
+      "book": "4ezra",
+      "chapter": 7,
+      "verse": 62,
+      "file": "7-barmhartigheid.svg",
+      "scene": "Waarom God barmhartig heet",
+      "alt": "Waarom God barmhartig heet met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1091,
+      "source": "4 Ezra 7:62–70",
+      "design": {
+        "rows": [
+          [
+            "Ontferming",
+            "Voor wie nog komen en voor wie zich naar Zijn wet bekeren."
+          ],
+          [
+            "Geduld",
+            "Met wie gezondigd hebben, omdat zij Zijn schepselen zijn."
+          ],
+          [
+            "Goedheid",
+            "Hij geeft wat nodig is; Zijn ontferming draagt het leven."
+          ],
+          [
+            "Vergeving",
+            "Hij verlicht onrecht en wist aanklachten uit."
+          ]
+        ],
+        "note": "Ezra’s slotpleidooi in dit hoofdstuk, onderscheiden van het eerdere antwoord over oordeel."
+      }
+    },
+    {
+      "book": "4ezra",
+      "chapter": 8,
+      "verse": 26,
+      "file": "8-gebed-pleidooi.svg",
+      "scene": "Ezra’s pleidooi",
+      "alt": "Ezra’s pleidooi met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1012,
+      "source": "4 Ezra 8:24–36",
+      "design": {
+        "rows": [
+          [
+            "Verhoor Uw maaksel",
+            "Luister naar het gebed van Uw dienaar."
+          ],
+          [
+            "Zie de trouwe mensen",
+            "Niet alleen de misdaden, maar wie Uw wil en getuigenissen bewaren."
+          ],
+          [
+            "Erken onze zwakheid",
+            "Wij en onze voorouders hebben gebreken; niemand is zonder fouten."
+          ],
+          [
+            "Toon Uw goedheid",
+            "Barmhartigheid wordt juist zichtbaar bij wie goede werken tekortkomen."
+          ]
+        ],
+        "note": "Dit geeft het gebed in eigen onderdelen weer; het antwoord volgt vanaf vers 37."
+      }
+    }
+  ]
+}
