@@ -68658,19 +68658,51 @@
         "chapter": 1,
         "file": "1-letter.webp",
         "alt": "De ouderling schrijft een brief aan een gemeente",
-        "scene": "De brief van de ouderling"
+        "scene": "De brief van de ouderling",
+        "verse": 1,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 1,
         "file": "1-family.webp",
         "alt": "Een vrouw en haar kinderen ontvangen gasten",
-        "scene": "De uitverkoren vrouw en haar kinderen"
+        "scene": "De uitverkoren vrouw en haar kinderen",
+        "verse": 1,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 1,
         "file": "1-truth.webp",
         "alt": "Gemeenteleden lezen samen een brief",
-        "scene": "Wandelen in waarheid"
+        "scene": "Wandelen in waarheid",
+        "verse": 4,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 1,
+        "verse": 1,
+        "file": "1-leeswijzer.svg",
+        "scene": "Waarheid, liefde en de leer",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1055
+      },
+      {
+        "chapter": 1,
+        "verse": 7,
+        "file": "1-leer-ontvangst.svg",
+        "scene": "De leer en het ontvangen",
+        "alt": "De leer en het ontvangen met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1055
       }
     ],
     "3johannes": [

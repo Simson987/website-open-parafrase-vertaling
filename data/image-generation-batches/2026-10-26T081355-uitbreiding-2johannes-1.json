@@ -1,0 +1,75 @@
+{
+  "date": "2026-10-26",
+  "started": "2026-10-26T08:13:55Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "2johannes",
+      "chapter": 1,
+      "verse": 1,
+      "file": "1-leeswijzer.svg",
+      "scene": "Waarheid, liefde en de leer",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "2 Johannes 1:1–13",
+      "design": {
+        "rows": [
+          [
+            "1–4 · Groet en vreugde",
+            "De uitverkoren vrouw, haar kinderen en leven in waarheid."
+          ],
+          [
+            "5–6 · Het gebod",
+            "Elkaar liefhebben door naar Zijn geboden te leven."
+          ],
+          [
+            "7–11 · Misleiding en ontvangst",
+            "Christus in het vlees belijden en in Zijn leer blijven."
+          ],
+          [
+            "12–13 · Persoonlijk contact",
+            "Geen lange brief; een gehoopt bezoek en de slotgroet."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "2johannes",
+      "chapter": 1,
+      "verse": 7,
+      "file": "1-leer-ontvangst.svg",
+      "scene": "De leer en het ontvangen",
+      "alt": "De leer en het ontvangen met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "2 Johannes 1:7–11",
+      "design": {
+        "rows": [
+          [
+            "De misleiding",
+            "Niet belijden dat Jezus Christus in het vlees gekomen is."
+          ],
+          [
+            "De waakzaamheid",
+            "Op jezelf letten, om het gewerkte niet kwijt te raken."
+          ],
+          [
+            "Het blijven",
+            "Wie in Christus’ leer blijft, heeft Vader en Zoon."
+          ],
+          [
+            "De ontvangst",
+            "Wie deze leer niet brengt, niet in huis ontvangen of groeten."
+          ]
+        ],
+        "note": "De beperking van ontvangst staat in deze brief bij de genoemde misleiding."
+      }
+    }
+  ]
+}

@@ -32869,6 +32869,29 @@
           "source": "1 Johannes 5:6–12"
         }
       ]
+    },
+    {
+      "book": "2johannes",
+      "chapter": 1,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Brief, geadresseerden en leven in waarheid zijn aanwezig. Leeswijzer en het leer-ontvangstverband behandelen de kernwaarschuwing. Geen verzonnen naam, kindertal of voltooid bezoek toegevoegd.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "1-leeswijzer.svg",
+          "scene": "Waarheid, liefde en de leer",
+          "kind": "diagram",
+          "source": "2 Johannes 1:1–13"
+        },
+        {
+          "verse": 7,
+          "file": "1-leer-ontvangst.svg",
+          "scene": "De leer en het ontvangen",
+          "kind": "diagram",
+          "source": "2 Johannes 1:7–11"
+        }
+      ]
     }
   ]
 }
