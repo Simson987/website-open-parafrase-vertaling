@@ -29832,6 +29832,147 @@
           "source": "Romeinen 14:13–23"
         }
       ]
+    },
+    {
+      "book": "1korinthiers",
+      "chapter": 1,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Eenheid, kruis en roeping zijn al verbeeld. Het ontvangen bericht uit Chloës huis is een afzonderlijk genoemd gegeven; de leeswijzer en het schema van vier partijuitspraken verduidelijken de aanleiding van het hoofdstuk.",
+      "additions": [
+        {
+          "verse": 11,
+          "file": "1-11-bericht-chloe-verdieping.webp",
+          "scene": "Het bericht uit Chloës huis",
+          "kind": "scene"
+        },
+        {
+          "verse": 1,
+          "file": "1-leeswijzer.svg",
+          "scene": "Eenheid en het woord van het kruis",
+          "kind": "diagram",
+          "source": "1 Korinthiërs 1:1–31"
+        },
+        {
+          "verse": 12,
+          "file": "1-partijen.svg",
+          "scene": "Vier uitspraken en drie vragen",
+          "kind": "diagram",
+          "source": "1 Korinthiërs 1:12–17"
+        }
+      ]
+    },
+    {
+      "book": "1korinthiers",
+      "chapter": 4,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Betrouwbaarheid, ontvangen gaven en vaderschap zijn aanwezig. De expliciet genoemde zending van Timotheüs krijgt een nieuw beeld. Leeswijzer en drie reacties op smaad maken de samenhang tussen gezag, voorbeeld en zachtmoedigheid duidelijk.",
+      "additions": [
+        {
+          "verse": 17,
+          "file": "4-17-timotheus-zending-verdieping.webp",
+          "scene": "Timotheüs is naar Korinthe gestuurd",
+          "kind": "scene"
+        },
+        {
+          "verse": 1,
+          "file": "4-leeswijzer.svg",
+          "scene": "Betrouwbaar en zonder hoogmoed",
+          "kind": "diagram",
+          "source": "1 Korinthiërs 4:1–21"
+        },
+        {
+          "verse": 12,
+          "file": "4-reacties-op-smaad.svg",
+          "scene": "Drie reacties op tegenstand",
+          "kind": "diagram",
+          "source": "1 Korinthiërs 4:11–13"
+        }
+      ]
+    },
+    {
+      "book": "1korinthiers",
+      "chapter": 2,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Verkondiging, verwachting en ontvangen inzicht zijn al aanwezig. Leeswijzer en het schema van kennis door de Geest voegen uitleg van de vergelijking toe zonder een onzichtbare werkelijkheid als menselijke gebeurtenis te verzinnen.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "2-leeswijzer.svg",
+          "scene": "Gods wijsheid door de Geest",
+          "kind": "diagram",
+          "source": "1 Korinthiërs 2:1–16"
+        },
+        {
+          "verse": 10,
+          "file": "2-geest-bekendmaking.svg",
+          "scene": "Bekendgemaakt door de Geest",
+          "kind": "diagram",
+          "source": "1 Korinthiërs 2:10–16"
+        }
+      ]
+    },
+    {
+      "book": "1korinthiers",
+      "chapter": 3,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Akker, fundament en tempel zijn al aanwezig. Een leeswijzer, het onderscheid in rollen op de akker en een materiaalschema verduidelijken de verschillende metaforen en het toetsen van het werk.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "3-leeswijzer.svg",
+          "scene": "Gods akker, gebouw en tempel",
+          "kind": "diagram",
+          "source": "1 Korinthiërs 3:1–23"
+        },
+        {
+          "verse": 10,
+          "file": "3-bouwmaterialen.svg",
+          "scene": "Fundament en getoetst werk",
+          "kind": "diagram",
+          "source": "1 Korinthiërs 3:10–15"
+        },
+        {
+          "verse": 5,
+          "file": "3-akker-rollen.svg",
+          "scene": "Dienaren op Gods akker",
+          "kind": "diagram",
+          "source": "1 Korinthiërs 3:5–9"
+        }
+      ]
+    },
+    {
+      "book": "1korinthiers",
+      "chapter": 5,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Zuurdeeg, ongezuurd brood en gemeenschap zijn al verbeeld. Leeswijzer en twee verklarende schema’s maken de vergelijkingen en de grens tussen binnen en buiten helder; geen onnodige afbeelding van het beschreven seksuele kwaad.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "5-leeswijzer.svg",
+          "scene": "Zuiverheid in de gemeenschap",
+          "kind": "diagram",
+          "source": "1 Korinthiërs 5:1–13"
+        },
+        {
+          "verse": 6,
+          "file": "5-zuurdeeg-uitleg.svg",
+          "scene": "Zuurdeeg als vergelijking",
+          "kind": "diagram",
+          "source": "1 Korinthiërs 5:6–8"
+        },
+        {
+          "verse": 9,
+          "file": "5-binnen-buiten.svg",
+          "scene": "Wie binnen en wie buiten zijn",
+          "kind": "diagram",
+          "source": "1 Korinthiërs 5:9–13"
+        }
+      ]
     }
   ]
 }

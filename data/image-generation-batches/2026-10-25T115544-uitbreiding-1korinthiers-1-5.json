@@ -1,0 +1,419 @@
+{
+  "date": "2026-10-25",
+  "started": "2026-10-25T11:55:44Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "1korinthiers",
+      "chapter": 1,
+      "verse": 11,
+      "file": "1-11-bericht-chloe-verdieping.webp",
+      "scene": "Het bericht uit Chloës huis",
+      "alt": "Het bericht uit Chloës huis — 1 Korinthiërs 1:11; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. 1 Corinthians 1:11: Paul has received a report from people of Chloe’s household about quarrels among the Corinthians. Show two ordinary adult messengers seated with Paul in a modest first-century Roman provincial home, one messenger seriously recounting the divisions while Paul listens with concern. No Chloe herself required, no claim to exact portraits, no written labels or slogans. Three adult people with clearly separate limbs. The content is the report being received, not an imagined physical fight.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "1korinthiers",
+      "chapter": 4,
+      "verse": 17,
+      "file": "4-17-timotheus-zending-verdieping.webp",
+      "scene": "Timotheüs is naar Korinthe gestuurd",
+      "alt": "Timotheüs is naar Korinthe gestuurd — 1 Korinthiërs 4:17; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. 1 Corinthians 4:17, Paul sends Timothy to remind the Corinthians of his ways in Christ. Show an older adult Paul at the doorway of a first-century house warmly speaking to younger adult Timothy, who has a simple shoulder travel bag and walking staff and is preparing to depart. Both fully clothed in plain modest robes. A calm commissioning scene with no travel map, no Roman official, no modern objects. Do not identify Timothy as a literal child: beloved son is spiritual language.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "1korinthiers",
+      "chapter": 1,
+      "verse": 1,
+      "file": "1-leeswijzer.svg",
+      "scene": "Eenheid en het woord van het kruis",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 969,
+      "source": "1 Korinthiërs 1:1–31",
+      "design": {
+        "rows": [
+          [
+            "1–9 · Groet en dank",
+            "Paulus en Sosthenes; God blijft trouw."
+          ],
+          [
+            "10–17 · Verdeeldheid",
+            "Chloës huis meldt ruzie; Christus is niet verdeeld."
+          ],
+          [
+            "18–25 · Het woord van het kruis",
+            "Christus is Gods kracht en Gods wijsheid."
+          ],
+          [
+            "26–31 · De roeping",
+            "God kiest het zwakke; roem in de Heere."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "1korinthiers",
+      "chapter": 2,
+      "verse": 1,
+      "file": "2-leeswijzer.svg",
+      "scene": "Gods wijsheid door de Geest",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "1 Korinthiërs 2:1–16",
+      "design": {
+        "rows": [
+          [
+            "1–5 · De verkondiging",
+            "Jezus Christus, de Gekruisigde; geloof op Gods kracht."
+          ],
+          [
+            "6–9 · De verborgen wijsheid",
+            "De machthebbers hebben Gods wijsheid niet gekend."
+          ],
+          [
+            "10–13 · De bekendmaking",
+            "Door de Geest weten wat God heeft geschonken."
+          ],
+          [
+            "14–16 · Geestelijk beoordelen",
+            "De gedachten van Christus tegenover zelfvertrouwen."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "1korinthiers",
+      "chapter": 3,
+      "verse": 1,
+      "file": "3-leeswijzer.svg",
+      "scene": "Gods akker, gebouw en tempel",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "1 Korinthiërs 3:1–23",
+      "design": {
+        "rows": [
+          [
+            "1–4 · Nog melk nodig",
+            "Ruzie en jaloezie tonen onvolwassenheid."
+          ],
+          [
+            "5–9 · Dienaren op de akker",
+            "Paulus plant, Apollos geeft water; God laat groeien."
+          ],
+          [
+            "10–17 · Gebouw en tempel",
+            "Christus is het fundament; werk wordt getoetst."
+          ],
+          [
+            "18–23 · Geen roem op mensen",
+            "Jullie zijn van Christus, en Christus is van God."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "1korinthiers",
+      "chapter": 4,
+      "verse": 1,
+      "file": "4-leeswijzer.svg",
+      "scene": "Betrouwbaar en zonder hoogmoed",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "1 Korinthiërs 4:1–21",
+      "design": {
+        "rows": [
+          [
+            "1–5 · Beheer en oordeel",
+            "Betrouwbaarheid is nodig; de Heere oordeelt."
+          ],
+          [
+            "6–13 · Geen reden voor roem",
+            "Alles is ontvangen; apostelen verdragen smaad."
+          ],
+          [
+            "14–17 · Vaderlijke waarschuwing",
+            "Paulus roept tot navolging en stuurt Timotheüs."
+          ],
+          [
+            "18–21 · Het bezoek",
+            "Als de Heere wil, komt Paulus; kracht en zachtmoedigheid."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "1korinthiers",
+      "chapter": 5,
+      "verse": 1,
+      "file": "5-leeswijzer.svg",
+      "scene": "Zuiverheid in de gemeenschap",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 863,
+      "source": "1 Korinthiërs 5:1–13",
+      "design": {
+        "rows": [
+          [
+            "1–5 · Een ernstig geval",
+            "Paulus wijst op kwaad en op de vereiste reactie."
+          ],
+          [
+            "6–8 · Zuurdeeg en paasfeest",
+            "Het beeld verklaart slechtheid tegenover zuiverheid."
+          ],
+          [
+            "9–13 · Binnen en buiten",
+            "De brief onderscheidt omgang met de wereld en de gemeenschap."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "1korinthiers",
+      "chapter": 1,
+      "verse": 12,
+      "file": "1-partijen.svg",
+      "scene": "Vier uitspraken en drie vragen",
+      "alt": "Vier uitspraken en drie vragen met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1012,
+      "source": "1 Korinthiërs 1:12–17",
+      "design": {
+        "rows": [
+          [
+            "De vier uitspraken",
+            "Ik ben van Paulus, Apollos, Cefas of Christus."
+          ],
+          [
+            "Vraag 1 · vers 13",
+            "Is Christus verdeeld?"
+          ],
+          [
+            "Vraag 2 en 3 · vers 13",
+            "Is Paulus voor jullie gekruisigd, of in zijn naam gedoopt?"
+          ],
+          [
+            "De opdracht · vers 17",
+            "Christus stuurde Paulus om het evangelie te verkondigen."
+          ]
+        ],
+        "note": "De genoemde namen zijn geen vier verschillende verlossers; Paulus bestrijdt de verdeeldheid."
+      }
+    },
+    {
+      "book": "1korinthiers",
+      "chapter": 2,
+      "verse": 10,
+      "file": "2-geest-bekendmaking.svg",
+      "scene": "Bekendgemaakt door de Geest",
+      "alt": "Bekendgemaakt door de Geest met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1012,
+      "source": "1 Korinthiërs 2:10–16",
+      "design": {
+        "rows": [
+          [
+            "Wie kent de mens? · vers 11",
+            "De geest van die mens zelf kent wat in hem omgaat."
+          ],
+          [
+            "Wie kent God? · vers 11",
+            "De Geest van God kent wat in God omgaat."
+          ],
+          [
+            "Wat ontvangen wij? · vers 12",
+            "De Geest uit God, om het geschonkene te kennen."
+          ],
+          [
+            "Hoe spreken wij? · vers 13",
+            "Met woorden die de Heilige Geest leert."
+          ]
+        ],
+        "note": "Het schema volgt de vergelijking van vers 11 zonder de Geest als een mens te portretteren."
+      }
+    },
+    {
+      "book": "1korinthiers",
+      "chapter": 3,
+      "verse": 10,
+      "file": "3-bouwmaterialen.svg",
+      "scene": "Fundament en getoetst werk",
+      "alt": "Fundament en getoetst werk met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "1 Korinthiërs 3:10–15",
+      "design": {
+        "rows": [
+          [
+            "Het ene fundament",
+            "Jezus Christus; niemand kan een ander fundament leggen."
+          ],
+          [
+            "De zes materialen",
+            "Goud, zilver, edelstenen, hout, hooi en stro."
+          ],
+          [
+            "Het toetsen",
+            "De dag en het vuur maken de waarde van het werk zichtbaar."
+          ],
+          [
+            "Twee uitkomsten voor het werk",
+            "Wat blijft, krijgt loon; wat verbrandt, betekent schade."
+          ]
+        ],
+        "note": "Dit is Paulus’ bouwvergelijking; de materialen zijn geen bouwadvies voor een tempel."
+      }
+    },
+    {
+      "book": "1korinthiers",
+      "chapter": 4,
+      "verse": 12,
+      "file": "4-reacties-op-smaad.svg",
+      "scene": "Drie reacties op tegenstand",
+      "alt": "Drie reacties op tegenstand met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 734,
+      "source": "1 Korinthiërs 4:11–13",
+      "design": {
+        "rows": [
+          [
+            "Uitgescholden",
+            "Dan zegenen wij."
+          ],
+          [
+            "Vervolgd",
+            "Dan verdragen wij het."
+          ],
+          [
+            "Belasterd",
+            "Dan spreken wij vriendelijk."
+          ]
+        ],
+        "note": "De drie woordparen volgen de plaatselijke tekst en staan naast honger, arbeid en gebrek."
+      }
+    },
+    {
+      "book": "1korinthiers",
+      "chapter": 5,
+      "verse": 6,
+      "file": "5-zuurdeeg-uitleg.svg",
+      "scene": "Zuurdeeg als vergelijking",
+      "alt": "Zuurdeeg als vergelijking met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 926,
+      "source": "1 Korinthiërs 5:6–8",
+      "design": {
+        "rows": [
+          [
+            "Een beetje zuurdeeg",
+            "Maakt het hele deeg zuur."
+          ],
+          [
+            "Het oude zuurdeeg",
+            "Beeld voor slechtheid en kwaad."
+          ],
+          [
+            "Ongezuurde broden",
+            "Beeld voor zuiverheid en waarheid."
+          ],
+          [
+            "Het paaslam",
+            "Paulus noemt Christus ons geslachte paaslam."
+          ]
+        ],
+        "note": "De broodbeelden verklaren het betoog; hier wordt geen nieuwe historische paasmaaltijd beschreven."
+      }
+    },
+    {
+      "book": "1korinthiers",
+      "chapter": 5,
+      "verse": 9,
+      "file": "5-binnen-buiten.svg",
+      "scene": "Wie binnen en wie buiten zijn",
+      "alt": "Wie binnen en wie buiten zijn met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1048,
+      "source": "1 Korinthiërs 5:9–13",
+      "design": {
+        "rows": [
+          [
+            "Niet iedereen in de wereld",
+            "Anders zouden de gelovigen de wereld moeten verlaten."
+          ],
+          [
+            "Iemand die zich broeder noemt",
+            "De genoemde hardnekkige praktijken vragen om verantwoordelijkheid."
+          ],
+          [
+            "Wie binnen zijn",
+            "De gemeenschap moet oordelen over haar eigen midden."
+          ],
+          [
+            "Wie buiten zijn",
+            "God oordeelt over hen."
+          ]
+        ],
+        "note": "Dit schema verduidelijkt de uitdrukkelijke afbakening die Paulus aan zijn eerdere brief geeft."
+      }
+    },
+    {
+      "book": "1korinthiers",
+      "chapter": 3,
+      "verse": 5,
+      "file": "3-akker-rollen.svg",
+      "scene": "Dienaren op Gods akker",
+      "alt": "Dienaren op Gods akker — 1 Korinthiërs 3:5–9",
+      "kind": "diagram",
+      "width": 840,
+      "height": 754,
+      "source": "1 Korinthiërs 3:5–9",
+      "design": {
+        "type": "parent-child branches",
+        "parent": "Jullie zijn de akker van God",
+        "children": [
+          [
+            "Paulus",
+            "Ik heb geplant."
+          ],
+          [
+            "Apollos",
+            "Heeft water gegeven."
+          ],
+          [
+            "God",
+            "Heeft laten groeien."
+          ]
+        ],
+        "note": "De dienaren werken samen; de groei wordt aan God toegeschreven. Dit is een vergelijking."
+      }
+    }
+  ]
+}
