@@ -1,0 +1,364 @@
+{
+  "date": "2026-10-26",
+  "started": "2026-10-26T10:14:43Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "judith",
+      "chapter": 6,
+      "verse": 18,
+      "file": "6-18-nachtgebed-verdieping.webp",
+      "scene": "Betulia bidt de hele nacht",
+      "alt": "Betulia bidt de hele nacht — Judith 6:18; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of the narrative world of Judith, ancient Near Eastern materials and modest opaque garments, landscape 3:2, natural lighting, coherent anatomy and exactly two arms per human. No modern objects, Roman equipment, readable text, blood, injuries or watermark. Night inside ancient Betulia after Achior has been welcomed: a small community of Jewish men and women pray earnestly together in a modest stone courtyard, lit by clay oil lamps, with their newly released adult guest Achior standing safely among them, no ropes or injuries. Elder Ozias present, no king’s crown or royal throne, sober hope and solidarity, exactly two arms per person.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "judith",
+      "chapter": 7,
+      "verse": 13,
+      "file": "7-13-waterbakken-leeg-verdieping.webp",
+      "scene": "De waterbakken zijn leeg",
+      "alt": "De waterbakken zijn leeg — Judith 7:13; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of the narrative world of Judith, ancient Near Eastern materials and modest opaque garments, landscape 3:2, natural lighting, coherent anatomy and exactly two arms per human. No modern objects, Roman equipment, readable text, blood, injuries or watermark. Judith 7:13 narrative scene inside besieged ancient Betulia: a large stone cistern stands visibly empty and dry, with empty clay water jars beside it. Two modestly robed adult residents look into it with worry, holding one empty wooden ladle. No dying or injured people, no children suffering, no modern plumbing. Focus on the blockade’s water shortage.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "judith",
+      "chapter": 5,
+      "verse": 1,
+      "file": "5-leeswijzer.svg",
+      "scene": "Achior verklaart Israëls kracht",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1098,
+      "source": "Judith 5:1–27",
+      "design": {
+        "rows": [
+          [
+            "1–5 · Holofernes vraagt",
+            "Wie is het bergvolk en waarom verzet het zich? Achior belooft de waarheid."
+          ],
+          [
+            "6–22 · De geschiedenis",
+            "Chaldea, Mesopotamië, Kanaän, Egypte, uittocht, land, ballingschap en terugkeer."
+          ],
+          [
+            "23–24 · Het advies",
+            "Onderzoek hun schuld; als er geen onrecht is, ga hen voorbij."
+          ],
+          [
+            "25–27 · De reactie",
+            "Het kamp mort en wil Israël aanvallen; Achior wordt bedreigd."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "judith",
+      "chapter": 6,
+      "verse": 1,
+      "file": "6-leeswijzer.svg",
+      "scene": "Achior van bedreiging naar gast",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "Judith 6:1–18",
+      "design": {
+        "rows": [
+          [
+            "1–7 · De bedreiging",
+            "Holofernes roemt Nebukadnezar en levert Achior aan Israël uit."
+          ],
+          [
+            "8–10 · Aan de bergvoet",
+            "Soldaten binden hem; Israëlieten maken hem los en brengen hem binnen."
+          ],
+          [
+            "11–16 · Voor het volk",
+            "Achior vertelt zijn verhaal; de stad bidt en spreekt hem moed in."
+          ],
+          [
+            "17–18 · Bij Ozias",
+            "Een maaltijd voor de oudsten; de hele nacht om hulp roepen."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "judith",
+      "chapter": 7,
+      "verse": 1,
+      "file": "7-leeswijzer.svg",
+      "scene": "Waterblokkade en vijf dagen",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1098,
+      "source": "Judith 7:1–20",
+      "design": {
+        "rows": [
+          [
+            "1–7 · De belegering",
+            "Leger en kamp bij Betulia; torenwachten, verkenning en bezette bron."
+          ],
+          [
+            "8–12 · Het plan",
+            "Water afsnijden en bergtoppen bewaken in plaats van bestormen."
+          ],
+          [
+            "13–18 · De nood",
+            "Na vierendertig dagen zijn de bakken leeg; het volk wil overgave."
+          ],
+          [
+            "19–20 · Ozias’ belofte",
+            "Nog vijf dagen standhouden; daarna wil hij doen wat het volk vraagt."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "judith",
+      "chapter": 8,
+      "verse": 1,
+      "file": "8-leeswijzer.svg",
+      "scene": "Judith spreekt en neemt initiatief",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1141,
+      "source": "Judith 8:1–30",
+      "design": {
+        "rows": [
+          [
+            "1–8 · Wie Judith is",
+            "Afstamming, weduwschap, tent op het dak, vasten en ontzag voor God."
+          ],
+          [
+            "9–16 · De leiders terechtgewezen",
+            "Zet God niet op een termijn en leg Zijn plannen niet vast."
+          ],
+          [
+            "17–26 · Hoop en beproeving",
+            "Trouw aan God en voorbeelden van de voorouders; Ozias vraagt haar te bidden."
+          ],
+          [
+            "27–30 · Haar voornemen",
+            "Zij gaat met haar dienstmeisje uit; het plan blijft nog geheim en de leiders stemmen toe."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "judith",
+      "chapter": 5,
+      "verse": 19,
+      "file": "5-achior-voorwaarde.svg",
+      "scene": "Achior stelt een voorwaarde",
+      "alt": "Achior stelt een voorwaarde met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1091,
+      "source": "Judith 5:19–24",
+      "design": {
+        "rows": [
+          [
+            "Zijn terugblik",
+            "Zolang Israël niet tegen God zondigde, ging het goed."
+          ],
+          [
+            "Bij afdwaling",
+            "Oorlog, gevangenschap en verwoeste tempel."
+          ],
+          [
+            "Nu volgens Achior",
+            "Terugkeer tot God en naar Jeruzalem."
+          ],
+          [
+            "Zijn advies",
+            "Alleen bij gevonden schuld aanvallen; zonder onrecht voorbijgaan, anders kan God hen beschermen."
+          ]
+        ],
+        "note": "Achior redeneert over de toestand van dit volk; hij geeft geen garantie op grond van legergrootte."
+      }
+    },
+    {
+      "book": "judith",
+      "chapter": 6,
+      "verse": 11,
+      "file": "6-leiders-betulia.svg",
+      "scene": "Drie leiders van Betulia",
+      "alt": "Drie leiders van Betulia met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 969,
+      "source": "Judith 6:11–17",
+      "design": {
+        "rows": [
+          [
+            "Ozias",
+            "Zoon van Micha, uit de stam Simeon; neemt Achior thuis op."
+          ],
+          [
+            "Chabris",
+            "Zoon van Gothoniël."
+          ],
+          [
+            "Charmis",
+            "Zoon van Melchiël."
+          ],
+          [
+            "De vergadering",
+            "Oudsten, jonge mannen en vrouwen horen Achiors verhaal en bidden."
+          ]
+        ],
+        "note": "Namen en vaders volgen dit hoofdstuk. De drie leiders worden later door Judith geroepen."
+      }
+    },
+    {
+      "book": "judith",
+      "chapter": 7,
+      "verse": 2,
+      "file": "7-leger-en-dagen.svg",
+      "scene": "Leger en duur van het beleg",
+      "alt": "Leger en duur van het beleg met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1048,
+      "source": "Judith 7:2,12–13,19–20",
+      "design": {
+        "rows": [
+          [
+            "Bij Betulia · vers 2",
+            "170.000 voetvolk en 12.000 ruiters; de tros niet meegerekend."
+          ],
+          [
+            "Bij de bronnen · vers 12",
+            "Ammonieten met 5000 Assyriërs nemen waterleidingen en bronnen in."
+          ],
+          [
+            "Het beleg · vers 13",
+            "34 dagen; de watervoorraad raakt op."
+          ],
+          [
+            "De belofte · vers 19–20",
+            "Nog vijf dagen wachten op hulp; dan zou Ozias overgave toestaan."
+          ]
+        ],
+        "note": "De 170.000 van dit hoofdstuk blijven onderscheiden van de 120.000 bij de eerdere uittocht in 2:7."
+      }
+    },
+    {
+      "book": "judith",
+      "chapter": 8,
+      "verse": 10,
+      "file": "8-judith-argument.svg",
+      "scene": "Judiths bezwaar tegen de eed",
+      "alt": "Judiths bezwaar tegen de eed met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "Judith 8:10–16",
+      "design": {
+        "rows": [
+          [
+            "Wat zij afwijst",
+            "Overgave beloven als God niet binnen vijf dagen helpt."
+          ],
+          [
+            "Haar vraag",
+            "Wie zijn jullie om God te onderzoeken of op de proef te stellen?"
+          ],
+          [
+            "Haar reden",
+            "Zelfs een mensenhart is niet te doorgronden; Gods plannen nog minder."
+          ],
+          [
+            "Wat zij vraagt",
+            "Wachten op redding en om hulp roepen, zonder God te dwingen."
+          ]
+        ],
+        "note": "De vijf dagen zijn een afspraak van de leiders; Judith behandelt die niet als een bevel van God."
+      }
+    },
+    {
+      "book": "judith",
+      "chapter": 8,
+      "verse": 2,
+      "file": "8-judith-leefwijze.svg",
+      "scene": "Judiths huis en leefwijze",
+      "alt": "Judiths huis en leefwijze met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1134,
+      "source": "Judith 8:2–8",
+      "design": {
+        "rows": [
+          [
+            "Manasse",
+            "Haar man uit dezelfde stam en familie; overleden tijdens de gersteoogst."
+          ],
+          [
+            "Weduwschap",
+            "Drie jaar en vier maanden; weduwekleren en een tent op het dak."
+          ],
+          [
+            "Vasten",
+            "Behalve sabbat, de dag ervoor, nieuwe maan, de dag ervoor en de feest- en vreugdedagen."
+          ],
+          [
+            "Haar bezit en naam",
+            "Goud, zilver, knechten, vee en akkers; niemand kon kwaad over haar zeggen."
+          ]
+        ],
+        "note": "Dit beschrijft haar eigen leefwijze in het verhaal; er wordt geen kind of erfgenaam toegevoegd."
+      }
+    },
+    {
+      "book": "judith",
+      "chapter": 8,
+      "verse": 1,
+      "file": "8-judith-afstamming.svg",
+      "scene": "Judith: genoemde afstamming",
+      "alt": "Judith: genoemde afstamming — Judith 8:1",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1636,
+      "source": "Judith 8:1",
+      "design": {
+        "type": "vertical named sequence",
+        "names": [
+          "Israël",
+          "Sarasadaï",
+          "Salamiël",
+          "Nathanaël",
+          "Eliab",
+          "Elia",
+          "Achitob",
+          "Rafaïn",
+          "Gideon",
+          "Ananias",
+          "Elkia",
+          "Oziël",
+          "Jozef",
+          "Ox",
+          "Merari",
+          "Judith"
+        ],
+        "note": "Van Israël naar Judith, omgekeerd ten opzichte van de leesvolgorde in vers 1. Manasse is haar echtgenoot en wordt niet als voorouder ingevoegd."
+      }
+    }
+  ]
+}

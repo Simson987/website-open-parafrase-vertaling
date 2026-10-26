@@ -35125,6 +35125,124 @@
           "source": "Judith 4:3–17"
         }
       ]
+    },
+    {
+      "book": "judith",
+      "chapter": 6,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Bevrijding, verhaal en gastmaal zijn aanwezig. De nachtelijke gezamenlijke hulproep is een aparte afsluitende handeling. Schema’s tonen de gebeurtenissen en de drie expliciet benoemde stadsleiders.",
+      "additions": [
+        {
+          "verse": 18,
+          "file": "6-18-nachtgebed-verdieping.webp",
+          "scene": "Betulia bidt de hele nacht",
+          "kind": "scene"
+        },
+        {
+          "verse": 1,
+          "file": "6-leeswijzer.svg",
+          "scene": "Achior van bedreiging naar gast",
+          "kind": "diagram",
+          "source": "Judith 6:1–18"
+        },
+        {
+          "verse": 11,
+          "file": "6-leiders-betulia.svg",
+          "scene": "Drie leiders van Betulia",
+          "kind": "diagram",
+          "source": "Judith 6:11–17"
+        }
+      ]
+    },
+    {
+      "book": "judith",
+      "chapter": 7,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Wachtvuren, bezette bron en Ozias’ rede zijn aanwezig. Lege waterbakken tonen het andere beslissende gevolg van het beleg. Opbouw en aantal-duur-schema bewaren 170.000, 34 dagen en de vijfdaagse belofte afzonderlijk.",
+      "additions": [
+        {
+          "verse": 13,
+          "file": "7-13-waterbakken-leeg-verdieping.webp",
+          "scene": "De waterbakken zijn leeg",
+          "kind": "scene"
+        },
+        {
+          "verse": 1,
+          "file": "7-leeswijzer.svg",
+          "scene": "Waterblokkade en vijf dagen",
+          "kind": "diagram",
+          "source": "Judith 7:1–20"
+        },
+        {
+          "verse": 2,
+          "file": "7-leger-en-dagen.svg",
+          "scene": "Leger en duur van het beleg",
+          "kind": "diagram",
+          "source": "Judith 7:2,12–13,19–20"
+        }
+      ]
+    },
+    {
+      "book": "judith",
+      "chapter": 5,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Holofernes’ vraag, Achior en de herinnerde Rode Zee zijn aanwezig. Leeswijzer en het voorwaardelijke advies-schema volstaan; geen extra generieke toespraakfoto.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "5-leeswijzer.svg",
+          "scene": "Achior verklaart Israëls kracht",
+          "kind": "diagram",
+          "source": "Judith 5:1–27"
+        },
+        {
+          "verse": 19,
+          "file": "5-achior-voorwaarde.svg",
+          "scene": "Achior stelt een voorwaarde",
+          "kind": "diagram",
+          "source": "Judith 5:19–24"
+        }
+      ]
+    },
+    {
+      "book": "judith",
+      "chapter": 8,
+      "status": "reviewed",
+      "target_images": 7,
+      "reason": "Gebed, ontbieden en aanspreken van de leiders zijn aanwezig. Leeswijzer, exact afstammingsschema, leefwijze en argumentenschema zijn nuttiger aanvullingen dan een vierde vergelijkbare gespreksfoto. Het nog geheime plan wordt niet voortijdig ingevuld.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "8-leeswijzer.svg",
+          "scene": "Judith spreekt en neemt initiatief",
+          "kind": "diagram",
+          "source": "Judith 8:1–30"
+        },
+        {
+          "verse": 10,
+          "file": "8-judith-argument.svg",
+          "scene": "Judiths bezwaar tegen de eed",
+          "kind": "diagram",
+          "source": "Judith 8:10–16"
+        },
+        {
+          "verse": 2,
+          "file": "8-judith-leefwijze.svg",
+          "scene": "Judiths huis en leefwijze",
+          "kind": "diagram",
+          "source": "Judith 8:2–8"
+        },
+        {
+          "verse": 1,
+          "file": "8-judith-afstamming.svg",
+          "scene": "Judith: genoemde afstamming",
+          "kind": "diagram",
+          "source": "Judith 8:1"
+        }
+      ]
     }
   ]
 }
