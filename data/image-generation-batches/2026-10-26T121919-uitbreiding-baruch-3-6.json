@@ -1,0 +1,243 @@
+{
+  "date": "2026-10-26",
+  "started": "2026-10-26T12:19:19Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "baruch",
+      "chapter": 3,
+      "verse": 30,
+      "file": "3-30-wijsheid-over-zee-verdieping.webp",
+      "scene": "Beeldspraak: wijsheid over de zee zoeken",
+      "alt": "Beeldspraak: wijsheid over de zee zoeken — Baruch 3:30; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: historical-scene. Photorealistic illustration for Baruch, ancient Near Eastern setting, landscape 3:2, natural light, modest opaque robes, anatomically coherent people with exactly two arms each, natural hands. No modern objects, readable text, divine human figure, blood or injury. A small ancient merchant sailing vessel with a single square linen sail crosses a calm blue sea under a wide open sky. An adult traveler in a modest robe looks toward the distant horizon, a small closed pouch of gold beside him. No fantasy goddess or literal wisdom treasure is visible. This illustrates the rhetorical question in Baruch 3:30 about crossing the sea to buy wisdom; it is not a named historical voyage.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "baruch",
+      "chapter": 5,
+      "verse": 7,
+      "file": "5-7-vlakke-weg-verdieping.webp",
+      "scene": "Beeldspraak: een veilige vlakke weg",
+      "alt": "Beeldspraak: een veilige vlakke weg — Baruch 5:7; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: historical-scene. Photorealistic illustration for Baruch, ancient Near Eastern setting, landscape 3:2, natural light, modest opaque robes, anatomically coherent people with exactly two arms each, natural hands. No modern objects, readable text, divine human figure, blood or injury. A broad smooth path through a mountainous ancient Judean landscape, with high rocky slopes on both sides and a distant small group of modestly robed travelers walking safely toward the light. Emphasize a level continuous road across what would otherwise be rough terrain, gentle natural dawn lighting and fragrant trees giving shade along the edges. No machines or modern road surface. A poetic illustration of the promise in Baruch 5:7–9, no claim to depict an engineering project or a specific completed return.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "baruch",
+      "chapter": 6,
+      "verse": 45,
+      "file": "6-45-maker-en-beeld-verdieping.webp",
+      "scene": "Lesbeeld: de maker en zijn beeld",
+      "alt": "Lesbeeld: de maker en zijn beeld — Baruch 6:45; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: historical-scene. Photorealistic illustration for Baruch, ancient Near Eastern setting, landscape 3:2, natural light, modest opaque robes, anatomically coherent people with exactly two arms each, natural hands. No modern objects, readable text, divine human figure, blood or injury. An ancient Babylonian adult craftsman in a modest linen tunic sits at a wooden workbench carving an unfinished small wooden idol with a hand chisel. The wood grain and tool marks show clearly that the figure is made by a human artisan. Two natural hands, one holding the tool and one steadying the wood; a few gold leaf sheets lie separately on the workbench. No magical glow, living statue, modern machine or readable symbols. A sober illustration of the argument about human makers in Baruch 6:45–47.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "baruch",
+      "chapter": 3,
+      "verse": 9,
+      "file": "3-wijsheid-en-vinden.svg",
+      "scene": "Waar wijsheid wordt gevonden",
+      "alt": "Waar wijsheid wordt gevonden met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "Baruch 3:1–37",
+      "design": {
+        "rows": [
+          [
+            "Het gebed · 1–8",
+            "Nood, belijdenis en ontzag in het land van ballingschap."
+          ],
+          [
+            "De vraag · 9–15",
+            "Luisteren naar levensgeboden; waar zijn inzicht, kracht en vrede?"
+          ],
+          [
+            "De vergeefse wegen · 16–31",
+            "Macht, bezit, generaties, verre plaatsen en reuzen vinden de weg niet."
+          ],
+          [
+            "De gave · 32–37",
+            "De Alwetende kent de wijsheid en geeft de kennis aan Jakob en Israël."
+          ]
+        ],
+        "note": "De zeevraag en de sprekende sterren zijn poëtische beelden binnen het betoog."
+      }
+    },
+    {
+      "book": "baruch",
+      "chapter": 3,
+      "verse": 22,
+      "file": "3-plaatsen-en-zoekers.svg",
+      "scene": "Plaatsen en zoekers",
+      "alt": "Plaatsen en zoekers met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "Baruch 3:22–31",
+      "design": {
+        "rows": [
+          [
+            "Kanaän en Teman · 22",
+            "De wijsheid is er niet gehoord of gezien."
+          ],
+          [
+            "Hagars nakomelingen · 23",
+            "Zij zoeken kennis, maar kennen de weg van de wijsheid niet."
+          ],
+          [
+            "Merran en Teman · 23",
+            "Kooplieden, dichters en onderzoekers worden genoemd."
+          ],
+          [
+            "Hemel en zee · 29–31",
+            "Vragen over omhooggaan en oversteken benadrukken dat niemand haar weg kent."
+          ]
+        ],
+        "note": "Dit zijn vindplaatsen en zoekbeelden in de tekst, geen uitgestippelde reisroute."
+      }
+    },
+    {
+      "book": "baruch",
+      "chapter": 4,
+      "verse": 1,
+      "file": "4-stemmen-rouw-en-moed.svg",
+      "scene": "Stemmen, rouw en moed",
+      "alt": "Stemmen, rouw en moed met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1177,
+      "source": "Baruch 4:1–37",
+      "design": {
+        "rows": [
+          [
+            "Onderwijs · 1–8",
+            "Wijsheid als gebodenboek; houd moed en erken waarom het volk is overgegeven."
+          ],
+          [
+            "Jeruzalem spreekt · 9–20",
+            "De stad wordt als moeder en weduwe verbeeld: opgevoed met vreugde, weggezonden met tranen."
+          ],
+          [
+            "Tot de kinderen · 21–29",
+            "Roepen, geduld, terugkeer tot God en beloofde vreugde."
+          ],
+          [
+            "Tot Jeruzalem · 30–37",
+            "Troost, oordeel over de vijandige stad en uitzicht op de terugkerende kinderen."
+          ]
+        ],
+        "note": "De rouwende vrouw verbeeldt de stad Jeruzalem; de terugkeer wordt als hoop en belofte aangekondigd."
+      }
+    },
+    {
+      "book": "baruch",
+      "chapter": 5,
+      "verse": 1,
+      "file": "5-kleding-en-terugkeer.svg",
+      "scene": "Kleding en veilige terugkeer",
+      "alt": "Kleding en veilige terugkeer met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1134,
+      "source": "Baruch 5:1–9",
+      "design": {
+        "rows": [
+          [
+            "Nieuwe kleding · 1–2",
+            "Rouw uit, pracht aan; mantel van gerechtigheid en tulband van heerlijkheid."
+          ],
+          [
+            "Nieuwe naam · 3–4",
+            "Vrede van gerechtigheid en heerlijkheid, lof van godsvrucht."
+          ],
+          [
+            "Het uitzicht · 5–6",
+            "De kinderen verzamelen zich; weggeleid te voet, teruggebracht in eer."
+          ],
+          [
+            "De veilige weg · 7–9",
+            "Bergen laag, dalen gevuld, schaduw van bomen en leiding met vreugde."
+          ]
+        ],
+        "note": "Kleding en landschap verbeelden herstel van Jeruzalem en Israël; zij horen bij een toekomstbelofte."
+      }
+    },
+    {
+      "book": "baruch",
+      "chapter": 6,
+      "verse": 3,
+      "file": "6-beelden-en-onmacht.svg",
+      "scene": "Beelden en hun onmacht",
+      "alt": "Beelden en hun onmacht met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1098,
+      "source": "Baruch 6:1–72",
+      "design": {
+        "rows": [
+          [
+            "De waarschuwing · 1–6",
+            "Ballingschap en gedragen beelden; aanbidding blijft aan de Heere gericht."
+          ],
+          [
+            "Onderhoud en bescherming · 7–32",
+            "Makers, kleding, stof, sloten en verzorging tonen afhankelijkheid."
+          ],
+          [
+            "Wat zij niet kunnen · 33–57",
+            "Besturen, redden, helpen, rechtspreken en zichzelf beschermen."
+          ],
+          [
+            "De vergelijkingen · 58–72",
+            "Nuttige huisdingen, gehoorzame natuur, dieren en vogelverschrikker verklaren het betoog."
+          ]
+        ],
+        "note": "De herhaalde oproep is om deze gemaakte beelden niet te vrezen."
+      }
+    },
+    {
+      "book": "baruch",
+      "chapter": 6,
+      "verse": 58,
+      "file": "6-nuttig-en-machteloos.svg",
+      "scene": "Nuttig en machteloos",
+      "alt": "Nuttig en machteloos met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1134,
+      "source": "Baruch 6:58–69",
+      "design": {
+        "rows": [
+          [
+            "Huis en bestuur · 58",
+            "Dappere koning, bruikbare pot, beschermende deur en paleiszuil worden hoger gewaardeerd."
+          ],
+          [
+            "De natuur · 59–62",
+            "Zon, maan, sterren, bliksem, wind, wolken en vuur vervullen hun taak."
+          ],
+          [
+            "De dieren · 67",
+            "Zij kunnen zichzelf helpen door in een hol te vluchten."
+          ],
+          [
+            "De vogelverschrikker · 69",
+            "Hij kan het komkommerveld niet bewaken; de vergelijking ontmaskert schijnmacht."
+          ]
+        ],
+        "note": "De tekst gebruikt vergelijkingen; dit schema kent de genoemde voorwerpen geen goddelijke rol toe."
+      }
+    }
+  ]
+}

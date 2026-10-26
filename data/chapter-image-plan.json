@@ -37038,6 +37038,102 @@
           "source": "Baruch 2:1–35"
         }
       ]
+    },
+    {
+      "book": "baruch",
+      "chapter": 3,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Gebed, luisteren en sterren zijn aanwezig. Een duidelijk poëtisch zeezoekbeeld vult het zelfstandige retorische zoeken aan. Twee schema’s verduidelijken de redeneerlijn en de genoemde zoekplaatsen, zonder er een historische reis van te maken.",
+      "additions": [
+        {
+          "verse": 30,
+          "file": "3-30-wijsheid-over-zee-verdieping.webp",
+          "scene": "Beeldspraak: wijsheid over de zee zoeken",
+          "kind": "poetic"
+        },
+        {
+          "verse": 9,
+          "file": "3-wijsheid-en-vinden.svg",
+          "scene": "Waar wijsheid wordt gevonden",
+          "kind": "diagram",
+          "source": "Baruch 3:1–37"
+        },
+        {
+          "verse": 22,
+          "file": "3-plaatsen-en-zoekers.svg",
+          "scene": "Plaatsen en zoekers",
+          "kind": "diagram",
+          "source": "Baruch 3:22–31"
+        }
+      ]
+    },
+    {
+      "book": "baruch",
+      "chapter": 5,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Mantel, uitzien en schaduw zijn aanwezig, maar de vlakke veilige weg is een zelfstandig landschapsbeeld. Eén poëtisch raster en een schema vullen dit aan en houden de belofte herkenbaar.",
+      "additions": [
+        {
+          "verse": 7,
+          "file": "5-7-vlakke-weg-verdieping.webp",
+          "scene": "Beeldspraak: een veilige vlakke weg",
+          "kind": "poetic"
+        },
+        {
+          "verse": 1,
+          "file": "5-kleding-en-terugkeer.svg",
+          "scene": "Kleding en veilige terugkeer",
+          "kind": "diagram",
+          "source": "Baruch 5:1–9"
+        }
+      ]
+    },
+    {
+      "book": "baruch",
+      "chapter": 6,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Processie, verzorgd machteloos beeld en vogelverschrikker zijn aanwezig. De menselijke maker is een eigen argument en krijgt een lesbeeld. Twee schema’s ordenen de uitgebreide onmachtsreeks en de vergelijking met nuttige dingen.",
+      "additions": [
+        {
+          "verse": 45,
+          "file": "6-45-maker-en-beeld-verdieping.webp",
+          "scene": "Lesbeeld: de maker en zijn beeld",
+          "kind": "poetic"
+        },
+        {
+          "verse": 3,
+          "file": "6-beelden-en-onmacht.svg",
+          "scene": "Beelden en hun onmacht",
+          "kind": "diagram",
+          "source": "Baruch 6:1–72"
+        },
+        {
+          "verse": 58,
+          "file": "6-nuttig-en-machteloos.svg",
+          "scene": "Nuttig en machteloos",
+          "kind": "diagram",
+          "source": "Baruch 6:58–69"
+        }
+      ]
+    },
+    {
+      "book": "baruch",
+      "chapter": 4,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "Geboden, de stad als rouwende vrouw en terugkerende kinderen zijn aanwezig. Eén schema onderscheidt de stemmen en verbindt rouw, moed en toekomsthoop; nieuwe moeder- of terugkeerfoto’s zouden herhalen.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "4-stemmen-rouw-en-moed.svg",
+          "scene": "Stemmen, rouw en moed",
+          "kind": "diagram",
+          "source": "Baruch 4:1–37"
+        }
+      ]
     }
   ]
 }

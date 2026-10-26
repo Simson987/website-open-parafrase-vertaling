@@ -62536,13 +62536,21 @@
         "chapter": 3,
         "file": "3-prayer.webp",
         "alt": "Ballingen bidden gezamenlijk in Babylon",
-        "scene": "Gebed in ballingschap"
+        "scene": "Gebed in ballingschap",
+        "verse": 1,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 4,
         "file": "4-wisdom.webp",
         "alt": "Een oudere vrouw onderwijst kinderen uit een boekrol",
-        "scene": "Wijsheid en geboden"
+        "scene": "Wijsheid en geboden",
+        "verse": 1,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 1,
@@ -62599,70 +62607,100 @@
         "verse": 9,
         "file": "3-9.webp",
         "alt": "Beeld bij Baruch 3: Luister naar de geboden",
-        "scene": "Luister naar de geboden"
+        "scene": "Luister naar de geboden",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 3,
         "verse": 34,
         "file": "3-34.webp",
         "alt": "Beeld bij Baruch 3: De sterren op hun wachtposten",
-        "scene": "De sterren op hun wachtposten"
+        "scene": "De sterren op hun wachtposten",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 4,
         "verse": 20,
         "file": "4-20.webp",
         "alt": "Beeld bij Baruch 4: Jeruzalem in rouw",
-        "scene": "Jeruzalem in rouw"
+        "scene": "Jeruzalem in rouw",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 4,
         "verse": 37,
         "file": "4-37.webp",
         "alt": "Beeld bij Baruch 4: De kinderen komen terug",
-        "scene": "De kinderen komen terug"
+        "scene": "De kinderen komen terug",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 5,
         "verse": 1,
         "file": "5-1.webp",
         "alt": "Beeld bij Baruch 5: Een mantel van vreugde",
-        "scene": "Een mantel van vreugde"
+        "scene": "Een mantel van vreugde",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 5,
         "verse": 5,
         "file": "5-5.webp",
         "alt": "Beeld bij Baruch 5: Uitzien naar de terugkeer",
-        "scene": "Uitzien naar de terugkeer"
+        "scene": "Uitzien naar de terugkeer",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 5,
         "verse": 8,
         "file": "5-8.webp",
         "alt": "Beeld bij Baruch 5: Schaduw langs de weg",
-        "scene": "Schaduw langs de weg"
+        "scene": "Schaduw langs de weg",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 6,
         "verse": 3,
         "file": "6-3.webp",
         "alt": "Beeld bij Baruch 6: Afgoden worden gedragen",
-        "scene": "Afgoden worden gedragen"
+        "scene": "Afgoden worden gedragen",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 6,
         "verse": 21,
         "file": "6-21.webp",
         "alt": "Beeld bij Baruch 6: Een machteloos beeld",
-        "scene": "Een machteloos beeld"
+        "scene": "Een machteloos beeld",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 6,
         "verse": 69,
         "file": "6-69.webp",
         "alt": "Beeld bij Baruch 6: De vogelverschrikker in het veld",
-        "scene": "De vogelverschrikker in het veld"
+        "scene": "De vogelverschrikker in het veld",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 1,
@@ -62703,6 +62741,96 @@
         "kind": "diagram",
         "width": 840,
         "height": 802
+      },
+      {
+        "chapter": 3,
+        "verse": 30,
+        "file": "3-30-wijsheid-over-zee-verdieping.webp",
+        "scene": "Beeldspraak: wijsheid over de zee zoeken",
+        "alt": "Beeldspraak: wijsheid over de zee zoeken — Baruch 3:30; tekstillustratie.",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 5,
+        "verse": 7,
+        "file": "5-7-vlakke-weg-verdieping.webp",
+        "scene": "Beeldspraak: een veilige vlakke weg",
+        "alt": "Beeldspraak: een veilige vlakke weg — Baruch 5:7; tekstillustratie.",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 6,
+        "verse": 45,
+        "file": "6-45-maker-en-beeld-verdieping.webp",
+        "scene": "Lesbeeld: de maker en zijn beeld",
+        "alt": "Lesbeeld: de maker en zijn beeld — Baruch 6:45; tekstillustratie.",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 3,
+        "verse": 9,
+        "file": "3-wijsheid-en-vinden.svg",
+        "scene": "Waar wijsheid wordt gevonden",
+        "alt": "Waar wijsheid wordt gevonden met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1055
+      },
+      {
+        "chapter": 3,
+        "verse": 22,
+        "file": "3-plaatsen-en-zoekers.svg",
+        "scene": "Plaatsen en zoekers",
+        "alt": "Plaatsen en zoekers met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1055
+      },
+      {
+        "chapter": 4,
+        "verse": 1,
+        "file": "4-stemmen-rouw-en-moed.svg",
+        "scene": "Stemmen, rouw en moed",
+        "alt": "Stemmen, rouw en moed met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1177
+      },
+      {
+        "chapter": 5,
+        "verse": 1,
+        "file": "5-kleding-en-terugkeer.svg",
+        "scene": "Kleding en veilige terugkeer",
+        "alt": "Kleding en veilige terugkeer met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1134
+      },
+      {
+        "chapter": 6,
+        "verse": 3,
+        "file": "6-beelden-en-onmacht.svg",
+        "scene": "Beelden en hun onmacht",
+        "alt": "Beelden en hun onmacht met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1098
+      },
+      {
+        "chapter": 6,
+        "verse": 58,
+        "file": "6-nuttig-en-machteloos.svg",
+        "scene": "Nuttig en machteloos",
+        "alt": "Nuttig en machteloos met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1134
       }
     ],
     "estherapocrief": [
