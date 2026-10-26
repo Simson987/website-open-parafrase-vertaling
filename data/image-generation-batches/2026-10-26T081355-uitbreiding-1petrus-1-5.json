@@ -1,0 +1,404 @@
+{
+  "date": "2026-10-26",
+  "started": "2026-10-26T08:13:55Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "1petrus",
+      "chapter": 1,
+      "verse": 24,
+      "file": "1-24-gras-bloem-verdieping.webp",
+      "scene": "Vergelijking: het gras verdort",
+      "alt": "Vergelijking: het gras verdort — 1 Petrus 1:24; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. 1 Peter 1:24–25 compares human glory to grass and a flower which withers, contrasting the enduring word of the Lord. Photorealistic landscape detail of delicate wildflowers and dry fading grass on a rocky ancient Anatolian hillside, one fallen flower visible beside living stems in soft wind. No human skeleton, death spectacle, readable scripture or modern objects. A restrained botanical metaphor, natural colour and textures, distinct from the existing goldsmith image.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "1petrus",
+      "chapter": 4,
+      "verse": 4,
+      "file": "4-4-niet-meedoen-verdieping.webp",
+      "scene": "Lesbeeld: niet meer meedoen",
+      "alt": "Lesbeeld: niet meer meedoen — 1 Petrus 4:4; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. 1 Peter 4:3–4 says former companions find it strange that believers no longer join their drunken excesses and speak ill of them. Dignified illustrative first-century courtyard scene, one plainly clothed adult believer calmly leaving a rowdy drinking gathering while two fully clothed adult former companions beside a table of clay wine cups look after him with mocking expressions. No sexual content, visible intoxication injuries or violence, no invented famous martyr. Three adults only, calm resolve in the foreground, coherent hands and feet. Illustrates the described social pressure, not a named recorded event.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "1petrus",
+      "chapter": 5,
+      "verse": 8,
+      "file": "5-8-leeuw-verdieping.webp",
+      "scene": "Vergelijking: een brullende leeuw",
+      "alt": "Vergelijking: een brullende leeuw — 1 Petrus 5:8; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. 1 Peter 5:8 compares the adversary to a roaring lion, urging sober watchfulness and firm faith. Photorealistic healthy adult male lion alone prowling an ancient dry rocky wilderness, mouth open in a natural roar, four correct legs with paws visibly placed, powerful but no prey, victim, blood, attack, horns, wings or literal devil figure. Landscape 3:2 natural dusk light. A clear animal comparison, not a historical lion attack on the church.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "1petrus",
+      "chapter": 1,
+      "verse": 1,
+      "file": "1-leeswijzer.svg",
+      "scene": "Levende hoop en heilig leven",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "1 Petrus 1:1–25",
+      "design": {
+        "rows": [
+          [
+            "1–9 · Erfenis en beproeving",
+            "Vreemdelingen, levende hoop en de echtheid van geloof."
+          ],
+          [
+            "10–12 · Onderzocht en verkondigd",
+            "Profeten zochten de tijd; het evangelie is nu gebracht."
+          ],
+          [
+            "13–21 · Hoop en ontzag",
+            "Heilig leven en vrijgekocht door Christus."
+          ],
+          [
+            "22–25 · Liefde en het Woord",
+            "Oprechte liefde; vergankelijk gras en een blijvend Woord."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "1petrus",
+      "chapter": 2,
+      "verse": 1,
+      "file": "2-leeswijzer.svg",
+      "scene": "Stenen, vrijheid en het voorbeeld",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1012,
+      "source": "1 Petrus 2:1–25",
+      "design": {
+        "rows": [
+          [
+            "1–10 · Groeien en gebouwd worden",
+            "Melk, levende stenen, hoeksteen en Gods volk."
+          ],
+          [
+            "11–17 · Tussen de volken",
+            "Goeddoen, vrije dienst en ieder eer geven."
+          ],
+          [
+            "18–20 · Onterecht lijden",
+            "Verdragen als men goeddoet."
+          ],
+          [
+            "21–25 · Christus volgen",
+            "Geen vergelding; Hij droeg zonden en is de Herder."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "1petrus",
+      "chapter": 3,
+      "verse": 1,
+      "file": "3-leeswijzer.svg",
+      "scene": "Eer, hoop en een goed geweten",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "1 Petrus 3:1–22",
+      "design": {
+        "rows": [
+          [
+            "1–7 · Huwelijk en begrip",
+            "Het innerlijke sieraad en samen erfgenaam zijn."
+          ],
+          [
+            "8–12 · Zegen en vrede",
+            "Geen kwaad vergelden; vrede zoeken en najagen."
+          ],
+          [
+            "13–17 · Het goede en de hoop",
+            "Zachtmoedig verantwoorden en een goed geweten houden."
+          ],
+          [
+            "18–22 · Christus en redding",
+            "Noach, acht mensen, de doop en Christus’ verhoging."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "1petrus",
+      "chapter": 4,
+      "verse": 1,
+      "file": "4-leeswijzer.svg",
+      "scene": "Dienen en lijden als christen",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 863,
+      "source": "1 Petrus 4:1–19",
+      "design": {
+        "rows": [
+          [
+            "1–6 · Een andere levenswijze",
+            "Gods wil tegenover vroegere verlangens en uitspattingen."
+          ],
+          [
+            "7–11 · Waken en dienen",
+            "Gebed, liefde, gastvrijheid en de ontvangen gaven."
+          ],
+          [
+            "12–19 · Verdrukking en vertrouwen",
+            "Geen schaamte als christen; goeddoen en de ziel toevertrouwen."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "1petrus",
+      "chapter": 5,
+      "verse": 1,
+      "file": "5-leeswijzer.svg",
+      "scene": "Hoeden en waakzaam blijven",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "1 Petrus 5:1–14",
+      "design": {
+        "rows": [
+          [
+            "1–4 · De oudsten",
+            "Vrijwillig, van harte en als voorbeeld de kudde hoeden."
+          ],
+          [
+            "5–7 · Nederigheid en zorgen",
+            "Elkaar dienen en zorgen aan God toevertrouwen."
+          ],
+          [
+            "8–11 · Nuchter vaststaan",
+            "De leeuwvergelijking, gedeeld lijden en Gods herstel."
+          ],
+          [
+            "12–14 · Brief en groeten",
+            "Silvanus, de gemeenschap in Babylon en Markus."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "1petrus",
+      "chapter": 1,
+      "verse": 10,
+      "file": "1-profeten-evangelie.svg",
+      "scene": "Van onderzoek naar verkondiging",
+      "alt": "Van onderzoek naar verkondiging met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 969,
+      "source": "1 Petrus 1:10–12",
+      "design": {
+        "rows": [
+          [
+            "De profeten",
+            "Onderzochten de genade, het lijden van Christus en de heerlijkheid daarna."
+          ],
+          [
+            "Hun dienst",
+            "Bestemd voor de latere hoorders."
+          ],
+          [
+            "De verkondigers",
+            "Brachten het evangelie door de Heilige Geest."
+          ],
+          [
+            "De engelen",
+            "Verlangen erin te kijken."
+          ]
+        ],
+        "note": "De tekst verbindt profetisch onderzoek met het verkondigde evangelie."
+      }
+    },
+    {
+      "book": "1petrus",
+      "chapter": 2,
+      "verse": 4,
+      "file": "2-steen-volk.svg",
+      "scene": "De steen en het geestelijke huis",
+      "alt": "De steen en het geestelijke huis met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "1 Petrus 2:4–10",
+      "design": {
+        "rows": [
+          [
+            "Christus",
+            "Levende, uitgekozen en kostbare steen; hoeksteen."
+          ],
+          [
+            "De gelovigen",
+            "Levende stenen in een geestelijk huis en heilig priesterschap."
+          ],
+          [
+            "De roeping",
+            "Gods grote daden verkondigen: uit duisternis naar licht."
+          ],
+          [
+            "De verandering",
+            "Vroeger geen volk en geen ontferming; nu Gods volk met ontferming."
+          ]
+        ],
+        "note": "Steen, huis en priesterschap zijn samenhangende beelden voor Christus en Zijn gemeenschap."
+      }
+    },
+    {
+      "book": "1petrus",
+      "chapter": 2,
+      "verse": 21,
+      "file": "2-voorbeeld-lijden.svg",
+      "scene": "De voetstappen van Christus",
+      "alt": "De voetstappen van Christus met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "1 Petrus 2:21–25",
+      "design": {
+        "rows": [
+          [
+            "Zijn woorden",
+            "Geen bedrog; niet terugschelden of dreigen."
+          ],
+          [
+            "Zijn vertrouwen",
+            "Het overgeven aan Hem die rechtvaardig oordeelt."
+          ],
+          [
+            "Zijn offer",
+            "Zonden dragen op het hout, om voor gerechtigheid te leven."
+          ],
+          [
+            "Onze terugkeer",
+            "Van dwalende schapen naar de Herder en Opziener."
+          ]
+        ],
+        "note": "De tekst verbindt Christus’ voorbeeld met Zijn reddende werk."
+      }
+    },
+    {
+      "book": "1petrus",
+      "chapter": 3,
+      "verse": 18,
+      "file": "3-noach-doop.svg",
+      "scene": "Noach, doop en Christus",
+      "alt": "Noach, doop en Christus met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1134,
+      "source": "1 Petrus 3:18–22",
+      "design": {
+        "rows": [
+          [
+            "Christus · vers 18–19",
+            "Eens geleden; levend gemaakt; verkondiging aan de geesten in de gevangenis."
+          ],
+          [
+            "Noach · vers 20",
+            "God wachtte; in de ark werden acht mensen door water gered."
+          ],
+          [
+            "De doop · vers 21",
+            "Het tegenbeeld; een vraag van goed geweten, door Jezus’ opstanding."
+          ],
+          [
+            "De hemel · vers 22",
+            "Jezus aan Gods rechterhand; engelen, machten en krachten onderworpen."
+          ]
+        ],
+        "note": "De opeenvolgende tekstgegevens blijven onderscheiden; niet benoemde geesten krijgen geen verzonnen namen."
+      }
+    },
+    {
+      "book": "1petrus",
+      "chapter": 4,
+      "verse": 10,
+      "file": "4-gaven-dienen.svg",
+      "scene": "De ontvangen gave gebruiken",
+      "alt": "De ontvangen gave gebruiken met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1012,
+      "source": "1 Petrus 4:7–11",
+      "design": {
+        "rows": [
+          [
+            "De houding",
+            "Nuchter bidden, vurige liefde en gastvrijheid zonder mopperen."
+          ],
+          [
+            "Ieders gave",
+            "Daarmee de anderen dienen als beheerder van Gods genade."
+          ],
+          [
+            "Spreken",
+            "Als met woorden van God."
+          ],
+          [
+            "Dienen",
+            "Uit de kracht die God geeft, tot Zijn eer door Christus."
+          ]
+        ],
+        "note": "De onderscheiden gaven krijgen hetzelfde doel: de anderen dienen en God prijzen."
+      }
+    },
+    {
+      "book": "1petrus",
+      "chapter": 5,
+      "verse": 2,
+      "file": "5-oudsten-contrast.svg",
+      "scene": "Hoe de kudde wordt gehoed",
+      "alt": "Hoe de kudde wordt gehoed met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 926,
+      "source": "1 Petrus 5:1–4",
+      "design": {
+        "rows": [
+          [
+            "Niet gedwongen",
+            "Maar vrijwillig toezicht houden."
+          ],
+          [
+            "Niet uit winstbejag",
+            "Maar van harte."
+          ],
+          [
+            "Niet overheersen",
+            "Maar een voorbeeld voor de kudde zijn."
+          ],
+          [
+            "De verwachting",
+            "De Opperherder en de onverwelkelijke krans van heerlijkheid."
+          ]
+        ],
+        "note": "De herderwoorden worden op de oudsten en hun omgang met de gemeente toegepast."
+      }
+    }
+  ]
+}
