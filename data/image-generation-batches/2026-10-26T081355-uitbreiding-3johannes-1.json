@@ -1,0 +1,87 @@
+{
+  "date": "2026-10-26",
+  "started": "2026-10-26T08:13:55Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "3johannes",
+      "chapter": 1,
+      "verse": 3,
+      "file": "1-3-bericht-gajus-verdieping.webp",
+      "scene": "Gelovigen getuigen over Gajus",
+      "alt": "Gelovigen getuigen over Gajus — 3 Johannes 1:3; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. 3 John 1:3–4 recalls brothers coming to the elder and testifying that Gaius lives in the truth, bringing the elder great joy. Three adult men in a modest first-century household room, two travelling believers seated with an elderly elder, reporting warmly while he listens with quiet joy. No Gaius present being introduced, readable letter, invented visit to a named city or crowd. Simple travel bags set beside the two messengers, coherent hands and two arms each, modest opaque robes.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "3johannes",
+      "chapter": 1,
+      "verse": 1,
+      "file": "1-leeswijzer.svg",
+      "scene": "Waarheid en de reizigers helpen",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "3 Johannes 1:1–15",
+      "design": {
+        "rows": [
+          [
+            "1–4 · Groet en goed bericht",
+            "Gajus leeft in de waarheid en dat geeft vreugde."
+          ],
+          [
+            "5–8 · De vreemdelingen",
+            "Ontvangen en verder helpen als medewerkers van de waarheid."
+          ],
+          [
+            "9–12 · Twee voorbeelden",
+            "Diotrefes’ tegenwerking en het goede getuigenis over Demetrius."
+          ],
+          [
+            "13–15 · Het slot",
+            "Persoonlijk spreken en de vrienden bij naam groeten."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "3johannes",
+      "chapter": 1,
+      "verse": 9,
+      "file": "1-drie-namen.svg",
+      "scene": "Gajus, Diotrefes en Demetrius",
+      "alt": "Gajus, Diotrefes en Demetrius met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1012,
+      "source": "3 Johannes 1:1–12",
+      "design": {
+        "rows": [
+          [
+            "Gajus · vers 1–8",
+            "Geliefd; leeft in waarheid en handelt trouw voor reizende gelovigen."
+          ],
+          [
+            "Diotrefes · vers 9–10",
+            "Wil de eerste zijn; ontvangt niet en houdt anderen tegen."
+          ],
+          [
+            "Demetrius · vers 12",
+            "Heeft een goed getuigenis van allen, de waarheid en de schrijver."
+          ],
+          [
+            "De oproep · vers 11",
+            "Volg niet het kwade na, maar het goede."
+          ]
+        ],
+        "note": "De drie verschillende rollen volgen de expliciete berichten in de brief."
+      }
+    }
+  ]
+}

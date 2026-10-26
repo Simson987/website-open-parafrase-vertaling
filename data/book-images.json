@@ -68710,19 +68710,61 @@
         "chapter": 1,
         "file": "1-gaius.webp",
         "alt": "Gajus ontvangt een brief",
-        "scene": "De brief aan Gajus"
+        "scene": "De brief aan Gajus",
+        "verse": 1,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 1,
         "file": "1-hospitality.webp",
         "alt": "Gajus biedt reizigers onderdak",
-        "scene": "Gastvrijheid voor reizigers"
+        "scene": "Gastvrijheid voor reizigers",
+        "verse": 5,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 1,
         "file": "1-friends.webp",
         "alt": "Vrienden groeten elkaar in een gemeente",
-        "scene": "Groet de vrienden"
+        "scene": "Groet de vrienden",
+        "verse": 15,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 1,
+        "verse": 3,
+        "file": "1-3-bericht-gajus-verdieping.webp",
+        "scene": "Gelovigen getuigen over Gajus",
+        "alt": "Gelovigen getuigen over Gajus — 3 Johannes 1:3; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 1,
+        "verse": 1,
+        "file": "1-leeswijzer.svg",
+        "scene": "Waarheid en de reizigers helpen",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1055
+      },
+      {
+        "chapter": 1,
+        "verse": 9,
+        "file": "1-drie-namen.svg",
+        "scene": "Gajus, Diotrefes en Demetrius",
+        "alt": "Gajus, Diotrefes en Demetrius met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1012
       }
     ],
     "judas": [

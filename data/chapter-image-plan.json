@@ -32892,6 +32892,35 @@
           "source": "2 Johannes 1:7–11"
         }
       ]
+    },
+    {
+      "book": "3johannes",
+      "chapter": 1,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Brief, reizigers ontvangen en groeten zijn aanwezig. Het bericht van aankomende gelovigen over Gajus krijgt een eigen beeld. Leeswijzer en het overzicht van de drie genoemde mannen maken trouw en tegenwerking duidelijk zonder een verzonnen afloop van de voorgenomen komst.",
+      "additions": [
+        {
+          "verse": 3,
+          "file": "1-3-bericht-gajus-verdieping.webp",
+          "scene": "Gelovigen getuigen over Gajus",
+          "kind": "scene"
+        },
+        {
+          "verse": 1,
+          "file": "1-leeswijzer.svg",
+          "scene": "Waarheid en de reizigers helpen",
+          "kind": "diagram",
+          "source": "3 Johannes 1:1–15"
+        },
+        {
+          "verse": 9,
+          "file": "1-drie-namen.svg",
+          "scene": "Gajus, Diotrefes en Demetrius",
+          "kind": "diagram",
+          "source": "3 Johannes 1:1–12"
+        }
+      ]
     }
   ]
 }
