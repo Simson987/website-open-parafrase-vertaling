@@ -35002,6 +35002,129 @@
           "source": "Tobit 13:18–20"
         }
       ]
+    },
+    {
+      "book": "judith",
+      "chapter": 1,
+      "status": "reviewed",
+      "target_images": 7,
+      "reason": "Muren, uitgaande boodschappers en terugkerende gezanten zijn aanwezig. De uiteindelijke verwoesting van Ecbatana ontbreekt en krijgt een eigen scène. Maten en jaren worden met de eigen verhaalgegevens uitgelegd.",
+      "additions": [
+        {
+          "verse": 14,
+          "file": "1-14-ecbatana-verwoest-verdieping.webp",
+          "scene": "De verwoeste pracht van Ecbatana",
+          "kind": "scene"
+        },
+        {
+          "verse": 1,
+          "file": "1-leeswijzer.svg",
+          "scene": "Muren, weigering en verovering",
+          "kind": "diagram",
+          "source": "Judith 1:1–16"
+        },
+        {
+          "verse": 2,
+          "file": "1-ecbatana-maten.svg",
+          "scene": "Maten van de vesting",
+          "kind": "diagram",
+          "source": "Judith 1:2–5"
+        },
+        {
+          "verse": 1,
+          "file": "1-jaren-volgorde.svg",
+          "scene": "Jaren en terugkeer",
+          "kind": "diagram",
+          "source": "Judith 1:1,13–16; 2:1"
+        }
+      ]
+    },
+    {
+      "book": "judith",
+      "chapter": 2,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Opdracht, bagage en uittocht zijn aanwezig. De akkerverbranding bij Damascus is een andere fase van de veldtocht. Leeswijzer en leger-voorraadschema onderscheiden getallen en ongeteld gevolg.",
+      "additions": [
+        {
+          "verse": 17,
+          "file": "2-17-akkers-branden-verdieping.webp",
+          "scene": "De akkers bij Damascus branden",
+          "kind": "scene"
+        },
+        {
+          "verse": 1,
+          "file": "2-leeswijzer.svg",
+          "scene": "Holofernes op veldtocht",
+          "kind": "diagram",
+          "source": "Judith 2:1–18"
+        },
+        {
+          "verse": 5,
+          "file": "2-leger-aantallen.svg",
+          "scene": "Leger en voorraad",
+          "kind": "diagram",
+          "source": "Judith 2:5–11"
+        }
+      ]
+    },
+    {
+      "book": "judith",
+      "chapter": 3,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Vredesgezanten, feestelijke ontvangst en kamp zijn aanwezig. Het omhakken van heilige bossen laat een andere belangrijke handeling zien. Het aanbod-gevolg-schema verklaart de gedwongen verering van Nebukadnezar.",
+      "additions": [
+        {
+          "verse": 10,
+          "file": "3-10-heilige-bossen-verdieping.webp",
+          "scene": "De heilige bossen omgehakt",
+          "kind": "scene"
+        },
+        {
+          "verse": 1,
+          "file": "3-leeswijzer.svg",
+          "scene": "Overgave zonder behoud",
+          "kind": "diagram",
+          "source": "Judith 3:1–14"
+        },
+        {
+          "verse": 1,
+          "file": "3-overgave-gevolg.svg",
+          "scene": "Aanbod en gevolg",
+          "kind": "diagram",
+          "source": "Judith 3:1–12"
+        }
+      ]
+    },
+    {
+      "book": "judith",
+      "chapter": 4,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Voorraden, bewaakte pas en tempelgebed zijn aanwezig. Het met rouwkleed bedekte altaar is een afzonderlijk concreet tekstbeeld. Leeswijzer en voorbereidingsschema verbinden praktische verdediging en gezamenlijk gebed.",
+      "additions": [
+        {
+          "verse": 12,
+          "file": "4-12-altaar-rouwkleed-verdieping.webp",
+          "scene": "Het altaar met een rouwkleed",
+          "kind": "scene"
+        },
+        {
+          "verse": 1,
+          "file": "4-leeswijzer.svg",
+          "scene": "Verdediging, gebed en vasten",
+          "kind": "diagram",
+          "source": "Judith 4:1–17"
+        },
+        {
+          "verse": 3,
+          "file": "4-passen-en-gebed.svg",
+          "scene": "Voorbereiding en gebed",
+          "kind": "diagram",
+          "source": "Judith 4:3–17"
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,342 @@
+{
+  "date": "2026-10-26",
+  "started": "2026-10-26T10:14:43Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "judith",
+      "chapter": 1,
+      "verse": 14,
+      "file": "1-14-ecbatana-verwoest-verdieping.webp",
+      "scene": "De verwoeste pracht van Ecbatana",
+      "alt": "De verwoeste pracht van Ecbatana — Judith 1:14; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of the narrative world of Judith, ancient Near Eastern Assyrian and Median-style architecture and modest opaque clothing, landscape 3:2, natural materials and light, coherent anatomy with exactly two arms per human. No modern objects, Roman armor, readable writing, blood, injury or watermark. Narrative illustration of Judith 1:14, ancient Ecbatana after conquest, massive stone gate and defensive towers partly ruined, fine streets broken and empty. A distant Assyrian army’s standards at the gate, no close battle or human casualties. Somber broad view, no modern buildings, no readable text. A depiction of this book’s story, no exact archaeological reconstruction.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "judith",
+      "chapter": 2,
+      "verse": 17,
+      "file": "2-17-akkers-branden-verdieping.webp",
+      "scene": "De akkers bij Damascus branden",
+      "alt": "De akkers bij Damascus branden — Judith 2:17; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of the narrative world of Judith, ancient Near Eastern Assyrian and Median-style architecture and modest opaque clothing, landscape 3:2, natural materials and light, coherent anatomy with exactly two arms per human. No modern objects, Roman armor, readable writing, blood, injury or watermark. Judith 2:17 narrative scene: ancient ripe wheatfields on the plain of Damascus burn under dark smoke after an invading army has passed. Focus on ruined harvest and deserted fields, ancient distant stone settlement, no human figures, dead bodies or injured animals. Photorealistic natural textures, no modern objects.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "judith",
+      "chapter": 3,
+      "verse": 10,
+      "file": "3-10-heilige-bossen-verdieping.webp",
+      "scene": "De heilige bossen omgehakt",
+      "alt": "De heilige bossen omgehakt — Judith 3:10; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of the narrative world of Judith, ancient Near Eastern Assyrian and Median-style architecture and modest opaque clothing, landscape 3:2, natural materials and light, coherent anatomy with exactly two arms per human. No modern objects, Roman armor, readable writing, blood, injury or watermark. Judith 3:10–12 narrative scene: an ancient Near Eastern sacred grove has been cut down by the occupying army. Show fresh tree stumps and felled trunks, a few distant Assyrian workers with ancient axes, no gore, no people being struck, no attack on a modern faith or current community. Sober evidence of coerced worship, period natural materials.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "judith",
+      "chapter": 4,
+      "verse": 12,
+      "file": "4-12-altaar-rouwkleed-verdieping.webp",
+      "scene": "Het altaar met een rouwkleed",
+      "alt": "Het altaar met een rouwkleed — Judith 4:12; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of the narrative world of Judith, ancient Near Eastern Assyrian and Median-style architecture and modest opaque clothing, landscape 3:2, natural materials and light, coherent anatomy with exactly two arms per human. No modern objects, Roman armor, readable writing, blood, injury or watermark. Judith 4:12 narrative detail: the altar in the ancient Jerusalem temple courtyard is draped with a rough sackcloth mourning covering, a small group of priests in modest opaque linen garments with sackcloth around their waists and ash on their heads pray nearby. Focus on the covered altar, no exposed body or deity image, no flames touching cloth, no modern ritual objects.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "judith",
+      "chapter": 1,
+      "verse": 1,
+      "file": "1-leeswijzer.svg",
+      "scene": "Muren, weigering en verovering",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 949,
+      "source": "Judith 1:1–16",
+      "design": {
+        "rows": [
+          [
+            "1–5 · Ecbatana versterkt",
+            "Arfaxad bouwt enorme muren, torens en poorten."
+          ],
+          [
+            "6–12 · Oproep en weigering",
+            "Nebukadnezar vraagt hulp; de gezanten keren met lege handen terug en hij zweert wraak."
+          ],
+          [
+            "13–16 · De oorlog",
+            "Arfaxad wordt verslagen, Ecbatana verwoest en de koning keert terug naar Nineve."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "judith",
+      "chapter": 2,
+      "verse": 1,
+      "file": "2-leeswijzer.svg",
+      "scene": "Holofernes op veldtocht",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 906,
+      "source": "Judith 2:1–18",
+      "design": {
+        "rows": [
+          [
+            "1–7 · Beraad en bevel",
+            "In het achttiende jaar krijgt Holofernes de opdracht het westen te onderwerpen."
+          ],
+          [
+            "8–12 · Leger en bagage",
+            "Mensen, dieren, voedsel, goud en zilver; via Bektileth het bergland in."
+          ],
+          [
+            "13–18 · De verwoesting",
+            "Veroverde gebieden, verbrande akkers en schrik in de kuststeden."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "judith",
+      "chapter": 3,
+      "verse": 1,
+      "file": "3-leeswijzer.svg",
+      "scene": "Overgave zonder behoud",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "Judith 3:1–14",
+      "design": {
+        "rows": [
+          [
+            "1–6 · Vredesgezanten",
+            "Steden, land en inwoners worden aan Holofernes aangeboden."
+          ],
+          [
+            "7–9 · Bezetting en ontvangst",
+            "Hij bezet steden, neemt mannen op en wordt met kransen en dans ontvangen."
+          ],
+          [
+            "10–12 · Vernietiging van eredienst",
+            "Heilige bossen en goden vernietigd om alleen Nebukadnezar te laten dienen."
+          ],
+          [
+            "13–14 · Een maand bij het kamp",
+            "Tussen Gaba en Scythopolis wacht hij om de bagage bijeen te brengen."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "judith",
+      "chapter": 4,
+      "verse": 1,
+      "file": "4-leeswijzer.svg",
+      "scene": "Verdediging, gebed en vasten",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 949,
+      "source": "Judith 4:1–17",
+      "design": {
+        "rows": [
+          [
+            "1–7 · Voorbereiding",
+            "Bang om stad en tempel; dorpen versterken, voorraad aanleggen en bergpassen bewaken."
+          ],
+          [
+            "8–13 · Samen vernederen",
+            "Gezinnen en dienaren in rouw; altaar bekleed en eendrachtig gebed."
+          ],
+          [
+            "14–17 · God hoort",
+            "God ziet de nood; het volk blijft vasten en priesters blijven de dienst doen."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "judith",
+      "chapter": 1,
+      "verse": 2,
+      "file": "1-ecbatana-maten.svg",
+      "scene": "Maten van de vesting",
+      "alt": "Maten van de vesting met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1005,
+      "source": "Judith 1:2–5",
+      "design": {
+        "rows": [
+          [
+            "Stenen · vers 2",
+            "Drie el breed en zes el lang."
+          ],
+          [
+            "Muur · vers 2 en 4",
+            "Zeventig el hoog en vijftig el breed; fundament zestig el breed."
+          ],
+          [
+            "Torens · vers 3",
+            "Honderd el hoog, op de poorten."
+          ],
+          [
+            "Poorten · vers 5",
+            "Zeventig el hoog en veertig el breed, voor het uittrekkende leger."
+          ]
+        ],
+        "note": "De maten zijn die van het verhaal; onbekende details zijn niet tot een bouwtekening aangevuld."
+      }
+    },
+    {
+      "book": "judith",
+      "chapter": 1,
+      "verse": 1,
+      "file": "1-jaren-volgorde.svg",
+      "scene": "Jaren en terugkeer",
+      "alt": "Jaren en terugkeer met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1091,
+      "source": "Judith 1:1,13–16; 2:1",
+      "design": {
+        "rows": [
+          [
+            "Twaalfde jaar · 1:1",
+            "Het begin plaatst de koningen in Nineve en Ecbatana."
+          ],
+          [
+            "Zeventiende jaar · 1:13",
+            "Nebukadnezar trekt in slagorde op en verslaat Arfaxad."
+          ],
+          [
+            "Terug in Nineve · 1:16",
+            "Rust en honderdtwintig dagen feestmaaltijden."
+          ],
+          [
+            "Achttiende jaar · 2:1",
+            "Op dag 22 van de eerste maand volgt het beraad over wraak."
+          ]
+        ],
+        "note": "Vertelde volgorde in Judith, zonder deze regeringsgegevens aan andere boeken gelijk te maken."
+      }
+    },
+    {
+      "book": "judith",
+      "chapter": 2,
+      "verse": 5,
+      "file": "2-leger-aantallen.svg",
+      "scene": "Leger en voorraad",
+      "alt": "Leger en voorraad met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1012,
+      "source": "Judith 2:5–11",
+      "design": {
+        "rows": [
+          [
+            "Voetvolk",
+            "120.000 uitgelezen mannen."
+          ],
+          [
+            "Ruiters",
+            "12.000 paarden met ruiters; vers 7 noemt boogschutters te paard."
+          ],
+          [
+            "Bagage en voedsel",
+            "Veel kamelen en ezels; schapen, runderen, geiten en graan."
+          ],
+          [
+            "Middelen en gevolg",
+            "Veel goud en zilver; een ontelbaar gemengd gevolg sluit zich aan."
+          ]
+        ],
+        "note": "De getelde strijders en het ongetelde gevolg worden niet als één berekend totaal weergegeven."
+      }
+    },
+    {
+      "book": "judith",
+      "chapter": 3,
+      "verse": 1,
+      "file": "3-overgave-gevolg.svg",
+      "scene": "Aanbod en gevolg",
+      "alt": "Aanbod en gevolg met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "Judith 3:1–12",
+      "design": {
+        "rows": [
+          [
+            "Het aanbod",
+            "Land, boerderijen, voorraad, kudden, steden en inwoners staan ter beschikking."
+          ],
+          [
+            "De ontvangst",
+            "Kransen, reidansen en tamboerijnen."
+          ],
+          [
+            "Wat Holofernes doet",
+            "Bezet steden, neemt mannen op en verwoest de heilige bossen."
+          ],
+          [
+            "Zijn doel",
+            "Alle volken moeten alleen Nebukadnezar dienen en als god aanroepen."
+          ]
+        ],
+        "note": "Het vredesaanbod en de latere vernietiging van de plaatselijke eredienst blijven onderscheiden."
+      }
+    },
+    {
+      "book": "judith",
+      "chapter": 4,
+      "verse": 3,
+      "file": "4-passen-en-gebed.svg",
+      "scene": "Voorbereiding en gebed",
+      "alt": "Voorbereiding en gebed met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1134,
+      "source": "Judith 4:3–17",
+      "design": {
+        "rows": [
+          [
+            "Materiële voorbereiding",
+            "Boodschappers, bezette bergtoppen, dorpsmuren en graanvoorraden."
+          ],
+          [
+            "De pas · vers 5–6",
+            "Bij Betulia en Betomestaïm; hoogstens twee mannen passen naast elkaar."
+          ],
+          [
+            "Het gebed · vers 8–13",
+            "Mannen, vrouwen, kinderen, loonarbeiders en slaven delen de vernedering en de zorg."
+          ],
+          [
+            "De priesters · vers 16–17",
+            "Blijven offers brengen, met rouwkleren en as, en roepen voor heel Israël."
+          ]
+        ],
+        "note": "Verdediging en gebed zijn beide onderdeel van het hoofdstuk; de smalle doorgang verklaart de opdracht."
+      }
+    }
+  ]
+}
