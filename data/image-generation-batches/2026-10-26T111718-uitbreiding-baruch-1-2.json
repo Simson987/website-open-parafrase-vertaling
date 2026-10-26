@@ -1,0 +1,111 @@
+{
+  "date": "2026-10-26",
+  "started": "2026-10-26T11:17:18Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "baruch",
+      "chapter": 1,
+      "verse": 14,
+      "file": "1-14-boek-voorlezen-jeruzalem-verdieping.webp",
+      "scene": "Het boek in Jeruzalem voorlezen",
+      "alt": "Het boek in Jeruzalem voorlezen — Baruch 1:14; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of the instruction in Baruch 1:14, ancient Judea in the Babylonian exile period, landscape 3:2, modest opaque linen robes, natural daylight, coherent anatomy with exactly two arms per person. No modern objects, readable writing, divine human figure, blood or injury. An ancient Judean priest in plain white linen robes holds an open scroll and reads aloud to a small assembly of modestly clothed adults in a damaged stone sanctuary courtyard in Jerusalem. Some surrounding walls show old fire damage and repairs, sober daylight, simple altar visible at a distance. Focus on the public hearing of a book received from exiles, not a Babylonian riverside scene. The scroll has no legible text. Exactly two hands each, natural faces. This is a reconstruction of the requested reading in Baruch 1:14, not proof that the instruction had already been carried out.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "baruch",
+      "chapter": 1,
+      "verse": 3,
+      "file": "1-boek-geld-en-gebed.svg",
+      "scene": "Boek, geld en gebed",
+      "alt": "Boek, geld en gebed met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1141,
+      "source": "Baruch 1:1–22",
+      "design": {
+        "rows": [
+          [
+            "In Babel · 1–6",
+            "Baruch schrijft en leest; de ballingen huilen, vasten, bidden en zamelen in."
+          ],
+          [
+            "Naar Jeruzalem · 7–10",
+            "Geld en tempelvoorwerpen; een opdracht tot het brengen van offers."
+          ],
+          [
+            "De opdracht · 11–14",
+            "Bidden voor de Babylonische heersers en voor de ballingen; het boek openbaar voorlezen."
+          ],
+          [
+            "De belijdenis · 15–22",
+            "Gerechtigheid bij God, schaamte bij het volk vanwege aanhoudende ongehoorzaamheid."
+          ]
+        ],
+        "note": "De opdracht tot voorlezen in Jeruzalem is onderscheiden van Baruchs voorlezing in Babel."
+      }
+    },
+    {
+      "book": "baruch",
+      "chapter": 2,
+      "verse": 1,
+      "file": "2-belijdenis-en-belofte.svg",
+      "scene": "Belijdenis en belofte",
+      "alt": "Belijdenis en belofte met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1091,
+      "source": "Baruch 2:1–35",
+      "design": {
+        "rows": [
+          [
+            "De erkenning · 1–10",
+            "Ellende en verstrooiing worden verbonden met het niet luisteren."
+          ],
+          [
+            "Het smeekgebed · 11–19",
+            "Herinnering aan de uittocht en verzoek om ontferming en verhoring."
+          ],
+          [
+            "Het profetische woord · 20–27",
+            "Dienst aan Babel, verwoesting en de erkende gevolgen van ongehoorzaamheid."
+          ],
+          [
+            "De belofte · 28–35",
+            "Tot inkeer komen, een luisterend hart, terugkeer en een eeuwig verbond."
+          ]
+        ],
+        "note": "De afgebeelde terugkeer hoort bij de belofte in het gebed; het hoofdstuk vertelt niet dat deze al is voltrokken."
+      }
+    },
+    {
+      "book": "baruch",
+      "chapter": 1,
+      "verse": 1,
+      "file": "1-voorouders-baruch.svg",
+      "scene": "De voorouders van Baruch",
+      "alt": "De voorouders van Baruch — Baruch 1:1",
+      "kind": "diagram",
+      "width": 840,
+      "height": 802,
+      "source": "Baruch 1:1",
+      "design": {
+        "type": "vertical named sequence",
+        "names": [
+          "Chelkia",
+          "Asadia",
+          "Zedekia",
+          "Mahaseja",
+          "Neria",
+          "Baruch"
+        ],
+        "note": "Van vader naar zoon volgens de naamreeks in vers 1. De gelijknamige koning Zedekia uit vers 8 is hier niet mee vereenzelvigd."
+      }
+    }
+  ]
+}

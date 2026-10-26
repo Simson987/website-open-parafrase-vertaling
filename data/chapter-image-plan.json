@@ -36993,6 +36993,51 @@
           "source": "Jezus Sirach 51:1–38"
         }
       ]
+    },
+    {
+      "book": "baruch",
+      "chapter": 1,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Voorlezing in Babel, vasten en inzameling zijn aanwezig. De opdracht tot openbare voorlezing in Jeruzalem is een andere plaats en functie en krijgt één uitdrukkelijk als opdracht beschreven reconstructie. Een leeswijzer en de exacte voorouderlijn van Baruch maken de verbindingen helder.",
+      "additions": [
+        {
+          "verse": 14,
+          "file": "1-14-boek-voorlezen-jeruzalem-verdieping.webp",
+          "scene": "Het boek in Jeruzalem voorlezen",
+          "kind": "scene"
+        },
+        {
+          "verse": 3,
+          "file": "1-boek-geld-en-gebed.svg",
+          "scene": "Boek, geld en gebed",
+          "kind": "diagram",
+          "source": "Baruch 1:1–22"
+        },
+        {
+          "verse": 1,
+          "file": "1-voorouders-baruch.svg",
+          "scene": "De voorouders van Baruch",
+          "kind": "diagram",
+          "source": "Baruch 1:1"
+        }
+      ]
+    },
+    {
+      "book": "baruch",
+      "chapter": 2,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "Smeekgebed, Mozes die schrijft en beloofde terugkeer zijn aanwezig. Eén schema verbindt belijdenis, profetenwoord en toekomstbelofte en voorkomt dat de bestaande terugkeerfoto als reeds gebeurde gebeurtenis gelezen wordt. Geen tweede gebedsbeeld.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "2-belijdenis-en-belofte.svg",
+          "scene": "Belijdenis en belofte",
+          "kind": "diagram",
+          "source": "Baruch 2:1–35"
+        }
+      ]
     }
   ]
 }

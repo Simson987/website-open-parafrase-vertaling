@@ -62526,7 +62526,11 @@
         "chapter": 1,
         "file": "1-reading.webp",
         "alt": "Baruch leest een boekrol voor in Babylon",
-        "scene": "Baruch leest voor"
+        "scene": "Baruch leest voor",
+        "verse": 3,
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 3,
@@ -62545,35 +62549,50 @@
         "verse": 5,
         "file": "1-5.webp",
         "alt": "Beeld bij Baruch 1: Ballingen vasten en bidden",
-        "scene": "Ballingen vasten en bidden"
+        "scene": "Ballingen vasten en bidden",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 1,
         "verse": 6,
         "file": "1-6.webp",
         "alt": "Beeld bij Baruch 1: Een inzameling voor Jeruzalem",
-        "scene": "Een inzameling voor Jeruzalem"
+        "scene": "Een inzameling voor Jeruzalem",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 2,
         "verse": 14,
         "file": "2-14.webp",
         "alt": "Beeld bij Baruch 2: Een smeekgebed in ballingschap",
-        "scene": "Een smeekgebed in ballingschap"
+        "scene": "Een smeekgebed in ballingschap",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 2,
         "verse": 28,
         "file": "2-28.webp",
         "alt": "Beeld bij Baruch 2: Mozes schrijft de wet",
-        "scene": "Mozes schrijft de wet"
+        "scene": "Mozes schrijft de wet",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 2,
         "verse": 34,
         "file": "2-34.webp",
         "alt": "Beeld bij Baruch 2: Terugkeer naar het land",
-        "scene": "Terugkeer naar het land"
+        "scene": "Terugkeer naar het land",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 3,
@@ -62644,6 +62663,46 @@
         "file": "6-69.webp",
         "alt": "Beeld bij Baruch 6: De vogelverschrikker in het veld",
         "scene": "De vogelverschrikker in het veld"
+      },
+      {
+        "chapter": 1,
+        "verse": 14,
+        "file": "1-14-boek-voorlezen-jeruzalem-verdieping.webp",
+        "scene": "Het boek in Jeruzalem voorlezen",
+        "alt": "Het boek in Jeruzalem voorlezen — Baruch 1:14; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 1,
+        "verse": 3,
+        "file": "1-boek-geld-en-gebed.svg",
+        "scene": "Boek, geld en gebed",
+        "alt": "Boek, geld en gebed met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1141
+      },
+      {
+        "chapter": 2,
+        "verse": 1,
+        "file": "2-belijdenis-en-belofte.svg",
+        "scene": "Belijdenis en belofte",
+        "alt": "Belijdenis en belofte met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1091
+      },
+      {
+        "chapter": 1,
+        "verse": 1,
+        "file": "1-voorouders-baruch.svg",
+        "scene": "De voorouders van Baruch",
+        "alt": "De voorouders van Baruch — Baruch 1:1",
+        "kind": "diagram",
+        "width": 840,
+        "height": 802
       }
     ],
     "estherapocrief": [
