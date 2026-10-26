@@ -38899,7 +38899,11 @@
         "chapter": 8,
         "file": "8-hope.webp",
         "alt": "Een gezin loopt na de regen door een olijfgaard",
-        "scene": "Hoop voor de schepping"
+        "scene": "Hoop voor de schepping",
+        "verse": 19,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 12,
@@ -39052,98 +39056,140 @@
         "verse": 4,
         "file": "6-4.webp",
         "alt": "Beeld bij Romeinen 6: Wandelen in nieuw leven",
-        "scene": "Wandelen in nieuw leven"
+        "scene": "Wandelen in nieuw leven",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 6,
         "verse": 13,
         "file": "6-13.webp",
         "alt": "Beeld bij Romeinen 6: In dienst van gerechtigheid",
-        "scene": "In dienst van gerechtigheid"
+        "scene": "In dienst van gerechtigheid",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 6,
         "verse": 23,
         "file": "6-23.webp",
         "alt": "Beeld bij Romeinen 6: Een genadegave",
-        "scene": "Een genadegave"
+        "scene": "Een genadegave",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 7,
         "verse": 4,
         "file": "7-4.webp",
         "alt": "Beeld bij Romeinen 7: Vrucht dragen",
-        "scene": "Vrucht dragen"
+        "scene": "Vrucht dragen",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 7,
         "verse": 12,
         "file": "7-12.webp",
         "alt": "Beeld bij Romeinen 7: Een heilig en goed gebod",
-        "scene": "Een heilig en goed gebod"
+        "scene": "Een heilig en goed gebod",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 7,
         "verse": 24,
         "file": "7-24.webp",
         "alt": "Beeld bij Romeinen 7: Verlangen naar bevrijding",
-        "scene": "Verlangen naar bevrijding"
+        "scene": "Verlangen naar bevrijding",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 8,
         "verse": 15,
         "file": "8-15.webp",
         "alt": "Beeld bij Romeinen 8: Als kinderen aangenomen",
-        "scene": "Als kinderen aangenomen"
+        "scene": "Als kinderen aangenomen",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 8,
         "verse": 26,
         "file": "8-26.webp",
         "alt": "Beeld bij Romeinen 8: Hulp in onze zwakheid",
-        "scene": "Hulp in onze zwakheid"
+        "scene": "Hulp in onze zwakheid",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 9,
         "verse": 8,
         "file": "9-8.webp",
         "alt": "Beeld bij Romeinen 9: Kinderen van de belofte",
-        "scene": "Kinderen van de belofte"
+        "scene": "Kinderen van de belofte",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 9,
         "verse": 21,
         "file": "9-21.webp",
         "alt": "Beeld bij Romeinen 9: De pottenbakker en de klei",
-        "scene": "De pottenbakker en de klei"
+        "scene": "De pottenbakker en de klei",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 9,
         "verse": 25,
         "file": "9-25.webp",
         "alt": "Beeld bij Romeinen 9: Mijn geliefde volk",
-        "scene": "Mijn geliefde volk"
+        "scene": "Mijn geliefde volk",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 10,
         "verse": 9,
         "file": "10-9.webp",
         "alt": "Beeld bij Romeinen 10: Belijden en geloven",
-        "scene": "Belijden en geloven"
+        "scene": "Belijden en geloven",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 10,
         "verse": 15,
         "file": "10-15.webp",
         "alt": "Beeld bij Romeinen 10: Voeten die goed nieuws brengen",
-        "scene": "Voeten die goed nieuws brengen"
+        "scene": "Voeten die goed nieuws brengen",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 10,
         "verse": 17,
         "file": "10-17.webp",
         "alt": "Beeld bij Romeinen 10: Geloof komt door horen",
-        "scene": "Geloof komt door horen"
+        "scene": "Geloof komt door horen",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 11,
@@ -39403,6 +39449,146 @@
         "kind": "diagram",
         "width": 840,
         "height": 1055
+      },
+      {
+        "chapter": 6,
+        "verse": 1,
+        "file": "6-leeswijzer.svg",
+        "scene": "Met Christus tot een nieuw leven",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1055
+      },
+      {
+        "chapter": 7,
+        "verse": 1,
+        "file": "7-leeswijzer.svg",
+        "scene": "De goede wet en de strijd",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 969
+      },
+      {
+        "chapter": 8,
+        "verse": 1,
+        "file": "8-leeswijzer.svg",
+        "scene": "Leven, hoop en Gods liefde",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1012
+      },
+      {
+        "chapter": 9,
+        "verse": 1,
+        "file": "9-leeswijzer.svg",
+        "scene": "Belofte en barmhartigheid",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1055
+      },
+      {
+        "chapter": 10,
+        "verse": 1,
+        "file": "10-leeswijzer.svg",
+        "scene": "Het woord dichtbij en de zending",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1055
+      },
+      {
+        "chapter": 6,
+        "verse": 1,
+        "file": "6-twee-vragen.svg",
+        "scene": "Twee vragen over genade",
+        "alt": "Twee vragen over genade met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1012
+      },
+      {
+        "chapter": 7,
+        "verse": 1,
+        "file": "7-huwelijksvergelijking.svg",
+        "scene": "De huwelijksvergelijking",
+        "alt": "De huwelijksvergelijking met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1055
+      },
+      {
+        "chapter": 7,
+        "verse": 7,
+        "file": "7-wet-en-zonde.svg",
+        "scene": "Wet en zonde niet verwarren",
+        "alt": "Wet en zonde niet verwarren met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 969
+      },
+      {
+        "chapter": 8,
+        "verse": 22,
+        "file": "8-drie-zuchten.svg",
+        "scene": "Drie keer zuchten",
+        "alt": "Drie keer zuchten met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1012
+      },
+      {
+        "chapter": 8,
+        "verse": 35,
+        "file": "8-liefde-blijft.svg",
+        "scene": "Wat kan ons niet scheiden?",
+        "alt": "Wat kan ons niet scheiden? met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1055
+      },
+      {
+        "chapter": 9,
+        "verse": 25,
+        "file": "9-profeten.svg",
+        "scene": "Hosea en Jesaja in het betoog",
+        "alt": "Hosea en Jesaja in het betoog met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 863
+      },
+      {
+        "chapter": 8,
+        "verse": 29,
+        "file": "8-plan-keten.svg",
+        "scene": "De woorden van Gods plan",
+        "alt": "De woorden van Gods plan — Romeinen 8:29–30",
+        "kind": "diagram",
+        "width": 840,
+        "height": 688
+      },
+      {
+        "chapter": 10,
+        "verse": 14,
+        "file": "10-zending-keten.svg",
+        "scene": "Van uitzending naar aanroepen",
+        "alt": "Van uitzending naar aanroepen — Romeinen 10:14–17",
+        "kind": "diagram",
+        "width": 840,
+        "height": 688
+      },
+      {
+        "chapter": 9,
+        "verse": 7,
+        "file": "9-genoemde-familie.svg",
+        "scene": "De genoemde familie",
+        "alt": "De genoemde familie — Romeinen 9:7–13",
+        "kind": "diagram",
+        "width": 840,
+        "height": 760
       }
     ],
     "1korinthiers": [
