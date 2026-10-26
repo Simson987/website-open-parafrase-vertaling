@@ -1,0 +1,316 @@
+{
+  "date": "2026-10-25",
+  "started": "2026-10-25T11:55:44Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "2korinthiers",
+      "chapter": 11,
+      "verse": 25,
+      "file": "11-25-nacht-dag-zee-verdieping.webp",
+      "scene": "Een nacht en een dag op zee",
+      "alt": "Een nacht en een dag op zee — 2 Korinthiërs 11:25; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. 2 Corinthians 11:25 recalls that Paul once spent a night and a day adrift at sea, among several earlier shipwrecks. Illustrate this earlier unnamed ordeal, not the later voyage to Rome in Acts 27. One adult Paul in fully covering opaque thick travel clothes holds onto a floating plain timber in open sea; his two arms and hands are naturally distinct on the timber, head and shoulders above water, tired yet alert. No blood, wounds, transparent clothes, extra castaways, rescue claim or invented named coast. Natural low daylight and gentle rolling water, dignified non-graphic depiction of danger.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2korinthiers",
+      "chapter": 11,
+      "verse": 1,
+      "file": "11-leeswijzer.svg",
+      "scene": "Zuiverheid, dienst en zwakheid",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "2 Korinthiërs 11:1–33",
+      "design": {
+        "rows": [
+          [
+            "1–6 · Zorg om zuiverheid",
+            "Paulus waarschuwt voor een andere Jezus, geest of evangelie."
+          ],
+          [
+            "7–15 · Zijn wijze van dienen",
+            "Gratis verkondiging tegenover bedrieglijke werkers."
+          ],
+          [
+            "16–29 · Het ongewone roemen",
+            "Afkomst, arbeid, gevaren en zorg voor de gemeenten."
+          ],
+          [
+            "30–33 · Roemen in zwakheid",
+            "De ontsnapping uit Damascus in een mand."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "2korinthiers",
+      "chapter": 12,
+      "verse": 1,
+      "file": "12-leeswijzer.svg",
+      "scene": "Genade, zwakheid en opbouw",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "2 Korinthiërs 12:1–21",
+      "design": {
+        "rows": [
+          [
+            "1–6 · Openbaringen",
+            "De derde hemel en het paradijs; grenzen aan wat Paulus zegt."
+          ],
+          [
+            "7–10 · De doorn en de genade",
+            "Drie gebeden; kracht wordt in zwakheid volbracht."
+          ],
+          [
+            "11–18 · Geen financieel misbruik",
+            "Paulus zoekt de mensen zelf en noemt Titus’ handelwijze."
+          ],
+          [
+            "19–21 · Opbouw en zorg",
+            "Zorg over wat hij bij zijn komst kan aantreffen."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "2korinthiers",
+      "chapter": 13,
+      "verse": 1,
+      "file": "13-leeswijzer.svg",
+      "scene": "Toetsing, opbouw en vrede",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 969,
+      "source": "2 Korinthiërs 13:1–13",
+      "design": {
+        "rows": [
+          [
+            "1–4 · Het derde bezoek",
+            "Getuigen, kracht en Christus die leeft."
+          ],
+          [
+            "5–10 · Onderzoek en gebed",
+            "Toets jezelf; het gezag is gegeven om op te bouwen."
+          ],
+          [
+            "11–12 · Eensgezind leven",
+            "Bemoediging, vrede en de heilige groet."
+          ],
+          [
+            "13 · De zegen",
+            "Genade, liefde en gemeenschap voor allen."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "2korinthiers",
+      "chapter": 11,
+      "verse": 24,
+      "file": "11-genoemde-getallen.svg",
+      "scene": "De genoemde beproevingen",
+      "alt": "De genoemde beproevingen met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1048,
+      "source": "2 Korinthiërs 11:23–28",
+      "design": {
+        "rows": [
+          [
+            "Vijf keer",
+            "Veertig min één slagen van de Joden."
+          ],
+          [
+            "Drie keer en één keer",
+            "Met stokken geslagen; één keer gestenigd."
+          ],
+          [
+            "Drie schipbreuken",
+            "Daarnaast noemt Paulus een nacht en dag op zee."
+          ],
+          [
+            "Voortdurend",
+            "Reisgevaar, arbeid, gebrek en zorg voor alle gemeenten."
+          ]
+        ],
+        "note": "Deze getallen komen uit deze brief; de genoemde schipbreuken worden niet met latere reizen vereenzelvigd."
+      }
+    },
+    {
+      "book": "2korinthiers",
+      "chapter": 11,
+      "verse": 7,
+      "file": "11-steun-en-liefde.svg",
+      "scene": "Gratis verkondigd in Korinthe",
+      "alt": "Gratis verkondigd in Korinthe met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "2 Korinthiërs 11:7–12",
+      "design": {
+        "rows": [
+          [
+            "De werkwijze",
+            "Paulus verkondigde het evangelie van God gratis."
+          ],
+          [
+            "De ondersteuning",
+            "Andere gemeenschappen droegen bij aan zijn dienst."
+          ],
+          [
+            "Bij het tekort",
+            "De gelovigen uit Macedonië vulden aan wat ontbrak."
+          ],
+          [
+            "Zijn bedoeling",
+            "Niet tot last zijn; zijn liefde wordt daardoor niet ontkend."
+          ]
+        ],
+        "note": "Het woord beroofd in vers 8 staat in Paulus’ betoog over ontvangen ondersteuning."
+      }
+    },
+    {
+      "book": "2korinthiers",
+      "chapter": 12,
+      "verse": 2,
+      "file": "12-visioen-grenzen.svg",
+      "scene": "Wat Paulus wel en niet vertelt",
+      "alt": "Wat Paulus wel en niet vertelt met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1048,
+      "source": "2 Korinthiërs 12:2–6",
+      "design": {
+        "rows": [
+          [
+            "De tijdsaanduiding",
+            "Veertien jaar geleden."
+          ],
+          [
+            "Het genoemde visioen",
+            "Tot in de derde hemel en naar het paradijs weggevoerd."
+          ],
+          [
+            "De lichamelijke vraag",
+            "In of buiten het lichaam weet hij niet; God weet het."
+          ],
+          [
+            "De gehoorde woorden",
+            "Niet te zeggen en niet toegestaan om uit te spreken."
+          ]
+        ],
+        "note": "De tekst zelf begrenst de beschrijving; dit schema voegt geen geheime woorden of hemelse plattegrond toe."
+      }
+    },
+    {
+      "book": "2korinthiers",
+      "chapter": 12,
+      "verse": 7,
+      "file": "12-doorn-gebed.svg",
+      "scene": "Doorn, gebed en genade",
+      "alt": "Doorn, gebed en genade met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 969,
+      "source": "2 Korinthiërs 12:7–10",
+      "design": {
+        "rows": [
+          [
+            "De gegeven doorn",
+            "Opdat Paulus niet hoogmoedig wordt."
+          ],
+          [
+            "Het gebed",
+            "Drie keer vraagt hij dat die wijkt."
+          ],
+          [
+            "Het antwoord",
+            "Mijn genade is genoeg voor je; kracht in zwakheid."
+          ],
+          [
+            "De reactie",
+            "Liever roemen in zwakheden, zodat Christus’ kracht in hem woont."
+          ]
+        ],
+        "note": "Paulus noemt de doorn en zijn bedoeling, maar geeft hier geen nadere omschrijving."
+      }
+    },
+    {
+      "book": "2korinthiers",
+      "chapter": 13,
+      "verse": 5,
+      "file": "13-gezag-doel.svg",
+      "scene": "Toetsen en opbouwen",
+      "alt": "Toetsen en opbouwen met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1012,
+      "source": "2 Korinthiërs 13:5–10",
+      "design": {
+        "rows": [
+          [
+            "De oproep",
+            "Onderzoek en toets jezelf of je in het geloof bent."
+          ],
+          [
+            "Het gebed",
+            "Dat de gemeente geen kwaad doet, maar het goede."
+          ],
+          [
+            "De waarheid",
+            "Paulus kan niets tegen de waarheid doen, alleen ervoor."
+          ],
+          [
+            "Het gezag",
+            "Om op te bouwen, niet om af te breken."
+          ]
+        ],
+        "note": "Paulus schrijft van ver om bij zijn komst geen streng optreden nodig te maken."
+      }
+    },
+    {
+      "book": "2korinthiers",
+      "chapter": 13,
+      "verse": 13,
+      "file": "13-drieledige-zegen.svg",
+      "scene": "De zegen voor jullie allemaal",
+      "alt": "De zegen voor jullie allemaal — 2 Korinthiërs 13:13",
+      "kind": "diagram",
+      "width": 840,
+      "height": 754,
+      "source": "2 Korinthiërs 13:13",
+      "design": {
+        "type": "parent-child branches",
+        "parent": "Met jullie allemaal",
+        "children": [
+          [
+            "De Heere Jezus Christus",
+            "Zijn genade."
+          ],
+          [
+            "God",
+            "Zijn liefde."
+          ],
+          [
+            "De Heilige Geest",
+            "Zijn gemeenschap."
+          ]
+        ],
+        "note": "De drie genoemde delen volgen de laatste zegen van deze plaatselijke brieftekst."
+      }
+    }
+  ]
+}

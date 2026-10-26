@@ -64391,63 +64391,90 @@
         "verse": 3,
         "file": "11-3.webp",
         "alt": "Beeld bij 2korinthiers 11: De slang in de tuin",
-        "scene": "De slang in de tuin"
+        "scene": "De slang in de tuin",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 11,
         "verse": 9,
         "file": "11-9.webp",
         "alt": "Beeld bij 2korinthiers 11: Steun uit Macedonië",
-        "scene": "Steun uit Macedonië"
+        "scene": "Steun uit Macedonië",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 11,
         "verse": 33,
         "file": "11-33.webp",
         "alt": "Beeld bij 2korinthiers 11: Ontsnappen in een mand",
-        "scene": "Ontsnappen in een mand"
+        "scene": "Ontsnappen in een mand",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 12,
         "verse": 2,
         "file": "12-2.webp",
         "alt": "Beeld bij 2korinthiers 12: Een onuitsprekelijk visioen",
-        "scene": "Een onuitsprekelijk visioen"
+        "scene": "Een onuitsprekelijk visioen",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 12,
         "verse": 9,
         "file": "12-9.webp",
         "alt": "Beeld bij 2korinthiers 12: Genade is genoeg",
-        "scene": "Genade is genoeg"
+        "scene": "Genade is genoeg",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 12,
         "verse": 15,
         "file": "12-15.webp",
         "alt": "Beeld bij 2korinthiers 12: Zichzelf geven voor anderen",
-        "scene": "Zichzelf geven voor anderen"
+        "scene": "Zichzelf geven voor anderen",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 13,
         "verse": 5,
         "file": "13-5.webp",
         "alt": "Beeld bij 2korinthiers 13: Het geloof onderzoeken",
-        "scene": "Het geloof onderzoeken"
+        "scene": "Het geloof onderzoeken",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 13,
         "verse": 11,
         "file": "13-11.webp",
         "alt": "Beeld bij 2korinthiers 13: Eensgezind en in vrede",
-        "scene": "Eensgezind en in vrede"
+        "scene": "Eensgezind en in vrede",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 13,
         "verse": 13,
         "file": "13-13.webp",
         "alt": "Beeld bij 2korinthiers 13: Genade liefde en gemeenschap",
-        "scene": "Genade liefde en gemeenschap"
+        "scene": "Genade liefde en gemeenschap",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 2,
@@ -64748,6 +64775,106 @@
         "kind": "diagram",
         "width": 840,
         "height": 1048
+      },
+      {
+        "chapter": 11,
+        "verse": 25,
+        "file": "11-25-nacht-dag-zee-verdieping.webp",
+        "scene": "Een nacht en een dag op zee",
+        "alt": "Een nacht en een dag op zee — 2 Korinthiërs 11:25; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 11,
+        "verse": 1,
+        "file": "11-leeswijzer.svg",
+        "scene": "Zuiverheid, dienst en zwakheid",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1055
+      },
+      {
+        "chapter": 12,
+        "verse": 1,
+        "file": "12-leeswijzer.svg",
+        "scene": "Genade, zwakheid en opbouw",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1055
+      },
+      {
+        "chapter": 13,
+        "verse": 1,
+        "file": "13-leeswijzer.svg",
+        "scene": "Toetsing, opbouw en vrede",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 969
+      },
+      {
+        "chapter": 11,
+        "verse": 24,
+        "file": "11-genoemde-getallen.svg",
+        "scene": "De genoemde beproevingen",
+        "alt": "De genoemde beproevingen met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1048
+      },
+      {
+        "chapter": 11,
+        "verse": 7,
+        "file": "11-steun-en-liefde.svg",
+        "scene": "Gratis verkondigd in Korinthe",
+        "alt": "Gratis verkondigd in Korinthe met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1055
+      },
+      {
+        "chapter": 12,
+        "verse": 2,
+        "file": "12-visioen-grenzen.svg",
+        "scene": "Wat Paulus wel en niet vertelt",
+        "alt": "Wat Paulus wel en niet vertelt met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1048
+      },
+      {
+        "chapter": 12,
+        "verse": 7,
+        "file": "12-doorn-gebed.svg",
+        "scene": "Doorn, gebed en genade",
+        "alt": "Doorn, gebed en genade met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 969
+      },
+      {
+        "chapter": 13,
+        "verse": 5,
+        "file": "13-gezag-doel.svg",
+        "scene": "Toetsen en opbouwen",
+        "alt": "Toetsen en opbouwen met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1012
+      },
+      {
+        "chapter": 13,
+        "verse": 13,
+        "file": "13-drieledige-zegen.svg",
+        "scene": "De zegen voor jullie allemaal",
+        "alt": "De zegen voor jullie allemaal — 2 Korinthiërs 13:13",
+        "kind": "diagram",
+        "width": 840,
+        "height": 754
       }
     ],
     "1tessalonicensen": [

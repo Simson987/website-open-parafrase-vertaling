@@ -30632,6 +30632,102 @@
           "source": "2 Korinthiërs 10:3–8"
         }
       ]
+    },
+    {
+      "book": "2korinthiers",
+      "chapter": 11,
+      "status": "reviewed",
+      "target_images": 7,
+      "reason": "Slang, Macedonische steun en mandontsnapping zijn aanwezig. Het eerder genoemde drijven op zee krijgt een aparte scène. Leeswijzer en twee schema’s ordenen beproevingsgetallen en ondersteuning zonder de drie schipbreuken als de latere reis naar Rome te presenteren.",
+      "additions": [
+        {
+          "verse": 25,
+          "file": "11-25-nacht-dag-zee-verdieping.webp",
+          "scene": "Een nacht en een dag op zee",
+          "kind": "scene"
+        },
+        {
+          "verse": 1,
+          "file": "11-leeswijzer.svg",
+          "scene": "Zuiverheid, dienst en zwakheid",
+          "kind": "diagram",
+          "source": "2 Korinthiërs 11:1–33"
+        },
+        {
+          "verse": 24,
+          "file": "11-genoemde-getallen.svg",
+          "scene": "De genoemde beproevingen",
+          "kind": "diagram",
+          "source": "2 Korinthiërs 11:23–28"
+        },
+        {
+          "verse": 7,
+          "file": "11-steun-en-liefde.svg",
+          "scene": "Gratis verkondigd in Korinthe",
+          "kind": "diagram",
+          "source": "2 Korinthiërs 11:7–12"
+        }
+      ]
+    },
+    {
+      "book": "2korinthiers",
+      "chapter": 12,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Visioen, genade en zelfgave zijn aanwezig. Leeswijzer en twee schema’s bewaren de expliciete onzekerheid over het lichaam, de niet meegedeelde woorden, het driemaal bidden en de onbekende aard van de doorn.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "12-leeswijzer.svg",
+          "scene": "Genade, zwakheid en opbouw",
+          "kind": "diagram",
+          "source": "2 Korinthiërs 12:1–21"
+        },
+        {
+          "verse": 2,
+          "file": "12-visioen-grenzen.svg",
+          "scene": "Wat Paulus wel en niet vertelt",
+          "kind": "diagram",
+          "source": "2 Korinthiërs 12:2–6"
+        },
+        {
+          "verse": 7,
+          "file": "12-doorn-gebed.svg",
+          "scene": "Doorn, gebed en genade",
+          "kind": "diagram",
+          "source": "2 Korinthiërs 12:7–10"
+        }
+      ]
+    },
+    {
+      "book": "2korinthiers",
+      "chapter": 13,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Zelfonderzoek, vrede en gemeenschap zijn aanwezig. Leeswijzer, doel van het gezag en de drieledige zegen voegen tekststructuur toe; een extra generieke gebedsbijeenkomst zou dupliceren.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "13-leeswijzer.svg",
+          "scene": "Toetsing, opbouw en vrede",
+          "kind": "diagram",
+          "source": "2 Korinthiërs 13:1–13"
+        },
+        {
+          "verse": 5,
+          "file": "13-gezag-doel.svg",
+          "scene": "Toetsen en opbouwen",
+          "kind": "diagram",
+          "source": "2 Korinthiërs 13:5–10"
+        },
+        {
+          "verse": 13,
+          "file": "13-drieledige-zegen.svg",
+          "scene": "De zegen voor jullie allemaal",
+          "kind": "diagram",
+          "source": "2 Korinthiërs 13:13"
+        }
+      ]
     }
   ]
 }
