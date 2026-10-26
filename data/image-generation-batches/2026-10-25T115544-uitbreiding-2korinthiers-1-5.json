@@ -1,0 +1,470 @@
+{
+  "date": "2026-10-25",
+  "started": "2026-10-25T11:55:44Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "2korinthiers",
+      "chapter": 2,
+      "verse": 4,
+      "file": "2-4-tranen-brief-verdieping.webp",
+      "scene": "Paulus schrijft met tranen",
+      "alt": "Paulus schrijft met tranen — 2 Korinthiërs 2:4; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. 2 Corinthians 2:4 says Paul wrote in sorrow, anguish and many tears to show his love. A first-century adult Paul sits alone at a simple wooden table with a papyrus letter and reed pen, eyes visibly moist and face saddened yet compassionate. No extreme despair or self-harm, no readable writing, no modern paper or fountain pen. Coherent two arms, one hand resting by the letter and one gently touching his cheek. Soft lamplight, modest fully covering robes. The scene illustrates the stated sorrow of the letter, no invented recipient present.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2korinthiers",
+      "chapter": 2,
+      "verse": 13,
+      "file": "2-13-troas-vertrek-verdieping.webp",
+      "scene": "Paulus neemt afscheid in Troas",
+      "alt": "Paulus neemt afscheid in Troas — 2 Korinthiërs 2:13; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. 2 Corinthians 2:12–13: Paul finds an open opportunity in Troas but has no rest because Titus is absent, so he takes leave and goes toward Macedonia. Show Paul with a small travel bag saying farewell to two adult believers beside a modest ancient Aegean harbour. Three main adults, Titus explicitly absent. A wooden first-century merchant vessel rests in the distant harbour, no later stone castle or modern ship. Expressions of concern and warm farewell, no invented reunion with Titus.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2korinthiers",
+      "chapter": 3,
+      "verse": 13,
+      "file": "3-13-mozes-doek-verdieping.webp",
+      "scene": "Mozes legt een doek over zijn gezicht",
+      "alt": "Mozes legt een doek over zijn gezicht — 2 Korinthiërs 3:13; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. 2 Corinthians 3:7 and 13 recalls Moses with a veil over his face. Clearly ancient Mosaic-era wilderness camp, NOT first-century Roman Judea: elderly bearded Moses in modest opaque robes lifts a plain linen veil over his radiant face while two Israelites in simple ancient desert clothing stand a little distance away. The fabric covers his face; soft bright light behind the veil, no portrait of God, no extra hands, no horns, no elaborate crown or readable stone tablets. Exactly three adults, dignified and nonviolent. This is the earlier biblical episode quoted by Paul, not a contemporary event in Corinth.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2korinthiers",
+      "chapter": 1,
+      "verse": 1,
+      "file": "1-leeswijzer.svg",
+      "scene": "Troost, vertrouwen en reisplannen",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "2 Korinthiërs 1:1–24",
+      "design": {
+        "rows": [
+          [
+            "1–7 · Troost die doorgaat",
+            "God troost; de ontvangen troost helpt ook anderen."
+          ],
+          [
+            "8–11 · Doodsgevaar in Asia",
+            "Vertrouwen op God en hulp door de gebeden van velen."
+          ],
+          [
+            "12–22 · Eerlijkheid en Gods trouw",
+            "Reisvoornemens, ja in Christus en de Geest als onderpand."
+          ],
+          [
+            "23–24 · Om jullie te sparen",
+            "Geen heerschappij over geloof, wel meewerken aan blijdschap."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "2korinthiers",
+      "chapter": 2,
+      "verse": 1,
+      "file": "2-leeswijzer.svg",
+      "scene": "Verdriet, vergeving en de geur",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "2 Korinthiërs 2:1–17",
+      "design": {
+        "rows": [
+          [
+            "1–4 · Een brief met tranen",
+            "Paulus schrijft uit liefde en wil nieuw verdriet voorkomen."
+          ],
+          [
+            "5–11 · Vergeef en troost",
+            "Laat de gestrafte merken dat jullie van hem houden."
+          ],
+          [
+            "12–13 · Troas en Macedonië",
+            "Geen rust omdat Titus ontbreekt; Paulus vertrekt."
+          ],
+          [
+            "14–17 · Geur van Christus",
+            "Kennis verspreiden en zuiver spreken voor Gods aangezicht."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "2korinthiers",
+      "chapter": 3,
+      "verse": 1,
+      "file": "3-leeswijzer.svg",
+      "scene": "Een brief en een nieuw verbond",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "2 Korinthiërs 3:1–18",
+      "design": {
+        "rows": [
+          [
+            "1–3 · De gemeenschap als brief",
+            "Met de Geest geschreven, niet met inkt op steen."
+          ],
+          [
+            "4–6 · Bekwaam door God",
+            "Dienaren van het nieuwe verbond; de Geest maakt levend."
+          ],
+          [
+            "7–11 · Heerlijkheid vergeleken",
+            "Wat blijft heeft meer heerlijkheid dan wat verdwijnt."
+          ],
+          [
+            "12–18 · Doek, vrijheid en verandering",
+            "In Christus wordt de doek weggenomen; de Geest verandert."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "2korinthiers",
+      "chapter": 4,
+      "verse": 1,
+      "file": "4-leeswijzer.svg",
+      "scene": "Kwetsbaar en toch vol moed",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "2 Korinthiërs 4:1–18",
+      "design": {
+        "rows": [
+          [
+            "1–6 · De waarheid bekendmaken",
+            "Christus Jezus als de Heere verkondigen; licht in het hart."
+          ],
+          [
+            "7–12 · Schat in aarden potten",
+            "Kracht uit God blijkt in kwetsbare dienaren."
+          ],
+          [
+            "13–15 · Geloven en spreken",
+            "Hoop op de opwekking; groeiende dankbaarheid."
+          ],
+          [
+            "16–18 · Dagelijkse vernieuwing",
+            "Tijdelijke verdrukking tegenover eeuwige heerlijkheid."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "2korinthiers",
+      "chapter": 5,
+      "verse": 1,
+      "file": "5-leeswijzer.svg",
+      "scene": "Woning, nieuw leven en verzoening",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "2 Korinthiërs 5:1–21",
+      "design": {
+        "rows": [
+          [
+            "1–10 · Tent en hemelse woning",
+            "De Geest als onderpand; leven door geloof en Christus behagen."
+          ],
+          [
+            "11–15 · Liefde dringt",
+            "Niet meer voor jezelf leven, maar voor de Opgewekte."
+          ],
+          [
+            "16–17 · Nieuwe schepping",
+            "In Christus is het oude voorbij en het nieuwe gekomen."
+          ],
+          [
+            "18–21 · Dienst van verzoening",
+            "Gezanten vragen: laat je met God verzoenen."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "2korinthiers",
+      "chapter": 1,
+      "verse": 4,
+      "file": "1-troost-doorgeven.svg",
+      "scene": "Ontvangen troost doorgeven",
+      "alt": "Ontvangen troost doorgeven met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 969,
+      "source": "2 Korinthiërs 1:3–11",
+      "design": {
+        "rows": [
+          [
+            "God troost",
+            "De Vader vol barmhartigheid troost in alle moeite."
+          ],
+          [
+            "Wij ontvangen",
+            "Troost door Christus bij het lijden."
+          ],
+          [
+            "Wij kunnen troosten",
+            "Anderen helpen met de troost die wij zelf kregen."
+          ],
+          [
+            "Jullie helpen mee",
+            "Door gebed, zodat velen ook God danken."
+          ]
+        ],
+        "note": "De samenhang is onderlinge troost en gebed, niet de belofte dat alle moeite verdwijnt."
+      }
+    },
+    {
+      "book": "2korinthiers",
+      "chapter": 1,
+      "verse": 15,
+      "file": "1-eerder-reisplan.svg",
+      "scene": "Het eerdere reisvoornemen",
+      "alt": "Het eerdere reisvoornemen met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 926,
+      "source": "2 Korinthiërs 1:15–17, 23",
+      "design": {
+        "rows": [
+          [
+            "Eerste bezoek",
+            "Eerst naar Korinthe gaan."
+          ],
+          [
+            "Daarna",
+            "Via Korinthe naar Macedonië."
+          ],
+          [
+            "Terugweg",
+            "Weer bij de gemeente langs."
+          ],
+          [
+            "Verder",
+            "Door hen op weg geholpen worden naar Judea."
+          ]
+        ],
+        "note": "Paulus beschrijft een eerder voornemen en verklaart in vers 23 waarom hij nog niet kwam."
+      }
+    },
+    {
+      "book": "2korinthiers",
+      "chapter": 2,
+      "verse": 6,
+      "file": "2-vergeving-troost.svg",
+      "scene": "Van straf naar troost",
+      "alt": "Van straf naar troost met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1012,
+      "source": "2 Korinthiërs 2:5–11",
+      "design": {
+        "rows": [
+          [
+            "De straf · vers 6",
+            "De straf van de meerderheid is genoeg geweest."
+          ],
+          [
+            "De volgende stap · vers 7",
+            "Nu vergeven en troosten."
+          ],
+          [
+            "Het gevaar",
+            "Niet door al te groot verdriet laten verslinden."
+          ],
+          [
+            "De oproep · vers 8–11",
+            "Laat liefde merken en vergeef; geef de satan geen voordeel."
+          ]
+        ],
+        "note": "De persoon wordt niet bij name genoemd; het schema voegt geen identiteit toe."
+      }
+    },
+    {
+      "book": "2korinthiers",
+      "chapter": 3,
+      "verse": 2,
+      "file": "3-brief-vergelijking.svg",
+      "scene": "De gemeenschap als brief",
+      "alt": "De gemeenschap als brief met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1012,
+      "source": "2 Korinthiërs 3:1–6",
+      "design": {
+        "rows": [
+          [
+            "Geen zelfaanprijzing",
+            "Paulus stelt de vraag naar aanbevelingsbrieven."
+          ],
+          [
+            "Jullie zijn onze brief",
+            "Gekend en gelezen door alle mensen."
+          ],
+          [
+            "Een brief van Christus",
+            "Met de Geest geschreven; niet met inkt op stenen platen."
+          ],
+          [
+            "De bekwaamheid",
+            "God maakt geschikt voor de dienst van het nieuwe verbond."
+          ]
+        ],
+        "note": "Brief en hart zijn beeldspraak; er staat geen inkttekst op menselijke huid."
+      }
+    },
+    {
+      "book": "2korinthiers",
+      "chapter": 3,
+      "verse": 7,
+      "file": "3-twee-bedieningen.svg",
+      "scene": "De vergeleken bedieningen",
+      "alt": "De vergeleken bedieningen met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1012,
+      "source": "2 Korinthiërs 3:7–11",
+      "design": {
+        "rows": [
+          [
+            "Letters in steen · vers 7",
+            "De bediening van de dood kwam al met heerlijkheid."
+          ],
+          [
+            "De Geest · vers 8",
+            "De bediening van de Geest is veel heerlijker."
+          ],
+          [
+            "Veroordeling en gerechtigheid · vers 9",
+            "Paulus vergelijkt hun heerlijkheid."
+          ],
+          [
+            "Wat verdwijnt en wat blijft · vers 11",
+            "Wat blijft is overvloedig in heerlijkheid."
+          ]
+        ],
+        "note": "De vergelijkingen volgen Paulus’ eigen woorden en de aangehaalde glans van Mozes."
+      }
+    },
+    {
+      "book": "2korinthiers",
+      "chapter": 4,
+      "verse": 8,
+      "file": "4-vier-contrasten.svg",
+      "scene": "Vier keer niet ten onder",
+      "alt": "Vier keer niet ten onder met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 883,
+      "source": "2 Korinthiërs 4:8–9",
+      "design": {
+        "rows": [
+          [
+            "Van alle kanten bedrukt",
+            "Maar niet in het nauw gedreven."
+          ],
+          [
+            "Het soms niet meer weten",
+            "Maar niet wanhopen."
+          ],
+          [
+            "Vervolgd",
+            "Maar niet in de steek gelaten."
+          ],
+          [
+            "Neergeworpen",
+            "Maar niet vernietigd."
+          ]
+        ],
+        "note": "De vier woordparen benoemen echte moeite én volharding; geen afwezigheid van lijden."
+      }
+    },
+    {
+      "book": "2korinthiers",
+      "chapter": 4,
+      "verse": 16,
+      "file": "4-tijdelijk-eeuwig.svg",
+      "scene": "Tijdelijk en eeuwig",
+      "alt": "Tijdelijk en eeuwig met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 863,
+      "source": "2 Korinthiërs 4:16–18",
+      "design": {
+        "rows": [
+          [
+            "Uiterlijk en innerlijk",
+            "De uiterlijke mens vergaat; de innerlijke wordt vernieuwd."
+          ],
+          [
+            "Verdrukking en heerlijkheid",
+            "Wat snel voorbijgaat tegenover eeuwig gewicht."
+          ],
+          [
+            "Zichtbaar en onzichtbaar",
+            "Wat zichtbaar is, is tijdelijk; het onzichtbare is eeuwig."
+          ]
+        ],
+        "note": "Dit is Paulus’ perspectief op zijn bediening, geen minachting voor mensen die lijden."
+      }
+    },
+    {
+      "book": "2korinthiers",
+      "chapter": 5,
+      "verse": 14,
+      "file": "5-nieuw-leven-doel.svg",
+      "scene": "Waarvoor leven wij?",
+      "alt": "Waarvoor leven wij? met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 969,
+      "source": "2 Korinthiërs 5:14–21",
+      "design": {
+        "rows": [
+          [
+            "De liefde van Christus",
+            "Dringt Paulus en zijn medewerkers."
+          ],
+          [
+            "Gestorven en opgewekt",
+            "Niet voor zichzelf leven, maar voor Hem."
+          ],
+          [
+            "Nieuwe schepping",
+            "In Christus is het oude voorbij."
+          ],
+          [
+            "Dienst en oproep",
+            "De verzoening bekendmaken en tot verzoening met God oproepen."
+          ]
+        ],
+        "note": "Het schema verbindt nieuw leven met de oproep en het werk dat Paulus beschrijft."
+      }
+    }
+  ]
+}
