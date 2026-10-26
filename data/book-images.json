@@ -56644,7 +56644,11 @@
         "chapter": 14,
         "file": "14-scribes.webp",
         "alt": "Schrijvers werken samen aan boekrollen",
-        "scene": "De boekrollen"
+        "scene": "De boekrollen",
+        "verse": 42,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 1,
@@ -56991,77 +56995,110 @@
         "verse": 2,
         "file": "13-2.webp",
         "alt": "Beeld bij 4ezra 13: Wind zet de zee in beweging",
-        "scene": "Wind zet de zee in beweging"
+        "scene": "Wind zet de zee in beweging",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 13,
         "verse": 12,
         "file": "13-12.webp",
         "alt": "Beeld bij 4ezra 13: De man roept een vreedzaam volk",
-        "scene": "De man roept een vreedzaam volk"
+        "scene": "De man roept een vreedzaam volk",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 13,
         "verse": 52,
         "file": "13-52.webp",
         "alt": "Beeld bij 4ezra 13: De diepte niet doorgronden",
-        "scene": "De diepte niet doorgronden"
+        "scene": "De diepte niet doorgronden",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 14,
         "verse": 1,
         "file": "14-1.webp",
         "alt": "Beeld bij 4ezra 14: Onder de eik",
-        "scene": "Onder de eik"
+        "scene": "Onder de eik",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 14,
         "verse": 40,
         "file": "14-40.webp",
         "alt": "Beeld bij 4ezra 14: De beker met inzicht",
-        "scene": "De beker met inzicht"
+        "scene": "De beker met inzicht",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 15,
         "verse": 1,
         "file": "15-1.webp",
         "alt": "Beeld bij 4ezra 15: De profetie uitspreken",
-        "scene": "De profetie uitspreken"
+        "scene": "De profetie uitspreken",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 15,
         "verse": 13,
         "file": "15-13.webp",
         "alt": "Beeld bij 4ezra 15: De oogst beschadigd",
-        "scene": "De oogst beschadigd"
+        "scene": "De oogst beschadigd",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 15,
         "verse": 34,
         "file": "15-34.webp",
         "alt": "Beeld bij 4ezra 15: Stormwolken uit het oosten",
-        "scene": "Stormwolken uit het oosten"
+        "scene": "Stormwolken uit het oosten",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 16,
         "verse": 6,
         "file": "16-6.webp",
         "alt": "Beeld bij 4ezra 16: Een leeuw in het woud",
-        "scene": "Een leeuw in het woud"
+        "scene": "Een leeuw in het woud",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 16,
         "verse": 12,
         "file": "16-12.webp",
         "alt": "Beeld bij 4ezra 16: De zee bruist uit de diepte",
-        "scene": "De zee bruist uit de diepte"
+        "scene": "De zee bruist uit de diepte",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 16,
         "verse": 30,
         "file": "16-30.webp",
         "alt": "Beeld bij 4ezra 16: Weinig olijven blijven over",
-        "scene": "Weinig olijven blijven over"
+        "scene": "Weinig olijven blijven over",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 1,
@@ -57462,6 +57499,146 @@
         "kind": "diagram",
         "width": 840,
         "height": 790
+      },
+      {
+        "chapter": 13,
+        "verse": 9,
+        "file": "13-9-zonder-wapen-verdieping.webp",
+        "scene": "Visioen: zonder zwaard",
+        "alt": "Visioen: zonder zwaard — 4 Ezra 13:9; tekstillustratie.",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 14,
+        "verse": 42,
+        "file": "14-42-vijf-schrijvers-verdieping.webp",
+        "scene": "Ezra dicteert aan vijf schrijvers",
+        "alt": "Ezra dicteert aan vijf schrijvers — 4 Ezra 14:42; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 16,
+        "verse": 74,
+        "file": "16-74-goud-beproefd-verdieping.webp",
+        "scene": "Vergelijking: goud in het vuur",
+        "alt": "Vergelijking: goud in het vuur — 4 Ezra 16:74; tekstillustratie.",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 13,
+        "verse": 1,
+        "file": "13-leeswijzer.svg",
+        "scene": "De man en de vredige menigte",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1098
+      },
+      {
+        "chapter": 14,
+        "verse": 1,
+        "file": "14-leeswijzer.svg",
+        "scene": "Ezra laat de woorden opschrijven",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1098
+      },
+      {
+        "chapter": 15,
+        "verse": 1,
+        "file": "15-leeswijzer.svg",
+        "scene": "Profetie over onrecht en rampen",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1055
+      },
+      {
+        "chapter": 16,
+        "verse": 1,
+        "file": "16-leeswijzer.svg",
+        "scene": "Waarschuwing en moed",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1055
+      },
+      {
+        "chapter": 13,
+        "verse": 25,
+        "file": "13-man-uitleg.svg",
+        "scene": "Wat de man betekent",
+        "alt": "Wat de man betekent met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1091
+      },
+      {
+        "chapter": 13,
+        "verse": 39,
+        "file": "13-vredige-menigte.svg",
+        "scene": "De vredige menigte uitgelegd",
+        "alt": "De vredige menigte uitgelegd met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1141
+      },
+      {
+        "chapter": 14,
+        "verse": 24,
+        "file": "14-vijf-namen.svg",
+        "scene": "De vijf schrijvers",
+        "alt": "De vijf schrijvers met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1012
+      },
+      {
+        "chapter": 14,
+        "verse": 44,
+        "file": "14-boeken-aantallen.svg",
+        "scene": "Wat de tekst over boeken zegt",
+        "alt": "Wat de tekst over boeken zegt met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1091
+      },
+      {
+        "chapter": 15,
+        "verse": 1,
+        "file": "15-spreken-oordeel.svg",
+        "scene": "Waarom deze woorden klinken",
+        "alt": "Waarom deze woorden klinken met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1141
+      },
+      {
+        "chapter": 16,
+        "verse": 41,
+        "file": "16-vreemdelingen.svg",
+        "scene": "Leven als vreemdelingen",
+        "alt": "Leven als vreemdelingen met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1134
+      },
+      {
+        "chapter": 16,
+        "verse": 55,
+        "file": "16-kennis-en-moed.svg",
+        "scene": "God kent en leidt",
+        "alt": "God kent en leidt met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1055
       }
     ],
     "tobit": [

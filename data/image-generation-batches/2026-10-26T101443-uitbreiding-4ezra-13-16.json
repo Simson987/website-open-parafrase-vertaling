@@ -1,0 +1,408 @@
+{
+  "date": "2026-10-26",
+  "started": "2026-10-26T10:14:43Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "4ezra",
+      "chapter": 13,
+      "verse": 9,
+      "file": "13-9-zonder-wapen-verdieping.webp",
+      "scene": "Visioen: zonder zwaard",
+      "alt": "Visioen: zonder zwaard — 4 Ezra 13:9; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: illustration-story. Photorealistic biblical narrative or clearly symbolic vision, ancient Near Eastern materials, landscape 3:2, natural light, coherent anatomy with exactly two arms per human, fully covering opaque modest robes. No modern objects, readable writing, divine portrait, blood, injury or watermark. A visionary photorealistic scene from 4 Ezra 13:6–10: a single imposing but human Middle Eastern man in modest opaque light robes stands calmly on the summit of a great mountain. Both hands relaxed and lowered, clearly no sword or weapon. A distant indistinct multitude below approaches but remains far away. Focus on unarmed authority, no fire or gore, exactly two arms and legs, no wings or modern city.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "4ezra",
+      "chapter": 14,
+      "verse": 42,
+      "file": "14-42-vijf-schrijvers-verdieping.webp",
+      "scene": "Ezra dicteert aan vijf schrijvers",
+      "alt": "Ezra dicteert aan vijf schrijvers — 4 Ezra 14:42; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: illustration-story. Photorealistic biblical narrative or clearly symbolic vision, ancient Near Eastern materials, landscape 3:2, natural light, coherent anatomy with exactly two arms per human, fully covering opaque modest robes. No modern objects, readable writing, divine portrait, blood, injury or watermark. Ancient biblical narrative in an open field, Ezra an elderly robed Jewish scribe stands dictating at the left. Exactly FIVE OTHER adult men sit in a clear row or semicircle writing quickly on prepared palmwood writing tablets with ancient styluses. Six people total, exactly one elder dictating and five writers, each has two coherent arms. No scrolls replacing the palmwood tablets, no readable words, no modern paper notebooks.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "4ezra",
+      "chapter": 16,
+      "verse": 74,
+      "file": "16-74-goud-beproefd-verdieping.webp",
+      "scene": "Vergelijking: goud in het vuur",
+      "alt": "Vergelijking: goud in het vuur — 4 Ezra 16:74; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: illustration-story. Photorealistic biblical narrative or clearly symbolic vision, ancient Near Eastern materials, landscape 3:2, natural light, coherent anatomy with exactly two arms per human, fully covering opaque modest robes. No modern objects, readable writing, divine portrait, blood, injury or watermark. Poetic comparison from 4 Ezra 16:74, close-up of an ancient goldsmith’s clay crucible with glowing molten gold in a small charcoal furnace, ancient tongs resting safely beside it. Photorealistic stone workshop and warm light, no people or burning bodies, no modern machinery. This is a metaphor for tested faithfulness, not an additional event in the narrative.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "4ezra",
+      "chapter": 13,
+      "verse": 1,
+      "file": "13-leeswijzer.svg",
+      "scene": "De man en de vredige menigte",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1098,
+      "source": "4 Ezra 13:1–58",
+      "design": {
+        "rows": [
+          [
+            "1–13 · De droom",
+            "Man uit zee, een berg, verzet en een tweede vredige menigte."
+          ],
+          [
+            "14–28 · Vraag en uitleg",
+            "Ezra vraagt naar de droom; de bewaarde Verlosser wordt verklaard."
+          ],
+          [
+            "29–50 · De Zoon en de volken",
+            "De Zoon op Sion; wet als vuur; de vredige menigte als terugkerende stammen."
+          ],
+          [
+            "51–58 · Verborgen en geopenbaard",
+            "De zee verbeeldt het ondoorgrondelijke; Ezra prijst en wacht drie dagen."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "4ezra",
+      "chapter": 14,
+      "verse": 1,
+      "file": "14-leeswijzer.svg",
+      "scene": "Ezra laat de woorden opschrijven",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1098,
+      "source": "4 Ezra 14:1–47",
+      "design": {
+        "rows": [
+          [
+            "1–17 · Stem en opdracht",
+            "Onder de eik, stem uit de doornstruik; bewaar de dromen en regel je huis."
+          ],
+          [
+            "18–36 · De wet voor later",
+            "Ezra vraagt om de verbrande wet op te schrijven; het volk moet veertig dagen wegblijven."
+          ],
+          [
+            "37–44 · Vijf schrijvers",
+            "Ezra drinkt uit de beker, spreekt en laat de mannen veertig dagen schrijven."
+          ],
+          [
+            "45–47 · Twee bestemmingen",
+            "Een deel openbaar; de laatste zeventig voor de wijzen."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "4ezra",
+      "chapter": 15,
+      "verse": 1,
+      "file": "15-leeswijzer.svg",
+      "scene": "Profetie over onrecht en rampen",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "4 Ezra 15:1–63",
+      "design": {
+        "rows": [
+          [
+            "1–9 · Spreek en schrijf",
+            "Betrouwbare woorden, oordeel over onrecht en het geroep van onschuldigen."
+          ],
+          [
+            "10–27 · Bevrijding en ontregeling",
+            "Egypte, misoogst, oorlog en oproer; oproep om uit hun macht weg te gaan."
+          ],
+          [
+            "28–45 · Het stormvisioen",
+            "Strijdende machten en botsende wolken; verwoesting van Babel."
+          ],
+          [
+            "46–63 · Aanspraak aan Asia",
+            "Navolging van Babel en geweld tegen uitverkorenen leiden tot oordeel."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "4ezra",
+      "chapter": 16,
+      "verse": 1,
+      "file": "16-leeswijzer.svg",
+      "scene": "Waarschuwing en moed",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "4 Ezra 16:1–78",
+      "design": {
+        "rows": [
+          [
+            "1–35 · Wie houdt het tegen?",
+            "Vuur, pijl, zee, leeg land en weinig overgebleven vrucht als beelden."
+          ],
+          [
+            "36–53 · Leef als vreemdelingen",
+            "Luister naar het woord; hecht je niet aan voordeel en doe geen onrecht."
+          ],
+          [
+            "54–68 · Alles is bekend",
+            "God kent daden en gedachten; stop met zondigen."
+          ],
+          [
+            "69–78 · Beproeving en redding",
+            "Verdrukking als beproefd goud; wees niet bang, God is jullie leider."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "4ezra",
+      "chapter": 13,
+      "verse": 25,
+      "file": "13-man-uitleg.svg",
+      "scene": "Wat de man betekent",
+      "alt": "Wat de man betekent met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1091,
+      "source": "4 Ezra 13:25–38",
+      "design": {
+        "rows": [
+          [
+            "De man uit zee",
+            "Hij wordt door de Allerhoogste bewaard om de schepping te verlossen."
+          ],
+          [
+            "De genoemde Zoon · vers 32",
+            "Dezelfde wordt als mijn Zoon verklaard en zal verschijnen."
+          ],
+          [
+            "De berg · vers 35–36",
+            "Sion wordt opgebouwd getoond, als de berg zonder mensenhanden."
+          ],
+          [
+            "Wind, vuur en onweer",
+            "In de uitleg: terechtwijzing van goddeloosheid, pijn en wet als vuur."
+          ]
+        ],
+        "note": "Beeld en gegeven verklaring blijven onderscheiden. De man heeft in vers 9 geen zwaard of ander wapen."
+      }
+    },
+    {
+      "book": "4ezra",
+      "chapter": 13,
+      "verse": 39,
+      "file": "13-vredige-menigte.svg",
+      "scene": "De vredige menigte uitgelegd",
+      "alt": "De vredige menigte uitgelegd met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1141,
+      "source": "4 Ezra 13:39–48",
+      "design": {
+        "rows": [
+          [
+            "Wie · vers 40",
+            "De tien stammen, weggevoerd in de dagen van Hosea door Salmanasser."
+          ],
+          [
+            "Hun besluit · vers 41–42",
+            "Naar een verder land om daar de regels te houden."
+          ],
+          [
+            "De passage · vers 43–45",
+            "Door de Eufraat; de rivier wordt tegengehouden. Reis van anderhalf jaar; de naam Assareth."
+          ],
+          [
+            "De terugkeer · vers 46–48",
+            "Opnieuw over de tegengehouden rivier; overgebleven volk binnen de genoemde grenzen."
+          ]
+        ],
+        "note": "De route volgt het verhaal, zonder Assareth op een moderne kaart te plaatsen."
+      }
+    },
+    {
+      "book": "4ezra",
+      "chapter": 14,
+      "verse": 24,
+      "file": "14-vijf-namen.svg",
+      "scene": "De vijf schrijvers",
+      "alt": "De vijf schrijvers met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1012,
+      "source": "4 Ezra 14:23–26,37–44",
+      "design": {
+        "rows": [
+          [
+            "Hun namen · vers 24",
+            "Sareas, Dabreas, Salemias, Echanus en Asiël."
+          ],
+          [
+            "Hun materiaal",
+            "Veel schrijfplankjes van palmhout."
+          ],
+          [
+            "Hun werk",
+            "Opschrijven wat Ezra in vervoering zegt; de Allerhoogste geeft inzicht."
+          ],
+          [
+            "Hun tijd",
+            "Veertig dagen; eten in de nacht, schrijven en spreken gaan door."
+          ]
+        ],
+        "note": "Ezra is degene die dicteert; hij wordt niet als een zesde schrijver meegeteld."
+      }
+    },
+    {
+      "book": "4ezra",
+      "chapter": 14,
+      "verse": 44,
+      "file": "14-boeken-aantallen.svg",
+      "scene": "Wat de tekst over boeken zegt",
+      "alt": "Wat de tekst over boeken zegt met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1091,
+      "source": "4 Ezra 14:44–47",
+      "design": {
+        "rows": [
+          [
+            "Aantal in vers 44",
+            "Tweehonderdvier boeken in veertig dagen."
+          ],
+          [
+            "Openbaar · vers 45",
+            "De eerste geschreven dingen voor waardigen en onwaardigen."
+          ],
+          [
+            "Bewaren · vers 46",
+            "De laatste zeventig boeken voor de wijzen onder het volk."
+          ],
+          [
+            "Kop en vers verschillen",
+            "De hoofdstukkop noemt vierentwintig en zeventig; vers 44 noemt 204."
+          ]
+        ],
+        "note": "Het verschil tussen kop en vers is zichtbaar gelaten. Het aantal openbare boeken is niet zelf ingevuld."
+      }
+    },
+    {
+      "book": "4ezra",
+      "chapter": 15,
+      "verse": 1,
+      "file": "15-spreken-oordeel.svg",
+      "scene": "Waarom deze woorden klinken",
+      "alt": "Waarom deze woorden klinken met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1141,
+      "source": "4 Ezra 15:1–9,24–27",
+      "design": {
+        "rows": [
+          [
+            "Opdracht",
+            "Spreek de profetie en laat haar opschrijven: de woorden zijn betrouwbaar."
+          ],
+          [
+            "Geen vrees voor tegenstand",
+            "Laat ongeloof of plannen van tegensprekers je niet tegenhouden."
+          ],
+          [
+            "De aanklacht",
+            "Onrecht en schadelijke daden vullen de aarde; onschuldig bloed en rechtvaardigen roepen."
+          ],
+          [
+            "De oproep",
+            "Ga weg uit hun macht en maak het heiligdom niet onrein."
+          ]
+        ],
+        "note": "Dit ordent de profetische boodschap en legt geen verband met hedendaagse landen."
+      }
+    },
+    {
+      "book": "4ezra",
+      "chapter": 16,
+      "verse": 41,
+      "file": "16-vreemdelingen.svg",
+      "scene": "Leven als vreemdelingen",
+      "alt": "Leven als vreemdelingen met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1134,
+      "source": "4 Ezra 16:41–53",
+      "design": {
+        "rows": [
+          [
+            "Kopen en verkopen",
+            "Als iemand die moet vluchten of bezit zal verliezen."
+          ],
+          [
+            "Bouwen en planten",
+            "Geen zekerheid dat je er woont, maait of vruchten plukt."
+          ],
+          [
+            "Het contrast",
+            "Roof en pronkzucht worden tegenover gerechtigheid gezet."
+          ],
+          [
+            "De opdracht · vers 52–53",
+            "Word niet als hun daden; het onrecht wordt weggenomen en gerechtigheid zal heersen."
+          ]
+        ],
+        "note": "De voorbeelden relativeren bezit in de aangekondigde ramp; het zijn geen afzonderlijke biografische gebeurtenissen."
+      }
+    },
+    {
+      "book": "4ezra",
+      "chapter": 16,
+      "verse": 55,
+      "file": "16-kennis-en-moed.svg",
+      "scene": "God kent en leidt",
+      "alt": "God kent en leidt met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "4 Ezra 16:55–77",
+      "design": {
+        "rows": [
+          [
+            "Daden en hart · vers 55–65",
+            "Alle daden, plannen en verborgen gedachten zijn bekend."
+          ],
+          [
+            "Oproep · vers 68",
+            "Heb ontzag, houd op met zonden en onrecht."
+          ],
+          [
+            "Beproeving · vers 74",
+            "De uitverkorenen worden zichtbaar beproefd zoals goud door vuur."
+          ],
+          [
+            "Moed · vers 75–77",
+            "Wees niet bang: God is jullie leider; houd Zijn geboden en bevelen."
+          ]
+        ],
+        "note": "Waarschuwing en bemoediging staan samen in het slot van dit hoofdstuk."
+      }
+    }
+  ]
+}
