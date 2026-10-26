@@ -1,0 +1,338 @@
+{
+  "date": "2026-10-26",
+  "started": "2026-10-26T11:17:18Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "judith",
+      "chapter": 13,
+      "verse": 7,
+      "file": "13-7-sabel-bedstijl-verdieping.webp",
+      "scene": "Judith neemt de sabel van de bedstijl",
+      "alt": "Judith neemt de sabel van de bedstijl — Judith 13:7; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of the narrative world of Judith, ancient Near Eastern setting and materials, modest opaque fully covering robes. Landscape 3:2, natural lighting, anatomically coherent people with exactly two arms each. No modern objects, readable writing, blood, severed heads, injuries or watermark. Inside Holofernes’ purple and gold military tent at night. Adult Jewish widow Judith, wearing cream and burgundy festival robes and a gold headband, quietly takes a curved saber that hangs from the upright post of a luxurious couch. One hand reaches for its handle, the other hangs naturally at her side. Adult bearded Holofernes lies asleep fully clothed on the couch, untouched and unharmed, his head intact. Only these two people. This is the moment before any attack, no attack or aftermath shown. Oil lamps, controlled dramatic shadows, coherent hands.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "judith",
+      "chapter": 14,
+      "verse": 8,
+      "file": "14-8-mannen-bergpas-verdieping.webp",
+      "scene": "De mannen trekken tot de bergpas",
+      "alt": "De mannen trekken tot de bergpas — Judith 14:8; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of the narrative world of Judith, ancient Near Eastern setting and materials, modest opaque fully covering robes. Landscape 3:2, natural lighting, anatomically coherent people with exactly two arms each. No modern objects, readable writing, blood, severed heads, injuries or watermark. At sunrise above ancient Betulia, a disciplined group of adult Israelite men in modest robes with simple ancient helmets, spears and shields walks out toward a narrow mountain pass. They stop on high ground rather than descending into the enemy plain. Far below lies an Assyrian tent camp. No fighting, no wounds, no severed head, no wall trophy in view. Natural ancient hill country, coherent feet and hands.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "judith",
+      "chapter": 15,
+      "verse": 2,
+      "file": "15-2-leger-vlucht-verdieping.webp",
+      "scene": "De Assyriërs vluchten uit het kamp",
+      "alt": "De Assyriërs vluchten uit het kamp — Judith 15:2; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of the narrative world of Judith, ancient Near Eastern setting and materials, modest opaque fully covering robes. Landscape 3:2, natural lighting, anatomically coherent people with exactly two arms each. No modern objects, readable writing, blood, severed heads, injuries or watermark. Ancient Assyrian soldiers hurriedly retreat away from their tents across a broad valley and rocky paths, leaving bundles and shields behind. A few foreground adult men look back with fear, no pursuers in direct combat, no injured or dead people, no gore. Wide landscape view of the scattering army, ancient Near Eastern equipment, daylight.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "judith",
+      "chapter": 16,
+      "verse": 18,
+      "file": "16-18-rotsen-was-verdieping.webp",
+      "scene": "Beeldspraak: rotsen smelten als was",
+      "alt": "Beeldspraak: rotsen smelten als was — Judith 16:18; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of the narrative world of Judith, ancient Near Eastern setting and materials, modest opaque fully covering robes. Landscape 3:2, natural lighting, anatomically coherent people with exactly two arms each. No modern objects, readable writing, blood, severed heads, injuries or watermark. A poetic illustration of Judith 16:18, not a historical event: a monumental pale rock face in an uninhabited mountain landscape appears to soften and flow like warm wax, its smooth mineral folds glowing in powerful dawn light. No people, no divine human figure, no buildings, no text. Photorealistic textures with restrained surreal transformation clearly suggesting a poetic comparison, not an actual volcanic eruption.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "judith",
+      "chapter": 13,
+      "verse": 1,
+      "file": "13-leeswijzer.svg",
+      "scene": "Van de tent terug naar Betulia",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 949,
+      "source": "Judith 13:1–26",
+      "design": {
+        "rows": [
+          [
+            "1–11 · In de tent",
+            "Dienaren vertrekken; Judith bidt, neemt de sabel, doodt Holofernes en neemt het gordijn."
+          ],
+          [
+            "12–20 · Terugkeer en verslag",
+            "Judith en haar dienstmeisje keren terug; de poort opent en zij vertelt wat gebeurd is."
+          ],
+          [
+            "21–26 · Dank en zegen",
+            "Het volk aanbidt God; Ozias zegent haar en het volk stemt in."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "judith",
+      "chapter": 14,
+      "verse": 1,
+      "file": "14-leeswijzer.svg",
+      "scene": "Het plan en de ontdekking",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 906,
+      "source": "Judith 14:1–17",
+      "design": {
+        "rows": [
+          [
+            "1–5 · Judiths opdracht",
+            "Bij zonsopgang gewapend tot de pas; de vijand zal de aanvoerder zoeken."
+          ],
+          [
+            "6–7 · Achior",
+            "Herkenning, Judiths verslag en Achiors aansluiting bij Israël."
+          ],
+          [
+            "8–17 · Het kamp in verwarring",
+            "De beweging wordt gemeld; Bagoas ontdekt de dood en de aanvoerders raken ontzet."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "judith",
+      "chapter": 15,
+      "verse": 1,
+      "file": "15-leeswijzer.svg",
+      "scene": "Vlucht, buit en eerbetoon",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 906,
+      "source": "Judith 15:1–15",
+      "design": {
+        "rows": [
+          [
+            "1–6 · Vlucht en achtervolging",
+            "Het Assyrische leger vlucht; boodschappers roepen Israël op."
+          ],
+          [
+            "7–13 · De buit en Judith",
+            "Het kamp wordt geplunderd; Joakim zegent Judith en zij ontvangt de huisraad."
+          ],
+          [
+            "14–15 · De reidans",
+            "Vrouwen met groene en olijftakken gaan voorop; mannen volgen met lofliederen."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "judith",
+      "chapter": 16,
+      "verse": 1,
+      "file": "16-leeswijzer.svg",
+      "scene": "Danklied en Judiths latere leven",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 906,
+      "source": "Judith 16:1–30",
+      "design": {
+        "rows": [
+          [
+            "1–14 · De terugblik in het lied",
+            "Judith zingt over de redding door de hand van een vrouw."
+          ],
+          [
+            "15–21 · Lof en ontzag",
+            "Schepping, smeltende rotsen en oordeel klinken als poëtische lof."
+          ],
+          [
+            "22–30 · Daarna in het verhaal",
+            "Gaven in Jeruzalem, drie maanden vreugde, terugkeer en Judiths ouderdom en dood."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "judith",
+      "chapter": 13,
+      "verse": 12,
+      "file": "13-terugweg.svg",
+      "scene": "De terugweg van twee vrouwen",
+      "alt": "De terugweg van twee vrouwen met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1098,
+      "source": "Judith 13:11–16",
+      "design": {
+        "rows": [
+          [
+            "Bij de slaapkamer",
+            "Judith geeft het hoofd aan haar dienstmeisje; die bergt het in de voedselzak."
+          ],
+          [
+            "Door het kamp",
+            "Beiden gaan naar buiten zoals zij gewend zijn."
+          ],
+          [
+            "Om het dal en de berg op",
+            "Zij komen samen bij de poorten van Betulia."
+          ],
+          [
+            "Binnen de stad",
+            "De poort gaat open en men maakt licht om haar heen."
+          ]
+        ],
+        "note": "De volgorde volgt de verzen; er wordt geen onbekende route op een kaart ingevuld."
+      }
+    },
+    {
+      "book": "judith",
+      "chapter": 14,
+      "verse": 2,
+      "file": "14-plan-en-reactie.svg",
+      "scene": "Uitlokking en ontdekking",
+      "alt": "Uitlokking en ontdekking met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1098,
+      "source": "Judith 14:1–17",
+      "design": {
+        "rows": [
+          [
+            "Judiths plan · 1–5",
+            "Wapenrusting aan, tot de pas gaan en de vlakte niet in trekken."
+          ],
+          [
+            "Israël · 8",
+            "Bij het aanbreken van de dag trekken mannen in groepen uit."
+          ],
+          [
+            "De Assyriërs · 8–13",
+            "Melden de beweging en willen Holofernes wakker maken."
+          ],
+          [
+            "De uitkomst · 14–17",
+            "Bagoas ontdekt zijn dood en Judiths afwezigheid; de leiding raakt in verwarring."
+          ]
+        ],
+        "note": "De verwachte reactie uit haar plan en de later vertelde uitvoering blijven apart zichtbaar."
+      }
+    },
+    {
+      "book": "judith",
+      "chapter": 15,
+      "verse": 12,
+      "file": "15-buit-en-duur.svg",
+      "scene": "Buit, duur en ontvangers",
+      "alt": "Buit, duur en ontvangers met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1098,
+      "source": "Judith 15:7–15",
+      "design": {
+        "rows": [
+          [
+            "Het kamp · 7–8",
+            "Betulia en terugkerende strijders nemen de achtergelaten goederen."
+          ],
+          [
+            "Dertig dagen · 12",
+            "Zo lang plundert het volk volgens het hoofdstuk het kamp."
+          ],
+          [
+            "Voor Judith · 13",
+            "Tent, zilverwerk, bedden, bekkens en huisraad; vervoer met muildier en wagens."
+          ],
+          [
+            "De reidans · 14–15",
+            "Groene takken en olijftakken, vrouwen voorop en mannen met lofliederen."
+          ]
+        ],
+        "note": "De dertig dagen zijn een tijdsduur; hoeveelheden zilver en aantallen wagens zijn niet gegeven."
+      }
+    },
+    {
+      "book": "judith",
+      "chapter": 16,
+      "verse": 17,
+      "file": "16-lied-en-vertelling.svg",
+      "scene": "Beeldspraak en vervolgverhaal",
+      "alt": "Beeldspraak en vervolgverhaal met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1134,
+      "source": "Judith 16:15–30",
+      "design": {
+        "rows": [
+          [
+            "Loflied · 15–21",
+            "Gods stem, bewegende bergen en rotsen als was drukken Zijn macht uit."
+          ],
+          [
+            "Jeruzalem · 22–24",
+            "Het volk aanbidt; Judith geeft het vaatwerk en gordijn als heilige gaven."
+          ],
+          [
+            "Terugkeer · 25–27",
+            "Zij keert naar Betulia terug en trouwt niet opnieuw."
+          ],
+          [
+            "Ouderdom · 28–30",
+            "Zij bevrijdt haar dienares, verdeelt bezit en sterft; Israël leeft zonder nieuwe angst."
+          ]
+        ],
+        "note": "Het beeld van smeltende rotsen behoort tot het lied; het wordt niet als afzonderlijke historische gebeurtenis behandeld."
+      }
+    },
+    {
+      "book": "judith",
+      "chapter": 16,
+      "verse": 24,
+      "file": "16-tijd-en-erfenis.svg",
+      "scene": "Judiths laatste jaren en bezit",
+      "alt": "Judiths laatste jaren en bezit met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1091,
+      "source": "Judith 16:24–30",
+      "design": {
+        "rows": [
+          [
+            "Drie maanden",
+            "Vreugde in Jeruzalem voor het heiligdom."
+          ],
+          [
+            "105 jaar",
+            "Judiths ouderdom in het huis van haar overleden man Manasse."
+          ],
+          [
+            "Voor haar dood",
+            "Vrijheid voor haar dienares; bezit naar verwanten van Manasse en van haarzelf."
+          ],
+          [
+            "Zeven dagen",
+            "Het huis van Israël rouwt om haar; begrafenis in Manasses grafspelonk."
+          ]
+        ],
+        "note": "Geen kinderen, nieuwe echtgenoot of namen van erfgenamen worden aan de genoemde verwantschap toegevoegd."
+      }
+    }
+  ]
+}

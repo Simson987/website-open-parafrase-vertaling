@@ -35354,6 +35354,129 @@
           "source": "Judith 11:7–21"
         }
       ]
+    },
+    {
+      "book": "judith",
+      "chapter": 13,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Terugtocht, poort en dankgebed zijn aanwezig. Een scène van het nemen van de sabel toont het ontbrekende beslissende begin in de tent zonder gruwelijke details. Opbouw en terugweg onderscheiden daad, tocht en ontvangst.",
+      "additions": [
+        {
+          "verse": 7,
+          "file": "13-7-sabel-bedstijl-verdieping.webp",
+          "scene": "Judith neemt de sabel van de bedstijl",
+          "kind": "scene"
+        },
+        {
+          "verse": 1,
+          "file": "13-leeswijzer.svg",
+          "scene": "Van de tent terug naar Betulia",
+          "kind": "diagram",
+          "source": "Judith 13:1–26"
+        },
+        {
+          "verse": 12,
+          "file": "13-terugweg.svg",
+          "scene": "De terugweg van twee vrouwen",
+          "kind": "diagram",
+          "source": "Judith 13:11–16"
+        }
+      ]
+    },
+    {
+      "book": "judith",
+      "chapter": 14,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Achior, Bagoas en de verwarring zijn aanwezig. Het optrekken tot de bergpas is een eigen handeling die het plan in werking zet. Leeswijzer en oorzaak-volgorde-schema onderscheiden instructie en uitvoering.",
+      "additions": [
+        {
+          "verse": 8,
+          "file": "14-8-mannen-bergpas-verdieping.webp",
+          "scene": "De mannen trekken tot de bergpas",
+          "kind": "scene"
+        },
+        {
+          "verse": 1,
+          "file": "14-leeswijzer.svg",
+          "scene": "Het plan en de ontdekking",
+          "kind": "diagram",
+          "source": "Judith 14:1–17"
+        },
+        {
+          "verse": 2,
+          "file": "14-plan-en-reactie.svg",
+          "scene": "Uitlokking en ontdekking",
+          "kind": "diagram",
+          "source": "Judith 14:1–17"
+        }
+      ]
+    },
+    {
+      "book": "judith",
+      "chapter": 15,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Eerbetoon, laden van huisraad en feest zijn aanwezig. De vlucht van het leger is een zelfstandig begin. Opbouw en buit-duur-schema geven de dertig dagen en de concrete goederen nauwkeurig weer.",
+      "additions": [
+        {
+          "verse": 2,
+          "file": "15-2-leger-vlucht-verdieping.webp",
+          "scene": "De Assyriërs vluchten uit het kamp",
+          "kind": "scene"
+        },
+        {
+          "verse": 1,
+          "file": "15-leeswijzer.svg",
+          "scene": "Vlucht, buit en eerbetoon",
+          "kind": "diagram",
+          "source": "Judith 15:1–15"
+        },
+        {
+          "verse": 12,
+          "file": "15-buit-en-duur.svg",
+          "scene": "Buit, duur en ontvangers",
+          "kind": "diagram",
+          "source": "Judith 15:7–15"
+        }
+      ]
+    },
+    {
+      "book": "judith",
+      "chapter": 16,
+      "status": "reviewed",
+      "target_images": 7,
+      "reason": "Danklied, tempelgave en vrijlating zijn aanwezig. Eén duidelijk poëtisch rotsenbeeld sluit aan bij de vergelijking in het lied. Schema’s houden lied en levensafloop, 105 jaar, drie maanden, zeven dagen en de erfgenamen uiteen.",
+      "additions": [
+        {
+          "verse": 18,
+          "file": "16-18-rotsen-was-verdieping.webp",
+          "scene": "Beeldspraak: rotsen smelten als was",
+          "kind": "poetic"
+        },
+        {
+          "verse": 1,
+          "file": "16-leeswijzer.svg",
+          "scene": "Danklied en Judiths latere leven",
+          "kind": "diagram",
+          "source": "Judith 16:1–30"
+        },
+        {
+          "verse": 17,
+          "file": "16-lied-en-vertelling.svg",
+          "scene": "Beeldspraak en vervolgverhaal",
+          "kind": "diagram",
+          "source": "Judith 16:15–30"
+        },
+        {
+          "verse": 24,
+          "file": "16-tijd-en-erfenis.svg",
+          "scene": "Judiths laatste jaren en bezit",
+          "kind": "diagram",
+          "source": "Judith 16:24–30"
+        }
+      ]
     }
   ]
 }
