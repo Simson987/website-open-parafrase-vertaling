@@ -1,0 +1,187 @@
+{
+  "date": "2026-10-26",
+  "started": "2026-10-26T11:17:18Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "jezussirach",
+      "chapter": 45,
+      "verse": 5,
+      "file": "45-5-mozes-in-donker-verdieping.webp",
+      "scene": "Mozes gaat het donker binnen",
+      "alt": "Mozes gaat het donker binnen — Jezus Sirach 45:5; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-recollection. Photorealistic illustration of a biblical historical allusion in Jesus Sirach 45, ancient Israelite wilderness setting, landscape 3:2, natural materials, modest opaque garments and coherent anatomy with exactly two arms per person. No modern objects, readable text, divine human figure, blood or injury. Moses as an older bearded man in a simple modest earth-colored robe walks alone toward the dark cloud covering a rugged rocky mountain slope. He is seen from behind, carrying no books or modern objects, his two arms relaxed and clearly distinct. The cloud and natural shafts of light suggest awe and mystery without showing a human divine figure or magical face. A sober photographic reconstruction of the allusion in Sirach 45:5 to entering the darkness to hear God.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "jezussirach",
+      "chapter": 45,
+      "verse": 18,
+      "file": "45-18-mozes-zalft-aaron-verdieping.webp",
+      "scene": "Mozes zalft Aäron",
+      "alt": "Mozes zalft Aäron — Jezus Sirach 45:18; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-recollection. Photorealistic illustration of a biblical historical allusion in Jesus Sirach 45, ancient Israelite wilderness setting, landscape 3:2, natural materials, modest opaque garments and coherent anatomy with exactly two arms per person. No modern objects, readable text, divine human figure, blood or injury. Moses, an older bearded man in a simple linen robe, carefully pours a small amount of olive oil from a plain clay flask onto his brother Aaron’s white priestly turban as Aaron stands quietly in the wilderness courtyard of a cloth tabernacle. Aaron wears modest ancient priestly garments, blue robe and woven ephod with a small breastpiece. Both men have exactly two arms; flask, wrists and hands are naturally positioned. A solemn commissioning scene illustrating Sirach 45:18, no crowd, readable writing, crown of a European king or modern objects.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "jezussirach",
+      "chapter": 44,
+      "verse": 1,
+      "file": "44-herinnering-en-verbond.svg",
+      "scene": "Herinnering en verbond",
+      "alt": "Herinnering en verbond met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1177,
+      "source": "Jezus Sirach 44:1–26",
+      "design": {
+        "rows": [
+          [
+            "De lof · 1–9",
+            "Leiders, raadgevers, profeten, leraren, dichters en welgestelden worden herinnerd."
+          ],
+          [
+            "De vergeten en de trouwe · 10–16",
+            "Niet ieder houdt een bekende naam; barmhartige daden en verbondstrouw blijven."
+          ],
+          [
+            "Henoch en Noach · 17–19",
+            "Henoch als voorbeeld; Noach met bewaring van leven en verbond."
+          ],
+          [
+            "De aartsvaders · 20–26",
+            "Abraham, Izak en Jakob; zegen, talrijk nageslacht en twaalf stammen."
+          ]
+        ],
+        "note": "Het hoofdstuk prijst de vaderen en haalt hun geschiedenis aan; het is geen nieuwe gebeurtenis met al deze mensen samen."
+      }
+    },
+    {
+      "book": "jezussirach",
+      "chapter": 45,
+      "verse": 7,
+      "file": "45-priesterdracht.svg",
+      "scene": "De genoemde priesterdracht",
+      "alt": "De genoemde priesterdracht met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1134,
+      "source": "Jezus Sirach 45:7–16",
+      "design": {
+        "rows": [
+          [
+            "Kleding · 9–11",
+            "Onderkleding, lang gewaad, priesterrok, granaatappels en gouden belletjes."
+          ],
+          [
+            "Borstlap · 12–13",
+            "Goud, blauwpurper, roodpurper, scharlaken en kostbare stenen als herinnering."
+          ],
+          [
+            "Hoofd · 14",
+            "Gouden kroon boven de tulband, met zegel van heiligheid."
+          ],
+          [
+            "De dragers · 15–16",
+            "De bijzondere kleding is verbonden aan Aäron en zijn nageslacht."
+          ]
+        ],
+        "note": "De onderdelen volgen deze plaatselijke tekst; details uit andere hoofdstukken worden niet als nieuwe lijst toegevoegd."
+      }
+    },
+    {
+      "book": "jezussirach",
+      "chapter": 45,
+      "verse": 1,
+      "file": "45-mozes-aaron-pinehas.svg",
+      "scene": "Mozes, Aäron en Pinehas",
+      "alt": "Mozes, Aäron en Pinehas met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1177,
+      "source": "Jezus Sirach 45:1–32",
+      "design": {
+        "rows": [
+          [
+            "Mozes · 1–6",
+            "Roeping, zachtmoedigheid, horen van de stem en onderwijs in de wet."
+          ],
+          [
+            "Aäron · 7–27",
+            "Broer van Mozes, uit Levi; zalving, priesterschap, onderwijs en levensonderhoud."
+          ],
+          [
+            "Pinehas · 28–30",
+            "Zoon van Eleazar; zijn inzet wordt verbonden met een verbond van vrede."
+          ],
+          [
+            "De slotzegen · 31–32",
+            "Koningschap en priesterschap worden vergeleken; wijsheid voor rechtvaardig bestuur."
+          ]
+        ],
+        "note": "De drie genoemde hoofdpersonen hebben onderscheiden rollen; de vergelijking met David voegt geen vierde priester toe."
+      }
+    },
+    {
+      "book": "jezussirach",
+      "chapter": 45,
+      "verse": 25,
+      "file": "45-erfdeel-en-opvolging.svg",
+      "scene": "Erfdeel en opvolging",
+      "alt": "Erfdeel en opvolging met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1134,
+      "source": "Jezus Sirach 45:25–31",
+      "design": {
+        "rows": [
+          [
+            "Het levensonderhoud · 25–26",
+            "Eerste opbrengst en offers als deel voor Aäron en zijn nageslacht."
+          ],
+          [
+            "Het erfdeel · 27",
+            "Geen landdeel onder het volk; de Heere Zelf is het deel van zijn erfenis."
+          ],
+          [
+            "Pinehas · 28–30",
+            "Het verbond van vrede verbindt inzet aan blijvende priesterlijke eer."
+          ],
+          [
+            "De vergelijking · 31",
+            "Een Davidszoon erft het koningschap; Aäron en zijn nageslacht het priesterschap."
+          ]
+        ],
+        "note": "De tekst vergelijkt opvolging en erfdeel; het schema maakt geen aanspraak op een volledige geslachtslijst."
+      }
+    },
+    {
+      "book": "jezussirach",
+      "chapter": 44,
+      "verse": 20,
+      "file": "44-zegen-en-stammen.svg",
+      "scene": "De zegen naar de stammen",
+      "alt": "De zegen naar de stammen — Jezus Sirach 44:20–25",
+      "kind": "diagram",
+      "width": 840,
+      "height": 642,
+      "source": "Jezus Sirach 44:20–25",
+      "design": {
+        "type": "vertical named sequence",
+        "names": [
+          "Abraham",
+          "Izak",
+          "Jakob",
+          "Twaalf stammen"
+        ],
+        "note": "De pijlen volgen de genoemde overdracht van zegen en verbond. De slotstap is de verdeling in twaalf stammen, geen nieuwe persoon."
+      }
+    }
+  ]
+}

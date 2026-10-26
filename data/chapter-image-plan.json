@@ -36762,6 +36762,71 @@
           "source": "Jezus Sirach 42:1–31"
         }
       ]
+    },
+    {
+      "book": "jezussirach",
+      "chapter": 45,
+      "status": "reviewed",
+      "target_images": 8,
+      "reason": "Mozes als leraar, de zoomversiering en reukwerk zijn aanwezig. Zijn binnengaan in het donker en de zalving van Aäron zijn afzonderlijke genoemde momenten en krijgen twee reconstructies. Drie schema’s verklaren priesterdracht, de rollen van Mozes/Aäron/Pinehas en het onderscheiden erfdeel.",
+      "additions": [
+        {
+          "verse": 5,
+          "file": "45-5-mozes-in-donker-verdieping.webp",
+          "scene": "Mozes gaat het donker binnen",
+          "kind": "scene"
+        },
+        {
+          "verse": 18,
+          "file": "45-18-mozes-zalft-aaron-verdieping.webp",
+          "scene": "Mozes zalft Aäron",
+          "kind": "scene"
+        },
+        {
+          "verse": 7,
+          "file": "45-priesterdracht.svg",
+          "scene": "De genoemde priesterdracht",
+          "kind": "diagram",
+          "source": "Jezus Sirach 45:7–16"
+        },
+        {
+          "verse": 1,
+          "file": "45-mozes-aaron-pinehas.svg",
+          "scene": "Mozes, Aäron en Pinehas",
+          "kind": "diagram",
+          "source": "Jezus Sirach 45:1–32"
+        },
+        {
+          "verse": 25,
+          "file": "45-erfdeel-en-opvolging.svg",
+          "scene": "Erfdeel en opvolging",
+          "kind": "diagram",
+          "source": "Jezus Sirach 45:25–31"
+        }
+      ]
+    },
+    {
+      "book": "jezussirach",
+      "chapter": 44,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Barmhartige daden, Noach en Abraham zijn al afgebeeld. Een leeswijzer maakt ook de vergeten generaties en Henoch zichtbaar; een benoemde lijn ordent Abraham, Izak, Jakob en de twaalf stammen. Geen speculatieve foto van de wijze waarop Henoch werd weggenomen.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "44-herinnering-en-verbond.svg",
+          "scene": "Herinnering en verbond",
+          "kind": "diagram",
+          "source": "Jezus Sirach 44:1–26"
+        },
+        {
+          "verse": 20,
+          "file": "44-zegen-en-stammen.svg",
+          "scene": "De zegen naar de stammen",
+          "kind": "diagram",
+          "source": "Jezus Sirach 44:20–25"
+        }
+      ]
     }
   ]
 }
