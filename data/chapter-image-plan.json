@@ -32350,6 +32350,170 @@
           "source": "Hebreeën 9:4–5"
         }
       ]
+    },
+    {
+      "book": "jakobus",
+      "chapter": 1,
+      "status": "reviewed",
+      "target_images": 8,
+      "reason": "Horen, doen en wijsheid vragen zijn aanwezig. Drie afzonderlijke tekstbeelden ontbreken en worden toegevoegd: golf, spiegel en wezen-weduwenzorg. Leeswijzer en verleidingsverband onderscheiden beproeving, begeerte en de goede gave.",
+      "additions": [
+        {
+          "verse": 6,
+          "file": "1-6-golf-zee-verdieping.webp",
+          "scene": "Vergelijking: de opgejaagde golf",
+          "kind": "poetic"
+        },
+        {
+          "verse": 23,
+          "file": "1-23-spiegel-verdieping.webp",
+          "scene": "Vergelijking: kijken en vergeten",
+          "kind": "poetic"
+        },
+        {
+          "verse": 27,
+          "file": "1-27-wezen-weduwe-verdieping.webp",
+          "scene": "Lesbeeld: omzien naar wie alleen zijn",
+          "kind": "poetic"
+        },
+        {
+          "verse": 1,
+          "file": "1-leeswijzer.svg",
+          "scene": "Horen, volharden en doen",
+          "kind": "diagram",
+          "source": "Jakobus 1:1–27"
+        },
+        {
+          "verse": 14,
+          "file": "1-verleiding-keten.svg",
+          "scene": "Hoe de verleiding groeit",
+          "kind": "diagram",
+          "source": "Jakobus 1:13–18"
+        }
+      ]
+    },
+    {
+      "book": "jakobus",
+      "chapter": 3,
+      "status": "reviewed",
+      "target_images": 7,
+      "reason": "Roer, bron en zaaien zijn aanwezig. Bit en beginnend vuur zijn twee afzonderlijke vergelijkingen en krijgen eigen beelden. Leeswijzer en het wijsheidcontrast verbinden deze beelden met hun doel: de omgang met woorden.",
+      "additions": [
+        {
+          "verse": 3,
+          "file": "3-3-paard-bit-verdieping.webp",
+          "scene": "Vergelijking: een klein bit",
+          "kind": "poetic"
+        },
+        {
+          "verse": 5,
+          "file": "3-5-klein-vuur-verdieping.webp",
+          "scene": "Vergelijking: een klein vuur",
+          "kind": "poetic"
+        },
+        {
+          "verse": 1,
+          "file": "3-leeswijzer.svg",
+          "scene": "Woorden en wijsheid van boven",
+          "kind": "diagram",
+          "source": "Jakobus 3:1–18"
+        },
+        {
+          "verse": 14,
+          "file": "3-wijsheid.svg",
+          "scene": "Twee soorten wijsheid",
+          "kind": "diagram",
+          "source": "Jakobus 3:13–18"
+        }
+      ]
+    },
+    {
+      "book": "jakobus",
+      "chapter": 4,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Nederigheid, zuivering en damp zijn aanwezig. De specifieke handelsplanning krijgt een als lesbeeld gemarkeerde scène. Leeswijzer en het omkeeroverzicht maken de reeks oproepen leesbaar.",
+      "additions": [
+        {
+          "verse": 13,
+          "file": "4-13-handelsplannen-verdieping.webp",
+          "scene": "Lesbeeld: plannen voor morgen",
+          "kind": "poetic"
+        },
+        {
+          "verse": 1,
+          "file": "4-leeswijzer.svg",
+          "scene": "Nederigheid en morgen",
+          "kind": "diagram",
+          "source": "Jakobus 4:1–17"
+        },
+        {
+          "verse": 7,
+          "file": "4-naderen.svg",
+          "scene": "De oproepen om terug te keren",
+          "kind": "diagram",
+          "source": "Jakobus 4:6–10"
+        }
+      ]
+    },
+    {
+      "book": "jakobus",
+      "chapter": 5,
+      "status": "reviewed",
+      "target_images": 7,
+      "reason": "Boer, ziekengebed en Elia’s regen zijn aanwezig. Het onrecht van achtergehouden loon krijgt een afzonderlijk lesbeeld. Leeswijzer en twee overzichten verbinden volharding, gebed en onderlinge zorg.",
+      "additions": [
+        {
+          "verse": 4,
+          "file": "5-4-maaiers-loon-verdieping.webp",
+          "scene": "Lesbeeld: het achtergehouden loon",
+          "kind": "poetic"
+        },
+        {
+          "verse": 1,
+          "file": "5-leeswijzer.svg",
+          "scene": "Recht, geduld en gebed",
+          "kind": "diagram",
+          "source": "Jakobus 5:1–20"
+        },
+        {
+          "verse": 7,
+          "file": "5-voorbeelden-geduld.svg",
+          "scene": "Drie voorbeelden van volharding",
+          "kind": "diagram",
+          "source": "Jakobus 5:7–11"
+        },
+        {
+          "verse": 13,
+          "file": "5-gebed-omstandigheden.svg",
+          "scene": "Gebed, zang en zorg",
+          "kind": "diagram",
+          "source": "Jakobus 5:13–20"
+        }
+      ]
+    },
+    {
+      "book": "jakobus",
+      "chapter": 2,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Gelijke behandeling, voedsel-kleding en Rachab zijn aanwezig. Leeswijzer en de verbanden tussen woorden, geloof en werken geven de argumentatie; een tweede vrijwel gelijke hulpverleningsscène voegt niets toe.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "2-leeswijzer.svg",
+          "scene": "Zonder voorkeur, met werken",
+          "kind": "diagram",
+          "source": "Jakobus 2:1–26"
+        },
+        {
+          "verse": 15,
+          "file": "2-geloof-daden.svg",
+          "scene": "Woorden en daden",
+          "kind": "diagram",
+          "source": "Jakobus 2:14–26"
+        }
+      ]
     }
   ]
 }
