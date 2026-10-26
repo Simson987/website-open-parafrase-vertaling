@@ -1,0 +1,174 @@
+{
+  "started": "2026-10-26T08:13:55Z",
+  "batches": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21
+  ],
+  "new_visuals": 214,
+  "new_asset_files": 214,
+  "replaced_baseline_images": 0,
+  "new_rasters": 49,
+  "new_schemas": 165,
+  "new_reviewed_chapters": 68,
+  "total_reviewed_chapters": 1175,
+  "total_images": 8257,
+  "metadata_corrections": 204,
+  "verified": "local sources, visual anatomy and content review, SVG legibility and font bounds, SVG enlarge links, dimensions and decode, chapter plan targets, preservation of baseline work",
+  "finished": "2026-10-26T10:08:33.709873+00:00",
+  "resumed_heartbeat": "2026-10-26T09:16:08.770Z",
+  "timing_note": "De reeks is begonnen bij de heartbeat van 08:13 UTC en voortgezet na de heartbeat van 09:16 UTC. De verstreken tijd is geen claim van onafgebroken actieve generatie.",
+  "reviewed_ranges": [
+    {
+      "book": "kolossenzen",
+      "first": 1,
+      "last": 4
+    },
+    {
+      "book": "1tessalonicensen",
+      "first": 1,
+      "last": 5
+    },
+    {
+      "book": "2tessalonicensen",
+      "first": 1,
+      "last": 3
+    },
+    {
+      "book": "1timotheus",
+      "first": 1,
+      "last": 6
+    },
+    {
+      "book": "2timotheus",
+      "first": 1,
+      "last": 4
+    },
+    {
+      "book": "titus",
+      "first": 1,
+      "last": 3
+    },
+    {
+      "book": "filemon",
+      "first": 1,
+      "last": 1
+    },
+    {
+      "book": "hebreeen",
+      "first": 1,
+      "last": 13
+    },
+    {
+      "book": "jakobus",
+      "first": 1,
+      "last": 5
+    },
+    {
+      "book": "1petrus",
+      "first": 1,
+      "last": 5
+    },
+    {
+      "book": "2petrus",
+      "first": 1,
+      "last": 3
+    },
+    {
+      "book": "1johannes",
+      "first": 1,
+      "last": 5
+    },
+    {
+      "book": "2johannes",
+      "first": 1,
+      "last": 1
+    },
+    {
+      "book": "3johannes",
+      "first": 1,
+      "last": 1
+    },
+    {
+      "book": "judas",
+      "first": 1,
+      "last": 1
+    },
+    {
+      "book": "openbaring",
+      "first": 1,
+      "last": 8
+    }
+  ],
+  "completed_books": [
+    "kolossenzen",
+    "1tessalonicensen",
+    "2tessalonicensen",
+    "1timotheus",
+    "2timotheus",
+    "titus",
+    "filemon",
+    "hebreeen",
+    "jakobus",
+    "1petrus",
+    "2petrus",
+    "1johannes",
+    "2johannes",
+    "3johannes",
+    "judas"
+  ],
+  "next_chapter": {
+    "book": "openbaring",
+    "chapter": 9
+  },
+  "remaining_unreviewed_chapters": 429,
+  "open_targets": 0,
+  "generator": "Ingebouwde image_gen, één oproep per raster en onafhankelijke oproepen parallel. Native SVG voor leeswijzers, namen, relaties, aantallen en verbanden.",
+  "quality_corrections": [
+    {
+      "book": "hebreeen",
+      "chapter": 11,
+      "verse": 4,
+      "issue": "De eerste Abelgeneratie legde plantaardige producten op het altaar.",
+      "resolution": "Genesis 4:4 ter plaatse gecontroleerd; met de ingebouwde beeldbewerker gecorrigeerd naar een discreet dierlijk offer zonder bloed. Het resultaat opnieuw bekeken; oorspronkelijke prompt en bewerkingsprompt bewaard."
+    },
+    {
+      "book": "hebreeen",
+      "chapter": 11,
+      "verse": 5,
+      "issue": "De eerste titel noemde Henochs wegnemen beeldspraak.",
+      "resolution": "Gecorrigeerd naar poëtische verbeelding van de vertelde gebeurtenis; niet als een vergelijking van de auteur aangeduid."
+    },
+    {
+      "scope": "native SVG",
+      "issue": "Enkele titels waren te breed; vier tekstvakken bedekten enkele cirkels in het eerste troonschema.",
+      "resolution": "Titels ingekort. Het troonschema opnieuw ingedeeld zodat alle 24 cirkels, vier vormen en zeven lampen afzonderlijk zichtbaar zijn. Nieuwe renders en tekstgrenzen gecontroleerd."
+    }
+  ],
+  "errors": [],
+  "site_build": "passed",
+  "coverage_check": "passed",
+  "baseline_commit": "b2348471695f609344f1aa81e1a90fa755c87713",
+  "asset_commit": "85a59ed14493e14677459f3f000fcbe32aebba5f",
+  "push_target": "Simson987/website-open-parafrase-vertaling:codex/three-images-per-chapter",
+  "pull_request": "https://github.com/William-Carey-Missions/website-open-parafrase-vertaling/pull/3",
+  "automation": "Actief: eerst open doelen afmaken, anders doorgaan bij het eerste niet beoordeelde hoofdstuk. Nog niet alle 1604 hoofdstukken zijn beoordeeld."
+}

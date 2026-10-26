@@ -1,0 +1,4243 @@
+{
+  "started": "2026-10-26T08:13:55Z",
+  "description": "De bestaande drie beelden per behandeld hoofdstuk zijn bekeken. Ontbrekende versankers en typen zijn aangevuld; werkelijke afmetingen gecontroleerd. Er zijn geen bestaande beeldbestanden overschreven.",
+  "corrections": [
+    {
+      "book": "kolossenzen",
+      "before": {
+        "chapter": 1,
+        "file": "1-prayer.webp",
+        "alt": "Een kleine gemeenschap bidt samen in een huis",
+        "scene": "Gebed voor Kolosse"
+      },
+      "after": {
+        "chapter": 1,
+        "file": "1-prayer.webp",
+        "alt": "Een kleine gemeenschap bidt samen in een huis",
+        "scene": "Gebed voor Kolosse",
+        "verse": 3,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "kolossenzen",
+      "before": {
+        "chapter": 3,
+        "file": "3-kindness.webp",
+        "alt": "Een vrouw deelt brood met een buur",
+        "scene": "Bekleed je met medeleven"
+      },
+      "after": {
+        "chapter": 3,
+        "file": "3-kindness.webp",
+        "alt": "Een vrouw deelt brood met een buur",
+        "scene": "Bekleed je met medeleven",
+        "verse": 12,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "kolossenzen",
+      "before": {
+        "chapter": 4,
+        "file": "4-messenger.webp",
+        "alt": "Een boodschapper met een briefrol nadert een stad",
+        "scene": "De brief wordt gebracht"
+      },
+      "after": {
+        "chapter": 4,
+        "file": "4-messenger.webp",
+        "alt": "Een boodschapper met een briefrol nadert een stad",
+        "scene": "De brief wordt gebracht",
+        "verse": 7,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "kolossenzen",
+      "before": {
+        "chapter": 1,
+        "verse": 16,
+        "file": "1-16.webp",
+        "alt": "Beeld bij Kolossenzen 1: Alles door Hem geschapen",
+        "scene": "Alles door Hem geschapen"
+      },
+      "after": {
+        "chapter": 1,
+        "verse": 16,
+        "file": "1-16.webp",
+        "alt": "Beeld bij Kolossenzen 1: Alles door Hem geschapen",
+        "scene": "Alles door Hem geschapen",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "kolossenzen",
+      "before": {
+        "chapter": 1,
+        "verse": 23,
+        "file": "1-23.webp",
+        "alt": "Beeld bij Kolossenzen 1: Gegrond en vast in geloof",
+        "scene": "Gegrond en vast in geloof"
+      },
+      "after": {
+        "chapter": 1,
+        "verse": 23,
+        "file": "1-23.webp",
+        "alt": "Beeld bij Kolossenzen 1: Gegrond en vast in geloof",
+        "scene": "Gegrond en vast in geloof",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "kolossenzen",
+      "before": {
+        "chapter": 2,
+        "verse": 2,
+        "file": "2-2.webp",
+        "alt": "Beeld bij Kolossenzen 2: Samengevoegd in liefde",
+        "scene": "Samengevoegd in liefde"
+      },
+      "after": {
+        "chapter": 2,
+        "verse": 2,
+        "file": "2-2.webp",
+        "alt": "Beeld bij Kolossenzen 2: Samengevoegd in liefde",
+        "scene": "Samengevoegd in liefde",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "kolossenzen",
+      "before": {
+        "chapter": 2,
+        "verse": 7,
+        "file": "2-7.webp",
+        "alt": "Beeld bij Kolossenzen 2: Geworteld en opgebouwd",
+        "scene": "Geworteld en opgebouwd"
+      },
+      "after": {
+        "chapter": 2,
+        "verse": 7,
+        "file": "2-7.webp",
+        "alt": "Beeld bij Kolossenzen 2: Geworteld en opgebouwd",
+        "scene": "Geworteld en opgebouwd",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "kolossenzen",
+      "before": {
+        "chapter": 2,
+        "verse": 12,
+        "file": "2-12.webp",
+        "alt": "Beeld bij Kolossenzen 2: Met Hem opgewekt in de doop",
+        "scene": "Met Hem opgewekt in de doop"
+      },
+      "after": {
+        "chapter": 2,
+        "verse": 12,
+        "file": "2-12.webp",
+        "alt": "Beeld bij Kolossenzen 2: Met Hem opgewekt in de doop",
+        "scene": "Met Hem opgewekt in de doop",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "kolossenzen",
+      "before": {
+        "chapter": 3,
+        "verse": 16,
+        "file": "3-16.webp",
+        "alt": "Beeld bij Kolossenzen 3: Samen zingen met dank",
+        "scene": "Samen zingen met dank"
+      },
+      "after": {
+        "chapter": 3,
+        "verse": 16,
+        "file": "3-16.webp",
+        "alt": "Beeld bij Kolossenzen 3: Samen zingen met dank",
+        "scene": "Samen zingen met dank",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "kolossenzen",
+      "before": {
+        "chapter": 3,
+        "verse": 23,
+        "file": "3-23.webp",
+        "alt": "Beeld bij Kolossenzen 3: Van harte werken",
+        "scene": "Van harte werken"
+      },
+      "after": {
+        "chapter": 3,
+        "verse": 23,
+        "file": "3-23.webp",
+        "alt": "Beeld bij Kolossenzen 3: Van harte werken",
+        "scene": "Van harte werken",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "kolossenzen",
+      "before": {
+        "chapter": 4,
+        "verse": 6,
+        "file": "4-6.webp",
+        "alt": "Beeld bij Kolossenzen 4: Vriendelijke woorden",
+        "scene": "Vriendelijke woorden"
+      },
+      "after": {
+        "chapter": 4,
+        "verse": 6,
+        "file": "4-6.webp",
+        "alt": "Beeld bij Kolossenzen 4: Vriendelijke woorden",
+        "scene": "Vriendelijke woorden",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "kolossenzen",
+      "before": {
+        "chapter": 4,
+        "verse": 16,
+        "file": "4-16.webp",
+        "alt": "Beeld bij Kolossenzen 4: De brief wordt voorgelezen",
+        "scene": "De brief wordt voorgelezen"
+      },
+      "after": {
+        "chapter": 4,
+        "verse": 16,
+        "file": "4-16.webp",
+        "alt": "Beeld bij Kolossenzen 4: De brief wordt voorgelezen",
+        "scene": "De brief wordt voorgelezen",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "1tessalonicensen",
+      "before": {
+        "chapter": 1,
+        "file": "1-letter.webp",
+        "alt": "Paulus schrijft aan de gemeente van Tessalonica",
+        "scene": "Een brief aan Tessalonica"
+      },
+      "after": {
+        "chapter": 1,
+        "file": "1-letter.webp",
+        "alt": "Paulus schrijft aan de gemeente van Tessalonica",
+        "scene": "Een brief aan Tessalonica",
+        "verse": 1,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "1tessalonicensen",
+      "before": {
+        "chapter": 4,
+        "file": "4-work.webp",
+        "alt": "Gemeenteleden werken rustig met hun handen",
+        "scene": "Leef rustig en werk"
+      },
+      "after": {
+        "chapter": 4,
+        "file": "4-work.webp",
+        "alt": "Gemeenteleden werken rustig met hun handen",
+        "scene": "Leef rustig en werk",
+        "verse": 11,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "1tessalonicensen",
+      "before": {
+        "chapter": 5,
+        "file": "5-encourage.webp",
+        "alt": "Gemeenteleden bemoedigen elkaar",
+        "scene": "Bemoedig elkaar"
+      },
+      "after": {
+        "chapter": 5,
+        "file": "5-encourage.webp",
+        "alt": "Gemeenteleden bemoedigen elkaar",
+        "scene": "Bemoedig elkaar",
+        "verse": 11,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "1tessalonicensen",
+      "before": {
+        "chapter": 1,
+        "verse": 3,
+        "file": "1-3.webp",
+        "alt": "Beeld bij 1tessalonicensen 1: Werk geloof en liefde",
+        "scene": "Werk geloof en liefde"
+      },
+      "after": {
+        "chapter": 1,
+        "verse": 3,
+        "file": "1-3.webp",
+        "alt": "Beeld bij 1tessalonicensen 1: Werk geloof en liefde",
+        "scene": "Werk geloof en liefde",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "1tessalonicensen",
+      "before": {
+        "chapter": 1,
+        "verse": 9,
+        "file": "1-9.webp",
+        "alt": "Beeld bij 1tessalonicensen 1: De levende God dienen",
+        "scene": "De levende God dienen"
+      },
+      "after": {
+        "chapter": 1,
+        "verse": 9,
+        "file": "1-9.webp",
+        "alt": "Beeld bij 1tessalonicensen 1: De levende God dienen",
+        "scene": "De levende God dienen",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "1tessalonicensen",
+      "before": {
+        "chapter": 2,
+        "verse": 7,
+        "file": "2-7.webp",
+        "alt": "Beeld bij 1tessalonicensen 2: Zachte zorg als een moeder",
+        "scene": "Zachte zorg als een moeder"
+      },
+      "after": {
+        "chapter": 2,
+        "verse": 7,
+        "file": "2-7.webp",
+        "alt": "Beeld bij 1tessalonicensen 2: Zachte zorg als een moeder",
+        "scene": "Zachte zorg als een moeder",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "1tessalonicensen",
+      "before": {
+        "chapter": 2,
+        "verse": 9,
+        "file": "2-9.webp",
+        "alt": "Beeld bij 1tessalonicensen 2: Werken dag en nacht",
+        "scene": "Werken dag en nacht"
+      },
+      "after": {
+        "chapter": 2,
+        "verse": 9,
+        "file": "2-9.webp",
+        "alt": "Beeld bij 1tessalonicensen 2: Werken dag en nacht",
+        "scene": "Werken dag en nacht",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "1tessalonicensen",
+      "before": {
+        "chapter": 2,
+        "verse": 11,
+        "file": "2-11.webp",
+        "alt": "Beeld bij 1tessalonicensen 2: Bemoedigen als een vader",
+        "scene": "Bemoedigen als een vader"
+      },
+      "after": {
+        "chapter": 2,
+        "verse": 11,
+        "file": "2-11.webp",
+        "alt": "Beeld bij 1tessalonicensen 2: Bemoedigen als een vader",
+        "scene": "Bemoedigen als een vader",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "1tessalonicensen",
+      "before": {
+        "chapter": 3,
+        "verse": 2,
+        "file": "3-2.webp",
+        "alt": "Beeld bij 1tessalonicensen 3: Timotheüs bemoedigt",
+        "scene": "Timotheüs bemoedigt"
+      },
+      "after": {
+        "chapter": 3,
+        "verse": 2,
+        "file": "3-2.webp",
+        "alt": "Beeld bij 1tessalonicensen 3: Timotheüs bemoedigt",
+        "scene": "Timotheüs bemoedigt",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "1tessalonicensen",
+      "before": {
+        "chapter": 3,
+        "verse": 6,
+        "file": "3-6.webp",
+        "alt": "Beeld bij 1tessalonicensen 3: Goed nieuws teruggebracht",
+        "scene": "Goed nieuws teruggebracht"
+      },
+      "after": {
+        "chapter": 3,
+        "verse": 6,
+        "file": "3-6.webp",
+        "alt": "Beeld bij 1tessalonicensen 3: Goed nieuws teruggebracht",
+        "scene": "Goed nieuws teruggebracht",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "1tessalonicensen",
+      "before": {
+        "chapter": 3,
+        "verse": 12,
+        "file": "3-12.webp",
+        "alt": "Beeld bij 1tessalonicensen 3: Liefde laten overvloeien",
+        "scene": "Liefde laten overvloeien"
+      },
+      "after": {
+        "chapter": 3,
+        "verse": 12,
+        "file": "3-12.webp",
+        "alt": "Beeld bij 1tessalonicensen 3: Liefde laten overvloeien",
+        "scene": "Liefde laten overvloeien",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "1tessalonicensen",
+      "before": {
+        "chapter": 4,
+        "verse": 9,
+        "file": "4-9.webp",
+        "alt": "Beeld bij 1tessalonicensen 4: Van God geleerd lief te hebben",
+        "scene": "Van God geleerd lief te hebben"
+      },
+      "after": {
+        "chapter": 4,
+        "verse": 9,
+        "file": "4-9.webp",
+        "alt": "Beeld bij 1tessalonicensen 4: Van God geleerd lief te hebben",
+        "scene": "Van God geleerd lief te hebben",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "1tessalonicensen",
+      "before": {
+        "chapter": 4,
+        "verse": 18,
+        "file": "4-18.webp",
+        "alt": "Beeld bij 1tessalonicensen 4: Troost met hoop",
+        "scene": "Troost met hoop"
+      },
+      "after": {
+        "chapter": 4,
+        "verse": 18,
+        "file": "4-18.webp",
+        "alt": "Beeld bij 1tessalonicensen 4: Troost met hoop",
+        "scene": "Troost met hoop",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "1tessalonicensen",
+      "before": {
+        "chapter": 5,
+        "verse": 5,
+        "file": "5-5.webp",
+        "alt": "Beeld bij 1tessalonicensen 5: Kinderen van het licht",
+        "scene": "Kinderen van het licht"
+      },
+      "after": {
+        "chapter": 5,
+        "verse": 5,
+        "file": "5-5.webp",
+        "alt": "Beeld bij 1tessalonicensen 5: Kinderen van het licht",
+        "scene": "Kinderen van het licht",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "1tessalonicensen",
+      "before": {
+        "chapter": 5,
+        "verse": 21,
+        "file": "5-21.webp",
+        "alt": "Beeld bij 1tessalonicensen 5: Toets alles",
+        "scene": "Toets alles"
+      },
+      "after": {
+        "chapter": 5,
+        "verse": 21,
+        "file": "5-21.webp",
+        "alt": "Beeld bij 1tessalonicensen 5: Toets alles",
+        "scene": "Toets alles",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "2tessalonicensen",
+      "before": {
+        "chapter": 1,
+        "file": "1-endurance.webp",
+        "alt": "Een gezin houdt samen stand in een moeilijke tijd",
+        "scene": "Volharding"
+      },
+      "after": {
+        "chapter": 1,
+        "file": "1-endurance.webp",
+        "alt": "Een gezin houdt samen stand in een moeilijke tijd",
+        "scene": "Volharding",
+        "verse": 4,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "2tessalonicensen",
+      "before": {
+        "chapter": 2,
+        "file": "2-discern.webp",
+        "alt": "Gemeenteleden bespreken een brief zorgvuldig",
+        "scene": "Onderzoek wat je hoort"
+      },
+      "after": {
+        "chapter": 2,
+        "file": "2-discern.webp",
+        "alt": "Gemeenteleden bespreken een brief zorgvuldig",
+        "scene": "Onderzoek wat je hoort",
+        "verse": 2,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "2tessalonicensen",
+      "before": {
+        "chapter": 3,
+        "file": "3-labor.webp",
+        "alt": "Mensen werken samen in een werkplaats",
+        "scene": "Werk en verantwoordelijkheid"
+      },
+      "after": {
+        "chapter": 3,
+        "file": "3-labor.webp",
+        "alt": "Mensen werken samen in een werkplaats",
+        "scene": "Werk en verantwoordelijkheid",
+        "verse": 8,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "2tessalonicensen",
+      "before": {
+        "chapter": 1,
+        "verse": 3,
+        "file": "1-3.webp",
+        "alt": "Beeld bij 2tessalonicensen 1: Geloof en liefde groeien",
+        "scene": "Geloof en liefde groeien"
+      },
+      "after": {
+        "chapter": 1,
+        "verse": 3,
+        "file": "1-3.webp",
+        "alt": "Beeld bij 2tessalonicensen 1: Geloof en liefde groeien",
+        "scene": "Geloof en liefde groeien",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "2tessalonicensen",
+      "before": {
+        "chapter": 1,
+        "verse": 11,
+        "file": "1-11.webp",
+        "alt": "Beeld bij 2tessalonicensen 1: Gebed voor de roeping",
+        "scene": "Gebed voor de roeping"
+      },
+      "after": {
+        "chapter": 1,
+        "verse": 11,
+        "file": "1-11.webp",
+        "alt": "Beeld bij 2tessalonicensen 1: Gebed voor de roeping",
+        "scene": "Gebed voor de roeping",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "2tessalonicensen",
+      "before": {
+        "chapter": 2,
+        "verse": 15,
+        "file": "2-15.webp",
+        "alt": "Beeld bij 2tessalonicensen 2: Houd vast aan wat geleerd is",
+        "scene": "Houd vast aan wat geleerd is"
+      },
+      "after": {
+        "chapter": 2,
+        "verse": 15,
+        "file": "2-15.webp",
+        "alt": "Beeld bij 2tessalonicensen 2: Houd vast aan wat geleerd is",
+        "scene": "Houd vast aan wat geleerd is",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "2tessalonicensen",
+      "before": {
+        "chapter": 2,
+        "verse": 17,
+        "file": "2-17.webp",
+        "alt": "Beeld bij 2tessalonicensen 2: Sterk in goed woord en werk",
+        "scene": "Sterk in goed woord en werk"
+      },
+      "after": {
+        "chapter": 2,
+        "verse": 17,
+        "file": "2-17.webp",
+        "alt": "Beeld bij 2tessalonicensen 2: Sterk in goed woord en werk",
+        "scene": "Sterk in goed woord en werk",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "2tessalonicensen",
+      "before": {
+        "chapter": 3,
+        "verse": 13,
+        "file": "3-13.webp",
+        "alt": "Beeld bij 2tessalonicensen 3: Niet moe van goeddoen",
+        "scene": "Niet moe van goeddoen"
+      },
+      "after": {
+        "chapter": 3,
+        "verse": 13,
+        "file": "3-13.webp",
+        "alt": "Beeld bij 2tessalonicensen 3: Niet moe van goeddoen",
+        "scene": "Niet moe van goeddoen",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "2tessalonicensen",
+      "before": {
+        "chapter": 3,
+        "verse": 16,
+        "file": "3-16.webp",
+        "alt": "Beeld bij 2tessalonicensen 3: Vrede op elke manier",
+        "scene": "Vrede op elke manier"
+      },
+      "after": {
+        "chapter": 3,
+        "verse": 16,
+        "file": "3-16.webp",
+        "alt": "Beeld bij 2tessalonicensen 3: Vrede op elke manier",
+        "scene": "Vrede op elke manier",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "1timotheus",
+      "before": {
+        "chapter": 1,
+        "file": "1-mentor.webp",
+        "alt": "Paulus geeft Timotheüs raad",
+        "scene": "Paulus en Timotheüs"
+      },
+      "after": {
+        "chapter": 1,
+        "file": "1-mentor.webp",
+        "alt": "Paulus geeft Timotheüs raad",
+        "scene": "Paulus en Timotheüs",
+        "verse": 2,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "1timotheus",
+      "before": {
+        "chapter": 3,
+        "file": "3-community.webp",
+        "alt": "Gemeenteleiders ontvangen nieuwe leden",
+        "scene": "Zorg voor de gemeente"
+      },
+      "after": {
+        "chapter": 3,
+        "file": "3-community.webp",
+        "alt": "Gemeenteleiders ontvangen nieuwe leden",
+        "scene": "Zorg voor de gemeente",
+        "verse": 5,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "1timotheus",
+      "before": {
+        "chapter": 6,
+        "file": "6-content.webp",
+        "alt": "Een gezin deelt eenvoudige levensmiddelen",
+        "scene": "Tevredenheid en vrijgevigheid"
+      },
+      "after": {
+        "chapter": 6,
+        "file": "6-content.webp",
+        "alt": "Een gezin deelt eenvoudige levensmiddelen",
+        "scene": "Tevredenheid en vrijgevigheid",
+        "verse": 6,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "1timotheus",
+      "before": {
+        "chapter": 1,
+        "verse": 5,
+        "file": "1-5.webp",
+        "alt": "Beeld bij 1timotheus 1: Liefde uit een zuiver hart",
+        "scene": "Liefde uit een zuiver hart"
+      },
+      "after": {
+        "chapter": 1,
+        "verse": 5,
+        "file": "1-5.webp",
+        "alt": "Beeld bij 1timotheus 1: Liefde uit een zuiver hart",
+        "scene": "Liefde uit een zuiver hart",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "1timotheus",
+      "before": {
+        "chapter": 1,
+        "verse": 15,
+        "file": "1-15.webp",
+        "alt": "Beeld bij 1timotheus 1: Barmhartigheid voor zondaars",
+        "scene": "Barmhartigheid voor zondaars"
+      },
+      "after": {
+        "chapter": 1,
+        "verse": 15,
+        "file": "1-15.webp",
+        "alt": "Beeld bij 1timotheus 1: Barmhartigheid voor zondaars",
+        "scene": "Barmhartigheid voor zondaars",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "1timotheus",
+      "before": {
+        "chapter": 2,
+        "verse": 1,
+        "file": "2-1.webp",
+        "alt": "Beeld bij 1timotheus 2: Bidden voor alle mensen",
+        "scene": "Bidden voor alle mensen"
+      },
+      "after": {
+        "chapter": 2,
+        "verse": 1,
+        "file": "2-1.webp",
+        "alt": "Beeld bij 1timotheus 2: Bidden voor alle mensen",
+        "scene": "Bidden voor alle mensen",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "1timotheus",
+      "before": {
+        "chapter": 2,
+        "verse": 8,
+        "file": "2-8.webp",
+        "alt": "Beeld bij 1timotheus 2: Heilige handen zonder ruzie",
+        "scene": "Heilige handen zonder ruzie"
+      },
+      "after": {
+        "chapter": 2,
+        "verse": 8,
+        "file": "2-8.webp",
+        "alt": "Beeld bij 1timotheus 2: Heilige handen zonder ruzie",
+        "scene": "Heilige handen zonder ruzie",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "1timotheus",
+      "before": {
+        "chapter": 2,
+        "verse": 10,
+        "file": "2-10.webp",
+        "alt": "Beeld bij 1timotheus 2: Versierd met goede werken",
+        "scene": "Versierd met goede werken"
+      },
+      "after": {
+        "chapter": 2,
+        "verse": 10,
+        "file": "2-10.webp",
+        "alt": "Beeld bij 1timotheus 2: Versierd met goede werken",
+        "scene": "Versierd met goede werken",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "1timotheus",
+      "before": {
+        "chapter": 3,
+        "verse": 2,
+        "file": "3-2.webp",
+        "alt": "Beeld bij 1timotheus 3: Gastvrij en bekwaam om te leren",
+        "scene": "Gastvrij en bekwaam om te leren"
+      },
+      "after": {
+        "chapter": 3,
+        "verse": 2,
+        "file": "3-2.webp",
+        "alt": "Beeld bij 1timotheus 3: Gastvrij en bekwaam om te leren",
+        "scene": "Gastvrij en bekwaam om te leren",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "1timotheus",
+      "before": {
+        "chapter": 3,
+        "verse": 15,
+        "file": "3-15.webp",
+        "alt": "Beeld bij 1timotheus 3: Pilaar en fundament van waarheid",
+        "scene": "Pilaar en fundament van waarheid"
+      },
+      "after": {
+        "chapter": 3,
+        "verse": 15,
+        "file": "3-15.webp",
+        "alt": "Beeld bij 1timotheus 3: Pilaar en fundament van waarheid",
+        "scene": "Pilaar en fundament van waarheid",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "1timotheus",
+      "before": {
+        "chapter": 4,
+        "verse": 4,
+        "file": "4-4.webp",
+        "alt": "Beeld bij 1timotheus 4: Dankbaar aannemen",
+        "scene": "Dankbaar aannemen"
+      },
+      "after": {
+        "chapter": 4,
+        "verse": 4,
+        "file": "4-4.webp",
+        "alt": "Beeld bij 1timotheus 4: Dankbaar aannemen",
+        "scene": "Dankbaar aannemen",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "1timotheus",
+      "before": {
+        "chapter": 4,
+        "verse": 12,
+        "file": "4-12.webp",
+        "alt": "Beeld bij 1timotheus 4: Een voorbeeld ondanks jonge leeftijd",
+        "scene": "Een voorbeeld ondanks jonge leeftijd"
+      },
+      "after": {
+        "chapter": 4,
+        "verse": 12,
+        "file": "4-12.webp",
+        "alt": "Beeld bij 1timotheus 4: Een voorbeeld ondanks jonge leeftijd",
+        "scene": "Een voorbeeld ondanks jonge leeftijd",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "1timotheus",
+      "before": {
+        "chapter": 4,
+        "verse": 13,
+        "file": "4-13.webp",
+        "alt": "Beeld bij 1timotheus 4: Voorlezen en bemoedigen",
+        "scene": "Voorlezen en bemoedigen"
+      },
+      "after": {
+        "chapter": 4,
+        "verse": 13,
+        "file": "4-13.webp",
+        "alt": "Beeld bij 1timotheus 4: Voorlezen en bemoedigen",
+        "scene": "Voorlezen en bemoedigen",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "1timotheus",
+      "before": {
+        "chapter": 5,
+        "verse": 3,
+        "file": "5-3.webp",
+        "alt": "Beeld bij 1timotheus 5: Eer de weduwen",
+        "scene": "Eer de weduwen"
+      },
+      "after": {
+        "chapter": 5,
+        "verse": 3,
+        "file": "5-3.webp",
+        "alt": "Beeld bij 1timotheus 5: Eer de weduwen",
+        "scene": "Eer de weduwen",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "1timotheus",
+      "before": {
+        "chapter": 5,
+        "verse": 8,
+        "file": "5-8.webp",
+        "alt": "Beeld bij 1timotheus 5: Zorg voor de huisgenoten",
+        "scene": "Zorg voor de huisgenoten"
+      },
+      "after": {
+        "chapter": 5,
+        "verse": 8,
+        "file": "5-8.webp",
+        "alt": "Beeld bij 1timotheus 5: Zorg voor de huisgenoten",
+        "scene": "Zorg voor de huisgenoten",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "1timotheus",
+      "before": {
+        "chapter": 5,
+        "verse": 18,
+        "file": "5-18.webp",
+        "alt": "Beeld bij 1timotheus 5: De arbeider zijn loon",
+        "scene": "De arbeider zijn loon"
+      },
+      "after": {
+        "chapter": 5,
+        "verse": 18,
+        "file": "5-18.webp",
+        "alt": "Beeld bij 1timotheus 5: De arbeider zijn loon",
+        "scene": "De arbeider zijn loon",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "1timotheus",
+      "before": {
+        "chapter": 6,
+        "verse": 11,
+        "file": "6-11.webp",
+        "alt": "Beeld bij 1timotheus 6: Jaag naar zachtmoedigheid",
+        "scene": "Jaag naar zachtmoedigheid"
+      },
+      "after": {
+        "chapter": 6,
+        "verse": 11,
+        "file": "6-11.webp",
+        "alt": "Beeld bij 1timotheus 6: Jaag naar zachtmoedigheid",
+        "scene": "Jaag naar zachtmoedigheid",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "1timotheus",
+      "before": {
+        "chapter": 6,
+        "verse": 18,
+        "file": "6-18.webp",
+        "alt": "Beeld bij 1timotheus 6: Rijk in goede werken",
+        "scene": "Rijk in goede werken"
+      },
+      "after": {
+        "chapter": 6,
+        "verse": 18,
+        "file": "6-18.webp",
+        "alt": "Beeld bij 1timotheus 6: Rijk in goede werken",
+        "scene": "Rijk in goede werken",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "2timotheus",
+      "before": {
+        "chapter": 1,
+        "file": "1-remembrance.webp",
+        "alt": "Timotheüs denkt aan het geloof van zijn familie",
+        "scene": "Geloof van generatie op generatie"
+      },
+      "after": {
+        "chapter": 1,
+        "file": "1-remembrance.webp",
+        "alt": "Timotheüs denkt aan het geloof van zijn familie",
+        "scene": "Geloof van generatie op generatie",
+        "verse": 5,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "2timotheus",
+      "before": {
+        "chapter": 2,
+        "file": "2-teach.webp",
+        "alt": "Timotheüs onderwijst een kleine groep",
+        "scene": "Draag het onderwijs over"
+      },
+      "after": {
+        "chapter": 2,
+        "file": "2-teach.webp",
+        "alt": "Timotheüs onderwijst een kleine groep",
+        "scene": "Draag het onderwijs over",
+        "verse": 2,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "2timotheus",
+      "before": {
+        "chapter": 4,
+        "file": "4-finish.webp",
+        "alt": "Een oudere Paulus kijkt terug op zijn reis",
+        "scene": "De wedloop voltooid"
+      },
+      "after": {
+        "chapter": 4,
+        "file": "4-finish.webp",
+        "alt": "Een oudere Paulus kijkt terug op zijn reis",
+        "scene": "De wedloop voltooid",
+        "verse": 7,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "2timotheus",
+      "before": {
+        "chapter": 1,
+        "verse": 7,
+        "file": "1-7.webp",
+        "alt": "Beeld bij 2timotheus 1: Kracht liefde en bezonnenheid",
+        "scene": "Kracht liefde en bezonnenheid"
+      },
+      "after": {
+        "chapter": 1,
+        "verse": 7,
+        "file": "1-7.webp",
+        "alt": "Beeld bij 2timotheus 1: Kracht liefde en bezonnenheid",
+        "scene": "Kracht liefde en bezonnenheid",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "2timotheus",
+      "before": {
+        "chapter": 1,
+        "verse": 16,
+        "file": "1-16.webp",
+        "alt": "Beeld bij 2timotheus 1: Onesiforus schaamt zich niet",
+        "scene": "Onesiforus schaamt zich niet"
+      },
+      "after": {
+        "chapter": 1,
+        "verse": 16,
+        "file": "1-16.webp",
+        "alt": "Beeld bij 2timotheus 1: Onesiforus schaamt zich niet",
+        "scene": "Onesiforus schaamt zich niet",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "2timotheus",
+      "before": {
+        "chapter": 2,
+        "verse": 6,
+        "file": "2-6.webp",
+        "alt": "Beeld bij 2timotheus 2: De hardwerkende boer",
+        "scene": "De hardwerkende boer"
+      },
+      "after": {
+        "chapter": 2,
+        "verse": 6,
+        "file": "2-6.webp",
+        "alt": "Beeld bij 2timotheus 2: De hardwerkende boer",
+        "scene": "De hardwerkende boer",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "2timotheus",
+      "before": {
+        "chapter": 2,
+        "verse": 24,
+        "file": "2-24.webp",
+        "alt": "Beeld bij 2timotheus 2: Vriendelijk en geduldig",
+        "scene": "Vriendelijk en geduldig"
+      },
+      "after": {
+        "chapter": 2,
+        "verse": 24,
+        "file": "2-24.webp",
+        "alt": "Beeld bij 2timotheus 2: Vriendelijk en geduldig",
+        "scene": "Vriendelijk en geduldig",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "2timotheus",
+      "before": {
+        "chapter": 3,
+        "verse": 14,
+        "file": "3-14.webp",
+        "alt": "Beeld bij 2timotheus 3: Blijf bij wat je leerde",
+        "scene": "Blijf bij wat je leerde"
+      },
+      "after": {
+        "chapter": 3,
+        "verse": 14,
+        "file": "3-14.webp",
+        "alt": "Beeld bij 2timotheus 3: Blijf bij wat je leerde",
+        "scene": "Blijf bij wat je leerde",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "2timotheus",
+      "before": {
+        "chapter": 3,
+        "verse": 15,
+        "file": "3-15.webp",
+        "alt": "Beeld bij 2timotheus 3: Van kinds af de Schriften",
+        "scene": "Van kinds af de Schriften"
+      },
+      "after": {
+        "chapter": 3,
+        "verse": 15,
+        "file": "3-15.webp",
+        "alt": "Beeld bij 2timotheus 3: Van kinds af de Schriften",
+        "scene": "Van kinds af de Schriften",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "2timotheus",
+      "before": {
+        "chapter": 3,
+        "verse": 17,
+        "file": "3-17.webp",
+        "alt": "Beeld bij 2timotheus 3: Toegerust voor goed werk",
+        "scene": "Toegerust voor goed werk"
+      },
+      "after": {
+        "chapter": 3,
+        "verse": 17,
+        "file": "3-17.webp",
+        "alt": "Beeld bij 2timotheus 3: Toegerust voor goed werk",
+        "scene": "Toegerust voor goed werk",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "2timotheus",
+      "before": {
+        "chapter": 4,
+        "verse": 2,
+        "file": "4-2.webp",
+        "alt": "Beeld bij 2timotheus 4: Verkondig met geduld",
+        "scene": "Verkondig met geduld"
+      },
+      "after": {
+        "chapter": 4,
+        "verse": 2,
+        "file": "4-2.webp",
+        "alt": "Beeld bij 2timotheus 4: Verkondig met geduld",
+        "scene": "Verkondig met geduld",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "2timotheus",
+      "before": {
+        "chapter": 4,
+        "verse": 13,
+        "file": "4-13.webp",
+        "alt": "Beeld bij 2timotheus 4: Mantel en perkamenten",
+        "scene": "Mantel en perkamenten"
+      },
+      "after": {
+        "chapter": 4,
+        "verse": 13,
+        "file": "4-13.webp",
+        "alt": "Beeld bij 2timotheus 4: Mantel en perkamenten",
+        "scene": "Mantel en perkamenten",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "titus",
+      "before": {
+        "chapter": 1,
+        "file": "1-crete.webp",
+        "alt": "Titus komt aan op Kreta",
+        "scene": "Titus op Kreta"
+      },
+      "after": {
+        "chapter": 1,
+        "file": "1-crete.webp",
+        "alt": "Titus komt aan op Kreta",
+        "scene": "Titus op Kreta",
+        "verse": 5,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "titus",
+      "before": {
+        "chapter": 2,
+        "file": "2-generations.webp",
+        "alt": "Oudere en jongere gemeenteleden spreken samen",
+        "scene": "Leven als gemeenschap"
+      },
+      "after": {
+        "chapter": 2,
+        "file": "2-generations.webp",
+        "alt": "Oudere en jongere gemeenteleden spreken samen",
+        "scene": "Leven als gemeenschap",
+        "verse": 2,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "titus",
+      "before": {
+        "chapter": 3,
+        "file": "3-goodworks.webp",
+        "alt": "Gemeenteleden helpen reizigers",
+        "scene": "Wees bereid goed te doen"
+      },
+      "after": {
+        "chapter": 3,
+        "file": "3-goodworks.webp",
+        "alt": "Gemeenteleden helpen reizigers",
+        "scene": "Wees bereid goed te doen",
+        "verse": 1,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "titus",
+      "before": {
+        "chapter": 1,
+        "verse": 5,
+        "file": "1-5.webp",
+        "alt": "Beeld bij Titus 1: Oudsten in elke stad",
+        "scene": "Oudsten in elke stad"
+      },
+      "after": {
+        "chapter": 1,
+        "verse": 5,
+        "file": "1-5.webp",
+        "alt": "Beeld bij Titus 1: Oudsten in elke stad",
+        "scene": "Oudsten in elke stad",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "titus",
+      "before": {
+        "chapter": 1,
+        "verse": 8,
+        "file": "1-8.webp",
+        "alt": "Beeld bij Titus 1: Gastvrij en rechtvaardig",
+        "scene": "Gastvrij en rechtvaardig"
+      },
+      "after": {
+        "chapter": 1,
+        "verse": 8,
+        "file": "1-8.webp",
+        "alt": "Beeld bij Titus 1: Gastvrij en rechtvaardig",
+        "scene": "Gastvrij en rechtvaardig",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "titus",
+      "before": {
+        "chapter": 2,
+        "verse": 7,
+        "file": "2-7.webp",
+        "alt": "Beeld bij Titus 2: Een voorbeeld van goede werken",
+        "scene": "Een voorbeeld van goede werken"
+      },
+      "after": {
+        "chapter": 2,
+        "verse": 7,
+        "file": "2-7.webp",
+        "alt": "Beeld bij Titus 2: Een voorbeeld van goede werken",
+        "scene": "Een voorbeeld van goede werken",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "titus",
+      "before": {
+        "chapter": 2,
+        "verse": 12,
+        "file": "2-12.webp",
+        "alt": "Beeld bij Titus 2: Bezonnen en rechtvaardig leven",
+        "scene": "Bezonnen en rechtvaardig leven"
+      },
+      "after": {
+        "chapter": 2,
+        "verse": 12,
+        "file": "2-12.webp",
+        "alt": "Beeld bij Titus 2: Bezonnen en rechtvaardig leven",
+        "scene": "Bezonnen en rechtvaardig leven",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "titus",
+      "before": {
+        "chapter": 3,
+        "verse": 2,
+        "file": "3-2.webp",
+        "alt": "Beeld bij Titus 3: Zachtmoedig voor iedereen",
+        "scene": "Zachtmoedig voor iedereen"
+      },
+      "after": {
+        "chapter": 3,
+        "verse": 2,
+        "file": "3-2.webp",
+        "alt": "Beeld bij Titus 3: Zachtmoedig voor iedereen",
+        "scene": "Zachtmoedig voor iedereen",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "titus",
+      "before": {
+        "chapter": 3,
+        "verse": 5,
+        "file": "3-5.webp",
+        "alt": "Beeld bij Titus 3: Het bad van vernieuwing",
+        "scene": "Het bad van vernieuwing"
+      },
+      "after": {
+        "chapter": 3,
+        "verse": 5,
+        "file": "3-5.webp",
+        "alt": "Beeld bij Titus 3: Het bad van vernieuwing",
+        "scene": "Het bad van vernieuwing",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "filemon",
+      "before": {
+        "chapter": 1,
+        "file": "1-letter.webp",
+        "alt": "Paulus schrijft een persoonlijke brief",
+        "scene": "De brief aan Filemon"
+      },
+      "after": {
+        "chapter": 1,
+        "file": "1-letter.webp",
+        "alt": "Paulus schrijft een persoonlijke brief",
+        "scene": "De brief aan Filemon",
+        "verse": 1,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "filemon",
+      "before": {
+        "chapter": 1,
+        "file": "1-return.webp",
+        "alt": "Onesimus keert terug naar Filemons huis",
+        "scene": "Onesimus komt terug"
+      },
+      "after": {
+        "chapter": 1,
+        "file": "1-return.webp",
+        "alt": "Onesimus keert terug naar Filemons huis",
+        "scene": "Onesimus komt terug",
+        "verse": 11,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "filemon",
+      "before": {
+        "chapter": 1,
+        "file": "1-welcome.webp",
+        "alt": "Filemon ontvangt Onesimus bij de deur",
+        "scene": "Ontvang hem als een broer"
+      },
+      "after": {
+        "chapter": 1,
+        "file": "1-welcome.webp",
+        "alt": "Filemon ontvangt Onesimus bij de deur",
+        "scene": "Ontvang hem als een broer",
+        "verse": 17,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "hebreeen",
+      "before": {
+        "chapter": 4,
+        "file": "4-rest.webp",
+        "alt": "Een gezin rust op een stille dag",
+        "scene": "De rust"
+      },
+      "after": {
+        "chapter": 4,
+        "file": "4-rest.webp",
+        "alt": "Een gezin rust op een stille dag",
+        "scene": "De rust",
+        "verse": 9,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "hebreeen",
+      "before": {
+        "chapter": 1,
+        "verse": 1,
+        "file": "1-1.webp",
+        "alt": "Beeld bij Hebreeen 1: Gesproken door de profeten",
+        "scene": "Gesproken door de profeten"
+      },
+      "after": {
+        "chapter": 1,
+        "verse": 1,
+        "file": "1-1.webp",
+        "alt": "Beeld bij Hebreeen 1: Gesproken door de profeten",
+        "scene": "Gesproken door de profeten",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "hebreeen",
+      "before": {
+        "chapter": 1,
+        "verse": 10,
+        "file": "1-10.webp",
+        "alt": "Beeld bij Hebreeen 1: Aarde en hemel gegrondvest",
+        "scene": "Aarde en hemel gegrondvest"
+      },
+      "after": {
+        "chapter": 1,
+        "verse": 10,
+        "file": "1-10.webp",
+        "alt": "Beeld bij Hebreeen 1: Aarde en hemel gegrondvest",
+        "scene": "Aarde en hemel gegrondvest",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "hebreeen",
+      "before": {
+        "chapter": 1,
+        "verse": 14,
+        "file": "1-14.webp",
+        "alt": "Beeld bij Hebreeen 1: Dienende engelen",
+        "scene": "Dienende engelen"
+      },
+      "after": {
+        "chapter": 1,
+        "verse": 14,
+        "file": "1-14.webp",
+        "alt": "Beeld bij Hebreeen 1: Dienende engelen",
+        "scene": "Dienende engelen",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "hebreeen",
+      "before": {
+        "chapter": 2,
+        "verse": 1,
+        "file": "2-1.webp",
+        "alt": "Beeld bij Hebreeen 2: Niet wegdrijven",
+        "scene": "Niet wegdrijven"
+      },
+      "after": {
+        "chapter": 2,
+        "verse": 1,
+        "file": "2-1.webp",
+        "alt": "Beeld bij Hebreeen 2: Niet wegdrijven",
+        "scene": "Niet wegdrijven",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "hebreeen",
+      "before": {
+        "chapter": 2,
+        "verse": 12,
+        "file": "2-12.webp",
+        "alt": "Beeld bij Hebreeen 2: Midden in de gemeenschap zingen",
+        "scene": "Midden in de gemeenschap zingen"
+      },
+      "after": {
+        "chapter": 2,
+        "verse": 12,
+        "file": "2-12.webp",
+        "alt": "Beeld bij Hebreeen 2: Midden in de gemeenschap zingen",
+        "scene": "Midden in de gemeenschap zingen",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "hebreeen",
+      "before": {
+        "chapter": 2,
+        "verse": 18,
+        "file": "2-18.webp",
+        "alt": "Beeld bij Hebreeen 2: Hulp in beproeving",
+        "scene": "Hulp in beproeving"
+      },
+      "after": {
+        "chapter": 2,
+        "verse": 18,
+        "file": "2-18.webp",
+        "alt": "Beeld bij Hebreeen 2: Hulp in beproeving",
+        "scene": "Hulp in beproeving",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "hebreeen",
+      "before": {
+        "chapter": 3,
+        "verse": 3,
+        "file": "3-3.webp",
+        "alt": "Beeld bij Hebreeen 3: De bouwer en het huis",
+        "scene": "De bouwer en het huis"
+      },
+      "after": {
+        "chapter": 3,
+        "verse": 3,
+        "file": "3-3.webp",
+        "alt": "Beeld bij Hebreeen 3: De bouwer en het huis",
+        "scene": "De bouwer en het huis",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "hebreeen",
+      "before": {
+        "chapter": 3,
+        "verse": 8,
+        "file": "3-8.webp",
+        "alt": "Beeld bij Hebreeen 3: Verhard je hart niet",
+        "scene": "Verhard je hart niet"
+      },
+      "after": {
+        "chapter": 3,
+        "verse": 8,
+        "file": "3-8.webp",
+        "alt": "Beeld bij Hebreeen 3: Verhard je hart niet",
+        "scene": "Verhard je hart niet",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "hebreeen",
+      "before": {
+        "chapter": 3,
+        "verse": 13,
+        "file": "3-13.webp",
+        "alt": "Beeld bij Hebreeen 3: Bemoedig elkaar dagelijks",
+        "scene": "Bemoedig elkaar dagelijks"
+      },
+      "after": {
+        "chapter": 3,
+        "verse": 13,
+        "file": "3-13.webp",
+        "alt": "Beeld bij Hebreeen 3: Bemoedig elkaar dagelijks",
+        "scene": "Bemoedig elkaar dagelijks",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "hebreeen",
+      "before": {
+        "chapter": 4,
+        "verse": 12,
+        "file": "4-12.webp",
+        "alt": "Beeld bij Hebreeen 4: Het levende krachtige woord",
+        "scene": "Het levende krachtige woord"
+      },
+      "after": {
+        "chapter": 4,
+        "verse": 12,
+        "file": "4-12.webp",
+        "alt": "Beeld bij Hebreeen 4: Het levende krachtige woord",
+        "scene": "Het levende krachtige woord",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "hebreeen",
+      "before": {
+        "chapter": 4,
+        "verse": 16,
+        "file": "4-16.webp",
+        "alt": "Beeld bij Hebreeen 4: Vrijmoedig om hulp vragen",
+        "scene": "Vrijmoedig om hulp vragen"
+      },
+      "after": {
+        "chapter": 4,
+        "verse": 16,
+        "file": "4-16.webp",
+        "alt": "Beeld bij Hebreeen 4: Vrijmoedig om hulp vragen",
+        "scene": "Vrijmoedig om hulp vragen",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "hebreeen",
+      "before": {
+        "chapter": 5,
+        "verse": 1,
+        "file": "5-1.webp",
+        "alt": "Beeld bij Hebreeen 5: Een priester uit de mensen",
+        "scene": "Een priester uit de mensen"
+      },
+      "after": {
+        "chapter": 5,
+        "verse": 1,
+        "file": "5-1.webp",
+        "alt": "Beeld bij Hebreeen 5: Een priester uit de mensen",
+        "scene": "Een priester uit de mensen",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "hebreeen",
+      "before": {
+        "chapter": 5,
+        "verse": 7,
+        "file": "5-7.webp",
+        "alt": "Beeld bij Hebreeen 5: Gebed met tranen",
+        "scene": "Gebed met tranen"
+      },
+      "after": {
+        "chapter": 5,
+        "verse": 7,
+        "file": "5-7.webp",
+        "alt": "Beeld bij Hebreeen 5: Gebed met tranen",
+        "scene": "Gebed met tranen",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "hebreeen",
+      "before": {
+        "chapter": 5,
+        "verse": 14,
+        "file": "5-14.webp",
+        "alt": "Beeld bij Hebreeen 5: Geoefend onderscheidingsvermogen",
+        "scene": "Geoefend onderscheidingsvermogen"
+      },
+      "after": {
+        "chapter": 5,
+        "verse": 14,
+        "file": "5-14.webp",
+        "alt": "Beeld bij Hebreeen 5: Geoefend onderscheidingsvermogen",
+        "scene": "Geoefend onderscheidingsvermogen",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "hebreeen",
+      "before": {
+        "chapter": 6,
+        "verse": 7,
+        "file": "6-7.webp",
+        "alt": "Beeld bij Hebreeen 6: Regen en goede oogst",
+        "scene": "Regen en goede oogst"
+      },
+      "after": {
+        "chapter": 6,
+        "verse": 7,
+        "file": "6-7.webp",
+        "alt": "Beeld bij Hebreeen 6: Regen en goede oogst",
+        "scene": "Regen en goede oogst",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "hebreeen",
+      "before": {
+        "chapter": 6,
+        "verse": 10,
+        "file": "6-10.webp",
+        "alt": "Beeld bij Hebreeen 6: Dienstwerk wordt niet vergeten",
+        "scene": "Dienstwerk wordt niet vergeten"
+      },
+      "after": {
+        "chapter": 6,
+        "verse": 10,
+        "file": "6-10.webp",
+        "alt": "Beeld bij Hebreeen 6: Dienstwerk wordt niet vergeten",
+        "scene": "Dienstwerk wordt niet vergeten",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "hebreeen",
+      "before": {
+        "chapter": 6,
+        "verse": 19,
+        "file": "6-19.webp",
+        "alt": "Beeld bij Hebreeen 6: Een zeker anker van de ziel",
+        "scene": "Een zeker anker van de ziel"
+      },
+      "after": {
+        "chapter": 6,
+        "verse": 19,
+        "file": "6-19.webp",
+        "alt": "Beeld bij Hebreeen 6: Een zeker anker van de ziel",
+        "scene": "Een zeker anker van de ziel",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "hebreeen",
+      "before": {
+        "chapter": 10,
+        "file": "10-gather.webp",
+        "alt": "Gelovigen komen samen om elkaar te bemoedigen",
+        "scene": "Blijf samenkomen"
+      },
+      "after": {
+        "chapter": 10,
+        "file": "10-gather.webp",
+        "alt": "Gelovigen komen samen om elkaar te bemoedigen",
+        "scene": "Blijf samenkomen",
+        "verse": 25,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "hebreeen",
+      "before": {
+        "chapter": 12,
+        "file": "12-race.webp",
+        "alt": "Een hardloper loopt doelgericht over een oude weg",
+        "scene": "Loop met volharding"
+      },
+      "after": {
+        "chapter": 12,
+        "file": "12-race.webp",
+        "alt": "Een hardloper loopt doelgericht over een oude weg",
+        "scene": "Loop met volharding",
+        "verse": 1,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "hebreeen",
+      "before": {
+        "chapter": 7,
+        "verse": 1,
+        "file": "7-1.webp",
+        "alt": "Beeld bij Hebreeen 7: Melchizedek zegent Abraham",
+        "scene": "Melchizedek zegent Abraham"
+      },
+      "after": {
+        "chapter": 7,
+        "verse": 1,
+        "file": "7-1.webp",
+        "alt": "Beeld bij Hebreeen 7: Melchizedek zegent Abraham",
+        "scene": "Melchizedek zegent Abraham",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "hebreeen",
+      "before": {
+        "chapter": 7,
+        "verse": 2,
+        "file": "7-2.webp",
+        "alt": "Beeld bij Hebreeen 7: Een tiende gegeven",
+        "scene": "Een tiende gegeven"
+      },
+      "after": {
+        "chapter": 7,
+        "verse": 2,
+        "file": "7-2.webp",
+        "alt": "Beeld bij Hebreeen 7: Een tiende gegeven",
+        "scene": "Een tiende gegeven",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "hebreeen",
+      "before": {
+        "chapter": 7,
+        "verse": 25,
+        "file": "7-25.webp",
+        "alt": "Beeld bij Hebreeen 7: Altijd voor hen bidden",
+        "scene": "Altijd voor hen bidden"
+      },
+      "after": {
+        "chapter": 7,
+        "verse": 25,
+        "file": "7-25.webp",
+        "alt": "Beeld bij Hebreeen 7: Altijd voor hen bidden",
+        "scene": "Altijd voor hen bidden",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "hebreeen",
+      "before": {
+        "chapter": 8,
+        "verse": 5,
+        "file": "8-5.webp",
+        "alt": "Beeld bij Hebreeen 8: Naar het voorbeeld gebouwd",
+        "scene": "Naar het voorbeeld gebouwd"
+      },
+      "after": {
+        "chapter": 8,
+        "verse": 5,
+        "file": "8-5.webp",
+        "alt": "Beeld bij Hebreeen 8: Naar het voorbeeld gebouwd",
+        "scene": "Naar het voorbeeld gebouwd",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "hebreeen",
+      "before": {
+        "chapter": 8,
+        "verse": 10,
+        "file": "8-10.webp",
+        "alt": "Beeld bij Hebreeen 8: In verstand en hart",
+        "scene": "In verstand en hart"
+      },
+      "after": {
+        "chapter": 8,
+        "verse": 10,
+        "file": "8-10.webp",
+        "alt": "Beeld bij Hebreeen 8: In verstand en hart",
+        "scene": "In verstand en hart",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "hebreeen",
+      "before": {
+        "chapter": 8,
+        "verse": 12,
+        "file": "8-12.webp",
+        "alt": "Beeld bij Hebreeen 8: Genadig en vergevend",
+        "scene": "Genadig en vergevend"
+      },
+      "after": {
+        "chapter": 8,
+        "verse": 12,
+        "file": "8-12.webp",
+        "alt": "Beeld bij Hebreeen 8: Genadig en vergevend",
+        "scene": "Genadig en vergevend",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "hebreeen",
+      "before": {
+        "chapter": 9,
+        "verse": 2,
+        "file": "9-2.webp",
+        "alt": "Beeld bij Hebreeen 9: Het voorste deel van de tent",
+        "scene": "Het voorste deel van de tent"
+      },
+      "after": {
+        "chapter": 9,
+        "verse": 2,
+        "file": "9-2.webp",
+        "alt": "Beeld bij Hebreeen 9: Het voorste deel van de tent",
+        "scene": "Het voorste deel van de tent",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "hebreeen",
+      "before": {
+        "chapter": 9,
+        "verse": 4,
+        "file": "9-4.webp",
+        "alt": "Beeld bij Hebreeen 9: De ark van het verbond",
+        "scene": "De ark van het verbond"
+      },
+      "after": {
+        "chapter": 9,
+        "verse": 4,
+        "file": "9-4.webp",
+        "alt": "Beeld bij Hebreeen 9: De ark van het verbond",
+        "scene": "De ark van het verbond",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "hebreeen",
+      "before": {
+        "chapter": 9,
+        "verse": 14,
+        "file": "9-14.webp",
+        "alt": "Beeld bij Hebreeen 9: Een gereinigd geweten om te dienen",
+        "scene": "Een gereinigd geweten om te dienen"
+      },
+      "after": {
+        "chapter": 9,
+        "verse": 14,
+        "file": "9-14.webp",
+        "alt": "Beeld bij Hebreeen 9: Een gereinigd geweten om te dienen",
+        "scene": "Een gereinigd geweten om te dienen",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "hebreeen",
+      "before": {
+        "chapter": 10,
+        "verse": 23,
+        "file": "10-23.webp",
+        "alt": "Beeld bij Hebreeen 10: Onwrikbaar vasthouden aan hoop",
+        "scene": "Onwrikbaar vasthouden aan hoop"
+      },
+      "after": {
+        "chapter": 10,
+        "verse": 23,
+        "file": "10-23.webp",
+        "alt": "Beeld bij Hebreeen 10: Onwrikbaar vasthouden aan hoop",
+        "scene": "Onwrikbaar vasthouden aan hoop",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "hebreeen",
+      "before": {
+        "chapter": 10,
+        "verse": 24,
+        "file": "10-24.webp",
+        "alt": "Beeld bij Hebreeen 10: Aansporen tot liefde en goed werk",
+        "scene": "Aansporen tot liefde en goed werk"
+      },
+      "after": {
+        "chapter": 10,
+        "verse": 24,
+        "file": "10-24.webp",
+        "alt": "Beeld bij Hebreeen 10: Aansporen tot liefde en goed werk",
+        "scene": "Aansporen tot liefde en goed werk",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "hebreeen",
+      "before": {
+        "chapter": 11,
+        "verse": 7,
+        "file": "11-7.webp",
+        "alt": "Beeld bij Hebreeen 11: Noach bouwt door geloof",
+        "scene": "Noach bouwt door geloof"
+      },
+      "after": {
+        "chapter": 11,
+        "verse": 7,
+        "file": "11-7.webp",
+        "alt": "Beeld bij Hebreeen 11: Noach bouwt door geloof",
+        "scene": "Noach bouwt door geloof",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "hebreeen",
+      "before": {
+        "chapter": 11,
+        "verse": 8,
+        "file": "11-8.webp",
+        "alt": "Beeld bij Hebreeen 11: Abraham gaat op weg",
+        "scene": "Abraham gaat op weg"
+      },
+      "after": {
+        "chapter": 11,
+        "verse": 8,
+        "file": "11-8.webp",
+        "alt": "Beeld bij Hebreeen 11: Abraham gaat op weg",
+        "scene": "Abraham gaat op weg",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "hebreeen",
+      "before": {
+        "chapter": 11,
+        "verse": 29,
+        "file": "11-29.webp",
+        "alt": "Beeld bij Hebreeen 11: Door de zee als droog land",
+        "scene": "Door de zee als droog land"
+      },
+      "after": {
+        "chapter": 11,
+        "verse": 29,
+        "file": "11-29.webp",
+        "alt": "Beeld bij Hebreeen 11: Door de zee als droog land",
+        "scene": "Door de zee als droog land",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "hebreeen",
+      "before": {
+        "chapter": 12,
+        "verse": 12,
+        "file": "12-12.webp",
+        "alt": "Beeld bij Hebreeen 12: Slappe handen weer oprichten",
+        "scene": "Slappe handen weer oprichten"
+      },
+      "after": {
+        "chapter": 12,
+        "verse": 12,
+        "file": "12-12.webp",
+        "alt": "Beeld bij Hebreeen 12: Slappe handen weer oprichten",
+        "scene": "Slappe handen weer oprichten",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "hebreeen",
+      "before": {
+        "chapter": 12,
+        "verse": 14,
+        "file": "12-14.webp",
+        "alt": "Beeld bij Hebreeen 12: Jaag vrede na met iedereen",
+        "scene": "Jaag vrede na met iedereen"
+      },
+      "after": {
+        "chapter": 12,
+        "verse": 14,
+        "file": "12-14.webp",
+        "alt": "Beeld bij Hebreeen 12: Jaag vrede na met iedereen",
+        "scene": "Jaag vrede na met iedereen",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "hebreeen",
+      "before": {
+        "chapter": 13,
+        "verse": 2,
+        "file": "13-2.webp",
+        "alt": "Beeld bij Hebreeen 13: Vergeet de gastvrijheid niet",
+        "scene": "Vergeet de gastvrijheid niet"
+      },
+      "after": {
+        "chapter": 13,
+        "verse": 2,
+        "file": "13-2.webp",
+        "alt": "Beeld bij Hebreeen 13: Vergeet de gastvrijheid niet",
+        "scene": "Vergeet de gastvrijheid niet",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "hebreeen",
+      "before": {
+        "chapter": 13,
+        "verse": 3,
+        "file": "13-3.webp",
+        "alt": "Beeld bij Hebreeen 13: Denk aan de gevangenen",
+        "scene": "Denk aan de gevangenen"
+      },
+      "after": {
+        "chapter": 13,
+        "verse": 3,
+        "file": "13-3.webp",
+        "alt": "Beeld bij Hebreeen 13: Denk aan de gevangenen",
+        "scene": "Denk aan de gevangenen",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "hebreeen",
+      "before": {
+        "chapter": 13,
+        "verse": 16,
+        "file": "13-16.webp",
+        "alt": "Beeld bij Hebreeen 13: Goeddoen en delen",
+        "scene": "Goeddoen en delen"
+      },
+      "after": {
+        "chapter": 13,
+        "verse": 16,
+        "file": "13-16.webp",
+        "alt": "Beeld bij Hebreeen 13: Goeddoen en delen",
+        "scene": "Goeddoen en delen",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "jakobus",
+      "before": {
+        "chapter": 1,
+        "file": "1-listen.webp",
+        "alt": "Een oudere leraar leest voor terwijl een groep aandachtig luistert",
+        "scene": "Luister naar het woord"
+      },
+      "after": {
+        "chapter": 1,
+        "file": "1-listen.webp",
+        "alt": "Een oudere leraar leest voor terwijl een groep aandachtig luistert",
+        "scene": "Luister naar het woord",
+        "verse": 19,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "jakobus",
+      "before": {
+        "chapter": 1,
+        "file": "1-do.webp",
+        "alt": "Een jonge man helpt de muur van zijn buurman herstellen",
+        "scene": "Doe wat je hoort"
+      },
+      "after": {
+        "chapter": 1,
+        "file": "1-do.webp",
+        "alt": "Een jonge man helpt de muur van zijn buurman herstellen",
+        "scene": "Doe wat je hoort",
+        "verse": 22,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "jakobus",
+      "before": {
+        "chapter": 4,
+        "file": "4-humble.webp",
+        "alt": "Twee buren sluiten vrede bij een waterput",
+        "scene": "Nederigheid en vrede"
+      },
+      "after": {
+        "chapter": 4,
+        "file": "4-humble.webp",
+        "alt": "Twee buren sluiten vrede bij een waterput",
+        "scene": "Nederigheid en vrede",
+        "verse": 10,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "jakobus",
+      "before": {
+        "chapter": 1,
+        "verse": 5,
+        "file": "1-5.webp",
+        "alt": "Beeld bij Jakobus 1: Vraag om wijsheid",
+        "scene": "Vraag om wijsheid"
+      },
+      "after": {
+        "chapter": 1,
+        "verse": 5,
+        "file": "1-5.webp",
+        "alt": "Beeld bij Jakobus 1: Vraag om wijsheid",
+        "scene": "Vraag om wijsheid",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "jakobus",
+      "before": {
+        "chapter": 2,
+        "verse": 1,
+        "file": "2-1.webp",
+        "alt": "Beeld bij Jakobus 2: Geen aanzien des persoons",
+        "scene": "Geen aanzien des persoons"
+      },
+      "after": {
+        "chapter": 2,
+        "verse": 1,
+        "file": "2-1.webp",
+        "alt": "Beeld bij Jakobus 2: Geen aanzien des persoons",
+        "scene": "Geen aanzien des persoons",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "jakobus",
+      "before": {
+        "chapter": 2,
+        "verse": 15,
+        "file": "2-15.webp",
+        "alt": "Beeld bij Jakobus 2: Voedsel en kleding geven",
+        "scene": "Voedsel en kleding geven"
+      },
+      "after": {
+        "chapter": 2,
+        "verse": 15,
+        "file": "2-15.webp",
+        "alt": "Beeld bij Jakobus 2: Voedsel en kleding geven",
+        "scene": "Voedsel en kleding geven",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "jakobus",
+      "before": {
+        "chapter": 2,
+        "verse": 25,
+        "file": "2-25.webp",
+        "alt": "Beeld bij Jakobus 2: Rachab helpt boodschappers",
+        "scene": "Rachab helpt boodschappers"
+      },
+      "after": {
+        "chapter": 2,
+        "verse": 25,
+        "file": "2-25.webp",
+        "alt": "Beeld bij Jakobus 2: Rachab helpt boodschappers",
+        "scene": "Rachab helpt boodschappers",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "jakobus",
+      "before": {
+        "chapter": 3,
+        "verse": 4,
+        "file": "3-4.webp",
+        "alt": "Beeld bij Jakobus 3: Een klein roer stuurt een schip",
+        "scene": "Een klein roer stuurt een schip"
+      },
+      "after": {
+        "chapter": 3,
+        "verse": 4,
+        "file": "3-4.webp",
+        "alt": "Beeld bij Jakobus 3: Een klein roer stuurt een schip",
+        "scene": "Een klein roer stuurt een schip",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "jakobus",
+      "before": {
+        "chapter": 3,
+        "verse": 11,
+        "file": "3-11.webp",
+        "alt": "Beeld bij Jakobus 3: Zoet water uit een bron",
+        "scene": "Zoet water uit een bron"
+      },
+      "after": {
+        "chapter": 3,
+        "verse": 11,
+        "file": "3-11.webp",
+        "alt": "Beeld bij Jakobus 3: Zoet water uit een bron",
+        "scene": "Zoet water uit een bron",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "jakobus",
+      "before": {
+        "chapter": 3,
+        "verse": 18,
+        "file": "3-18.webp",
+        "alt": "Beeld bij Jakobus 3: In vrede gezaaid",
+        "scene": "In vrede gezaaid"
+      },
+      "after": {
+        "chapter": 3,
+        "verse": 18,
+        "file": "3-18.webp",
+        "alt": "Beeld bij Jakobus 3: In vrede gezaaid",
+        "scene": "In vrede gezaaid",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "jakobus",
+      "before": {
+        "chapter": 4,
+        "verse": 8,
+        "file": "4-8.webp",
+        "alt": "Beeld bij Jakobus 4: Nader met een zuiver hart",
+        "scene": "Nader met een zuiver hart"
+      },
+      "after": {
+        "chapter": 4,
+        "verse": 8,
+        "file": "4-8.webp",
+        "alt": "Beeld bij Jakobus 4: Nader met een zuiver hart",
+        "scene": "Nader met een zuiver hart",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "jakobus",
+      "before": {
+        "chapter": 4,
+        "verse": 14,
+        "file": "4-14.webp",
+        "alt": "Beeld bij Jakobus 4: Het leven als damp",
+        "scene": "Het leven als damp"
+      },
+      "after": {
+        "chapter": 4,
+        "verse": 14,
+        "file": "4-14.webp",
+        "alt": "Beeld bij Jakobus 4: Het leven als damp",
+        "scene": "Het leven als damp",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "jakobus",
+      "before": {
+        "chapter": 5,
+        "verse": 7,
+        "file": "5-7.webp",
+        "alt": "Beeld bij Jakobus 5: Geduldig wachten op de oogst",
+        "scene": "Geduldig wachten op de oogst"
+      },
+      "after": {
+        "chapter": 5,
+        "verse": 7,
+        "file": "5-7.webp",
+        "alt": "Beeld bij Jakobus 5: Geduldig wachten op de oogst",
+        "scene": "Geduldig wachten op de oogst",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "jakobus",
+      "before": {
+        "chapter": 5,
+        "verse": 14,
+        "file": "5-14.webp",
+        "alt": "Beeld bij Jakobus 5: De oudsten bidden",
+        "scene": "De oudsten bidden"
+      },
+      "after": {
+        "chapter": 5,
+        "verse": 14,
+        "file": "5-14.webp",
+        "alt": "Beeld bij Jakobus 5: De oudsten bidden",
+        "scene": "De oudsten bidden",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "jakobus",
+      "before": {
+        "chapter": 5,
+        "verse": 18,
+        "file": "5-18.webp",
+        "alt": "Beeld bij Jakobus 5: Elia bidt en er komt regen",
+        "scene": "Elia bidt en er komt regen"
+      },
+      "after": {
+        "chapter": 5,
+        "verse": 18,
+        "file": "5-18.webp",
+        "alt": "Beeld bij Jakobus 5: Elia bidt en er komt regen",
+        "scene": "Elia bidt en er komt regen",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "1petrus",
+      "before": {
+        "chapter": 1,
+        "file": "1-hope.webp",
+        "alt": "Gelovigen wachten vol hoop in een vissersdorp",
+        "scene": "Levende hoop"
+      },
+      "after": {
+        "chapter": 1,
+        "file": "1-hope.webp",
+        "alt": "Gelovigen wachten vol hoop in een vissersdorp",
+        "scene": "Levende hoop",
+        "verse": 3,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "1petrus",
+      "before": {
+        "chapter": 3,
+        "file": "3-answer.webp",
+        "alt": "Een vrouw legt rustig haar hoop uit aan buren",
+        "scene": "Vertel over je hoop"
+      },
+      "after": {
+        "chapter": 3,
+        "file": "3-answer.webp",
+        "alt": "Een vrouw legt rustig haar hoop uit aan buren",
+        "scene": "Vertel over je hoop",
+        "verse": 15,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "1petrus",
+      "before": {
+        "chapter": 5,
+        "file": "5-shepherd.webp",
+        "alt": "Een herder verzorgt zijn schapen",
+        "scene": "Hoed de kudde"
+      },
+      "after": {
+        "chapter": 5,
+        "file": "5-shepherd.webp",
+        "alt": "Een herder verzorgt zijn schapen",
+        "scene": "Hoed de kudde",
+        "verse": 2,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "1petrus",
+      "before": {
+        "chapter": 1,
+        "verse": 7,
+        "file": "1-7.webp",
+        "alt": "Beeld bij 1petrus 1: Geloof kostbaarder dan goud",
+        "scene": "Geloof kostbaarder dan goud"
+      },
+      "after": {
+        "chapter": 1,
+        "verse": 7,
+        "file": "1-7.webp",
+        "alt": "Beeld bij 1petrus 1: Geloof kostbaarder dan goud",
+        "scene": "Geloof kostbaarder dan goud",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "1petrus",
+      "before": {
+        "chapter": 1,
+        "verse": 22,
+        "file": "1-22.webp",
+        "alt": "Beeld bij 1petrus 1: Oprechte liefde uit een zuiver hart",
+        "scene": "Oprechte liefde uit een zuiver hart"
+      },
+      "after": {
+        "chapter": 1,
+        "verse": 22,
+        "file": "1-22.webp",
+        "alt": "Beeld bij 1petrus 1: Oprechte liefde uit een zuiver hart",
+        "scene": "Oprechte liefde uit een zuiver hart",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "1petrus",
+      "before": {
+        "chapter": 2,
+        "verse": 5,
+        "file": "2-5.webp",
+        "alt": "Beeld bij 1petrus 2: Als levende stenen",
+        "scene": "Als levende stenen"
+      },
+      "after": {
+        "chapter": 2,
+        "verse": 5,
+        "file": "2-5.webp",
+        "alt": "Beeld bij 1petrus 2: Als levende stenen",
+        "scene": "Als levende stenen",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "1petrus",
+      "before": {
+        "chapter": 2,
+        "verse": 9,
+        "file": "2-9.webp",
+        "alt": "Beeld bij 1petrus 2: Uit duisternis naar licht",
+        "scene": "Uit duisternis naar licht"
+      },
+      "after": {
+        "chapter": 2,
+        "verse": 9,
+        "file": "2-9.webp",
+        "alt": "Beeld bij 1petrus 2: Uit duisternis naar licht",
+        "scene": "Uit duisternis naar licht",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "1petrus",
+      "before": {
+        "chapter": 2,
+        "verse": 25,
+        "file": "2-25.webp",
+        "alt": "Beeld bij 1petrus 2: Terug naar de Herder",
+        "scene": "Terug naar de Herder"
+      },
+      "after": {
+        "chapter": 2,
+        "verse": 25,
+        "file": "2-25.webp",
+        "alt": "Beeld bij 1petrus 2: Terug naar de Herder",
+        "scene": "Terug naar de Herder",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "1petrus",
+      "before": {
+        "chapter": 3,
+        "verse": 7,
+        "file": "3-7.webp",
+        "alt": "Beeld bij 1petrus 3: Samen erfgenamen van het leven",
+        "scene": "Samen erfgenamen van het leven"
+      },
+      "after": {
+        "chapter": 3,
+        "verse": 7,
+        "file": "3-7.webp",
+        "alt": "Beeld bij 1petrus 3: Samen erfgenamen van het leven",
+        "scene": "Samen erfgenamen van het leven",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "1petrus",
+      "before": {
+        "chapter": 3,
+        "verse": 11,
+        "file": "3-11.webp",
+        "alt": "Beeld bij 1petrus 3: Zoek vrede en jaag die na",
+        "scene": "Zoek vrede en jaag die na"
+      },
+      "after": {
+        "chapter": 3,
+        "verse": 11,
+        "file": "3-11.webp",
+        "alt": "Beeld bij 1petrus 3: Zoek vrede en jaag die na",
+        "scene": "Zoek vrede en jaag die na",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "1petrus",
+      "before": {
+        "chapter": 4,
+        "verse": 7,
+        "file": "4-7.webp",
+        "alt": "Beeld bij 1petrus 4: Waakzaam in gebed",
+        "scene": "Waakzaam in gebed"
+      },
+      "after": {
+        "chapter": 4,
+        "verse": 7,
+        "file": "4-7.webp",
+        "alt": "Beeld bij 1petrus 4: Waakzaam in gebed",
+        "scene": "Waakzaam in gebed",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "1petrus",
+      "before": {
+        "chapter": 4,
+        "verse": 9,
+        "file": "4-9.webp",
+        "alt": "Beeld bij 1petrus 4: Gastvrij zonder mopperen",
+        "scene": "Gastvrij zonder mopperen"
+      },
+      "after": {
+        "chapter": 4,
+        "verse": 9,
+        "file": "4-9.webp",
+        "alt": "Beeld bij 1petrus 4: Gastvrij zonder mopperen",
+        "scene": "Gastvrij zonder mopperen",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "1petrus",
+      "before": {
+        "chapter": 4,
+        "verse": 10,
+        "file": "4-10.webp",
+        "alt": "Beeld bij 1petrus 4: Ieders gave om te dienen",
+        "scene": "Ieders gave om te dienen"
+      },
+      "after": {
+        "chapter": 4,
+        "verse": 10,
+        "file": "4-10.webp",
+        "alt": "Beeld bij 1petrus 4: Ieders gave om te dienen",
+        "scene": "Ieders gave om te dienen",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "1petrus",
+      "before": {
+        "chapter": 5,
+        "verse": 5,
+        "file": "5-5.webp",
+        "alt": "Beeld bij 1petrus 5: Nederig tegenover elkaar",
+        "scene": "Nederig tegenover elkaar"
+      },
+      "after": {
+        "chapter": 5,
+        "verse": 5,
+        "file": "5-5.webp",
+        "alt": "Beeld bij 1petrus 5: Nederig tegenover elkaar",
+        "scene": "Nederig tegenover elkaar",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "1petrus",
+      "before": {
+        "chapter": 5,
+        "verse": 7,
+        "file": "5-7.webp",
+        "alt": "Beeld bij 1petrus 5: Vertrouw je zorgen toe",
+        "scene": "Vertrouw je zorgen toe"
+      },
+      "after": {
+        "chapter": 5,
+        "verse": 7,
+        "file": "5-7.webp",
+        "alt": "Beeld bij 1petrus 5: Vertrouw je zorgen toe",
+        "scene": "Vertrouw je zorgen toe",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "2petrus",
+      "before": {
+        "chapter": 1,
+        "file": "1-grow.webp",
+        "alt": "Een leraar moedigt jonge leerlingen aan",
+        "scene": "Groei in deugd"
+      },
+      "after": {
+        "chapter": 1,
+        "file": "1-grow.webp",
+        "alt": "Een leraar moedigt jonge leerlingen aan",
+        "scene": "Groei in deugd",
+        "verse": 5,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "2petrus",
+      "before": {
+        "chapter": 2,
+        "file": "2-test.webp",
+        "alt": "Mensen bespreken zorgvuldig een bewering",
+        "scene": "Wees waakzaam"
+      },
+      "after": {
+        "chapter": 2,
+        "file": "2-test.webp",
+        "alt": "Mensen bespreken zorgvuldig een bewering",
+        "scene": "Wees waakzaam",
+        "verse": 1,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "2petrus",
+      "before": {
+        "chapter": 3,
+        "file": "3-dawn.webp",
+        "alt": "Een gemeenschap ziet de zon opkomen boven zee",
+        "scene": "Uitkijken naar een nieuwe dag"
+      },
+      "after": {
+        "chapter": 3,
+        "file": "3-dawn.webp",
+        "alt": "Een gemeenschap ziet de zon opkomen boven zee",
+        "scene": "Uitkijken naar een nieuwe dag",
+        "verse": 13,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "2petrus",
+      "before": {
+        "chapter": 1,
+        "verse": 7,
+        "file": "1-7.webp",
+        "alt": "Beeld bij 2petrus 1: Genegenheid en liefde voor iedereen",
+        "scene": "Genegenheid en liefde voor iedereen"
+      },
+      "after": {
+        "chapter": 1,
+        "verse": 7,
+        "file": "1-7.webp",
+        "alt": "Beeld bij 2petrus 1: Genegenheid en liefde voor iedereen",
+        "scene": "Genegenheid en liefde voor iedereen",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "2petrus",
+      "before": {
+        "chapter": 1,
+        "verse": 19,
+        "file": "1-19.webp",
+        "alt": "Beeld bij 2petrus 1: Licht op een donkere plaats",
+        "scene": "Licht op een donkere plaats"
+      },
+      "after": {
+        "chapter": 1,
+        "verse": 19,
+        "file": "1-19.webp",
+        "alt": "Beeld bij 2petrus 1: Licht op een donkere plaats",
+        "scene": "Licht op een donkere plaats",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "2petrus",
+      "before": {
+        "chapter": 2,
+        "verse": 16,
+        "file": "2-16.webp",
+        "alt": "Beeld bij 2petrus 2: Bileam wordt terechtgewezen",
+        "scene": "Bileam wordt terechtgewezen"
+      },
+      "after": {
+        "chapter": 2,
+        "verse": 16,
+        "file": "2-16.webp",
+        "alt": "Beeld bij 2petrus 2: Bileam wordt terechtgewezen",
+        "scene": "Bileam wordt terechtgewezen",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "2petrus",
+      "before": {
+        "chapter": 2,
+        "verse": 17,
+        "file": "2-17.webp",
+        "alt": "Beeld bij 2petrus 2: Een bron zonder water",
+        "scene": "Een bron zonder water"
+      },
+      "after": {
+        "chapter": 2,
+        "verse": 17,
+        "file": "2-17.webp",
+        "alt": "Beeld bij 2petrus 2: Een bron zonder water",
+        "scene": "Een bron zonder water",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "2petrus",
+      "before": {
+        "chapter": 3,
+        "verse": 9,
+        "file": "3-9.webp",
+        "alt": "Beeld bij 2petrus 3: Geduld dat tot omkeer leidt",
+        "scene": "Geduld dat tot omkeer leidt"
+      },
+      "after": {
+        "chapter": 3,
+        "verse": 9,
+        "file": "3-9.webp",
+        "alt": "Beeld bij 2petrus 3: Geduld dat tot omkeer leidt",
+        "scene": "Geduld dat tot omkeer leidt",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "2petrus",
+      "before": {
+        "chapter": 3,
+        "verse": 18,
+        "file": "3-18.webp",
+        "alt": "Beeld bij 2petrus 3: Groei in genade en kennis",
+        "scene": "Groei in genade en kennis"
+      },
+      "after": {
+        "chapter": 3,
+        "verse": 18,
+        "file": "3-18.webp",
+        "alt": "Beeld bij 2petrus 3: Groei in genade en kennis",
+        "scene": "Groei in genade en kennis",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "1johannes",
+      "before": {
+        "chapter": 1,
+        "file": "1-light.webp",
+        "alt": "Gelovigen ontmoeten elkaar in een zonnige binnenplaats",
+        "scene": "Wandelen in het licht"
+      },
+      "after": {
+        "chapter": 1,
+        "file": "1-light.webp",
+        "alt": "Gelovigen ontmoeten elkaar in een zonnige binnenplaats",
+        "scene": "Wandelen in het licht",
+        "verse": 7,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "1johannes",
+      "before": {
+        "chapter": 2,
+        "file": "2-love.webp",
+        "alt": "Buren delen een maaltijd rond een lange tafel",
+        "scene": "Liefde voor elkaar"
+      },
+      "after": {
+        "chapter": 2,
+        "file": "2-love.webp",
+        "alt": "Buren delen een maaltijd rond een lange tafel",
+        "scene": "Liefde voor elkaar",
+        "verse": 10,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "1johannes",
+      "before": {
+        "chapter": 3,
+        "file": "3-share.webp",
+        "alt": "Een gezin deelt voedsel en kleding met mensen die het nodig hebben",
+        "scene": "Liefde met daden"
+      },
+      "after": {
+        "chapter": 3,
+        "file": "3-share.webp",
+        "alt": "Een gezin deelt voedsel en kleding met mensen die het nodig hebben",
+        "scene": "Liefde met daden",
+        "verse": 17,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "1johannes",
+      "before": {
+        "chapter": 1,
+        "verse": 1,
+        "file": "1-1.webp",
+        "alt": "Beeld bij 1johannes 1: Met eigen ogen gezien",
+        "scene": "Met eigen ogen gezien"
+      },
+      "after": {
+        "chapter": 1,
+        "verse": 1,
+        "file": "1-1.webp",
+        "alt": "Beeld bij 1johannes 1: Met eigen ogen gezien",
+        "scene": "Met eigen ogen gezien",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "1johannes",
+      "before": {
+        "chapter": 1,
+        "verse": 9,
+        "file": "1-9.webp",
+        "alt": "Beeld bij 1johannes 1: Eerlijk belijden en vergeving",
+        "scene": "Eerlijk belijden en vergeving"
+      },
+      "after": {
+        "chapter": 1,
+        "verse": 9,
+        "file": "1-9.webp",
+        "alt": "Beeld bij 1johannes 1: Eerlijk belijden en vergeving",
+        "scene": "Eerlijk belijden en vergeving",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "1johannes",
+      "before": {
+        "chapter": 2,
+        "verse": 6,
+        "file": "2-6.webp",
+        "alt": "Beeld bij 1johannes 2: Leven zoals Hij geleefd heeft",
+        "scene": "Leven zoals Hij geleefd heeft"
+      },
+      "after": {
+        "chapter": 2,
+        "verse": 6,
+        "file": "2-6.webp",
+        "alt": "Beeld bij 1johannes 2: Leven zoals Hij geleefd heeft",
+        "scene": "Leven zoals Hij geleefd heeft",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "1johannes",
+      "before": {
+        "chapter": 2,
+        "verse": 24,
+        "file": "2-24.webp",
+        "alt": "Beeld bij 1johannes 2: Bewaar wat je gehoord hebt",
+        "scene": "Bewaar wat je gehoord hebt"
+      },
+      "after": {
+        "chapter": 2,
+        "verse": 24,
+        "file": "2-24.webp",
+        "alt": "Beeld bij 1johannes 2: Bewaar wat je gehoord hebt",
+        "scene": "Bewaar wat je gehoord hebt",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "1johannes",
+      "before": {
+        "chapter": 3,
+        "verse": 1,
+        "file": "3-1.webp",
+        "alt": "Beeld bij 1johannes 3: Kinderen genoemd uit liefde",
+        "scene": "Kinderen genoemd uit liefde"
+      },
+      "after": {
+        "chapter": 3,
+        "verse": 1,
+        "file": "3-1.webp",
+        "alt": "Beeld bij 1johannes 3: Kinderen genoemd uit liefde",
+        "scene": "Kinderen genoemd uit liefde",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "1johannes",
+      "before": {
+        "chapter": 3,
+        "verse": 23,
+        "file": "3-23.webp",
+        "alt": "Beeld bij 1johannes 3: Geloof en liefde bijeen",
+        "scene": "Geloof en liefde bijeen"
+      },
+      "after": {
+        "chapter": 3,
+        "verse": 23,
+        "file": "3-23.webp",
+        "alt": "Beeld bij 1johannes 3: Geloof en liefde bijeen",
+        "scene": "Geloof en liefde bijeen",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "1johannes",
+      "before": {
+        "chapter": 4,
+        "verse": 1,
+        "file": "4-1.webp",
+        "alt": "Beeld bij 1johannes 4: Beproef wat waar is",
+        "scene": "Beproef wat waar is"
+      },
+      "after": {
+        "chapter": 4,
+        "verse": 1,
+        "file": "4-1.webp",
+        "alt": "Beeld bij 1johannes 4: Beproef wat waar is",
+        "scene": "Beproef wat waar is",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "1johannes",
+      "before": {
+        "chapter": 4,
+        "verse": 7,
+        "file": "4-7.webp",
+        "alt": "Beeld bij 1johannes 4: Laten wij elkaar liefhebben",
+        "scene": "Laten wij elkaar liefhebben"
+      },
+      "after": {
+        "chapter": 4,
+        "verse": 7,
+        "file": "4-7.webp",
+        "alt": "Beeld bij 1johannes 4: Laten wij elkaar liefhebben",
+        "scene": "Laten wij elkaar liefhebben",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "1johannes",
+      "before": {
+        "chapter": 4,
+        "verse": 18,
+        "file": "4-18.webp",
+        "alt": "Beeld bij 1johannes 4: Liefde verdrijft angst",
+        "scene": "Liefde verdrijft angst"
+      },
+      "after": {
+        "chapter": 4,
+        "verse": 18,
+        "file": "4-18.webp",
+        "alt": "Beeld bij 1johannes 4: Liefde verdrijft angst",
+        "scene": "Liefde verdrijft angst",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "1johannes",
+      "before": {
+        "chapter": 5,
+        "verse": 4,
+        "file": "5-4.webp",
+        "alt": "Beeld bij 1johannes 5: Geloof overwint de wereld",
+        "scene": "Geloof overwint de wereld"
+      },
+      "after": {
+        "chapter": 5,
+        "verse": 4,
+        "file": "5-4.webp",
+        "alt": "Beeld bij 1johannes 5: Geloof overwint de wereld",
+        "scene": "Geloof overwint de wereld",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "1johannes",
+      "before": {
+        "chapter": 5,
+        "verse": 14,
+        "file": "5-14.webp",
+        "alt": "Beeld bij 1johannes 5: Vrijmoedig bidden",
+        "scene": "Vrijmoedig bidden"
+      },
+      "after": {
+        "chapter": 5,
+        "verse": 14,
+        "file": "5-14.webp",
+        "alt": "Beeld bij 1johannes 5: Vrijmoedig bidden",
+        "scene": "Vrijmoedig bidden",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "1johannes",
+      "before": {
+        "chapter": 5,
+        "verse": 21,
+        "file": "5-21.webp",
+        "alt": "Beeld bij 1johannes 5: Ver van de afgoden",
+        "scene": "Ver van de afgoden"
+      },
+      "after": {
+        "chapter": 5,
+        "verse": 21,
+        "file": "5-21.webp",
+        "alt": "Beeld bij 1johannes 5: Ver van de afgoden",
+        "scene": "Ver van de afgoden",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "2johannes",
+      "before": {
+        "chapter": 1,
+        "file": "1-letter.webp",
+        "alt": "De ouderling schrijft een brief aan een gemeente",
+        "scene": "De brief van de ouderling"
+      },
+      "after": {
+        "chapter": 1,
+        "file": "1-letter.webp",
+        "alt": "De ouderling schrijft een brief aan een gemeente",
+        "scene": "De brief van de ouderling",
+        "verse": 1,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "2johannes",
+      "before": {
+        "chapter": 1,
+        "file": "1-family.webp",
+        "alt": "Een vrouw en haar kinderen ontvangen gasten",
+        "scene": "De uitverkoren vrouw en haar kinderen"
+      },
+      "after": {
+        "chapter": 1,
+        "file": "1-family.webp",
+        "alt": "Een vrouw en haar kinderen ontvangen gasten",
+        "scene": "De uitverkoren vrouw en haar kinderen",
+        "verse": 1,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "2johannes",
+      "before": {
+        "chapter": 1,
+        "file": "1-truth.webp",
+        "alt": "Gemeenteleden lezen samen een brief",
+        "scene": "Wandelen in waarheid"
+      },
+      "after": {
+        "chapter": 1,
+        "file": "1-truth.webp",
+        "alt": "Gemeenteleden lezen samen een brief",
+        "scene": "Wandelen in waarheid",
+        "verse": 4,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "3johannes",
+      "before": {
+        "chapter": 1,
+        "file": "1-gaius.webp",
+        "alt": "Gajus ontvangt een brief",
+        "scene": "De brief aan Gajus"
+      },
+      "after": {
+        "chapter": 1,
+        "file": "1-gaius.webp",
+        "alt": "Gajus ontvangt een brief",
+        "scene": "De brief aan Gajus",
+        "verse": 1,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "3johannes",
+      "before": {
+        "chapter": 1,
+        "file": "1-hospitality.webp",
+        "alt": "Gajus biedt reizigers onderdak",
+        "scene": "Gastvrijheid voor reizigers"
+      },
+      "after": {
+        "chapter": 1,
+        "file": "1-hospitality.webp",
+        "alt": "Gajus biedt reizigers onderdak",
+        "scene": "Gastvrijheid voor reizigers",
+        "verse": 5,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "3johannes",
+      "before": {
+        "chapter": 1,
+        "file": "1-friends.webp",
+        "alt": "Vrienden groeten elkaar in een gemeente",
+        "scene": "Groet de vrienden"
+      },
+      "after": {
+        "chapter": 1,
+        "file": "1-friends.webp",
+        "alt": "Vrienden groeten elkaar in een gemeente",
+        "scene": "Groet de vrienden",
+        "verse": 15,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "judas",
+      "before": {
+        "chapter": 1,
+        "file": "1-writing.webp",
+        "alt": "Judas schrijft zijn brief aan gelovigen",
+        "scene": "De brief van Judas"
+      },
+      "after": {
+        "chapter": 1,
+        "file": "1-writing.webp",
+        "alt": "Judas schrijft zijn brief aan gelovigen",
+        "scene": "De brief van Judas",
+        "verse": 3,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "judas",
+      "before": {
+        "chapter": 1,
+        "file": "1-watch.webp",
+        "alt": "Gelovigen bespreken hun geloof kritisch",
+        "scene": "Waak over het geloof"
+      },
+      "after": {
+        "chapter": 1,
+        "file": "1-watch.webp",
+        "alt": "Gelovigen bespreken hun geloof kritisch",
+        "scene": "Waak over het geloof",
+        "verse": 3,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "judas",
+      "before": {
+        "chapter": 1,
+        "file": "1-mercy.webp",
+        "alt": "Gemeenteleden helpen iemand die twijfelt",
+        "scene": "Wees barmhartig"
+      },
+      "after": {
+        "chapter": 1,
+        "file": "1-mercy.webp",
+        "alt": "Gemeenteleden helpen iemand die twijfelt",
+        "scene": "Wees barmhartig",
+        "verse": 22,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "openbaring",
+      "before": {
+        "chapter": 1,
+        "file": "1-patmos.webp",
+        "alt": "De oude Johannes kijkt op Patmos uit over zee",
+        "scene": "Johannes op Patmos"
+      },
+      "after": {
+        "chapter": 1,
+        "file": "1-patmos.webp",
+        "alt": "De oude Johannes kijkt op Patmos uit over zee",
+        "scene": "Johannes op Patmos",
+        "verse": 9,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "openbaring",
+      "before": {
+        "chapter": 3,
+        "file": "3-door.webp",
+        "alt": "Een bewoner opent zijn deur en verwelkomt een gast",
+        "scene": "Zie, ik sta aan de deur"
+      },
+      "after": {
+        "chapter": 3,
+        "file": "3-door.webp",
+        "alt": "Een bewoner opent zijn deur en verwelkomt een gast",
+        "scene": "Zie, ik sta aan de deur",
+        "verse": 20,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "openbaring",
+      "before": {
+        "chapter": 1,
+        "verse": 3,
+        "file": "1-3.webp",
+        "alt": "Beeld bij Openbaring 1: Gelukkig wie leest en hoort",
+        "scene": "Gelukkig wie leest en hoort"
+      },
+      "after": {
+        "chapter": 1,
+        "verse": 3,
+        "file": "1-3.webp",
+        "alt": "Beeld bij Openbaring 1: Gelukkig wie leest en hoort",
+        "scene": "Gelukkig wie leest en hoort",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "openbaring",
+      "before": {
+        "chapter": 1,
+        "verse": 12,
+        "file": "1-12.webp",
+        "alt": "Beeld bij Openbaring 1: Zeven gouden kandelaars",
+        "scene": "Zeven gouden kandelaars"
+      },
+      "after": {
+        "chapter": 1,
+        "verse": 12,
+        "file": "1-12.webp",
+        "alt": "Beeld bij Openbaring 1: Zeven gouden kandelaars",
+        "scene": "Zeven gouden kandelaars",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "openbaring",
+      "before": {
+        "chapter": 2,
+        "verse": 7,
+        "file": "2-7.webp",
+        "alt": "Beeld bij Openbaring 2: De boom van het leven",
+        "scene": "De boom van het leven"
+      },
+      "after": {
+        "chapter": 2,
+        "verse": 7,
+        "file": "2-7.webp",
+        "alt": "Beeld bij Openbaring 2: De boom van het leven",
+        "scene": "De boom van het leven",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "openbaring",
+      "before": {
+        "chapter": 2,
+        "verse": 10,
+        "file": "2-10.webp",
+        "alt": "Beeld bij Openbaring 2: Trouw in de beproeving",
+        "scene": "Trouw in de beproeving"
+      },
+      "after": {
+        "chapter": 2,
+        "verse": 10,
+        "file": "2-10.webp",
+        "alt": "Beeld bij Openbaring 2: Trouw in de beproeving",
+        "scene": "Trouw in de beproeving",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "openbaring",
+      "before": {
+        "chapter": 2,
+        "verse": 28,
+        "file": "2-28.webp",
+        "alt": "Beeld bij Openbaring 2: De morgenster",
+        "scene": "De morgenster"
+      },
+      "after": {
+        "chapter": 2,
+        "verse": 28,
+        "file": "2-28.webp",
+        "alt": "Beeld bij Openbaring 2: De morgenster",
+        "scene": "De morgenster",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "openbaring",
+      "before": {
+        "chapter": 3,
+        "verse": 2,
+        "file": "3-2.webp",
+        "alt": "Beeld bij Openbaring 3: Versterk wat over is",
+        "scene": "Versterk wat over is"
+      },
+      "after": {
+        "chapter": 3,
+        "verse": 2,
+        "file": "3-2.webp",
+        "alt": "Beeld bij Openbaring 3: Versterk wat over is",
+        "scene": "Versterk wat over is",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "openbaring",
+      "before": {
+        "chapter": 3,
+        "verse": 8,
+        "file": "3-8.webp",
+        "alt": "Beeld bij Openbaring 3: Een deur die open blijft",
+        "scene": "Een deur die open blijft"
+      },
+      "after": {
+        "chapter": 3,
+        "verse": 8,
+        "file": "3-8.webp",
+        "alt": "Beeld bij Openbaring 3: Een deur die open blijft",
+        "scene": "Een deur die open blijft",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "openbaring",
+      "before": {
+        "chapter": 4,
+        "verse": 1,
+        "file": "4-1.webp",
+        "alt": "Beeld bij Openbaring 4: Een geopende deur in de hemel",
+        "scene": "Een geopende deur in de hemel"
+      },
+      "after": {
+        "chapter": 4,
+        "verse": 1,
+        "file": "4-1.webp",
+        "alt": "Beeld bij Openbaring 4: Een geopende deur in de hemel",
+        "scene": "Een geopende deur in de hemel",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "openbaring",
+      "before": {
+        "chapter": 4,
+        "verse": 5,
+        "file": "4-5.webp",
+        "alt": "Beeld bij Openbaring 4: Zeven vurige lampen",
+        "scene": "Zeven vurige lampen"
+      },
+      "after": {
+        "chapter": 4,
+        "verse": 5,
+        "file": "4-5.webp",
+        "alt": "Beeld bij Openbaring 4: Zeven vurige lampen",
+        "scene": "Zeven vurige lampen",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "openbaring",
+      "before": {
+        "chapter": 4,
+        "verse": 11,
+        "file": "4-11.webp",
+        "alt": "Beeld bij Openbaring 4: U hebt alles geschapen",
+        "scene": "U hebt alles geschapen"
+      },
+      "after": {
+        "chapter": 4,
+        "verse": 11,
+        "file": "4-11.webp",
+        "alt": "Beeld bij Openbaring 4: U hebt alles geschapen",
+        "scene": "U hebt alles geschapen",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "openbaring",
+      "before": {
+        "chapter": 5,
+        "verse": 1,
+        "file": "5-1.webp",
+        "alt": "Beeld bij Openbaring 5: Een boekrol met zeven zegels",
+        "scene": "Een boekrol met zeven zegels"
+      },
+      "after": {
+        "chapter": 5,
+        "verse": 1,
+        "file": "5-1.webp",
+        "alt": "Beeld bij Openbaring 5: Een boekrol met zeven zegels",
+        "scene": "Een boekrol met zeven zegels",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "openbaring",
+      "before": {
+        "chapter": 5,
+        "verse": 5,
+        "file": "5-5.webp",
+        "alt": "Beeld bij Openbaring 5: Huil niet",
+        "scene": "Huil niet"
+      },
+      "after": {
+        "chapter": 5,
+        "verse": 5,
+        "file": "5-5.webp",
+        "alt": "Beeld bij Openbaring 5: Huil niet",
+        "scene": "Huil niet",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "openbaring",
+      "before": {
+        "chapter": 5,
+        "verse": 8,
+        "file": "5-8.webp",
+        "alt": "Beeld bij Openbaring 5: Reukwerk als gebeden",
+        "scene": "Reukwerk als gebeden"
+      },
+      "after": {
+        "chapter": 5,
+        "verse": 8,
+        "file": "5-8.webp",
+        "alt": "Beeld bij Openbaring 5: Reukwerk als gebeden",
+        "scene": "Reukwerk als gebeden",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "openbaring",
+      "before": {
+        "chapter": 6,
+        "verse": 2,
+        "file": "6-2.webp",
+        "alt": "Beeld bij Openbaring 6: Het witte paard",
+        "scene": "Het witte paard"
+      },
+      "after": {
+        "chapter": 6,
+        "verse": 2,
+        "file": "6-2.webp",
+        "alt": "Beeld bij Openbaring 6: Het witte paard",
+        "scene": "Het witte paard",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "openbaring",
+      "before": {
+        "chapter": 6,
+        "verse": 5,
+        "file": "6-5.webp",
+        "alt": "Beeld bij Openbaring 6: Het zwarte paard en de weegschaal",
+        "scene": "Het zwarte paard en de weegschaal"
+      },
+      "after": {
+        "chapter": 6,
+        "verse": 5,
+        "file": "6-5.webp",
+        "alt": "Beeld bij Openbaring 6: Het zwarte paard en de weegschaal",
+        "scene": "Het zwarte paard en de weegschaal",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "openbaring",
+      "before": {
+        "chapter": 6,
+        "verse": 12,
+        "file": "6-12.webp",
+        "alt": "Beeld bij Openbaring 6: Zwarte zon en rode maan",
+        "scene": "Zwarte zon en rode maan"
+      },
+      "after": {
+        "chapter": 6,
+        "verse": 12,
+        "file": "6-12.webp",
+        "alt": "Beeld bij Openbaring 6: Zwarte zon en rode maan",
+        "scene": "Zwarte zon en rode maan",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "openbaring",
+      "before": {
+        "chapter": 7,
+        "verse": 1,
+        "file": "7-1.webp",
+        "alt": "Beeld bij Openbaring 7: Vier engelen houden de winden tegen",
+        "scene": "Vier engelen houden de winden tegen"
+      },
+      "after": {
+        "chapter": 7,
+        "verse": 1,
+        "file": "7-1.webp",
+        "alt": "Beeld bij Openbaring 7: Vier engelen houden de winden tegen",
+        "scene": "Vier engelen houden de winden tegen",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "openbaring",
+      "before": {
+        "chapter": 7,
+        "verse": 9,
+        "file": "7-9.webp",
+        "alt": "Beeld bij Openbaring 7: Een menigte met palmtakken",
+        "scene": "Een menigte met palmtakken"
+      },
+      "after": {
+        "chapter": 7,
+        "verse": 9,
+        "file": "7-9.webp",
+        "alt": "Beeld bij Openbaring 7: Een menigte met palmtakken",
+        "scene": "Een menigte met palmtakken",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "openbaring",
+      "before": {
+        "chapter": 7,
+        "verse": 17,
+        "file": "7-17.webp",
+        "alt": "Beeld bij Openbaring 7: Bronnen van levend water",
+        "scene": "Bronnen van levend water"
+      },
+      "after": {
+        "chapter": 7,
+        "verse": 17,
+        "file": "7-17.webp",
+        "alt": "Beeld bij Openbaring 7: Bronnen van levend water",
+        "scene": "Bronnen van levend water",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "openbaring",
+      "before": {
+        "chapter": 8,
+        "verse": 2,
+        "file": "8-2.webp",
+        "alt": "Beeld bij Openbaring 8: Zeven engelen met bazuinen",
+        "scene": "Zeven engelen met bazuinen"
+      },
+      "after": {
+        "chapter": 8,
+        "verse": 2,
+        "file": "8-2.webp",
+        "alt": "Beeld bij Openbaring 8: Zeven engelen met bazuinen",
+        "scene": "Zeven engelen met bazuinen",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "openbaring",
+      "before": {
+        "chapter": 8,
+        "verse": 3,
+        "file": "8-3.webp",
+        "alt": "Beeld bij Openbaring 8: De engel met het wierookvat",
+        "scene": "De engel met het wierookvat"
+      },
+      "after": {
+        "chapter": 8,
+        "verse": 3,
+        "file": "8-3.webp",
+        "alt": "Beeld bij Openbaring 8: De engel met het wierookvat",
+        "scene": "De engel met het wierookvat",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    },
+    {
+      "book": "openbaring",
+      "before": {
+        "chapter": 8,
+        "verse": 13,
+        "file": "8-13.webp",
+        "alt": "Beeld bij Openbaring 8: De arend hoog aan de hemel",
+        "scene": "De arend hoog aan de hemel"
+      },
+      "after": {
+        "chapter": 8,
+        "verse": 13,
+        "file": "8-13.webp",
+        "alt": "Beeld bij Openbaring 8: De arend hoog aan de hemel",
+        "scene": "De arend hoog aan de hemel",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      "reason": "Bestaand beeld bekeken en vers, type en werkelijke afmetingen gecontroleerd bij het volledige plaatselijke hoofdstuk."
+    }
+  ]
+}
