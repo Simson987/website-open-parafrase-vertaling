@@ -35302,6 +35302,58 @@
           "source": "Judith 9:6–19"
         }
       ]
+    },
+    {
+      "book": "judith",
+      "chapter": 12,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Eigen voedsel, gebed en maaltijd zijn aanwezig. Bagoas’ uitnodiging op de vierde dag is een zelfstandig moment vóór het feest. Leeswijzer en tijd-voedselschema onderscheiden de drie kampdagen, de vierde dag en haar eigen voorraad.",
+      "additions": [
+        {
+          "verse": 12,
+          "file": "12-12-bagoas-uitnodiging-verdieping.webp",
+          "scene": "Bagoas nodigt Judith uit",
+          "kind": "scene"
+        },
+        {
+          "verse": 1,
+          "file": "12-leeswijzer.svg",
+          "scene": "Drie dagen en een maaltijd",
+          "kind": "diagram",
+          "source": "Judith 12:1–20"
+        },
+        {
+          "verse": 7,
+          "file": "12-dagen-en-voorraad.svg",
+          "scene": "Tijd en voedsel in het kamp",
+          "kind": "diagram",
+          "source": "Judith 12:1–20"
+        }
+      ]
+    },
+    {
+      "book": "judith",
+      "chapter": 11,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Drie bestaande beelden tonen het gesprek en de luisterende dienaren. Leeswijzer en schema van bewering, voorwaarde en belofte geven de redenering weer, zonder nog een soortgelijke gespreksscène of haar claims als feit te tekenen.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "11-leeswijzer.svg",
+          "scene": "Judiths betoog in het kamp",
+          "kind": "diagram",
+          "source": "Judith 11:1–21"
+        },
+        {
+          "verse": 8,
+          "file": "11-bewering-en-belofte.svg",
+          "scene": "Wat Judith Holofernes vertelt",
+          "kind": "diagram",
+          "source": "Judith 11:7–21"
+        }
+      ]
     }
   ]
 }

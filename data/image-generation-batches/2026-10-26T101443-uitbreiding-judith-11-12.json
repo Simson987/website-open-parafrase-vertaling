@@ -1,0 +1,153 @@
+{
+  "date": "2026-10-26",
+  "started": "2026-10-26T10:14:43Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "judith",
+      "chapter": 12,
+      "verse": 12,
+      "file": "12-12-bagoas-uitnodiging-verdieping.webp",
+      "scene": "Bagoas nodigt Judith uit",
+      "alt": "Bagoas nodigt Judith uit — Judith 12:12; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of the narrative world of Judith in ancient Near East, landscape 3:2, natural light and modest fully covering opaque garments, coherent human anatomy with exactly two arms per person. No readable writing, modern objects, injuries, blood or watermark. Judith 12:12. The fourth day in the ancient Assyrian camp. Bagoas, an adult male household chamberlain wearing a fine plain linen robe, stands outside the open entrance of Judith’s modest guest tent and politely invites her to the commander’s banquet with one open hand. Adult Jewish widow Judith stands inside the tent wearing a fully covering cream and burgundy robe and gold headband, her adult female maid behind her beside wrapped provisions and a small clay jar. Exactly three people. Bagoas has no royal crown or weapons. No physical contact, no banquet yet, no wine drinking yet, no seduction pose. Focus on the formal invitation and Judith’s composed response, natural hands, exactly two arms each.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "judith",
+      "chapter": 11,
+      "verse": 1,
+      "file": "11-leeswijzer.svg",
+      "scene": "Judiths betoog in het kamp",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1141,
+      "source": "Judith 11:1–21",
+      "design": {
+        "rows": [
+          [
+            "1–3 · Holofernes verzekert",
+            "Hij belooft veiligheid en vraagt waarom zij gekomen is."
+          ],
+          [
+            "4–13 · Judith antwoordt",
+            "Zij vleit hem, verwijst naar Achior en beweert dat Betulia verboden voedsel wil gebruiken."
+          ],
+          [
+            "14–17 · Haar toezegging",
+            "Nachtelijk gebed, een bericht en begeleiding naar Jeruzalem worden beloofd."
+          ],
+          [
+            "18–21 · De reactie",
+            "De woorden bevallen; Holofernes belooft haar aanzien als zij doet wat zij zegt."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "judith",
+      "chapter": 12,
+      "verse": 1,
+      "file": "12-leeswijzer.svg",
+      "scene": "Drie dagen en een maaltijd",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1098,
+      "source": "Judith 12:1–20",
+      "design": {
+        "rows": [
+          [
+            "1–4 · Eigen voorraad",
+            "Judith weigert het aangeboden voedsel en vertrouwt op haar eigen voorraad."
+          ],
+          [
+            "5–9 · De nachten",
+            "Zij krijgt vrije doorgang, wast zich bij de bronnen en bidt."
+          ],
+          [
+            "10–14 · De uitnodiging",
+            "Op de vierde dag stuurt Holofernes Bagoas naar haar toe."
+          ],
+          [
+            "15–20 · De maaltijd",
+            "De dienares spreidt vellen; Judith eet eigen voedsel en Holofernes drinkt zeer veel."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "judith",
+      "chapter": 11,
+      "verse": 8,
+      "file": "11-bewering-en-belofte.svg",
+      "scene": "Wat Judith Holofernes vertelt",
+      "alt": "Wat Judith Holofernes vertelt met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1091,
+      "source": "Judith 11:7–21",
+      "design": {
+        "rows": [
+          [
+            "Achiors uitgangspunt · 7–8",
+            "Israël wordt volgens haar niet verslagen zonder zonde tegen God."
+          ],
+          [
+            "Haar bewering · 9–13",
+            "Zij zegt dat het volk verboden voedsel en geheiligde voorraden wil gebruiken."
+          ],
+          [
+            "Haar belofte · 14–17",
+            "Zij zal bidden, bericht brengen en hem naar Jeruzalem leiden."
+          ],
+          [
+            "Zijn antwoord · 18–21",
+            "Hij is onder de indruk en belooft haar een plaats bij de koning."
+          ]
+        ],
+        "note": "Dit geeft haar woorden in het gesprek weer; haar beweringen zijn geen afzonderlijk waargenomen gebeurtenissen."
+      }
+    },
+    {
+      "book": "judith",
+      "chapter": 12,
+      "verse": 7,
+      "file": "12-dagen-en-voorraad.svg",
+      "scene": "Tijd en voedsel in het kamp",
+      "alt": "Tijd en voedsel in het kamp met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1134,
+      "source": "Judith 12:1–20",
+      "design": {
+        "rows": [
+          [
+            "Eigen eten · 1–4,19",
+            "Zij neemt niet van zijn aangeboden eten; haar dienares bereidt haar eigen voorraad."
+          ],
+          [
+            "Drie dagen · 7–9",
+            "Nachtelijke uitgang, wassen bij de waterbronnen, gebed en terugkeer."
+          ],
+          [
+            "Vierde dag · 10–15",
+            "Bagoas nodigt uit; Judith kleedt zich en haar dienares spreidt de vellen."
+          ],
+          [
+            "De maaltijd · 16–20",
+            "Judith eet en drinkt; Holofernes drinkt meer wijn dan ooit op één dag."
+          ]
+        ],
+        "note": "De drie dagen en de vierde dag volgen de tekst; exacte uren en hoeveelheden wijn zijn niet genoemd."
+      }
+    }
+  ]
+}

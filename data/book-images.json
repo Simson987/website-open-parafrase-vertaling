@@ -58825,42 +58825,60 @@
         "verse": 4,
         "file": "11-4.webp",
         "alt": "Beeld bij Judith 11: Judith spreekt voor Holofernes",
-        "scene": "Judith spreekt voor Holofernes"
+        "scene": "Judith spreekt voor Holofernes",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 11,
         "verse": 7,
         "file": "11-7.webp",
         "alt": "Beeld bij Judith 11: Judith herinnert aan Achiors woorden",
-        "scene": "Judith herinnert aan Achiors woorden"
+        "scene": "Judith herinnert aan Achiors woorden",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 11,
         "verse": 18,
         "file": "11-18.webp",
         "alt": "Beeld bij Judith 11: De dienaren luisteren naar haar wijsheid",
-        "scene": "De dienaren luisteren naar haar wijsheid"
+        "scene": "De dienaren luisteren naar haar wijsheid",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 12,
         "verse": 2,
         "file": "12-2.webp",
         "alt": "Beeld bij Judith 12: Judith eet van haar eigen voorraad",
-        "scene": "Judith eet van haar eigen voorraad"
+        "scene": "Judith eet van haar eigen voorraad",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 12,
         "verse": 8,
         "file": "12-8.webp",
         "alt": "Beeld bij Judith 12: Judith bidt buiten het kamp",
-        "scene": "Judith bidt buiten het kamp"
+        "scene": "Judith bidt buiten het kamp",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 12,
         "verse": 19,
         "file": "12-19.webp",
         "alt": "Beeld bij Judith 12: De maaltijd in de tent",
-        "scene": "De maaltijd in de tent"
+        "scene": "De maaltijd in de tent",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 13,
@@ -59248,6 +59266,56 @@
         "kind": "diagram",
         "width": 840,
         "height": 1055
+      },
+      {
+        "chapter": 12,
+        "verse": 12,
+        "file": "12-12-bagoas-uitnodiging-verdieping.webp",
+        "scene": "Bagoas nodigt Judith uit",
+        "alt": "Bagoas nodigt Judith uit — Judith 12:12; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 11,
+        "verse": 1,
+        "file": "11-leeswijzer.svg",
+        "scene": "Judiths betoog in het kamp",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1141
+      },
+      {
+        "chapter": 12,
+        "verse": 1,
+        "file": "12-leeswijzer.svg",
+        "scene": "Drie dagen en een maaltijd",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1098
+      },
+      {
+        "chapter": 11,
+        "verse": 8,
+        "file": "11-bewering-en-belofte.svg",
+        "scene": "Wat Judith Holofernes vertelt",
+        "alt": "Wat Judith Holofernes vertelt met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1091
+      },
+      {
+        "chapter": 12,
+        "verse": 7,
+        "file": "12-dagen-en-voorraad.svg",
+        "scene": "Tijd en voedsel in het kamp",
+        "alt": "Tijd en voedsel in het kamp met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1134
       }
     ],
     "jezussirach": [
