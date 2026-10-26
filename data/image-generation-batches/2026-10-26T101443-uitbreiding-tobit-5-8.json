@@ -1,0 +1,375 @@
+{
+  "date": "2026-10-26",
+  "started": "2026-10-26T10:14:43Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "tobit",
+      "chapter": 5,
+      "verse": 28,
+      "file": "5-28-anna-troost-verdieping.webp",
+      "scene": "Tobit stelt Anna gerust",
+      "alt": "Tobit stelt Anna gerust — Tobit 5:28; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic biblical narrative in ancient Assyrian-period Jewish communities of Nineveh and Media, natural materials and light, landscape 3:2, modest opaque period robes, two anatomically coherent arms and legs per person. No modern objects, readable writing, blood, injuries or watermark. Blind elderly Tobit with unseeing pale clouded eyes gently comforts his wife Anna in their ancient Nineveh home doorway after their son has left. Anna wipes a tear with one hand while Tobit rests one hand gently on hers, calm assurance and grief. Exactly two arms each, modest opaque robes, a walking stick beside him, no son or angel visible.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "tobit",
+      "chapter": 7,
+      "verse": 16,
+      "file": "7-16-huwelijksakte-verdieping.webp",
+      "scene": "Raguël schrijft de huwelijksakte",
+      "alt": "Raguël schrijft de huwelijksakte — Tobit 7:16; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic biblical narrative in ancient Assyrian-period Jewish communities of Nineveh and Media, natural materials and light, landscape 3:2, modest opaque period robes, two anatomically coherent arms and legs per person. No modern objects, readable writing, blood, injuries or watermark. Raguel, an older bearded man in ancient Median Jewish robes, sits at a wooden table writing a marriage document in a small ancient booklet and presses a simple seal onto it. His wife Edna stands nearby, adult Tobias and Sara wait respectfully in the background, all fully modestly clothed. Exactly two arms each, no readable writing, modern pens or church objects.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "tobit",
+      "chapter": 8,
+      "verse": 12,
+      "file": "8-12-dienstmeisje-kijkt-verdieping.webp",
+      "scene": "Het dienstmeisje vindt hen levend",
+      "alt": "Het dienstmeisje vindt hen levend — Tobit 8:12; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic biblical narrative in ancient Assyrian-period Jewish communities of Nineveh and Media, natural materials and light, landscape 3:2, modest opaque period robes, two anatomically coherent arms and legs per person. No modern objects, readable writing, blood, injuries or watermark. Ancient modest bedroom at dawn, an adult female household servant opens a wooden door slightly and sees adult Tobias and Sara peacefully asleep on two adjacent sleeping places, both fully covered by opaque blankets from shoulders down, faces visible and unharmed. The servant carries a small clay oil lamp and looks relieved. Respectful wide composition, no intimacy, nudity or threat.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "tobit",
+      "chapter": 8,
+      "verse": 16,
+      "file": "8-16-graf-dicht-verdieping.webp",
+      "scene": "Het ongebruikte graf gaat dicht",
+      "alt": "Het ongebruikte graf gaat dicht — Tobit 8:16; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic biblical narrative in ancient Assyrian-period Jewish communities of Nineveh and Media, natural materials and light, landscape 3:2, modest opaque period robes, two anatomically coherent arms and legs per person. No modern objects, readable writing, blood, injuries or watermark. Early morning outside an ancient Median household, two fully clothed servants quietly fill an empty unused small grave with earth using simple ancient wooden and iron digging tools. The father Raguel watches from a distance with relief. No corpse, burial cloth, bones or injuries. Joyful reversal of fear, coherent arms and tool grips, ancient landscape.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "tobit",
+      "chapter": 5,
+      "verse": 1,
+      "file": "5-leeswijzer.svg",
+      "scene": "Een reisgenoot en afscheid",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 906,
+      "source": "Tobit 5:1–29",
+      "design": {
+        "rows": [
+          [
+            "1–10 · Iemand voor de weg",
+            "Tobias vraagt naar het geld en ontmoet Rafaël, zonder zijn engel-zijn te kennen."
+          ],
+          [
+            "11–22 · Bij Tobit",
+            "De reisgenoot noemt zich Azarias; familie en loon worden besproken."
+          ],
+          [
+            "23–29 · Vertrek en vertrouwen",
+            "Tobias vertrekt met de man en hond; Anna huilt, Tobit stelt haar gerust."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "tobit",
+      "chapter": 6,
+      "verse": 1,
+      "file": "6-leeswijzer.svg",
+      "scene": "De vis en de raad",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 906,
+      "source": "Tobit 6:1–23",
+      "design": {
+        "rows": [
+          [
+            "1–7 · Bij de Tigris",
+            "Een vis valt aan; Tobias pakt hem, bewaart delen en zij eten de vis."
+          ],
+          [
+            "8–10 · De betekenis van de delen",
+            "Hart en lever voor rook tegen een boze geest, gal voor de witte oogvlekken."
+          ],
+          [
+            "11–23 · Sara en het gebed",
+            "Rafaël spreekt over huwelijk en erfenis; Tobias’ angst krijgt een antwoord en opdracht tot samen bidden."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "tobit",
+      "chapter": 7,
+      "verse": 1,
+      "file": "7-leeswijzer.svg",
+      "scene": "Welkom, huwelijk en troost",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 906,
+      "source": "Tobit 7:1–20",
+      "design": {
+        "rows": [
+          [
+            "1–8 · Herkenning",
+            "Raguël herkent Tobits zoon en hoort van diens blindheid; het gezin huilt."
+          ],
+          [
+            "9–17 · De afspraak",
+            "Tobias vraagt naar Sara, Raguël vertelt de waarheid en bezegelt het huwelijk."
+          ],
+          [
+            "18–20 · Edna en Sara",
+            "De kamer wordt klaargemaakt; Edna troost haar dochter en wenst haar vreugde."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "tobit",
+      "chapter": 8,
+      "verse": 1,
+      "file": "8-leeswijzer.svg",
+      "scene": "Gebed, leven en vreugde",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1098,
+      "source": "Tobit 8:1–18",
+      "design": {
+        "rows": [
+          [
+            "1–3 · Het reukoffer",
+            "De raad van Rafaël wordt opgevolgd; de boze geest vlucht en wordt gebonden."
+          ],
+          [
+            "4–8 · Samen bidden",
+            "Tobias en Sara prijzen God en vragen om samen oud te worden."
+          ],
+          [
+            "9–16 · Angst wordt dank",
+            "Raguël graaft een graf; het dienstmeisje vindt hen levend; het graf gaat dicht."
+          ],
+          [
+            "17–18 · Veertien dagen",
+            "Raguël geeft een bruiloftsfeest en bepaalt de erfenis."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "tobit",
+      "chapter": 5,
+      "verse": 15,
+      "file": "5-reisgenoot-identiteit.svg",
+      "scene": "Wie is de reisgenoot?",
+      "alt": "Wie is de reisgenoot? met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1012,
+      "source": "Tobit 5:5–24",
+      "design": {
+        "rows": [
+          [
+            "Wat de verteller zegt",
+            "Rafaël is een engel; Tobias weet dat nog niet."
+          ],
+          [
+            "Hoe hij zich noemt",
+            "Azarias, zoon van de grote Ananias."
+          ],
+          [
+            "Wat Tobit onderzoekt",
+            "Stam, familie, betrouwbaarheid en bekendheid."
+          ],
+          [
+            "Het afgesproken loon",
+            "Een drachme per dag, benodigdheden en iets extra bij gezonde terugkeer."
+          ]
+        ],
+        "note": "Het onderscheid tussen lezerskennis en de kennis van Tobias blijft bewaard."
+      }
+    },
+    {
+      "book": "tobit",
+      "chapter": 6,
+      "verse": 6,
+      "file": "6-vis-delen.svg",
+      "scene": "De bewaarde delen van de vis",
+      "alt": "De bewaarde delen van de vis met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1048,
+      "source": "Tobit 6:6–10,19–21",
+      "design": {
+        "rows": [
+          [
+            "Hart en lever",
+            "Op de as van het reukoffer laten roken."
+          ],
+          [
+            "Hun rol in het verhaal",
+            "De boze geest zal die geur ruiken en vluchten."
+          ],
+          [
+            "Gal",
+            "Voor witte vlekken op de ogen; deze verhaallijn wordt later uitgevoerd."
+          ],
+          [
+            "Daarnaast: samen bidden",
+            "Beiden moeten de barmhartige God aanroepen."
+          ]
+        ],
+        "note": "Een overzicht van Rafaëls raad binnen het reisverhaal; de uitvoering volgt in latere hoofdstukken."
+      }
+    },
+    {
+      "book": "tobit",
+      "chapter": 6,
+      "verse": 15,
+      "file": "6-angst-en-raad.svg",
+      "scene": "Tobias’ angst en de raad",
+      "alt": "Tobias’ angst en de raad met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1091,
+      "source": "Tobit 6:15–23",
+      "design": {
+        "rows": [
+          [
+            "De vrees",
+            "Zeven mannen zijn gestorven; Tobias is het enige kind van zijn ouders."
+          ],
+          [
+            "De herinnering",
+            "Zijn vader vroeg een vrouw uit de eigen familie te nemen."
+          ],
+          [
+            "De instructie",
+            "Het reukoffer en het samen aanroepen van God."
+          ],
+          [
+            "Het gevolg",
+            "Tobias krijgt Sara lief en hecht zich aan haar."
+          ]
+        ],
+        "note": "Vraag, antwoord en gevolg zijn onderscheiden; Sara wordt niet als schuldige aan de sterfgevallen afgebeeld."
+      }
+    },
+    {
+      "book": "tobit",
+      "chapter": 7,
+      "verse": 9,
+      "file": "7-afspraak-volgorde.svg",
+      "scene": "Hoe het huwelijk wordt bezegeld",
+      "alt": "Hoe het huwelijk wordt bezegeld met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "Tobit 7:9–17",
+      "design": {
+        "rows": [
+          [
+            "Vraag vóór de maaltijd",
+            "Tobias wil eerst duidelijkheid over Sara."
+          ],
+          [
+            "Raguël vertelt de waarheid",
+            "Hij verzwijgt de eerdere sterfgevallen niet."
+          ],
+          [
+            "Zegen en handslag",
+            "Sara wordt aan Tobias gegeven volgens de wet van Mozes."
+          ],
+          [
+            "Schriftelijk vastgelegd",
+            "Raguël schrijft en verzegelt een huwelijksakte; daarna eten zij."
+          ]
+        ],
+        "note": "De akte en de zegen zijn afzonderlijke stappen in de plaatselijke volgorde."
+      }
+    },
+    {
+      "book": "tobit",
+      "chapter": 8,
+      "verse": 5,
+      "file": "8-gebed-echtpaar.svg",
+      "scene": "Waar Tobias en Sara om bidden",
+      "alt": "Waar Tobias en Sara om bidden met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1012,
+      "source": "Tobit 8:5–8",
+      "design": {
+        "rows": [
+          [
+            "Lof",
+            "God van de voorouders; Zijn naam en al Zijn schepselen worden geprezen."
+          ],
+          [
+            "Herinnering",
+            "Adam en Eva als hulp en steun voor elkaar."
+          ],
+          [
+            "Bedoeling",
+            "Tobias neemt Sara in oprechtheid."
+          ],
+          [
+            "Vraag en antwoord",
+            "Samen oud worden in ontferming; Sara zegt Amen."
+          ]
+        ],
+        "note": "Hun eigen gebed, geen extra tekst voor een hedendaagse huwelijksliturgie."
+      }
+    },
+    {
+      "book": "tobit",
+      "chapter": 8,
+      "verse": 17,
+      "file": "8-feest-erfenis.svg",
+      "scene": "Feest en erfenis",
+      "alt": "Feest en erfenis met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1048,
+      "source": "Tobit 8:17–18",
+      "design": {
+        "rows": [
+          [
+            "De duur",
+            "Veertien bruiloftsdagen; Tobias belooft tot het einde te blijven."
+          ],
+          [
+            "Bij vertrek",
+            "De helft van Raguëls bezit mag mee."
+          ],
+          [
+            "Later",
+            "De rest na het overlijden van Raguël en Edna."
+          ],
+          [
+            "Het doel van de reis",
+            "Daarna gezond naar Tobias’ vader terugkeren."
+          ]
+        ],
+        "note": "De onmiddellijke helft en latere helft worden niet als één uitbetaling op de trouwdag samengevoegd."
+      }
+    }
+  ]
+}

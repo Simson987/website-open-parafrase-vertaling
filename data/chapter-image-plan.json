@@ -34695,6 +34695,136 @@
           "source": "Tobit 4:15–20"
         }
       ]
+    },
+    {
+      "book": "tobit",
+      "chapter": 5,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Ontmoeting, ontvangst en vertrek met hond zijn aanwezig. Tobits troost aan Anna is een eigen afsluitend gesprek. Leeswijzer en identiteitsdiagram maken duidelijk dat Tobias de engel nog niet herkent.",
+      "additions": [
+        {
+          "verse": 28,
+          "file": "5-28-anna-troost-verdieping.webp",
+          "scene": "Tobit stelt Anna gerust",
+          "kind": "scene"
+        },
+        {
+          "verse": 1,
+          "file": "5-leeswijzer.svg",
+          "scene": "Een reisgenoot en afscheid",
+          "kind": "diagram",
+          "source": "Tobit 5:1–29"
+        },
+        {
+          "verse": 15,
+          "file": "5-reisgenoot-identiteit.svg",
+          "scene": "Wie is de reisgenoot?",
+          "kind": "diagram",
+          "source": "Tobit 5:5–24"
+        }
+      ]
+    },
+    {
+      "book": "tobit",
+      "chapter": 7,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Welkom, zegen en Edna’s troost zijn aanwezig. De schriftelijke en verzegelde huwelijksakte is een andere handeling. Opbouw en stappen van de afspraak bieden nadere uitleg.",
+      "additions": [
+        {
+          "verse": 16,
+          "file": "7-16-huwelijksakte-verdieping.webp",
+          "scene": "Raguël schrijft de huwelijksakte",
+          "kind": "scene"
+        },
+        {
+          "verse": 1,
+          "file": "7-leeswijzer.svg",
+          "scene": "Welkom, huwelijk en troost",
+          "kind": "diagram",
+          "source": "Tobit 7:1–20"
+        },
+        {
+          "verse": 9,
+          "file": "7-afspraak-volgorde.svg",
+          "scene": "Hoe het huwelijk wordt bezegeld",
+          "kind": "diagram",
+          "source": "Tobit 7:9–17"
+        }
+      ]
+    },
+    {
+      "book": "tobit",
+      "chapter": 8,
+      "status": "reviewed",
+      "target_images": 8,
+      "reason": "Reukoffer, gezamenlijk gebed en Raguëls dank zijn aanwezig. De vondst door het dienstmeisje en het dichtmaken van het ongebruikte graf tonen de omslag van angst naar leven; gebeds- en erfenisschema’s verduidelijken andere tekstgegevens.",
+      "additions": [
+        {
+          "verse": 12,
+          "file": "8-12-dienstmeisje-kijkt-verdieping.webp",
+          "scene": "Het dienstmeisje vindt hen levend",
+          "kind": "scene"
+        },
+        {
+          "verse": 16,
+          "file": "8-16-graf-dicht-verdieping.webp",
+          "scene": "Het ongebruikte graf gaat dicht",
+          "kind": "scene"
+        },
+        {
+          "verse": 1,
+          "file": "8-leeswijzer.svg",
+          "scene": "Gebed, leven en vreugde",
+          "kind": "diagram",
+          "source": "Tobit 8:1–18"
+        },
+        {
+          "verse": 5,
+          "file": "8-gebed-echtpaar.svg",
+          "scene": "Waar Tobias en Sara om bidden",
+          "kind": "diagram",
+          "source": "Tobit 8:5–8"
+        },
+        {
+          "verse": 17,
+          "file": "8-feest-erfenis.svg",
+          "scene": "Feest en erfenis",
+          "kind": "diagram",
+          "source": "Tobit 8:17–18"
+        }
+      ]
+    },
+    {
+      "book": "tobit",
+      "chapter": 6,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Reis, vis en raad tot bidden zijn aanwezig. Een leeswijzer en twee overzichtsschema’s verduidelijken de drie delen van de vis en Tobias’ angst zonder een nieuwe gelijksoortige vangstfoto.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "6-leeswijzer.svg",
+          "scene": "De vis en de raad",
+          "kind": "diagram",
+          "source": "Tobit 6:1–23"
+        },
+        {
+          "verse": 6,
+          "file": "6-vis-delen.svg",
+          "scene": "De bewaarde delen van de vis",
+          "kind": "diagram",
+          "source": "Tobit 6:6–10,19–21"
+        },
+        {
+          "verse": 15,
+          "file": "6-angst-en-raad.svg",
+          "scene": "Tobias’ angst en de raad",
+          "kind": "diagram",
+          "source": "Tobit 6:15–23"
+        }
+      ]
     }
   ]
 }

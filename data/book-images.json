@@ -57656,7 +57656,11 @@
         "chapter": 6,
         "file": "6-journey.webp",
         "alt": "Tobias reist langs een rivier",
-        "scene": "De reis van Tobias"
+        "scene": "De reis van Tobias",
+        "verse": 1,
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 11,
@@ -57779,77 +57783,110 @@
         "verse": 5,
         "file": "5-5.webp",
         "alt": "Beeld bij Tobit 5: Tobias ontmoet Rafaël",
-        "scene": "Tobias ontmoet Rafaël"
+        "scene": "Tobias ontmoet Rafaël",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 5,
         "verse": 16,
         "file": "5-16.webp",
         "alt": "Beeld bij Tobit 5: Welkom broeder Azarias",
-        "scene": "Welkom broeder Azarias"
+        "scene": "Welkom broeder Azarias",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 5,
         "verse": 25,
         "file": "5-25.webp",
         "alt": "Beeld bij Tobit 5: Op weg met de hond",
-        "scene": "Op weg met de hond"
+        "scene": "Op weg met de hond",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 6,
         "verse": 5,
         "file": "6-5.webp",
         "alt": "Beeld bij Tobit 6: De vis aan land gebracht",
-        "scene": "De vis aan land gebracht"
+        "scene": "De vis aan land gebracht",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 6,
         "verse": 21,
         "file": "6-21.webp",
         "alt": "Beeld bij Tobit 6: Raad om samen te bidden",
-        "scene": "Raad om samen te bidden"
+        "scene": "Raad om samen te bidden",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 7,
         "verse": 1,
         "file": "7-1.webp",
         "alt": "Beeld bij Tobit 7: Welkom in het huis van Raguël",
-        "scene": "Welkom in het huis van Raguël"
+        "scene": "Welkom in het huis van Raguël",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 7,
         "verse": 15,
         "file": "7-15.webp",
         "alt": "Beeld bij Tobit 7: Raguël zegent het huwelijk",
-        "scene": "Raguël zegent het huwelijk"
+        "scene": "Raguël zegent het huwelijk",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 7,
         "verse": 20,
         "file": "7-20.webp",
         "alt": "Beeld bij Tobit 7: Edna troost haar dochter",
-        "scene": "Edna troost haar dochter"
+        "scene": "Edna troost haar dochter",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 8,
         "verse": 2,
         "file": "8-2.webp",
         "alt": "Beeld bij Tobit 8: Tobias legt het reukoffer klaar",
-        "scene": "Tobias legt het reukoffer klaar"
+        "scene": "Tobias legt het reukoffer klaar",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 8,
         "verse": 4,
         "file": "8-4.webp",
         "alt": "Beeld bij Tobit 8: Tobias en Sara bidden samen",
-        "scene": "Tobias en Sara bidden samen"
+        "scene": "Tobias en Sara bidden samen",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 8,
         "verse": 14,
         "file": "8-14.webp",
         "alt": "Beeld bij Tobit 8: Raguël dankt God",
-        "scene": "Raguël dankt God"
+        "scene": "Raguël dankt God",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 9,
@@ -58099,6 +58136,146 @@
         "kind": "diagram",
         "width": 840,
         "height": 722
+      },
+      {
+        "chapter": 5,
+        "verse": 28,
+        "file": "5-28-anna-troost-verdieping.webp",
+        "scene": "Tobit stelt Anna gerust",
+        "alt": "Tobit stelt Anna gerust — Tobit 5:28; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 7,
+        "verse": 16,
+        "file": "7-16-huwelijksakte-verdieping.webp",
+        "scene": "Raguël schrijft de huwelijksakte",
+        "alt": "Raguël schrijft de huwelijksakte — Tobit 7:16; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 8,
+        "verse": 12,
+        "file": "8-12-dienstmeisje-kijkt-verdieping.webp",
+        "scene": "Het dienstmeisje vindt hen levend",
+        "alt": "Het dienstmeisje vindt hen levend — Tobit 8:12; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 8,
+        "verse": 16,
+        "file": "8-16-graf-dicht-verdieping.webp",
+        "scene": "Het ongebruikte graf gaat dicht",
+        "alt": "Het ongebruikte graf gaat dicht — Tobit 8:16; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 5,
+        "verse": 1,
+        "file": "5-leeswijzer.svg",
+        "scene": "Een reisgenoot en afscheid",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 906
+      },
+      {
+        "chapter": 6,
+        "verse": 1,
+        "file": "6-leeswijzer.svg",
+        "scene": "De vis en de raad",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 906
+      },
+      {
+        "chapter": 7,
+        "verse": 1,
+        "file": "7-leeswijzer.svg",
+        "scene": "Welkom, huwelijk en troost",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 906
+      },
+      {
+        "chapter": 8,
+        "verse": 1,
+        "file": "8-leeswijzer.svg",
+        "scene": "Gebed, leven en vreugde",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1098
+      },
+      {
+        "chapter": 5,
+        "verse": 15,
+        "file": "5-reisgenoot-identiteit.svg",
+        "scene": "Wie is de reisgenoot?",
+        "alt": "Wie is de reisgenoot? met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1012
+      },
+      {
+        "chapter": 6,
+        "verse": 6,
+        "file": "6-vis-delen.svg",
+        "scene": "De bewaarde delen van de vis",
+        "alt": "De bewaarde delen van de vis met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1048
+      },
+      {
+        "chapter": 6,
+        "verse": 15,
+        "file": "6-angst-en-raad.svg",
+        "scene": "Tobias’ angst en de raad",
+        "alt": "Tobias’ angst en de raad met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1091
+      },
+      {
+        "chapter": 7,
+        "verse": 9,
+        "file": "7-afspraak-volgorde.svg",
+        "scene": "Hoe het huwelijk wordt bezegeld",
+        "alt": "Hoe het huwelijk wordt bezegeld met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1055
+      },
+      {
+        "chapter": 8,
+        "verse": 5,
+        "file": "8-gebed-echtpaar.svg",
+        "scene": "Waar Tobias en Sara om bidden",
+        "alt": "Waar Tobias en Sara om bidden met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1012
+      },
+      {
+        "chapter": 8,
+        "verse": 17,
+        "file": "8-feest-erfenis.svg",
+        "scene": "Feest en erfenis",
+        "alt": "Feest en erfenis met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1048
       }
     ],
     "judith": [
