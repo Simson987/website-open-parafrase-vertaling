@@ -1,0 +1,276 @@
+{
+  "date": "2026-10-26",
+  "started": "2026-10-26T11:17:18Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "jezussirach",
+      "chapter": 7,
+      "verse": 21,
+      "file": "7-21-trouwe-knecht-vrij-verdieping.webp",
+      "scene": "Een trouwe knecht de vrijheid geven",
+      "alt": "Een trouwe knecht de vrijheid geven — Jezus Sirach 7:21; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic teaching illustration for Jesus Sirach, ancient Judea, landscape 3:2, natural light, modest opaque garments and anatomically coherent people with exactly two arms. No modern objects, readable writing, injuries or watermark. Sirach 7:20–21 illustrated as an ancient household example: an older adult householder stands beside an adult male servant in a sunlit stone courtyard, meeting him at eye level with a warm respectful open-handed gesture as he grants him freedom. The servant carries his own simple cloth bundle and looks toward the open courtyard gate. No chains, collar, kneeling, humiliation, written manumission contract or modern props. Two distinct men, exactly two arms each, natural hands.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "jezussirach",
+      "chapter": 7,
+      "verse": 36,
+      "file": "7-36-rouw-delen-verdieping.webp",
+      "scene": "Meeleven met wie rouwen",
+      "alt": "Meeleven met wie rouwen — Jezus Sirach 7:36; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic teaching illustration for Jesus Sirach, ancient Judea, landscape 3:2, natural light, modest opaque garments and anatomically coherent people with exactly two arms. No modern objects, readable writing, injuries or watermark. Sirach 7:36 teaching example: a modestly robed adult woman sits quietly next to a grieving adult woman in an ancient home, offering companionship with one hand gently on her shoulder. A second visitor sits nearby listening respectfully. No corpse, funeral spectacle, wailing crowd, injury or young child in distress. Sober gentle lamplight, coherent anatomy, dignity and presence.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "jezussirach",
+      "chapter": 8,
+      "verse": 4,
+      "file": "8-4-geen-hout-op-vuur-verdieping.webp",
+      "scene": "Beeldspraak: geen hout op het vuur",
+      "alt": "Beeldspraak: geen hout op het vuur — Jezus Sirach 8:4; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: historical-scene. Photorealistic teaching illustration for Jesus Sirach, ancient Judea, landscape 3:2, natural light, modest opaque garments and anatomically coherent people with exactly two arms. No modern objects, readable writing, injuries or watermark. A poetic illustration of Sirach 8:4: one adult man in a modest ancient linen tunic deliberately sets a small bundle of firewood aside on the bare stone ground beside a modest low hearth, rather than feeding the small existing flames. Visible two hands hold the same bundle naturally, no other arms. Calm restraint, no people arguing, no building burning. Ancient courtyard, soft morning light. The scene illustrates avoiding escalation of a quarrel, not an identified historical event.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "jezussirach",
+      "chapter": 6,
+      "verse": 7,
+      "file": "6-vrienden-op-de-proef.svg",
+      "scene": "Welke vriend blijft in nood?",
+      "alt": "Welke vriend blijft in nood? met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1098,
+      "source": "Jezus Sirach 6:5–17",
+      "design": {
+        "rows": [
+          [
+            "Veel vrede · 5–7",
+            "Vriendelijke woorden maken vrienden; kies een raadgever zorgvuldig en beproef vertrouwen."
+          ],
+          [
+            "Zolang het uitkomt · 8–12",
+            "Voordeelvriend, veranderde vijand en tafelgenoot kunnen wegblijven in nood."
+          ],
+          [
+            "De trouwe vriend · 14–16",
+            "Bescherming, onschatbare schat en medicijn voor het leven."
+          ],
+          [
+            "De eigen houding · 17",
+            "Wie ontzag heeft voor de Heere, gedraagt zich goed in vriendschappen."
+          ]
+        ],
+        "note": "De genoemde soorten vriendschap zijn voorbeelden en vergelijkingen, geen namenlijst."
+      }
+    },
+    {
+      "book": "jezussirach",
+      "chapter": 6,
+      "verse": 18,
+      "file": "6-onderwijs-beeldparen.svg",
+      "scene": "Van inspanning naar vreugde",
+      "alt": "Van inspanning naar vreugde met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1091,
+      "source": "Jezus Sirach 6:18–37",
+      "design": {
+        "rows": [
+          [
+            "Vrucht · 18–20",
+            "Onderwijs vraagt arbeid en geduld voordat de opbrengst komt."
+          ],
+          [
+            "Last · 21–26",
+            "Een proefsteen, boeien, halsband en dragen verbeelden de eerste moeite."
+          ],
+          [
+            "Sieraad · 27–32",
+            "Volhouden leidt tot rust; banden worden bescherming, mantel en kroon."
+          ],
+          [
+            "De praktijk · 33–37",
+            "Luisteren naar ouderen, de wijze bezoeken en de geboden overdenken."
+          ]
+        ],
+        "note": "De boeien en halsbanden behoren tot de vergelijking over onderwijs en veranderen in beelden van eer."
+      }
+    },
+    {
+      "book": "jezussirach",
+      "chapter": 7,
+      "verse": 18,
+      "file": "7-kring-van-zorg.svg",
+      "scene": "Een brede kring van zorg",
+      "alt": "Een brede kring van zorg met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1141,
+      "source": "Jezus Sirach 7:18–38",
+      "design": {
+        "rows": [
+          [
+            "Dichtbij · 18–21,27–28",
+            "Vriend, broer, echtgenoot, knecht, dagloner en ouders verdienen trouw en eer."
+          ],
+          [
+            "Het huishouden · 22–26",
+            "Zorg voor vee; onderwijs kinderen en zoek een verstandig huwelijk."
+          ],
+          [
+            "De eredienst · 29–33",
+            "Ontzag, priesters eren en hun voorgeschreven aandeel geven."
+          ],
+          [
+            "De kwetsbaren · 34–38",
+            "Armen, doden, rouwenden en zieken niet vergeten; bij alles aan het einde denken."
+          ]
+        ],
+        "note": "De voorbeelden verbreden de verantwoordelijkheid van eigen huis naar gemeenschap en eredienst."
+      }
+    },
+    {
+      "book": "jezussirach",
+      "chapter": 7,
+      "verse": 29,
+      "file": "7-genoemde-priestergaven.svg",
+      "scene": "De priestergaven",
+      "alt": "De priestergaven met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1091,
+      "source": "Jezus Sirach 7:29–33",
+      "design": {
+        "rows": [
+          [
+            "De houding · 29–30",
+            "Liefde voor de Maker, ontzag en eer voor Zijn dienaren."
+          ],
+          [
+            "De eerstelingen · 32",
+            "De eerste opbrengst wordt samen met het schuldoffer genoemd."
+          ],
+          [
+            "De overige gaven · 33",
+            "Gaven van de schouders, het heiligingsoffer en eerstelingen van de heilige dingen."
+          ],
+          [
+            "De maatstaf · 31",
+            "Geven zoals bevolen is."
+          ]
+        ],
+        "note": "De opsomming blijft bij de namen in dit hoofdstuk; aantallen of gewichten staan hier niet bij."
+      }
+    },
+    {
+      "book": "jezussirach",
+      "chapter": 8,
+      "verse": 1,
+      "file": "8-ruzies-en-vertrouwen.svg",
+      "scene": "Conflicten en vertrouwen afwegen",
+      "alt": "Conflicten en vertrouwen afwegen met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1141,
+      "source": "Jezus Sirach 8:1–22",
+      "design": {
+        "rows": [
+          [
+            "Ruzie · 1–8,13–14",
+            "Macht, rijkdom, veelpraterij en spot kunnen het conflict vergroten; eer leeftijd en omkeer."
+          ],
+          [
+            "Leren · 9–12",
+            "Ouderen dragen onderwijs van hun vaders over en leren passend antwoorden."
+          ],
+          [
+            "Verbintenissen · 15–19",
+            "Lening, borg, rechtspraak en reisgezelschap vragen besef van risico en eigen vermogen."
+          ],
+          [
+            "Vertrouwelijkheid · 20–22",
+            "Raad en het delen van geheimen vragen zorgvuldig gekozen mensen."
+          ]
+        ],
+        "note": "De vermaningen verbinden voorzichtigheid met eerbied en leren."
+      }
+    },
+    {
+      "book": "jezussirach",
+      "chapter": 9,
+      "verse": 1,
+      "file": "9-relaties-en-raad.svg",
+      "scene": "Grenzen, vriendschap en raad",
+      "alt": "Grenzen, vriendschap en raad met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1098,
+      "source": "Jezus Sirach 9:1–22",
+      "design": {
+        "rows": [
+          [
+            "De eerste waarschuwingen · 1–11",
+            "Jaloezie, ontrouw, begeerte en een riskant drinkgelag worden afgewezen."
+          ],
+          [
+            "Beproefde vriendschap · 12–13",
+            "Bewaar een oude vriend; nieuwe vriendschap is als wijn die moet rijpen."
+          ],
+          [
+            "Eer en macht · 14–18",
+            "Geen afgunst om schijnbaar succes; voorzichtigheid bij dodelijke macht."
+          ],
+          [
+            "Goede omgang · 19–22",
+            "Vraag wijzen raad, kies rechtvaardige tafelgenoten en spreek met verstand."
+          ]
+        ],
+        "note": "De opbouw bewaart de verschillende sociale lessen naast het beeld van rijpende wijn."
+      }
+    },
+    {
+      "book": "jezussirach",
+      "chapter": 10,
+      "verse": 4,
+      "file": "10-waar-eer-op-rust.svg",
+      "scene": "Waar bestuur en eer op rusten",
+      "alt": "Waar bestuur en eer op rusten met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1134,
+      "source": "Jezus Sirach 10:1–34",
+      "design": {
+        "rows": [
+          [
+            "Het bestuur · 1–5",
+            "Een wijze leider vormt het volk; macht en welslagen liggen bij de Heere."
+          ],
+          [
+            "De val · 6–21",
+            "Hoogmoed, onrecht en bedrieglijke rijkdom brengen omverwerping."
+          ],
+          [
+            "Het aanzien · 22–28",
+            "Ontzag en kennis tellen bij rijk, arm en knecht."
+          ],
+          [
+            "Het handelen · 29–34",
+            "Werk, brood, zachtmoedigheid en waardigheid wegen zwaarder dan opscheppen."
+          ]
+        ],
+        "note": "Sociale rang, rijkdom, verstand en ontzag worden als verschillende gronden van waardering besproken."
+      }
+    }
+  ]
+}
