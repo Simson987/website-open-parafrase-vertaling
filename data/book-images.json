@@ -62848,13 +62848,21 @@
         "chapter": 14,
         "file": "14-prayer.webp",
         "alt": "Esther bidt voor haar volk",
-        "scene": "Het gebed van Esther"
+        "scene": "Het gebed van Esther",
+        "verse": 1,
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 15,
         "file": "15-court.webp",
         "alt": "Esther nadert de troonzaal van de koning",
-        "scene": "Esther voor de koning"
+        "scene": "Esther voor de koning",
+        "verse": 6,
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 10,
@@ -62971,49 +62979,70 @@
         "verse": 2,
         "file": "14-2.webp",
         "alt": "Beeld bij Estherapocrief 14: Esther legt haar pracht af",
-        "scene": "Esther legt haar pracht af"
+        "scene": "Esther legt haar pracht af",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 14,
         "verse": 13,
         "file": "14-13.webp",
         "alt": "Beeld bij Estherapocrief 14: Esther zoekt de juiste woorden",
-        "scene": "Esther zoekt de juiste woorden"
+        "scene": "Esther zoekt de juiste woorden",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 15,
         "verse": 4,
         "file": "15-4.webp",
         "alt": "Beeld bij Estherapocrief 15: De dienstmeisjes begeleiden Esther",
-        "scene": "De dienstmeisjes begeleiden Esther"
+        "scene": "De dienstmeisjes begeleiden Esther",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 15,
         "verse": 8,
         "file": "15-8.webp",
         "alt": "Beeld bij Estherapocrief 15: De koning troost Esther",
-        "scene": "De koning troost Esther"
+        "scene": "De koning troost Esther",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 16,
         "verse": 1,
         "file": "16-1.webp",
         "alt": "Beeld bij Estherapocrief 16: Een nieuw besluit",
-        "scene": "Een nieuw besluit"
+        "scene": "Een nieuw besluit",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 16,
         "verse": 19,
         "file": "16-19.webp",
         "alt": "Beeld bij Estherapocrief 16: Vrij om de eigen wet te volgen",
-        "scene": "Vrij om de eigen wet te volgen"
+        "scene": "Vrij om de eigen wet te volgen",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 16,
         "verse": 22,
         "file": "16-22.webp",
         "alt": "Beeld bij Estherapocrief 16: Een dag van vreugde",
-        "scene": "Een dag van vreugde"
+        "scene": "Een dag van vreugde",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 11,
@@ -63074,6 +63103,66 @@
         "kind": "diagram",
         "width": 840,
         "height": 608
+      },
+      {
+        "chapter": 15,
+        "verse": 9,
+        "file": "15-9-gouden-scepter-verdieping.webp",
+        "scene": "De koning raakt Esther met de scepter aan",
+        "alt": "De koning raakt Esther met de scepter aan — Esther (apocrief) 15:9; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 16,
+        "verse": 19,
+        "file": "16-19-brief-opgehangen-verdieping.webp",
+        "scene": "Een afschrift van de brief ophangen",
+        "alt": "Een afschrift van de brief ophangen — Esther (apocrief) 16:19; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 14,
+        "verse": 1,
+        "file": "14-gebed-en-houvast.svg",
+        "scene": "Esthers gebed en houvast",
+        "alt": "Esthers gebed en houvast met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1177
+      },
+      {
+        "chapter": 15,
+        "verse": 1,
+        "file": "15-angst-en-toenadering.svg",
+        "scene": "Angst en toenadering",
+        "alt": "Angst en toenadering met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1098
+      },
+      {
+        "chapter": 16,
+        "verse": 1,
+        "file": "16-nieuwe-brief.svg",
+        "scene": "De nieuwe brief",
+        "alt": "De nieuwe brief met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1263
+      },
+      {
+        "chapter": 16,
+        "verse": 20,
+        "file": "16-dagen-in-de-brieven.svg",
+        "scene": "De dagen in de twee brieven",
+        "alt": "De dagen in de twee brieven met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 899
       }
     ],
     "gebedvanazaria": [

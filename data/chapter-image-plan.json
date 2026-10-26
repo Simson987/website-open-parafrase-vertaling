@@ -37211,6 +37211,73 @@
           "source": "Esther (apocrief) 13:1–19"
         }
       ]
+    },
+    {
+      "book": "estherapocrief",
+      "chapter": 15,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Gang naar het hof, twee dienstmeisjes en troost bij de inzinking zijn aanwezig. Het aanraken met de gouden scepter is een eigen genoemd moment en krijgt één beeld. Een schema houdt de twee inzinkingen en de veranderde houding van de koning uit elkaar.",
+      "additions": [
+        {
+          "verse": 9,
+          "file": "15-9-gouden-scepter-verdieping.webp",
+          "scene": "De koning raakt Esther met de scepter aan",
+          "kind": "scene"
+        },
+        {
+          "verse": 1,
+          "file": "15-angst-en-toenadering.svg",
+          "scene": "Angst en toenadering",
+          "kind": "diagram",
+          "source": "Esther (apocrief) 15:1–14"
+        }
+      ]
+    },
+    {
+      "book": "estherapocrief",
+      "chapter": 16,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Nieuw besluit, vrijheid voor de wet en feest zijn aanwezig. Het ophangen van afschriften is een afzonderlijke publieke uitvoering en krijgt één scène. Een structuurschema en een exact dagenoverzicht verduidelijken herroeping, bescherming en de uiteenlopende versdata.",
+      "additions": [
+        {
+          "verse": 19,
+          "file": "16-19-brief-opgehangen-verdieping.webp",
+          "scene": "Een afschrift van de brief ophangen",
+          "kind": "scene"
+        },
+        {
+          "verse": 1,
+          "file": "16-nieuwe-brief.svg",
+          "scene": "De nieuwe brief",
+          "kind": "diagram",
+          "source": "Esther (apocrief) 16:1–24"
+        },
+        {
+          "verse": 20,
+          "file": "16-dagen-in-de-brieven.svg",
+          "scene": "De dagen in de twee brieven",
+          "kind": "diagram",
+          "source": "Esther (apocrief) 13:6; 16:20"
+        }
+      ]
+    },
+    {
+      "book": "estherapocrief",
+      "chapter": 14,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "Gebed, pracht afleggen en bidden om woorden zijn aanwezig. Eén schema ordent de inhoud en maakt de leeuwbeeldspraak helder; er is geen extra algemeen gebedsbeeld nodig.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "14-gebed-en-houvast.svg",
+          "scene": "Esthers gebed en houvast",
+          "kind": "diagram",
+          "source": "Esther (apocrief) 14:1–19"
+        }
+      ]
     }
   ]
 }

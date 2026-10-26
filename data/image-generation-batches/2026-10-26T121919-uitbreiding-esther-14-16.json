@@ -1,0 +1,161 @@
+{
+  "date": "2026-10-26",
+  "started": "2026-10-26T12:19:19Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "estherapocrief",
+      "chapter": 15,
+      "verse": 9,
+      "file": "15-9-gouden-scepter-verdieping.webp",
+      "scene": "De koning raakt Esther met de scepter aan",
+      "alt": "De koning raakt Esther met de scepter aan — Esther (apocrief) 15:9; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic biblical scene in ancient Persian Susa, landscape 3:2, natural materials, dignified modest opaque robes, exactly two arms per person, coherent natural hands and faces. No modern objects, readable writing, blood, injury, divine human figure or watermark. Esther, a young adult Persian Jewish queen in modest opaque royal robes, stands weak but supported by one adult female attendant beside the throne. The adult king leans forward kindly and lightly touches the side of her neck with the rounded tip of a slender golden scepter held horizontally in one hand. A second attendant holds the queen’s train at a distance. Exactly two arms each, no weapon pointed threateningly, no violence or choking. Calm intimate royal audience, realistic hands and palace stonework. The gentle reassuring moment in Esther additions 15:8–10.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "estherapocrief",
+      "chapter": 16,
+      "verse": 19,
+      "file": "16-19-brief-opgehangen-verdieping.webp",
+      "scene": "Een afschrift van de brief ophangen",
+      "alt": "Een afschrift van de brief ophangen — Esther (apocrief) 16:19; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic biblical scene in ancient Persian Susa, landscape 3:2, natural materials, dignified modest opaque robes, exactly two arms per person, coherent natural hands and faces. No modern objects, readable writing, blood, injury, divine human figure or watermark. An ancient Persian royal messenger in a modest tunic carefully fastens an unrolled official parchment notice to a wooden announcement board in a public stone courtyard of Susa, while a small group of Jewish adults in modest robes watches with cautious relief. A wax seal but no legible words, no modern nails or printing, a simple wooden peg holds the parchment. Exactly two arms per human, natural separated fingers. Illustration of the order to post copies of the protective letter in Esther additions 16:19, no battle or execution.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "estherapocrief",
+      "chapter": 14,
+      "verse": 1,
+      "file": "14-gebed-en-houvast.svg",
+      "scene": "Esthers gebed en houvast",
+      "alt": "Esthers gebed en houvast met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1177,
+      "source": "Esther (apocrief) 14:1–19",
+      "design": {
+        "rows": [
+          [
+            "De nood · 1–4",
+            "Pracht afleggen, rouw aannemen en alleen bij God hulp zoeken."
+          ],
+          [
+            "De herinnering · 5–10",
+            "Verkiezing, belijdenis en de dreiging tegen volk en eredienst."
+          ],
+          [
+            "De bede · 11–14",
+            "Kracht, juiste woorden tegenover de leeuw en verandering van het vijandige plan."
+          ],
+          [
+            "De trouw · 15–19",
+            "Haar innerlijke afstand tot afgodische eer en de vraag om bevrijding uit angst."
+          ]
+        ],
+        "note": "De leeuw is een beeld voor de ontzagwekkende koning; de tekst verhaalt geen ontmoeting met een dier."
+      }
+    },
+    {
+      "book": "estherapocrief",
+      "chapter": 15,
+      "verse": 1,
+      "file": "15-angst-en-toenadering.svg",
+      "scene": "Angst en toenadering",
+      "alt": "Angst en toenadering met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1098,
+      "source": "Esther (apocrief) 15:1–14",
+      "design": {
+        "rows": [
+          [
+            "De gang · 1–6",
+            "Esther verandert van kleding en gaat met twee dienstmeisjes naar de koning."
+          ],
+          [
+            "De eerste inzinking · 7",
+            "Zijn boze blik overweldigt haar; zij valt flauw."
+          ],
+          [
+            "De toenadering · 8–10",
+            "Hij staat op, troost, raakt haar aan met de scepter en nodigt haar uit te spreken."
+          ],
+          [
+            "Het vervolg · 11–14",
+            "Zij antwoordt met ontzag, valt opnieuw flauw en krijgt geruststelling."
+          ]
+        ],
+        "note": "Twee inzinkingen worden genoemd. Het optreden van de koning verandert tussen beide momenten."
+      }
+    },
+    {
+      "book": "estherapocrief",
+      "chapter": 16,
+      "verse": 1,
+      "file": "16-nieuwe-brief.svg",
+      "scene": "De nieuwe brief",
+      "alt": "De nieuwe brief met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1263,
+      "source": "Esther (apocrief) 16:1–24",
+      "design": {
+        "rows": [
+          [
+            "Het beginsel · 1–9",
+            "Waarschuwing tegen ondankbaar machtsmisbruik en oproep tot eerlijk oordelen."
+          ],
+          [
+            "De beschuldigde raadgever · 10–14",
+            "De brief wijt de aanslag aan Hamans bedrog tegen koning, Mordechai, Esther en haar volk."
+          ],
+          [
+            "De herroeping · 15–20",
+            "Joodse wetten worden erkend; Hamans brieven niet uitvoeren, afschriften ophangen en hulp bieden."
+          ],
+          [
+            "Het feest en de sanctie · 21–24",
+            "Vreugde om redding en een scherpe strafdreiging voor wie de brief niet volgt."
+          ]
+        ],
+        "note": "De passage geeft de stem van de koninklijke brief weer, met zijn lof, aanklacht en strafdreiging."
+      }
+    },
+    {
+      "book": "estherapocrief",
+      "chapter": 16,
+      "verse": 20,
+      "file": "16-dagen-in-de-brieven.svg",
+      "scene": "De dagen in de twee brieven",
+      "alt": "De dagen in de twee brieven met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 899,
+      "source": "Esther (apocrief) 13:6; 16:20",
+      "design": {
+        "rows": [
+          [
+            "Eerste brief · 13:6",
+            "Veertiende dag van de twaalfde maand Adar: het vijandige bevel."
+          ],
+          [
+            "Tweede brief · 16:20",
+            "Dertiende dag van de twaalfde maand Adar: hulp tegen aanvallers."
+          ],
+          [
+            "De uitlegging · 10:13",
+            "Veertiende dag van Adar als feestdag met samenkomst en vreugde."
+          ]
+        ],
+        "note": "De plaatselijke tekst noemt verschillende dagen. Dit overzicht houdt die versgegevens naast elkaar zonder ze gelijk te trekken."
+      }
+    }
+  ]
+}
