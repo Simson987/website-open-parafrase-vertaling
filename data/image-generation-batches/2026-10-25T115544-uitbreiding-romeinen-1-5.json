@@ -1,0 +1,429 @@
+{
+  "date": "2026-10-25",
+  "started": "2026-10-25T11:55:44Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "romeinen",
+      "chapter": 1,
+      "verse": 10,
+      "file": "1-10-gebed-bezoek-verdieping.webp",
+      "scene": "Lesbeeld: Paulus bidt om een bezoek aan Rome",
+      "alt": "Lesbeeld: Paulus bidt om een bezoek aan Rome — Romeinen 1:10; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. An illustrative reconstruction of Pauls stated prayer in Romans 1:10: adult Paul quietly prays beside a travel bag and an unmarked rolled letter in a modest first-century room. No claim that this specific room is known, no Rome skyline or miraculous journey depicted.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "romeinen",
+      "chapter": 4,
+      "verse": 4,
+      "file": "4-4-loon-werken-verdieping.webp",
+      "scene": "Vergelijking: een werker ontvangt zijn loon",
+      "alt": "Vergelijking: een werker ontvangt zijn loon — Romeinen 4:4; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. Illustration of the wages comparison in Romans 4:4. An adult craftsman receives earned small silver coins from an employer beside finished woven cloth in a first-century workshop. Ordinary fair payment, two adult men with clearly separated hands; no alms, debt slavery or miracle.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "romeinen",
+      "chapter": 1,
+      "verse": 1,
+      "file": "1-leeswijzer.svg",
+      "scene": "Evangelie, verlangen en waarheid",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1012,
+      "source": "Romeinen 1:1–32",
+      "design": {
+        "rows": [
+          [
+            "1–7 · Afzender en boodschap",
+            "Paulus schrijft over de Zoon en zijn roeping."
+          ],
+          [
+            "8–15 · Verlangen naar Rome",
+            "Dank, gebed en wederzijdse bemoediging."
+          ],
+          [
+            "16–17 · De kern",
+            "Het evangelie redt iedereen die gelooft."
+          ],
+          [
+            "18–32 · Waarheid afgewezen",
+            "Schepper en schepsel verwisseld; onrecht en oordeel."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "romeinen",
+      "chapter": 2,
+      "verse": 1,
+      "file": "2-leeswijzer.svg",
+      "scene": "Oordeel en het eigen hart",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1012,
+      "source": "Romeinen 2:1–29",
+      "design": {
+        "rows": [
+          [
+            "1–11 · Wie een ander oordeelt",
+            "Gods geduld roept tot bekering; geen partijdigheid."
+          ],
+          [
+            "12–16 · Wet en geweten",
+            "Horen alleen volstaat niet; het verborgene wordt geoordeeld."
+          ],
+          [
+            "17–24 · De leraar bevraagd",
+            "Wie onderwijst, wordt op zijn eigen doen aangesproken."
+          ],
+          [
+            "25–29 · Binnen en buiten",
+            "Besnijdenis van het hart door de Geest."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "romeinen",
+      "chapter": 3,
+      "verse": 1,
+      "file": "3-leeswijzer.svg",
+      "scene": "Schuld, genade en geloof",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "Romeinen 3:1–31",
+      "design": {
+        "rows": [
+          [
+            "1–8 · Gods trouw",
+            "Menselijke ontrouw maakt Hem niet onwaar."
+          ],
+          [
+            "9–20 · Iedereen onder de zonde",
+            "De Schrift getuigt; de wet geeft kennis van zonde."
+          ],
+          [
+            "21–26 · Gods gerechtigheid",
+            "Om niet uit genade, door Jezus Christus."
+          ],
+          [
+            "27–31 · Roemen uitgesloten",
+            "Eén God voor Jood en niet-Jood; rechtvaardiging door geloof."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "romeinen",
+      "chapter": 4,
+      "verse": 1,
+      "file": "4-leeswijzer.svg",
+      "scene": "Abraham en gerechtigheid",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1012,
+      "source": "Romeinen 4:1–25",
+      "design": {
+        "rows": [
+          [
+            "1–8 · Geloof en genade",
+            "Abraham en David; loon is iets anders dan een gave."
+          ],
+          [
+            "9–12 · Vóór het teken",
+            "Gerechtigheid wordt al vóór de besnijdenis toegerekend."
+          ],
+          [
+            "13–22 · Belofte en vertrouwen",
+            "Niet door wet, maar door geloof; God kan doen wat Hij belooft."
+          ],
+          [
+            "23–25 · Ook voor ons",
+            "Geloof in Hem die Jezus heeft opgewekt."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "romeinen",
+      "chapter": 5,
+      "verse": 1,
+      "file": "5-leeswijzer.svg",
+      "scene": "Vrede, hoop en genade",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "Romeinen 5:1–21",
+      "design": {
+        "rows": [
+          [
+            "1–5 · Vrede en hoop",
+            "Toegang tot genade; moeite, volharding en hoop."
+          ],
+          [
+            "6–11 · Bewezen liefde",
+            "Christus sterft voor zondaars; verzoening met God."
+          ],
+          [
+            "12–19 · Adam en Christus",
+            "Ongehoorzaamheid en gehoorzaamheid worden vergeleken."
+          ],
+          [
+            "20–21 · Genade heerst",
+            "Waar zonde toenam, werd genade overvloediger."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "romeinen",
+      "chapter": 1,
+      "verse": 3,
+      "file": "1-evangelie-zon.svg",
+      "scene": "Over wie gaat het evangelie?",
+      "alt": "Over wie gaat het evangelie? met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1012,
+      "source": "Romeinen 1:1–7",
+      "design": {
+        "rows": [
+          [
+            "Beloofd",
+            "Vooraf aangekondigd door de profeten in de Schriften."
+          ],
+          [
+            "De Zoon",
+            "Als mens uit Davids nageslacht."
+          ],
+          [
+            "Jezus Christus",
+            "Door opstanding met kracht als Gods Zoon aangewezen."
+          ],
+          [
+            "Roeping",
+            "Genade en apostelschap voor geloof onder alle volken."
+          ]
+        ],
+        "note": "Dit ordent Paulus’ openingswoorden; geen nieuwe gebeurtenis toegevoegd."
+      }
+    },
+    {
+      "book": "romeinen",
+      "chapter": 1,
+      "verse": 21,
+      "file": "1-verwisseling.svg",
+      "scene": "De verwisselingen in het betoog",
+      "alt": "De verwisselingen in het betoog met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1012,
+      "source": "Romeinen 1:21–32",
+      "design": {
+        "rows": [
+          [
+            "Niet danken en eren",
+            "De gekende God krijgt geen eer als God."
+          ],
+          [
+            "Heerlijkheid ingeruild",
+            "Vergankelijke beelden nemen de plaats van God in."
+          ],
+          [
+            "Waarheid ingeruild",
+            "Het schepsel wordt geëerd in plaats van de Schepper."
+          ],
+          [
+            "Gevolgen",
+            "Paulus beschrijft verkeerde verlangens, denken en onrecht."
+          ]
+        ],
+        "note": "Het volgende hoofdstuk spreekt ook de oordelende lezer zelf aan."
+      }
+    },
+    {
+      "book": "romeinen",
+      "chapter": 2,
+      "verse": 1,
+      "file": "2-zelfonderzoek.svg",
+      "scene": "De oordelende lezer aangesproken",
+      "alt": "De oordelende lezer aangesproken met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1012,
+      "source": "Romeinen 2:1–24",
+      "design": {
+        "rows": [
+          [
+            "Oordelen over anderen",
+            "Dezelfde daden veroordelen ook de oordelende mens."
+          ],
+          [
+            "Gods goedheid",
+            "Zijn geduld wil tot bekering brengen."
+          ],
+          [
+            "Horen en doen",
+            "Alleen de wet horen maakt niet rechtvaardig."
+          ],
+          [
+            "De leraar zelf",
+            "Wie een ander onderwijst, wordt op eigen gedrag bevraagd."
+          ]
+        ],
+        "note": "De hoofdstuklogica roept tot zelfonderzoek, niet tot zelfverheffing."
+      }
+    },
+    {
+      "book": "romeinen",
+      "chapter": 3,
+      "verse": 20,
+      "file": "3-wet-geloof.svg",
+      "scene": "Wet, genade en geloof",
+      "alt": "Wet, genade en geloof met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "Romeinen 3:19–31",
+      "design": {
+        "rows": [
+          [
+            "De wet · 19–20",
+            "Sluit de mond en geeft kennis van zonde."
+          ],
+          [
+            "Genade · 21–24",
+            "Gerechtigheid bekend; vrijspraak wordt om niet gegeven."
+          ],
+          [
+            "Christus · 24–26",
+            "Verlossing en verzoening tonen Gods gerechtigheid."
+          ],
+          [
+            "Geloof · 27–31",
+            "Roemen is uitgesloten; één God rechtvaardigt beide groepen."
+          ]
+        ],
+        "note": "De slotsom zegt tegelijk dat het geloof de wet bevestigt."
+      }
+    },
+    {
+      "book": "romeinen",
+      "chapter": 4,
+      "verse": 9,
+      "file": "4-volgorde-abraham.svg",
+      "scene": "De volgorde bij Abraham",
+      "alt": "De volgorde bij Abraham met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1012,
+      "source": "Romeinen 4:9–12",
+      "design": {
+        "rows": [
+          [
+            "Eerst geloof",
+            "Als onbesnedene wordt geloof tot gerechtigheid gerekend."
+          ],
+          [
+            "Daarna het teken",
+            "Besnijdenis wordt een zegel van die gerechtigheid."
+          ],
+          [
+            "Onbesneden gelovigen",
+            "Abraham is ook hun vader."
+          ],
+          [
+            "Besneden gelovigen",
+            "Ook zij volgen de voetsporen van zijn eerdere geloof."
+          ]
+        ],
+        "note": "Deze volgorde komt uit Paulus’ redenering, niet uit een nieuwe stamboomtelling."
+      }
+    },
+    {
+      "book": "romeinen",
+      "chapter": 5,
+      "verse": 3,
+      "file": "5-hoop-keten.svg",
+      "scene": "Van moeite naar hoop",
+      "alt": "Van moeite naar hoop met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 926,
+      "source": "Romeinen 5:3–5",
+      "design": {
+        "rows": [
+          [
+            "Moeite",
+            "Levert volharding op."
+          ],
+          [
+            "Volharding",
+            "Levert ervaring op."
+          ],
+          [
+            "Ervaring",
+            "Levert hoop op."
+          ],
+          [
+            "Hoop",
+            "Stelt niet teleur; Gods liefde is door de Geest gegeven."
+          ]
+        ],
+        "note": "Deze stappen volgen de formulering van de plaatselijke vertaling."
+      }
+    },
+    {
+      "book": "romeinen",
+      "chapter": 5,
+      "verse": 12,
+      "file": "5-adam-christus.svg",
+      "scene": "Adam en Christus in de vergelijking",
+      "alt": "Adam en Christus in de vergelijking met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "Romeinen 5:12–21",
+      "design": {
+        "rows": [
+          [
+            "Adam",
+            "Eén overtreding; ongehoorzaamheid; zonde en dood."
+          ],
+          [
+            "Christus",
+            "Gehoorzaamheid; genadegave; vrijspraak en leven."
+          ],
+          [
+            "Geen gelijke maat",
+            "Paulus noemt de genade overvloediger dan de overtreding."
+          ],
+          [
+            "De slotsom",
+            "Genade heerst door gerechtigheid tot het eeuwige leven."
+          ]
+        ],
+        "note": "Het schema volgt de vergelijking; het is geen afbeelding van een hemelse rechtszaal."
+      }
+    }
+  ]
+}

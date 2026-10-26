@@ -29378,6 +29378,147 @@
           "source": "Handelingen 28:11–16"
         }
       ]
+    },
+    {
+      "book": "romeinen",
+      "chapter": 1,
+      "status": "reviewed",
+      "target_images": 7,
+      "reason": "Brief, universele boodschap en schepping waren aanwezig. Eén als lesbeeld gemarkeerd gebed sluit aan bij Paulus’ eigen verlangen. Leeswijzer, opening en verwisselingen ordenen de leer zonder nieuwe historische gebeurtenissen te verzinnen.",
+      "additions": [
+        {
+          "verse": 10,
+          "file": "1-10-gebed-bezoek-verdieping.webp",
+          "scene": "Lesbeeld: Paulus bidt om een bezoek aan Rome",
+          "kind": "poetic"
+        },
+        {
+          "verse": 1,
+          "file": "1-leeswijzer.svg",
+          "scene": "Evangelie, verlangen en waarheid",
+          "kind": "diagram",
+          "source": "Romeinen 1:1–32"
+        },
+        {
+          "verse": 3,
+          "file": "1-evangelie-zon.svg",
+          "scene": "Over wie gaat het evangelie?",
+          "kind": "diagram",
+          "source": "Romeinen 1:1–7"
+        },
+        {
+          "verse": 21,
+          "file": "1-verwisseling.svg",
+          "scene": "De verwisselingen in het betoog",
+          "kind": "diagram",
+          "source": "Romeinen 1:21–32"
+        }
+      ]
+    },
+    {
+      "book": "romeinen",
+      "chapter": 4,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Abraham, sterren en Sara zijn al aanwezig. De concrete loonvergelijking krijgt een apart lesbeeld. Leeswijzer en volgorde van geloof en teken ondersteunen het begrip van Paulus’ redenering.",
+      "additions": [
+        {
+          "verse": 4,
+          "file": "4-4-loon-werken-verdieping.webp",
+          "scene": "Vergelijking: een werker ontvangt zijn loon",
+          "kind": "poetic"
+        },
+        {
+          "verse": 1,
+          "file": "4-leeswijzer.svg",
+          "scene": "Abraham en gerechtigheid",
+          "kind": "diagram",
+          "source": "Romeinen 4:1–25"
+        },
+        {
+          "verse": 9,
+          "file": "4-volgorde-abraham.svg",
+          "scene": "De volgorde bij Abraham",
+          "kind": "diagram",
+          "source": "Romeinen 4:9–12"
+        }
+      ]
+    },
+    {
+      "book": "romeinen",
+      "chapter": 2,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Goedheid, geen partijdigheid en geweten zijn al verbeeld. Het hoofdstuk is een betoog; leeswijzer en zelfonderzoek verduidelijken de tekst. Meer generieke groepsscènes zouden de bestaande illustraties herhalen.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "2-leeswijzer.svg",
+          "scene": "Oordeel en het eigen hart",
+          "kind": "diagram",
+          "source": "Romeinen 2:1–29"
+        },
+        {
+          "verse": 1,
+          "file": "2-zelfonderzoek.svg",
+          "scene": "De oordelende lezer aangesproken",
+          "kind": "diagram",
+          "source": "Romeinen 2:1–24"
+        }
+      ]
+    },
+    {
+      "book": "romeinen",
+      "chapter": 3,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "De drie bestaande geloofs- en schuldbelijdenisbeelden zijn passend als lesbeelden. Twee schema’s maken de argumentatie over wet, genade en geloof leesbaar zonder abstracte begrippen als nieuwe gebeurtenissen te tekenen.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "3-leeswijzer.svg",
+          "scene": "Schuld, genade en geloof",
+          "kind": "diagram",
+          "source": "Romeinen 3:1–31"
+        },
+        {
+          "verse": 20,
+          "file": "3-wet-geloof.svg",
+          "scene": "Wet, genade en geloof",
+          "kind": "diagram",
+          "source": "Romeinen 3:19–31"
+        }
+      ]
+    },
+    {
+      "book": "romeinen",
+      "chapter": 5,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Vrede, liefde en Christus’ dood waren aanwezig. Het onderwijs wordt uitgebreid met een leeswijzer, de exacte hoopketen en de vergelijking Adam–Christus. Extra generieke scènes zouden geen nieuw tekstmoment toevoegen.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "5-leeswijzer.svg",
+          "scene": "Vrede, hoop en genade",
+          "kind": "diagram",
+          "source": "Romeinen 5:1–21"
+        },
+        {
+          "verse": 3,
+          "file": "5-hoop-keten.svg",
+          "scene": "Van moeite naar hoop",
+          "kind": "diagram",
+          "source": "Romeinen 5:3–5"
+        },
+        {
+          "verse": 12,
+          "file": "5-adam-christus.svg",
+          "scene": "Adam en Christus in de vergelijking",
+          "kind": "diagram",
+          "source": "Romeinen 5:12–21"
+        }
+      ]
     }
   ]
 }
