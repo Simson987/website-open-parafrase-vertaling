@@ -41557,82 +41557,251 @@
         "chapter": 3,
         "file": "3-paul.webp",
         "alt": "Paulus schrijft nadenkend aan een eenvoudige tafel",
-        "scene": "Paulus kijkt terug en vooruit"
+        "scene": "Paulus kijkt terug en vooruit",
+        "verse": 7,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 3,
         "file": "3-runner.webp",
         "alt": "Een jonge hardloper traint op een oude weg",
-        "scene": "Op weg naar het doel"
+        "scene": "Op weg naar het doel",
+        "verse": 14,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 3,
         "file": "3-journey.webp",
         "alt": "Reizigers trekken over een zonnige weg naar een stad",
-        "scene": "Verder gaan"
+        "scene": "Verder gaan",
+        "verse": 16,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 1,
         "verse": 6,
         "file": "1-6.webp",
         "alt": "Beeld bij Filippenzen 1: Het goede werk wordt voltooid",
-        "scene": "Het goede werk wordt voltooid"
+        "scene": "Het goede werk wordt voltooid",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 1,
         "verse": 12,
         "file": "1-12.webp",
         "alt": "Beeld bij Filippenzen 1: Goed nieuws ondanks gevangenschap",
-        "scene": "Goed nieuws ondanks gevangenschap"
+        "scene": "Goed nieuws ondanks gevangenschap",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 1,
         "verse": 27,
         "file": "1-27.webp",
         "alt": "Beeld bij Filippenzen 1: Eensgezind standhouden",
-        "scene": "Eensgezind standhouden"
+        "scene": "Eensgezind standhouden",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 2,
         "verse": 3,
         "file": "2-3.webp",
         "alt": "Beeld bij Filippenzen 2: De ander voor laten gaan",
-        "scene": "De ander voor laten gaan"
+        "scene": "De ander voor laten gaan",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 2,
         "verse": 7,
         "file": "2-7.webp",
         "alt": "Beeld bij Filippenzen 2: De gestalte van een dienaar",
-        "scene": "De gestalte van een dienaar"
+        "scene": "De gestalte van een dienaar",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 2,
         "verse": 14,
         "file": "2-14.webp",
         "alt": "Beeld bij Filippenzen 2: Zonder mopperen",
-        "scene": "Zonder mopperen"
+        "scene": "Zonder mopperen",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 4,
         "verse": 4,
         "file": "4-4.webp",
         "alt": "Beeld bij Filippenzen 4: Blijdschap in de Heere",
-        "scene": "Blijdschap in de Heere"
+        "scene": "Blijdschap in de Heere",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 4,
         "verse": 6,
         "file": "4-6.webp",
         "alt": "Beeld bij Filippenzen 4: Bidden met dank",
-        "scene": "Bidden met dank"
+        "scene": "Bidden met dank",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 4,
         "verse": 13,
         "file": "4-13.webp",
         "alt": "Beeld bij Filippenzen 4: Kracht om te volharden",
-        "scene": "Kracht om te volharden"
+        "scene": "Kracht om te volharden",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 2,
+        "verse": 28,
+        "file": "2-28-epafroditus-terug-verdieping.webp",
+        "scene": "Paulus stuurt Epafroditus terug",
+        "alt": "Paulus stuurt Epafroditus terug — Filippenzen 2:28; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 4,
+        "verse": 3,
+        "file": "4-3-twee-vrouwen-helpen-verdieping.webp",
+        "scene": "Lesbeeld: Euodia en Syntyche helpen",
+        "alt": "Lesbeeld: Euodia en Syntyche helpen — Filippenzen 4:3; tekstillustratie.",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 1,
+        "verse": 1,
+        "file": "1-leeswijzer.svg",
+        "scene": "Blijdschap en gevangenschap",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1055
+      },
+      {
+        "chapter": 2,
+        "verse": 1,
+        "file": "2-leeswijzer.svg",
+        "scene": "Christus en de medewerkers",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1055
+      },
+      {
+        "chapter": 3,
+        "verse": 1,
+        "file": "3-leeswijzer.svg",
+        "scene": "Christus kennen en naar het doel",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1055
+      },
+      {
+        "chapter": 4,
+        "verse": 1,
+        "file": "4-leeswijzer.svg",
+        "scene": "Eensgezindheid, vrede en zorg",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1055
+      },
+      {
+        "chapter": 1,
+        "verse": 15,
+        "file": "1-verkondigers-motief.svg",
+        "scene": "Verschillende motieven",
+        "alt": "Verschillende motieven met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1012
+      },
+      {
+        "chapter": 1,
+        "verse": 21,
+        "file": "1-leven-sterven.svg",
+        "scene": "De twee kanten van het verlangen",
+        "alt": "De twee kanten van het verlangen met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1055
+      },
+      {
+        "chapter": 2,
+        "verse": 19,
+        "file": "2-twee-medewerkers.svg",
+        "scene": "Twee medewerkers en hun komst",
+        "alt": "Twee medewerkers en hun komst met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1055
+      },
+      {
+        "chapter": 3,
+        "verse": 4,
+        "file": "3-winst-verlies.svg",
+        "scene": "Wat Paulus winst en verlies noemt",
+        "alt": "Wat Paulus winst en verlies noemt met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1055
+      },
+      {
+        "chapter": 4,
+        "verse": 8,
+        "file": "4-waarover-denken.svg",
+        "scene": "Waarover Paulus laat nadenken",
+        "alt": "Waarover Paulus laat nadenken met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 777
+      },
+      {
+        "chapter": 4,
+        "verse": 10,
+        "file": "4-gebrek-overvloed.svg",
+        "scene": "Tevredenheid en ontvangen steun",
+        "alt": "Tevredenheid en ontvangen steun met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1055
+      },
+      {
+        "chapter": 2,
+        "verse": 6,
+        "file": "2-christus-volgorde.svg",
+        "scene": "De weg in de genoemde woorden",
+        "alt": "De weg in de genoemde woorden — Filippenzen 2:6–11",
+        "kind": "diagram",
+        "width": 840,
+        "height": 688
       }
     ],
     "kolossenzen": [
