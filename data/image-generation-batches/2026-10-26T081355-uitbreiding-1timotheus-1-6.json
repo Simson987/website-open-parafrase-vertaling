@@ -1,0 +1,495 @@
+{
+  "date": "2026-10-26",
+  "started": "2026-10-26T08:13:55Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "1timotheus",
+      "chapter": 4,
+      "verse": 14,
+      "file": "4-14-oudsten-handen-verdieping.webp",
+      "scene": "De oudsten leggen de handen op",
+      "alt": "De oudsten leggen de handen op — 1 Timotheüs 4:14; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. 1 Timothy 4:14 recalls Timothy receiving a gift through prophecy with the laying on of hands by the elders. A respectful recalled event: young adult Timothy sits quietly in a modest first-century Ephesian home, three elderly male elders around him praying, one elder rests one hand lightly on each shoulder while the other two stand separately with their own hands clasped. Clear spacing and anatomically coherent arms, no tangle of many fingers over a head, no glowing magical effect. Timothy fully clothed, quiet dignity.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "1timotheus",
+      "chapter": 5,
+      "verse": 5,
+      "file": "5-5-weduwe-bidt-verdieping.webp",
+      "scene": "Lesbeeld: de weduwe blijft bidden",
+      "alt": "Lesbeeld: de weduwe blijft bidden — 1 Timotheüs 5:5; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. 1 Timothy 5:5 describes a genuinely bereaved widow left alone, placing her hope in God and continuing in prayer by night and day. One elderly widow alone in her simple first-century room at dusk, a small oil lamp on the table, seated upright with hands together naturally, a quiet expression of trust. No poverty spectacle, grave, ghosts or invented deceased relative; a visual illustration of the described way of life, modest opaque clothing, two arms.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "1timotheus",
+      "chapter": 6,
+      "verse": 13,
+      "file": "6-13-christus-pilatus-verdieping.webp",
+      "scene": "Christus voor Pontius Pilatus",
+      "alt": "Christus voor Pontius Pilatus — 1 Timotheüs 6:13; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. 1 Timothy 6:13 recalls Christ Jesus bearing the good confession before Pontius Pilate. Historically grounded scene of Jesus standing calmly before the seated Roman governor Pilate in a restrained first-century Roman Judean administrative courtyard. Jesus in a plain fully covering robe, governor in Roman tunic and toga at a raised stone seat, one quiet guard in background, no theatrical crowd, no injuries, crown of thorns or blood. Serious exchange and steadfast witness, no readable inscription. Three distinct people with coherent limbs.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "1timotheus",
+      "chapter": 1,
+      "verse": 1,
+      "file": "1-leeswijzer.svg",
+      "scene": "Leer, liefde en barmhartigheid",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "1 Timotheüs 1:1–20",
+      "design": {
+        "rows": [
+          [
+            "1–7 · Opdracht in Efeze",
+            "Geen andere leer; het doel is liefde uit hart, geweten en geloof."
+          ],
+          [
+            "8–11 · De wet goed gebruiken",
+            "De wet in verband met overtreding en gezonde leer."
+          ],
+          [
+            "12–17 · Paulus’ barmhartigheid",
+            "De vroegere vervolger wordt voorbeeld van Christus’ geduld."
+          ],
+          [
+            "18–20 · Geloof en geweten",
+            "De goede strijd en de waarschuwing voor schipbreuk."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "1timotheus",
+      "chapter": 2,
+      "verse": 1,
+      "file": "2-leeswijzer.svg",
+      "scene": "Gebed en gepaste levenswandel",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 863,
+      "source": "1 Timotheüs 2:1–15",
+      "design": {
+        "rows": [
+          [
+            "1–7 · Gebed voor allen",
+            "Ook voor gezagsdragers; één God en één Middelaar."
+          ],
+          [
+            "8–10 · Handen en goede werken",
+            "Bidden zonder ruzie; bescheidenheid en goeddoen."
+          ],
+          [
+            "11–15 · Leren en de oorsprong",
+            "Paulus’ voorschrift en zijn verwijzing naar Adam en Eva."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "1timotheus",
+      "chapter": 3,
+      "verse": 1,
+      "file": "3-leeswijzer.svg",
+      "scene": "Wie leidinggeven en dienen",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 863,
+      "source": "1 Timotheüs 3:1–16",
+      "design": {
+        "rows": [
+          [
+            "1–7 · De opziener",
+            "Karakter, huisgezin, onderwijs en goede naam."
+          ],
+          [
+            "8–13 · De dienaren",
+            "Betrouwbaarheid, beproeving en goed dienen."
+          ],
+          [
+            "14–16 · Het huis van God",
+            "Omgang in de gemeente en het geheim van de vroomheid."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "1timotheus",
+      "chapter": 4,
+      "verse": 1,
+      "file": "4-leeswijzer.svg",
+      "scene": "Oefening en een goed voorbeeld",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 820,
+      "source": "1 Timotheüs 4:1–16",
+      "design": {
+        "rows": [
+          [
+            "1–5 · Schepping en dank",
+            "Afval en verboden tegenover dankbaar ontvangen."
+          ],
+          [
+            "6–10 · Goede voeding en oefening",
+            "Geloofswoorden, leer en vroomheid."
+          ],
+          [
+            "11–16 · Jong en toch voorbeeld",
+            "Voorlezen, de gave gebruiken en op jezelf en de leer letten."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "1timotheus",
+      "chapter": 5,
+      "verse": 1,
+      "file": "5-leeswijzer.svg",
+      "scene": "Familie, weduwen en oudsten",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "1 Timotheüs 5:1–25",
+      "design": {
+        "rows": [
+          [
+            "1–2 · Als familie aanspreken",
+            "Vaders, broers, moeders en zussen; zuiverheid."
+          ],
+          [
+            "3–16 · Zorg voor weduwen",
+            "Familiehulp, de lijst en de verantwoordelijkheid van de gemeente."
+          ],
+          [
+            "17–22 · De oudsten",
+            "Eer, getuigen, onpartijdigheid en zorgvuldig handen opleggen."
+          ],
+          [
+            "23–25 · Persoonlijk slot",
+            "Paulus’ raad aan Timotheüs en zichtbare of verborgen daden."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "1timotheus",
+      "chapter": 6,
+      "verse": 1,
+      "file": "6-leeswijzer.svg",
+      "scene": "Tevredenheid en het echte leven",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "1 Timotheüs 6:1–21",
+      "design": {
+        "rows": [
+          [
+            "1–5 · Dienst en gezonde leer",
+            "Omgang met heren en de gevolgen van woordenstrijd."
+          ],
+          [
+            "6–10 · De ware winst",
+            "Tevredenheid tegenover geldliefde en schadelijk verlangen."
+          ],
+          [
+            "11–16 · De goede strijd",
+            "Deugden, belijdenis en de verschijning van Christus."
+          ],
+          [
+            "17–21 · Rijkdom en vertrouwen",
+            "God vertrouwen, delen en het toevertrouwde bewaren."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "1timotheus",
+      "chapter": 1,
+      "verse": 5,
+      "file": "1-doel-gebod.svg",
+      "scene": "Het doel is liefde",
+      "alt": "Het doel is liefde met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 926,
+      "source": "1 Timotheüs 1:3–7",
+      "design": {
+        "rows": [
+          [
+            "Zuiver hart",
+            "Liefde komt uit een zuiver hart."
+          ],
+          [
+            "Goed geweten",
+            "Liefde komt uit een goed geweten."
+          ],
+          [
+            "Oprecht geloof",
+            "Liefde komt uit een oprecht geloof."
+          ],
+          [
+            "De afwijking",
+            "Andere leer en leeg gepraat voeren van dit doel af."
+          ]
+        ],
+        "note": "De drie bronnen van liefde staan in vers 5 naast elkaar."
+      }
+    },
+    {
+      "book": "1timotheus",
+      "chapter": 2,
+      "verse": 5,
+      "file": "2-middelaar.svg",
+      "scene": "Eén God en één Middelaar",
+      "alt": "Eén God en één Middelaar met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "1 Timotheüs 2:1–7",
+      "design": {
+        "rows": [
+          [
+            "Voor wie bidden?",
+            "Voor alle mensen, ook koningen en gezagsdragers."
+          ],
+          [
+            "Wat wil God?",
+            "Dat alle mensen gered worden en de waarheid kennen."
+          ],
+          [
+            "Wie is de Middelaar?",
+            "De Mens Christus Jezus; Hij gaf Zich als losprijs voor allen."
+          ],
+          [
+            "Wat is Paulus’ opdracht?",
+            "Verkondiger, apostel en leraar van de volken."
+          ]
+        ],
+        "note": "Het gebed, de redding en de verkondiging zijn in het betoog met elkaar verbonden."
+      }
+    },
+    {
+      "book": "1timotheus",
+      "chapter": 3,
+      "verse": 2,
+      "file": "3-opziener.svg",
+      "scene": "De eisen aan een opziener",
+      "alt": "De eisen aan een opziener met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 976,
+      "source": "1 Timotheüs 3:1–7",
+      "design": {
+        "rows": [
+          [
+            "Karakter · vers 2–3",
+            "Onberispelijk, beheerst, gastvrij, mild en vreedzaam; niet geldzuchtig."
+          ],
+          [
+            "Onderwijs · vers 2",
+            "In staat om te onderwijzen."
+          ],
+          [
+            "Huis · vers 2, 4–5",
+            "Man van één vrouw; het eigen huis goed leiden."
+          ],
+          [
+            "Ervaring en naam · vers 6–7",
+            "Geen pasbekeerde; ook buiten de gemeente een goede naam."
+          ]
+        ],
+        "note": "Deze groepen ordenen de eisen uit de tekst."
+      }
+    },
+    {
+      "book": "1timotheus",
+      "chapter": 3,
+      "verse": 8,
+      "file": "3-dienaren.svg",
+      "scene": "De eisen aan dienaren",
+      "alt": "De eisen aan dienaren met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "1 Timotheüs 3:8–13",
+      "design": {
+        "rows": [
+          [
+            "Eerbaar en betrouwbaar",
+            "Geen dubbele taal, wijnverslaving of oneerlijke winst."
+          ],
+          [
+            "Geloof en beproeving",
+            "Een zuiver geweten; eerst beproeven, dan dienen."
+          ],
+          [
+            "De vrouwen · vers 11",
+            "Eerbaar, waakzaam, betrouwbaar en geen kwaadspreeksters."
+          ],
+          [
+            "Huis en dienst · vers 12–13",
+            "Man van één vrouw, goed huisbestuur en vrijmoedigheid door goed dienen."
+          ]
+        ],
+        "note": "Vers 11 wordt als eigen tekstregel weergegeven; de verwantschap wordt hier niet nader ingevuld."
+      }
+    },
+    {
+      "book": "1timotheus",
+      "chapter": 4,
+      "verse": 12,
+      "file": "4-voorbeeld.svg",
+      "scene": "Waarin een voorbeeld zijn?",
+      "alt": "Waarin een voorbeeld zijn? met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1012,
+      "source": "1 Timotheüs 4:12–16",
+      "design": {
+        "rows": [
+          [
+            "Het voorbeeld · vers 12",
+            "Woord, leven, liefde, geest, geloof en zuiverheid."
+          ],
+          [
+            "De taak · vers 13",
+            "Voorlezen, bemoedigen en onderwijzen."
+          ],
+          [
+            "De gave · vers 14–15",
+            "Niet verwaarlozen; erin opgaan zodat de groei zichtbaar wordt."
+          ],
+          [
+            "De aandacht · vers 16",
+            "Op jezelf en de leer letten; daarin volhouden."
+          ]
+        ],
+        "note": "De plaatselijke tekst noemt zes gebieden voor het voorbeeld in vers 12."
+      }
+    },
+    {
+      "book": "1timotheus",
+      "chapter": 5,
+      "verse": 4,
+      "file": "5-weduwen-zorg.svg",
+      "scene": "Hoe de zorg wordt verdeeld",
+      "alt": "Hoe de zorg wordt verdeeld met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1048,
+      "source": "1 Timotheüs 5:3–16",
+      "design": {
+        "rows": [
+          [
+            "De familie · vers 4, 8, 16",
+            "Kinderen, kleinkinderen en gelovige verwanten helpen hun eigen mensen."
+          ],
+          [
+            "De alleenstaande · vers 5",
+            "Hoopt op God en blijft bidden."
+          ],
+          [
+            "De lijst · vers 9–10",
+            "Minstens zestig jaar; vrouw van één man; bekend om goede werken."
+          ],
+          [
+            "De gemeenschap · vers 16",
+            "Kan zo zorgen voor wie echt weduwe zijn."
+          ]
+        ],
+        "note": "Deze indeling bewaart zowel familieverantwoordelijkheid als gemeentelijke zorg."
+      }
+    },
+    {
+      "book": "1timotheus",
+      "chapter": 5,
+      "verse": 17,
+      "file": "5-oudsten-getuigen.svg",
+      "scene": "Eer en zorgvuldigheid",
+      "alt": "Eer en zorgvuldigheid met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 976,
+      "source": "1 Timotheüs 5:17–22",
+      "design": {
+        "rows": [
+          [
+            "Eer · vers 17–18",
+            "Goede leiding en inzet voor woord en onderwijs waarderen."
+          ],
+          [
+            "Getuigen · vers 19",
+            "Een beschuldiging alleen op twee of drie getuigen aannemen."
+          ],
+          [
+            "Onpartijdigheid · vers 20–21",
+            "Zonde terechtwijzen en zonder voorkeur handelen."
+          ],
+          [
+            "Handen opleggen · vers 22",
+            "Niet overhaast; jezelf zuiver houden."
+          ]
+        ],
+        "note": "Erkenning en verantwoording staan hier samen."
+      }
+    },
+    {
+      "book": "1timotheus",
+      "chapter": 6,
+      "verse": 6,
+      "file": "6-rijkdom.svg",
+      "scene": "Tevredenheid en rijkdom",
+      "alt": "Tevredenheid en rijkdom met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "1 Timotheüs 6:6–19",
+      "design": {
+        "rows": [
+          [
+            "Ware winst · vers 6–8",
+            "Vroomheid met tevredenheid; voedsel en kleding."
+          ],
+          [
+            "Het gevaar · vers 9–10",
+            "Rijk willen worden en de liefde voor geld."
+          ],
+          [
+            "De jacht · vers 11–12",
+            "Gerechtigheid, vroomheid, geloof, liefde, volharding en zachtmoedigheid."
+          ],
+          [
+            "De opdracht · vers 17–19",
+            "God vertrouwen; goed doen, vrijgevig zijn en delen."
+          ]
+        ],
+        "note": "De brief onderscheidt geldliefde van het gebruik van rijkdom om goed te doen."
+      }
+    }
+  ]
+}
