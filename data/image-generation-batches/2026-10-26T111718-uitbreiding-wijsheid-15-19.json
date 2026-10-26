@@ -1,0 +1,297 @@
+{
+  "date": "2026-10-26",
+  "started": "2026-10-26T11:17:18Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "boekderwijsheid",
+      "chapter": 16,
+      "verse": 19,
+      "file": "16-19-vuur-in-water-verdieping.webp",
+      "scene": "Vuur brandt midden in het water",
+      "alt": "Vuur brandt midden in het water — Wijsheid 16:19; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic biblical text illustration, ancient Mediterranean setting and materials, landscape 3:2, natural light. Coherent anatomy, exactly two arms per human, modest opaque clothing. No modern objects, readable writing, divine human figure, injuries or watermark. Illustration of the remembered wonder in Wisdom 16:16–19: an uninhabited ancient Egyptian grain field during a heavy rain and hailstorm, orange flames continuing to burn among the wet grain and shallow pools of rainwater. No people, victims or buildings on fire. A vivid contrast of falling water and persistent fire, realistic crops and storm light, supernatural biblical event described through natural materials, no fantasy creatures.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "boekderwijsheid",
+      "chapter": 19,
+      "verse": 17,
+      "file": "19-17-snarenspel-verdieping.webp",
+      "scene": "Vergelijking: veranderende tonen",
+      "alt": "Vergelijking: veranderende tonen — Wijsheid 19:17; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: historical-scene. Photorealistic biblical text illustration, ancient Mediterranean setting and materials, landscape 3:2, natural light. Coherent anatomy, exactly two arms per human, modest opaque clothing. No modern objects, readable writing, divine human figure, injuries or watermark. A poetic illustration of Wisdom 19:17. Close view of a simple ancient wooden lyre held by an adult musician in an opaque linen robe, only torso and two anatomically correct hands visible, one gently plucking a string and one holding the wooden frame. In soft focus behind him lie a quiet shoreline, water, land and sunlight, evoking the text’s comparison between changing elements and the changing tones of a stringed instrument. Do not add written music, modern tuning pegs, supernatural hands or literal musical symbols floating in air.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "boekderwijsheid",
+      "chapter": 15,
+      "verse": 7,
+      "file": "15-klei-en-maker.svg",
+      "scene": "De klei, de pot en de maker",
+      "alt": "De klei, de pot en de maker met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1091,
+      "source": "Wijsheid 15:7–17",
+      "design": {
+        "rows": [
+          [
+            "Dezelfde grondstof · 7–8",
+            "De pottenbakker vormt gebruiksgoed en een vermeende god uit dezelfde klei."
+          ],
+          [
+            "De levende maker · 8–11",
+            "Zelf uit aarde genomen, kort van leven en afhankelijk van ontvangen adem."
+          ],
+          [
+            "De winstgedachte · 9,12–13",
+            "Eer zoeken in namaak en winst zelfs uit het kwade."
+          ],
+          [
+            "Het levenloze maaksel · 15–17",
+            "Het beeld kan niet zien, ademen, horen, tasten of lopen."
+          ]
+        ],
+        "note": "De vergelijking verklaart waarom de levende maker in dit betoog hoger staat dan zijn levenloze maaksel."
+      }
+    },
+    {
+      "book": "boekderwijsheid",
+      "chapter": 16,
+      "verse": 1,
+      "file": "16-voeden-en-genezen.svg",
+      "scene": "Plagen, voedsel en genezing",
+      "alt": "Plagen, voedsel en genezing met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1141,
+      "source": "Wijsheid 16:1–15",
+      "design": {
+        "rows": [
+          [
+            "Dieren en eten · 1–4",
+            "Plagen voor de onderdrukkers, kwartels voor het volk in gebrek."
+          ],
+          [
+            "Het teken · 5–8",
+            "Het reddingsteken herinnert aan het gebod; God redt wie zich ernaartoe keert."
+          ],
+          [
+            "De genezing · 9–12",
+            "Ontferming en het woord worden als de bron van herstel aangewezen."
+          ],
+          [
+            "De grens · 13–15",
+            "God heeft macht over leven en dood; mensen kunnen de uitgegane geest niet terughalen."
+          ]
+        ],
+        "note": "De tekst onderscheidt het zichtbare teken van Degene die redt."
+      }
+    },
+    {
+      "book": "boekderwijsheid",
+      "chapter": 16,
+      "verse": 16,
+      "file": "16-vuur-voedsel-en-dank.svg",
+      "scene": "Vuur, brood en dankbaarheid",
+      "alt": "Vuur, brood en dankbaarheid met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1098,
+      "source": "Wijsheid 16:16–29",
+      "design": {
+        "rows": [
+          [
+            "Vuur en water · 16–19",
+            "Regen en hagel begeleiden een vuur dat de gewassen van de tegenstanders verteert."
+          ],
+          [
+            "Brood uit de hemel · 20–26",
+            "De gave voedt het volk; de schepping dient en het woord houdt in stand."
+          ],
+          [
+            "Smelten · 22–23,27",
+            "Wat het vuur spaart, smelt door een kleine zonnestraal."
+          ],
+          [
+            "Vroeg danken · 28–29",
+            "De zon vóór zijn met dank; ondankbare hoop is als verdwijnende rijp."
+          ]
+        ],
+        "note": "De verschillende uitwerkingen van de elementen verbinden de wonderen met de oproep tot dank."
+      }
+    },
+    {
+      "book": "boekderwijsheid",
+      "chapter": 17,
+      "verse": 11,
+      "file": "17-duisternis-en-geweten.svg",
+      "scene": "Duisternis, geluid en geweten",
+      "alt": "Duisternis, geluid en geweten met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1098,
+      "source": "Wijsheid 17:1–21",
+      "design": {
+        "rows": [
+          [
+            "De omgeving · 2–6",
+            "Een lange nacht, gesloten huizen en onvoldoende licht."
+          ],
+          [
+            "Het innerlijk · 7–16",
+            "Mislukte toverkunst, schuld en onzekerheid voeden de angst."
+          ],
+          [
+            "De geluiden · 17–19",
+            "Wind, vogels, water, stenen, dieren en echo’s worden als bedreiging ervaren."
+          ],
+          [
+            "De tegenstelling · 20–21",
+            "Elders helder licht en gewoon werk; voor hen een zware nacht en innerlijke last."
+          ]
+        ],
+        "note": "Gewone geluiden en de angstige duiding ervan worden in het betoog met elkaar verbonden."
+      }
+    },
+    {
+      "book": "boekderwijsheid",
+      "chapter": 18,
+      "verse": 1,
+      "file": "18-twee-nachten.svg",
+      "scene": "Licht, paasnacht en voorbede",
+      "alt": "Licht, paasnacht en voorbede met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1134,
+      "source": "Wijsheid 18:1–25",
+      "design": {
+        "rows": [
+          [
+            "Licht en leiding · 1–4",
+            "Groot licht voor de heiligen en een vuurkolom op de reis."
+          ],
+          [
+            "De vooraf bekende nacht · 5–13",
+            "Verbondenheid in offer en lof tegenover rouw en de erkenning van Gods kinderen."
+          ],
+          [
+            "Het almachtige woord · 14–19",
+            "In de stilte daalt het woord neer, vergeleken met een krijgsheld met het gebod als zwaard."
+          ],
+          [
+            "Voorbede in de woestijn · 20–25",
+            "Gebed en verzoenend reukwerk stuiten de plaag onder het eigen volk."
+          ]
+        ],
+        "note": "De laatste voorbede is een later woestijnvoorbeeld; het schema onderscheidt dit van de paasnacht."
+      }
+    },
+    {
+      "book": "boekderwijsheid",
+      "chapter": 18,
+      "verse": 21,
+      "file": "18-ambt-en-wapens.svg",
+      "scene": "De wapens van het ambt",
+      "alt": "De wapens van het ambt met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1012,
+      "source": "Wijsheid 18:21–25",
+      "design": {
+        "rows": [
+          [
+            "Wat hij meebrengt · 21",
+            "Gebed en verzoening door reukwerk."
+          ],
+          [
+            "Hoe hij overwint · 22",
+            "Met het woord en de herinnering aan eden en verbonden."
+          ],
+          [
+            "Waar hij staat · 23",
+            "Tussen de getroffenen en de levenden."
+          ],
+          [
+            "Wat hij draagt · 24",
+            "Een lang gewaad, vier rijen stenen met de eer van de voorouders en de hoofdband."
+          ]
+        ],
+        "note": "De tekst zet de ambtelijke voorbede tegenover lichaamskracht en wapengeweld."
+      }
+    },
+    {
+      "book": "boekderwijsheid",
+      "chapter": 19,
+      "verse": 6,
+      "file": "19-elementen-en-snaren.svg",
+      "scene": "Veranderende elementen en tonen",
+      "alt": "Veranderende elementen en tonen met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1134,
+      "source": "Wijsheid 19:6–20",
+      "design": {
+        "rows": [
+          [
+            "Land en water · 6–9",
+            "De wolk beschermt en waar water was ontstaat een droge weg."
+          ],
+          [
+            "Herinnerde dieren · 10–12",
+            "Vliegen, kikkers en kwartels roepen eerdere ervaringen op."
+          ],
+          [
+            "De vergelijking · 17",
+            "Elementen veranderen zoals tonen in een snarenspel, met blijvende klank."
+          ],
+          [
+            "Vuur en water · 18–20",
+            "De gewone werking wordt aangepast: vuur brandt in water en hemels eten blijft behouden."
+          ]
+        ],
+        "note": "Het snarenspel is een vergelijking die de wonderen uitlegt, geen afzonderlijk verteld optreden van een muzikant."
+      }
+    },
+    {
+      "book": "boekderwijsheid",
+      "chapter": 19,
+      "verse": 13,
+      "file": "19-vreemdelingen-vergelijking.svg",
+      "scene": "De omgang met vreemdelingen",
+      "alt": "De omgang met vreemdelingen met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1098,
+      "source": "Wijsheid 19:13–16",
+      "design": {
+        "rows": [
+          [
+            "Sodom · 13",
+            "De onbekenden die kwamen werden niet opgenomen."
+          ],
+          [
+            "Egypte · 13–15",
+            "Weldoende vreemdelingen werden tot slavernij en zwaar werk gedwongen."
+          ],
+          [
+            "Het eerdere onthaal · 15",
+            "Wie met een feest ontvangen waren, deelden al dezelfde rechten."
+          ],
+          [
+            "Het slotbeeld · 16",
+            "Blindheid en zoeken naar de eigen deur herinneren aan de mannen voor de deur van de rechtvaardige."
+          ]
+        ],
+        "note": "De tekst legt twee voorbeelden naast elkaar en noemt de Egyptische vijandschap zwaarder."
+      }
+    }
+  ]
+}
