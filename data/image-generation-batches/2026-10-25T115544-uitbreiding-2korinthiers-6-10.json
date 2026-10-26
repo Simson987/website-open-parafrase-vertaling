@@ -1,0 +1,450 @@
+{
+  "date": "2026-10-25",
+  "started": "2026-10-25T11:55:44Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "2korinthiers",
+      "chapter": 8,
+      "verse": 18,
+      "file": "8-18-titus-twee-broeders-verdieping.webp",
+      "scene": "Titus en twee medegelovigen gaan op weg",
+      "alt": "Titus en twee medegelovigen gaan op weg — 2 Korinthiërs 8:18; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. 2 Corinthians 8:16–23: Titus travels willingly with two fellow believers who are not named in the chapter, concerning the collection. Exactly three adult men stand ready to depart from a modest first-century household courtyard: Titus and two companions, one carrying a securely closed plain cloth travel bag for the entrusted gift, another a small rolled letter. No extra faces, no money displayed ostentatiously, no armed escort, no modern bank imagery or readable text. Respectful responsible cooperation with clearly separate hands. Do not identify the unnamed companions as Luke or any other person not named in this text.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2korinthiers",
+      "chapter": 6,
+      "verse": 1,
+      "file": "6-leeswijzer.svg",
+      "scene": "Open hart en een trouwe dienst",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1012,
+      "source": "2 Korinthiërs 6:1–18",
+      "design": {
+        "rows": [
+          [
+            "1–2 · De tijd van genade",
+            "Nu is de dag van de redding."
+          ],
+          [
+            "3–10 · De dienaren",
+            "Geduld, ontberingen, oprechte liefde en onverwachte tegenstellingen."
+          ],
+          [
+            "11–13 · Maak ruimte",
+            "Paulus vraagt om een wijd hart als antwoord op zijn openheid."
+          ],
+          [
+            "14–18 · De tempel van God",
+            "Vergelijkingen over onverenigbaarheid en de belofte van Gods nabijheid."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "2korinthiers",
+      "chapter": 7,
+      "verse": 1,
+      "file": "7-leeswijzer.svg",
+      "scene": "Troost en verdriet tot bekering",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "2 Korinthiërs 7:1–16",
+      "design": {
+        "rows": [
+          [
+            "1–4 · Ruimte en vertrouwen",
+            "Heiliging, openheid en overvloedige blijdschap."
+          ],
+          [
+            "5–7 · Titus komt",
+            "Zijn komst en zijn bericht brengen troost."
+          ],
+          [
+            "8–12 · Wat het verdriet deed",
+            "De brief leidde tot bekering en zichtbare inzet."
+          ],
+          [
+            "13–16 · Gedeelde blijdschap",
+            "Titus is verkwikt; Paulus heeft vertrouwen in de gemeente."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "2korinthiers",
+      "chapter": 8,
+      "verse": 1,
+      "file": "8-leeswijzer.svg",
+      "scene": "Bereidwillig geven en goed beheer",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "2 Korinthiërs 8:1–24",
+      "design": {
+        "rows": [
+          [
+            "1–7 · Het Macedonische voorbeeld",
+            "Genade werkt vrijgevigheid, zelfs in diepe armoede."
+          ],
+          [
+            "8–15 · Maak de gave af",
+            "Geven naar vermogen, met bereidheid en met gelijkheid als doel."
+          ],
+          [
+            "16–23 · Titus en de medegelovigen",
+            "Een gezamenlijk beheer dat ook voor mensen goed is."
+          ],
+          [
+            "24 · Liefde tonen",
+            "Laat de afgezanten de liefde van de gemeente zien."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "2korinthiers",
+      "chapter": 9,
+      "verse": 1,
+      "file": "9-leeswijzer.svg",
+      "scene": "Vrijgevigheid, vrucht en dank",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "2 Korinthiërs 9:1–15",
+      "design": {
+        "rows": [
+          [
+            "1–5 · Voorbereiden",
+            "De beloofde gave vooraf klaarleggen, zonder dwang."
+          ],
+          [
+            "6–7 · Zaaien en geven",
+            "Ieder naar het hart; God heeft de blijmoedige gever lief."
+          ],
+          [
+            "8–11 · Genoeg om te delen",
+            "Genade, zaad en brood; rijk om vrijgevig te zijn."
+          ],
+          [
+            "12–15 · De uitwerking",
+            "Het tekort wordt aangevuld; dank, eer en gebed groeien."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "2korinthiers",
+      "chapter": 10,
+      "verse": 1,
+      "file": "10-leeswijzer.svg",
+      "scene": "Zachtmoedig en tot opbouw",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "2 Korinthiërs 10:1–18",
+      "design": {
+        "rows": [
+          [
+            "1–6 · Een andere strijd",
+            "Geen vleselijke wapens; redeneringen en gedachten gericht op Christus."
+          ],
+          [
+            "7–11 · Gezag en aanwezigheid",
+            "Het gegeven gezag dient opbouw, niet afbraak."
+          ],
+          [
+            "12–16 · Binnen de toegewezen maat",
+            "Geen zelfvergelijking of roem op andermans werk."
+          ],
+          [
+            "17–18 · De juiste roem",
+            "Roem in de Heere; Zijn goedkeuring maakt betrouwbaar."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "2korinthiers",
+      "chapter": 6,
+      "verse": 8,
+      "file": "6-tegenstellingen.svg",
+      "scene": "De genoemde tegenstellingen",
+      "alt": "De genoemde tegenstellingen met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "2 Korinthiërs 6:8–10",
+      "design": {
+        "rows": [
+          [
+            "Reputatie",
+            "Eer en oneer; slechte en goede naam; bedriegers en toch waar."
+          ],
+          [
+            "Bekend en levend",
+            "Onbekend en toch bekend; stervend en toch levend."
+          ],
+          [
+            "Straf en verdriet",
+            "Gestraft maar niet gedood; bedroefd maar altijd blij."
+          ],
+          [
+            "Armoede en bezit",
+            "Arm maar velen rijk makend; niets hebben en alles bezitten."
+          ]
+        ],
+        "note": "De tegenstellingen beschrijven de bediening; rijkdom is hier niet uitsluitend geld."
+      }
+    },
+    {
+      "book": "2korinthiers",
+      "chapter": 6,
+      "verse": 14,
+      "file": "6-vijf-vragen.svg",
+      "scene": "De vijf vergelijkende vragen",
+      "alt": "De vijf vergelijkende vragen met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 969,
+      "source": "2 Korinthiërs 6:14–16",
+      "design": {
+        "rows": [
+          [
+            "Gerechtigheid en licht",
+            "Wat delen gerechtigheid met onrecht en licht met duisternis?"
+          ],
+          [
+            "Christus en de gelovige",
+            "Welke overeenkomst met Belial of met een ongelovige?"
+          ],
+          [
+            "De tempel van God",
+            "Wat past er bij afgoden?"
+          ],
+          [
+            "De toepassing",
+            "Wij zijn de tempel van de levende God."
+          ]
+        ],
+        "note": "De vijf vragen worden in drie groepen samengevat; tempel en span zijn vergelijkingen."
+      }
+    },
+    {
+      "book": "2korinthiers",
+      "chapter": 7,
+      "verse": 8,
+      "file": "7-verdriet-gevolg.svg",
+      "scene": "Wat het verdriet teweegbrengt",
+      "alt": "Wat het verdriet teweegbrengt met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1005,
+      "source": "2 Korinthiërs 7:8–11",
+      "design": {
+        "rows": [
+          [
+            "De brief",
+            "Heeft voor een tijd verdriet gedaan."
+          ],
+          [
+            "Verdriet naar Gods wil",
+            "Brengt bekering en redding zonder spijt."
+          ],
+          [
+            "Verdriet van de wereld",
+            "Brengt de dood."
+          ],
+          [
+            "De zichtbare vrucht",
+            "Inzet, verantwoording, afkeer, ontzag, verlangen, ijver en recht."
+          ]
+        ],
+        "note": "Paulus benoemt het concrete effect van zijn brief op de gemeente."
+      }
+    },
+    {
+      "book": "2korinthiers",
+      "chapter": 8,
+      "verse": 10,
+      "file": "8-geven-vermogen.svg",
+      "scene": "Bereidheid, vermogen en gelijkheid",
+      "alt": "Bereidheid, vermogen en gelijkheid met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1012,
+      "source": "2 Korinthiërs 8:10–15",
+      "design": {
+        "rows": [
+          [
+            "Wat begonnen is",
+            "Maak het willen ook met handelen af."
+          ],
+          [
+            "De maat",
+            "Wat iemand heeft telt; niet wat hij niet heeft."
+          ],
+          [
+            "De bedoeling",
+            "Niet de een ontlasten door de ander te belasten."
+          ],
+          [
+            "De wederkerigheid",
+            "Huidige overvloed vult tekort aan; later kan het omgekeerd zijn."
+          ]
+        ],
+        "note": "De aangehaalde woorden over veel en weinig verzamelen ondersteunen de genoemde gelijkheid."
+      }
+    },
+    {
+      "book": "2korinthiers",
+      "chapter": 8,
+      "verse": 16,
+      "file": "8-toevertrouwde-gave.svg",
+      "scene": "Samen de gave beheren",
+      "alt": "Samen de gave beheren met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1012,
+      "source": "2 Korinthiërs 8:16–23",
+      "design": {
+        "rows": [
+          [
+            "Titus",
+            "Metgezel en medewerker; hij gaat uit eigen beweging."
+          ],
+          [
+            "Eerste medegelovige",
+            "Om het evangeliewerk geprezen en door gemeenten aangewezen."
+          ],
+          [
+            "Tweede medegelovige",
+            "Vaak beproefd en ijverig bevonden."
+          ],
+          [
+            "De reden voor gezamenlijk beheer",
+            "Voorkom verwijten en doe goed voor de Heere én voor mensen."
+          ]
+        ],
+        "note": "De twee medegelovigen krijgen hier geen naam; het schema laat hun identiteit open."
+      }
+    },
+    {
+      "book": "2korinthiers",
+      "chapter": 9,
+      "verse": 6,
+      "file": "9-zaaien-geven.svg",
+      "scene": "Het zaaibeeld en het geven",
+      "alt": "Het zaaibeeld en het geven met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "2 Korinthiërs 9:6–11",
+      "design": {
+        "rows": [
+          [
+            "Spaarzaam en rijk zaaien",
+            "Het beeld noemt een overeenkomstige oogst."
+          ],
+          [
+            "Het hart · vers 7",
+            "Geven zoals besloten, niet verdrietig of gedwongen."
+          ],
+          [
+            "Genoeg · vers 8–10",
+            "Genade voor goed werk, zaad voor de zaaier en brood."
+          ],
+          [
+            "Het doel · vers 11",
+            "Rijk om vrijgevig te zijn, zodat God dank ontvangt."
+          ]
+        ],
+        "note": "De bedoelde vrucht leidt tot goed werk en dank aan God."
+      }
+    },
+    {
+      "book": "2korinthiers",
+      "chapter": 9,
+      "verse": 12,
+      "file": "9-dienst-vrucht.svg",
+      "scene": "De uitwerking van deze dienst",
+      "alt": "De uitwerking van deze dienst met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "2 Korinthiërs 9:12–15",
+      "design": {
+        "rows": [
+          [
+            "Tekort aangevuld",
+            "De heiligen ontvangen de benodigde hulp."
+          ],
+          [
+            "Dank aan God",
+            "De dienst brengt veel dankbaarheid voort."
+          ],
+          [
+            "Eer en gemeenschap",
+            "De ontvangers eren God om gehoorzaamheid en vrijgevigheid."
+          ],
+          [
+            "Gebed en verlangen",
+            "Zij bidden voor de gevers en verlangen naar hen."
+          ]
+        ],
+        "note": "De ontvangers en gevers worden door de gave met elkaar verbonden."
+      }
+    },
+    {
+      "book": "2korinthiers",
+      "chapter": 10,
+      "verse": 3,
+      "file": "10-strijd-beeld.svg",
+      "scene": "De strijdvergelijking uitgelegd",
+      "alt": "De strijdvergelijking uitgelegd met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1048,
+      "source": "2 Korinthiërs 10:3–8",
+      "design": {
+        "rows": [
+          [
+            "Niet van vlees en bloed",
+            "Paulus wijst vleselijke wapens af."
+          ],
+          [
+            "De bolwerken",
+            "Hij spreekt over redeneringen en wat tegen Gods kennis opstaat."
+          ],
+          [
+            "De gedachten",
+            "Worden gericht op gehoorzaamheid aan Christus."
+          ],
+          [
+            "Het gezag",
+            "Is gegeven om op te bouwen, niet om af te breken."
+          ]
+        ],
+        "note": "Bolwerken en wapens zijn beeldspraak in dit betoog; er wordt geen militaire aanval beschreven."
+      }
+    }
+  ]
+}
