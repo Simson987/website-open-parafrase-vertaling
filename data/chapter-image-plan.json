@@ -36565,6 +36565,137 @@
       "target_images": 3,
       "reason": "De drie bestaande beelden zijn voldoende: onberispelijke rijkdom, beschaafd eten en gematigde wijn geven elk het hoofdthema van een hoofdstukdeel weer. Na controle vraagt de verdere uitleg geen vierde tafelscène. Doel blijft drie.",
       "additions": []
+    },
+    {
+      "book": "jezussirach",
+      "chapter": 38,
+      "status": "reviewed",
+      "target_images": 9,
+      "reason": "Dokter, geneesmiddelenbereider en smid zijn aanwezig. Rouw, landbouwer, zegelsnijder en pottenbakker zijn vier zelfstandig genoemde, ontbrekende onderwerpen en krijgen afzonderlijke lesbeelden. Twee schema’s leggen de hoofdstukdelen en werksoorten uit.",
+      "additions": [
+        {
+          "verse": 16,
+          "file": "38-16-rouw-en-begrafenis-verdieping.webp",
+          "scene": "Lesbeeld: waardig afscheid nemen",
+          "kind": "poetic"
+        },
+        {
+          "verse": 26,
+          "file": "38-26-boer-ploeg-verdieping.webp",
+          "scene": "Lesbeeld: de boer met de ploeg",
+          "kind": "poetic"
+        },
+        {
+          "verse": 29,
+          "file": "38-29-zegelsnijder-verdieping.webp",
+          "scene": "Lesbeeld: de zegelsnijder",
+          "kind": "poetic"
+        },
+        {
+          "verse": 34,
+          "file": "38-34-pottenbakker-wiel-verdieping.webp",
+          "scene": "Lesbeeld: de pottenbakker aan het wiel",
+          "kind": "poetic"
+        },
+        {
+          "verse": 1,
+          "file": "38-zorg-rouw-en-vak.svg",
+          "scene": "Zorg, rouw en vakbekwaamheid",
+          "kind": "diagram",
+          "source": "Jezus Sirach 38:1–41"
+        },
+        {
+          "verse": 26,
+          "file": "38-ambachten-en-aandacht.svg",
+          "scene": "Waar de ambachtslieden op letten",
+          "kind": "diagram",
+          "source": "Jezus Sirach 38:26–40"
+        }
+      ]
+    },
+    {
+      "book": "jezussirach",
+      "chapter": 40,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Gezegende tuin, vriendelijke tong en goede raad zijn aanwezig, maar het zware openingsdeel nog niet. Een lesbeeld van nachtelijke onrust vult dat aan. Twee schema’s onderscheiden wat vergaat en de vergelijkingsreeks van wat hoger gewaardeerd wordt.",
+      "additions": [
+        {
+          "verse": 6,
+          "file": "40-6-onrust-nacht-verdieping.webp",
+          "scene": "Lesbeeld: onrust in de nacht",
+          "kind": "poetic"
+        },
+        {
+          "verse": 1,
+          "file": "40-onrust-en-bestendigheid.svg",
+          "scene": "Menselijke onrust en wat blijft",
+          "kind": "diagram",
+          "source": "Jezus Sirach 40:1–16,28–31"
+        },
+        {
+          "verse": 19,
+          "file": "40-vergelijkingen-waardering.svg",
+          "scene": "Wat hoger gewaardeerd wordt",
+          "kind": "diagram",
+          "source": "Jezus Sirach 40:19–27"
+        }
+      ]
+    },
+    {
+      "book": "jezussirach",
+      "chapter": 36,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "Verzamelde stammen, gebed voor Jeruzalem en een passende hulp zijn aanwezig. Eén overgangsschema maakt de structuur van gebed naar praktisch onderscheiden zichtbaar; geen nieuwe algemene gebedsfoto.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "36-gebed-en-onderscheid.svg",
+          "scene": "Gebed en onderscheid",
+          "kind": "diagram",
+          "source": "Jezus Sirach 36:1–28"
+        }
+      ]
+    },
+    {
+      "book": "jezussirach",
+      "chapter": 37,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Betrouwbare raad, gebed en openbaar onderwijs zijn aanwezig. Twee schema’s geven de negen gewaarschuwde raadgever-onderwerpcombinaties en de toets van eigen belang weer; een onbekende naam wordt niet aan de raadgever gegeven.",
+      "additions": [
+        {
+          "verse": 7,
+          "file": "37-raad-en-belang.svg",
+          "scene": "Raad, eigen hart en gebed",
+          "kind": "diagram",
+          "source": "Jezus Sirach 37:1–32"
+        },
+        {
+          "verse": 12,
+          "file": "37-raadgever-en-onderwerp.svg",
+          "scene": "Raadgever en onderwerp",
+          "kind": "diagram",
+          "source": "Jezus Sirach 37:12–13"
+        }
+      ]
+    },
+    {
+      "book": "jezussirach",
+      "chapter": 39,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "Studie, roos en dagelijkse gaven zijn aanwezig. De exacte lijst van tien levensbenodigdheden krijgt een schema; de brede slotlof vraagt geen extra generiek oogstbeeld.",
+      "additions": [
+        {
+          "verse": 30,
+          "file": "39-benodigdheden-leven.svg",
+          "scene": "Tien levensbenodigdheden",
+          "kind": "diagram",
+          "source": "Jezus Sirach 39:30–31"
+        }
+      ]
     }
   ]
 }
