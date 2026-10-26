@@ -1,0 +1,454 @@
+{
+  "date": "2026-10-26",
+  "started": "2026-10-26T08:13:55Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "hebreeen",
+      "chapter": 5,
+      "verse": 12,
+      "file": "5-12-melk-vast-voedsel-verdieping.webp",
+      "scene": "Vergelijking: melk en vast voedsel",
+      "alt": "Vergelijking: melk en vast voedsel — Hebreeën 5:12; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. Hebrews 5:12–14 contrasts milk for immature learners with solid food for those trained to distinguish good and evil. Photorealistic still life illustrating the metaphor: on a simple first-century wooden table a small plain clay cup of milk on the left and a modest plate of solid bread and cooked vegetables on the right. An unopened ancient scroll lies behind them, visually connecting nourishment to learning. Quiet natural light, no babies, readable text, knives, modern ceramics or lettering. Not a literal dietary command or feeding scene.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "hebreeen",
+      "chapter": 6,
+      "verse": 8,
+      "file": "6-8-dorens-distels-verdieping.webp",
+      "scene": "Vergelijking: dorens en distels",
+      "alt": "Vergelijking: dorens en distels — Hebreeën 6:8; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. Hebrews 6:7–8 contrasts useful crops receiving rain with land producing thorns and thistles. Photorealistic landscape focused on neglected ground overgrown by prickly thistles and tangled thorn bushes after rain, droplets on plants and dark wet earth under a clearing sky. No person, punishment spectacle or burning bodies. A specific natural illustration of the second half of the agricultural comparison; no writing, no modern fencing, not another lush grain crop image.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "hebreeen",
+      "chapter": 1,
+      "verse": 1,
+      "file": "1-leeswijzer.svg",
+      "scene": "God spreekt door de Zoon",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 863,
+      "source": "Hebreeën 1:1–14",
+      "design": {
+        "rows": [
+          [
+            "1–4 · De Zoon",
+            "Erfgenaam, Schepper, drager en reiniger; hoger dan de engelen."
+          ],
+          [
+            "5–9 · Zoon en koningschap",
+            "Aanspraken en aanbidding; de blijvende troon."
+          ],
+          [
+            "10–14 · Blijvend en dienend",
+            "De Schepper blijft; de engelen dienen de erfgenamen van redding."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "hebreeen",
+      "chapter": 2,
+      "verse": 1,
+      "file": "2-leeswijzer.svg",
+      "scene": "De redding en onze broeder",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "Hebreeën 2:1–18",
+      "design": {
+        "rows": [
+          [
+            "1–4 · Goed blijven luisteren",
+            "De grote redding is verkondigd, bevestigd en betuigd."
+          ],
+          [
+            "5–9 · Mens en heerlijkheid",
+            "Nog niet alles onderworpen; Jezus door lijden gekroond."
+          ],
+          [
+            "10–13 · Kinderen en broeders",
+            "De Leidsman brengt velen tot heerlijkheid."
+          ],
+          [
+            "14–18 · Gelijk geworden",
+            "Vlees en bloed, bevrijding en een meevoelende Hogepriester."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "hebreeen",
+      "chapter": 3,
+      "verse": 1,
+      "file": "3-leeswijzer.svg",
+      "scene": "Trouw en vandaag luisteren",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "Hebreeën 3:1–19",
+      "design": {
+        "rows": [
+          [
+            "1–6 · Mozes en Christus",
+            "Een trouwe dienaar en de Zoon over het huis."
+          ],
+          [
+            "7–11 · De woestijnstem",
+            "Vandaag horen; de waarschuwing tegen een hard hart."
+          ],
+          [
+            "12–15 · Elkaar bemoedigen",
+            "Dagelijks vertrouwen vasthouden en verharding voorkomen."
+          ],
+          [
+            "16–19 · De uittocht als les",
+            "Ongehoorzaamheid en ongeloof verhinderden het binnengaan."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "hebreeen",
+      "chapter": 4,
+      "verse": 1,
+      "file": "4-leeswijzer.svg",
+      "scene": "Rust, het Woord en genade",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1012,
+      "source": "Hebreeën 4:1–16",
+      "design": {
+        "rows": [
+          [
+            "1–5 · De belofte van rust",
+            "Horen met geloof; Gods rust sinds de zevende dag."
+          ],
+          [
+            "6–11 · Vandaag binnengaan",
+            "David, Jozua en de rust die overblijft."
+          ],
+          [
+            "12–13 · Het levende Woord",
+            "Gedachten en bedoelingen worden doorgrond."
+          ],
+          [
+            "14–16 · De Hogepriester",
+            "Vasthouden en vrijmoedig om tijdige hulp gaan."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "hebreeen",
+      "chapter": 5,
+      "verse": 1,
+      "file": "5-leeswijzer.svg",
+      "scene": "Roeping en volwassen worden",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 820,
+      "source": "Hebreeën 5:1–14",
+      "design": {
+        "rows": [
+          [
+            "1–4 · De menselijke priester",
+            "Geroepen, mild en zelf ook zwak."
+          ],
+          [
+            "5–10 · De geroepen Zoon",
+            "Priester voor eeuwig; gebed, lijden en gehoorzaamheid."
+          ],
+          [
+            "11–14 · Leren onderscheiden",
+            "Van melk naar vast voedsel en geoefend waarnemen."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "hebreeen",
+      "chapter": 6,
+      "verse": 1,
+      "file": "6-leeswijzer.svg",
+      "scene": "Volwassenheid en vaste hoop",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "Hebreeën 6:1–20",
+      "design": {
+        "rows": [
+          [
+            "1–3 · Verder bouwen",
+            "Het fundament en de weg naar volwassenheid."
+          ],
+          [
+            "4–8 · De waarschuwing",
+            "Afval en de vergelijking van twee soorten opbrengst."
+          ],
+          [
+            "9–12 · Dienst en volharding",
+            "God vergeet de liefde niet; geloof en geduld."
+          ],
+          [
+            "13–20 · Belofte, eed en anker",
+            "Abraham, Gods betrouwbaarheid en Jezus als voorloper."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "hebreeen",
+      "chapter": 1,
+      "verse": 2,
+      "file": "1-zoon-engelen.svg",
+      "scene": "De Zoon en de engelen",
+      "alt": "De Zoon en de engelen met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "Hebreeën 1:2–14",
+      "design": {
+        "rows": [
+          [
+            "De Zoon · vers 2–4",
+            "Erfgenaam, Schepper, drager en reiniger van zonden."
+          ],
+          [
+            "Koningschap · vers 5–9",
+            "Zoon genoemd, aanbeden en met een blijvende troon."
+          ],
+          [
+            "De Schepper · vers 10–12",
+            "De schepping verandert; Hij blijft dezelfde."
+          ],
+          [
+            "De engelen · vers 13–14",
+            "Dienende geesten voor wie de redding zullen erven."
+          ]
+        ],
+        "note": "Het hoofdstuk vergelijkt hun plaats en taak met Schriftwoorden."
+      }
+    },
+    {
+      "book": "hebreeen",
+      "chapter": 2,
+      "verse": 14,
+      "file": "2-broeder-priester.svg",
+      "scene": "Waarom gelijk aan Zijn broeders?",
+      "alt": "Waarom gelijk aan Zijn broeders? met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "Hebreeën 2:10–18",
+      "design": {
+        "rows": [
+          [
+            "Samen · vers 10–13",
+            "Kinderen tot heerlijkheid brengen en hen broeders noemen."
+          ],
+          [
+            "Vlees en bloed · vers 14",
+            "Deel krijgen aan hun menselijke bestaan en sterven."
+          ],
+          [
+            "Bevrijding · vers 14–15",
+            "De macht van de dood doorbreken en angstige slaven bevrijden."
+          ],
+          [
+            "Hogepriester · vers 17–18",
+            "Verzoenen en helpen, omdat Hij Zelf geleden en beproeving gekend heeft."
+          ]
+        ],
+        "note": "De brief verbindt menswording, lijden, verzoening en hulp."
+      }
+    },
+    {
+      "book": "hebreeen",
+      "chapter": 3,
+      "verse": 2,
+      "file": "3-mozes-christus.svg",
+      "scene": "Mozes en Christus in het huis",
+      "alt": "Mozes en Christus in het huis met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 969,
+      "source": "Hebreeën 3:1–6",
+      "design": {
+        "rows": [
+          [
+            "Mozes · vers 2, 5",
+            "Trouw als dienaar in Gods huis."
+          ],
+          [
+            "Christus · vers 3–6",
+            "Meer heerlijkheid; trouw als Zoon over Zijn huis."
+          ],
+          [
+            "Bouwer en huis · vers 3–4",
+            "De bouwer krijgt meer eer dan het huis."
+          ],
+          [
+            "Wij · vers 6",
+            "Zijn huis, als wij vrijmoedigheid en hoop vasthouden."
+          ]
+        ],
+        "note": "Het huis is hier een vergelijking voor Gods gemeenschap."
+      }
+    },
+    {
+      "book": "hebreeen",
+      "chapter": 4,
+      "verse": 4,
+      "file": "4-rust-verwijzingen.svg",
+      "scene": "De verwijzingen naar rust",
+      "alt": "De verwijzingen naar rust met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 969,
+      "source": "Hebreeën 4:1–11",
+      "design": {
+        "rows": [
+          [
+            "De zevende dag · vers 4",
+            "God rustte van Zijn werken."
+          ],
+          [
+            "De ongehoorzamen · vers 5–6",
+            "Zij gingen niet binnen."
+          ],
+          [
+            "David en Jozua · vers 7–8",
+            "Later klinkt opnieuw vandaag; Jozua is niet het laatste woord."
+          ],
+          [
+            "Het volk van God · vers 9–11",
+            "Er blijft sabbatsrust over; span je in om binnen te gaan."
+          ]
+        ],
+        "note": "De aangehaalde teksten dragen het betoog over de overblijvende rust."
+      }
+    },
+    {
+      "book": "hebreeen",
+      "chapter": 5,
+      "verse": 1,
+      "file": "5-priester-roeping.svg",
+      "scene": "Roeping, lijden en priesterschap",
+      "alt": "Roeping, lijden en priesterschap met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1012,
+      "source": "Hebreeën 5:1–10",
+      "design": {
+        "rows": [
+          [
+            "Menselijke hogepriester",
+            "Voor mensen aangesteld; mild door eigen zwakheid."
+          ],
+          [
+            "Aäron · vers 4",
+            "De eer wordt door roeping ontvangen."
+          ],
+          [
+            "Christus · vers 5–6, 10",
+            "Door God Zoon en Priester naar Melchizedeks orde genoemd."
+          ],
+          [
+            "Lijden en gehoorzaamheid",
+            "Zijn gebed, gehoorzaamheid en eeuwige redding."
+          ]
+        ],
+        "note": "De vergelijking laat zowel overeenkomsten als Christus’ eigen roeping zien."
+      }
+    },
+    {
+      "book": "hebreeen",
+      "chapter": 6,
+      "verse": 1,
+      "file": "6-fundament.svg",
+      "scene": "Wat tot het fundament hoort",
+      "alt": "Wat tot het fundament hoort met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1012,
+      "source": "Hebreeën 6:1–3",
+      "design": {
+        "rows": [
+          [
+            "Omkeer en geloof",
+            "Bekering van dode werken; geloof in God."
+          ],
+          [
+            "Onderwijs en handen",
+            "Dopen en handoplegging."
+          ],
+          [
+            "De toekomst",
+            "Opstanding van de doden en eeuwig oordeel."
+          ],
+          [
+            "Het vervolg",
+            "Doorgaan naar volwassenheid, als God het toestaat."
+          ]
+        ],
+        "note": "De zes genoemde onderdelen worden als fundament samengenomen."
+      }
+    },
+    {
+      "book": "hebreeen",
+      "chapter": 6,
+      "verse": 13,
+      "file": "6-belofte-eed.svg",
+      "scene": "Belofte, eed en hoop",
+      "alt": "Belofte, eed en hoop met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "Hebreeën 6:13–20",
+      "design": {
+        "rows": [
+          [
+            "Abraham · vers 13–15",
+            "God beloofde zegen en talrijk nageslacht; Abraham wachtte geduldig."
+          ],
+          [
+            "De eed · vers 16–17",
+            "God bevestigde Zijn onveranderlijke plan."
+          ],
+          [
+            "De zekerheid · vers 18",
+            "Twee onveranderlijke dingen; God kan niet liegen."
+          ],
+          [
+            "Het anker · vers 19–20",
+            "Hoop binnen het voorhangsel; Jezus als voorloper en Hogepriester."
+          ]
+        ],
+        "note": "De ankervergelijking verwijst naar zekere hoop en Jezus’ priesterschap."
+      }
+    }
+  ]
+}
