@@ -1,0 +1,608 @@
+{
+  "date": "2026-10-25",
+  "started": "2026-10-25T11:55:44Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "efeziers",
+      "chapter": 3,
+      "verse": 14,
+      "file": "3-14-paulus-knielt-verdieping.webp",
+      "scene": "Paulus buigt zijn knieën",
+      "alt": "Paulus buigt zijn knieën — Efeziërs 3:14; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. Ephesians 3:1 and 14–19: Paul calls himself a prisoner and says he bows his knees before the Father to pray for the believers’ inner strength and knowledge of Christ’s love. One adult Paul kneels alone in a modest plain first-century room, wearing fully covering opaque robes, hands naturally clasped in quiet prayer. A simple table with a papyrus roll to one side. Two arms only, natural bent knees and feet under the robe, no God portrait, human divine figure or supernatural visible heart. This illustrates the named prayer posture, not an anonymous large group meeting.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "efeziers",
+      "chapter": 6,
+      "verse": 22,
+      "file": "6-22-tychikus-bericht-verdieping.webp",
+      "scene": "Tychikus gaat met het bericht",
+      "alt": "Tychikus gaat met het bericht — Efeziërs 6:22; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. Ephesians 6:21–22 says Paul sends Tychicus to tell the believers how he is and encourage their hearts. Two adult men in a plain first-century room: Paul, described in verse 20 as an ambassador in chains, speaks warmly to Tychicus who is ready to travel with a small shoulder bag. A light simple wrist chain on Paul, no modern prison bars, violence or injury. Exactly two adults with clearly distinct hands. No readable letter text or invented location sign. The focus is entrusting personal news and encouragement, not escape from custody.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "efeziers",
+      "chapter": 1,
+      "verse": 1,
+      "file": "1-leeswijzer.svg",
+      "scene": "Zegen, gebed en Christus als Hoofd",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "Efeziërs 1:1–23",
+      "design": {
+        "rows": [
+          [
+            "1–2 · De groet",
+            "Aan de heiligen en gelovigen in Christus."
+          ],
+          [
+            "3–14 · De geestelijke zegen",
+            "Kindschap, verlossing, erfenis en de Geest als onderpand."
+          ],
+          [
+            "15–19 · Dank en gebed",
+            "Wijsheid, verlichte harten, hoop, erfenis en kracht."
+          ],
+          [
+            "20–23 · Christus boven alles",
+            "Opgewekt en als Hoofd gegeven aan Zijn lichaam."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "efeziers",
+      "chapter": 2,
+      "verse": 1,
+      "file": "2-leeswijzer.svg",
+      "scene": "Genade en samen huisgenoten zijn",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "Efeziërs 2:1–22",
+      "design": {
+        "rows": [
+          [
+            "1–3 · Het vroegere bestaan",
+            "Dood door overtredingen, levend naar wereldse verlangens."
+          ],
+          [
+            "4–10 · Levend met Christus",
+            "Uit genade gered, geschapen om goed te doen."
+          ],
+          [
+            "11–18 · Ver en dichtbij",
+            "Christus maakt vrede en verzoent beiden in één lichaam."
+          ],
+          [
+            "19–22 · Samen opgebouwd",
+            "Medeburgers, huisgenoten en een woning van God."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "efeziers",
+      "chapter": 3,
+      "verse": 1,
+      "file": "3-leeswijzer.svg",
+      "scene": "Het geheim en het gebed om liefde",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "Efeziërs 3:1–21",
+      "design": {
+        "rows": [
+          [
+            "1–7 · Het bekendgemaakte geheim",
+            "De volken delen in erfenis, lichaam en belofte."
+          ],
+          [
+            "8–13 · Paulus’ opdracht",
+            "Christus’ rijkdom verkondigen; toegang en vertrouwen."
+          ],
+          [
+            "14–19 · Gebed op de knieën",
+            "Innerlijke kracht en Christus’ onmetelijke liefde kennen."
+          ],
+          [
+            "20–21 · De lof",
+            "God kan meer doen dan wij bidden of bedenken."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "efeziers",
+      "chapter": 4,
+      "verse": 1,
+      "file": "4-leeswijzer.svg",
+      "scene": "Eenheid, groei en een nieuw leven",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "Efeziërs 4:1–32",
+      "design": {
+        "rows": [
+          [
+            "1–6 · Bewaar de eenheid",
+            "Nederigheid, geduld en de zeven keer genoemde eenheid."
+          ],
+          [
+            "7–16 · Gaven voor opbouw",
+            "Toerusting, volwassenheid en waarheid in liefde."
+          ],
+          [
+            "17–24 · Oud en nieuw",
+            "Vernieuwd denken en de nieuwe mens aantrekken."
+          ],
+          [
+            "25–32 · Concreet gedrag",
+            "Waarheid, arbeid, goede woorden en vergeving."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "efeziers",
+      "chapter": 5,
+      "verse": 1,
+      "file": "5-leeswijzer.svg",
+      "scene": "Liefde, licht en de onderlinge band",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "Efeziërs 5:1–33",
+      "design": {
+        "rows": [
+          [
+            "1–7 · Leven in de liefde",
+            "Christus’ zelfgave als voorbeeld; dank in plaats van kwaad."
+          ],
+          [
+            "8–14 · Kinderen van het licht",
+            "Goedheid, gerechtigheid, waarheid en wakker worden."
+          ],
+          [
+            "15–21 · Wijs en vervuld",
+            "Tijd, Geest, liederen, dank en wederzijdse onderschikking."
+          ],
+          [
+            "22–33 · Huwelijk en Christus",
+            "De band tussen man en vrouw en de gemeenschap van Christus."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "efeziers",
+      "chapter": 6,
+      "verse": 1,
+      "file": "6-leeswijzer.svg",
+      "scene": "Onderlinge zorg en standhouden",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "Efeziërs 6:1–24",
+      "design": {
+        "rows": [
+          [
+            "1–9 · In het huishouden",
+            "Kinderen, vaders, slaven en heren worden aangesproken."
+          ],
+          [
+            "10–17 · De hele wapenrusting",
+            "Standhouden met waarheid, geloof en de andere genoemde delen."
+          ],
+          [
+            "18–20 · Gebed en vrijmoedigheid",
+            "Volhardend bidden, ook voor de gezant in ketenen."
+          ],
+          [
+            "21–24 · Bericht en zegen",
+            "Tychikus komt bemoedigen; vrede, liefde en genade."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "efeziers",
+      "chapter": 1,
+      "verse": 3,
+      "file": "1-geestelijke-zegen.svg",
+      "scene": "De genoemde geestelijke zegen",
+      "alt": "De genoemde geestelijke zegen met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "Efeziërs 1:3–14",
+      "design": {
+        "rows": [
+          [
+            "Uitgekozen en aangenomen · vers 4–6",
+            "Heilig in liefde en tot kinderen bestemd door Jezus Christus."
+          ],
+          [
+            "Verlossing en bekendmaking · vers 7–10",
+            "Vergeving, rijkdom van genade en het geheim van Zijn wil."
+          ],
+          [
+            "Erfenis · vers 11–12",
+            "Erfgenamen tot lof van Zijn heerlijkheid."
+          ],
+          [
+            "Verzegeling · vers 13–14",
+            "De beloofde Geest als onderpand van de erfenis."
+          ]
+        ],
+        "note": "De zegeningen worden door de herhaalde woorden in Hem met Christus verbonden."
+      }
+    },
+    {
+      "book": "efeziers",
+      "chapter": 1,
+      "verse": 18,
+      "file": "1-drie-gebedspunten.svg",
+      "scene": "Wat het verlichte hart mag weten",
+      "alt": "Wat het verlichte hart mag weten met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1012,
+      "source": "Efeziërs 1:17–20",
+      "design": {
+        "rows": [
+          [
+            "De hoop",
+            "Van Zijn roeping."
+          ],
+          [
+            "De erfenis",
+            "Hoe rijk en heerlijk zij onder de heiligen is."
+          ],
+          [
+            "De kracht",
+            "Hoe geweldig groot Zijn kracht is voor wie geloven."
+          ],
+          [
+            "De genoemde werking",
+            "God gebruikte die kracht bij Christus’ opwekking."
+          ]
+        ],
+        "note": "De drie gebedspunten volgen vers 18–19 en worden verbonden met vers 20."
+      }
+    },
+    {
+      "book": "efeziers",
+      "chapter": 2,
+      "verse": 8,
+      "file": "2-genade-goede-werken.svg",
+      "scene": "Genade en goede werken",
+      "alt": "Genade en goede werken met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 969,
+      "source": "Efeziërs 2:8–10",
+      "design": {
+        "rows": [
+          [
+            "De redding",
+            "Uit genade, door het geloof."
+          ],
+          [
+            "De oorsprong",
+            "Niet uit jezelf, maar een gave van God."
+          ],
+          [
+            "De uitsluiting",
+            "Niet uit werken, zodat niemand kan opscheppen."
+          ],
+          [
+            "Het nieuwe leven",
+            "Gods maaksel, geschapen om in goede werken te leven."
+          ]
+        ],
+        "note": "Redding uit genade en de plaats van goede werken staan samen in deze verzen."
+      }
+    },
+    {
+      "book": "efeziers",
+      "chapter": 2,
+      "verse": 19,
+      "file": "2-bouwbeeld.svg",
+      "scene": "Het bouwbeeld verklaard",
+      "alt": "Het bouwbeeld verklaard met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 969,
+      "source": "Efeziërs 2:19–22",
+      "design": {
+        "rows": [
+          [
+            "De bewoners",
+            "Geen vreemdelingen meer, maar medeburgers en huisgenoten."
+          ],
+          [
+            "Het fundament",
+            "De apostelen en profeten."
+          ],
+          [
+            "De hoeksteen",
+            "Jezus Christus Zelf."
+          ],
+          [
+            "Het gebouw",
+            "Samengevoegd tot een tempel en een woning van God in de Geest."
+          ]
+        ],
+        "note": "Het gebouw is een vergelijking voor de samen opgebouwde gemeenschap."
+      }
+    },
+    {
+      "book": "efeziers",
+      "chapter": 3,
+      "verse": 6,
+      "file": "3-geheim-drie-delen.svg",
+      "scene": "Het geheim in drie delen",
+      "alt": "Het geheim in drie delen met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 890,
+      "source": "Efeziërs 3:3–7",
+      "design": {
+        "rows": [
+          [
+            "Mede-erfgenamen",
+            "Ook de volken delen in de erfenis."
+          ],
+          [
+            "Hetzelfde lichaam",
+            "Zij horen bij hetzelfde lichaam."
+          ],
+          [
+            "Dezelfde belofte",
+            "Zij delen in Zijn belofte in Christus."
+          ],
+          [
+            "Door het evangelie",
+            "Paulus is daarvan dienaar geworden door genade."
+          ]
+        ],
+        "note": "De drie aanduidingen komen samen uit vers 6."
+      }
+    },
+    {
+      "book": "efeziers",
+      "chapter": 4,
+      "verse": 25,
+      "file": "4-oud-nieuw-gedrag.svg",
+      "scene": "Het nieuwe leven wordt concreet",
+      "alt": "Het nieuwe leven wordt concreet met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "Efeziërs 4:25–32",
+      "design": {
+        "rows": [
+          [
+            "Leugen en boosheid",
+            "Spreek waarheid; zondig niet in boosheid en geef de duivel geen kans."
+          ],
+          [
+            "Diefstal en arbeid",
+            "Niet meer stelen; goed werken om te kunnen delen."
+          ],
+          [
+            "De woorden",
+            "Spreek wat opbouwt en de hoorders goeddoet."
+          ],
+          [
+            "De omgang",
+            "Bitterheid wegdoen; goed, barmhartig en vergevend zijn."
+          ]
+        ],
+        "note": "De voorbeelden volgen op de oproep de oude mens af te leggen en de nieuwe aan te trekken."
+      }
+    },
+    {
+      "book": "efeziers",
+      "chapter": 5,
+      "verse": 21,
+      "file": "5-onderlinge-band.svg",
+      "scene": "De onderlinge band in het betoog",
+      "alt": "De onderlinge band in het betoog met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1098,
+      "source": "Efeziërs 5:21–33",
+      "design": {
+        "rows": [
+          [
+            "De overgang · vers 21",
+            "Onderschik je aan elkaar in ontzag voor God."
+          ],
+          [
+            "Vrouwen · vers 22–24",
+            "Paulus beschrijft onderschikking aan de eigen man."
+          ],
+          [
+            "Mannen · vers 25–30",
+            "De eigen vrouw liefhebben en verzorgen als het eigen lichaam."
+          ],
+          [
+            "De vergelijking · vers 31–33",
+            "De eenheid van het huwelijk wordt betrokken op Christus en Zijn gemeenschap."
+          ]
+        ],
+        "note": "De aangesproken groepen en de vergelijking worden in de volgorde van de brief weergegeven."
+      }
+    },
+    {
+      "book": "efeziers",
+      "chapter": 6,
+      "verse": 1,
+      "file": "6-huishouden.svg",
+      "scene": "Wie hier worden aangesproken",
+      "alt": "Wie hier worden aangesproken met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "Efeziërs 6:1–9",
+      "design": {
+        "rows": [
+          [
+            "Kinderen · vers 1–3",
+            "Gehoorzaam zijn in de Heere en vader en moeder eren."
+          ],
+          [
+            "Vaders · vers 4",
+            "Kinderen niet boos maken; opvoeden met onderwijs van de Heere."
+          ],
+          [
+            "Slaven · vers 5–8",
+            "Eerlijk en van harte dienen, zoals voor Christus."
+          ],
+          [
+            "Heren · vers 9",
+            "Hetzelfde doen en niet dreigen; er is één Heere zonder aanzien des persoons."
+          ]
+        ],
+        "note": "Dit overzicht benoemt de groepen in de brief en hun onderlinge aanspreking."
+      }
+    },
+    {
+      "book": "efeziers",
+      "chapter": 6,
+      "verse": 14,
+      "file": "6-wapenrusting-delen.svg",
+      "scene": "De delen van de wapenrusting",
+      "alt": "De delen van de wapenrusting met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1048,
+      "source": "Efeziërs 6:14–17",
+      "design": {
+        "rows": [
+          [
+            "Gordel en borstplaat",
+            "Waarheid en gerechtigheid."
+          ],
+          [
+            "Schoeisel",
+            "De bereidheid van het evangelie van de vrede."
+          ],
+          [
+            "Schild",
+            "Het geloof, waarmee de brandende pijlen worden gedoofd."
+          ],
+          [
+            "Helm en zwaard",
+            "Redding en de Geest; het zwaard is het woord van God."
+          ]
+        ],
+        "note": "De zes onderdelen worden aan hun betekenis gekoppeld; de strijd is volgens vers 12 niet tegen vlees en bloed."
+      }
+    },
+    {
+      "book": "efeziers",
+      "chapter": 6,
+      "verse": 18,
+      "file": "6-bidden-voor-wie.svg",
+      "scene": "Volhardend bidden en bemoedigen",
+      "alt": "Volhardend bidden en bemoedigen met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1012,
+      "source": "Efeziërs 6:18–22",
+      "design": {
+        "rows": [
+          [
+            "Voor alle heiligen",
+            "Altijd in de Geest bidden en daarin blijven waken."
+          ],
+          [
+            "Voor Paulus",
+            "Om woorden en vrijmoedigheid bij het bekendmaken van het evangelie."
+          ],
+          [
+            "Zijn situatie",
+            "Hij is een gezant in ketenen."
+          ],
+          [
+            "Tychikus’ opdracht",
+            "Vertellen hoe het gaat en de harten bemoedigen."
+          ]
+        ],
+        "note": "Het gebed en het persoonlijke bericht sluiten op elkaar aan in de slotverzen."
+      }
+    },
+    {
+      "book": "efeziers",
+      "chapter": 4,
+      "verse": 4,
+      "file": "4-zeven-eenheden.svg",
+      "scene": "Zeven keer één",
+      "alt": "Zeven keer één — Efeziërs 4:4–6",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1262,
+      "source": "Efeziërs 4:4–6",
+      "design": {
+        "type": "parent-child branches",
+        "parent": "Bewaar de eenheid van de Geest",
+        "children": [
+          [
+            "Eén lichaam",
+            "De gemeenschap in het betoog."
+          ],
+          [
+            "Eén Geest",
+            "Dezelfde Geest."
+          ],
+          [
+            "Eén hoop",
+            "De hoop van de roeping."
+          ],
+          [
+            "Eén Heere",
+            "Dezelfde Heere."
+          ],
+          [
+            "Eén geloof",
+            "Hetzelfde geloof."
+          ],
+          [
+            "Eén doop",
+            "Dezelfde doop."
+          ],
+          [
+            "Eén God en Vader",
+            "Boven allen, door allen en in allen."
+          ]
+        ],
+        "note": "De zeven keer genoemde eenheid volgt vers 4–6; vers 3 verbindt haar met de vrede."
+      }
+    }
+  ]
+}
