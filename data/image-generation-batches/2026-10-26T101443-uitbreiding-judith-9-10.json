@@ -1,0 +1,182 @@
+{
+  "date": "2026-10-26",
+  "started": "2026-10-26T10:14:43Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "judith",
+      "chapter": 10,
+      "verse": 19,
+      "file": "10-19-voor-holofernes-verdieping.webp",
+      "scene": "Judith buigt voor Holofernes",
+      "alt": "Judith buigt voor Holofernes — Judith 10:19; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of the narrative world of Judith, ancient Near Eastern materials and fully covering modest opaque garments. Landscape 3:2 natural lamplight, coherent anatomy, exactly two arms per person. No modern objects, readable writing, blood, injuries or watermark. Judith 10:18–19. Interior entrance chamber of the Assyrian commander’s luxurious tent. Adult Jewish widow Judith in her fine cream and burgundy festival robes, gold headband and jewelry, kneels and bows deeply with forehead low before adult bearded commander Holofernes, who stands several steps away, wearing ancient Near Eastern military robes and armor. Her maid stands discreetly at rear with travel bags. Two adult male servants stand at the sides, watching without touching her. Behind the commander is a couch under a purple and gold canopy with green precious-stone decorations. Silver oil lamps on stands illuminate the scene. Dignified dramatic encounter, no violence, exactly two arms each, natural distinct hands, no sexualized pose.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "judith",
+      "chapter": 9,
+      "verse": 1,
+      "file": "9-leeswijzer.svg",
+      "scene": "Judiths gebed en vertrouwen",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 906,
+      "source": "Judith 9:1–19",
+      "design": {
+        "rows": [
+          [
+            "1–5 · Aanroep en herinnering",
+            "Judith bidt met as en rouwkleed; zij herinnert aan Simeon en aan Gods kennis."
+          ],
+          [
+            "6–14 · Het verzoek",
+            "Tegenover wapentrots vraagt zij kracht voor haar voorgenomen handelen."
+          ],
+          [
+            "15–19 · Hulp voor de kleinen",
+            "Zij belijdt Gods hulp aan zwakken en vraagt bescherming van huis en volk."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "judith",
+      "chapter": 10,
+      "verse": 1,
+      "file": "10-leeswijzer.svg",
+      "scene": "Van voorbereiding tot ontmoeting",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1098,
+      "source": "Judith 10:1–19",
+      "design": {
+        "rows": [
+          [
+            "1–5 · In het huis",
+            "Judith legt rouwkleren af, kleedt zich feestelijk en geeft proviand aan haar dienstmeisje."
+          ],
+          [
+            "6–10 · Door de poort",
+            "De leiders zegenen haar; de poort gaat open en beiden trekken weg."
+          ],
+          [
+            "11–16 · In het dal en kamp",
+            "De voorwacht ondervraagt haar en honderd mannen begeleiden hen."
+          ],
+          [
+            "17–19 · Voor Holofernes",
+            "Dienaren brengen haar binnen; zij buigt en wordt opgericht."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "judith",
+      "chapter": 9,
+      "verse": 15,
+      "file": "9-vertrouwen-gebed.svg",
+      "scene": "Waar Judith kracht zoekt",
+      "alt": "Waar Judith kracht zoekt met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1091,
+      "source": "Judith 9:6–19",
+      "design": {
+        "rows": [
+          [
+            "Het leger · vers 6",
+            "Vertrouwt op paarden, ruiters, voetvolk en wapens."
+          ],
+          [
+            "Haar verzoek · vers 12–14",
+            "Kracht in haar hand en het breken van hoogmoed door een vrouw."
+          ],
+          [
+            "Haar belijdenis · vers 15",
+            "God helpt kleinen en zwakken en redt wie geen hoop hebben."
+          ],
+          [
+            "Haar doel · vers 18–19",
+            "Bescherming van verbond, heilig huis en het volk Israël."
+          ]
+        ],
+        "note": "Dit ordent Judiths gebed. De hulp aan de kleinen is een belijdenis, geen afzonderlijk verteld voorval."
+      }
+    },
+    {
+      "book": "judith",
+      "chapter": 10,
+      "verse": 5,
+      "file": "10-reisvoorraad.svg",
+      "scene": "Wat het dienstmeisje draagt",
+      "alt": "Wat het dienstmeisje draagt met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 969,
+      "source": "Judith 10:5",
+      "design": {
+        "rows": [
+          [
+            "Wijn",
+            "Een leren zak."
+          ],
+          [
+            "Olie",
+            "Een kruik."
+          ],
+          [
+            "Voedsel",
+            "Meel, vijgen en reine broden in een reistas."
+          ],
+          [
+            "Vaatwerk",
+            "Ingewikkeld en aan het dienstmeisje meegegeven."
+          ]
+        ],
+        "note": "De opsomming volgt vers 5; het hoofdstuk geeft geen gewichten of aantallen broden."
+      }
+    },
+    {
+      "book": "judith",
+      "chapter": 10,
+      "verse": 6,
+      "file": "10-weg-naar-tent.svg",
+      "scene": "De weg naar Holofernes",
+      "alt": "De weg naar Holofernes met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "Judith 10:6–19",
+      "design": {
+        "rows": [
+          [
+            "Betulia · vers 6–10",
+            "Ozias, Chabris en Charmis bij de poort; Judith vertrekt met haar dienstmeisje."
+          ],
+          [
+            "Het dal · vers 11–15",
+            "De Assyrische voorwacht vraagt wie zij is en wat zij komt doen."
+          ],
+          [
+            "Het kamp · vers 16",
+            "Honderd mannen begeleiden beiden naar de tent; het kamp loopt uit."
+          ],
+          [
+            "De tent · vers 17–19",
+            "Kamerdienaars leiden haar binnen; zij buigt en dienaren richten haar op."
+          ]
+        ],
+        "note": "Volgorde van plaatsen en ontmoetingen; afstanden en een precieze kaart ontbreken in de tekst."
+      }
+    }
+  ]
+}

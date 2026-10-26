@@ -35243,6 +35243,65 @@
           "source": "Judith 8:1"
         }
       ]
+    },
+    {
+      "book": "judith",
+      "chapter": 10,
+      "status": "reviewed",
+      "target_images": 7,
+      "reason": "Vertrek, proviand en begeleiding zijn aanwezig. De eerste ontmoeting met Holofernes is een nieuwe afsluitende gebeurtenis. Opbouw, exacte voorraadlijst en routevolgorde maken voorbereiding en overgang naar het kamp leesbaar.",
+      "additions": [
+        {
+          "verse": 19,
+          "file": "10-19-voor-holofernes-verdieping.webp",
+          "scene": "Judith buigt voor Holofernes",
+          "kind": "scene"
+        },
+        {
+          "verse": 1,
+          "file": "10-leeswijzer.svg",
+          "scene": "Van voorbereiding tot ontmoeting",
+          "kind": "diagram",
+          "source": "Judith 10:1–19"
+        },
+        {
+          "verse": 5,
+          "file": "10-reisvoorraad.svg",
+          "scene": "Wat het dienstmeisje draagt",
+          "kind": "diagram",
+          "source": "Judith 10:5"
+        },
+        {
+          "verse": 6,
+          "file": "10-weg-naar-tent.svg",
+          "scene": "De weg naar Holofernes",
+          "kind": "diagram",
+          "source": "Judith 10:6–19"
+        }
+      ]
+    },
+    {
+      "book": "judith",
+      "chapter": 9,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Gebed met as, wapentrots en poëtisch hulpbeeld zijn aanwezig. Leeswijzer en vergelijking van het uitgesproken vertrouwen leggen de lange bede uit; geen nieuwe foto van hetzelfde gebed. Het hulpbeeld is als poëtisch gemarkeerd.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "9-leeswijzer.svg",
+          "scene": "Judiths gebed en vertrouwen",
+          "kind": "diagram",
+          "source": "Judith 9:1–19"
+        },
+        {
+          "verse": 15,
+          "file": "9-vertrouwen-gebed.svg",
+          "scene": "Waar Judith kracht zoekt",
+          "kind": "diagram",
+          "source": "Judith 9:6–19"
+        }
+      ]
     }
   ]
 }

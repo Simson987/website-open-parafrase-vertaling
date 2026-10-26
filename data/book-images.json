@@ -58528,7 +58528,11 @@
         "chapter": 10,
         "file": "10-gate.webp",
         "alt": "Judith verlaat met haar dienares de stadspoort",
-        "scene": "Judith vertrekt"
+        "scene": "Judith vertrekt",
+        "verse": 10,
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 15,
@@ -58771,35 +58775,50 @@
         "verse": 1,
         "file": "9-1.webp",
         "alt": "Beeld bij Judith 9: Judith bidt met as op haar hoofd",
-        "scene": "Judith bidt met as op haar hoofd"
+        "scene": "Judith bidt met as op haar hoofd",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 9,
         "verse": 6,
         "file": "9-6.webp",
         "alt": "Beeld bij Judith 9: Het leger vertrouwt op zijn wapens",
-        "scene": "Het leger vertrouwt op zijn wapens"
+        "scene": "Het leger vertrouwt op zijn wapens",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 9,
         "verse": 15,
         "file": "9-15.webp",
         "alt": "Beeld bij Judith 9: Een toevlucht voor de kleinen",
-        "scene": "Een toevlucht voor de kleinen"
+        "scene": "Een toevlucht voor de kleinen",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 10,
         "verse": 5,
         "file": "10-5.webp",
         "alt": "Beeld bij Judith 10: Judith maakt reisproviand klaar",
-        "scene": "Judith maakt reisproviand klaar"
+        "scene": "Judith maakt reisproviand klaar",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 10,
         "verse": 15,
         "file": "10-15.webp",
         "alt": "Beeld bij Judith 10: Begeleid naar het Assyrische kamp",
-        "scene": "Begeleid naar het Assyrische kamp"
+        "scene": "Begeleid naar het Assyrische kamp",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 11,
@@ -59169,6 +59188,66 @@
         "kind": "diagram",
         "width": 840,
         "height": 1636
+      },
+      {
+        "chapter": 10,
+        "verse": 19,
+        "file": "10-19-voor-holofernes-verdieping.webp",
+        "scene": "Judith buigt voor Holofernes",
+        "alt": "Judith buigt voor Holofernes — Judith 10:19; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 9,
+        "verse": 1,
+        "file": "9-leeswijzer.svg",
+        "scene": "Judiths gebed en vertrouwen",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 906
+      },
+      {
+        "chapter": 10,
+        "verse": 1,
+        "file": "10-leeswijzer.svg",
+        "scene": "Van voorbereiding tot ontmoeting",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1098
+      },
+      {
+        "chapter": 9,
+        "verse": 15,
+        "file": "9-vertrouwen-gebed.svg",
+        "scene": "Waar Judith kracht zoekt",
+        "alt": "Waar Judith kracht zoekt met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1091
+      },
+      {
+        "chapter": 10,
+        "verse": 5,
+        "file": "10-reisvoorraad.svg",
+        "scene": "Wat het dienstmeisje draagt",
+        "alt": "Wat het dienstmeisje draagt met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 969
+      },
+      {
+        "chapter": 10,
+        "verse": 6,
+        "file": "10-weg-naar-tent.svg",
+        "scene": "De weg naar Holofernes",
+        "alt": "De weg naar Holofernes met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1055
       }
     ],
     "jezussirach": [
