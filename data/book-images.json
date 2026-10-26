@@ -66722,61 +66722,181 @@
         "chapter": 1,
         "file": "1-crete.webp",
         "alt": "Titus komt aan op Kreta",
-        "scene": "Titus op Kreta"
+        "scene": "Titus op Kreta",
+        "verse": 5,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 2,
         "file": "2-generations.webp",
         "alt": "Oudere en jongere gemeenteleden spreken samen",
-        "scene": "Leven als gemeenschap"
+        "scene": "Leven als gemeenschap",
+        "verse": 2,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 3,
         "file": "3-goodworks.webp",
         "alt": "Gemeenteleden helpen reizigers",
-        "scene": "Wees bereid goed te doen"
+        "scene": "Wees bereid goed te doen",
+        "verse": 1,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 1,
         "verse": 5,
         "file": "1-5.webp",
         "alt": "Beeld bij Titus 1: Oudsten in elke stad",
-        "scene": "Oudsten in elke stad"
+        "scene": "Oudsten in elke stad",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 1,
         "verse": 8,
         "file": "1-8.webp",
         "alt": "Beeld bij Titus 1: Gastvrij en rechtvaardig",
-        "scene": "Gastvrij en rechtvaardig"
+        "scene": "Gastvrij en rechtvaardig",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 2,
         "verse": 7,
         "file": "2-7.webp",
         "alt": "Beeld bij Titus 2: Een voorbeeld van goede werken",
-        "scene": "Een voorbeeld van goede werken"
+        "scene": "Een voorbeeld van goede werken",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 2,
         "verse": 12,
         "file": "2-12.webp",
         "alt": "Beeld bij Titus 2: Bezonnen en rechtvaardig leven",
-        "scene": "Bezonnen en rechtvaardig leven"
+        "scene": "Bezonnen en rechtvaardig leven",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 3,
         "verse": 2,
         "file": "3-2.webp",
         "alt": "Beeld bij Titus 3: Zachtmoedig voor iedereen",
-        "scene": "Zachtmoedig voor iedereen"
+        "scene": "Zachtmoedig voor iedereen",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 3,
         "verse": 5,
         "file": "3-5.webp",
         "alt": "Beeld bij Titus 3: Het bad van vernieuwing",
-        "scene": "Het bad van vernieuwing"
+        "scene": "Het bad van vernieuwing",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 2,
+        "verse": 4,
+        "file": "2-4-oudere-vrouwen-verdieping.webp",
+        "scene": "Lesbeeld: oudere vrouwen leren jongeren",
+        "alt": "Lesbeeld: oudere vrouwen leren jongeren — Titus 2:4; tekstillustratie.",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 3,
+        "verse": 13,
+        "file": "3-13-zenas-apollos-verdieping.webp",
+        "scene": "Lesbeeld: Zenas en Apollos op weg",
+        "alt": "Lesbeeld: Zenas en Apollos op weg — Titus 3:13; tekstillustratie.",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 1,
+        "verse": 1,
+        "file": "1-leeswijzer.svg",
+        "scene": "Oudsten en betrouwbare leer",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 863
+      },
+      {
+        "chapter": 2,
+        "verse": 1,
+        "file": "2-leeswijzer.svg",
+        "scene": "Onderwijs en opvoedende genade",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 820
+      },
+      {
+        "chapter": 3,
+        "verse": 1,
+        "file": "3-leeswijzer.svg",
+        "scene": "Barmhartigheid en goeddoen",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1055
+      },
+      {
+        "chapter": 1,
+        "verse": 6,
+        "file": "1-oudsten-eisen.svg",
+        "scene": "Wie als oudste aanstellen?",
+        "alt": "Wie als oudste aanstellen? met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1055
+      },
+      {
+        "chapter": 2,
+        "verse": 11,
+        "file": "2-genade-opvoeding.svg",
+        "scene": "Wat de genade doet",
+        "alt": "Wat de genade doet met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1012
+      },
+      {
+        "chapter": 3,
+        "verse": 5,
+        "file": "3-redding-werken.svg",
+        "scene": "Barmhartigheid en werken",
+        "alt": "Barmhartigheid en werken met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1055
+      },
+      {
+        "chapter": 3,
+        "verse": 12,
+        "file": "3-reizen.svg",
+        "scene": "De reisverzoeken",
+        "alt": "De reisverzoeken met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1091
       }
     ],
     "filemon": [

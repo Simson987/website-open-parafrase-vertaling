@@ -31828,6 +31828,94 @@
           "source": "2 Timotheüs 3:14–17"
         }
       ]
+    },
+    {
+      "book": "titus",
+      "chapter": 2,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Gemeenschap, voorbeeld en rechtvaardig handelen zijn aanwezig. Het specifieke onderwijs van oudere aan jongere vrouwen krijgt een lesbeeld. Leeswijzer en de werking van de genade ordenen het verband tussen onderwijs en goede werken.",
+      "additions": [
+        {
+          "verse": 4,
+          "file": "2-4-oudere-vrouwen-verdieping.webp",
+          "scene": "Lesbeeld: oudere vrouwen leren jongeren",
+          "kind": "poetic"
+        },
+        {
+          "verse": 1,
+          "file": "2-leeswijzer.svg",
+          "scene": "Onderwijs en opvoedende genade",
+          "kind": "diagram",
+          "source": "Titus 2:1–15"
+        },
+        {
+          "verse": 11,
+          "file": "2-genade-opvoeding.svg",
+          "scene": "Wat de genade doet",
+          "kind": "diagram",
+          "source": "Titus 2:11–14"
+        }
+      ]
+    },
+    {
+      "book": "titus",
+      "chapter": 3,
+      "status": "reviewed",
+      "target_images": 7,
+      "reason": "Hulpvaardigheid, zachtmoedigheid en het bad van vernieuwing zijn aanwezig. Het concrete helpen van twee bij naam genoemde reizigers krijgt een lesbeeld. Leeswijzer, redding-en-werkenverband en nauwkeurige reisverzoeken vullen de overige informatie aan.",
+      "additions": [
+        {
+          "verse": 13,
+          "file": "3-13-zenas-apollos-verdieping.webp",
+          "scene": "Lesbeeld: Zenas en Apollos op weg",
+          "kind": "poetic"
+        },
+        {
+          "verse": 1,
+          "file": "3-leeswijzer.svg",
+          "scene": "Barmhartigheid en goeddoen",
+          "kind": "diagram",
+          "source": "Titus 3:1–15"
+        },
+        {
+          "verse": 5,
+          "file": "3-redding-werken.svg",
+          "scene": "Barmhartigheid en werken",
+          "kind": "diagram",
+          "source": "Titus 3:3–8"
+        },
+        {
+          "verse": 12,
+          "file": "3-reizen.svg",
+          "scene": "De reisverzoeken",
+          "kind": "diagram",
+          "source": "Titus 3:12–14"
+        }
+      ]
+    },
+    {
+      "book": "titus",
+      "chapter": 1,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Kreta, aanstellen en gastvrijheid zijn aanwezig. Leeswijzer en een gecontroleerde kwalificatie-indeling verduidelijken de opdracht zonder nog een aanstellingsscène.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "1-leeswijzer.svg",
+          "scene": "Oudsten en betrouwbare leer",
+          "kind": "diagram",
+          "source": "Titus 1:1–16"
+        },
+        {
+          "verse": 6,
+          "file": "1-oudsten-eisen.svg",
+          "scene": "Wie als oudste aanstellen?",
+          "kind": "diagram",
+          "source": "Titus 1:5–9"
+        }
+      ]
     }
   ]
 }

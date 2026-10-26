@@ -1,0 +1,256 @@
+{
+  "date": "2026-10-26",
+  "started": "2026-10-26T08:13:55Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "titus",
+      "chapter": 2,
+      "verse": 4,
+      "file": "2-4-oudere-vrouwen-verdieping.webp",
+      "scene": "Lesbeeld: oudere vrouwen leren jongeren",
+      "alt": "Lesbeeld: oudere vrouwen leren jongeren — Titus 2:4; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. Titus 2:3–5 instructs older women to teach what is good and train younger women in family love and self-control. Illustrative teaching scene, not a separately narrated named event: an elderly Christian woman conversing warmly with two younger adult women in a simple first-century Cretan courtyard beside domestic baskets and textiles. Three distinct fully clothed adults, attentive respectful expressions, gentle simple hand gestures, no readable scroll or exotic jewellery, no male preacher centered.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "titus",
+      "chapter": 3,
+      "verse": 13,
+      "file": "3-13-zenas-apollos-verdieping.webp",
+      "scene": "Lesbeeld: Zenas en Apollos op weg",
+      "alt": "Lesbeeld: Zenas en Apollos op weg — Titus 3:13; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. Titus 3:13 instructs Titus to help Zenas the legal scholar and Apollos on their journey so they lack nothing. An illustrative enactment of the instruction: three adult men in a modest first-century Cretan courtyard, two travellers standing with small leather travel bags, one local believer giving a wrapped bread provision to one of the travellers while the other waits. Clear two travellers together, no invented legal trial, completed reunion with Paul or readable map. Natural hands and travel supplies, linen and wool clothing.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "titus",
+      "chapter": 1,
+      "verse": 1,
+      "file": "1-leeswijzer.svg",
+      "scene": "Oudsten en betrouwbare leer",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 863,
+      "source": "Titus 1:1–16",
+      "design": {
+        "rows": [
+          [
+            "1–4 · Groet en hoop",
+            "Geloof, waarheid, eeuwig leven en de opdracht aan Titus."
+          ],
+          [
+            "5–9 · Oudsten op Kreta",
+            "In elke stad aanstellen; karakter en betrouwbare leer."
+          ],
+          [
+            "10–16 · Woorden en daden",
+            "Misleiding weerleggen en gezond worden in geloof."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "titus",
+      "chapter": 2,
+      "verse": 1,
+      "file": "2-leeswijzer.svg",
+      "scene": "Onderwijs en opvoedende genade",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 820,
+      "source": "Titus 2:1–15",
+      "design": {
+        "rows": [
+          [
+            "1–8 · Leeftijden en voorbeeld",
+            "Oude en jonge mannen en vrouwen; Titus als voorbeeld."
+          ],
+          [
+            "9–10 · Betrouwbaar dienen",
+            "De leer van God mooi maken door trouw."
+          ],
+          [
+            "11–15 · Genade en verwachting",
+            "Afwijzen wat verkeerd is en ijverig goede werken doen."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "titus",
+      "chapter": 3,
+      "verse": 1,
+      "file": "3-leeswijzer.svg",
+      "scene": "Barmhartigheid en goeddoen",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "Titus 3:1–15",
+      "design": {
+        "rows": [
+          [
+            "1–3 · Omgang en vroeger leven",
+            "Gehoorzaam, mild en zachtmoedig; het vroegere onrecht."
+          ],
+          [
+            "4–8 · Gods reddende goedheid",
+            "Barmhartigheid, vernieuwing, genade en goede werken."
+          ],
+          [
+            "9–11 · Twist en verdeeldheid",
+            "Lege discussies mijden en de verdeeldheidbrenger waarschuwen."
+          ],
+          [
+            "12–15 · Reizen en helpen",
+            "Titus naar Nikopolis; Zenas en Apollos goed op weg helpen."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "titus",
+      "chapter": 1,
+      "verse": 6,
+      "file": "1-oudsten-eisen.svg",
+      "scene": "Wie als oudste aanstellen?",
+      "alt": "Wie als oudste aanstellen? met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "Titus 1:5–9",
+      "design": {
+        "rows": [
+          [
+            "Gezin · vers 6",
+            "Onberispelijk, man van één vrouw en gelovige kinderen."
+          ],
+          [
+            "Afwijzen · vers 7",
+            "Eigenzinnigheid, drift, wijnverslaving, ruzie en oneerlijke winst."
+          ],
+          [
+            "Nastreven · vers 8",
+            "Gastvrijheid, liefde voor het goede, beheersing, recht en heiligheid."
+          ],
+          [
+            "Leer · vers 9",
+            "Het betrouwbare woord vasthouden; bemoedigen en weerleggen."
+          ]
+        ],
+        "note": "Deze eisen horen bij Titus’ opdracht in elke stad op Kreta."
+      }
+    },
+    {
+      "book": "titus",
+      "chapter": 2,
+      "verse": 11,
+      "file": "2-genade-opvoeding.svg",
+      "scene": "Wat de genade doet",
+      "alt": "Wat de genade doet met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1012,
+      "source": "Titus 2:11–14",
+      "design": {
+        "rows": [
+          [
+            "Verschenen · vers 11",
+            "Redding voor alle mensen."
+          ],
+          [
+            "Opvoeden · vers 12",
+            "Goddeloosheid en wereldse verlangens afwijzen."
+          ],
+          [
+            "Leven en verwachten · vers 12–13",
+            "Bezonnen, rechtvaardig en vroom; de gelukkige hoop."
+          ],
+          [
+            "Vrijgekocht · vers 14",
+            "Een eigen, gereinigd volk, vol ijver voor goede werken."
+          ]
+        ],
+        "note": "De opvoeding volgt in de tekst op het verschijnen van Gods genade."
+      }
+    },
+    {
+      "book": "titus",
+      "chapter": 3,
+      "verse": 5,
+      "file": "3-redding-werken.svg",
+      "scene": "Barmhartigheid en werken",
+      "alt": "Barmhartigheid en werken met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "Titus 3:3–8",
+      "design": {
+        "rows": [
+          [
+            "Vroeger · vers 3",
+            "Onverstand, ongehoorzaamheid, afgunst en haat."
+          ],
+          [
+            "Gods goedheid · vers 4–5",
+            "Gered naar Zijn barmhartigheid, niet op grond van eigen rechtvaardige werken."
+          ],
+          [
+            "Vernieuwing · vers 5–7",
+            "De Heilige Geest, genade en de hoop op het eeuwige leven."
+          ],
+          [
+            "Daarom · vers 8",
+            "Gelovigen doen hun best om goede werken te doen."
+          ]
+        ],
+        "note": "Goede werken worden verbonden met de ontvangen redding."
+      }
+    },
+    {
+      "book": "titus",
+      "chapter": 3,
+      "verse": 12,
+      "file": "3-reizen.svg",
+      "scene": "De reisverzoeken",
+      "alt": "De reisverzoeken met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1091,
+      "source": "Titus 3:12–14",
+      "design": {
+        "rows": [
+          [
+            "Artemas of Tychikus",
+            "Paulus zal een van hen naar Titus sturen."
+          ],
+          [
+            "Titus naar Nikopolis",
+            "Naar Paulus komen; Paulus wil daar overwinteren."
+          ],
+          [
+            "Zenas en Apollos",
+            "Goed op weg helpen zodat zij niets tekortkomen."
+          ],
+          [
+            "De eigen mensen",
+            "Leren in echte behoeften te voorzien door goede werken."
+          ]
+        ],
+        "note": "Artemas en Tychikus zijn als alternatief genoemd; niet als een verplicht samen reizend tweetal."
+      }
+    }
+  ]
+}
