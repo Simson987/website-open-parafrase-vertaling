@@ -55942,13 +55942,21 @@
         "chapter": 1,
         "file": "1-josiah.webp",
         "alt": "Josia spreekt priesters en Levieten toe",
-        "scene": "Josia bereidt de dienst voor"
+        "scene": "Josia bereidt de dienst voor",
+        "verse": 3,
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 3,
         "file": "3-debate.webp",
         "alt": "Drie jonge mannen spreken aan het Perzische hof",
-        "scene": "De drie jongelingen"
+        "scene": "De drie jongelingen",
+        "verse": 4,
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 8,
@@ -55961,49 +55969,70 @@
         "verse": 1,
         "file": "1-1.webp",
         "alt": "Beeld bij 3ezra 1: Josia viert het Pascha",
-        "scene": "Josia viert het Pascha"
+        "scene": "Josia viert het Pascha",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 1,
         "verse": 25,
         "file": "1-25.webp",
         "alt": "Beeld bij 3ezra 1: Josia trekt farao tegemoet",
-        "scene": "Josia trekt farao tegemoet"
+        "scene": "Josia trekt farao tegemoet",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 2,
         "verse": 1,
         "file": "2-1.webp",
         "alt": "Beeld bij 3ezra 2: Cyrus en het woord van de Heere",
-        "scene": "Cyrus en het woord van de Heere"
+        "scene": "Cyrus en het woord van de Heere",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 2,
         "verse": 5,
         "file": "2-5.webp",
         "alt": "Beeld bij 3ezra 2: Terug naar Jeruzalem om te bouwen",
-        "scene": "Terug naar Jeruzalem om te bouwen"
+        "scene": "Terug naar Jeruzalem om te bouwen",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 2,
         "verse": 10,
         "file": "2-10.webp",
         "alt": "Beeld bij 3ezra 2: Het heilige gerei teruggegeven",
-        "scene": "Het heilige gerei teruggegeven"
+        "scene": "Het heilige gerei teruggegeven",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 3,
         "verse": 1,
         "file": "3-1.webp",
         "alt": "Beeld bij 3ezra 3: De maaltijd van Darius",
-        "scene": "De maaltijd van Darius"
+        "scene": "De maaltijd van Darius",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 3,
         "verse": 8,
         "file": "3-8.webp",
         "alt": "Beeld bij 3ezra 3: Drie verzegelde uitspraken",
-        "scene": "Drie verzegelde uitspraken"
+        "scene": "Drie verzegelde uitspraken",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 4,
@@ -56123,6 +56152,136 @@
         "file": "9-42.webp",
         "alt": "Beeld bij 3ezra 9: Op een houten verhoging",
         "scene": "Op een houten verhoging"
+      },
+      {
+        "chapter": 1,
+        "verse": 32,
+        "file": "1-32-jeremia-rouw-verdieping.webp",
+        "scene": "Jeremia klaagt om Josia",
+        "alt": "Jeremia klaagt om Josia — 3 Ezra 1:32; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 1,
+        "verse": 55,
+        "file": "1-55-tempel-brand-verdieping.webp",
+        "scene": "Jeruzalem en de tempel branden",
+        "alt": "Jeruzalem en de tempel branden — 3 Ezra 1:55; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 1,
+        "verse": 56,
+        "file": "1-56-ballingschap-verdieping.webp",
+        "scene": "Weggevoerd naar Babylonië",
+        "alt": "Weggevoerd naar Babylonië — 3 Ezra 1:56; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 2,
+        "verse": 31,
+        "file": "2-31-bouw-stop-verdieping.webp",
+        "scene": "De bouw komt stil te liggen",
+        "alt": "De bouw komt stil te liggen — 3 Ezra 2:31; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 1,
+        "verse": 1,
+        "file": "1-leeswijzer.svg",
+        "scene": "Van Pascha tot ballingschap",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1141
+      },
+      {
+        "chapter": 2,
+        "verse": 1,
+        "file": "2-leeswijzer.svg",
+        "scene": "Bouwbevel en bouwverbod",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1055
+      },
+      {
+        "chapter": 3,
+        "verse": 1,
+        "file": "3-leeswijzer.svg",
+        "scene": "De wedstrijd van drie wachters",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1098
+      },
+      {
+        "chapter": 1,
+        "verse": 7,
+        "file": "1-pascha-gaven.svg",
+        "scene": "De gaven voor het Pascha",
+        "alt": "De gaven voor het Pascha met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1055
+      },
+      {
+        "chapter": 2,
+        "verse": 10,
+        "file": "2-gerei-overdracht.svg",
+        "scene": "Het gerei wordt teruggegeven",
+        "alt": "Het gerei wordt teruggegeven met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1012
+      },
+      {
+        "chapter": 2,
+        "verse": 13,
+        "file": "2-gerei-aantallen.svg",
+        "scene": "Aantallen van het gerei",
+        "alt": "Aantallen van het gerei met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1048
+      },
+      {
+        "chapter": 3,
+        "verse": 10,
+        "file": "3-drie-antwoorden.svg",
+        "scene": "Drie antwoorden op één vraag",
+        "alt": "Drie antwoorden op één vraag met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 969
+      },
+      {
+        "chapter": 3,
+        "verse": 18,
+        "file": "3-wijn-betoog.svg",
+        "scene": "Het betoog over de wijn",
+        "alt": "Het betoog over de wijn met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1055
+      },
+      {
+        "chapter": 1,
+        "verse": 34,
+        "file": "1-koningen-volgorde.svg",
+        "scene": "Koningen na Josia",
+        "alt": "Koningen na Josia — 3 Ezra 1:34–48",
+        "kind": "diagram",
+        "width": 840,
+        "height": 642
       }
     ],
     "4ezra": [

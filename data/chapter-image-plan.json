@@ -33705,6 +33705,120 @@
           "source": "Openbaring 22:12–17"
         }
       ]
+    },
+    {
+      "book": "3ezra",
+      "chapter": 1,
+      "status": "reviewed",
+      "target_images": 9,
+      "reason": "Bestaande beelden tonen dienstvoorbereiding, Pascha en vertrek naar de farao. Rouw om Josia, de tempelbrand en wegvoering zijn afzonderlijke ontbrekende gebeurtenissen. Leeswijzer, offeraantallen en koningenvolgorde voorkomen dat de lange tweede helft onzichtbaar blijft.",
+      "additions": [
+        {
+          "verse": 32,
+          "file": "1-32-jeremia-rouw-verdieping.webp",
+          "scene": "Jeremia klaagt om Josia",
+          "kind": "scene"
+        },
+        {
+          "verse": 55,
+          "file": "1-55-tempel-brand-verdieping.webp",
+          "scene": "Jeruzalem en de tempel branden",
+          "kind": "scene"
+        },
+        {
+          "verse": 56,
+          "file": "1-56-ballingschap-verdieping.webp",
+          "scene": "Weggevoerd naar Babylonië",
+          "kind": "scene"
+        },
+        {
+          "verse": 1,
+          "file": "1-leeswijzer.svg",
+          "scene": "Van Pascha tot ballingschap",
+          "kind": "diagram",
+          "source": "3 Ezra 1:1–58"
+        },
+        {
+          "verse": 7,
+          "file": "1-pascha-gaven.svg",
+          "scene": "De gaven voor het Pascha",
+          "kind": "diagram",
+          "source": "3 Ezra 1:7–9"
+        },
+        {
+          "verse": 34,
+          "file": "1-koningen-volgorde.svg",
+          "scene": "Koningen na Josia",
+          "kind": "diagram",
+          "source": "3 Ezra 1:34–48"
+        }
+      ]
+    },
+    {
+      "book": "3ezra",
+      "chapter": 2,
+      "status": "reviewed",
+      "target_images": 7,
+      "reason": "Cyrus, terugkeer en gerei zijn aanwezig. Het latere bouwverbod is een andere gebeurtenis en wordt verbeeld. Overdracht en aantallen worden in schema’s ontsloten. Het lokale verschil tussen genoemd totaal 5469 en de som 5489 is expliciet vermeld zonder de tekst aan te passen.",
+      "additions": [
+        {
+          "verse": 31,
+          "file": "2-31-bouw-stop-verdieping.webp",
+          "scene": "De bouw komt stil te liggen",
+          "kind": "scene"
+        },
+        {
+          "verse": 1,
+          "file": "2-leeswijzer.svg",
+          "scene": "Bouwbevel en bouwverbod",
+          "kind": "diagram",
+          "source": "3 Ezra 2:1–31"
+        },
+        {
+          "verse": 10,
+          "file": "2-gerei-overdracht.svg",
+          "scene": "Het gerei wordt teruggegeven",
+          "kind": "diagram",
+          "source": "3 Ezra 2:10–15"
+        },
+        {
+          "verse": 13,
+          "file": "2-gerei-aantallen.svg",
+          "scene": "Aantallen van het gerei",
+          "kind": "diagram",
+          "source": "3 Ezra 2:13–14"
+        }
+      ]
+    },
+    {
+      "book": "3ezra",
+      "chapter": 3,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Feest, drie jongelingen en verzegelde antwoorden zijn aanwezig en dekken de handelingen. Leeswijzer en twee argumentenschema’s verduidelijken de verschillende claims en de eerste toespraak zonder een tweede debatfoto te dupliceren.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "3-leeswijzer.svg",
+          "scene": "De wedstrijd van drie wachters",
+          "kind": "diagram",
+          "source": "3 Ezra 3:1–25"
+        },
+        {
+          "verse": 10,
+          "file": "3-drie-antwoorden.svg",
+          "scene": "Drie antwoorden op één vraag",
+          "kind": "diagram",
+          "source": "3 Ezra 3:4–12"
+        },
+        {
+          "verse": 18,
+          "file": "3-wijn-betoog.svg",
+          "scene": "Het betoog over de wijn",
+          "kind": "diagram",
+          "source": "3 Ezra 3:18–25"
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,343 @@
+{
+  "date": "2026-10-26",
+  "started": "2026-10-26T10:14:43Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "3ezra",
+      "chapter": 1,
+      "verse": 32,
+      "file": "1-32-jeremia-rouw-verdieping.webp",
+      "scene": "Jeremia klaagt om Josia",
+      "alt": "Jeremia klaagt om Josia — 3 Ezra 1:32; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic biblical narrative illustration, landscape 3:2, ancient Near Eastern materials, natural light, coherent anatomy with exactly two arms and two legs per person; fully covering modest opaque period robes. No modern objects, readable writing, blood, injury or watermark. Late seventh century BCE Jerusalem. The prophet Jeremiah, a bearded Judahite man in simple rough opaque robes, sings a lament for the dead king Josiah, before a small mourning assembly of Judean men and women. Sorrowful faces, hands at rest or gently raised, no body visible, no royal celebration, no Greek columns or Roman armor.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "3ezra",
+      "chapter": 1,
+      "verse": 55,
+      "file": "1-55-tempel-brand-verdieping.webp",
+      "scene": "Jeruzalem en de tempel branden",
+      "alt": "Jeruzalem en de tempel branden — 3 Ezra 1:55; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic biblical narrative illustration, landscape 3:2, ancient Near Eastern materials, natural light, coherent anatomy with exactly two arms and two legs per person; fully covering modest opaque period robes. No modern objects, readable writing, blood, injury or watermark. Sixth century BCE Jerusalem, a distant view from outside the ruined city walls, the First Temple on the hill engulfed in fire and dark smoke, broken ancient Judahite stone fortifications. No humans in foreground, no corpses or injuries. No Dome of the Rock, churches, minarets, Greco-Roman temple or modern structures.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "3ezra",
+      "chapter": 1,
+      "verse": 56,
+      "file": "1-56-ballingschap-verdieping.webp",
+      "scene": "Weggevoerd naar Babylonië",
+      "alt": "Weggevoerd naar Babylonië — 3 Ezra 1:56; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic biblical narrative illustration, landscape 3:2, ancient Near Eastern materials, natural light, coherent anatomy with exactly two arms and two legs per person; fully covering modest opaque period robes. No modern objects, readable writing, blood, injury or watermark. Sixth century BCE Judah, a long subdued procession of displaced Judahite families carrying modest travel bundles walking on a dusty ancient road away from ruined Jerusalem toward Babylonia. Women and men fully clothed, small group of distant Babylonian guards, not Roman armor. Respectful, sober, no violence, chains, nudity or injured bodies.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "3ezra",
+      "chapter": 2,
+      "verse": 31,
+      "file": "2-31-bouw-stop-verdieping.webp",
+      "scene": "De bouw komt stil te liggen",
+      "alt": "De bouw komt stil te liggen — 3 Ezra 2:31; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic biblical narrative illustration, landscape 3:2, ancient Near Eastern materials, natural light, coherent anatomy with exactly two arms and two legs per person; fully covering modest opaque period robes. No modern objects, readable writing, blood, injury or watermark. Achaemenid Persian period Jerusalem, ancient Judean workers lower their stoneworking tools and stop rebuilding a partly built temple wall when a Persian imperial official presents a sealed scroll and guards stand at a distance. Clear paused work, a few unfinished stone courses, sober conversation without violence, period tunics and Persian garments, no Roman soldiers or modern machinery.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "3ezra",
+      "chapter": 1,
+      "verse": 1,
+      "file": "1-leeswijzer.svg",
+      "scene": "Van Pascha tot ballingschap",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1141,
+      "source": "3 Ezra 1:1–58",
+      "design": {
+        "rows": [
+          [
+            "1–24 · Het Pascha van Josia",
+            "Priesters en Levieten dienen, de koning geeft offers; het feest wordt zeven dagen gevierd."
+          ],
+          [
+            "25–33 · De dood van Josia",
+            "Hij trekt farao tegemoet, sterft na de strijd en wordt betreurd."
+          ],
+          [
+            "34–48 · De volgende koningen",
+            "Joachaz, Jojakim, Jojachin en Zedekia; Egypte en Babel grijpen in."
+          ],
+          [
+            "49–58 · Ondergang en rust",
+            "Boden worden bespot; tempel en stad verwoest, overlevenden weggevoerd; zeventig jaar."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "3ezra",
+      "chapter": 2,
+      "verse": 1,
+      "file": "2-leeswijzer.svg",
+      "scene": "Bouwbevel en bouwverbod",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "3 Ezra 2:1–31",
+      "design": {
+        "rows": [
+          [
+            "1–9 · Cyrus laat bouwen",
+            "Terugkeer naar Jeruzalem, met hulp en vrijwillige gaven."
+          ],
+          [
+            "10–15 · Het gerei terug",
+            "Via Mithridates gaat het gerei naar Sesbassar en terug naar Jeruzalem."
+          ],
+          [
+            "16–24 · De aanklacht",
+            "Een brief aan Artaxerxes beschuldigt de stad van opstand."
+          ],
+          [
+            "25–31 · De bouw gestopt",
+            "Onderzoek en koninklijk verbod; de bouw ligt stil tot Darius’ tweede jaar."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "3ezra",
+      "chapter": 3,
+      "verse": 1,
+      "file": "3-leeswijzer.svg",
+      "scene": "De wedstrijd van drie wachters",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1098,
+      "source": "3 Ezra 3:1–25",
+      "design": {
+        "rows": [
+          [
+            "1–3 · Het feest",
+            "Darius geeft een maaltijd voor zijn hof en bestuurders."
+          ],
+          [
+            "4–12 · Drie uitspraken",
+            "De wachters schrijven en verzegelen hun antwoord op de vraag wie het sterkst is."
+          ],
+          [
+            "13–17 · Voor de koning",
+            "De uitspraken worden voorgelezen en de drie jonge mannen geroepen."
+          ],
+          [
+            "18–25 · De eerste verdediging",
+            "De eerste spreker beschrijft de macht van wijn over het verstand."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "3ezra",
+      "chapter": 1,
+      "verse": 7,
+      "file": "1-pascha-gaven.svg",
+      "scene": "De gaven voor het Pascha",
+      "alt": "De gaven voor het Pascha met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "3 Ezra 1:7–9",
+      "design": {
+        "rows": [
+          [
+            "Josia · vers 7",
+            "30.000 lammeren en bokken; 3000 kalveren."
+          ],
+          [
+            "Tempelleiders · vers 9",
+            "2600 schapen en 300 kalveren voor de priesters."
+          ],
+          [
+            "Gaven aan de Levieten · vers 9",
+            "5000 schapen en 700 kalveren."
+          ],
+          [
+            "Herkomst en doel",
+            "Gaven van koning en leiders voor de priesters, Levieten en het aanwezige volk."
+          ]
+        ],
+        "note": "Aantallen en verschillende ontvangers volgen deze hoofdstukweergave."
+      }
+    },
+    {
+      "book": "3ezra",
+      "chapter": 2,
+      "verse": 10,
+      "file": "2-gerei-overdracht.svg",
+      "scene": "Het gerei wordt teruggegeven",
+      "alt": "Het gerei wordt teruggegeven met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1012,
+      "source": "3 Ezra 2:10–15",
+      "design": {
+        "rows": [
+          [
+            "Cyrus",
+            "Haalt het heilige gerei tevoorschijn dat Nebukadnezar had weggevoerd."
+          ],
+          [
+            "Mithridates",
+            "De schatmeester ontvangt het van Cyrus."
+          ],
+          [
+            "Sesbassar",
+            "De stadhouder van Judea ontvangt het via de schatmeester."
+          ],
+          [
+            "Terugkeer",
+            "Sesbassar brengt het met de terugkerenden naar Jeruzalem."
+          ]
+        ],
+        "note": "Namen en functies zijn die van de plaatselijke tekst."
+      }
+    },
+    {
+      "book": "3ezra",
+      "chapter": 2,
+      "verse": 13,
+      "file": "2-gerei-aantallen.svg",
+      "scene": "Aantallen van het gerei",
+      "alt": "Aantallen van het gerei met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1048,
+      "source": "3 Ezra 2:13–14",
+      "design": {
+        "rows": [
+          [
+            "Schalen voor drankoffers",
+            "1000 gouden en 1000 zilveren."
+          ],
+          [
+            "Wierookpannen en gouden bekers",
+            "29 zilveren wierookpannen; 30 gouden bekers."
+          ],
+          [
+            "Zilveren bekers en overige",
+            "2430 zilveren bekers; 1000 andere voorwerpen."
+          ],
+          [
+            "Twee verschillende uitkomsten",
+            "Vers 14 noemt 5469; de aantallen in vers 13 tellen op tot 5489."
+          ]
+        ],
+        "note": "Het telverschil van 20 in de plaatselijke tekst is zichtbaar gelaten; er is geen aantal stilzwijgend aangepast."
+      }
+    },
+    {
+      "book": "3ezra",
+      "chapter": 3,
+      "verse": 10,
+      "file": "3-drie-antwoorden.svg",
+      "scene": "Drie antwoorden op één vraag",
+      "alt": "Drie antwoorden op één vraag met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 969,
+      "source": "3 Ezra 3:4–12",
+      "design": {
+        "rows": [
+          [
+            "De eerste · vers 10",
+            "De wijn is de sterkste."
+          ],
+          [
+            "De tweede · vers 11",
+            "De koning is de sterkste."
+          ],
+          [
+            "De derde · vers 12",
+            "De vrouwen zijn de sterkste, maar boven alles overwint de waarheid."
+          ],
+          [
+            "De inzet · vers 5–7",
+            "De wijste spreker krijgt eer en geschenken van Darius."
+          ]
+        ],
+        "note": "Dit hoofdstuk geeft alleen de eerste verdediging volledig; de andere toespraken volgen later."
+      }
+    },
+    {
+      "book": "3ezra",
+      "chapter": 3,
+      "verse": 18,
+      "file": "3-wijn-betoog.svg",
+      "scene": "Het betoog over de wijn",
+      "alt": "Het betoog over de wijn met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "3 Ezra 3:18–25",
+      "design": {
+        "rows": [
+          [
+            "Iedereen gelijk · vers 19–20",
+            "Volgens de spreker raakt wijn koning en wees, slaaf en vrije, arm en rijk."
+          ],
+          [
+            "Verdriet vergeten · vers 21–22",
+            "Hij beschrijft vreugde en de waan rijk te zijn."
+          ],
+          [
+            "Vriendschap verstoord · vers 23",
+            "Vriendelijkheid verdwijnt en mensen trekken het zwaard."
+          ],
+          [
+            "Geheugen weg · vers 24–25",
+            "Na het drinken herinneren zij zich hun daden niet meer."
+          ]
+        ],
+        "note": "Argumenten van de eerste jonge man in de wedstrijd; geen aanbeveling om wijn te drinken."
+      }
+    },
+    {
+      "book": "3ezra",
+      "chapter": 1,
+      "verse": 34,
+      "file": "1-koningen-volgorde.svg",
+      "scene": "Koningen na Josia",
+      "alt": "Koningen na Josia — 3 Ezra 1:34–48",
+      "kind": "diagram",
+      "width": 840,
+      "height": 642,
+      "source": "3 Ezra 1:34–48",
+      "design": {
+        "type": "vertical named sequence",
+        "names": [
+          "Joachaz · 3 maanden",
+          "Jojakim · door farao aangesteld",
+          "Jojachin · 3 maanden en 10 dagen",
+          "Zedekia · 11 jaar"
+        ],
+        "note": "Vertelde regeringsvolgorde, geen volledige stamboom. Leeftijden bij aantreden: 23, 25, 18 en 21 jaar."
+      }
+    }
+  ]
+}
