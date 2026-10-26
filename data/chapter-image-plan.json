@@ -31916,6 +31916,42 @@
           "source": "Titus 1:5–9"
         }
       ]
+    },
+    {
+      "book": "filemon",
+      "chapter": 1,
+      "status": "reviewed",
+      "target_images": 7,
+      "reason": "Brief, terugsturen en de gevraagde broederlijke ontvangst zijn aanwezig. Het aparte verzoek om een logeerplek krijgt een als lesbeeld benoemde illustratie. Leeswijzer en schema’s verduidelijken de geestelijke relaties, mogelijke schuld en vrijwilligheid; de brief wordt niet aangevuld met een verzonnen afloop.",
+      "additions": [
+        {
+          "verse": 22,
+          "file": "1-22-logeerplek-verdieping.webp",
+          "scene": "Lesbeeld: een logeerplek klaarmaken",
+          "kind": "poetic"
+        },
+        {
+          "verse": 1,
+          "file": "1-leeswijzer.svg",
+          "scene": "Een beroep op de liefde",
+          "kind": "diagram",
+          "source": "Filemon 1:1–25"
+        },
+        {
+          "verse": 10,
+          "file": "1-relaties.svg",
+          "scene": "De personen in het verzoek",
+          "kind": "diagram",
+          "source": "Filemon 1:1–17"
+        },
+        {
+          "verse": 18,
+          "file": "1-schuld-vrijwillig.svg",
+          "scene": "Schuld en vrijwillige goedheid",
+          "kind": "diagram",
+          "source": "Filemon 1:13–21"
+        }
+      ]
     }
   ]
 }

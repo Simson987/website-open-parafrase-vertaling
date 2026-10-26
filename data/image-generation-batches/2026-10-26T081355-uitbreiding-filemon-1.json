@@ -1,0 +1,120 @@
+{
+  "date": "2026-10-26",
+  "started": "2026-10-26T08:13:55Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "filemon",
+      "chapter": 1,
+      "verse": 22,
+      "file": "1-22-logeerplek-verdieping.webp",
+      "scene": "Lesbeeld: een logeerplek klaarmaken",
+      "alt": "Lesbeeld: een logeerplek klaarmaken — Filemon 1:22; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. Philemon 1:22 asks Philemon to prepare a guest room for Paul, who hopes to be restored through their prayers. Illustrative enactment of this request, not Paul already arriving: a first-century household room with a plain wooden sleeping couch and a wool blanket, an adult householder spreading the blanket neatly with two hands and another person setting a small water jug on a low table. Warm daylight, modest domestic setting, no rich hotel, readable writing or returning apostle at the door. Two adults fully clothed, coherent natural anatomy.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "filemon",
+      "chapter": 1,
+      "verse": 1,
+      "file": "1-leeswijzer.svg",
+      "scene": "Een beroep op de liefde",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "Filemon 1:1–25",
+      "design": {
+        "rows": [
+          [
+            "1–7 · Groet en dank",
+            "Filemon, de huisgemeente en de verfrissende liefde."
+          ],
+          [
+            "8–16 · Het verzoek",
+            "Onesimus terugsturen en hem als geliefde broeder ontvangen."
+          ],
+          [
+            "17–21 · Ontvang hem als mij",
+            "Paulus biedt aan een mogelijke schuld zelf te betalen."
+          ],
+          [
+            "22–25 · Logeerplek en groeten",
+            "Een gehoopte terugkeer en groeten van medewerkers."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "filemon",
+      "chapter": 1,
+      "verse": 10,
+      "file": "1-relaties.svg",
+      "scene": "De personen in het verzoek",
+      "alt": "De personen in het verzoek met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "Filemon 1:1–17",
+      "design": {
+        "rows": [
+          [
+            "Paulus",
+            "Oud en gevangen; vader in het geloof van Onesimus."
+          ],
+          [
+            "Filemon",
+            "Geliefde medewerker; de gemeente komt bij hem thuis samen."
+          ],
+          [
+            "Onesimus",
+            "Teruggestuurd; ontvangen als geliefde broeder."
+          ],
+          [
+            "De oproep",
+            "Filemon moet Onesimus ontvangen alsof hij Paulus zelf is."
+          ]
+        ],
+        "note": "Het vaderschap is geestelijk. De brief vermeldt het verzoek, niet Filemons latere antwoord."
+      }
+    },
+    {
+      "book": "filemon",
+      "chapter": 1,
+      "verse": 18,
+      "file": "1-schuld-vrijwillig.svg",
+      "scene": "Schuld en vrijwillige goedheid",
+      "alt": "Schuld en vrijwillige goedheid met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1005,
+      "source": "Filemon 1:13–21",
+      "design": {
+        "rows": [
+          [
+            "Geen dwang · vers 13–14",
+            "Paulus wil niets zonder Filemons goedkeuring doen."
+          ],
+          [
+            "Als er schuld is · vers 18",
+            "Reken die aan Paulus toe."
+          ],
+          [
+            "Eigen hand · vers 19",
+            "Paulus belooft het te betalen."
+          ],
+          [
+            "Vertrouwen · vers 20–21",
+            "Paulus vraagt verfrissing en verwacht zelfs meer goedheid."
+          ]
+        ],
+        "note": "De mogelijke schuld wordt voorwaardelijk genoemd; de brief specificeert geen bedrag of diefstal."
+      }
+    }
+  ]
+}

@@ -66904,19 +66904,71 @@
         "chapter": 1,
         "file": "1-letter.webp",
         "alt": "Paulus schrijft een persoonlijke brief",
-        "scene": "De brief aan Filemon"
+        "scene": "De brief aan Filemon",
+        "verse": 1,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 1,
         "file": "1-return.webp",
         "alt": "Onesimus keert terug naar Filemons huis",
-        "scene": "Onesimus komt terug"
+        "scene": "Onesimus komt terug",
+        "verse": 11,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 1,
         "file": "1-welcome.webp",
         "alt": "Filemon ontvangt Onesimus bij de deur",
-        "scene": "Ontvang hem als een broer"
+        "scene": "Ontvang hem als een broer",
+        "verse": 17,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 1,
+        "verse": 22,
+        "file": "1-22-logeerplek-verdieping.webp",
+        "scene": "Lesbeeld: een logeerplek klaarmaken",
+        "alt": "Lesbeeld: een logeerplek klaarmaken — Filemon 1:22; tekstillustratie.",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 1,
+        "verse": 1,
+        "file": "1-leeswijzer.svg",
+        "scene": "Een beroep op de liefde",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1055
+      },
+      {
+        "chapter": 1,
+        "verse": 10,
+        "file": "1-relaties.svg",
+        "scene": "De personen in het verzoek",
+        "alt": "De personen in het verzoek met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1055
+      },
+      {
+        "chapter": 1,
+        "verse": 18,
+        "file": "1-schuld-vrijwillig.svg",
+        "scene": "Schuld en vrijwillige goedheid",
+        "alt": "Schuld en vrijwillige goedheid met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1005
       }
     ],
     "hebreeen": [
