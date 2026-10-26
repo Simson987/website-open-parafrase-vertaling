@@ -1,0 +1,330 @@
+{
+  "date": "2026-10-26",
+  "started": "2026-10-26T10:14:43Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "openbaring",
+      "chapter": 14,
+      "verse": 14,
+      "file": "14-14-mensenzoon-wolk-verdieping.webp",
+      "scene": "Iemand als een mensenzoon",
+      "alt": "Iemand als een mensenzoon — Openbaring 14:14; verbeelding van het vertelde visioen.",
+      "kind": "poetic",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. Revelation 14:14 visionary scene, photorealistic natural textures. A Middle Eastern man who looks like a son of man, fully robed in opaque white linen, wearing a simple golden wreath and holding a sharp ancient harvesting sickle in one hand, sits on a luminous white cloud above the ripe fields of earth. Exactly two human arms and legs, NO WINGS, no extra limbs. No Father portrait, no blood, no onlookers, landscape 3:2.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "openbaring",
+      "chapter": 15,
+      "verse": 8,
+      "file": "15-8-tempel-rook-verdieping.webp",
+      "scene": "De tempel wordt vol rook",
+      "alt": "De tempel wordt vol rook — Openbaring 15:8; verbeelding van het vertelde visioen.",
+      "kind": "poetic",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. Explicit heavenly vision of Revelation 15:8, photorealistic architecture and clouds. An open ancient golden-columned sanctuary entrance filled with thick luminous smoke from divine glory, smoke fills the doorway so nobody can enter. Wide quiet composition, no people or divine portrait, no bowls or incense vessels in foreground, no modern architecture.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "openbaring",
+      "chapter": 16,
+      "verse": 12,
+      "file": "16-12-eufraat-droog-verdieping.webp",
+      "scene": "De Eufraat droogt op",
+      "alt": "De Eufraat droogt op — Openbaring 16:12; verbeelding van het vertelde visioen.",
+      "kind": "poetic",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. Revelation 16:12 visionary illustration, ancient Near Eastern wide landscape with a large riverbed now completely dry, pale cracked silt and high riverbanks reveal a broad passable way from the east. A remote hazy line of ancient eastern royal riders approaches in the distance, very small silhouettes only. Natural coherent terrain, no modern bridges, cars, dams, weapons close-up, maps or readable text.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "openbaring",
+      "chapter": 13,
+      "verse": 1,
+      "file": "13-leeswijzer.svg",
+      "scene": "De twee beesten",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 949,
+      "source": "Openbaring 13:1–18",
+      "design": {
+        "rows": [
+          [
+            "1–10 · Het beest uit zee",
+            "De draak geeft macht; het beest wordt aanbeden. De heiligen hebben volharding en geloof nodig."
+          ],
+          [
+            "11–15 · Het beest uit de aarde",
+            "Twee horens als van een lam, stem als de draak; tekenen en een beeld dat spreekt."
+          ],
+          [
+            "16–18 · Merkteken en getal",
+            "Druk op kopen en verkopen; rechterhand of voorhoofd; het getal 666."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "openbaring",
+      "chapter": 14,
+      "verse": 1,
+      "file": "14-leeswijzer.svg",
+      "scene": "Het Lam, stemmen en oogst",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 949,
+      "source": "Openbaring 14:1–20",
+      "design": {
+        "rows": [
+          [
+            "1–5 · Op Sion",
+            "Het Lam en de 144.000; een nieuw lied en trouw aan het Lam."
+          ],
+          [
+            "6–13 · Drie engelen en een stem",
+            "Oproep tot aanbidding, Babylon gevallen, waarschuwing en rust in de Heere."
+          ],
+          [
+            "14–20 · Twee oogstbeelden",
+            "Een mensenzoon met zeis op een wolk; daarna druiven en de perskuip buiten de stad."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "openbaring",
+      "chapter": 15,
+      "verse": 1,
+      "file": "15-leeswijzer.svg",
+      "scene": "Lied en zeven schalen",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 906,
+      "source": "Openbaring 15:1–8",
+      "design": {
+        "rows": [
+          [
+            "1–4 · Teken en lied",
+            "Zeven engelen; overwinnaars bij de glazen zee zingen het lied van Mozes en van het Lam."
+          ],
+          [
+            "5–7 · Uit de tempel",
+            "Zeven engelen in glanzend linnen ontvangen zeven gouden schalen."
+          ],
+          [
+            "8 · De tempel vol rook",
+            "Niemand kan naar binnen tot de zeven plagen voorbij zijn."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "openbaring",
+      "chapter": 16,
+      "verse": 1,
+      "file": "16-leeswijzer.svg",
+      "scene": "De zeven schalen",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1141,
+      "source": "Openbaring 16:1–21",
+      "design": {
+        "rows": [
+          [
+            "1–7 · De eerste drie",
+            "Aarde, zee, rivieren en bronnen; de oordelen worden rechtvaardig genoemd."
+          ],
+          [
+            "8–11 · Vier en vijf",
+            "De zon verbrandt en het rijk van het beest wordt donker; er volgt geen bekering."
+          ],
+          [
+            "12–16 · De zesde",
+            "De Eufraat droogt op; drie onreine geesten verzamelen de koningen."
+          ],
+          [
+            "17–21 · De zevende",
+            "In de lucht: het is gebeurd; aardbeving, gescheurde stad en grote hagel."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "openbaring",
+      "chapter": 13,
+      "verse": 1,
+      "file": "13-beesten-vergelijking.svg",
+      "scene": "Twee beesten onderscheiden",
+      "alt": "Twee beesten onderscheiden met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1141,
+      "source": "Openbaring 13:1–18",
+      "design": {
+        "rows": [
+          [
+            "Uit de zee · vers 1–2",
+            "Zeven koppen, tien horens, tien kronen op de horens; als luipaard, beer en leeuw."
+          ],
+          [
+            "Macht van het eerste · vers 5–7",
+            "Tweeënveertig maanden; laster en oorlog tegen de heiligen."
+          ],
+          [
+            "Uit de aarde · vers 11–15",
+            "Twee horens als een lam, spreekt als de draak; bevordert aanbidding van het eerste."
+          ],
+          [
+            "Merkteken · vers 16–18",
+            "Rechterhand of voorhoofd; kopen en verkopen; het getal is 666."
+          ]
+        ],
+        "note": "De tien kronen van dit beest verschillen van de zeven kronen van de draak in 12:3."
+      }
+    },
+    {
+      "book": "openbaring",
+      "chapter": 14,
+      "verse": 6,
+      "file": "14-drie-engelen.svg",
+      "scene": "Drie boodschappen",
+      "alt": "Drie boodschappen met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1091,
+      "source": "Openbaring 14:6–13",
+      "design": {
+        "rows": [
+          [
+            "Eerste engel · vers 6–7",
+            "Eeuwig evangelie voor alle volken: ontzag voor God en aanbidding van de Schepper."
+          ],
+          [
+            "Tweede engel · vers 8",
+            "Babylon, de grote stad, is gevallen."
+          ],
+          [
+            "Derde engel · vers 9–11",
+            "Waarschuwing voor aanbidding van het beest, zijn beeld en zijn merkteken."
+          ],
+          [
+            "Daarna · vers 12–13",
+            "Volharding en geloof; gelukkig wie in de Heere sterft, de werken gaan mee."
+          ]
+        ],
+        "note": "Boodschappen in tekstvolgorde; de aangekondigde oordelen worden niet tot moderne gebeurtenissen herleid."
+      }
+    },
+    {
+      "book": "openbaring",
+      "chapter": 14,
+      "verse": 14,
+      "file": "14-twee-oogsten.svg",
+      "scene": "Twee oogstbeelden",
+      "alt": "Twee oogstbeelden met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1098,
+      "source": "Openbaring 14:14–20",
+      "design": {
+        "rows": [
+          [
+            "Eerste beeld · vers 14–16",
+            "Iemand als een mensenzoon zit op een witte wolk, met gouden krans en scherpe zeis."
+          ],
+          [
+            "Oproep uit de tempel",
+            "Een engel roept dat het uur van maaien gekomen is; de aarde wordt gemaaid."
+          ],
+          [
+            "Tweede beeld · vers 17–19",
+            "Een engel met zeis ontvangt de oproep om de rijpe druiven af te snijden."
+          ],
+          [
+            "De perskuip · vers 19–20",
+            "De druiven gaan in de perskuip van Gods toorn buiten de stad."
+          ]
+        ],
+        "note": "De engel met zeis en de mensenzoon op de wolk zijn twee onderscheiden figuren."
+      }
+    },
+    {
+      "book": "openbaring",
+      "chapter": 15,
+      "verse": 3,
+      "file": "15-lied-inhoud.svg",
+      "scene": "Wat het lied bezingt",
+      "alt": "Wat het lied bezingt met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "Openbaring 15:3–4",
+      "design": {
+        "rows": [
+          [
+            "Werken",
+            "Groot en wonderlijk zijn Gods werken."
+          ],
+          [
+            "Wegen",
+            "Rechtvaardig en waarachtig zijn Gods wegen."
+          ],
+          [
+            "Heiligheid",
+            "God alleen is heilig en Zijn Naam verdient eer."
+          ],
+          [
+            "Volken",
+            "Alle volken zullen komen en zich buigen; Zijn rechtvaardige daden zijn zichtbaar."
+          ]
+        ],
+        "note": "Het lied van Mozes en van het Lam zoals het in deze verzen staat."
+      }
+    },
+    {
+      "book": "openbaring",
+      "chapter": 16,
+      "verse": 2,
+      "file": "16-zeven-schalen-doelen.svg",
+      "scene": "Waar elke schaal terechtkomt",
+      "alt": "Waar elke schaal terechtkomt met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1177,
+      "source": "Openbaring 16:2–21",
+      "design": {
+        "rows": [
+          [
+            "1 · Aarde; 2 · Zee",
+            "Zweren bij aanbidders van het beest; de zee wordt bloed en elk levend wezen erin sterft."
+          ],
+          [
+            "3 · Rivieren en bronnen",
+            "Het water wordt bloed; de engel en het altaar bevestigen Gods rechtvaardigheid."
+          ],
+          [
+            "4 · Zon; 5 · Troon",
+            "Grote hitte; daarna duisternis in het rijk van het beest."
+          ],
+          [
+            "6 · Eufraat; 7 · Lucht",
+            "Droge weg voor oostelijke koningen; daarna aardbeving en grote hagel."
+          ]
+        ],
+        "note": "Anders dan bij de bazuinen wordt bij de tweede schaal niet één derde maar elk levend wezen in de zee genoemd."
+      }
+    }
+  ]
+}

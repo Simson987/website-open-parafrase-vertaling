@@ -33404,6 +33404,123 @@
           "source": "Openbaring 12:6,14–17"
         }
       ]
+    },
+    {
+      "book": "openbaring",
+      "chapter": 14,
+      "status": "reviewed",
+      "target_images": 7,
+      "reason": "Lam, evangelie-engel en een engel met zeis zijn aanwezig. De gekroonde mensenzoon op de wolk is een ontbrekende afzonderlijke figuur en wordt toegevoegd; de twee oogsten en drie boodschappen worden exact onderscheiden. De bestaande engel met zeis wordt bij vers 17 verankerd.",
+      "additions": [
+        {
+          "verse": 14,
+          "file": "14-14-mensenzoon-wolk-verdieping.webp",
+          "scene": "Iemand als een mensenzoon",
+          "kind": "poetic"
+        },
+        {
+          "verse": 1,
+          "file": "14-leeswijzer.svg",
+          "scene": "Het Lam, stemmen en oogst",
+          "kind": "diagram",
+          "source": "Openbaring 14:1–20"
+        },
+        {
+          "verse": 6,
+          "file": "14-drie-engelen.svg",
+          "scene": "Drie boodschappen",
+          "kind": "diagram",
+          "source": "Openbaring 14:6–13"
+        },
+        {
+          "verse": 14,
+          "file": "14-twee-oogsten.svg",
+          "scene": "Twee oogstbeelden",
+          "kind": "diagram",
+          "source": "Openbaring 14:14–20"
+        }
+      ]
+    },
+    {
+      "book": "openbaring",
+      "chapter": 15,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Glazen zee, lied en zeven engelen zijn aanwezig en bekeken. De onbetreedbare tempel vol rook ontbreekt als afzonderlijke scène; leeswijzer en inhoud van het lied vullen de informatie aan.",
+      "additions": [
+        {
+          "verse": 8,
+          "file": "15-8-tempel-rook-verdieping.webp",
+          "scene": "De tempel wordt vol rook",
+          "kind": "poetic"
+        },
+        {
+          "verse": 1,
+          "file": "15-leeswijzer.svg",
+          "scene": "Lied en zeven schalen",
+          "kind": "diagram",
+          "source": "Openbaring 15:1–8"
+        },
+        {
+          "verse": 3,
+          "file": "15-lied-inhoud.svg",
+          "scene": "Wat het lied bezingt",
+          "kind": "diagram",
+          "source": "Openbaring 15:3–4"
+        }
+      ]
+    },
+    {
+      "book": "openbaring",
+      "chapter": 16,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Schalen, duister rijk en waakzaamheid zijn aanwezig. De droge Eufraat is een afzonderlijke gebeurtenis; overzicht en doelen van de zeven schalen onderscheiden ook het verschil met de bazuinen.",
+      "additions": [
+        {
+          "verse": 12,
+          "file": "16-12-eufraat-droog-verdieping.webp",
+          "scene": "De Eufraat droogt op",
+          "kind": "poetic"
+        },
+        {
+          "verse": 1,
+          "file": "16-leeswijzer.svg",
+          "scene": "De zeven schalen",
+          "kind": "diagram",
+          "source": "Openbaring 16:1–21"
+        },
+        {
+          "verse": 2,
+          "file": "16-zeven-schalen-doelen.svg",
+          "scene": "Waar elke schaal terechtkomt",
+          "kind": "diagram",
+          "source": "Openbaring 16:2–21"
+        }
+      ]
+    },
+    {
+      "book": "openbaring",
+      "chapter": 13,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Druk, misleidend vuur en volharding zijn aanwezig. Opbouw en een precieze vergelijking ontsluiten de ontbrekende beestenkenmerken zonder onjuiste anatomie of moderne identificaties.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "13-leeswijzer.svg",
+          "scene": "De twee beesten",
+          "kind": "diagram",
+          "source": "Openbaring 13:1–18"
+        },
+        {
+          "verse": 1,
+          "file": "13-beesten-vergelijking.svg",
+          "scene": "Twee beesten onderscheiden",
+          "kind": "diagram",
+          "source": "Openbaring 13:1–18"
+        }
+      ]
     }
   ]
 }
