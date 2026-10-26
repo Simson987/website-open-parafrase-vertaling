@@ -1,0 +1,383 @@
+{
+  "date": "2026-10-26",
+  "started": "2026-10-26T10:14:43Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "3ezra",
+      "chapter": 4,
+      "verse": 58,
+      "file": "4-58-zerubabel-dankt-verdieping.webp",
+      "scene": "Zerubabel dankt de hemelkoning",
+      "alt": "Zerubabel dankt de hemelkoning — 3 Ezra 4:58; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic biblical narrative, Achaemenid Persian period, ancient Near Eastern materials and architecture, landscape 3:2, natural light, coherent two arms and two legs per human, modest opaque period clothing. No Roman armor, modern objects, readable text, blood, injury or watermark. Zerubbabel, an adult Jewish man in modest Persian-period travel robes, has just left the royal palace and lifts his face in prayer and gratitude toward the distant direction of Jerusalem, holding a bundle of sealed royal letters against his chest with one hand, other hand lifted in thanks. Exactly two arms. Outdoor palace courtyard, no deity portrait, no written labels.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "3ezra",
+      "chapter": 5,
+      "verse": 63,
+      "file": "5-63-vreugde-en-huilen-verdieping.webp",
+      "scene": "Vreugde en huilen bij de bouw",
+      "alt": "Vreugde en huilen bij de bouw — 3 Ezra 5:63; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic biblical narrative, Achaemenid Persian period, ancient Near Eastern materials and architecture, landscape 3:2, natural light, coherent two arms and two legs per human, modest opaque period clothing. No Roman armor, modern objects, readable text, blood, injury or watermark. Achaemenid Persian period Jerusalem, newly laid foundation stones of the Second Temple, old Judean priests and family elders with grey beards weep quietly in the foreground because they remember the former temple, while younger fully clothed people and musicians with ancient trumpets rejoice in the middle distance. Distinct simultaneous sorrow and joy, not a completed temple, no modern instruments, coherent anatomy.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "3ezra",
+      "chapter": 6,
+      "verse": 23,
+      "file": "6-23-archief-ecbatana-verdieping.webp",
+      "scene": "Het bevel in Ecbatana gevonden",
+      "alt": "Het bevel in Ecbatana gevonden — 3 Ezra 6:23; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic biblical narrative, Achaemenid Persian period, ancient Near Eastern materials and architecture, landscape 3:2, natural light, coherent two arms and two legs per human, modest opaque period clothing. No Roman armor, modern objects, readable text, blood, injury or watermark. Achaemenid Persian royal archive at Ecbatana, two ancient scribes and one official carefully unroll an old royal document found in a wooden storage chest among parchment scrolls. Clay lamps, wooden shelves, stone and mudbrick interior, Persian-period garments and caps, natural window light, exactly two arms each, no legible writing, no modern bound books or office furniture.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "3ezra",
+      "chapter": 4,
+      "verse": 1,
+      "file": "4-leeswijzer.svg",
+      "scene": "De waarheid en de terugkeer",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "3 Ezra 4:1–63",
+      "design": {
+        "rows": [
+          [
+            "1–12 · Het tweede betoog",
+            "De jonge man verdedigt de macht van de koning."
+          ],
+          [
+            "13–41 · Zerubabel spreekt",
+            "Hij bespreekt vrouwen en besluit dat de waarheid alles overtreft."
+          ],
+          [
+            "42–57 · De belofte gevraagd",
+            "Darius geeft brieven, vrijheid, onderhoud en hulp voor de herbouw."
+          ],
+          [
+            "58–63 · Dank en feest",
+            "Zerubabel dankt; de broeders prijzen God en vieren zeven dagen feest."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "3ezra",
+      "chapter": 5,
+      "verse": 1,
+      "file": "5-leeswijzer.svg",
+      "scene": "Terugkeer, altaar en fundament",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "3 Ezra 5:1–74",
+      "design": {
+        "rows": [
+          [
+            "1–43 · De terugkerenden",
+            "Families, leiders, aantallen en controles van het geslachtsregister."
+          ],
+          [
+            "44–55 · Gaven en eredienst",
+            "Bijdragen, vestiging, het altaar en de offers vóór de tempel herbouwd is."
+          ],
+          [
+            "56–65 · Het fundament",
+            "De bouw begint; lof en vreugde klinken tegelijk met het huilen van ouderen."
+          ],
+          [
+            "66–74 · Tegenwerking",
+            "Een aanbod om mee te bouwen wordt geweigerd; de bouw wordt verhinderd."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "3ezra",
+      "chapter": 6,
+      "verse": 1,
+      "file": "6-leeswijzer.svg",
+      "scene": "Onderzoek en bouwsteun",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1098,
+      "source": "3 Ezra 6:1–34",
+      "design": {
+        "rows": [
+          [
+            "1–5 · Profetie en onderzoek",
+            "Haggai en Zacharia helpen; de landvoogden vragen wie opdracht gaf."
+          ],
+          [
+            "6–22 · Brief aan Darius",
+            "De oudsten verklaren de verwoesting, Cyrus’ bevel en het begonnen werk."
+          ],
+          [
+            "23–26 · Het archief",
+            "In Ecbatana wordt Cyrus’ geschreven bouwbevel gevonden."
+          ],
+          [
+            "27–34 · Darius beslist",
+            "Niet hinderen, maar helpen met bouwkosten en offers; het bevel moet worden nagekomen."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "3ezra",
+      "chapter": 4,
+      "verse": 33,
+      "file": "4-waarheid-argument.svg",
+      "scene": "Waarom de waarheid overwint",
+      "alt": "Waarom de waarheid overwint met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1134,
+      "source": "3 Ezra 4:33–41",
+      "design": {
+        "rows": [
+          [
+            "Schepping · vers 34–36",
+            "Aarde, hemel en zon worden groot genoemd, maar de waarheid is sterker."
+          ],
+          [
+            "Het contrast · vers 37",
+            "In wijn, koning, vrouwen en mensenkinderen is onrecht."
+          ],
+          [
+            "Blijvend · vers 38",
+            "De waarheid blijft, leeft en heerst voor altijd."
+          ],
+          [
+            "Rechtvaardig · vers 39–41",
+            "Geen aanzien des persoons of onrecht in haar oordeel; God van de waarheid wordt geprezen."
+          ]
+        ],
+        "note": "Dit ordent Zerubabels eigen betoog, inclusief zijn kritiek op alle genoemde menselijke groepen."
+      }
+    },
+    {
+      "book": "3ezra",
+      "chapter": 4,
+      "verse": 47,
+      "file": "4-darius-brieven.svg",
+      "scene": "Wat Darius laat schrijven",
+      "alt": "Wat Darius laat schrijven met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1141,
+      "source": "3 Ezra 4:47–57",
+      "design": {
+        "rows": [
+          [
+            "Geleide en cederhout",
+            "Bescherming voor de reizigers; hout van de Libanon voor de bouw."
+          ],
+          [
+            "Vrijheid en vrijstelling",
+            "Vrijheid voor terugkerenden en nakomelingen; het bewoonde land belastingvrij."
+          ],
+          [
+            "Jaarlijkse bijdragen",
+            "20 talenten voor de tempelbouw; daarnaast 10 talenten voor de offers."
+          ],
+          [
+            "Onderhoud en teruggave",
+            "Priesters, Levieten en bewakers krijgen onderhoud; het gerei wordt teruggestuurd."
+          ]
+        ],
+        "note": "De twee jaarlijkse bedragen hebben een verschillend doel en blijven apart."
+      }
+    },
+    {
+      "book": "3ezra",
+      "chapter": 5,
+      "verse": 26,
+      "file": "5-diensten-aantallen.svg",
+      "scene": "Groepen rond het heiligdom",
+      "alt": "Groepen rond het heiligdom met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 962,
+      "source": "3 Ezra 5:24–42",
+      "design": {
+        "rows": [
+          [
+            "Levieten · vers 26",
+            "74 uit de genoemde families."
+          ],
+          [
+            "Zonen van Asaf · vers 27",
+            "128 heilige zangers."
+          ],
+          [
+            "Poortwachters · vers 28",
+            "139 uit zes genoemde families."
+          ],
+          [
+            "Tempeldienst · vers 35",
+            "372 dienaren van het heiligdom en zonen van Salomo’s dienaren."
+          ]
+        ],
+        "note": "Dit zijn groepstotalen. Vers 42 noemt daarnaast 245 zangers en zangeressen; die categorie wordt niet samengevoegd met vers 27."
+      }
+    },
+    {
+      "book": "3ezra",
+      "chapter": 5,
+      "verse": 41,
+      "file": "5-mensen-dieren.svg",
+      "scene": "Mensen en lastdieren",
+      "alt": "Mensen en lastdieren met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1091,
+      "source": "3 Ezra 5:41–45",
+      "design": {
+        "rows": [
+          [
+            "De genoemde hoofdgroep",
+            "42.360 Israëlieten van twaalf jaar en ouder, zonder slaven en slavinnen."
+          ],
+          [
+            "Andere genoemde groepen",
+            "7337 knechten en dienstmeisjes; 245 zangers en zangeressen."
+          ],
+          [
+            "Dieren · vers 43",
+            "435 kamelen, 7036 paarden, 245 muildieren en 5525 ezels."
+          ],
+          [
+            "Bouwkas · vers 45",
+            "1000 talenten goud, 5000 talenten zilver en 100 priesterkleden."
+          ]
+        ],
+        "note": "Eigen aantallen van deze hoofdstuktekst; niet vervangen door aantallen uit een parallel verhaal."
+      }
+    },
+    {
+      "book": "3ezra",
+      "chapter": 5,
+      "verse": 37,
+      "file": "5-register-toelating.svg",
+      "scene": "Het geslachtsregister gezocht",
+      "alt": "Het geslachtsregister gezocht met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1091,
+      "source": "3 Ezra 5:37–40",
+      "design": {
+        "rows": [
+          [
+            "Herkomst niet aangetoond",
+            "Bij een groep terugkerenden kon familie en plaats niet worden bevestigd."
+          ],
+          [
+            "Ook onder de priesters",
+            "De families van Obdia, Akbos en Jaddu worden genoemd."
+          ],
+          [
+            "Het register ontbreekt",
+            "Zij worden uit het priesterambt geweerd."
+          ],
+          [
+            "Wachten op uitsluitsel",
+            "Geen deel aan de heilige dingen totdat de genoemde hogepriester opstaat."
+          ]
+        ],
+        "note": "Het schema beschrijft de toelatingsbeslissing in het verhaal en legt geen onbekende afstamming vast."
+      }
+    },
+    {
+      "book": "3ezra",
+      "chapter": 6,
+      "verse": 25,
+      "file": "6-bouwmaten.svg",
+      "scene": "Wat het bouwbevel bepaalt",
+      "alt": "Wat het bouwbevel bepaalt met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1098,
+      "source": "3 Ezra 6:24–31",
+      "design": {
+        "rows": [
+          [
+            "Maten · vers 25",
+            "Hoogte 60 el en breedte 60 el. De lengte wordt hier niet genoemd."
+          ],
+          [
+            "Constructie · vers 25",
+            "Drie lagen gehouwen stenen en één laag nieuw hout."
+          ],
+          [
+            "Betaling en teruggave",
+            "Kosten uit het huis van Cyrus; het heilige gouden en zilveren gerei terug."
+          ],
+          [
+            "Darius’ uitvoering · vers 29–31",
+            "Bijdragen uit regionale inkomsten voor offers en gebed voor koning en kinderen."
+          ]
+        ],
+        "note": "De twee maten zijn tekstgegevens; dit is geen volledige plattegrond of reconstructie."
+      }
+    },
+    {
+      "book": "3ezra",
+      "chapter": 5,
+      "verse": 5,
+      "file": "5-jozua-afstamming.svg",
+      "scene": "Jozua: genoemde afstamming",
+      "alt": "Jozua: genoemde afstamming — 3 Ezra 5:5",
+      "kind": "diagram",
+      "width": 840,
+      "height": 562,
+      "source": "3 Ezra 5:5",
+      "design": {
+        "type": "vertical named sequence",
+        "names": [
+          "Seraja",
+          "Josedek",
+          "Jozua"
+        ],
+        "note": "Deze drie namen zijn hier als opeenvolgende vader-zoonrelaties gegeven. Andere voorouders worden niet aangevuld."
+      }
+    },
+    {
+      "book": "3ezra",
+      "chapter": 5,
+      "verse": 5,
+      "file": "5-zerubabel-afstamming.svg",
+      "scene": "Zerubabel: vader en huis",
+      "alt": "Zerubabel: vader en huis — 3 Ezra 5:5–6",
+      "kind": "diagram",
+      "width": 840,
+      "height": 516,
+      "source": "3 Ezra 5:5–6",
+      "design": {
+        "type": "vertical named sequence",
+        "names": [
+          "Sealthiël",
+          "Zerubabel"
+        ],
+        "note": "De tekst noemt Zerubabel daarnaast uit het huis van David, het geslacht van Perez en de stam Juda. Dat zijn bredere afstammingsverbanden, geen drie extra directe vaders."
+      }
+    }
+  ]
+}
