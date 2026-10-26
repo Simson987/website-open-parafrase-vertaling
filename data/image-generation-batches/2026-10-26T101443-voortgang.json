@@ -11,6 +11,7 @@
     16,
     17,
     18,
+    19,
     2,
     3,
     4,
@@ -20,19 +21,19 @@
     8,
     9
   ],
-  "new_visuals": 216,
-  "new_asset_files": 216,
+  "new_visuals": 221,
+  "new_asset_files": 221,
   "replaced_baseline_images": 0,
-  "new_rasters": 51,
-  "new_schemas": 165,
-  "new_reviewed_chapters": 63,
-  "total_reviewed_chapters": 1238,
-  "total_images": 8473,
-  "metadata_corrections": 189,
+  "new_rasters": 52,
+  "new_schemas": 169,
+  "new_reviewed_chapters": 65,
+  "total_reviewed_chapters": 1240,
+  "total_images": 8478,
+  "metadata_corrections": 195,
   "verified": "local sources, visual anatomy and content review, SVG legibility and font bounds, SVG enlarge links, dimensions and decode, chapter plan targets, preservation of baseline work",
-  "finished": "2026-10-26T11:05:41.016952+00:00",
+  "finished": "2026-10-26T11:08:55.607485+00:00",
   "baseline": "62858d58ee1e5a57cddd02c5caccaa50bb3700d9",
-  "asset_commit": "4fc9a333c002b46dae759852f4ede8d70b958511",
+  "asset_commit": "36405595742f7bda5ea934f443240425d4ce9bdf",
   "ranges": [
     {
       "book": "openbaring",
@@ -57,25 +58,25 @@
     {
       "book": "judith",
       "first": 1,
-      "last": 10
+      "last": 12
     }
   ],
-  "remaining_chapters": 366,
+  "remaining_chapters": 364,
   "next_chapter": {
     "book": "judith",
-    "chapter": 11
+    "chapter": 13
   },
   "open_reviewed_targets": 0,
   "coverage": {
     "books": 88,
     "chapters": 1604,
-    "chapters_with_three_images": 393,
+    "chapters_with_three_images": 391,
     "chapters_with_at_least_three_images": 1604,
-    "chapters_with_more_than_three_images": 1211,
-    "images": 8473,
+    "chapters_with_more_than_three_images": 1213,
+    "images": 8478,
     "images_still_needed": 0,
-    "chapters_reviewed_for_expansion": 1238,
-    "reviewed_chapters_at_target": 1238,
+    "chapters_reviewed_for_expansion": 1240,
+    "reviewed_chapters_at_target": 1240,
     "additional_images_needed_for_reviewed_chapters": 0
   },
   "source_observations": [
