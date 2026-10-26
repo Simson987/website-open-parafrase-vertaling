@@ -31213,6 +31213,124 @@
           "source": "Filippenzen 3:4–11"
         }
       ]
+    },
+    {
+      "book": "kolossenzen",
+      "chapter": 1,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Gebed, schepping en vast geloof zijn aanwezig. Epafras’ concrete bericht krijgt een afzonderlijk beeld. Leeswijzer en het overzicht van Christus’ aanduidingen voegen structuur toe zonder nog een algemeen landschap.",
+      "additions": [
+        {
+          "verse": 8,
+          "file": "1-8-epafras-bericht-verdieping.webp",
+          "scene": "Epafras vertelt over de liefde",
+          "kind": "scene"
+        },
+        {
+          "verse": 1,
+          "file": "1-leeswijzer.svg",
+          "scene": "Christus en de verkondiging",
+          "kind": "diagram",
+          "source": "Kolossenzen 1:1–29"
+        },
+        {
+          "verse": 15,
+          "file": "1-christus-aanduidingen.svg",
+          "scene": "De genoemde aanduidingen",
+          "kind": "diagram",
+          "source": "Kolossenzen 1:15–20"
+        }
+      ]
+    },
+    {
+      "book": "kolossenzen",
+      "chapter": 4,
+      "status": "reviewed",
+      "target_images": 8,
+      "reason": "Reis, vriendelijke woorden en voorlezen zijn aanwezig. Het gebed van de bij name genoemde Epafras krijgt een apart beeld. Vier native aanvullingen ordenen hoofdstuk, twee boodschappers, groeters en brievenuitwisseling; namen en rollen volgen exact de lokale tekst.",
+      "additions": [
+        {
+          "verse": 12,
+          "file": "4-12-epafras-bidt-verdieping.webp",
+          "scene": "Epafras bidt voor de gemeenten",
+          "kind": "scene"
+        },
+        {
+          "verse": 1,
+          "file": "4-leeswijzer.svg",
+          "scene": "Gebed, woorden en groeten",
+          "kind": "diagram",
+          "source": "Kolossenzen 4:1–18"
+        },
+        {
+          "verse": 7,
+          "file": "4-boodschappers.svg",
+          "scene": "De twee boodschappers",
+          "kind": "diagram",
+          "source": "Kolossenzen 4:7–9"
+        },
+        {
+          "verse": 10,
+          "file": "4-mensen-groeten.svg",
+          "scene": "Enkele mensen in de groeten",
+          "kind": "diagram",
+          "source": "Kolossenzen 4:10–15"
+        },
+        {
+          "verse": 16,
+          "file": "4-brieven-uitwisseling.svg",
+          "scene": "De brieven laten voorlezen",
+          "kind": "diagram",
+          "source": "Kolossenzen 4:16–18"
+        }
+      ]
+    },
+    {
+      "book": "kolossenzen",
+      "chapter": 2,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Liefde, wortels en doop zijn aanwezig. Leeswijzer en het schema van doop, vergeving, schuldbrief en overwinning verduidelijken de samenhang; geen letterlijke engelenstrijd of nieuwe doopfoto nodig.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "2-leeswijzer.svg",
+          "scene": "Geworteld en vrij in Christus",
+          "kind": "diagram",
+          "source": "Kolossenzen 2:1–23"
+        },
+        {
+          "verse": 12,
+          "file": "2-vergeving-schuldbrief.svg",
+          "scene": "Doop, vergeving en overwinning",
+          "kind": "diagram",
+          "source": "Kolossenzen 2:11–15"
+        }
+      ]
+    },
+    {
+      "book": "kolossenzen",
+      "chapter": 3,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Medeleven, zingen en arbeid zijn aanwezig. Leeswijzer en het contrast afleggen/aantrekken maken de kledingmetafoor en de genoemde eigenschappen expliciet; de concrete deugden worden leesbaar vastgelegd.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "3-leeswijzer.svg",
+          "scene": "Een nieuw leven aantrekken",
+          "kind": "diagram",
+          "source": "Kolossenzen 3:1–25"
+        },
+        {
+          "verse": 8,
+          "file": "3-afleggen-aantrekken.svg",
+          "scene": "Afleggen en aantrekken",
+          "kind": "diagram",
+          "source": "Kolossenzen 3:8–15"
+        }
+      ]
     }
   ]
 }

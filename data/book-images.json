@@ -41809,82 +41809,241 @@
         "chapter": 1,
         "file": "1-prayer.webp",
         "alt": "Een kleine gemeenschap bidt samen in een huis",
-        "scene": "Gebed voor Kolosse"
+        "scene": "Gebed voor Kolosse",
+        "verse": 3,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 3,
         "file": "3-kindness.webp",
         "alt": "Een vrouw deelt brood met een buur",
-        "scene": "Bekleed je met medeleven"
+        "scene": "Bekleed je met medeleven",
+        "verse": 12,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 4,
         "file": "4-messenger.webp",
         "alt": "Een boodschapper met een briefrol nadert een stad",
-        "scene": "De brief wordt gebracht"
+        "scene": "De brief wordt gebracht",
+        "verse": 7,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 1,
         "verse": 16,
         "file": "1-16.webp",
         "alt": "Beeld bij Kolossenzen 1: Alles door Hem geschapen",
-        "scene": "Alles door Hem geschapen"
+        "scene": "Alles door Hem geschapen",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 1,
         "verse": 23,
         "file": "1-23.webp",
         "alt": "Beeld bij Kolossenzen 1: Gegrond en vast in geloof",
-        "scene": "Gegrond en vast in geloof"
+        "scene": "Gegrond en vast in geloof",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 2,
         "verse": 2,
         "file": "2-2.webp",
         "alt": "Beeld bij Kolossenzen 2: Samengevoegd in liefde",
-        "scene": "Samengevoegd in liefde"
+        "scene": "Samengevoegd in liefde",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 2,
         "verse": 7,
         "file": "2-7.webp",
         "alt": "Beeld bij Kolossenzen 2: Geworteld en opgebouwd",
-        "scene": "Geworteld en opgebouwd"
+        "scene": "Geworteld en opgebouwd",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 2,
         "verse": 12,
         "file": "2-12.webp",
         "alt": "Beeld bij Kolossenzen 2: Met Hem opgewekt in de doop",
-        "scene": "Met Hem opgewekt in de doop"
+        "scene": "Met Hem opgewekt in de doop",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 3,
         "verse": 16,
         "file": "3-16.webp",
         "alt": "Beeld bij Kolossenzen 3: Samen zingen met dank",
-        "scene": "Samen zingen met dank"
+        "scene": "Samen zingen met dank",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 3,
         "verse": 23,
         "file": "3-23.webp",
         "alt": "Beeld bij Kolossenzen 3: Van harte werken",
-        "scene": "Van harte werken"
+        "scene": "Van harte werken",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 4,
         "verse": 6,
         "file": "4-6.webp",
         "alt": "Beeld bij Kolossenzen 4: Vriendelijke woorden",
-        "scene": "Vriendelijke woorden"
+        "scene": "Vriendelijke woorden",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 4,
         "verse": 16,
         "file": "4-16.webp",
         "alt": "Beeld bij Kolossenzen 4: De brief wordt voorgelezen",
-        "scene": "De brief wordt voorgelezen"
+        "scene": "De brief wordt voorgelezen",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 1,
+        "verse": 8,
+        "file": "1-8-epafras-bericht-verdieping.webp",
+        "scene": "Epafras vertelt over de liefde",
+        "alt": "Epafras vertelt over de liefde — Kolossenzen 1:8; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 4,
+        "verse": 12,
+        "file": "4-12-epafras-bidt-verdieping.webp",
+        "scene": "Epafras bidt voor de gemeenten",
+        "alt": "Epafras bidt voor de gemeenten — Kolossenzen 4:12; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 1,
+        "verse": 1,
+        "file": "1-leeswijzer.svg",
+        "scene": "Christus en de verkondiging",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1055
+      },
+      {
+        "chapter": 2,
+        "verse": 1,
+        "file": "2-leeswijzer.svg",
+        "scene": "Geworteld en vrij in Christus",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1055
+      },
+      {
+        "chapter": 3,
+        "verse": 1,
+        "file": "3-leeswijzer.svg",
+        "scene": "Een nieuw leven aantrekken",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1055
+      },
+      {
+        "chapter": 4,
+        "verse": 1,
+        "file": "4-leeswijzer.svg",
+        "scene": "Gebed, woorden en groeten",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1055
+      },
+      {
+        "chapter": 1,
+        "verse": 15,
+        "file": "1-christus-aanduidingen.svg",
+        "scene": "De genoemde aanduidingen",
+        "alt": "De genoemde aanduidingen met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1055
+      },
+      {
+        "chapter": 2,
+        "verse": 12,
+        "file": "2-vergeving-schuldbrief.svg",
+        "scene": "Doop, vergeving en overwinning",
+        "alt": "Doop, vergeving en overwinning met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1005
+      },
+      {
+        "chapter": 3,
+        "verse": 8,
+        "file": "3-afleggen-aantrekken.svg",
+        "scene": "Afleggen en aantrekken",
+        "alt": "Afleggen en aantrekken met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1012
+      },
+      {
+        "chapter": 4,
+        "verse": 7,
+        "file": "4-boodschappers.svg",
+        "scene": "De twee boodschappers",
+        "alt": "De twee boodschappers met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1055
+      },
+      {
+        "chapter": 4,
+        "verse": 10,
+        "file": "4-mensen-groeten.svg",
+        "scene": "Enkele mensen in de groeten",
+        "alt": "Enkele mensen in de groeten met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1055
+      },
+      {
+        "chapter": 4,
+        "verse": 16,
+        "file": "4-brieven-uitwisseling.svg",
+        "scene": "De brieven laten voorlezen",
+        "alt": "De brieven laten voorlezen met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1012
       }
     ],
     "jakobus": [

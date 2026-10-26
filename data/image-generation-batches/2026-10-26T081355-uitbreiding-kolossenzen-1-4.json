@@ -1,0 +1,363 @@
+{
+  "date": "2026-10-26",
+  "started": "2026-10-26T08:13:55Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "kolossenzen",
+      "chapter": 1,
+      "verse": 8,
+      "file": "1-8-epafras-bericht-verdieping.webp",
+      "scene": "Epafras vertelt over de liefde",
+      "alt": "Epafras vertelt over de liefde — Kolossenzen 1:8; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. Colossians 1:7–8: Epaphras has told Paul about the Colossian believers’ love in the Spirit. Exactly two adult men, an ordinary travelling Epaphras seated with Paul in a modest first-century room. Epaphras speaks warmly and Paul listens with gratitude, simple open hands and a small travel bag set aside. No crowd from Colossae meeting Paul, no invented readable letter or exact location. Modest opaque robes, natural two arms each; no claim to exact portraits.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "kolossenzen",
+      "chapter": 4,
+      "verse": 12,
+      "file": "4-12-epafras-bidt-verdieping.webp",
+      "scene": "Epafras bidt voor de gemeenten",
+      "alt": "Epafras bidt voor de gemeenten — Kolossenzen 4:12; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of an explicit biblical comparison or event, first-century Roman Judea and Galilee, landscape 3:2, natural materials and daylight, anatomically coherent people with exactly two arms and animals with correct limbs; fully covering modest opaque robes. No modern objects, readable writing, portrait of God the Father, blood, injury or watermark. Colossians 4:12–13 describes Epaphras persistently praying for the believers in Colossae, Laodicea and Hierapolis, to stand mature in God’s will. One adult Epaphras prays earnestly alone in a simple first-century household room, fully covering plain robes, exactly two arms with hands gently clasped. Quiet concentration, not a literal wrestling match. No God portrait, physical combat, visible supernatural body or readable writing. A dignified illustration of the named person’s prayer, not an anonymous group meal.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "kolossenzen",
+      "chapter": 1,
+      "verse": 1,
+      "file": "1-leeswijzer.svg",
+      "scene": "Christus en de verkondiging",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "Kolossenzen 1:1–29",
+      "design": {
+        "rows": [
+          [
+            "1–8 · Groet en dank",
+            "Geloof, liefde, hoop en het bericht van Epafras."
+          ],
+          [
+            "9–14 · Gebed en verlossing",
+            "Kennis, vrucht, kracht en delen in de erfenis."
+          ],
+          [
+            "15–23 · Christus en verzoening",
+            "Beeld, Schepper, Hoofd en vrede door het kruis."
+          ],
+          [
+            "24–29 · Paulus’ dienst",
+            "Het geheim bekendmaken en ieder volwassen maken in Christus."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "kolossenzen",
+      "chapter": 2,
+      "verse": 1,
+      "file": "2-leeswijzer.svg",
+      "scene": "Geworteld en vrij in Christus",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "Kolossenzen 2:1–23",
+      "design": {
+        "rows": [
+          [
+            "1–7 · Bemoedigd en vast",
+            "Samengevoegd in liefde, geworteld in Christus."
+          ],
+          [
+            "8–15 · De volheid in Hem",
+            "Doop, vergeving, schuldbrief en ontwapende machten."
+          ],
+          [
+            "16–19 · Oordeel en het Hoofd",
+            "Eten, dagen en engelenverering tegenover vasthouden aan Christus."
+          ],
+          [
+            "20–23 · Menselijke regels",
+            "De grondregels en hun schijn van wijsheid."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "kolossenzen",
+      "chapter": 3,
+      "verse": 1,
+      "file": "3-leeswijzer.svg",
+      "scene": "Een nieuw leven aantrekken",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "Kolossenzen 3:1–25",
+      "design": {
+        "rows": [
+          [
+            "1–4 · Zoek wat boven is",
+            "Het verborgen leven met Christus en Zijn verschijning."
+          ],
+          [
+            "5–11 · Het oude afleggen",
+            "Oude daden en taal; vernieuwd naar het beeld van de Schepper."
+          ],
+          [
+            "12–17 · Bekleed met het goede",
+            "Barmhartigheid, vergeving, liefde, vrede en dank."
+          ],
+          [
+            "18–25 · De onderlinge omgang",
+            "Huishoudgroepen en van harte dienen voor de Heere."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "kolossenzen",
+      "chapter": 4,
+      "verse": 1,
+      "file": "4-leeswijzer.svg",
+      "scene": "Gebed, woorden en groeten",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "Kolossenzen 4:1–18",
+      "design": {
+        "rows": [
+          [
+            "1–6 · Recht, gebed en wijsheid",
+            "Eerlijk handelen, volhouden en vriendelijke antwoorden."
+          ],
+          [
+            "7–9 · Twee boodschappers",
+            "Tychikus en Onesimus komen met het bericht."
+          ],
+          [
+            "10–15 · De groeten",
+            "Medewerkers en de gemeenten in de omgeving."
+          ],
+          [
+            "16–18 · Lezen en dienen",
+            "Brieven uitwisselen, Archippus’ opdracht en Paulus’ eigen groet."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "kolossenzen",
+      "chapter": 1,
+      "verse": 15,
+      "file": "1-christus-aanduidingen.svg",
+      "scene": "De genoemde aanduidingen",
+      "alt": "De genoemde aanduidingen met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "Kolossenzen 1:15–20",
+      "design": {
+        "rows": [
+          [
+            "Beeld en eerstgeborene",
+            "Beeld van de onzichtbare God; eerstgeborene van de schepping."
+          ],
+          [
+            "Door Hem en voor Hem",
+            "Alles is geschapen; alles bestaat samen in Hem."
+          ],
+          [
+            "Hoofd en begin",
+            "Hoofd van het lichaam en eerstgeborene uit de doden."
+          ],
+          [
+            "Volheid en verzoening",
+            "Volheid in Hem; vrede door het bloed van Zijn kruis."
+          ]
+        ],
+        "note": "Paulus verbindt deze aanduidingen met Christus’ plaats in schepping en verzoening."
+      }
+    },
+    {
+      "book": "kolossenzen",
+      "chapter": 2,
+      "verse": 12,
+      "file": "2-vergeving-schuldbrief.svg",
+      "scene": "Doop, vergeving en overwinning",
+      "alt": "Doop, vergeving en overwinning met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1005,
+      "source": "Kolossenzen 2:11–15",
+      "design": {
+        "rows": [
+          [
+            "Met Christus · vers 11–12",
+            "Besneden zonder mensenhanden, begraven en opgewekt in de doop."
+          ],
+          [
+            "Levend gemaakt · vers 13",
+            "Alle overtredingen vergeven."
+          ],
+          [
+            "De schuldbrief · vers 14",
+            "Uitgewist, weggenomen en aan het kruis genageld."
+          ],
+          [
+            "De machten · vers 15",
+            "Ontwapend en in Christus overwonnen."
+          ]
+        ],
+        "note": "De schuldbrief en de overwinningsbeelden verklaren het betoog; er is geen nieuwe militaire veldslag beschreven."
+      }
+    },
+    {
+      "book": "kolossenzen",
+      "chapter": 3,
+      "verse": 8,
+      "file": "3-afleggen-aantrekken.svg",
+      "scene": "Afleggen en aantrekken",
+      "alt": "Afleggen en aantrekken met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1012,
+      "source": "Kolossenzen 3:8–15",
+      "design": {
+        "rows": [
+          [
+            "Afleggen · vers 8–9",
+            "Drift, woede, kwaadaardigheid, laster, vuile taal en leugen."
+          ],
+          [
+            "Aantrekken · vers 12",
+            "Barmhartigheid, goedheid, nederigheid, zachtmoedigheid en geduld."
+          ],
+          [
+            "Elkaar · vers 13",
+            "Verdragen en vergeven zoals Christus vergeven heeft."
+          ],
+          [
+            "Boven alles · vers 14–15",
+            "Liefde als band; vrede en dankbaarheid."
+          ]
+        ],
+        "note": "De kleding is een vergelijking voor de oude en de nieuwe levenswijze."
+      }
+    },
+    {
+      "book": "kolossenzen",
+      "chapter": 4,
+      "verse": 7,
+      "file": "4-boodschappers.svg",
+      "scene": "De twee boodschappers",
+      "alt": "De twee boodschappers met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "Kolossenzen 4:7–9",
+      "design": {
+        "rows": [
+          [
+            "Tychikus",
+            "Geliefde broeder, trouwe dienaar en mededienaar."
+          ],
+          [
+            "Zijn opdracht",
+            "Vertellen en bemoedigen; weten hoe het met de gemeente gaat."
+          ],
+          [
+            "Onesimus",
+            "Trouwe en geliefde broeder; een van de Kolossenzen."
+          ],
+          [
+            "Samen",
+            "Zij zullen vertellen wat bij Paulus gebeurt."
+          ]
+        ],
+        "note": "Tychikus en Onesimus komen samen met het bericht over Paulus."
+      }
+    },
+    {
+      "book": "kolossenzen",
+      "chapter": 4,
+      "verse": 10,
+      "file": "4-mensen-groeten.svg",
+      "scene": "Enkele mensen in de groeten",
+      "alt": "Enkele mensen in de groeten met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "Kolossenzen 4:10–15",
+      "design": {
+        "rows": [
+          [
+            "Aristarchus, Markus en Justus",
+            "Medegevangene; neef van Barnabas; Jezus die Justus heet."
+          ],
+          [
+            "Epafras",
+            "Bidt voor Kolosse en zet zich ook voor Laodicea en Hiërapolis in."
+          ],
+          [
+            "Lukas en Demas",
+            "De geliefde arts en de andere genoemde groeter."
+          ],
+          [
+            "Nymfas",
+            "Bij hem thuis komt een gemeenschap samen, volgens deze plaatselijke tekst."
+          ]
+        ],
+        "note": "Deze personen worden in de slotgroeten bij naam genoemd."
+      }
+    },
+    {
+      "book": "kolossenzen",
+      "chapter": 4,
+      "verse": 16,
+      "file": "4-brieven-uitwisseling.svg",
+      "scene": "De brieven laten voorlezen",
+      "alt": "De brieven laten voorlezen met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1012,
+      "source": "Kolossenzen 4:16–18",
+      "design": {
+        "rows": [
+          [
+            "Deze brief",
+            "Eerst bij jullie voorgelezen en ook in Laodicea laten lezen."
+          ],
+          [
+            "De brief uit Laodicea",
+            "Ook zelf lezen."
+          ],
+          [
+            "Archippus",
+            "De ontvangen dienst in de Heere afmaken."
+          ],
+          [
+            "Paulus",
+            "Schrijft de groet zelf en vraagt aan zijn boeien te denken."
+          ]
+        ],
+        "note": "De tekst noemt de andere brief zonder die nader te identificeren."
+      }
+    }
+  ]
+}
