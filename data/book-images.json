@@ -42742,42 +42742,60 @@
         "verse": 1,
         "file": "4-1.webp",
         "alt": "Beeld bij Openbaring 4: Een geopende deur in de hemel",
-        "scene": "Een geopende deur in de hemel"
+        "scene": "Een geopende deur in de hemel",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 4,
         "verse": 5,
         "file": "4-5.webp",
         "alt": "Beeld bij Openbaring 4: Zeven vurige lampen",
-        "scene": "Zeven vurige lampen"
+        "scene": "Zeven vurige lampen",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 4,
         "verse": 11,
         "file": "4-11.webp",
         "alt": "Beeld bij Openbaring 4: U hebt alles geschapen",
-        "scene": "U hebt alles geschapen"
+        "scene": "U hebt alles geschapen",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 5,
         "verse": 1,
         "file": "5-1.webp",
         "alt": "Beeld bij Openbaring 5: Een boekrol met zeven zegels",
-        "scene": "Een boekrol met zeven zegels"
+        "scene": "Een boekrol met zeven zegels",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 5,
         "verse": 5,
         "file": "5-5.webp",
         "alt": "Beeld bij Openbaring 5: Huil niet",
-        "scene": "Huil niet"
+        "scene": "Huil niet",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 5,
         "verse": 8,
         "file": "5-8.webp",
         "alt": "Beeld bij Openbaring 5: Reukwerk als gebeden",
-        "scene": "Reukwerk als gebeden"
+        "scene": "Reukwerk als gebeden",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 6,
@@ -43278,6 +43296,66 @@
         "kind": "diagram",
         "width": 840,
         "height": 848
+      },
+      {
+        "chapter": 4,
+        "verse": 1,
+        "file": "4-leeswijzer.svg",
+        "scene": "De troon en de aanbidding",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 863
+      },
+      {
+        "chapter": 5,
+        "verse": 1,
+        "file": "5-leeswijzer.svg",
+        "scene": "De boekrol en het waardige Lam",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1055
+      },
+      {
+        "chapter": 4,
+        "verse": 7,
+        "file": "4-vier-wezens.svg",
+        "scene": "De vier levende wezens",
+        "alt": "De vier levende wezens met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1075
+      },
+      {
+        "chapter": 5,
+        "verse": 5,
+        "file": "5-leeuw-lam.svg",
+        "scene": "Leeuw, wortel en Lam",
+        "alt": "Leeuw, wortel en Lam met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1055
+      },
+      {
+        "chapter": 5,
+        "verse": 8,
+        "file": "5-aanbidding.svg",
+        "scene": "Wie prijzen, en waarom?",
+        "alt": "Wie prijzen, en waarom? met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1055
+      },
+      {
+        "chapter": 4,
+        "verse": 4,
+        "file": "4-troon-omgeving.svg",
+        "scene": "Rond de troon",
+        "alt": "Rond de troon — Openbaring 4:4–8",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1040
       }
     ],
     "esther": [
