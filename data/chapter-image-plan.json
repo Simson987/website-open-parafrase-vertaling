@@ -34936,6 +34936,72 @@
           "source": "Tobit 10:1–13"
         }
       ]
+    },
+    {
+      "book": "tobit",
+      "chapter": 14,
+      "status": "reviewed",
+      "target_images": 7,
+      "reason": "Geven, stadshoop en laatste raad zijn aanwezig. Het uiteindelijke vertrek van Tobias, Sara en hun zes zonen naar Ecbatana is een aparte ontbrekende gebeurtenis. Schema’s houden leefregels en leeftijden van Tobit en Tobias uit elkaar.",
+      "additions": [
+        {
+          "verse": 14,
+          "file": "14-14-naar-ecbatana-verdieping.webp",
+          "scene": "Tobias vertrekt naar Ecbatana",
+          "kind": "scene"
+        },
+        {
+          "verse": 1,
+          "file": "14-leeswijzer.svg",
+          "scene": "Laatste raad en vertrek",
+          "kind": "diagram",
+          "source": "Tobit 14:1–17"
+        },
+        {
+          "verse": 2,
+          "file": "14-leeftijden.svg",
+          "scene": "Leeftijden in het slot",
+          "kind": "diagram",
+          "source": "Tobit 14:2–16"
+        },
+        {
+          "verse": 6,
+          "file": "14-laatste-raad.svg",
+          "scene": "Wat Tobit wil meegeven",
+          "kind": "diagram",
+          "source": "Tobit 14:6–12"
+        }
+      ]
+    },
+    {
+      "book": "tobit",
+      "chapter": 13,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Schrijven, openlijk danken en volken met gaven dekken de handelingen van het lied. Leeswijzer, lofstructuur en een exact materiaaloverzicht verdiepen de poëtische stad zonder een tweede generieke stadfoto.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "13-leeswijzer.svg",
+          "scene": "Een danklied voor herstel",
+          "kind": "diagram",
+          "source": "Tobit 13:1–21"
+        },
+        {
+          "verse": 2,
+          "file": "13-danklied-beweging.svg",
+          "scene": "De beweging van het danklied",
+          "kind": "diagram",
+          "source": "Tobit 13:2–17"
+        },
+        {
+          "verse": 18,
+          "file": "13-materialen-stad.svg",
+          "scene": "Materialen in het stadslied",
+          "kind": "diagram",
+          "source": "Tobit 13:18–20"
+        }
+      ]
     }
   ]
 }

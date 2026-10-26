@@ -1,0 +1,215 @@
+{
+  "date": "2026-10-26",
+  "started": "2026-10-26T10:14:43Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "tobit",
+      "chapter": 14,
+      "verse": 14,
+      "file": "14-14-naar-ecbatana-verdieping.webp",
+      "scene": "Tobias vertrekt naar Ecbatana",
+      "alt": "Tobias vertrekt naar Ecbatana — Tobit 14:14; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic biblical narrative in ancient Assyrian-period Jewish communities and Media, natural materials and light, landscape 3:2, fully modest opaque robes, coherent anatomy and two arms per human. No modern objects, readable writing, blood, injury or watermark. Wide biblical narrative caravan on the ancient road from Nineveh toward Media, after the deaths of Tobit and Anna. Exactly EIGHT human adults: elderly Tobias and his elderly wife Sara walk at the front; their SIX adult sons walk clearly behind them in a loose procession, all seven men visibly distinct from the one woman. Modest opaque travel robes, simple bundles and one pack donkey, no extra background people. Natural anatomy, no map labels or modern roads.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "tobit",
+      "chapter": 13,
+      "verse": 1,
+      "file": "13-leeswijzer.svg",
+      "scene": "Een danklied voor herstel",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 863,
+      "source": "Tobit 13:1–21",
+      "design": {
+        "rows": [
+          [
+            "1–9 · Prijs God onder de volken",
+            "Tobit prijst Gods eeuwige koninkrijk, ontferming en de terugkeer naar Hem."
+          ],
+          [
+            "10–17 · Jeruzalem aangesproken",
+            "De heilige stad zal opnieuw vreugde kennen; volken komen met gaven."
+          ],
+          [
+            "18–21 · De kostbare stad",
+            "Stenen, goud en lofliederen verbeelden haar luister."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "tobit",
+      "chapter": 14,
+      "verse": 1,
+      "file": "14-leeswijzer.svg",
+      "scene": "Laatste raad en vertrek",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "Tobit 14:1–17",
+      "design": {
+        "rows": [
+          [
+            "1–5 · Na het herstel",
+            "Tobit blijft geven, God vrezen en Hem openlijk belijden."
+          ],
+          [
+            "6–12 · Raad aan de familie",
+            "Vertrek naar Medië, hoop op herstel en leef rechtvaardig en barmhartig."
+          ],
+          [
+            "13–15 · Begraven en verhuizen",
+            "Tobit en Anna begraven; Tobias met gezin naar Raguël in Ecbatana."
+          ],
+          [
+            "16–17 · Het einde",
+            "Tobias sterft op hoge leeftijd nadat hij nog van Nineves val gehoord heeft."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "tobit",
+      "chapter": 13,
+      "verse": 2,
+      "file": "13-danklied-beweging.svg",
+      "scene": "De beweging van het danklied",
+      "alt": "De beweging van het danklied met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1091,
+      "source": "Tobit 13:2–17",
+      "design": {
+        "rows": [
+          [
+            "Gods handelen",
+            "Hij straft en ontfermt Zich; brengt neer en weer omhoog."
+          ],
+          [
+            "Het antwoord van Israël",
+            "Dank Hem onder de volken en keer oprecht naar Hem terug."
+          ],
+          [
+            "De stad hersteld",
+            "Gevangenen en ellendigen ontvangen vreugde en liefde."
+          ],
+          [
+            "De volken komen",
+            "Van ver brengen zij gaven en prijzen de Koning van de hemel."
+          ]
+        ],
+        "note": "Lof en verwachting in Tobits lied; de stadspracht is geen verslag van een reeds voltooide bouw."
+      }
+    },
+    {
+      "book": "tobit",
+      "chapter": 13,
+      "verse": 18,
+      "file": "13-materialen-stad.svg",
+      "scene": "Materialen in het stadslied",
+      "alt": "Materialen in het stadslied met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 962,
+      "source": "Tobit 13:18–20",
+      "design": {
+        "rows": [
+          [
+            "Gebouwd · vers 18",
+            "Saffier, smaragd en kostbare stenen."
+          ],
+          [
+            "Muren, torens en bolwerken",
+            "Zuiver goud."
+          ],
+          [
+            "Straten · vers 20",
+            "Beril, karbonkel en stenen uit Ofir."
+          ],
+          [
+            "Wat de wijken zeggen",
+            "Halleluja; de stad klinkt van lofliederen."
+          ]
+        ],
+        "note": "Eigen materiaalnamen van dit lied. De twaalf fundamentstenen uit Openbaring worden hier niet ingevoegd."
+      }
+    },
+    {
+      "book": "tobit",
+      "chapter": 14,
+      "verse": 2,
+      "file": "14-leeftijden.svg",
+      "scene": "Leeftijden in het slot",
+      "alt": "Leeftijden in het slot met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 926,
+      "source": "Tobit 14:2–16",
+      "design": {
+        "rows": [
+          [
+            "Blind geworden · vers 2",
+            "Tobit is 58 jaar."
+          ],
+          [
+            "Weer zien · vers 3",
+            "Na acht jaar; de tekst noemt de duur van de blindheid."
+          ],
+          [
+            "Tobits overlijden · vers 13",
+            "158 jaar."
+          ],
+          [
+            "Tobias’ overlijden · vers 16",
+            "127 jaar, in Ecbatana in Medië."
+          ]
+        ],
+        "note": "Tobit en Tobias zijn twee verschillende personen; hun leeftijden worden niet verwisseld."
+      }
+    },
+    {
+      "book": "tobit",
+      "chapter": 14,
+      "verse": 6,
+      "file": "14-laatste-raad.svg",
+      "scene": "Wat Tobit wil meegeven",
+      "alt": "Wat Tobit wil meegeven met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1098,
+      "source": "Tobit 14:6–12",
+      "design": {
+        "rows": [
+          [
+            "Familie",
+            "Tobias moet zijn zes zonen meenemen en naar Medië vertrekken."
+          ],
+          [
+            "Verwachting",
+            "Nineve zal vallen; Jeruzalem krijgt na oordeel ook herstel."
+          ],
+          [
+            "Leefwijze",
+            "Bewaar wet en geboden, heb barmhartigheid lief en wees rechtvaardig."
+          ],
+          [
+            "Ouders",
+            "Begraaf Tobit met eer en Anna naast hem."
+          ]
+        ],
+        "note": "Dit is Tobits raad vóór zijn overlijden; vertrek volgt pas na het begraven van beide ouders."
+      }
+    }
+  ]
+}
