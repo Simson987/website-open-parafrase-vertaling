@@ -1,0 +1,111 @@
+{
+  "started": "2026-10-26T11:17:18Z",
+  "batches": [
+    1,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "new_visuals": 150,
+  "new_asset_files": 150,
+  "replaced_baseline_images": 0,
+  "new_rasters": 45,
+  "new_schemas": 105,
+  "new_reviewed_chapters": 76,
+  "total_reviewed_chapters": 1316,
+  "total_images": 8628,
+  "metadata_corrections": 228,
+  "verified": "local sources, visual anatomy and content review, SVG legibility and font bounds, SVG enlarge links, dimensions and decode, chapter plan targets, preservation of baseline work",
+  "finished": "2026-10-26T12:13:24.579024+00:00",
+  "baseline": "ea795bc85c71a7abeff252961fb847351e7d3fa6",
+  "asset_commit": "587a5cde8b12a0f860fb7306a885afefc82d0fc0",
+  "ranges": [
+    {
+      "book": "judith",
+      "first": 13,
+      "last": 16
+    },
+    {
+      "book": "boekderwijsheid",
+      "first": 1,
+      "last": 19
+    },
+    {
+      "book": "jezussirach",
+      "first": 1,
+      "last": 51
+    },
+    {
+      "book": "baruch",
+      "first": 1,
+      "last": 2
+    }
+  ],
+  "remaining_chapters": 288,
+  "next_chapter": {
+    "book": "baruch",
+    "chapter": 3
+  },
+  "open_reviewed_targets": 0,
+  "coverage": {
+    "books": 88,
+    "chapters": 1604,
+    "chapters_with_three_images": 320,
+    "chapters_with_at_least_three_images": 1604,
+    "chapters_with_more_than_three_images": 1284,
+    "images": 8628,
+    "images_still_needed": 0,
+    "chapters_reviewed_for_expansion": 1316,
+    "reviewed_chapters_at_target": 1316,
+    "additional_images_needed_for_reviewed_chapters": 0
+  },
+  "source_observations": [
+    {
+      "reference": "Jezus Sirach 24",
+      "observation": "De plaatselijke riviervergelijkingen zijn als vergelijkingen weergegeven; de plaatselijke woordkeuze onyx is behouden."
+    },
+    {
+      "reference": "Jezus Sirach 29",
+      "observation": "De rollen van lener, uitlener en borg zijn in het verbandenschema onderscheiden."
+    },
+    {
+      "reference": "Jezus Sirach 44–50",
+      "observation": "Historische herinneringen zijn als scènes geregistreerd; reukwerkvergelijking en Elia’s vurig spreken blijven poëtische illustraties."
+    },
+    {
+      "reference": "Baruch 1:1,8",
+      "observation": "De naamreeks van Baruch is exact overgenomen; zijn voorouder Zedekia is niet met de gelijknamige koning vereenzelvigd."
+    },
+    {
+      "reference": "Baruch 1:14; 2:34–35",
+      "observation": "De verzochte voorlezing en de beloofde terugkeer worden onderscheiden van reeds verhaalde gebeurtenissen."
+    }
+  ],
+  "generation_errors": [],
+  "qa": [
+    "Volledige lokale hoofdstukteksten gelezen en bestaande beelden bekeken",
+    "Alle 45 nieuwe rasters gecontroleerd op inhoud en anatomie",
+    "Alle 105 SVG-ontwerpen gerenderd, bekeken en op tekstgrenzen gecontroleerd",
+    "Afmetingen, versankers, unieke bestanden, beelddecodering en SVG-veiligheid gecontroleerd",
+    "Vergrootlinks in gegenereerde hoofdstukpagina’s gecontroleerd",
+    "Sitebuild en dekkingsteller geslaagd",
+    "Basisbestanden en eerdere planning behouden behalve vastgelegde metadatacorrecties"
+  ],
+  "automation": "ACTIVE: inhoudelijk werk is nog niet voltooid",
+  "push_target": "Simson987/website-open-parafrase-vertaling:codex/three-images-per-chapter",
+  "pull_request": "https://github.com/William-Carey-Missions/website-open-parafrase-vertaling/pull/3"
+}
