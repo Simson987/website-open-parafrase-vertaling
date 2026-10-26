@@ -42832,21 +42832,30 @@
         "verse": 1,
         "file": "7-1.webp",
         "alt": "Beeld bij Openbaring 7: Vier engelen houden de winden tegen",
-        "scene": "Vier engelen houden de winden tegen"
+        "scene": "Vier engelen houden de winden tegen",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 7,
         "verse": 9,
         "file": "7-9.webp",
         "alt": "Beeld bij Openbaring 7: Een menigte met palmtakken",
-        "scene": "Een menigte met palmtakken"
+        "scene": "Een menigte met palmtakken",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 7,
         "verse": 17,
         "file": "7-17.webp",
         "alt": "Beeld bij Openbaring 7: Bronnen van levend water",
-        "scene": "Bronnen van levend water"
+        "scene": "Bronnen van levend water",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 8,
@@ -43425,6 +43434,36 @@
         "kind": "diagram",
         "width": 840,
         "height": 1012
+      },
+      {
+        "chapter": 7,
+        "verse": 1,
+        "file": "7-leeswijzer.svg",
+        "scene": "Verzegeling en menigte",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1055
+      },
+      {
+        "chapter": 7,
+        "verse": 13,
+        "file": "7-menigte-vraag.svg",
+        "scene": "Wie zijn deze mensen?",
+        "alt": "Wie zijn deze mensen? met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1055
+      },
+      {
+        "chapter": 7,
+        "verse": 4,
+        "file": "7-stammen-aantallen.svg",
+        "scene": "144.000 verzegelden",
+        "alt": "144.000 verzegelden — Openbaring 7:4–8",
+        "kind": "diagram",
+        "width": 840,
+        "height": 920
       }
     ],
     "esther": [

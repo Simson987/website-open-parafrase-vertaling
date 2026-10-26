@@ -1,0 +1,88 @@
+{
+  "date": "2026-10-26",
+  "started": "2026-10-26T08:13:55Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "openbaring",
+      "chapter": 7,
+      "verse": 1,
+      "file": "7-leeswijzer.svg",
+      "scene": "Verzegeling en menigte",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "Openbaring 7:1–17",
+      "design": {
+        "rows": [
+          [
+            "1–3 · Eerst verzegelen",
+            "Vier engelen houden de winden tegen; een andere engel beveelt te wachten."
+          ],
+          [
+            "4–8 · Het gehoorde aantal",
+            "144.000 uit twaalf genoemde stammen, telkens 12.000."
+          ],
+          [
+            "9–12 · De geziene menigte",
+            "Ontelbaar, uit alle volken; witte kleren, palmen en lof."
+          ],
+          [
+            "13–17 · Herkomst en vertroosting",
+            "Uit de grote verdrukking; dienen, geweid worden en tranen afgewist."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "openbaring",
+      "chapter": 7,
+      "verse": 13,
+      "file": "7-menigte-vraag.svg",
+      "scene": "Wie zijn deze mensen?",
+      "alt": "Wie zijn deze mensen? met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "Openbaring 7:9–17",
+      "design": {
+        "rows": [
+          [
+            "Wat Johannes ziet · vers 9",
+            "Een ontelbare menigte uit elke natie, stam, volk en taal."
+          ],
+          [
+            "Wat zij dragen",
+            "Lange witte kleren en palmtakken."
+          ],
+          [
+            "Wat de oudste verklaart",
+            "Zij komen uit de grote verdrukking; hun kleren zijn in het bloed van het Lam witgemaakt."
+          ],
+          [
+            "Wat zij ontvangen · vers 15–17",
+            "Gods nabijheid, geen honger of dorst, levend water en afgewiste tranen."
+          ]
+        ],
+        "note": "Het gehoorde aantal en de daarna geziene menigte worden in de leesvolgorde weergegeven."
+      }
+    },
+    {
+      "book": "openbaring",
+      "chapter": 7,
+      "verse": 4,
+      "file": "7-stammen-aantallen.svg",
+      "scene": "144.000 verzegelden",
+      "alt": "144.000 verzegelden — Openbaring 7:4–8",
+      "kind": "diagram",
+      "width": 840,
+      "height": 920,
+      "source": "Openbaring 7:4–8",
+      "design": "Twaalf gelijke vakken in de eigen tekstvolgorde, exact gecontroleerde stamnamen en telkens 12.000. Rekensom 12 maal 12.000; geen geografische of biologische reconstructie."
+    }
+  ]
+}
