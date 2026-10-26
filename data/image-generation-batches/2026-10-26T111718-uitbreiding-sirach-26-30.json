@@ -1,0 +1,168 @@
+{
+  "date": "2026-10-26",
+  "started": "2026-10-26T11:17:18Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "jezussirach",
+      "chapter": 27,
+      "verse": 20,
+      "file": "27-20-vogel-vrij-verdieping.webp",
+      "scene": "Vergelijking: een vogel vliegt weg",
+      "alt": "Vergelijking: een vogel vliegt weg — Jezus Sirach 27:20; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: historical-scene. Photorealistic teaching illustration for Jesus Sirach in ancient Judea, landscape 3:2, natural lighting, modest opaque garments, coherent human anatomy with exactly two arms. No modern objects, readable writing, injury or watermark. A small natural brown songbird has just flown away from an adult person’s open, empty hands above an ancient stone courtyard. Only the person’s linen-covered torso and exactly two anatomically correct hands are visible; the bird has two wings, two feet and a natural small beak. The bird is clearly beyond reach and flying freely toward open olive trees. No cage, catching net, injured animal or text. A poetic illustration of Sirach 27:20 about a lost confidence and friend, not a historical bird release.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "jezussirach",
+      "chapter": 29,
+      "verse": 31,
+      "file": "29-31-inwoner-moet-wijken-verdieping.webp",
+      "scene": "Lesbeeld: een inwoner moet wijken",
+      "alt": "Lesbeeld: een inwoner moet wijken — Jezus Sirach 29:31; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: historical-scene. Photorealistic teaching illustration for Jesus Sirach in ancient Judea, landscape 3:2, natural lighting, modest opaque garments, coherent human anatomy with exactly two arms. No modern objects, readable writing, injury or watermark. An ancient household scene illustrating Sirach 29:31: an adult householder politely but firmly gestures toward the open courtyard doorway while an adult resident guest gathers his simple folded bedding and travel bag. A freshly prepared sleeping mat is being reserved for a more important visitor. Exactly two adults in modest opaque robes. The guest appears disappointed but dignified; no physical aggression, chains, injury, mockery or modern luggage. Focus on the insecure life of dependence on another person’s home.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "jezussirach",
+      "chapter": 26,
+      "verse": 1,
+      "file": "26-vrede-en-reeksen.svg",
+      "scene": "Vrede, angst en verdriet",
+      "alt": "Vrede, angst en verdriet met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1184,
+      "source": "Jezus Sirach 26:1–33",
+      "design": {
+        "rows": [
+          [
+            "De goede verhouding · 1–4",
+            "Een flinke, goede vrouw brengt vrede en vreugde, in rijkdom en armoede."
+          ],
+          [
+            "Drie en een vierde · 5–13",
+            "Laster van de stad, samenscholing, een verzonnen leugen en de jaloerse tong."
+          ],
+          [
+            "De lof en waarschuwingen · 14–29",
+            "Inzicht, bescheidenheid en trouw worden geprezen, met licht- en zuilvergelijkingen."
+          ],
+          [
+            "Twee en een derde · 30–33",
+            "Armoede van een strijder, verachting van verstandigen en terugkeer van recht naar zonde; daarna koopman en herbergier."
+          ]
+        ],
+        "note": "Het schema bewaart de twee getalsreeksen en de verschillende delen van dit hoofdstuk."
+      }
+    },
+    {
+      "book": "jezussirach",
+      "chapter": 27,
+      "verse": 4,
+      "file": "27-woorden-en-betrouwbaarheid.svg",
+      "scene": "Woorden en betrouwbaarheid",
+      "alt": "Woorden en betrouwbaarheid met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1220,
+      "source": "Jezus Sirach 27:1–30",
+      "design": {
+        "rows": [
+          [
+            "De toets · 1–7",
+            "Handel, zeef, oven en boomvrucht leiden naar het toetsen van een mens in zijn spreken."
+          ],
+          [
+            "De omgang · 8–15",
+            "Recht, waarheid, bedachtzaamheid en waarschuwingen tegen ruzie."
+          ],
+          [
+            "Het geheim · 16–22",
+            "Verklappen tast vertrouwen aan; vogel en ree verbeelden het ongrijpbare verlies."
+          ],
+          [
+            "De terugslag · 23–30",
+            "Zoete schijnwoorden, geworpen steen, kuil en strik laten kwaad op de dader terugkomen."
+          ]
+        ],
+        "note": "De eerste drie bestaande beelden horen bij de toets; het vogelbeeld vult het afzonderlijke vertrouwensdeel aan."
+      }
+    },
+    {
+      "book": "jezussirach",
+      "chapter": 29,
+      "verse": 1,
+      "file": "29-hulp-en-afhankelijkheid.svg",
+      "scene": "Hulp en afhankelijkheid",
+      "alt": "Hulp en afhankelijkheid met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1184,
+      "source": "Jezus Sirach 29:1–32",
+      "design": {
+        "rows": [
+          [
+            "Lenen · 1–10",
+            "Hulp veronderstelt betrouwbaarheid; uitstel en schelden maken de helper tot vijand."
+          ],
+          [
+            "Barmhartigheid · 11–16",
+            "Blijf geduldig helpen en leg een schat van aalmoezen neer."
+          ],
+          [
+            "Borgstelling · 17–24",
+            "De borg zet zich in; de geholpen naaste mag hem niet vergeten en hulp vraagt eigen zorgvuldigheid."
+          ],
+          [
+            "Wonen · 25–32",
+            "Basisbehoeften en tevredenheid met eigen onderdak tegenover de onzekerheid van wonen bij anderen."
+          ]
+        ],
+        "note": "De tekst houdt vrijgevigheid en de gevolgen van afhankelijkheid in één betoog bijeen."
+      }
+    },
+    {
+      "book": "jezussirach",
+      "chapter": 29,
+      "verse": 17,
+      "file": "29-rollen-borg.svg",
+      "scene": "Drie rollen bij lenen en borg",
+      "alt": "Drie rollen bij lenen en borg — Jezus Sirach 29:1–3,17–24",
+      "kind": "diagram",
+      "width": 840,
+      "height": 900,
+      "source": "Jezus Sirach 29:1–3,17–24",
+      "design": {
+        "type": "role graph",
+        "nodes": [
+          "uitlener",
+          "naaste",
+          "borg"
+        ],
+        "edges": [
+          [
+            "uitlener",
+            "leent",
+            "naaste"
+          ],
+          [
+            "borg",
+            "staat borg voor",
+            "naaste"
+          ]
+        ],
+        "notes": [
+          "Gedenk wie borg voor je stond, vers 18",
+          "Hulp naar vermogen met eigen zorgvuldigheid, vers 24"
+        ]
+      }
+    }
+  ]
+}
