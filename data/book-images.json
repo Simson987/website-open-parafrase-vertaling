@@ -37118,63 +37118,90 @@
         "verse": 1,
         "file": "26-1.webp",
         "alt": "Beeld bij Handelingen 26: Paulus spreekt tot Agrippa",
-        "scene": "Paulus spreekt tot Agrippa"
+        "scene": "Paulus spreekt tot Agrippa",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 26,
         "verse": 16,
         "file": "26-16.webp",
         "alt": "Beeld bij Handelingen 26: Geroepen als getuige",
-        "scene": "Geroepen als getuige"
+        "scene": "Geroepen als getuige",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 26,
         "verse": 29,
         "file": "26-29.webp",
         "alt": "Beeld bij Handelingen 26: Een wens voor iedereen",
-        "scene": "Een wens voor iedereen"
+        "scene": "Een wens voor iedereen",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 27,
         "verse": 22,
         "file": "27-22.webp",
         "alt": "Beeld bij Handelingen 27: Houd moed op het schip",
-        "scene": "Houd moed op het schip"
+        "scene": "Houd moed op het schip",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 27,
         "verse": 35,
         "file": "27-35.webp",
         "alt": "Beeld bij Handelingen 27: Dankgebed en brood",
-        "scene": "Dankgebed en brood"
+        "scene": "Dankgebed en brood",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 27,
         "verse": 44,
         "file": "27-44.webp",
         "alt": "Beeld bij Handelingen 27: Iedereen veilig aan land",
-        "scene": "Iedereen veilig aan land"
+        "scene": "Iedereen veilig aan land",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 28,
         "verse": 2,
         "file": "28-2.webp",
         "alt": "Beeld bij Handelingen 28: Een warm vuur op Malta",
-        "scene": "Een warm vuur op Malta"
+        "scene": "Een warm vuur op Malta",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 28,
         "verse": 8,
         "file": "28-8.webp",
         "alt": "Beeld bij Handelingen 28: Paulus bidt bij Publius vader",
-        "scene": "Paulus bidt bij Publius vader"
+        "scene": "Paulus bidt bij Publius vader",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 28,
         "verse": 30,
         "file": "28-30.webp",
         "alt": "Beeld bij Handelingen 28: Iedereen is welkom in Rome",
-        "scene": "Iedereen is welkom in Rome"
+        "scene": "Iedereen is welkom in Rome",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 1,
@@ -38645,6 +38672,216 @@
         "kind": "diagram",
         "width": 840,
         "height": 1012
+      },
+      {
+        "chapter": 26,
+        "verse": 24,
+        "file": "26-24-festus-onderbreekt-verdieping.webp",
+        "scene": "Festus onderbreekt Paulus",
+        "alt": "Festus onderbreekt Paulus — Handelingen 26:24; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 26,
+        "verse": 31,
+        "file": "26-31-apart-overleggen-verdieping.webp",
+        "scene": "De bestuurders overleggen apart",
+        "alt": "De bestuurders overleggen apart — Handelingen 26:31; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 27,
+        "verse": 3,
+        "file": "27-3-vrienden-sidon-verdieping.webp",
+        "scene": "Julius laat Paulus zijn vrienden bezoeken",
+        "alt": "Julius laat Paulus zijn vrienden bezoeken — Handelingen 27:3; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 27,
+        "verse": 6,
+        "file": "27-6-schip-myra-verdieping.webp",
+        "scene": "In Myra stappen zij over",
+        "alt": "In Myra stappen zij over — Handelingen 27:6; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 27,
+        "verse": 10,
+        "file": "27-10-waarschuwing-haven-verdieping.webp",
+        "scene": "Paulus waarschuwt voor verder varen",
+        "alt": "Paulus waarschuwt voor verder varen — Handelingen 27:10; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 27,
+        "verse": 16,
+        "file": "27-16-sloep-ophalen-verdieping.webp",
+        "scene": "De zeelieden halen de sloep op",
+        "alt": "De zeelieden halen de sloep op — Handelingen 27:16; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 27,
+        "verse": 28,
+        "file": "27-28-dieplood-verdieping.webp",
+        "scene": "De zeelieden meten de diepte",
+        "alt": "De zeelieden meten de diepte — Handelingen 27:28; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 27,
+        "verse": 32,
+        "file": "27-32-sloep-los-verdieping.webp",
+        "scene": "De soldaten kappen de sloeptouwen",
+        "alt": "De soldaten kappen de sloeptouwen — Handelingen 27:32; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 27,
+        "verse": 41,
+        "file": "27-41-schip-zandbank-verdieping.webp",
+        "scene": "Het schip loopt op de zandbank",
+        "alt": "Het schip loopt op de zandbank — Handelingen 27:41; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 28,
+        "verse": 5,
+        "file": "28-5-adder-afschudden-verdieping.webp",
+        "scene": "Paulus schudt de adder af",
+        "alt": "Paulus schudt de adder af — Handelingen 28:5; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 28,
+        "verse": 7,
+        "file": "28-7-publius-gastvrij-verdieping.webp",
+        "scene": "Publius ontvangt de reizigers",
+        "alt": "Publius ontvangt de reizigers — Handelingen 28:7; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 28,
+        "verse": 15,
+        "file": "28-15-broeders-tegemoet-verdieping.webp",
+        "scene": "Gelovigen komen Paulus tegemoet",
+        "alt": "Gelovigen komen Paulus tegemoet — Handelingen 28:15; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 28,
+        "verse": 17,
+        "file": "28-17-joodse-leiders-verdieping.webp",
+        "scene": "Paulus spreekt de Joodse leiders in Rome",
+        "alt": "Paulus spreekt de Joodse leiders in Rome — Handelingen 28:17; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 26,
+        "verse": 1,
+        "file": "26-leeswijzer.svg",
+        "scene": "Paulus’ verdediging voor Agrippa",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1055
+      },
+      {
+        "chapter": 27,
+        "verse": 1,
+        "file": "27-leeswijzer.svg",
+        "scene": "Van Cesarea naar de schipbreuk",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1055
+      },
+      {
+        "chapter": 28,
+        "verse": 1,
+        "file": "28-leeswijzer.svg",
+        "scene": "Malta en de aankomst in Rome",
+        "alt": "Opbouw van het volledige hoofdstuk.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1055
+      },
+      {
+        "chapter": 26,
+        "verse": 16,
+        "file": "26-roeping-opdracht.svg",
+        "scene": "De opdracht in Paulus’ verhaal",
+        "alt": "De opdracht in Paulus’ verhaal met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1012
+      },
+      {
+        "chapter": 27,
+        "verse": 1,
+        "file": "27-havens.svg",
+        "scene": "De havens vóór de storm",
+        "alt": "De havens vóór de storm met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1012
+      },
+      {
+        "chapter": 27,
+        "verse": 28,
+        "file": "27-getallen.svg",
+        "scene": "Getallen tijdens de laatste nacht",
+        "alt": "Getallen tijdens de laatste nacht met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 926
+      },
+      {
+        "chapter": 27,
+        "verse": 30,
+        "file": "27-redding-volgorde.svg",
+        "scene": "Wat gebeurt vóór het aanlanden?",
+        "alt": "Wat gebeurt vóór het aanlanden? met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1055
+      },
+      {
+        "chapter": 28,
+        "verse": 11,
+        "file": "28-rome-route.svg",
+        "scene": "Van Malta naar Rome",
+        "alt": "Van Malta naar Rome met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1055
       }
     ],
     "romeinen": [

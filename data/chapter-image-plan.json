@@ -29217,6 +29217,167 @@
           "source": "Handelingen 25:6–27"
         }
       ]
+    },
+    {
+      "book": "handelingen",
+      "chapter": 26,
+      "status": "reviewed",
+      "target_images": 7,
+      "reason": "Aanspraak, roeping en wens waren aanwezig. Festus’ onderbreking en het aparte overleg vullen de actuele gehoorscène aan; een schema onderscheidt de vertelde roeping en de reactie daarop.",
+      "additions": [
+        {
+          "verse": 24,
+          "file": "26-24-festus-onderbreekt-verdieping.webp",
+          "scene": "Festus onderbreekt Paulus",
+          "kind": "scene"
+        },
+        {
+          "verse": 31,
+          "file": "26-31-apart-overleggen-verdieping.webp",
+          "scene": "De bestuurders overleggen apart",
+          "kind": "scene"
+        },
+        {
+          "verse": 1,
+          "file": "26-leeswijzer.svg",
+          "scene": "Paulus’ verdediging voor Agrippa",
+          "kind": "diagram",
+          "source": "Handelingen 26:1–32"
+        },
+        {
+          "verse": 16,
+          "file": "26-roeping-opdracht.svg",
+          "scene": "De opdracht in Paulus’ verhaal",
+          "kind": "diagram",
+          "source": "Handelingen 26:16–23"
+        }
+      ]
+    },
+    {
+      "book": "handelingen",
+      "chapter": 27,
+      "status": "reviewed",
+      "target_images": 14,
+      "reason": "Moed, brood en veilige aankomst waren aanwezig. Vrienden in Sidon, overstap, waarschuwing, sloep, dieplood, loskappen en vastgelopen schip voegen zeven afzonderlijke momenten toe. Drie schema’s controleren route, aantallen en reddingsvolgorde.",
+      "additions": [
+        {
+          "verse": 3,
+          "file": "27-3-vrienden-sidon-verdieping.webp",
+          "scene": "Julius laat Paulus zijn vrienden bezoeken",
+          "kind": "scene"
+        },
+        {
+          "verse": 6,
+          "file": "27-6-schip-myra-verdieping.webp",
+          "scene": "In Myra stappen zij over",
+          "kind": "scene"
+        },
+        {
+          "verse": 10,
+          "file": "27-10-waarschuwing-haven-verdieping.webp",
+          "scene": "Paulus waarschuwt voor verder varen",
+          "kind": "scene"
+        },
+        {
+          "verse": 16,
+          "file": "27-16-sloep-ophalen-verdieping.webp",
+          "scene": "De zeelieden halen de sloep op",
+          "kind": "scene"
+        },
+        {
+          "verse": 28,
+          "file": "27-28-dieplood-verdieping.webp",
+          "scene": "De zeelieden meten de diepte",
+          "kind": "scene"
+        },
+        {
+          "verse": 32,
+          "file": "27-32-sloep-los-verdieping.webp",
+          "scene": "De soldaten kappen de sloeptouwen",
+          "kind": "scene"
+        },
+        {
+          "verse": 41,
+          "file": "27-41-schip-zandbank-verdieping.webp",
+          "scene": "Het schip loopt op de zandbank",
+          "kind": "scene"
+        },
+        {
+          "verse": 1,
+          "file": "27-leeswijzer.svg",
+          "scene": "Van Cesarea naar de schipbreuk",
+          "kind": "diagram",
+          "source": "Handelingen 27:1–44"
+        },
+        {
+          "verse": 1,
+          "file": "27-havens.svg",
+          "scene": "De havens vóór de storm",
+          "kind": "diagram",
+          "source": "Handelingen 27:1–14"
+        },
+        {
+          "verse": 28,
+          "file": "27-getallen.svg",
+          "scene": "Getallen tijdens de laatste nacht",
+          "kind": "diagram",
+          "source": "Handelingen 27:27–38"
+        },
+        {
+          "verse": 30,
+          "file": "27-redding-volgorde.svg",
+          "scene": "Wat gebeurt vóór het aanlanden?",
+          "kind": "diagram",
+          "source": "Handelingen 27:30–44"
+        }
+      ]
+    },
+    {
+      "book": "handelingen",
+      "chapter": 28,
+      "status": "reviewed",
+      "target_images": 9,
+      "reason": "Vuur, Publius’ vader en de open woning waren aanwezig. Adder, gastvrijheid, gelovigen onderweg en het eerste gesprek met leiders vullen vier momenten aan; de route verduidelijkt de laatste reis.",
+      "additions": [
+        {
+          "verse": 5,
+          "file": "28-5-adder-afschudden-verdieping.webp",
+          "scene": "Paulus schudt de adder af",
+          "kind": "scene"
+        },
+        {
+          "verse": 7,
+          "file": "28-7-publius-gastvrij-verdieping.webp",
+          "scene": "Publius ontvangt de reizigers",
+          "kind": "scene"
+        },
+        {
+          "verse": 15,
+          "file": "28-15-broeders-tegemoet-verdieping.webp",
+          "scene": "Gelovigen komen Paulus tegemoet",
+          "kind": "scene"
+        },
+        {
+          "verse": 17,
+          "file": "28-17-joodse-leiders-verdieping.webp",
+          "scene": "Paulus spreekt de Joodse leiders in Rome",
+          "kind": "scene"
+        },
+        {
+          "verse": 1,
+          "file": "28-leeswijzer.svg",
+          "scene": "Malta en de aankomst in Rome",
+          "kind": "diagram",
+          "source": "Handelingen 28:1–31"
+        },
+        {
+          "verse": 11,
+          "file": "28-rome-route.svg",
+          "scene": "Van Malta naar Rome",
+          "kind": "diagram",
+          "source": "Handelingen 28:11–16"
+        }
+      ]
     }
   ]
 }
