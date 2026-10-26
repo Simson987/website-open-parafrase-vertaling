@@ -1,0 +1,202 @@
+{
+  "date": "2026-10-26",
+  "started": "2026-10-26T11:17:18Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "jezussirach",
+      "chapter": 49,
+      "verse": 8,
+      "file": "49-8-jeruzalem-verwoest-verdieping.webp",
+      "scene": "De verbrande straten van Jeruzalem",
+      "alt": "De verbrande straten van Jeruzalem — Jezus Sirach 49:8; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-recollection. Photorealistic biblical historical illustration, ancient Jerusalem with historically plausible stone architecture, landscape 3:2, natural materials and lighting, modest opaque garments, coherent anatomy with exactly two arms per person. No modern objects, readable writing, divine human figure, blood, corpses or injury. A sober wide view of an empty street in ancient Jerusalem after destruction: blackened stone walls, burned wooden doors, fallen masonry, a thin fading wisp of smoke under a grey sky. No people, bodies, blood, weapons or active fighting. Emphasize ruined streets and damaged houses rather than spectacle. The historical destruction recalled in Sirach 49:8, before the rebuilding described later in the chapter.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "jezussirach",
+      "chapter": 50,
+      "verse": 15,
+      "file": "50-15-simon-offerbeker-verdieping.webp",
+      "scene": "Simon giet uit de offerbeker",
+      "alt": "Simon giet uit de offerbeker — Jezus Sirach 50:15; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-recollection. Photorealistic biblical historical illustration, ancient Jerusalem with historically plausible stone architecture, landscape 3:2, natural materials and lighting, modest opaque garments, coherent anatomy with exactly two arms per person. No modern objects, readable writing, divine human figure, blood, corpses or injury. Simon the high priest, an older bearded Judean man in modest ancient priestly robes, blue tunic, woven ephod, white turban and breastpiece, stands at the base of a large stone altar in the temple courtyard, carefully pouring dark red grape juice from a golden cup onto the ground at the altar’s foot. One hand holds the cup and the other steadies it, exactly two arms and natural distinct fingers. No meat, slaughter, blood or fire injuries. A few adult priests in white linen stand at a respectful distance. Sirach 50:15–16, clear focus on the pouring cup.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "jezussirach",
+      "chapter": 50,
+      "verse": 21,
+      "file": "50-21-simon-zegent-gemeente-verdieping.webp",
+      "scene": "Simon zegent de gemeente",
+      "alt": "Simon zegent de gemeente — Jezus Sirach 50:21; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-recollection. Photorealistic biblical historical illustration, ancient Jerusalem with historically plausible stone architecture, landscape 3:2, natural materials and lighting, modest opaque garments, coherent anatomy with exactly two arms per person. No modern objects, readable writing, divine human figure, blood, corpses or injury. Simon the high priest, an older bearded man in modest ancient priestly robes and white turban, stands at the bottom of temple altar steps in a broad ancient Jerusalem courtyard. He raises his two hands naturally in blessing toward a gathered assembly of modestly clothed adults, some bowing their heads. Exactly two arms per person, coherent hands and faces, no readable writing or modern objects. A calm reverent scene of the blessing in Sirach 50:21–22, no God figure or light emerging from fingers.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "jezussirach",
+      "chapter": 49,
+      "verse": 1,
+      "file": "49-herinnerde-namen.svg",
+      "scene": "De herinnerde namen",
+      "alt": "De herinnerde namen met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1091,
+      "source": "Jezus Sirach 49:1–19",
+      "design": {
+        "rows": [
+          [
+            "Josia en Jeremia · 1–9",
+            "Herstel van ontzag, falende koningen, verwoesting en het profetische woord."
+          ],
+          [
+            "Profeten · 10–12",
+            "Ezechiëls visioen en de gezegende herinnering aan de twaalf profeten."
+          ],
+          [
+            "Herbouwers · 13–15",
+            "Zerubbabel en Jesua bouwen de tempel; Nehemia herstelt muren en poorten."
+          ],
+          [
+            "De vroege vaderen · 16–19",
+            "Henoch, Jozef, Sem, Set en Adam worden in de slotlof genoemd."
+          ]
+        ],
+        "note": "Dit is de volgorde van de loftekst; de vroege vaderen in het slot leefden niet na de herbouwers."
+      }
+    },
+    {
+      "book": "jezussirach",
+      "chapter": 49,
+      "verse": 13,
+      "file": "49-herbouw-en-werk.svg",
+      "scene": "Herbouw en het genoemde werk",
+      "alt": "Herbouw en het genoemde werk met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 899,
+      "source": "Jezus Sirach 49:13–15",
+      "design": {
+        "rows": [
+          [
+            "Zerubbabel · 13–14",
+            "Met een zegelring vergeleken; verbonden aan de tempelherbouw."
+          ],
+          [
+            "Jesua, zoon van Josadak · 14",
+            "Met Zerubbabel verbonden aan het weer oprichten van het heilige huis."
+          ],
+          [
+            "Nehemia · 15",
+            "Vervallen muren, poorten met grendels en herstel van de huisvloeren."
+          ]
+        ],
+        "note": "De naam Jesua en zijn vader Josadak volgen de plaatselijke tekst. De zegelring is een vergelijking."
+      }
+    },
+    {
+      "book": "jezussirach",
+      "chapter": 50,
+      "verse": 1,
+      "file": "50-simon-en-de-dienst.svg",
+      "scene": "Simon en de tempeldienst",
+      "alt": "Simon en de tempeldienst met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1177,
+      "source": "Jezus Sirach 50:1–30",
+      "design": {
+        "rows": [
+          [
+            "Herstel · 1–5",
+            "Heiligdom, muur, wateropslag en zorg voor het volk."
+          ],
+          [
+            "De lofbeelden · 6–10",
+            "Hemellichten, bloemen, wierook, sierwerk en bomen beschrijven zijn luister."
+          ],
+          [
+            "De dienst · 11–20",
+            "Altaar, priesterkring, beker, trompetten, neerbuigen, zang en gebed."
+          ],
+          [
+            "Zegen en slot · 21–30",
+            "Simon zegent; dank en vredesgebed volgen, daarna de afsluiting van het onderwijs."
+          ]
+        ],
+        "note": "De natuurvergelijkingen beschrijven de luister van Simon; zij zijn geen verschillende personen of reizen."
+      }
+    },
+    {
+      "book": "jezussirach",
+      "chapter": 50,
+      "verse": 15,
+      "file": "50-volgorde-tempeldienst.svg",
+      "scene": "Volgorde bij de dienst",
+      "alt": "Volgorde bij de dienst met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "Jezus Sirach 50:15–22",
+      "design": {
+        "rows": [
+          [
+            "Beker · 15–16",
+            "Druivensap wordt aan de voet van het altaar uitgegoten."
+          ],
+          [
+            "Trompetten · 17",
+            "De zonen van Aäron laten een groot geschal horen."
+          ],
+          [
+            "Gemeente · 18–20",
+            "Neerbuigen, zingen en smeken tot de dienst voltooid is."
+          ],
+          [
+            "Zegen · 21–22",
+            "Simon daalt af en heft de handen; het volk buigt opnieuw."
+          ]
+        ],
+        "note": "De pijlloze leesvolgorde volgt de versvolgorde van de beschreven eredienst."
+      }
+    },
+    {
+      "book": "jezussirach",
+      "chapter": 51,
+      "verse": 1,
+      "file": "51-gebed-zoeken-uitnodiging.svg",
+      "scene": "Gebed, zoeken en uitnodiging",
+      "alt": "Gebed, zoeken en uitnodiging met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 942,
+      "source": "Jezus Sirach 51:1–38",
+      "design": {
+        "rows": [
+          [
+            "Dank om redding · 1–16",
+            "Bedreiging, laster, herinnerde barmhartigheid, gebed en verhoring."
+          ],
+          [
+            "Zoeken naar wijsheid · 17–30",
+            "Van jongs af bidden, luisteren, leren, oefenen en danken."
+          ],
+          [
+            "De uitnodiging · 31–38",
+            "Het huis van onderwijs, wijsheid zonder geld, het juk aannemen en tijdig handelen."
+          ]
+        ],
+        "note": "Tanden, vuur, dorst, koop en juk functioneren in deze poëtische dank en uitnodiging; zij vormen geen volledige reisbeschrijving."
+      }
+    }
+  ]
+}
