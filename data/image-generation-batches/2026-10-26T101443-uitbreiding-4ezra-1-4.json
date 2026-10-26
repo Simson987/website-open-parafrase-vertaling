@@ -1,0 +1,377 @@
+{
+  "date": "2026-10-26",
+  "started": "2026-10-26T10:14:43Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "4ezra",
+      "chapter": 1,
+      "verse": 20,
+      "file": "1-20-rots-water-verdieping.webp",
+      "scene": "Herinnering: water uit de rots",
+      "alt": "Herinnering: water uit de rots — 4 Ezra 1:20; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: illustration-story. Photorealistic textures for an explicitly poetic or visionary biblical illustration in an ancient Near Eastern setting, landscape 3:2, natural light, coherent anatomy and two arms per human, modest opaque robes. No modern objects, readable writing, divine portrait, blood, injury or watermark. A poetic recollection of Israel in the desert, a stream of fresh clear water flows from a split in an arid rock face, modestly robed ancient Israelites drink with clay cups in the background under sparse leafy shade. Focus on the gift of water from the rock, no new prophetic event implied, no Moses close-up needed, no deity or modern pipes.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "4ezra",
+      "chapter": 2,
+      "verse": 15,
+      "file": "2-15-moeder-kinderen-verdieping.webp",
+      "scene": "Beeldspraak: de moeder omarmt",
+      "alt": "Beeldspraak: de moeder omarmt — 4 Ezra 2:15; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: illustration-story. Photorealistic textures for an explicitly poetic or visionary biblical illustration in an ancient Near Eastern setting, landscape 3:2, natural light, coherent anatomy and two arms per human, modest opaque robes. No modern objects, readable writing, divine portrait, blood, injury or watermark. A symbolic mother representing the community tenderly embraces her fully clothed children in an ancient stone courtyard, modest opaque linen garments, her two arms clearly wrap around two small children, one on each side. Protective joyful tenderness after sorrow. Natural human anatomy, no literal person identification, no halos or readable text.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "4ezra",
+      "chapter": 4,
+      "verse": 49,
+      "file": "4-49-regen-druppels-verdieping.webp",
+      "scene": "Vergelijking: regen en druppels",
+      "alt": "Vergelijking: regen en druppels — 4 Ezra 4:49; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: illustration-story. Photorealistic textures for an explicitly poetic or visionary biblical illustration in an ancient Near Eastern setting, landscape 3:2, natural light, coherent anatomy and two arms per human, modest opaque robes. No modern objects, readable writing, divine portrait, blood, injury or watermark. A poetic visual comparison of a dark cloud that has just released heavy rain over an ancient Near Eastern rocky landscape, storm receding, last sparse drops fall from the passing cloud while broad wet ground shows the much larger rainfall already past. No humans, words or diagrams. Natural photorealistic weather, explicitly an illustration of Uriel’s comparison, not a modern forecast.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "4ezra",
+      "chapter": 1,
+      "verse": 1,
+      "file": "1-leeswijzer.svg",
+      "scene": "Aanklacht en herinnering",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "4 Ezra 1:1–40",
+      "design": {
+        "rows": [
+          [
+            "1–8 · Ezra en de opdracht",
+            "Afstamming en opdracht om het volk zijn overtredingen te vertellen."
+          ],
+          [
+            "9–23 · Eerdere weldaden",
+            "Uittocht, leiding, voedsel, water en het gegeven land worden herinnerd."
+          ],
+          [
+            "24–34 · De aanklacht",
+            "Niet luisteren en geweld tegen profeten; beelden van verlatenheid."
+          ],
+          [
+            "35–40 · Een komend volk",
+            "Geloof zonder geziene tekenen; de genoemde leiders."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "4ezra",
+      "chapter": 2,
+      "verse": 1,
+      "file": "2-leeswijzer.svg",
+      "scene": "Moeder, zorg en bekroning",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1141,
+      "source": "4 Ezra 2:1–48",
+      "design": {
+        "rows": [
+          [
+            "1–9 · Rouw en aanklacht",
+            "De moeder spreekt als verlaten weduwe; het volk luisterde niet."
+          ],
+          [
+            "10–32 · Belofte en zorg",
+            "Koninkrijk en levensboom; de moeder omarmt, kwetsbaren moeten recht ontvangen."
+          ],
+          [
+            "33–41 · Verwacht de Herder",
+            "Rust, licht, feestkleren en het volle aantal van Sion."
+          ],
+          [
+            "42–48 · Menigte op Sion",
+            "De jongeman kroont hen en geeft palmtakken; de engel verklaart wie Hij is."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "4ezra",
+      "chapter": 3,
+      "verse": 1,
+      "file": "3-leeswijzer.svg",
+      "scene": "Ezra vraagt naar recht",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "4 Ezra 3:1–36",
+      "design": {
+        "rows": [
+          [
+            "1–3 · In Babel",
+            "Dertig jaar na de ondergang van de stad worstelt Ezra met Sions lot."
+          ],
+          [
+            "4–16 · Adam tot Jakob",
+            "Hij herinnert schepping, overtreding, vloed en het verbond."
+          ],
+          [
+            "17–27 · Wet en stad",
+            "Sinaï, het kwade hart, David en het prijsgegeven Jeruzalem."
+          ],
+          [
+            "28–36 · De vraag",
+            "Waarom verdraagt God Babel, terwijl Sion wordt getroffen?"
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "4ezra",
+      "chapter": 4,
+      "verse": 1,
+      "file": "4-leeswijzer.svg",
+      "scene": "Uriël en menselijke grenzen",
+      "alt": "Opbouw van het volledige hoofdstuk.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "4 Ezra 4:1–52",
+      "design": {
+        "rows": [
+          [
+            "1–21 · Wat kan Ezra bevatten?",
+            "Vuur, wind, de voorbije dag; daarna de vergelijking van bos en zee."
+          ],
+          [
+            "22–39 · Kwaad en oogst",
+            "Ezra vraagt naar Israëls lot; de vastgestelde maat is nog niet vol."
+          ],
+          [
+            "40–50 · Tijd uitgelegd",
+            "Geboorte, vuur en rook, regen en druppels als vergelijkingen."
+          ],
+          [
+            "51–52 · Grens van het antwoord",
+            "Uriël weet zelf niet of Ezra die dagen zal beleven."
+          ]
+        ],
+        "note": "Gebeurtenissen, onderwijs en beeldspraak volgen de plaatselijke versindeling."
+      }
+    },
+    {
+      "book": "4ezra",
+      "chapter": 1,
+      "verse": 39,
+      "file": "1-genoemde-leiders.svg",
+      "scene": "De genoemde leiders",
+      "alt": "De genoemde leiders met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1012,
+      "source": "4 Ezra 1:39–40",
+      "design": {
+        "rows": [
+          [
+            "Aartsvaders · vers 39",
+            "Abraham, Izaäk en Jakob."
+          ],
+          [
+            "Eerste zes profeten · vers 39",
+            "Hosea, Amos, Micha, Joël, Obadja en Jona."
+          ],
+          [
+            "Volgende zes · vers 40",
+            "Nahum, Habakuk, Zefanja, Haggai, Zacharia en Maleachi."
+          ],
+          [
+            "De toevoeging",
+            "Maleachi wordt hier ook de engel van de Heere genoemd."
+          ]
+        ],
+        "note": "De lijst volgt deze twee verzen; er wordt geen andere profetenvolgorde ingevoegd."
+      }
+    },
+    {
+      "book": "4ezra",
+      "chapter": 2,
+      "verse": 20,
+      "file": "2-zorg-opdrachten.svg",
+      "scene": "Recht en concrete zorg",
+      "alt": "Recht en concrete zorg met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1012,
+      "source": "4 Ezra 2:20–23",
+      "design": {
+        "rows": [
+          [
+            "Recht en middelen",
+            "Recht voor weduwen en wezen; geven aan armen en bescherming voor verlatenen."
+          ],
+          [
+            "Ziekte en beperking",
+            "Genees en bescherm; lach wie kreupel is niet uit; laat wie blind is komen."
+          ],
+          [
+            "Binnen de muren",
+            "Houd oud en jong veilig."
+          ],
+          [
+            "De doden",
+            "Geef gevonden doden een teken en begraaf hen."
+          ]
+        ],
+        "note": "Dit zijn opdrachten in de profetische tekst, naast het beeld van de moeder en haar kinderen."
+      }
+    },
+    {
+      "book": "4ezra",
+      "chapter": 3,
+      "verse": 28,
+      "file": "3-sion-babel-vraag.svg",
+      "scene": "Waarom Babel boven Sion?",
+      "alt": "Waarom Babel boven Sion? met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1098,
+      "source": "4 Ezra 3:28–36",
+      "design": {
+        "rows": [
+          [
+            "Ezra ziet",
+            "Het verwoeste Sion tegenover de overvloed en zonden van Babel."
+          ],
+          [
+            "Ezra vraagt",
+            "Doet Babel het beter? Waarom wordt het eigen volk getroffen en de vijand gespaard?"
+          ],
+          [
+            "Ezra beroept zich",
+            "Op Israël, Jakob, Gods verbonden en wie geboden bewaarden."
+          ],
+          [
+            "Zijn beeld · vers 34",
+            "Onze schuld en die van de wereld op een weegschaal leggen."
+          ]
+        ],
+        "note": "Dit is Ezra’s vraag en pleidooi. Het antwoord van Uriël begint in het volgende hoofdstuk."
+      }
+    },
+    {
+      "book": "4ezra",
+      "chapter": 4,
+      "verse": 5,
+      "file": "4-onmogelijke-vragen.svg",
+      "scene": "Drie onmogelijke opdrachten",
+      "alt": "Drie onmogelijke opdrachten met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1005,
+      "source": "4 Ezra 4:3–11",
+      "design": {
+        "rows": [
+          [
+            "Vuur",
+            "Weeg het gewicht van het vuur."
+          ],
+          [
+            "Wind",
+            "Meet het blazen van de wind."
+          ],
+          [
+            "Tijd",
+            "Roep de dag terug die voorbij is."
+          ],
+          [
+            "De les",
+            "Wie de eigen nabije dingen niet doorgrondt, kan de weg van de Allerhoogste niet omvatten."
+          ]
+        ],
+        "note": "De opdrachten zijn vergelijkingen over menselijke grenzen; geen uitvoerbare natuurproef."
+      }
+    },
+    {
+      "book": "4ezra",
+      "chapter": 4,
+      "verse": 48,
+      "file": "4-tijd-vergelijkingen.svg",
+      "scene": "Wat voorbij is en overblijft",
+      "alt": "Wat voorbij is en overblijft met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1141,
+      "source": "4 Ezra 4:40–52",
+      "design": {
+        "rows": [
+          [
+            "Geboorte · vers 40–42",
+            "De voldragen schoot houdt het kind niet onbeperkt vast: beeld van de kamers van de zielen."
+          ],
+          [
+            "Vuur en rook · vers 48",
+            "Het vuur trekt voorbij; daarna blijft rook over."
+          ],
+          [
+            "Regen en druppels · vers 49–50",
+            "De grote regen is voorbij; enkele druppels blijven over."
+          ],
+          [
+            "De uitleg · vers 50–52",
+            "De voorbijgegane maat is groter. Over Ezra’s levensduur weet de engel het niet."
+          ]
+        ],
+        "note": "Dit geeft de uitleg in deze passage weer en berekent geen datum."
+      }
+    },
+    {
+      "book": "4ezra",
+      "chapter": 1,
+      "verse": 1,
+      "file": "1-ezra-afstamming.svg",
+      "scene": "Ezra: lijn in dit boek",
+      "alt": "Ezra: lijn in dit boek — 4 Ezra 1:1–3",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1682,
+      "source": "4 Ezra 1:1–3",
+      "design": {
+        "type": "vertical named sequence",
+        "names": [
+          "Aäron",
+          "Eleazar",
+          "Pinehas",
+          "Abisua",
+          "Bukki",
+          "Hazzi",
+          "Sarchia",
+          "Merasoth",
+          "Hasaria",
+          "Amaria",
+          "Ahitob",
+          "Zadok",
+          "Sadania",
+          "Chelkia",
+          "Azaria",
+          "Baraja",
+          "Ezra"
+        ],
+        "note": "Van Aäron naar Ezra; Aäron wordt uit de stam Levi genoemd. De namen volgen dit boek en worden niet aangepast aan een andere Ezra-lijst."
+      }
+    }
+  ]
+}

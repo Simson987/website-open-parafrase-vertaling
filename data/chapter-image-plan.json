@@ -34062,6 +34062,130 @@
           "source": "3 Ezra 7:5–14"
         }
       ]
+    },
+    {
+      "book": "4ezra",
+      "chapter": 1,
+      "status": "reviewed",
+      "target_images": 7,
+      "reason": "Oproep, hen met kuikens en komend volk zijn aanwezig. De herinnering aan water uit de rots voegt een andere weldadigheid toe als herinneringsbeeld. Leeswijzer, leiderslijst en de eigen Ezra-afstamming krijgen schema’s; afwijkende namen ten opzichte van 3 Ezra blijven behouden.",
+      "additions": [
+        {
+          "verse": 20,
+          "file": "1-20-rots-water-verdieping.webp",
+          "scene": "Herinnering: water uit de rots",
+          "kind": "poetic"
+        },
+        {
+          "verse": 1,
+          "file": "1-leeswijzer.svg",
+          "scene": "Aanklacht en herinnering",
+          "kind": "diagram",
+          "source": "4 Ezra 1:1–40"
+        },
+        {
+          "verse": 39,
+          "file": "1-genoemde-leiders.svg",
+          "scene": "De genoemde leiders",
+          "kind": "diagram",
+          "source": "4 Ezra 1:39–40"
+        },
+        {
+          "verse": 1,
+          "file": "1-ezra-afstamming.svg",
+          "scene": "Ezra: lijn in dit boek",
+          "kind": "diagram",
+          "source": "4 Ezra 1:1–3"
+        }
+      ]
+    },
+    {
+      "book": "4ezra",
+      "chapter": 2,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Zorg, menigte en bekroning zijn aanwezig. De moederbeeldspraak ontbreekt en wordt respectvol verbeeld. Opbouw en concrete zorgopdrachten onderscheiden de poëtische moeder van de oproep tot daadwerkelijk recht.",
+      "additions": [
+        {
+          "verse": 15,
+          "file": "2-15-moeder-kinderen-verdieping.webp",
+          "scene": "Beeldspraak: de moeder omarmt",
+          "kind": "poetic"
+        },
+        {
+          "verse": 1,
+          "file": "2-leeswijzer.svg",
+          "scene": "Moeder, zorg en bekroning",
+          "kind": "diagram",
+          "source": "4 Ezra 2:1–48"
+        },
+        {
+          "verse": 20,
+          "file": "2-zorg-opdrachten.svg",
+          "scene": "Recht en concrete zorg",
+          "kind": "diagram",
+          "source": "4 Ezra 2:20–23"
+        }
+      ]
+    },
+    {
+      "book": "4ezra",
+      "chapter": 4,
+      "status": "reviewed",
+      "target_images": 7,
+      "reason": "Uriël, vuur-wind-dag en zee-bos zijn aanwezig. Regen met overblijvende druppels is een afzonderlijke vergelijking. Schema’s geven drie opdrachten, tijdsbeelden en de expliciete grens van Uriëls kennis zonder voorspelde kalenderdatum.",
+      "additions": [
+        {
+          "verse": 49,
+          "file": "4-49-regen-druppels-verdieping.webp",
+          "scene": "Vergelijking: regen en druppels",
+          "kind": "poetic"
+        },
+        {
+          "verse": 1,
+          "file": "4-leeswijzer.svg",
+          "scene": "Uriël en menselijke grenzen",
+          "kind": "diagram",
+          "source": "4 Ezra 4:1–52"
+        },
+        {
+          "verse": 5,
+          "file": "4-onmogelijke-vragen.svg",
+          "scene": "Drie onmogelijke opdrachten",
+          "kind": "diagram",
+          "source": "4 Ezra 4:3–11"
+        },
+        {
+          "verse": 48,
+          "file": "4-tijd-vergelijkingen.svg",
+          "scene": "Wat voorbij is en overblijft",
+          "kind": "diagram",
+          "source": "4 Ezra 4:40–52"
+        }
+      ]
+    },
+    {
+      "book": "4ezra",
+      "chapter": 3,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Gebed, nadenken en schepping zijn aanwezig. Een leeswijzer en het uitgewerkte Sion-Babel-vraagschema zijn voldoende; herhaalde scheppings- of verwoestingsfoto’s zouden geen nieuwe inhoud toevoegen.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "3-leeswijzer.svg",
+          "scene": "Ezra vraagt naar recht",
+          "kind": "diagram",
+          "source": "4 Ezra 3:1–36"
+        },
+        {
+          "verse": 28,
+          "file": "3-sion-babel-vraag.svg",
+          "scene": "Waarom Babel boven Sion?",
+          "kind": "diagram",
+          "source": "4 Ezra 3:28–36"
+        }
+      ]
     }
   ]
 }
