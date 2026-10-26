@@ -62838,7 +62838,11 @@
         "chapter": 10,
         "file": "10-dream.webp",
         "alt": "Mordechai kijkt nadenkend naar een bron",
-        "scene": "De droom van Mordechai"
+        "scene": "De droom van Mordechai",
+        "verse": 5,
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 14,
@@ -62857,77 +62861,110 @@
         "verse": 6,
         "file": "10-6.webp",
         "alt": "Beeld bij Estherapocrief 10: Een bron wordt een rivier",
-        "scene": "Een bron wordt een rivier"
+        "scene": "Een bron wordt een rivier",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 10,
         "verse": 13,
         "file": "10-13.webp",
         "alt": "Beeld bij Estherapocrief 10: Vreugde tijdens Purim",
-        "scene": "Vreugde tijdens Purim"
+        "scene": "Vreugde tijdens Purim",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 11,
         "verse": 1,
         "file": "11-1.webp",
         "alt": "Beeld bij Estherapocrief 11: De brief wordt gebracht",
-        "scene": "De brief wordt gebracht"
+        "scene": "De brief wordt gebracht",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 11,
         "verse": 8,
         "file": "11-8.webp",
         "alt": "Beeld bij Estherapocrief 11: De rivier uit de droom",
-        "scene": "De rivier uit de droom"
+        "scene": "De rivier uit de droom",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 11,
         "verse": 10,
         "file": "11-10.webp",
         "alt": "Beeld bij Estherapocrief 11: Mordechai overdenkt de droom",
-        "scene": "Mordechai overdenkt de droom"
+        "scene": "Mordechai overdenkt de droom",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 12,
         "verse": 2,
         "file": "12-2.webp",
         "alt": "Beeld bij Estherapocrief 12: Mordechai hoort het complot",
-        "scene": "Mordechai hoort het complot"
+        "scene": "Mordechai hoort het complot",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 12,
         "verse": 4,
         "file": "12-4.webp",
         "alt": "Beeld bij Estherapocrief 12: De gebeurtenis opgetekend",
-        "scene": "De gebeurtenis opgetekend"
+        "scene": "De gebeurtenis opgetekend",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 12,
         "verse": 5,
         "file": "12-5.webp",
         "alt": "Beeld bij Estherapocrief 12: Mordechai wordt beloond",
-        "scene": "Mordechai wordt beloond"
+        "scene": "Mordechai wordt beloond",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 13,
         "verse": 1,
         "file": "13-1.webp",
         "alt": "Beeld bij Estherapocrief 13: Het koninklijke besluit",
-        "scene": "Het koninklijke besluit"
+        "scene": "Het koninklijke besluit",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 13,
         "verse": 8,
         "file": "13-8.webp",
         "alt": "Beeld bij Estherapocrief 13: Mordechai bidt",
-        "scene": "Mordechai bidt"
+        "scene": "Mordechai bidt",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 13,
         "verse": 19,
         "file": "13-19.webp",
         "alt": "Beeld bij Estherapocrief 13: Het volk roept tot God",
-        "scene": "Het volk roept tot God"
+        "scene": "Het volk roept tot God",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 14,
@@ -62977,6 +63014,66 @@
         "file": "16-22.webp",
         "alt": "Beeld bij Estherapocrief 16: Een dag van vreugde",
         "scene": "Een dag van vreugde"
+      },
+      {
+        "chapter": 11,
+        "verse": 4,
+        "file": "11-4-twee-draken-droom-verdieping.webp",
+        "scene": "Beeldspraak: twee draken in de droom",
+        "alt": "Beeldspraak: twee draken in de droom — Esther (apocrief) 11:4; tekstillustratie.",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 10,
+        "verse": 6,
+        "file": "10-droom-en-uitleg.svg",
+        "scene": "Droom en uitleg",
+        "alt": "Droom en uitleg met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1048
+      },
+      {
+        "chapter": 11,
+        "verse": 1,
+        "file": "11-brief-en-droom.svg",
+        "scene": "Brief en droom",
+        "alt": "Brief en droom met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1098
+      },
+      {
+        "chapter": 12,
+        "verse": 1,
+        "file": "12-complot-en-gevolg.svg",
+        "scene": "Complot en gevolg",
+        "alt": "Complot en gevolg met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1141
+      },
+      {
+        "chapter": 13,
+        "verse": 1,
+        "file": "13-besluit-en-smeekgebed.svg",
+        "scene": "Besluit en smeekgebed",
+        "alt": "Besluit en smeekgebed met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1091
+      },
+      {
+        "chapter": 11,
+        "verse": 2,
+        "file": "11-voorouders-mordechai.svg",
+        "scene": "De voorouders van Mordechai",
+        "alt": "De voorouders van Mordechai — Esther (apocrief) 11:2",
+        "kind": "diagram",
+        "width": 840,
+        "height": 608
       }
     ],
     "gebedvanazaria": [

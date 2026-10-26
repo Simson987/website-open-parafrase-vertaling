@@ -1,0 +1,175 @@
+{
+  "date": "2026-10-26",
+  "started": "2026-10-26T12:19:19Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "estherapocrief",
+      "chapter": 11,
+      "verse": 4,
+      "file": "11-4-twee-draken-droom-verdieping.webp",
+      "scene": "Beeldspraak: twee draken in de droom",
+      "alt": "Beeldspraak: twee draken in de droom — Esther (apocrief) 11:4; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: historical-scene. Photorealistic visualization for the apocryphal Esther text, ancient Persian setting, landscape 3:2, coherent anatomy, modest opaque clothes if people appear. No modern objects, readable writing, blood, injury or divine human figure. A photorealistic cinematic visualization of a symbolic ancient dream: two large dragon-like reptilian creatures face one another on a rocky plain beneath dark thunderclouds. Each has a single head, one tail, four coherent legs and no wings; jaws raised in a distant roar, no contact, injuries, fire breath or people. A small spring in the foreground begins flowing toward the horizon. The scene must read as a dream vision, not a historical animal encounter. Esther additions 11:4–8, symbolic conflict and emerging river.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "estherapocrief",
+      "chapter": 10,
+      "verse": 6,
+      "file": "10-droom-en-uitleg.svg",
+      "scene": "Droom en uitleg",
+      "alt": "Droom en uitleg met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1048,
+      "source": "Esther (apocrief) 10:4–13",
+      "design": {
+        "rows": [
+          [
+            "De kleine bron en rivier · 6",
+            "Esther, met wie de koning trouwde en die hij koningin maakte."
+          ],
+          [
+            "De twee draken · 7",
+            "Mordechai en Haman."
+          ],
+          [
+            "De volken · 8",
+            "Zij die samenkwamen om de naam van de Joden uit te wissen."
+          ],
+          [
+            "Het geredde volk · 9–13",
+            "Israël roept en wordt gered; twee loten en de feestdag op 14 Adar."
+          ]
+        ],
+        "note": "Dit zijn Mordechais expliciete verklaringen van zijn droom; de draken zijn geen letterlijke mensenlichamen."
+      }
+    },
+    {
+      "book": "estherapocrief",
+      "chapter": 11,
+      "verse": 1,
+      "file": "11-brief-en-droom.svg",
+      "scene": "Brief en droom",
+      "alt": "Brief en droom met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1098,
+      "source": "Esther (apocrief) 11:1–10",
+      "design": {
+        "rows": [
+          [
+            "Het overleveringsbericht · 1",
+            "Dositheüs en zijn zoon Ptolemeüs brengen de Purimbrief; Lysimachus wordt als vertaler genoemd."
+          ],
+          [
+            "De dromer · 2–3",
+            "Mordechai, uit Benjamin, woont in Susan en dient aan het hof."
+          ],
+          [
+            "De nood · 4–7",
+            "Draken, rumoer, volken, duisternis en een bedreigd rechtvaardig volk."
+          ],
+          [
+            "De omkeer · 8–10",
+            "Gebed, bron en rivier, licht en zon; Mordechai ontwaakt en zoekt begrip."
+          ]
+        ],
+        "note": "Het bericht over de brief staat in een andere tijdlaag dan de daaropvolgende droom."
+      }
+    },
+    {
+      "book": "estherapocrief",
+      "chapter": 12,
+      "verse": 1,
+      "file": "12-complot-en-gevolg.svg",
+      "scene": "Complot en gevolg",
+      "alt": "Complot en gevolg met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1141,
+      "source": "Esther (apocrief) 12:1–6",
+      "design": {
+        "rows": [
+          [
+            "Gabatha en Tharra · 1–2",
+            "Twee kamerdienaars bewaken het hof; Mordechai ontdekt hun plan en waarschuwt."
+          ],
+          [
+            "Onderzoek en kroniek · 3–4",
+            "Bekentenis, straf en de vastlegging door koning en Mordechai."
+          ],
+          [
+            "De beloning · 5",
+            "Mordechai krijgt hofdienst en geschenken."
+          ],
+          [
+            "De wrok · 6",
+            "Haman, zoon van Ammedatha uit Buga, zoekt kwaad tegen Mordechai en zijn volk."
+          ]
+        ],
+        "note": "Ontdekking, registratie, beloning en tegenstand vormen de opeenvolgende stappen."
+      }
+    },
+    {
+      "book": "estherapocrief",
+      "chapter": 13,
+      "verse": 1,
+      "file": "13-besluit-en-smeekgebed.svg",
+      "scene": "Besluit en smeekgebed",
+      "alt": "Besluit en smeekgebed met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1091,
+      "source": "Esther (apocrief) 13:1–19",
+      "design": {
+        "rows": [
+          [
+            "De koninklijke aanspraak · 1–3",
+            "Bestuur over 127 provincies en de door de brief geroemde Haman."
+          ],
+          [
+            "De beschuldiging en het bevel · 4–7",
+            "De brief belastert een volk en beveelt uitroeiing op 14 Adar."
+          ],
+          [
+            "Mordechais gebed · 8–18",
+            "Gods macht, de reden van zijn weigering en het verzoek om redding en vreugde."
+          ],
+          [
+            "Het volk · 19",
+            "Heel Israël roept uit alle macht tot God."
+          ]
+        ],
+        "note": "De beschuldigingen in de brief zijn de vijandige beweringen van het bevel, geen oordeel van deze leeswijzer."
+      }
+    },
+    {
+      "book": "estherapocrief",
+      "chapter": 11,
+      "verse": 2,
+      "file": "11-voorouders-mordechai.svg",
+      "scene": "De voorouders van Mordechai",
+      "alt": "De voorouders van Mordechai — Esther (apocrief) 11:2",
+      "kind": "diagram",
+      "width": 840,
+      "height": 608,
+      "source": "Esther (apocrief) 11:2",
+      "design": {
+        "type": "vertical named sequence",
+        "names": [
+          "Kis",
+          "Simeï",
+          "Jaïr",
+          "Mordechai"
+        ],
+        "note": "Van vader naar zoon volgens de genoemde reeks. Mordechai hoort bij de stam Benjamin."
+      }
+    }
+  ]
+}

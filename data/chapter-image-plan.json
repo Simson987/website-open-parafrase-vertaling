@@ -37134,6 +37134,83 @@
           "source": "Baruch 4:1–37"
         }
       ]
+    },
+    {
+      "book": "estherapocrief",
+      "chapter": 11,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Briefbezorging, rivier en ontwakend overdenken zijn aanwezig. De twee draken en de donkere dreiging vormen een zelfstandig ontbrekend droombeeld en krijgen één symbolische visualisatie. Een structuurwijzer en de gecontroleerde voorouderlijn onderscheiden tijdlagen en namen.",
+      "additions": [
+        {
+          "verse": 4,
+          "file": "11-4-twee-draken-droom-verdieping.webp",
+          "scene": "Beeldspraak: twee draken in de droom",
+          "kind": "poetic"
+        },
+        {
+          "verse": 1,
+          "file": "11-brief-en-droom.svg",
+          "scene": "Brief en droom",
+          "kind": "diagram",
+          "source": "Esther (apocrief) 11:1–10"
+        },
+        {
+          "verse": 2,
+          "file": "11-voorouders-mordechai.svg",
+          "scene": "De voorouders van Mordechai",
+          "kind": "diagram",
+          "source": "Esther (apocrief) 11:2"
+        }
+      ]
+    },
+    {
+      "book": "estherapocrief",
+      "chapter": 10,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "Mordechais overdenken, bron-rivierbeeld en Purimvreugde zijn aanwezig. Een precies uitlegschema verbindt de droomsymbolen aan de door Mordechai genoemde personen en groepen; een tweede rivierfoto is niet nodig.",
+      "additions": [
+        {
+          "verse": 6,
+          "file": "10-droom-en-uitleg.svg",
+          "scene": "Droom en uitleg",
+          "kind": "diagram",
+          "source": "Esther (apocrief) 10:4–13"
+        }
+      ]
+    },
+    {
+      "book": "estherapocrief",
+      "chapter": 12,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "Ontdekking van het complot, opschrijven en beloning zijn al aanwezig. Eén oorzaak-gevolgschema legt de relatie met Hamans wrok uit; een extra hofgesprek zou herhalen.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "12-complot-en-gevolg.svg",
+          "scene": "Complot en gevolg",
+          "kind": "diagram",
+          "source": "Esther (apocrief) 12:1–6"
+        }
+      ]
+    },
+    {
+      "book": "estherapocrief",
+      "chapter": 13,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "Besluitbezorging, Mordechais gebed en volksgebed zijn aanwezig. Eén schema stelt de verschillende stemmen en hun aanspraken naast elkaar en markeert de laster als vijandige bewering; geen dubbel gebedsbeeld.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "13-besluit-en-smeekgebed.svg",
+          "scene": "Besluit en smeekgebed",
+          "kind": "diagram",
+          "source": "Esther (apocrief) 13:1–19"
+        }
+      ]
     }
   ]
 }
