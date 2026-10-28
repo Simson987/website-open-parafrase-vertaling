@@ -1,0 +1,42 @@
+{
+  "date": "2026-10-26",
+  "started": "2026-10-26T12:19:19Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "gebedvanmanasse",
+      "chapter": 1,
+      "verse": 1,
+      "file": "1-lof-berouw-en-genade.svg",
+      "scene": "Lof, berouw en genade",
+      "alt": "Lof, berouw en genade met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1091,
+      "source": "Gebed van Manasse 1:1–14",
+      "design": {
+        "rows": [
+          [
+            "Het aanspreken · 1–5",
+            "God van de vaderen, Schepper en ontzagwekkende Rechter."
+          ],
+          [
+            "De barmhartigheid · 6–8",
+            "Geduld, vergeving en berouw dat tot redding leidt."
+          ],
+          [
+            "De erkenning · 9–11",
+            "Veel zonden, zware boeien en de knieën van het hart buigen."
+          ],
+          [
+            "Het verzoek · 12–14",
+            "Vergeving, behoud uit barmhartigheid en levenslange lof."
+          ]
+        ],
+        "note": "De tekst is een gebed. Het bestaande terugkeerbeeld verbeeldt herstel; hier wordt nog om vergeving gevraagd."
+      }
+    }
+  ]
+}

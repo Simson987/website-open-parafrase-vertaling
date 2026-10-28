@@ -32601,19 +32601,41 @@
         "chapter": 1,
         "file": "1-prayer.webp",
         "alt": "Een oudere koning knielt alleen in gebed",
-        "scene": "Het gebed van Manasse"
+        "scene": "Het gebed van Manasse",
+        "verse": 1,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 1,
         "file": "1-window.webp",
         "alt": "Biddende handen bij een venster in het ochtendlicht",
-        "scene": "Schuldbelijdenis"
+        "scene": "Schuldbelijdenis",
+        "verse": 11,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 1,
         "file": "1-return.webp",
         "alt": "Een teruggekeerde koning komt tussen zijn stadsgenoten door de poort",
-        "scene": "Terugkeer"
+        "scene": "Terugkeer",
+        "verse": 13,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 1,
+        "verse": 1,
+        "file": "1-lof-berouw-en-genade.svg",
+        "scene": "Lof, berouw en genade",
+        "alt": "Lof, berouw en genade met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1091
       }
     ],
     "habakuk": [
