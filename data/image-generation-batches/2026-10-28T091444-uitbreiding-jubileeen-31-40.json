@@ -1,0 +1,544 @@
+{
+  "date": "2026-10-28",
+  "started": "2026-10-28T09:14:44Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "jubileeen",
+      "chapter": 31,
+      "verse": 6,
+      "file": "31-6-rebekka-ontmoet-jakob-verdieping.webp",
+      "scene": "Rebekka omhelst Jakob bij de toren",
+      "alt": "Rebekka omhelst Jakob bij de toren — Jubileeën 31:6; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of the narrative in Jubilees, ancient natural materials, landscape 3:2, opaque modest robes, coherent human anatomy with exactly two arms and natural hands. No modern objects, readable text, human portrait of God, blood, wounds or corpses. Elderly Rebekah in a fully covering plain robe comes out of an ancient stone tower gate and embraces her adult son Jacob affectionately. His two grown sons Levi and Judah stand a few steps behind, waiting respectfully, precisely four main people, ordinary two arms each. Jubilees 31:5–7 mother and sons reunion, distinct from Isaacs two-handed blessing inside.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "jubileeen",
+      "chapter": 32,
+      "verse": 21,
+      "file": "32-21-zeven-platen-in-het-visioen-verdieping.webp",
+      "scene": "Visioen: de engel brengt zeven platen",
+      "alt": "Visioen: de engel brengt zeven platen — Jubileeën 32:21; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of the narrative in Jubilees, ancient natural materials, landscape 3:2, opaque modest robes, coherent human anatomy with exactly two arms and natural hands. No modern objects, readable text, human portrait of God, blood, wounds or corpses. A robed luminous angel giving Jacob a clearly visible stack of exactly seven separate thin rectangular stone tablets, all seven exposed edges distinct, resting together on a simple low stone table so no impossible grip is needed. Jacob seated reading the top tablet with indistinct nonreadable marks, two arms each; a visionary night landscape at Bethel. No God figure or extra tablets. Jubilees 32:21–24, seven tablets in the dream, not the two tablets of Moses.",
+      "edit_prompt": "Edit only the count of stone tablets in this image: the stack on the table currently has seven tablets, and Jacob holds one more, making eight. Remove exactly one tablet from the bottom of the stack, leaving exactly SIX separate stone tablets stacked on the table and exactly ONE tablet held in Jacob's hands, for SEVEN tablets total. Preserve the people, their hands, clothing, setting, lighting, composition, table and all other details. The stack must have six clearly distinct tablet slabs, not seven. No extra tablet anywhere else.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "jubileeen",
+      "chapter": 32,
+      "verse": 33,
+      "file": "32-33-ben-oni-wordt-benjamin-verdieping.webp",
+      "scene": "Ben-oni wordt Benjamin",
+      "alt": "Ben-oni wordt Benjamin — Jubileeën 32:33; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of the narrative in Jubilees, ancient natural materials, landscape 3:2, opaque modest robes, coherent human anatomy with exactly two arms and natural hands. No modern objects, readable text, human portrait of God, blood, wounds or corpses. Jacob, a mature adult in a modest robe, seated outside an ancient travel tent holding a fully swaddled newborn safely in both arms, head supported, a kind older female attendant seated beside him. Solemn loving expression and soft night lantern light; no visible mother, childbirth, nudity or dead body. Jubilees 32:33–34, the newborn named Ben-oni by Rachel and Benjamin by his father, represented as the surviving child without showing Rachels death.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "jubileeen",
+      "chapter": 39,
+      "verse": 11,
+      "file": "39-11-kleed-en-kapotte-deur-verdieping.webp",
+      "scene": "Het kleed en de kapotte deur",
+      "alt": "Het kleed en de kapotte deur — Jubileeën 39:11; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of the narrative in Jubilees, ancient natural materials, landscape 3:2, opaque modest robes, coherent human anatomy with exactly two arms and natural hands. No modern objects, readable text, human portrait of God, blood, wounds or corpses. An empty room in an ancient Egyptian house, a simple linen outer garment lying on a low bench beside a visibly damaged wooden door with a broken latch. Natural daylight through a small window, no people, bodies, bed scene, sexual content or readable accusation. Jubilees 39:10–11, the garment and damaged door seen by Josephs master after the false accusation; objects do not prove the womans accusation true.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "jubileeen",
+      "chapter": 40,
+      "verse": 6,
+      "file": "40-6-jozef-in-de-tweede-wagen-verdieping.webp",
+      "scene": "Jozef rijdt in de tweede wagen",
+      "alt": "Jozef rijdt in de tweede wagen — Jubileeën 40:6; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of the narrative in Jubilees, ancient natural materials, landscape 3:2, opaque modest robes, coherent human anatomy with exactly two arms and natural hands. No modern objects, readable text, human portrait of God, blood, wounds or corpses. Joseph, a thirty-year-old man in fine opaque linen with a golden neck chain, standing calmly in an ancient Egyptian two-wheeled horse-drawn chariot alongside a charioteer. A few attendants watch in a broad sunlit street, anatomically correct horses and humans; no modern wheels, battle or crown implying Joseph is Pharaoh. Jubilees 40:6–11 riding in Pharaohs second chariot as second ruler, distinct from receiving clothing indoors.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "jubileeen",
+      "chapter": 31,
+      "verse": 12,
+      "file": "31-levi-juda-en-de-gelofte.svg",
+      "scene": "Levi, Juda en de gelofte",
+      "alt": "Levi, Juda en de gelofte met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "Jubileeën 31:1–32",
+      "design": {
+        "rows": [
+          [
+            "Voorbereiding · 1–3",
+            "Reinigen en vreemde goden vernietigen; naar Beth-el op maand 7, dag 1."
+          ],
+          [
+            "Rechterhand · 12–17",
+            "Levi: heiligdomdienst, rechters en spreken van recht."
+          ],
+          [
+            "Linkerhand · 12,18–21",
+            "Juda: heerschappij, hulp en vrede voor Jakobs nakomelingen."
+          ],
+          [
+            "Reis · 26–32",
+            "Izak 165 en te oud; Rebekka en Debora gaan mee; gelofte uitvoeren."
+          ]
+        ],
+        "note": "De handen zijn die van Izak: Levi rechts en Juda links. De zegenrollen blijven onderscheiden."
+      }
+    },
+    {
+      "book": "jubileeen",
+      "chapter": 32,
+      "verse": 1,
+      "file": "32-offers-tienden-en-toevoeging.svg",
+      "scene": "Offers, tienden en Toevoeging",
+      "alt": "Offers, tienden en Toevoeging met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1177,
+      "source": "Jubileeën 32:1–29",
+      "design": {
+        "rows": [
+          [
+            "Begin · 1–4",
+            "Levi droomt van priesterschap; dag 15: 14 runderen, 28 rammen, 49 schapen, 60 lammeren, 29 bokjes."
+          ],
+          [
+            "Tienden · 5–15",
+            "Gelofte en reine dieren; tweede tiende elk jaar op gekozen plaats eten; oude rest verbranden."
+          ],
+          [
+            "Visioen · 16–26",
+            "Dag 22; naam Israël; zeven platen; hier geen eeuwig heiligdom bouwen."
+          ],
+          [
+            "Toevoeging · 27–29",
+            "Na de zeven dagen nog één feestdag met dezelfde offers."
+          ]
+        ],
+        "note": "De zeven platen bevatten niet zeven afzonderlijk opgesomde wetten; het schema vult hun teksten niet in."
+      }
+    },
+    {
+      "book": "jubileeen",
+      "chapter": 32,
+      "verse": 30,
+      "file": "32-twee-namen-twee-rouwmomenten.svg",
+      "scene": "Twee namen, twee rouwmomenten",
+      "alt": "Twee namen, twee rouwmomenten met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1177,
+      "source": "Jubileeën 32:30–34",
+      "design": {
+        "rows": [
+          [
+            "Debora · 30",
+            "Verzorgster van Rebekka; sterft in nacht van dag 23; begraven onder eik bij de rivier."
+          ],
+          [
+            "Allon-Bachuth · 30",
+            "Eik van de rouw om Debora; rivier van Debora."
+          ],
+          [
+            "Rebekka en Jakob · 31–32",
+            "Zij terug naar Izak; Jakob volgt tot Kabratan."
+          ],
+          [
+            "Rachel en zoon · 33–34",
+            "Ben-oni, zoon van mijn pijn; vader noemt hem Benjamin; Rachel sterft en wordt in Efrath/Bethlehem begraven."
+          ]
+        ],
+        "note": "Debora’s eik en Rachels graf zijn verschillende plaatsen en momenten. De geboorte krijgt een bedekt beeld van het kind."
+      }
+    },
+    {
+      "book": "jubileeen",
+      "chapter": 33,
+      "verse": 1,
+      "file": "33-bilhas-getuigenis-en-de-wet.svg",
+      "scene": "Bilha’s getuigenis en de wet",
+      "alt": "Bilha’s getuigenis en de wet met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1412,
+      "source": "Jubileeën 33:1–23",
+      "design": {
+        "rows": [
+          [
+            "Afwezigheid · 1",
+            "Jakob en Lea naar Izak op maand 10, dag 1."
+          ],
+          [
+            "Bilha · 2–7",
+            "Ruben komt terwijl zij slaapt; zij merkt het pas later en vertelt het Jakob."
+          ],
+          [
+            "Reactie · 8–9",
+            "Jakob kwaad op Ruben; verdere relatie met Bilha stopt."
+          ],
+          [
+            "Wet en toelichting · 10–20",
+            "Verbod en straf; de rede verklaart Rubens voortleven met nog niet volledig bekendgemaakte wet."
+          ],
+          [
+            "Familiebezoek · 21–23",
+            "Bij Abrahamshuis; Ruben als eerstgeborene genoemd; eerbied voor Izak en Rebekka."
+          ]
+        ],
+        "note": "De vertelling beschrijft geen instemming van Bilha. Haar getuigenis en de latere strafregel worden afzonderlijk samengevat."
+      }
+    },
+    {
+      "book": "jubileeen",
+      "chapter": 34,
+      "verse": 2,
+      "file": "34-zeven-amorietische-koningsplaatsen.svg",
+      "scene": "Zeven koningsplaatsen",
+      "alt": "Zeven koningsplaatsen met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1005,
+      "source": "Jubileeën 34:2–9",
+      "design": {
+        "rows": [
+          [
+            "1–3 · 4",
+            "Tafu · Arees · Seragan."
+          ],
+          [
+            "4–7 · 4",
+            "Selo · Gaäz · Bethoron · Maänisakir."
+          ],
+          [
+            "Bij Izak · 3",
+            "Jakob, Levi, Juda en Jozef; Benjamin blijft als jongste."
+          ],
+          [
+            "Uittocht · 5–9",
+            "Bericht; Jakob met drie zonen en 6000 man; kudden terug en thuiskomst."
+          ]
+        ],
+        "note": "De namen zijn plaatsen van koningen, geen zeven persoonsnamen. Benjamin wordt niet bij de drie uitrukkende zonen geteld."
+      }
+    },
+    {
+      "book": "jubileeen",
+      "chapter": 34,
+      "verse": 10,
+      "file": "34-bericht-rouw-en-herinneringsdag.svg",
+      "scene": "Bericht, rouw en herinneringsdag",
+      "alt": "Bericht, rouw en herinneringsdag met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1170,
+      "source": "Jubileeën 34:10–21",
+      "design": {
+        "rows": [
+          [
+            "De mantel · 10–13",
+            "Plan tegen Jozef; mantel met bokkenbloed op maand 7, dag 10; Jakob denkt aan een wild dier."
+          ],
+          [
+            "Drievoudige rouw · 14–17",
+            "Verdriet om Jozef; Bilha sterft in Qafratef; Dina sterft; beide bij Rachel begraven."
+          ],
+          [
+            "Een jaar · 17",
+            "Jakob blijft rouwen."
+          ],
+          [
+            "Jaarlijkse herinnering · 18–19",
+            "Maand 7, dag 10: verootmoediging en verzoening met een bokje."
+          ]
+        ],
+        "note": "Het doodsbericht is wat de familie gelooft; Jozef leeft verder in hoofdstuk 39. De leeswijzer maakt zijn dood niet tot vastgesteld feit."
+      }
+    },
+    {
+      "book": "jubileeen",
+      "chapter": 36,
+      "verse": 1,
+      "file": "36-eed-erfrecht-en-rouw.svg",
+      "scene": "Eed, erfrecht en rouw",
+      "alt": "Eed, erfrecht en rouw met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1177,
+      "source": "Jubileeën 36:1–24",
+      "design": {
+        "rows": [
+          [
+            "Laatste opdracht · 1–11",
+            "Machpela als graf; liefde als broers en plechtige eed om elkaar niet te schaden."
+          ],
+          [
+            "Bezitsverdeling · 12–16",
+            "Grootste deel met toren voor eerstgeborene; Ezau erkent dat Jakob dit recht gekocht heeft."
+          ],
+          [
+            "Afscheid · 17–20",
+            "Samen eten; Izak slaapt in; Ezau naar Seïr, Jakob bij Hebron."
+          ],
+          [
+            "Lea · 21–24",
+            "Sterft; links van Sara bij Rebekka begraven; kinderen troosten Jakob."
+          ]
+        ],
+        "note": "De toewijzing van de toren volgt Ezau’s erkenning; ze wordt niet ondanks zijn verkoop toch aan Ezau gegeven."
+      }
+    },
+    {
+      "book": "jubileeen",
+      "chapter": 37,
+      "verse": 1,
+      "file": "37-van-eed-naar-gewapende-dreiging.svg",
+      "scene": "Van eed naar gewapende dreiging",
+      "alt": "Van eed naar gewapende dreiging met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1091,
+      "source": "Jubileeën 37:1–19,24–25",
+      "design": {
+        "rows": [
+          [
+            "Zonen · 1–8",
+            "Verzetten zich tegen verkoop en vredeseed; dreigen ook hun vader."
+          ],
+          [
+            "Huurkrachten · 9–10",
+            "1000 bij Aram en Aduram; 1000 uit Moab en Ammon."
+          ],
+          [
+            "Ezau · 11–13",
+            "Gedwongen voorop; eigen oude kwaad herleeft; vredeseed vergeten."
+          ],
+          [
+            "Waarschuwing · 14–19",
+            "Hebron meldt 4000 gewapenden; Jakob sluit de torenpoort."
+          ]
+        ],
+        "note": "De twee genoemde groepen van 1000 vormen niet op zichzelf de 4000 uit het bericht; de tekst wordt niet met verzonnen manschappen aangevuld."
+      }
+    },
+    {
+      "book": "jubileeen",
+      "chapter": 37,
+      "verse": 20,
+      "file": "37-vergelijkingen-van-onmogelijke-vrede.svg",
+      "scene": "Beelden van onmogelijke vrede",
+      "alt": "Beelden van onmogelijke vrede met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 962,
+      "source": "Jubileeën 37:20–23",
+      "design": {
+        "rows": [
+          [
+            "Wild zwijn · 20",
+            "Zachte wol in plaats van borstels en horens als hert of schaap."
+          ],
+          [
+            "Wolf en lam · 21",
+            "Vrede zonder verslinden."
+          ],
+          [
+            "Leeuw en rund · 22",
+            "Leeuw als schuilplaats voor het rund."
+          ],
+          [
+            "Raaf · 23",
+            "Zo wit als de witte raza."
+          ]
+        ],
+        "note": "Dit zijn Ezau’s onmogelijke voorwaarden voor vrede, geen echte dierveranderingen. Raza blijft de plaatselijke naam zonder soortidentificatie."
+      }
+    },
+    {
+      "book": "jubileeen",
+      "chapter": 38,
+      "verse": 4,
+      "file": "38-vier-kanten-van-de-toren.svg",
+      "scene": "Vier kanten van de toren",
+      "alt": "Vier kanten van de toren met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1005,
+      "source": "Jubileeën 38:4–8",
+      "design": {
+        "rows": [
+          [
+            "Zuid · 5",
+            "Juda, Nafthali, Gad; 50 knechten."
+          ],
+          [
+            "Oost · 6",
+            "Levi, Dan, Aser; 50 man; Moab en Ammon."
+          ],
+          [
+            "Noord · 7",
+            "Ruben, Issaschar, Zebulon; 50 man; Filistijnen."
+          ],
+          [
+            "West · 8",
+            "Simeon, Benjamin, Hanoch, zoon van Ruben; 50 man; Edom en Horieten."
+          ]
+        ],
+        "note": "Hanoch is Rubens zoon. De schemaformatie telt hem niet als twaalfde zoon van Jakob en voegt Jozef niet aan een richting toe."
+      }
+    },
+    {
+      "book": "jubileeen",
+      "chapter": 38,
+      "verse": 1,
+      "file": "38-strijd-onderwerping-en-vrede.svg",
+      "scene": "Strijd, onderwerping en vrede",
+      "alt": "Strijd, onderwerping en vrede met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1213,
+      "source": "Jubileeën 38:1–14",
+      "design": {
+        "rows": [
+          [
+            "Bij de toren · 1–3",
+            "Juda spoort Jakob aan; Ezau en de Arameeër Aduran worden door pijlen gedood."
+          ],
+          [
+            "Uitval · 4–8",
+            "Vier kanten; westelijke groep doodt 400 krijgers, 600 vluchten."
+          ],
+          [
+            "Seïr · 9–12",
+            "Achtervolging en onderwerping; Jakob beveelt vrede in plaats van verdere doding."
+          ],
+          [
+            "Gevolg · 13–14",
+            "Edom onder juk tot Jakobs vertrek naar Egypte en in de vertellerstijd."
+          ]
+        ],
+        "note": "De naam is hier Aduran, tegenover Aduram in hoofdstuk 37. De geweldshandelingen worden zakelijk beschreven zonder nieuwe dodingstaferelen."
+      }
+    },
+    {
+      "book": "jubileeen",
+      "chapter": 38,
+      "verse": 16,
+      "file": "38-acht-koningen-van-edom.svg",
+      "scene": "Acht koningen van Edom",
+      "alt": "Acht koningen van Edom met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1303,
+      "source": "Jubileeën 38:16–24",
+      "design": {
+        "rows": [
+          [
+            "1 · Bela · 16",
+            "Zoon van Beor; stad Dinhaba."
+          ],
+          [
+            "2 · Jobab · 17",
+            "Zoon van Zerah uit Bozra."
+          ],
+          [
+            "3 · Husam · 18",
+            "Uit bergland Teman."
+          ],
+          [
+            "4 · Hadad · 19",
+            "Zoon van Bedad; stad Avith."
+          ],
+          [
+            "5–6 · 20–21",
+            "Samla uit Masreka; daarna Saul uit Rehoboth aan de rivier."
+          ],
+          [
+            "7–8 · 22–23",
+            "Baäl-Hanan, zoon van Achbor; daarna Hadar, man van Mehetabeël."
+          ]
+        ],
+        "note": "Mehetabeël is dochter van Matred en kleindochter van Mezahab. Dit is opvolging, geen vader-zoonstamboom van alle koningen."
+      }
+    },
+    {
+      "book": "jubileeen",
+      "chapter": 39,
+      "verse": 3,
+      "file": "39-vertrouwen-dwang-en-vergeten-hulp.svg",
+      "scene": "Dwang en vergeten hulp",
+      "alt": "Dwang en vergeten hulp met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1177,
+      "source": "Jubileeën 39:3–18",
+      "design": {
+        "rows": [
+          [
+            "In het huis · 3–5",
+            "Heer vertrouwt alles aan Jozef toe; zijn werk slaagt."
+          ],
+          [
+            "Dwang en beschuldiging · 6–11",
+            "Herhaald aandringen; Jozef weigert; vrouw houdt vast en beschuldigt hem vals; kleed en deur gezien."
+          ],
+          [
+            "In de gevangenis · 12–15",
+            "Verantwoordelijkheid; twee jaar; schenker en bakker aan zijn zorg toevertrouwd."
+          ],
+          [
+            "Dromen · 16–18",
+            "Verteld en uitgelegd; uitkomst klopt; schenker vergeet Jozef."
+          ]
+        ],
+        "note": "De naam van de Egyptische heer staat hier niet. De valse beschuldiging wordt niet als daad van Jozef gepresenteerd."
+      }
+    },
+    {
+      "book": "jubileeen",
+      "chapter": 40,
+      "verse": 1,
+      "file": "40-dromen-beleid-en-opbrengst.svg",
+      "scene": "Dromen, beleid en opbrengst",
+      "alt": "Dromen, beleid en opbrengst met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1127,
+      "source": "Jubileeën 40:1–13",
+      "design": {
+        "rows": [
+          [
+            "Dromen · 1–3",
+            "Twee dromen in één nacht; Jozef verklaart één boodschap."
+          ],
+          [
+            "Beleid · 4–9",
+            "Voedsel per stad voor 7 hongerjaren; tweede man, tweede wagen, fijn linnen en goud."
+          ],
+          [
+            "Naam en leeftijd · 10–11",
+            "Zafnath Paäneah; 30 jaar voor Farao."
+          ],
+          [
+            "Overvloed · 12–13",
+            "7 jaren; één maat levert 1800 maten; graan niet meer te tellen."
+          ]
+        ],
+        "note": "De maatverhouding is precies de tekst. De droominhoud van koeien of aren wordt hier niet uitgewerkt omdat dit hoofdstuk die niet beschrijft."
+      }
+    }
+  ]
+}
