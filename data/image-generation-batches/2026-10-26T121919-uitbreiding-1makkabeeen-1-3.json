@@ -1,0 +1,293 @@
+{
+  "date": "2026-10-28",
+  "resumed": "2026-10-28T07:08:34Z",
+  "started": "2026-10-26T12:19:19Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "1makkabeeen",
+      "chapter": 1,
+      "verse": 60,
+      "file": "1-60-wetboeken-verbrand-verdieping.webp",
+      "scene": "Wetboeken worden verbrand",
+      "alt": "Wetboeken worden verbrand — 1 Makkabeeën 1:60; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic scene in second-century BCE Judea or a Seleucid court as specified, landscape 3:2, historical Hellenistic materials and modest opaque clothes, coherent anatomy with exactly two arms per human. No modern objects, readable text, blood, injury, dead bodies or divine human figure. In an ancient Judean stone courtyard, a Seleucid official in a simple Hellenistic tunic places a torn parchment scroll onto a small contained brazier fire. A few discarded scroll fragments lie on a table, and two adult Jewish observers in modest robes watch sorrowfully from a distance. Focus on destruction of written books and suppression of worship, no assault, bodies, children threatened or legible words. 1 Maccabees 1:60, accurate hands and two arms each.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "1makkabeeen",
+      "chapter": 1,
+      "verse": 57,
+      "file": "1-57-schuilplaats-in-rotsen-verdieping.webp",
+      "scene": "Schuilen in rotsen en holen",
+      "alt": "Schuilen in rotsen en holen — 1 Makkabeeën 1:57; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic scene in second-century BCE Judea or a Seleucid court as specified, landscape 3:2, historical Hellenistic materials and modest opaque clothes, coherent anatomy with exactly two arms per human. No modern objects, readable text, blood, injury, dead bodies or divine human figure. A few modestly clothed ancient Judean families shelter quietly near the entrance of a rocky cave in the dry hills, carrying blankets, bread baskets and water jars. Adults keep a calm protective presence beside children, no pursuers or weapons visible and no injuries. Sober daylight and rough limestone, an illustration of the hiding places in 1 Maccabees 1:57, not a battle scene.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "1makkabeeen",
+      "chapter": 2,
+      "verse": 41,
+      "file": "2-41-besluit-over-sabbat-verdieping.webp",
+      "scene": "Het besluit over verdediging",
+      "alt": "Het besluit over verdediging — 1 Makkabeeën 2:41; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic scene in second-century BCE Judea or a Seleucid court as specified, landscape 3:2, historical Hellenistic materials and modest opaque clothes, coherent anatomy with exactly two arms per human. No modern objects, readable text, blood, injury, dead bodies or divine human figure. Mattathias, an older bearded Judean priest in modest robes, sits with several adult companions in a rocky wilderness camp, discussing a grave decision with open natural hand gestures. Shields and walking sticks rest safely on the ground, no fighting, child soldiers or bodies. Their expressions show mourning and determination. 1 Maccabees 2:39–41, the decision about defending life when attacked on the Sabbath, distinct from his final speech to his five sons.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "1makkabeeen",
+      "chapter": 3,
+      "verse": 28,
+      "file": "3-28-jaar-soldij-verdieping.webp",
+      "scene": "Een jaar soldij uit de schatkamer",
+      "alt": "Een jaar soldij uit de schatkamer — 1 Makkabeeën 3:28; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic scene in second-century BCE Judea or a Seleucid court as specified, landscape 3:2, historical Hellenistic materials and modest opaque clothes, coherent anatomy with exactly two arms per human. No modern objects, readable text, blood, injury, dead bodies or divine human figure. In a Seleucid royal treasury, a Hellenistic official in modest formal tunic counts silver coins onto a table before several adult soldiers awaiting pay. An adult king observes near open storage chests, no modern banknotes, readable script or pointed weapons. Accurate distinct hands and historical coin shapes. Focus on an advance of military wages and the burden on the treasury in 1 Maccabees 3:28–30, no battle or violence.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "1makkabeeen",
+      "chapter": 1,
+      "verse": 1,
+      "file": "1-van-alexander-naar-dwang.svg",
+      "scene": "Van Alexander naar dwang",
+      "alt": "Van Alexander naar dwang met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1141,
+      "source": "1 Makkabeeën 1:1–68",
+      "design": {
+        "rows": [
+          [
+            "Macht en opvolging · 1–16",
+            "Alexander, zijn dienaren en Antiochus; een deel van Israël neemt vreemde gewoonten over."
+          ],
+          [
+            "Oorlog en plundering · 17–29",
+            "Egypte, de tempelvoorwerpen en rouw in Israël."
+          ],
+          [
+            "De bezette stad · 30–43",
+            "Bedrog, verwoesting, een burcht en vlucht van bewoners."
+          ],
+          [
+            "De dwang · 44–68",
+            "Eén volk en vreemde wetten; onderdrukte eredienst, verbrande boeken en volgehouden trouw."
+          ]
+        ],
+        "note": "De briefbevelen en het geweld worden als handelingen van de onderdrukkers beschreven."
+      }
+    },
+    {
+      "book": "1makkabeeen",
+      "chapter": 1,
+      "verse": 58,
+      "file": "1-jaren-en-kislev.svg",
+      "scene": "Jaren en dagen van Kislev",
+      "alt": "Jaren en dagen van Kislev met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1048,
+      "source": "1 Makkabeeën 1:11,21,58,63",
+      "design": {
+        "rows": [
+          [
+            "Jaar 137 · 11",
+            "Antiochus begint te regeren volgens de genoemde Griekse jaartelling."
+          ],
+          [
+            "Jaar 143 · 21",
+            "Terugkeer na de veldtocht in Egypte."
+          ],
+          [
+            "Jaar 145, 15 Kislev · 58",
+            "De gruwel van verwoesting wordt op het reukofferaltaar gebouwd."
+          ],
+          [
+            "25ste van de maand · 63",
+            "Er wordt geofferd op het aangebrachte altaar."
+          ]
+        ],
+        "note": "De cijfers volgen de plaatselijke tekst; zij worden hier niet naar een andere kalender omgerekend."
+      }
+    },
+    {
+      "book": "1makkabeeen",
+      "chapter": 2,
+      "verse": 1,
+      "file": "2-mattathias-en-zonen.svg",
+      "scene": "Mattathias en zijn zonen",
+      "alt": "Mattathias en zijn zonen met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1141,
+      "source": "1 Makkabeeën 2:1–5,65–66",
+      "design": {
+        "rows": [
+          [
+            "De vader · 1",
+            "Mattathias, zoon van Johannes, zoon van Simeon; priester uit Jojarib, wonend in Modin."
+          ],
+          [
+            "De vijf zonen · 2–5",
+            "Johannes/Jaddis, Simon/Thassi, Judas/de Makkabeeër, Eleazar/Auäran en Jonathan/Sapfus."
+          ],
+          [
+            "De raadgever · 65",
+            "Simon zal voor zijn broers een vader zijn."
+          ],
+          [
+            "De legerleider · 66",
+            "Judas wordt als sterk en krachtig aangewezen voor de oorlog."
+          ]
+        ],
+        "note": "De bijnamen volgen deze editie; de rol van Simon is onderscheiden van de legerleiding van Judas."
+      }
+    },
+    {
+      "book": "1makkabeeen",
+      "chapter": 2,
+      "verse": 15,
+      "file": "2-verzet-en-opvolging.svg",
+      "scene": "Verzet en opvolging",
+      "alt": "Verzet en opvolging met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1177,
+      "source": "1 Makkabeeën 2:15–70",
+      "design": {
+        "rows": [
+          [
+            "De weigering · 15–22",
+            "Mattathias wijst de beloning af en houdt vast aan het voorouderlijke verbond."
+          ],
+          [
+            "Opstand en vlucht · 23–38",
+            "Geweld bij het altaar, vlucht en de ramp bij de holen op sabbat."
+          ],
+          [
+            "Het besluit · 39–48",
+            "Verdediging bij aanval op sabbat, aansluiting van medestanders en rondtrekkend verzet."
+          ],
+          [
+            "De overdracht · 49–70",
+            "Voorbeelden uit de vaderen, taken voor Simon en Judas, zegen en begrafenis."
+          ]
+        ],
+        "note": "De opeenvolging maakt zichtbaar hoe de ramp aanleiding geeft tot het besluit over verdediging."
+      }
+    },
+    {
+      "book": "1makkabeeen",
+      "chapter": 2,
+      "verse": 52,
+      "file": "2-voorbeelden-van-trouw.svg",
+      "scene": "Voorbeelden van trouw",
+      "alt": "Voorbeelden van trouw met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1197,
+      "source": "1 Makkabeeën 2:52–60",
+      "design": {
+        "rows": [
+          [
+            "Abraham en Jozef · 52–53",
+            "Trouw in beproeving; het gebod bewaren in nood."
+          ],
+          [
+            "Pinehas, Jozua, Kaleb · 54–56",
+            "Priesterschap, uitvoering van het woord en ontvangen erfdeel."
+          ],
+          [
+            "David en Elia · 57–58",
+            "Koningsverbond en ijver voor de wet."
+          ],
+          [
+            "Hananja, Azarja, Misaël · 59",
+            "Geloof en redding uit de vlammen."
+          ],
+          [
+            "Daniël · 60",
+            "Eenvoud en redding uit de muil van de leeuwen."
+          ]
+        ],
+        "note": "Dit zijn de herinnerde voorbeelden in Mattathias’ toespraak, geen tegelijk aanwezige raadgevers."
+      }
+    },
+    {
+      "book": "1makkabeeen",
+      "chapter": 3,
+      "verse": 1,
+      "file": "3-judas-en-twee-fronten.svg",
+      "scene": "Judas en de twee fronten",
+      "alt": "Judas en de twee fronten met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1184,
+      "source": "1 Makkabeeën 3:1–60",
+      "design": {
+        "rows": [
+          [
+            "Het optreden · 1–26",
+            "Judas volgt zijn vader op; Apollonius en Seron worden verslagen."
+          ],
+          [
+            "Het koninklijke plan · 27–40",
+            "Soldij, geldgebrek, Antiochus naar Perzië en Lysias met bevelhebbers naar Juda."
+          ],
+          [
+            "De dreiging · 41–43",
+            "Handelaren verwachten gevangenen te kopen; Judas en zijn broers beraadslagen."
+          ],
+          [
+            "De voorbereiding · 44–60",
+            "Gebed in Mispa, wet, trompetten, leiders en vrijstellingen voor de strijd."
+          ]
+        ],
+        "note": "De leeuw in vers 4 beschrijft Judas’ optreden als vergelijking."
+      }
+    },
+    {
+      "book": "1makkabeeen",
+      "chapter": 3,
+      "verse": 32,
+      "file": "3-bevelhebbers-en-taken.svg",
+      "scene": "Bevelhebbers en taken",
+      "alt": "Bevelhebbers en taken met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1141,
+      "source": "1 Makkabeeën 3:32–40,55–56",
+      "design": {
+        "rows": [
+          [
+            "Lysias · 32–36",
+            "Toezicht van Eufraat tot Egypte, zorg voor de koningszoon en een militaire opdracht."
+          ],
+          [
+            "Antiochus · 37",
+            "Met de andere helft van de troepen op reis naar het oosten."
+          ],
+          [
+            "Ptolemeüs, Nikanor, Gorgias · 38–40",
+            "Door Lysias uitgekozen; kamp bij Emmaüs met 40.000 man en 7.000 ruiters."
+          ],
+          [
+            "Judas’ leiders · 55–56",
+            "Over duizend, honderd, vijftig en tien; bouwers, pasgetrouwden, planters en angstigen mogen terug."
+          ]
+        ],
+        "note": "De koninklijke bevelslijn en Judas’ voorbereiding zijn afzonderlijke organisaties."
+      }
+    }
+  ]
+}

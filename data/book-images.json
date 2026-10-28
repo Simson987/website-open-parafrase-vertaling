@@ -63480,7 +63480,11 @@
         "chapter": 1,
         "file": "1-family.webp",
         "alt": "Een familie houdt vast aan haar gebruiken",
-        "scene": "Trouw in moeilijke tijden"
+        "scene": "Trouw in moeilijke tijden",
+        "verse": 66,
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 4,
@@ -63681,56 +63685,80 @@
         "verse": 23,
         "file": "1-23.webp",
         "alt": "Beeld bij 1makkabeeen 1: De tempelschatten weggevoerd",
-        "scene": "De tempelschatten weggevoerd"
+        "scene": "De tempelschatten weggevoerd",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 1,
         "verse": 26,
         "file": "1-26.webp",
         "alt": "Beeld bij 1makkabeeen 1: Rouw in Israël",
-        "scene": "Rouw in Israël"
+        "scene": "Rouw in Israël",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 2,
         "verse": 20,
         "file": "2-20.webp",
         "alt": "Beeld bij 1makkabeeen 2: Trouw aan het verbond",
-        "scene": "Trouw aan het verbond"
+        "scene": "Trouw aan het verbond",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 2,
         "verse": 28,
         "file": "2-28.webp",
         "alt": "Beeld bij 1makkabeeen 2: Vlucht naar de bergen",
-        "scene": "Vlucht naar de bergen"
+        "scene": "Vlucht naar de bergen",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 2,
         "verse": 49,
         "file": "2-49.webp",
         "alt": "Beeld bij 1makkabeeen 2: Laatste woorden aan de zonen",
-        "scene": "Laatste woorden aan de zonen"
+        "scene": "Laatste woorden aan de zonen",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 3,
         "verse": 1,
         "file": "3-1.webp",
         "alt": "Beeld bij 1makkabeeen 3: Judas neemt de leiding",
-        "scene": "Judas neemt de leiding"
+        "scene": "Judas neemt de leiding",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 3,
         "verse": 18,
         "file": "3-18.webp",
         "alt": "Beeld bij 1makkabeeen 3: Moed tegenover een overmacht",
-        "scene": "Moed tegenover een overmacht"
+        "scene": "Moed tegenover een overmacht",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 3,
         "verse": 48,
         "file": "3-48.webp",
         "alt": "Beeld bij 1makkabeeen 3: De wet uitgerold in Mispa",
-        "scene": "De wet uitgerold in Mispa"
+        "scene": "De wet uitgerold in Mispa",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 4,
@@ -63808,6 +63836,116 @@
         "file": "7-48.webp",
         "alt": "Beeld bij 1makkabeeen 7: Vreugde na de overwinning",
         "scene": "Vreugde na de overwinning"
+      },
+      {
+        "chapter": 1,
+        "verse": 60,
+        "file": "1-60-wetboeken-verbrand-verdieping.webp",
+        "scene": "Wetboeken worden verbrand",
+        "alt": "Wetboeken worden verbrand — 1 Makkabeeën 1:60; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 1,
+        "verse": 57,
+        "file": "1-57-schuilplaats-in-rotsen-verdieping.webp",
+        "scene": "Schuilen in rotsen en holen",
+        "alt": "Schuilen in rotsen en holen — 1 Makkabeeën 1:57; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 2,
+        "verse": 41,
+        "file": "2-41-besluit-over-sabbat-verdieping.webp",
+        "scene": "Het besluit over verdediging",
+        "alt": "Het besluit over verdediging — 1 Makkabeeën 2:41; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 3,
+        "verse": 28,
+        "file": "3-28-jaar-soldij-verdieping.webp",
+        "scene": "Een jaar soldij uit de schatkamer",
+        "alt": "Een jaar soldij uit de schatkamer — 1 Makkabeeën 3:28; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 1,
+        "verse": 1,
+        "file": "1-van-alexander-naar-dwang.svg",
+        "scene": "Van Alexander naar dwang",
+        "alt": "Van Alexander naar dwang met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1141
+      },
+      {
+        "chapter": 1,
+        "verse": 58,
+        "file": "1-jaren-en-kislev.svg",
+        "scene": "Jaren en dagen van Kislev",
+        "alt": "Jaren en dagen van Kislev met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1048
+      },
+      {
+        "chapter": 2,
+        "verse": 1,
+        "file": "2-mattathias-en-zonen.svg",
+        "scene": "Mattathias en zijn zonen",
+        "alt": "Mattathias en zijn zonen met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1141
+      },
+      {
+        "chapter": 2,
+        "verse": 15,
+        "file": "2-verzet-en-opvolging.svg",
+        "scene": "Verzet en opvolging",
+        "alt": "Verzet en opvolging met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1177
+      },
+      {
+        "chapter": 2,
+        "verse": 52,
+        "file": "2-voorbeelden-van-trouw.svg",
+        "scene": "Voorbeelden van trouw",
+        "alt": "Voorbeelden van trouw met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1197
+      },
+      {
+        "chapter": 3,
+        "verse": 1,
+        "file": "3-judas-en-twee-fronten.svg",
+        "scene": "Judas en de twee fronten",
+        "alt": "Judas en de twee fronten met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1184
+      },
+      {
+        "chapter": 3,
+        "verse": 32,
+        "file": "3-bevelhebbers-en-taken.svg",
+        "scene": "Bevelhebbers en taken",
+        "alt": "Bevelhebbers en taken met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1141
       }
     ],
     "2makkabeeen": [

@@ -37432,6 +37432,106 @@
           "source": "Gebed van Manasse 1:1–14"
         }
       ]
+    },
+    {
+      "book": "1makkabeeen",
+      "chapter": 1,
+      "status": "reviewed",
+      "target_images": 7,
+      "reason": "Familietrouw, tempelroof en rouw zijn aanwezig. De verbrande wetboeken en het schuilen in holen zijn twee andere zelfstandig beschreven gevolgen en krijgen scènes. Twee schema’s geven de historische beweging en de exacte plaatselijke datums.",
+      "additions": [
+        {
+          "verse": 60,
+          "file": "1-60-wetboeken-verbrand-verdieping.webp",
+          "scene": "Wetboeken worden verbrand",
+          "kind": "scene"
+        },
+        {
+          "verse": 57,
+          "file": "1-57-schuilplaats-in-rotsen-verdieping.webp",
+          "scene": "Schuilen in rotsen en holen",
+          "kind": "scene"
+        },
+        {
+          "verse": 1,
+          "file": "1-van-alexander-naar-dwang.svg",
+          "scene": "Van Alexander naar dwang",
+          "kind": "diagram",
+          "source": "1 Makkabeeën 1:1–68"
+        },
+        {
+          "verse": 58,
+          "file": "1-jaren-en-kislev.svg",
+          "scene": "Jaren en dagen van Kislev",
+          "kind": "diagram",
+          "source": "1 Makkabeeën 1:11,21,58,63"
+        }
+      ]
+    },
+    {
+      "book": "1makkabeeen",
+      "chapter": 2,
+      "status": "reviewed",
+      "target_images": 7,
+      "reason": "Weigering, bergvlucht en laatste woorden zijn aanwezig. Het besluit over verdediging op sabbat is een eigen keerpunt en krijgt een kampberaad. Drie schema’s houden de familie, de opvolgingsrollen en de vooroudervoorbeelden nauwkeurig uit elkaar.",
+      "additions": [
+        {
+          "verse": 41,
+          "file": "2-41-besluit-over-sabbat-verdieping.webp",
+          "scene": "Het besluit over verdediging",
+          "kind": "scene"
+        },
+        {
+          "verse": 1,
+          "file": "2-mattathias-en-zonen.svg",
+          "scene": "Mattathias en zijn zonen",
+          "kind": "diagram",
+          "source": "1 Makkabeeën 2:1–5,65–66"
+        },
+        {
+          "verse": 15,
+          "file": "2-verzet-en-opvolging.svg",
+          "scene": "Verzet en opvolging",
+          "kind": "diagram",
+          "source": "1 Makkabeeën 2:15–70"
+        },
+        {
+          "verse": 52,
+          "file": "2-voorbeelden-van-trouw.svg",
+          "scene": "Voorbeelden van trouw",
+          "kind": "diagram",
+          "source": "1 Makkabeeën 2:52–60"
+        }
+      ]
+    },
+    {
+      "book": "1makkabeeen",
+      "chapter": 3,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Leiderschap, moed tegenover overmacht en het uitrollen van de wet zijn aanwezig. Het jaar soldij en de financiële druk vormen het eigen andere front en krijgen een schatkamerscène. Twee schema’s verbinden beide fronten en de genoemde bevelhebbers.",
+      "additions": [
+        {
+          "verse": 28,
+          "file": "3-28-jaar-soldij-verdieping.webp",
+          "scene": "Een jaar soldij uit de schatkamer",
+          "kind": "scene"
+        },
+        {
+          "verse": 1,
+          "file": "3-judas-en-twee-fronten.svg",
+          "scene": "Judas en de twee fronten",
+          "kind": "diagram",
+          "source": "1 Makkabeeën 3:1–60"
+        },
+        {
+          "verse": 32,
+          "file": "3-bevelhebbers-en-taken.svg",
+          "scene": "Bevelhebbers en taken",
+          "kind": "diagram",
+          "source": "1 Makkabeeën 3:32–40,55–56"
+        }
+      ]
     }
   ]
 }
