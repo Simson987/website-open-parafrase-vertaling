@@ -64625,63 +64625,90 @@
         "verse": 5,
         "file": "4-5.webp",
         "alt": "Beeld bij 2makkabeeen 4: Onias vraagt om vrede",
-        "scene": "Onias vraagt om vrede"
+        "scene": "Onias vraagt om vrede",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 4,
         "verse": 12,
         "file": "4-12.webp",
         "alt": "Beeld bij 2makkabeeen 4: Een Griekse oefenschool",
-        "scene": "Een Griekse oefenschool"
+        "scene": "Een Griekse oefenschool",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 4,
         "verse": 36,
         "file": "4-36.webp",
         "alt": "Beeld bij 2makkabeeen 4: Rouw om Onias",
-        "scene": "Rouw om Onias"
+        "scene": "Rouw om Onias",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 5,
         "verse": 4,
         "file": "5-4.webp",
         "alt": "Beeld bij 2makkabeeen 5: Gebed na het visioen",
-        "scene": "Gebed na het visioen"
+        "scene": "Gebed na het visioen",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 5,
         "verse": 16,
         "file": "5-16.webp",
         "alt": "Beeld bij 2makkabeeen 5: Heilige voorwerpen geroofd",
-        "scene": "Heilige voorwerpen geroofd"
+        "scene": "Heilige voorwerpen geroofd",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 5,
         "verse": 27,
         "file": "5-27.webp",
         "alt": "Beeld bij 2makkabeeen 5: Judas en zijn negen metgezellen",
-        "scene": "Judas en zijn negen metgezellen"
+        "scene": "Judas en zijn negen metgezellen",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 6,
         "verse": 11,
         "file": "6-11.webp",
         "alt": "Beeld bij 2makkabeeen 6: De sabbat in een grot",
-        "scene": "De sabbat in een grot"
+        "scene": "De sabbat in een grot",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 6,
         "verse": 21,
         "file": "6-21.webp",
         "alt": "Beeld bij 2makkabeeen 6: Een misleidend voorstel",
-        "scene": "Een misleidend voorstel"
+        "scene": "Een misleidend voorstel",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 6,
         "verse": 24,
         "file": "6-24.webp",
         "alt": "Beeld bij 2makkabeeen 6: Eleazar weigert te doen alsof",
-        "scene": "Eleazar weigert te doen alsof"
+        "scene": "Eleazar weigert te doen alsof",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 7,
@@ -64957,6 +64984,106 @@
         "kind": "diagram",
         "width": 840,
         "height": 1091
+      },
+      {
+        "chapter": 4,
+        "verse": 22,
+        "file": "4-22-fakkelontvangst-verdieping.webp",
+        "scene": "De ontvangst met fakkels",
+        "alt": "De ontvangst met fakkels — 2 Makkabeeën 4:22; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 4,
+        "verse": 44,
+        "file": "4-44-drie-gezanten-tyrus-verdieping.webp",
+        "scene": "Drie gezanten brengen hun aanklacht",
+        "alt": "Drie gezanten brengen hun aanklacht — 2 Makkabeeën 4:44; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 5,
+        "verse": 2,
+        "file": "5-2-ruiters-aan-hemel-verdieping.webp",
+        "scene": "Het beschreven visioen van ruiters",
+        "alt": "Het beschreven visioen van ruiters — 2 Makkabeeën 5:2; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 6,
+        "verse": 7,
+        "file": "6-7-gedwongen-wijnrankkransen-verdieping.webp",
+        "scene": "Gedwongen in de optocht",
+        "alt": "Gedwongen in de optocht — 2 Makkabeeën 6:7; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 4,
+        "verse": 7,
+        "file": "4-ambt-en-biedingen.svg",
+        "scene": "Ambt en biedingen",
+        "alt": "Ambt en biedingen met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 949
+      },
+      {
+        "chapter": 4,
+        "verse": 30,
+        "file": "4-roof-en-onrecht.svg",
+        "scene": "Roof en onrecht",
+        "alt": "Roof en onrecht met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1177
+      },
+      {
+        "chapter": 5,
+        "verse": 1,
+        "file": "5-visioen-gerucht-en-roof.svg",
+        "scene": "Visioen, gerucht en roof",
+        "alt": "Visioen, gerucht en roof met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1141
+      },
+      {
+        "chapter": 5,
+        "verse": 17,
+        "file": "5-volk-en-heilige-plaats.svg",
+        "scene": "Volk en heilige plaats",
+        "alt": "Volk en heilige plaats met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1012
+      },
+      {
+        "chapter": 6,
+        "verse": 1,
+        "file": "6-dwang-en-vertellerswoord.svg",
+        "scene": "Dwang en vertellerswoord",
+        "alt": "Dwang en vertellerswoord met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1028
+      },
+      {
+        "chapter": 6,
+        "verse": 18,
+        "file": "6-eleazars-keuze.svg",
+        "scene": "Eleazars keuze",
+        "alt": "Eleazars keuze met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1177
       }
     ],
     "3makkabeeen": [

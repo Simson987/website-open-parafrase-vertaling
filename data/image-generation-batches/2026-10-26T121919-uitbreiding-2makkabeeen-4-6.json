@@ -1,0 +1,248 @@
+{
+  "date": "2026-10-28",
+  "resumed": "2026-10-28T07:08:34Z",
+  "started": "2026-10-26T12:19:19Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "2makkabeeen",
+      "chapter": 4,
+      "verse": 22,
+      "file": "4-22-fakkelontvangst-verdieping.webp",
+      "scene": "De ontvangst met fakkels",
+      "alt": "De ontvangst met fakkels — 2 Makkabeeën 4:22; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic biblical scene, Hellenistic Judea, second century BCE, landscape 3:2, natural ancient materials and modest opaque clothing. Anatomically coherent people with two arms and natural hands. No modern objects, readable text, divine human figure, blood, wounds or corpses. At twilight inside an ancient Jerusalem stone gateway, adult citizens and the priest Jason in dignified modest robes welcome the adult Hellenistic king Antiochus with burning handheld torches. The king has a simple royal diadem and travel cloak, a small orderly escort follows. Expressions are ceremonial, no fighting. Distinct event in 2 Maccabees 4:22, not the later violent invasion.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2makkabeeen",
+      "chapter": 4,
+      "verse": 44,
+      "file": "4-44-drie-gezanten-tyrus-verdieping.webp",
+      "scene": "Drie gezanten brengen hun aanklacht",
+      "alt": "Drie gezanten brengen hun aanklacht — 2 Makkabeeën 4:44; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic biblical scene, Hellenistic Judea, second century BCE, landscape 3:2, natural ancient materials and modest opaque clothing. Anatomically coherent people with two arms and natural hands. No modern objects, readable text, divine human figure, blood, wounds or corpses. Exactly three adult Judean envoys in plain modest robes stand together before an adult Hellenistic king seated in a shaded stone colonnade in ancient Tyre, explaining a formal grievance with sober open-hand gestures. A few officials listen at the side. No execution or imprisonment. The hearing in 2 Maccabees 4:43–44, before the subsequent bribery and unjust sentence.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2makkabeeen",
+      "chapter": 5,
+      "verse": 2,
+      "file": "5-2-ruiters-aan-hemel-verdieping.webp",
+      "scene": "Het beschreven visioen van ruiters",
+      "alt": "Het beschreven visioen van ruiters — 2 Makkabeeën 5:2; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic biblical scene, Hellenistic Judea, second century BCE, landscape 3:2, natural ancient materials and modest opaque clothing. Anatomically coherent people with two arms and natural hands. No modern objects, readable text, divine human figure, blood, wounds or corpses. Reverent visualization of the reported vision in 2 Maccabees 5:2–4: high above ancient Jerusalem, luminous formations of mounted riders in golden garments and breastplates appear within the sky, their lances held upright, coherent horses with four legs and riders with two arms. Small modestly clothed adults look upward from rooftops. Clearly an extraordinary apparition in the sky, not a ground battle, no casualties, no image of God.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2makkabeeen",
+      "chapter": 6,
+      "verse": 7,
+      "file": "6-7-gedwongen-wijnrankkransen-verdieping.webp",
+      "scene": "Gedwongen in de optocht",
+      "alt": "Gedwongen in de optocht — 2 Makkabeeën 6:7; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic biblical scene, Hellenistic Judea, second century BCE, landscape 3:2, natural ancient materials and modest opaque clothing. Anatomically coherent people with two arms and natural hands. No modern objects, readable text, divine human figure, blood, wounds or corpses. A solemn group of modestly clothed adult Judeans walks through an ancient stone street wearing simple grapevine wreaths, visibly reluctant, while two Hellenistic officials direct the procession from the side without touching them. No revelry, nudity, violence or readable signs. Forced participation in the Dionysus procession in 2 Maccabees 6:7; respectful portrayal of religious coercion.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2makkabeeen",
+      "chapter": 4,
+      "verse": 7,
+      "file": "4-ambt-en-biedingen.svg",
+      "scene": "Ambt en biedingen",
+      "alt": "Ambt en biedingen met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 949,
+      "source": "2 Makkabeeën 4:7–29",
+      "design": {
+        "rows": [
+          [
+            "Jason · 7–10",
+            "Broer van Onias; belooft 360 talenten, 80 uit andere inkomsten en nog 150 voor nieuwe bevoegdheden."
+          ],
+          [
+            "Menelaüs · 23–27",
+            "Broer van Simon; biedt 300 talenten meer dan Jason en verdringt hem, maar betaalt niet."
+          ],
+          [
+            "Waarnemers · 28–29",
+            "Menelaüs laat Lysimachus achter; Sostratus laat Crates achter."
+          ]
+        ],
+        "note": "De bedragen zijn toezeggingen en biedingen; het schema stelt niet dat alles betaald is."
+      }
+    },
+    {
+      "book": "2makkabeeen",
+      "chapter": 4,
+      "verse": 30,
+      "file": "4-roof-en-onrecht.svg",
+      "scene": "Roof en onrecht",
+      "alt": "Roof en onrecht met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1177,
+      "source": "2 Makkabeeën 4:30–50",
+      "design": {
+        "rows": [
+          [
+            "Onias · 32–38",
+            "Wijst tempelroof terecht, wordt uit de vrijplaats gelokt en gedood; de koning treurt en straft Andronicus."
+          ],
+          [
+            "Lysimachus · 39–42",
+            "Nieuwe roof leidt tot opstand en zijn dood bij de schatkamer."
+          ],
+          [
+            "Drie gezanten · 43–49",
+            "Klagen Menelaüs aan; na omkoping volgt hun onrechtvaardige veroordeling en eervolle begrafenis."
+          ],
+          [
+            "Menelaüs · 50",
+            "Behoudt door de hebzucht van machthebbers zijn ambt."
+          ]
+        ],
+        "note": "De rechtszaak eindigt volgens het verhaal onrechtvaardig; de vrijspraak bewijst geen onschuld."
+      }
+    },
+    {
+      "book": "2makkabeeen",
+      "chapter": 5,
+      "verse": 1,
+      "file": "5-visioen-gerucht-en-roof.svg",
+      "scene": "Visioen, gerucht en roof",
+      "alt": "Visioen, gerucht en roof met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1141,
+      "source": "2 Makkabeeën 5:1–27",
+      "design": {
+        "rows": [
+          [
+            "Visioen · 1–4",
+            "Hemelse ruiters worden beschreven; de stad bidt om een goede betekenis."
+          ],
+          [
+            "Vals gerucht · 5–10",
+            "Jason valt aan na het bericht dat Antiochus dood is; hij krijgt het gezag niet en vlucht."
+          ],
+          [
+            "Veldtocht en roof · 11–23",
+            "Antiochus neemt de stad in, plundert de tempel en laat bevelhebbers achter."
+          ],
+          [
+            "Apollonius en Judas · 24–27",
+            "Een schijnbaar vreedzame komst wordt geweld op sabbat; Judas trekt met negen anderen weg."
+          ]
+        ],
+        "note": "Het bericht van Antiochus’ dood is uitdrukkelijk vals; het visioen is geen gewone veldslag."
+      }
+    },
+    {
+      "book": "2makkabeeen",
+      "chapter": 5,
+      "verse": 17,
+      "file": "5-volk-en-heilige-plaats.svg",
+      "scene": "Volk en heilige plaats",
+      "alt": "Volk en heilige plaats met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1012,
+      "source": "2 Makkabeeën 5:17–21",
+      "design": {
+        "rows": [
+          [
+            "De uitleg · 17–18",
+            "De verteller duidt de toelating van de tempelroof als tijdelijke toorn."
+          ],
+          [
+            "Het uitgangspunt · 19",
+            "De plaats is om het volk uitgekozen."
+          ],
+          [
+            "Gedeelde toestand · 20",
+            "De plaats deelt in de rampen en later in het herstel van het volk."
+          ],
+          [
+            "Antiochus · 21",
+            "Vertrekt met 1.800 talenten; zijn hoogmoed wordt bekritiseerd."
+          ]
+        ],
+        "note": "Dit schema onderscheidt de duiding van de verteller van de handelingen van Antiochus."
+      }
+    },
+    {
+      "book": "2makkabeeen",
+      "chapter": 6,
+      "verse": 1,
+      "file": "6-dwang-en-vertellerswoord.svg",
+      "scene": "Dwang en vertellerswoord",
+      "alt": "Dwang en vertellerswoord met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1028,
+      "source": "2 Makkabeeën 6:1–17",
+      "design": {
+        "rows": [
+          [
+            "Godsdienstige dwang · 1–9",
+            "Tempelnamen veranderen; sabbat en feesten verboden; offereten en optocht opgelegd."
+          ],
+          [
+            "Slachtoffers · 10–11",
+            "Twee vrouwen met hun kinderen en sabbatvierders in grotten worden gedood."
+          ],
+          [
+            "Onderbreking · 12–17",
+            "De schrijver spreekt de lezer aan en duidt de tegenspoed als opvoeding, zonder verlaten te zijn."
+          ]
+        ],
+        "note": "De gruwelen worden in woorden verantwoord weergegeven; het vertellerswoord is een aparte tekstlaag."
+      }
+    },
+    {
+      "book": "2makkabeeen",
+      "chapter": 6,
+      "verse": 18,
+      "file": "6-eleazars-keuze.svg",
+      "scene": "Eleazars keuze",
+      "alt": "Eleazars keuze met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1177,
+      "source": "2 Makkabeeën 6:18–31",
+      "design": {
+        "rows": [
+          [
+            "De dwang · 18–20",
+            "De oude schriftgeleerde weigert verboden vlees."
+          ],
+          [
+            "Het voorstel · 21–22",
+            "Bekenden stellen toegestaan vlees voor waarmee hij zou doen alsof."
+          ],
+          [
+            "De reden · 23–28",
+            "Hij is negentig en wil jonge mensen niet misleiden met een schijnbare afval."
+          ],
+          [
+            "Het einde · 29–31",
+            "Hij sterft onder de slagen; de schrijver noemt hem een voorbeeld van moed."
+          ]
+        ],
+        "note": "Een misleidend compromis en een openlijke weigering zijn verschillende momenten in het gesprek."
+      }
+    }
+  ]
+}

@@ -38038,6 +38038,99 @@
           "source": "2 Makkabeeën 2:20–33"
         }
       ]
+    },
+    {
+      "book": "2makkabeeen",
+      "chapter": 4,
+      "status": "reviewed",
+      "target_images": 7,
+      "reason": "Onias’ vredesvraag, oefenschool en rouw zijn aanwezig. Fakkelontvangst en de drie gezanten zijn afzonderlijke ontbrekende gebeurtenissen en krijgen scènes. Twee schema’s bewaken ambtswisselingen, toegezegde bedragen en de verschillende onrechtzaken.",
+      "additions": [
+        {
+          "verse": 22,
+          "file": "4-22-fakkelontvangst-verdieping.webp",
+          "scene": "De ontvangst met fakkels",
+          "kind": "scene"
+        },
+        {
+          "verse": 44,
+          "file": "4-44-drie-gezanten-tyrus-verdieping.webp",
+          "scene": "Drie gezanten brengen hun aanklacht",
+          "kind": "scene"
+        },
+        {
+          "verse": 7,
+          "file": "4-ambt-en-biedingen.svg",
+          "scene": "Ambt en biedingen",
+          "kind": "diagram",
+          "source": "2 Makkabeeën 4:7–29"
+        },
+        {
+          "verse": 30,
+          "file": "4-roof-en-onrecht.svg",
+          "scene": "Roof en onrecht",
+          "kind": "diagram",
+          "source": "2 Makkabeeën 4:30–50"
+        }
+      ]
+    },
+    {
+      "book": "2makkabeeen",
+      "chapter": 5,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Gebed, roof en schuilende groep zijn aanwezig. Het expliciet beschreven hemelse visioen krijgt een eigen als visioen benoemde illustratie. Twee schema’s onderscheiden vals gerucht, geweld en de uitleg over volk en tempel.",
+      "additions": [
+        {
+          "verse": 2,
+          "file": "5-2-ruiters-aan-hemel-verdieping.webp",
+          "scene": "Het beschreven visioen van ruiters",
+          "kind": "scene"
+        },
+        {
+          "verse": 1,
+          "file": "5-visioen-gerucht-en-roof.svg",
+          "scene": "Visioen, gerucht en roof",
+          "kind": "diagram",
+          "source": "2 Makkabeeën 5:1–27"
+        },
+        {
+          "verse": 17,
+          "file": "5-volk-en-heilige-plaats.svg",
+          "scene": "Volk en heilige plaats",
+          "kind": "diagram",
+          "source": "2 Makkabeeën 5:17–21"
+        }
+      ]
+    },
+    {
+      "book": "2makkabeeen",
+      "chapter": 6,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Grotsabbat, misleidend voorstel en weigering zijn aanwezig. De gedwongen optocht is een ander facet van de vervolging en krijgt een scène. Twee schema’s behandelen religieuze dwang, slachtoffers en Eleazars keuze zonder grafische geweldsbeelden.",
+      "additions": [
+        {
+          "verse": 7,
+          "file": "6-7-gedwongen-wijnrankkransen-verdieping.webp",
+          "scene": "Gedwongen in de optocht",
+          "kind": "scene"
+        },
+        {
+          "verse": 1,
+          "file": "6-dwang-en-vertellerswoord.svg",
+          "scene": "Dwang en vertellerswoord",
+          "kind": "diagram",
+          "source": "2 Makkabeeën 6:1–17"
+        },
+        {
+          "verse": 18,
+          "file": "6-eleazars-keuze.svg",
+          "scene": "Eleazars keuze",
+          "kind": "diagram",
+          "source": "2 Makkabeeën 6:18–31"
+        }
+      ]
     }
   ]
 }
