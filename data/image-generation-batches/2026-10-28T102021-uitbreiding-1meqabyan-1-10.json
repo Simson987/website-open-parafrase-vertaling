@@ -1,0 +1,502 @@
+{
+  "date": "2026-10-28",
+  "started": "2026-10-28T10:20:21Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "1meqabyan",
+      "chapter": 1,
+      "verse": 8,
+      "file": "1-8-priesters-eten-zelf-verdieping.webp",
+      "scene": "De priesters eten zelf van het offer",
+      "alt": "De priesters eten zelf van het offer — 1 Meqabyan 1:8; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration for the Ethiopian literary book 1 Meqabyan, ancient Northeast African and Near Eastern setting with stone or mudbrick buildings, natural fabrics, landscape 3:2, modest fully covering opaque robes, coherent two arms and natural hands per human. No modern objects, readable text, portrait of God, violence, wounds, blood or corpses. Two adult idol priests in plain ancient robes privately eating bread and fruit from a silver-colored offering dish in a room behind an idol sanctuary, while a motionless small gilded wooden statue stands untouched in background. Emphasize people actually eating, statue not alive; no human sacrifice or gore. 1 Meqabyan 1:8 exposes the priests fraud.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "1meqabyan",
+      "chapter": 2,
+      "verse": 15,
+      "file": "2-15-de-stad-roept-naar-de-berg-verdieping.webp",
+      "scene": "De stad roept naar de berg",
+      "alt": "De stad roept naar de berg — 1 Meqabyan 2:15; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration for the Ethiopian literary book 1 Meqabyan, ancient Northeast African and Near Eastern setting with stone or mudbrick buildings, natural fabrics, landscape 3:2, modest fully covering opaque robes, coherent two arms and natural hands per human. No modern objects, readable text, portrait of God, violence, wounds, blood or corpses. A group of ordinary fully clothed townspeople, older women and men and a few children, standing just outside a stone town gate and calling up toward three distant adult brothers on a steep rocky mountain. Worried pleading open hands, no battle, no fire. 1 Meqabyan 2:14–16, population asks that the city be spared.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "1meqabyan",
+      "chapter": 3,
+      "verse": 32,
+      "file": "3-32-vijf-broers-in-de-cel-verdieping.webp",
+      "scene": "Vijf broers in de cel",
+      "alt": "Vijf broers in de cel — 1 Meqabyan 3:32; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration for the Ethiopian literary book 1 Meqabyan, ancient Northeast African and Near Eastern setting with stone or mudbrick buildings, natural fabrics, landscape 3:2, modest fully covering opaque robes, coherent two arms and natural hands per human. No modern objects, readable text, portrait of God, violence, wounds, blood or corpses. Exactly FIVE adult brothers in modest opaque robes sitting together in a plain ancient prison cell, a simple wooden stock and iron restraints visible near their feet, calm resilient expressions, light from a small high window. No extra prisoners or guards, no injuries, no fire, no torture. 1 Meqabyan 3:32 five brothers imprisoned after the younger two join the named three.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "1meqabyan",
+      "chapter": 5,
+      "verse": 28,
+      "file": "5-28-saul-zoekt-ezelinnen-verdieping.webp",
+      "scene": "Saul zoekt de ezelinnen",
+      "alt": "Saul zoekt de ezelinnen — 1 Meqabyan 5:28; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration for the Ethiopian literary book 1 Meqabyan, ancient Northeast African and Near Eastern setting with stone or mudbrick buildings, natural fabrics, landscape 3:2, modest fully covering opaque robes, coherent two arms and natural hands per human. No modern objects, readable text, portrait of God, violence, wounds, blood or corpses. Young adult Saul in a modest plain ancient Israelite robe walking on a rocky path looking toward two female donkeys in a distant olive grove. No crown or throne yet, ordinary journey before kingship. 1 Meqabyan 5:28 recalls Saul being chosen while looking for his fathers donkeys.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "1meqabyan",
+      "chapter": 6,
+      "verse": 13,
+      "file": "6-13-zorg-voor-hongerigen-verdieping.webp",
+      "scene": "Lesbeeld: zorg voor hongerigen",
+      "alt": "Lesbeeld: zorg voor hongerigen — 1 Meqabyan 6:13; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: historical-scene. Photorealistic illustration for the Ethiopian literary book 1 Meqabyan, ancient Northeast African and Near Eastern setting with stone or mudbrick buildings, natural fabrics, landscape 3:2, modest fully covering opaque robes, coherent two arms and natural hands per human. No modern objects, readable text, portrait of God, violence, wounds, blood or corpses. Illustration of a teaching example, a modestly dressed ancient ruler personally offering a bread basket and water jug to a poor elderly traveler and a fully clothed young orphan at a shaded gate. Compassionate equal eye level, no royal ceremony or claim of a named historical event. 1 Meqabyan 6:12–13 duties neglected by harsh rulers, shown positively as care that ought to be given.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "1meqabyan",
+      "chapter": 1,
+      "verse": 1,
+      "file": "1-hoogmoed-bedrog-en-dwang.svg",
+      "scene": "Hoogmoed, bedrog en dwang",
+      "alt": "Hoogmoed, bedrog en dwang met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "1 Meqabyan 1:1–28",
+      "design": {
+        "rows": [
+          [
+            "Koning · 1–7",
+            "Tsiruts’aidan vertrouwt op paarden, leger en afgoden; stelt priesters aan."
+          ],
+          [
+            "Bedrog · 8–13",
+            "Priesters eten zelf; vorst denkt dat beelden leven en hem gemaakt hebben."
+          ],
+          [
+            "Tempel · 16–24",
+            "Man- en vrouwbeelden; brons, ijzer, lood; goud, zilver; voedsel en wijn."
+          ],
+          [
+            "Dwang · 14–15,25–28",
+            "Dreiging tegen weigeraars en hun bezit; onschuldig bloed als aanklacht."
+          ]
+        ],
+        "note": "De scheppingsmacht van de afgoden is de bewering van de koning; de verteller wijst die af."
+      }
+    },
+    {
+      "book": "1meqabyan",
+      "chapter": 2,
+      "verse": 1,
+      "file": "2-meqabyos-en-de-berg.svg",
+      "scene": "Meqabyos en de berg",
+      "alt": "Meqabyos en de berg met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1098,
+      "source": "1 Meqabyan 2:1–28",
+      "design": {
+        "rows": [
+          [
+            "Begin · 1–2",
+            "Meqabyos uit Benjamin; vers 2 breekt af."
+          ],
+          [
+            "Confrontatie · 3–13",
+            "Vier vorsten met soldaten; weigering; sterke jongemannen ontkomen naar berg."
+          ],
+          [
+            "Stad · 14–16",
+            "Soldaten dreigen; inwoners roepen omhoog en huilen samen."
+          ],
+          [
+            "Gebed · 17–28",
+            "Naar oosten; Schepper belijden; bereidheid tot sterven; verschijning afgebroken."
+          ]
+        ],
+        "note": "De afgebroken zinnen worden niet aangevuld met namen of gebeurtenissen uit andere versies."
+      }
+    },
+    {
+      "book": "1meqabyan",
+      "chapter": 3,
+      "verse": 1,
+      "file": "3-drie-namen-vijf-broers.svg",
+      "scene": "Drie namen, vijf broers",
+      "alt": "Drie namen, vijf broers met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1177,
+      "source": "1 Meqabyan 3:1–38",
+      "design": {
+        "rows": [
+          [
+            "Genoemde drie · 1–19",
+            "Abya, Sela, Fentos; belofte van opstanding; weigeren bij koning; 3 dagen en nachten cel."
+          ],
+          [
+            "Dieren · 20–27",
+            "Luipaard, beer, leeuw buigen; keren tegen oppassers; koning vlucht."
+          ],
+          [
+            "Twee jongere broers · 28–32",
+            "Willen samen blijven en sterven; vijf broers worden opgesloten."
+          ],
+          [
+            "Einde · 33–38",
+            "Na 3 dagen oven; zij sterven; engelen dragen zielen naar Abraham, Izak en Jakob."
+          ]
+        ],
+        "note": "De twee jongere broers blijven hier naamloos. Hun komst maakt drie genoemde martelaren tot vijf broers."
+      }
+    },
+    {
+      "book": "1meqabyan",
+      "chapter": 4,
+      "verse": 1,
+      "file": "4-bewaring-en-verschijning.svg",
+      "scene": "Bewaring en verschijning",
+      "alt": "Bewaring en verschijning met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1141,
+      "source": "1 Meqabyan 4:1–37",
+      "design": {
+        "rows": [
+          [
+            "Lichamen · 1–7",
+            "Vuur en zee vernietigen niet; dieren raken niet; vogels beschutten; vijf begraven."
+          ],
+          [
+            "Nacht · 8–18",
+            "Koning bang; martelaren verklaren dat zij leven en weigeren eigen vergelding."
+          ],
+          [
+            "Oproep · 19–28",
+            "Afgoden kunnen niets; keer terug tot God; verschijning verdwijnt."
+          ],
+          [
+            "Les · 29–37",
+            "Koning blijft afdwalen; koningschap als proef; groot en klein aan Schepper gebonden."
+          ]
+        ],
+        "note": "Lichamen, zielen en nachtelijke verschijning zijn verschillende lagen van het verhaal."
+      }
+    },
+    {
+      "book": "1meqabyan",
+      "chapter": 5,
+      "verse": 1,
+      "file": "5-hoogmoedige-koningen.svg",
+      "scene": "Hoogmoedige koningen",
+      "alt": "Hoogmoedige koningen met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1091,
+      "source": "1 Meqabyan 5:1–14",
+      "design": {
+        "rows": [
+          [
+            "Re’itawi · 1",
+            "Verheft zichzelf en sterft plotseling."
+          ],
+          [
+            "Nimrod · 2",
+            "IJzeren bed wegens kracht; door God neergeslagen."
+          ],
+          [
+            "Nebukadnezar · 3–5",
+            "Claimt zonsopgang; 7 jaar bij dieren; erkent Schepper; krijgt koninkrijk terug."
+          ],
+          [
+            "Tsiruts’aidan · 7–14",
+            "Aangesproken als mens en stof; hoogmoed leidt niet tot goddelijkheid."
+          ]
+        ],
+        "note": "De ijzeren bednaam blijft Nimrod zoals hier geschreven; geen naam uit een ander boek ingevoegd."
+      }
+    },
+    {
+      "book": "1meqabyan",
+      "chapter": 5,
+      "verse": 15,
+      "file": "5-schepper-engelen-en-koning.svg",
+      "scene": "Schepper, engelen en koning",
+      "alt": "Schepper, engelen en koning met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1177,
+      "source": "1 Meqabyan 5:15–40",
+      "design": {
+        "rows": [
+          [
+            "Schepping · 15–18",
+            "Hemel, aarde, zee, zon, maan, jaren en sterren; engelen dienen."
+          ],
+          [
+            "Gezanten · 19–23",
+            "Rafaël: Tobit en Tobias bij Raguël; engel: Gideon; engel: Mozes en zee."
+          ],
+          [
+            "Opdracht · 24–32",
+            "Heerschappij over 4 koninkrijken; rechtvaardig weiden; Saul als voorbeeld."
+          ],
+          [
+            "Gods macht · 33–40",
+            "Oordeelt, stelt aan, zet af en bevrijdt; hoort gebed; onuitputtelijke schatkamer."
+          ]
+        ],
+        "note": "De Gideonpassage noemt hier Filistijnen. De tekst wordt niet op basis van een ander boek aangepast."
+      }
+    },
+    {
+      "book": "1meqabyan",
+      "chapter": 6,
+      "verse": 2,
+      "file": "6-hemelse-woning-en-recht.svg",
+      "scene": "Hemelse woning en recht",
+      "alt": "Hemelse woning en recht met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1141,
+      "source": "1 Meqabyan 6:2–18",
+      "design": {
+        "rows": [
+          [
+            "Woning · 2–10",
+            "Abraham, Izak, Jakob, David, Salomo, Ezechiël; goud, zilver, hyacint, topaas en smaragd."
+          ],
+          [
+            "Water en tuin · 7–9",
+            "Levenswater, tent van licht, zuilen van Hermon; wijngaarden, olijven en geuren."
+          ],
+          [
+            "Rechtvaardigheid · 11–13",
+            "Red onderdrukte, vreemdeling en wees; voed hongerige en geef dorstige drinken."
+          ],
+          [
+            "Verantwoording · 14–18",
+            "Harde heersers verliezen eer; Schepper kent hart en hoort zuiver gebed."
+          ]
+        ],
+        "note": "De hemelse zaal en tuin zijn beschrijvingen van hoop, onderscheiden van Sauls aardse verhaal."
+      }
+    },
+    {
+      "book": "1meqabyan",
+      "chapter": 6,
+      "verse": 19,
+      "file": "6-saul-samuel-en-david.svg",
+      "scene": "Saul, Samuël en David",
+      "alt": "Saul, Samuël en David met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1177,
+      "source": "1 Meqabyan 6:19–37",
+      "design": {
+        "rows": [
+          [
+            "Bevel · 19–23",
+            "Amalek; Saul spaart koning en anderen; opdracht om David, zoon van Isaï, te zalven."
+          ],
+          [
+            "Tafel · 24–29",
+            "Agag links van Saul; Samuël spreekt; Saul grijpt kleed en het scheurt."
+          ],
+          [
+            "Afwijzing · 30–33",
+            "Koninkrijk gescheurd; verzoek om eer afgewezen; Agag wordt gedood."
+          ],
+          [
+            "Huizen · 34–37",
+            "Sauls huis vernederd; Davids huis verhoogd; verteller verbindt recht aan oordeel."
+          ]
+        ],
+        "note": "Dit schema volgt de argumentatie en geweldsopvatting van de tekst; de doding wordt zakelijk benoemd."
+      }
+    },
+    {
+      "book": "1meqabyan",
+      "chapter": 7,
+      "verse": 1,
+      "file": "7-recht-voor-groot-en-klein.svg",
+      "scene": "Recht voor groot en klein",
+      "alt": "Recht voor groot en klein met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1184,
+      "source": "1 Meqabyan 7:1–23",
+      "design": {
+        "rows": [
+          [
+            "Onder gezag · 1–6",
+            "Ook koning heeft een Schepper boven zich; oordeel zonder aanzien des persoons."
+          ],
+          [
+            "Nabij woord · 7–13",
+            "Vuur en water als keuze; woord niet onbereikbaar, maar nabij in mond en hand."
+          ],
+          [
+            "Geschil · 14–17",
+            "Geen geschenk aannemen; onschuldige niet onderdrukken; rekenschap bij opstanding."
+          ],
+          [
+            "Trots en oordeel · 18–23",
+            "Leger en muziek voeden trots; rijk en arm staan samen; boeken gaan open."
+          ]
+        ],
+        "note": "Het vuur en water zijn een keuzevergelijking; de hemelse rechtszaal verbeeldt verantwoording."
+      }
+    },
+    {
+      "book": "1meqabyan",
+      "chapter": 7,
+      "verse": 24,
+      "file": "7-beelden-van-opstanding.svg",
+      "scene": "Beelden van opstanding",
+      "alt": "Beelden van opstanding met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1012,
+      "source": "1 Meqabyan 7:24–33",
+      "design": {
+        "rows": [
+          [
+            "Aarde en geboorte · 24",
+            "Aarde geeft terug; vergeleken met een schoot bij de bevalling."
+          ],
+          [
+            "Wolken · 25",
+            "Regen kan Gods bevel niet tegenhouden."
+          ],
+          [
+            "Woord · 26–30",
+            "Leven door Gods woord; dood en leven, neerbrengen en verhogen."
+          ],
+          [
+            "Beker · 31–33",
+            "Aards rijk vergaat; beker tot eer of schande; aanstelling en afzetting."
+          ]
+        ],
+        "note": "Dit zijn vergelijkingen en Schriftwoorden in een rede, geen gelijktijdige nieuwe gebeurtenissen."
+      }
+    },
+    {
+      "book": "1meqabyan",
+      "chapter": 8,
+      "verse": 1,
+      "file": "8-natuurbeelden-van-opstanding.svg",
+      "scene": "Natuurbeelden van opstanding",
+      "alt": "Natuurbeelden van opstanding met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1369,
+      "source": "1 Meqabyan 8:1–35",
+      "design": {
+        "rows": [
+          [
+            "Boom · 1–5",
+            "Wortel, aarde, water, wind en zon; groei en vrucht als vergelijking."
+          ],
+          [
+            "Verzameling · 6–15",
+            "Stof, dauw, wind, warmte en ziel weer samen; Ezechiël en de vier winden."
+          ],
+          [
+            "Nacht en ochtend · 16–21",
+            "Slapen en opstaan; ochtendlicht en nieuwe wereld."
+          ],
+          [
+            "Zaad en vrucht · 22–32",
+            "Tarwe, gerst, gierst, komijn; vijg, amandel, noot, wijnstok; ieder eigen vrucht."
+          ],
+          [
+            "Dauw · 33–35",
+            "Ceder Libanon en dauw Hermon; jeneverstruik en winterregen; levensdauw."
+          ]
+        ],
+        "note": "De tekst geeft theologische vergelijkingen; geen natuurkundig model van het ontstaan van een ziel."
+      }
+    },
+    {
+      "book": "1meqabyan",
+      "chapter": 9,
+      "verse": 1,
+      "file": "9-dauw-bazuin-en-opstanding.svg",
+      "scene": "Dauw, bazuin en opstanding",
+      "alt": "Dauw, bazuin en opstanding met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1091,
+      "source": "1 Meqabyan 9:1–10",
+      "design": {
+        "rows": [
+          [
+            "Landschappen · 1–2",
+            "Gilboa, Libanon, Gilead en Elam hebben regen nodig voor groen en dieren."
+          ],
+          [
+            "Aanklacht · 3–6",
+            "Opstand en afgodendienst; Cyprus, Damascus, Athene en Meden genoemd."
+          ],
+          [
+            "Bazuin · 7–8",
+            "Michaël de aartsengel blaast bij opstanding."
+          ],
+          [
+            "Verandering · 9–10",
+            "Bergen vlak, diepten droog, effen weg; opstanding voor alles wat leeft."
+          ]
+        ],
+        "note": "De regenbeelden leiden naar de verwachting van opstanding; de plaatsnamen vormen geen reisroute."
+      }
+    },
+    {
+      "book": "1meqabyan",
+      "chapter": 10,
+      "verse": 1,
+      "file": "10-vaderen-zaad-en-leven.svg",
+      "scene": "Vaderen, zaad en leven",
+      "alt": "Vaderen, zaad en leven met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1091,
+      "source": "1 Meqabyan 10:1–8",
+      "design": {
+        "rows": [
+          [
+            "Genoemde vaderen · 1–2",
+            "Adam, Abel, Set, Noach, Sem, Abraham, Izak, Jakob, Jozef, Mozes, Aäron."
+          ],
+          [
+            "Vraag · 3–4",
+            "Hoe staan gestorvenen op als botten en stof vergaan zijn?"
+          ],
+          [
+            "Zaadbeeld · 5–6",
+            "Wat gezaaid is komt op; zielen als zaad in de vergelijking."
+          ],
+          [
+            "Antwoord · 7–8",
+            "God brengt uit niet-bestaan tot bestaan, door dood weer tot leven."
+          ]
+        ],
+        "note": "De vaderenlijst is een aangehaalde reeks, geen volledige stamboom of nieuwe begrafenis van allen samen."
+      }
+    }
+  ]
+}

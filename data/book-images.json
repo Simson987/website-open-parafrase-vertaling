@@ -83566,13 +83566,21 @@
         "chapter": 2,
         "file": "2-brothers.webp",
         "alt": "De zonen van Meqabyos spreken met hun vader",
-        "scene": "De zonen van Meqabyos"
+        "scene": "De zonen van Meqabyos",
+        "verse": 1,
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 3,
         "file": "3-king.webp",
         "alt": "Drie broers staan voor een koning",
-        "scene": "De broers voor de koning"
+        "scene": "De broers voor de koning",
+        "verse": 5,
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 26,
@@ -83585,196 +83593,280 @@
         "verse": 1,
         "file": "1-1.webp",
         "alt": "Beeld bij 1meqabyan 1: Tsiruts'aidan beroemt zich op zijn leger",
-        "scene": "Tsiruts'aidan beroemt zich op zijn leger"
+        "scene": "Tsiruts'aidan beroemt zich op zijn leger",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 1,
         "verse": 19,
         "file": "1-19.webp",
         "alt": "Beeld bij 1meqabyan 1: De tempel van de afgoden",
-        "scene": "De tempel van de afgoden"
+        "scene": "De tempel van de afgoden",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 1,
         "verse": 23,
         "file": "1-23.webp",
         "alt": "Beeld bij 1meqabyan 1: Voedsel voor de beelden",
-        "scene": "Voedsel voor de beelden"
+        "scene": "Voedsel voor de beelden",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 2,
         "verse": 13,
         "file": "2-13.webp",
         "alt": "Beeld bij 1meqabyan 2: Een schuilplaats op de berg",
-        "scene": "Een schuilplaats op de berg"
+        "scene": "Een schuilplaats op de berg",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 2,
         "verse": 17,
         "file": "2-17.webp",
         "alt": "Beeld bij 1meqabyan 2: De broers bidden naar het oosten",
-        "scene": "De broers bidden naar het oosten"
+        "scene": "De broers bidden naar het oosten",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 3,
         "verse": 24,
         "file": "3-24.webp",
         "alt": "Beeld bij 1meqabyan 3: Wilde dieren buigen voor de martelaren",
-        "scene": "Wilde dieren buigen voor de martelaren"
+        "scene": "Wilde dieren buigen voor de martelaren",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 3,
         "verse": 38,
         "file": "3-38.webp",
         "alt": "Beeld bij 1meqabyan 3: Engelen dragen de zielen naar de vreugde",
-        "scene": "Engelen dragen de zielen naar de vreugde"
+        "scene": "Engelen dragen de zielen naar de vreugde",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 4,
         "verse": 6,
         "file": "4-6.webp",
         "alt": "Beeld bij 1meqabyan 4: Licht rondom de martelaren",
-        "scene": "Licht rondom de martelaren"
+        "scene": "Licht rondom de martelaren",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 4,
         "verse": 9,
         "file": "4-9.webp",
         "alt": "Beeld bij 1meqabyan 4: De koning schrikt wakker",
-        "scene": "De koning schrikt wakker"
+        "scene": "De koning schrikt wakker",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 4,
         "verse": 15,
         "file": "4-15.webp",
         "alt": "Beeld bij 1meqabyan 4: De martelaren spreken zonder wraak",
-        "scene": "De martelaren spreken zonder wraak"
+        "scene": "De martelaren spreken zonder wraak",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 5,
         "verse": 3,
         "file": "5-3.webp",
         "alt": "Beeld bij 1meqabyan 5: Nebukadnezars hoogmoed",
-        "scene": "Nebukadnezars hoogmoed"
+        "scene": "Nebukadnezars hoogmoed",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 5,
         "verse": 4,
         "file": "5-4.webp",
         "alt": "Beeld bij 1meqabyan 5: Nebukadnezar bij de dieren",
-        "scene": "Nebukadnezar bij de dieren"
+        "scene": "Nebukadnezar bij de dieren",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 5,
         "verse": 5,
         "file": "5-5.webp",
         "alt": "Beeld bij 1meqabyan 5: De koning erkent zijn Schepper",
-        "scene": "De koning erkent zijn Schepper"
+        "scene": "De koning erkent zijn Schepper",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 6,
         "verse": 3,
         "file": "6-3.webp",
         "alt": "Beeld bij 1meqabyan 6: De schitterende hemelse zaal",
-        "scene": "De schitterende hemelse zaal"
+        "scene": "De schitterende hemelse zaal",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 6,
         "verse": 8,
         "file": "6-8.webp",
         "alt": "Beeld bij 1meqabyan 6: De tuin met zoete vruchten",
-        "scene": "De tuin met zoete vruchten"
+        "scene": "De tuin met zoete vruchten",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 6,
         "verse": 29,
         "file": "6-29.webp",
         "alt": "Beeld bij 1meqabyan 6: Saul scheurt Samuëls kleed",
-        "scene": "Saul scheurt Samuëls kleed"
+        "scene": "Saul scheurt Samuëls kleed",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 7,
         "verse": 14,
         "file": "7-14.webp",
         "alt": "Beeld bij 1meqabyan 7: Een rechtvaardige rechter",
-        "scene": "Een rechtvaardige rechter"
+        "scene": "Een rechtvaardige rechter",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 7,
         "verse": 18,
         "file": "7-18.webp",
         "alt": "Beeld bij 1meqabyan 7: De hoogmoed van de vorst",
-        "scene": "De hoogmoed van de vorst"
+        "scene": "De hoogmoed van de vorst",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 7,
         "verse": 23,
         "file": "7-23.webp",
         "alt": "Beeld bij 1meqabyan 7: De boeken gaan open",
-        "scene": "De boeken gaan open"
+        "scene": "De boeken gaan open",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 8,
         "verse": 2,
         "file": "8-2.webp",
         "alt": "Beeld bij 1meqabyan 8: Een kleine boom draagt vrucht",
-        "scene": "Een kleine boom draagt vrucht"
+        "scene": "Een kleine boom draagt vrucht",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 8,
         "verse": 18,
         "file": "8-18.webp",
         "alt": "Beeld bij 1meqabyan 8: De ochtend als beeld van opstanding",
-        "scene": "De ochtend als beeld van opstanding"
+        "scene": "De ochtend als beeld van opstanding",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 8,
         "verse": 25,
         "file": "8-25.webp",
         "alt": "Beeld bij 1meqabyan 8: Uit één korrel veel aren",
-        "scene": "Uit één korrel veel aren"
+        "scene": "Uit één korrel veel aren",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 9,
         "verse": 1,
         "file": "9-1.webp",
         "alt": "Beeld bij 1meqabyan 9: Zonder regen geen gras",
-        "scene": "Zonder regen geen gras"
+        "scene": "Zonder regen geen gras",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 9,
         "verse": 8,
         "file": "9-8.webp",
         "alt": "Beeld bij 1meqabyan 9: Michaël blaast de bazuin",
-        "scene": "Michaël blaast de bazuin"
+        "scene": "Michaël blaast de bazuin",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 9,
         "verse": 9,
         "file": "9-9.webp",
         "alt": "Beeld bij 1meqabyan 9: Een effen weg",
-        "scene": "Een effen weg"
+        "scene": "Een effen weg",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 10,
         "verse": 1,
         "file": "10-1.webp",
         "alt": "Beeld bij 1meqabyan 10: Het graf van de vaderen",
-        "scene": "Het graf van de vaderen"
+        "scene": "Het graf van de vaderen",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 10,
         "verse": 5,
         "file": "10-5.webp",
         "alt": "Beeld bij 1meqabyan 10: Wat gezaaid is komt op",
-        "scene": "Wat gezaaid is komt op"
+        "scene": "Wat gezaaid is komt op",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 10,
         "verse": 6,
         "file": "10-6.webp",
         "alt": "Beeld bij 1meqabyan 10: Leven uit de dood",
-        "scene": "Leven uit de dood"
+        "scene": "Leven uit de dood",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 11,
@@ -84314,6 +84406,186 @@
         "file": "36-41.webp",
         "alt": "Beeld bij 1meqabyan 36: Schitteren als de sterren",
         "scene": "Schitteren als de sterren"
+      },
+      {
+        "chapter": 1,
+        "verse": 8,
+        "file": "1-8-priesters-eten-zelf-verdieping.webp",
+        "scene": "De priesters eten zelf van het offer",
+        "alt": "De priesters eten zelf van het offer — 1 Meqabyan 1:8; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 2,
+        "verse": 15,
+        "file": "2-15-de-stad-roept-naar-de-berg-verdieping.webp",
+        "scene": "De stad roept naar de berg",
+        "alt": "De stad roept naar de berg — 1 Meqabyan 2:15; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 3,
+        "verse": 32,
+        "file": "3-32-vijf-broers-in-de-cel-verdieping.webp",
+        "scene": "Vijf broers in de cel",
+        "alt": "Vijf broers in de cel — 1 Meqabyan 3:32; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 5,
+        "verse": 28,
+        "file": "5-28-saul-zoekt-ezelinnen-verdieping.webp",
+        "scene": "Saul zoekt de ezelinnen",
+        "alt": "Saul zoekt de ezelinnen — 1 Meqabyan 5:28; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 6,
+        "verse": 13,
+        "file": "6-13-zorg-voor-hongerigen-verdieping.webp",
+        "scene": "Lesbeeld: zorg voor hongerigen",
+        "alt": "Lesbeeld: zorg voor hongerigen — 1 Meqabyan 6:13; tekstillustratie.",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 1,
+        "verse": 1,
+        "file": "1-hoogmoed-bedrog-en-dwang.svg",
+        "scene": "Hoogmoed, bedrog en dwang",
+        "alt": "Hoogmoed, bedrog en dwang met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1055
+      },
+      {
+        "chapter": 2,
+        "verse": 1,
+        "file": "2-meqabyos-en-de-berg.svg",
+        "scene": "Meqabyos en de berg",
+        "alt": "Meqabyos en de berg met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1098
+      },
+      {
+        "chapter": 3,
+        "verse": 1,
+        "file": "3-drie-namen-vijf-broers.svg",
+        "scene": "Drie namen, vijf broers",
+        "alt": "Drie namen, vijf broers met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1177
+      },
+      {
+        "chapter": 4,
+        "verse": 1,
+        "file": "4-bewaring-en-verschijning.svg",
+        "scene": "Bewaring en verschijning",
+        "alt": "Bewaring en verschijning met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1141
+      },
+      {
+        "chapter": 5,
+        "verse": 1,
+        "file": "5-hoogmoedige-koningen.svg",
+        "scene": "Hoogmoedige koningen",
+        "alt": "Hoogmoedige koningen met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1091
+      },
+      {
+        "chapter": 5,
+        "verse": 15,
+        "file": "5-schepper-engelen-en-koning.svg",
+        "scene": "Schepper, engelen en koning",
+        "alt": "Schepper, engelen en koning met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1177
+      },
+      {
+        "chapter": 6,
+        "verse": 2,
+        "file": "6-hemelse-woning-en-recht.svg",
+        "scene": "Hemelse woning en recht",
+        "alt": "Hemelse woning en recht met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1141
+      },
+      {
+        "chapter": 6,
+        "verse": 19,
+        "file": "6-saul-samuel-en-david.svg",
+        "scene": "Saul, Samuël en David",
+        "alt": "Saul, Samuël en David met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1177
+      },
+      {
+        "chapter": 7,
+        "verse": 1,
+        "file": "7-recht-voor-groot-en-klein.svg",
+        "scene": "Recht voor groot en klein",
+        "alt": "Recht voor groot en klein met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1184
+      },
+      {
+        "chapter": 7,
+        "verse": 24,
+        "file": "7-beelden-van-opstanding.svg",
+        "scene": "Beelden van opstanding",
+        "alt": "Beelden van opstanding met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1012
+      },
+      {
+        "chapter": 8,
+        "verse": 1,
+        "file": "8-natuurbeelden-van-opstanding.svg",
+        "scene": "Natuurbeelden van opstanding",
+        "alt": "Natuurbeelden van opstanding met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1369
+      },
+      {
+        "chapter": 9,
+        "verse": 1,
+        "file": "9-dauw-bazuin-en-opstanding.svg",
+        "scene": "Dauw, bazuin en opstanding",
+        "alt": "Dauw, bazuin en opstanding met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1091
+      },
+      {
+        "chapter": 10,
+        "verse": 1,
+        "file": "10-vaderen-zaad-en-leven.svg",
+        "scene": "Vaderen, zaad en leven",
+        "alt": "Vaderen, zaad en leven met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1091
       }
     ],
     "2meqabyan": [
