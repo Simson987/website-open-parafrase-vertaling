@@ -63500,7 +63500,11 @@
         "chapter": 13,
         "file": "13-fortress.webp",
         "alt": "Simon overziet de herstelde stad",
-        "scene": "Simon en het volk"
+        "scene": "Simon en het volk",
+        "verse": 10,
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 8,
@@ -63657,77 +63661,110 @@
         "verse": 7,
         "file": "13-7.webp",
         "alt": "Beeld bij 1makkabeeen 13: Het volk krijgt nieuwe moed",
-        "scene": "Het volk krijgt nieuwe moed"
+        "scene": "Het volk krijgt nieuwe moed",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 13,
         "verse": 51,
         "file": "13-51.webp",
         "alt": "Beeld bij 1makkabeeen 13: Met palmtakken de burcht binnen",
-        "scene": "Met palmtakken de burcht binnen"
+        "scene": "Met palmtakken de burcht binnen",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 14,
         "verse": 8,
         "file": "14-8.webp",
         "alt": "Beeld bij 1makkabeeen 14: Het land wordt in vrede bewerkt",
-        "scene": "Het land wordt in vrede bewerkt"
+        "scene": "Het land wordt in vrede bewerkt",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 14,
         "verse": 9,
         "file": "14-9.webp",
         "alt": "Beeld bij 1makkabeeen 14: Ouderen op het plein",
-        "scene": "Ouderen op het plein"
+        "scene": "Ouderen op het plein",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 14,
         "verse": 12,
         "file": "14-12.webp",
         "alt": "Beeld bij 1makkabeeen 14: Onder wijnstok en vijgenboom",
-        "scene": "Onder wijnstok en vijgenboom"
+        "scene": "Onder wijnstok en vijgenboom",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 15,
         "verse": 6,
         "file": "15-6.webp",
         "alt": "Beeld bij 1makkabeeen 15: Toestemming voor eigen munten",
-        "scene": "Toestemming voor eigen munten"
+        "scene": "Toestemming voor eigen munten",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 15,
         "verse": 15,
         "file": "15-15.webp",
         "alt": "Beeld bij 1makkabeeen 15: Numenius keert terug",
-        "scene": "Numenius keert terug"
+        "scene": "Numenius keert terug",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 15,
         "verse": 33,
         "file": "15-33.webp",
         "alt": "Beeld bij 1makkabeeen 15: Simon verdedigt het erfdeel",
-        "scene": "Simon verdedigt het erfdeel"
+        "scene": "Simon verdedigt het erfdeel",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 16,
         "verse": 3,
         "file": "16-3.webp",
         "alt": "Beeld bij 1makkabeeen 16: Simon draagt het werk over",
-        "scene": "Simon draagt het werk over"
+        "scene": "Simon draagt het werk over",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 16,
         "verse": 6,
         "file": "16-6.webp",
         "alt": "Beeld bij 1makkabeeen 16: Johannes gaat als eerste over",
-        "scene": "Johannes gaat als eerste over"
+        "scene": "Johannes gaat als eerste over",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 16,
         "verse": 21,
         "file": "16-21.webp",
         "alt": "Beeld bij 1makkabeeen 16: Een waarschuwing in Gazara",
-        "scene": "Een waarschuwing in Gazara"
+        "scene": "Een waarschuwing in Gazara",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 1,
@@ -64368,6 +64405,116 @@
         "kind": "diagram",
         "width": 840,
         "height": 1177
+      },
+      {
+        "chapter": 13,
+        "verse": 22,
+        "file": "13-22-sneeuw-stopt-tocht-verdieping.webp",
+        "scene": "Zware sneeuw houdt de tocht tegen",
+        "alt": "Zware sneeuw houdt de tocht tegen — 1 Makkabeeën 13:22; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 14,
+        "verse": 48,
+        "file": "14-48-koperen-platen-sion-verdieping.webp",
+        "scene": "De koperen tekst wordt opgesteld",
+        "alt": "De koperen tekst wordt opgesteld — 1 Makkabeeën 14:48; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 15,
+        "verse": 14,
+        "file": "15-14-dora-land-en-zee-verdieping.webp",
+        "scene": "Dora ingesloten over land en zee",
+        "alt": "Dora ingesloten over land en zee — 1 Makkabeeën 15:14; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 16,
+        "verse": 15,
+        "file": "16-15-maaltijd-in-dok-verdieping.webp",
+        "scene": "De maaltijd in de vesting Dok",
+        "alt": "De maaltijd in de vesting Dok — 1 Makkabeeën 16:15; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 13,
+        "verse": 1,
+        "file": "13-simon-en-de-ommekeer.svg",
+        "scene": "Simon en de ommekeer",
+        "alt": "Simon en de ommekeer met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1141
+      },
+      {
+        "chapter": 14,
+        "verse": 4,
+        "file": "14-rust-en-erkenning.svg",
+        "scene": "Rust en erkenning",
+        "alt": "Rust en erkenning met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1098
+      },
+      {
+        "chapter": 14,
+        "verse": 41,
+        "file": "14-simons-vastgelegde-taken.svg",
+        "scene": "Simons vastgelegde taken",
+        "alt": "Simons vastgelegde taken met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1091
+      },
+      {
+        "chapter": 15,
+        "verse": 1,
+        "file": "15-van-belofte-naar-eis.svg",
+        "scene": "Van belofte naar eis",
+        "alt": "Van belofte naar eis met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1091
+      },
+      {
+        "chapter": 15,
+        "verse": 31,
+        "file": "15-eis-en-antwoord.svg",
+        "scene": "Eis en antwoord",
+        "alt": "Eis en antwoord met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1177
+      },
+      {
+        "chapter": 16,
+        "verse": 1,
+        "file": "16-overdracht-en-verraad.svg",
+        "scene": "Overdracht en verraad",
+        "alt": "Overdracht en verraad met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1098
+      },
+      {
+        "chapter": 13,
+        "verse": 27,
+        "file": "13-grafmonument-modin.svg",
+        "scene": "Het grafmonument in Modin",
+        "alt": "Het grafmonument in Modin — 1 Makkabeeën 13:27–30",
+        "kind": "diagram",
+        "width": 840,
+        "height": 820
       }
     ],
     "2makkabeeen": [

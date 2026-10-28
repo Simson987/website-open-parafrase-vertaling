@@ -1,0 +1,284 @@
+{
+  "date": "2026-10-28",
+  "resumed": "2026-10-28T07:08:34Z",
+  "started": "2026-10-26T12:19:19Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "1makkabeeen",
+      "chapter": 13,
+      "verse": 22,
+      "file": "13-22-sneeuw-stopt-tocht-verdieping.webp",
+      "scene": "Zware sneeuw houdt de tocht tegen",
+      "alt": "Zware sneeuw houdt de tocht tegen — 1 Makkabeeën 13:22; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic scene in second-century BCE Judea and the Hellenistic world, landscape 3:2, plausible natural materials, modest opaque clothes, coherent anatomy with exactly two arms per person. No modern objects, readable writing, divine human figure, blood, injuries or dead bodies. An ancient Hellenistic cavalry camp in the Judean hills is covered by fresh heavy snow at night. Adult riders in modest cloaks shelter beside healthy horses under canvas, tracks end at the snowbound path and the commander looks toward the blocked route. Correct horse anatomy, two arms each, no fighting, injuries or frozen bodies. Natural cold moonlight and small safe fire. The sudden snow that prevents Tryphon’s planned march in 1 Maccabees 13:21–22.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "1makkabeeen",
+      "chapter": 14,
+      "verse": 48,
+      "file": "14-48-koperen-platen-sion-verdieping.webp",
+      "scene": "De koperen tekst wordt opgesteld",
+      "alt": "De koperen tekst wordt opgesteld — 1 Makkabeeën 14:48; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic scene in second-century BCE Judea and the Hellenistic world, landscape 3:2, plausible natural materials, modest opaque clothes, coherent anatomy with exactly two arms per person. No modern objects, readable writing, divine human figure, blood, injuries or dead bodies. Adult Judean craftsmen and officials in modest tunics place a large engraved copper plate on a stone support in a temple colonnade, while Simon, an older high priest in modest robes, and several adult representatives observe solemnly. The engraving is present as subtle rows without legible words. Natural hands, exactly two arms each, careful practical work, historical Hellenistic stonework. Public display of the honor decree in 1 Maccabees 14:48, not a second writing workshop.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "1makkabeeen",
+      "chapter": 15,
+      "verse": 14,
+      "file": "15-14-dora-land-en-zee-verdieping.webp",
+      "scene": "Dora ingesloten over land en zee",
+      "alt": "Dora ingesloten over land en zee — 1 Makkabeeën 15:14; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic scene in second-century BCE Judea and the Hellenistic world, landscape 3:2, plausible natural materials, modest opaque clothes, coherent anatomy with exactly two arms per person. No modern objects, readable writing, divine human figure, blood, injuries or dead bodies. A wide coastal view of an ancient walled Hellenistic town at Dora: rows of distant cloth tents on the landward side and several ancient oared ships with furled square sails at sea show an enclosing blockade. Quiet daylight, no active battle, fire, bodies or injuries, ships with plausible hulls and rigging. Focus on the simultaneous land and sea enclosure in 1 Maccabees 15:13–14, no modern harbor, cannons or flags.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "1makkabeeen",
+      "chapter": 16,
+      "verse": 15,
+      "file": "16-15-maaltijd-in-dok-verdieping.webp",
+      "scene": "De maaltijd in de vesting Dok",
+      "alt": "De maaltijd in de vesting Dok — 1 Makkabeeën 16:15; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic scene in second-century BCE Judea and the Hellenistic world, landscape 3:2, plausible natural materials, modest opaque clothes, coherent anatomy with exactly two arms per person. No modern objects, readable writing, divine human figure, blood, injuries or dead bodies. An adult host Ptolemy son of Abubus receives the older Simon and his two adult sons at a formal meal in a small ancient fortified residence near Jericho. Everyone is modestly clothed, a table with bread, cups and fruit, the host’s expression reserved while the guests sit trusting. An open shadowy doorway hints at secrecy but no visible ambush, weapon, violence, drunken collapse or injury. Exactly two arms each. The meal prepared before the betrayal in 1 Maccabees 16:14–17.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "1makkabeeen",
+      "chapter": 13,
+      "verse": 1,
+      "file": "13-simon-en-de-ommekeer.svg",
+      "scene": "Simon en de ommekeer",
+      "alt": "Simon en de ommekeer met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1141,
+      "source": "1 Makkabeeën 13:1–54",
+      "design": {
+        "rows": [
+          [
+            "De keuze · 1–11",
+            "Simon bemoedigt het volk en wordt leider; de steden worden versterkt."
+          ],
+          [
+            "Het bedrog · 12–30",
+            "Tryfon vraagt geld en gijzelaars maar houdt Jonathan vast; sneeuw, dood en begrafenis volgen."
+          ],
+          [
+            "De vrijheid · 31–42",
+            "Tryfon grijpt de kroon, Demetrius verleent vrijstelling en een nieuwe datering begint."
+          ],
+          [
+            "De vestingen · 43–54",
+            "Gazara, de burcht van Jeruzalem en Johannes als veldheer."
+          ]
+        ],
+        "note": "De rouw om Jonathan en de latere vreugde bij de burcht zijn verschillende gebeurtenissen."
+      }
+    },
+    {
+      "book": "1makkabeeen",
+      "chapter": 14,
+      "verse": 4,
+      "file": "14-rust-en-erkenning.svg",
+      "scene": "Rust en erkenning",
+      "alt": "Rust en erkenning met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1098,
+      "source": "1 Makkabeeën 14:1–49",
+      "design": {
+        "rows": [
+          [
+            "Demetrius · 1–3",
+            "Zijn tocht naar Medië eindigt met gevangenneming bij Arsaces."
+          ],
+          [
+            "De rust · 4–15",
+            "Werk, opbrengst, pleinen, voedsel, wijnstok/vijgenboom en een verfraaid heiligdom."
+          ],
+          [
+            "De buitenlandse erkenning · 16–24",
+            "Rome en Sparta vernieuwen vriendschap; Numenius brengt een gouden schild."
+          ],
+          [
+            "De binnenlandse erkenning · 25–49",
+            "Het volk legt Simons taken, eer en aanstelling vast op koperen platen."
+          ]
+        ],
+        "note": "De aanstelling blijft volgens vers 41 gelden totdat er een betrouwbare profeet opstaat."
+      }
+    },
+    {
+      "book": "1makkabeeen",
+      "chapter": 14,
+      "verse": 41,
+      "file": "14-simons-vastgelegde-taken.svg",
+      "scene": "Simons vastgelegde taken",
+      "alt": "Simons vastgelegde taken met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1091,
+      "source": "1 Makkabeeën 14:41–49",
+      "design": {
+        "rows": [
+          [
+            "Leiding en priesterschap · 41",
+            "Leider en hogepriester tot er een betrouwbare profeet opstaat."
+          ],
+          [
+            "Leger en aanstellingen · 42",
+            "Veldheer; toezicht op dienst, land, wapens en vestingen."
+          ],
+          [
+            "Bestuur en eer · 43–47",
+            "Zorg voor het heiligdom, documenten op zijn naam en de genoemde eertekens."
+          ],
+          [
+            "De bewaring · 48–49",
+            "Publieke koperen platen en een afschrift in de schatkamer."
+          ]
+        ],
+        "note": "Het schema ordent de bepalingen van het volksbesluit, zonder er nieuwe bevoegdheden aan toe te voegen."
+      }
+    },
+    {
+      "book": "1makkabeeen",
+      "chapter": 15,
+      "verse": 1,
+      "file": "15-van-belofte-naar-eis.svg",
+      "scene": "Van belofte naar eis",
+      "alt": "Van belofte naar eis met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1091,
+      "source": "1 Makkabeeën 15:1–41",
+      "design": {
+        "rows": [
+          [
+            "Antiochus belooft · 1–14",
+            "Vrijstellingen en eigen munten; vervolgens beleg van Dora."
+          ],
+          [
+            "Rome schrijft · 15–24",
+            "Vriendschap bevestigd en brieven aan koningen en landen."
+          ],
+          [
+            "Antiochus keert · 25–36",
+            "Hulp geweigerd, afspraken gebroken en Athenobius met een eis naar Simon."
+          ],
+          [
+            "De nieuwe dreiging · 37–41",
+            "Tryfon ontsnapt; Cendebeüs versterkt Kedron en doet uitvallen."
+          ]
+        ],
+        "note": "De Romeinse brieven en de veranderende houding van Antiochus zijn twee afzonderlijke diplomatieke lijnen."
+      }
+    },
+    {
+      "book": "1makkabeeen",
+      "chapter": 15,
+      "verse": 31,
+      "file": "15-eis-en-antwoord.svg",
+      "scene": "Eis en antwoord",
+      "alt": "Eis en antwoord met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1177,
+      "source": "1 Makkabeeën 15:28–36",
+      "design": {
+        "rows": [
+          [
+            "De gevraagde gebieden · 28–30",
+            "Joppe, Gazara en de burcht; daarnaast tollen en andere plaatsen."
+          ],
+          [
+            "Het alternatief · 31",
+            "500 talenten voor de steden en 500 voor schade en tollen."
+          ],
+          [
+            "Simons antwoord · 33–35",
+            "Het erfdeel van de vaderen teruggehaald; voor Joppe en Gazara biedt hij 100 talenten."
+          ],
+          [
+            "De reactie · 36",
+            "Athenobius keert zonder antwoord woedend terug; ook de koning wordt kwaad."
+          ]
+        ],
+        "note": "De bedragen zijn aanbiedingen en eisen van verschillende sprekers, geen betaalde eindafrekening."
+      }
+    },
+    {
+      "book": "1makkabeeen",
+      "chapter": 16,
+      "verse": 1,
+      "file": "16-overdracht-en-verraad.svg",
+      "scene": "Overdracht en verraad",
+      "alt": "Overdracht en verraad met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1098,
+      "source": "1 Makkabeeën 16:1–24",
+      "design": {
+        "rows": [
+          [
+            "De overdracht · 1–10",
+            "Simon zendt Judas en Johannes; Johannes steekt als eerste de beek over."
+          ],
+          [
+            "De val · 11–17",
+            "Ptolemeüs, zoon van Abubus en schoonzoon van de hogepriester, beraamt de maaltijd in Dok."
+          ],
+          [
+            "De waarschuwing · 18–22",
+            "Het plan strekt zich naar Gazara uit, maar Johannes hoort het op tijd."
+          ],
+          [
+            "Het vervolg · 23–24",
+            "Zijn verdere daden en hogepriesterschap worden naar andere jaarboeken verwezen."
+          ]
+        ],
+        "note": "De Judas in deze eerste verzen is Simons zoon, niet de eerder gestorven Judas de Makkabeeër."
+      }
+    },
+    {
+      "book": "1makkabeeen",
+      "chapter": 13,
+      "verse": 27,
+      "file": "13-grafmonument-modin.svg",
+      "scene": "Het grafmonument in Modin",
+      "alt": "Het grafmonument in Modin — 1 Makkabeeën 13:27–30",
+      "kind": "diagram",
+      "width": 840,
+      "height": 820,
+      "source": "1 Makkabeeën 13:27–30",
+      "design": {
+        "type": "seven-pyramid-count-diagram",
+        "pyramids": 7,
+        "named_recipients": [
+          "vader",
+          "moeder",
+          "vier broers"
+        ],
+        "details": [
+          "geslepen stenen",
+          "zuilen",
+          "wapens",
+          "schepen"
+        ],
+        "note": "Geen individuele toewijzing of schaal afgeleid."
+      }
+    }
+  ]
+}
