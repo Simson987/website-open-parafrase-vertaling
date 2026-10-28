@@ -1,0 +1,105 @@
+{
+  "started": "2026-10-28T10:20:21Z",
+  "batches": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "new_visuals": 140,
+  "new_asset_files": 140,
+  "replaced_baseline_images": 0,
+  "new_rasters": 40,
+  "new_schemas": 100,
+  "new_reviewed_chapters": 86,
+  "total_reviewed_chapters": 1604,
+  "total_images": 9150,
+  "metadata_corrections": 258,
+  "verified": "local sources, visual anatomy and content review, SVG legibility and font bounds, SVG enlarge links, dimensions and decode, chapter plan targets, preservation of baseline work",
+  "finished": "2026-10-28T11:05:06.744763+00:00",
+  "baseline": "71ff6fe165cf1d2d1c997734f37cda8074be819f",
+  "asset_commit": "6e1055829bee86b4e4f906aba0fcca2ae775047c",
+  "ranges": [
+    {
+      "book": "jubileeen",
+      "first": 41,
+      "last": 50
+    },
+    {
+      "book": "1meqabyan",
+      "first": 1,
+      "last": 36
+    },
+    {
+      "book": "2meqabyan",
+      "first": 1,
+      "last": 21
+    },
+    {
+      "book": "3meqabyan",
+      "first": 1,
+      "last": 10
+    },
+    {
+      "book": "4baruch",
+      "first": 1,
+      "last": 9
+    }
+  ],
+  "remaining_chapters": 0,
+  "next_chapter": null,
+  "open_reviewed_targets": 0,
+  "coverage": {
+    "books": 88,
+    "chapters": 1604,
+    "chapters_with_three_images": 67,
+    "chapters_with_at_least_three_images": 1604,
+    "chapters_with_more_than_three_images": 1537,
+    "images": 9150,
+    "images_still_needed": 0,
+    "chapters_reviewed_for_expansion": 1604,
+    "reviewed_chapters_at_target": 1604,
+    "additional_images_needed_for_reviewed_chapters": 0
+  },
+  "source_observations": [
+    {
+      "reference": "Jubileeën 42; 44–45; 47–48",
+      "observation": "Zeven porties voor Benjamin, plaatselijke namen en familietellingen, graf van Abraham, Tharmut en Amram en de dagen van Mastema aan de lokale tekst getoetst; verschillen niet stil geharmoniseerd."
+    },
+    {
+      "reference": "1 Meqabyan 2; 5; 15; 18; 28; 36",
+      "observation": "Afgebroken zinnen niet aangevuld; Nimrods ijzeren bed, Gideon en Filistijnen, onderscheiden namen Mabkyus/Maqabyus/Juda en reddersvolgorde plaatselijk behouden. Zand- en sterrenvergelijkingen verschillend uitgelegd."
+    },
+    {
+      "reference": "2 Meqabyan 14; 21:19",
+      "observation": "Groepsuitspraken en polemiek aan de spreker toegeschreven. Moeilijke formulering over ongeluk en eerdere vijandschap behouden in de leeswijzer."
+    },
+    {
+      "reference": "3 Meqabyan 1–4; 8–10",
+      "observation": "Sablyanos als spreker van verleidingsrede onderscheiden; waarzeggerij als bekritiseerde aanspraak. Genoemde voorbeelden, scheppingstaal, natuurvergelijkingen en praktische leerbeelden afzonderlijk behandeld."
+    },
+    {
+      "reference": "4 Baruch 5–9",
+      "observation": "66 jaar, Nisan/Miyazya, Nebukadnezar als koning van Perzië, 15 vijgen, 477 jaar en 12 apostelen volgens plaatselijke tekst. Hoofdstuk 8 als oorsprongsvertelling van het boek; hoofdstuk 9 legt geweld bij de verhaalgroep. Wondersteen en Jeremia afzonderlijk gehouden."
+    }
+  ],
+  "generation_errors": [],
+  "qa": [
+    "Volledige lokale hoofdstukteksten gelezen en bestaande beelden bekeken",
+    "Alle 40 nieuwe rasters op broninhoud en anatomie gecontroleerd",
+    "Alle 100 SVG-ontwerpen gerenderd, bekeken en op tekstgrenzen gecontroleerd",
+    "Versankers, werkelijke afmetingen, unieke bestanden, beelddecodering en SVG-veiligheid gecontroleerd",
+    "Vergrootlinks van schema’s in gegenereerde hoofdstukpagina’s gecontroleerd",
+    "Sitebuild en dekkingsteller geslaagd",
+    "Alle 1604 gepubliceerde hoofdstukken inhoudelijk beoordeeld; elk gemotiveerd beeldplan uitgevoerd",
+    "Basisbestanden en eerdere planning behouden behalve vastgelegde metadatacorrecties"
+  ],
+  "automation": "COMPLETE: alle 1604 hoofdstukken en beeldplannen uitgevoerd; automatisering verwijderen na bevestigde push",
+  "push_target": "Simson987/website-open-parafrase-vertaling:codex/three-images-per-chapter",
+  "pull_request": "https://github.com/William-Carey-Missions/website-open-parafrase-vertaling/pull/3"
+}
