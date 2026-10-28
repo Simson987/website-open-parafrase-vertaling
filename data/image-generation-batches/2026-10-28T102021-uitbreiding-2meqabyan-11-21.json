@@ -1,0 +1,450 @@
+{
+  "date": "2026-10-28",
+  "started": "2026-10-28T10:20:21Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "2meqabyan",
+      "chapter": 11,
+      "verse": 11,
+      "file": "11-11-bronzen-wierookvaten-verzameld-verdieping.webp",
+      "scene": "De bronzen wierookvaten verzameld",
+      "alt": "De bronzen wierookvaten verzameld — 2 Meqabyan 11:11; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration for 2 Meqabyan, ancient Near East, landscape 3:2, natural materials and daylight, fully covering opaque modest robes, correct two arms and natural hands per person. No modern objects, readable writing, divine portrait, blood, burns, injuries or dead bodies. Moses and Aaron, two elderly men in modest full robes, carefully collecting empty bronze incense pans into a simple basket outside an ancient desert tabernacle. A small row of bronze censers visible on a stone slab, no fire or ashes of people, no bodies. 2 Meqabyan 11:10–11 sacred bronze censers gathered after the judgment, distinct from burning incense at altar.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2meqabyan",
+      "chapter": 11,
+      "verse": 1,
+      "file": "11-zachtmoedigheid-en-heiligdom.svg",
+      "scene": "Zachtmoedigheid en heiligdom",
+      "alt": "Zachtmoedigheid en heiligdom met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1177,
+      "source": "2 Meqabyan 11:1–25",
+      "design": {
+        "rows": [
+          [
+            "Mozes · 1–5",
+            "Bidt verzoening voor beledigers; zachtmoedig genoemd."
+          ],
+          [
+            "Korach en Asaf · 6–11",
+            "Aanklacht en oordeel; bronzen wierookvaten worden verzameld."
+          ],
+          [
+            "Gerei en offers · 12–15",
+            "Verzoendeksel, tent, cherub, bekkens, kannen, schalen, bakken, voorhof, omheining, pannen, altaren."
+          ],
+          [
+            "Verbond en gebed · 16–25",
+            "Abraham, Izak, Jakob; Mozes, Aäron, Samuël, Elia en Salomo; heiligdom als gebedsplaats."
+          ]
+        ],
+        "note": "De namen en verbanden volgen deze passage; de lijst is geen chronologische bouwgeschiedenis van één tent."
+      }
+    },
+    {
+      "book": "2meqabyan",
+      "chapter": 12,
+      "verse": 1,
+      "file": "12-waarschuwing-en-tsirutsaydan.svg",
+      "scene": "Waarschuwing en Tsirutsaydan",
+      "alt": "Waarschuwing en Tsirutsaydan met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1141,
+      "source": "2 Meqabyan 12:1–15",
+      "design": {
+        "rows": [
+          [
+            "Aanklacht · 1–3",
+            "Machtigen doen eigen wil; vuur, stoppels en wervelwind als vergelijking."
+          ],
+          [
+            "Ontferming · 4–10",
+            "Liefde, vertrouwen en terugkeer; stof en ziel kunnen weer tot bestaan komen."
+          ],
+          [
+            "Grootspraak · 11–13",
+            "Tsirutsaydan claimt eeuwig leven; Telmyakos, engel van dood, komt; koning sterft."
+          ],
+          [
+            "Nasleep · 14–15",
+            "Legers van Chaldeeuwse koning verwoesten en plunderen zijn stad."
+          ]
+        ],
+        "note": "De ontfermingrede en het plotselinge einde van de koning zijn twee verschillende onderdelen."
+      }
+    },
+    {
+      "book": "2meqabyan",
+      "chapter": 13,
+      "verse": 1,
+      "file": "13-keuze-en-opstandingshoop.svg",
+      "scene": "Keuze en opstandingshoop",
+      "alt": "Keuze en opstandingshoop met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1177,
+      "source": "2 Meqabyan 13:1–14",
+      "design": {
+        "rows": [
+          [
+            "Weigering · 1–3,7–10",
+            "Zonen van Meqabis kiezen trouw boven tijdelijk genot en koninklijke dreiging."
+          ],
+          [
+            "Vergelijking · 4–6",
+            "Eén paradijsdag boven tienduizenden jaren; mensenleven als schaduw en kaars."
+          ],
+          [
+            "Ziel en lichaam · 11–13",
+            "Opstanding van beide; wereld zonder ziekte, verdriet of dood."
+          ],
+          [
+            "Glans · 14",
+            "Hoop op gezichten die zevenmaal meer stralen dan de zon."
+          ]
+        ],
+        "note": "Het hoofdstuk verklaart de keuze van de martelaren en verbeeldt hun verwachting, geen tweede martelaarsverhaal."
+      }
+    },
+    {
+      "book": "2meqabyan",
+      "chapter": 14,
+      "verse": 1,
+      "file": "14-toegeschreven-standpunten.svg",
+      "scene": "Toegeschreven standpunten",
+      "alt": "Toegeschreven standpunten met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1091,
+      "source": "2 Meqabyan 14:1–9",
+      "design": {
+        "rows": [
+          [
+            "Joden · 1",
+            "De rede legt hun eten en drinken zonder toekomstverwachting in de mond."
+          ],
+          [
+            "Samaritanen · 2–5",
+            "Volgens de rede: lichaam wordt stof; ziel als onzichtbare wind en donder."
+          ],
+          [
+            "Farizeeën · 6",
+            "Volgens de rede: opstanding met ander, hemels lichaam."
+          ],
+          [
+            "Sadduceeën · 7–9",
+            "Volgens de rede: geen opstanding van ziel of lichaam."
+          ]
+        ],
+        "note": "Dit zijn aan groepen toegeschreven uitspraken in deze polemiek, geen algemene historische beschrijving van al hun overtuigingen."
+      }
+    },
+    {
+      "book": "2meqabyan",
+      "chapter": 14,
+      "verse": 10,
+      "file": "14-antwoord-en-opstanding.svg",
+      "scene": "Antwoord en opstanding",
+      "alt": "Antwoord en opstanding met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1177,
+      "source": "2 Meqabyan 14:10–36",
+      "design": {
+        "rows": [
+          [
+            "Schepper · 10–18",
+            "Wie uit niet-bestaan schiep kan weer opwekken; rekenschap naar daden."
+          ],
+          [
+            "Verzameling · 19–23",
+            "Geest, stof en levensgeest; rechtvaardigen in paradijs; oordeel verwacht."
+          ],
+          [
+            "Onderwijs · 24–28",
+            "Verantwoordelijkheid voor eigen woord en wie men onderwijst."
+          ],
+          [
+            "Vergelijkingen · 29–36",
+            "Regen, boom, graan en geboorte; ziel terug in lichaam; bazuin en open werken."
+          ]
+        ],
+        "note": "Het touw aan de hals in verzen 11–15 is oordeelsbeeldspraak, geen biologisch model of afbeelding van echte wurging."
+      }
+    },
+    {
+      "book": "2meqabyan",
+      "chapter": 15,
+      "verse": 1,
+      "file": "15-gelijke-rekenschap.svg",
+      "scene": "Gelijke rekenschap",
+      "alt": "Gelijke rekenschap met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1134,
+      "source": "2 Meqabyan 15:1–21",
+      "design": {
+        "rows": [
+          [
+            "Daden · 1–6",
+            "Eigen werken getuigen; oordeel in beelden van duisternis, storm en bliksem."
+          ],
+          [
+            "Gelijke rang · 7–9",
+            "Heer/knecht, meesteres/dienares, koning/arme, vorst/kind, ouder/kind, rijk/arm en groot/klein."
+          ],
+          [
+            "Goede werken · 10–16",
+            "Blijvende blijdschap en land van leven."
+          ],
+          [
+            "Kwade werken · 17–21",
+            "Ongetroost verdriet; worm en vuur als oordeelbeelden."
+          ]
+        ],
+        "note": "De opgesomde rangen vormen een gelijkheidscontrast voor het oordeel, geen aardse rangschikking."
+      }
+    },
+    {
+      "book": "2meqabyan",
+      "chapter": 16,
+      "verse": 1,
+      "file": "16-eigen-lichaam-eigen-vrucht.svg",
+      "scene": "Eigen lichaam, eigen vrucht",
+      "alt": "Eigen lichaam, eigen vrucht met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1091,
+      "source": "2 Meqabyan 16:1–15",
+      "design": {
+        "rows": [
+          [
+            "Aangroei · 1–3",
+            "Haar en nagels als zichtbaar voorbeeld voor opstanding met eigen lichaam."
+          ],
+          [
+            "Eigen soort · 4–7",
+            "Tarwe blijft tarwe, gerst gerst; wijnstok wordt geen vijg en omgekeerd."
+          ],
+          [
+            "Overdracht · 8",
+            "Ziel en lichaam komen op; daden blijven bepalend."
+          ],
+          [
+            "Uitkomst · 9–15",
+            "Bazuin en levensdauw; goed tot leven, kwaad tot oordeel."
+          ]
+        ],
+        "note": "De lichamelijke aangroei en planten zijn vergelijkingen waarmee de tekst ziel en lichaam samen verdedigt."
+      }
+    },
+    {
+      "book": "2meqabyan",
+      "chapter": 17,
+      "verse": 1,
+      "file": "17-tarwe-wijnstok-en-maat.svg",
+      "scene": "Tarwe, wijnstok en maat",
+      "alt": "Tarwe, wijnstok en maat met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1134,
+      "source": "2 Meqabyan 17:1–12",
+      "design": {
+        "rows": [
+          [
+            "Tarwe · 1–6",
+            "Korrel sterft, wortelt en draagt veel korrels; aarde, water, wind en zon."
+          ],
+          [
+            "Wijnstok · 6–8",
+            "Fijne worteldraden, dauw en warmte; vrucht geperst als bloed van druiventros."
+          ],
+          [
+            "Wijn · 9–10",
+            "Vreugde bij drinken; teveel maakt razend en verstoort zicht op gevaar."
+          ],
+          [
+            "Doel · 11–12",
+            "God prijzen en vertrouwen op opstanding en woning van leven."
+          ]
+        ],
+        "note": "Bloed van de druiventros betekent hier uitgeperst sap. Het slot verbindt natuurbeelden met opstandingshoop."
+      }
+    },
+    {
+      "book": "2meqabyan",
+      "chapter": 18,
+      "verse": 1,
+      "file": "18-vergankelijkheid-en-rekenschap.svg",
+      "scene": "Vergankelijkheid en rekenschap",
+      "alt": "Vergankelijkheid en rekenschap met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1091,
+      "source": "2 Meqabyan 18:1–14",
+      "design": {
+        "rows": [
+          [
+            "Onderwijs · 1–6",
+            "Afwijzing van opstanding en misleiding van naasten worden aangeklaagd."
+          ],
+          [
+            "Adam · 7–9",
+            "Dood en gezamenlijk opstaan verbonden aan Adam."
+          ],
+          [
+            "Vergankelijkheid · 10–11",
+            "Lichaam, licht van ogen en stem keren tot stof."
+          ],
+          [
+            "Vragen · 12–14",
+            "Waar zijn jeugd, kracht, koninklijke tooi en smaak van feestmaal?"
+          ]
+        ],
+        "note": "De lege feestzaal en achtergebleven kroon verbeelden de retorische vragen, geen benoemde paleisverwoesting."
+      }
+    },
+    {
+      "book": "2meqabyan",
+      "chapter": 19,
+      "verse": 1,
+      "file": "19-aarde-dood-en-bazuin.svg",
+      "scene": "Aarde, dood en bazuin",
+      "alt": "Aarde, dood en bazuin met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1134,
+      "source": "2 Meqabyan 19:1–15",
+      "design": {
+        "rows": [
+          [
+            "Aanspreking · 1–4",
+            "Aarde aangesproken om schoonheid, stem en kracht die zij verzamelt."
+          ],
+          [
+            "Terugkeer · 5–9",
+            "Dood en aarde krijgen stem; voedsel, dauw en lichaam als wederkerige beelden."
+          ],
+          [
+            "Zonder rangverschil · 10–13",
+            "Rijk en arm, oud en jong, goed en kwaad worden niet ontzien."
+          ],
+          [
+            "Verwachting · 14–15",
+            "Lichamen in aarde of rots tot bazuin; ieder naar zijn daden."
+          ]
+        ],
+        "note": "Aarde en Dood zijn personificaties in een klaagrede. De lichamelijke beelden worden niet letterlijk als etende aarde getekend."
+      }
+    },
+    {
+      "book": "2meqabyan",
+      "chapter": 20,
+      "verse": 1,
+      "file": "20-de-onbekende-reis.svg",
+      "scene": "De onbekende reis",
+      "alt": "De onbekende reis met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1091,
+      "source": "2 Meqabyan 20:1–14",
+      "design": {
+        "rows": [
+          [
+            "Ontbrekend · 1–6",
+            "Proviand, kleed, staf, sandalen; onbekende weg en geleiders."
+          ],
+          [
+            "Psalmwoord · 7–9",
+            "David: U kent mijn pad; geen bekende helper in het duister."
+          ],
+          [
+            "Twee bestemmingen · 10–12",
+            "Lichtengelen ontvangen rechtvaardige zielen; duisternis bij oordeel."
+          ],
+          [
+            "Waarschuwing · 13–14",
+            "Weg van Kaïn en loon van Bileam: geschenk en onrecht."
+          ]
+        ],
+        "note": "Reisuitrusting en weg verbeelden voorbereiding op sterven en rekenschap, geen beschreven geografische route."
+      }
+    },
+    {
+      "book": "2meqabyan",
+      "chapter": 21,
+      "verse": 1,
+      "file": "21-rijkdom-zegen-en-erfdeel.svg",
+      "scene": "Rijkdom, zegen en erfdeel",
+      "alt": "Rijkdom, zegen en erfdeel met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1184,
+      "source": "2 Meqabyan 21:1–28",
+      "design": {
+        "rows": [
+          [
+            "Onrechtmatig bezit · 1–11",
+            "Rijkdom vergaat als wolk, rook, graszaad en was; ceder gezocht en verdwenen."
+          ],
+          [
+            "Zegen · 12–16",
+            "Vrucht, oogst, vee, werk en hulp; Leviet ontvangt tienden en eerstgeborenen."
+          ],
+          [
+            "Vrijstad · 17–22",
+            "Onderzoek van doodslag; onderscheid opzet en ongeluk; recht vóór afdoening."
+          ],
+          [
+            "Slot · 23–28",
+            "Tabernakel als hemels voorbeeld; Adam en Set; leven, gebed, berouw en blijvende lof."
+          ]
+        ],
+        "note": "De slotbelofte van zegen wordt onderscheiden van de openingsaanklacht tegen geroofde rijkdom."
+      }
+    },
+    {
+      "book": "2meqabyan",
+      "chapter": 21,
+      "verse": 17,
+      "file": "21-zorgvuldig-onderzoek.svg",
+      "scene": "Zorgvuldig onderzoek",
+      "alt": "Zorgvuldig onderzoek met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1048,
+      "source": "2 Meqabyan 21:17–20",
+      "design": {
+        "rows": [
+          [
+            "Bescherming · 17–18",
+            "Vrijstad totdat rechters recht spreken."
+          ],
+          [
+            "Vragen · 19",
+            "Was er vijandschap? Wat viel: ijzer, steen of hout? Was het zonder opzet?"
+          ],
+          [
+            "Onderzoek · 19–20",
+            "Niet alleen de verklaring aannemen; nauwkeurig onderzoeken."
+          ],
+          [
+            "Onderscheid · 20",
+            "Zonder opzet: vrijlaten; met opzet: vergelding naar misdaad."
+          ]
+        ],
+        "note": "Vers 19 bevat een moeilijke verbinding van eerdere vijandschap en ongeluk. Vers 20 formuleert het onderscheid naar opzet expliciet."
+      }
+    }
+  ]
+}
