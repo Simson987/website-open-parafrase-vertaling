@@ -64883,63 +64883,90 @@
         "verse": 12,
         "file": "13-12.webp",
         "alt": "Beeld bij 2makkabeeen 13: Drie dagen van vasten",
-        "scene": "Drie dagen van vasten"
+        "scene": "Drie dagen van vasten",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 13,
         "verse": 13,
         "file": "13-13.webp",
         "alt": "Beeld bij 2makkabeeen 13: Judas overlegt met de oudsten",
-        "scene": "Judas overlegt met de oudsten"
+        "scene": "Judas overlegt met de oudsten",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 13,
         "verse": 24,
         "file": "13-24.webp",
         "alt": "Beeld bij 2makkabeeen 13: Een verzoenend gebaar",
-        "scene": "Een verzoenend gebaar"
+        "scene": "Een verzoenend gebaar",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 14,
         "verse": 19,
         "file": "14-19.webp",
         "alt": "Beeld bij 2makkabeeen 14: Drie gezanten voor vrede",
-        "scene": "Drie gezanten voor vrede"
+        "scene": "Drie gezanten voor vrede",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 14,
         "verse": 21,
         "file": "14-21.webp",
         "alt": "Beeld bij 2makkabeeen 14: Twee zetels voor overleg",
-        "scene": "Twee zetels voor overleg"
+        "scene": "Twee zetels voor overleg",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 14,
         "verse": 25,
         "file": "14-25.webp",
         "alt": "Beeld bij 2makkabeeen 14: Een rustig gezinsleven",
-        "scene": "Een rustig gezinsleven"
+        "scene": "Een rustig gezinsleven",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 15,
         "verse": 9,
         "file": "15-9.webp",
         "alt": "Beeld bij 2makkabeeen 15: Moed uit wet en profeten",
-        "scene": "Moed uit wet en profeten"
+        "scene": "Moed uit wet en profeten",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 15,
         "verse": 15,
         "file": "15-15.webp",
         "alt": "Beeld bij 2makkabeeen 15: Jeremia geeft het gouden zwaard",
-        "scene": "Jeremia geeft het gouden zwaard"
+        "scene": "Jeremia geeft het gouden zwaard",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 15,
         "verse": 21,
         "file": "15-21.webp",
         "alt": "Beeld bij 2makkabeeen 15: Judas heft zijn handen op",
-        "scene": "Judas heft zijn handen op"
+        "scene": "Judas heft zijn handen op",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 1,
@@ -65340,6 +65367,116 @@
         "kind": "diagram",
         "width": 840,
         "height": 1098
+      },
+      {
+        "chapter": 13,
+        "verse": 20,
+        "file": "13-20-bevoorrading-bet-sur-verdieping.webp",
+        "scene": "Voorraden voor Bet-Sur",
+        "alt": "Voorraden voor Bet-Sur — 2 Makkabeeën 13:20; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 14,
+        "verse": 4,
+        "file": "14-4-alcimus-geschenken-verdieping.webp",
+        "scene": "Alcimus brengt geschenken",
+        "alt": "Alcimus brengt geschenken — 2 Makkabeeën 14:4; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 14,
+        "verse": 34,
+        "file": "14-34-priesters-bidden-tempel-verdieping.webp",
+        "scene": "De priesters bidden voor de tempel",
+        "alt": "De priesters bidden voor de tempel — 2 Makkabeeën 14:34; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 15,
+        "verse": 37,
+        "file": "15-37-herdenkingsdag-adar-verdieping.webp",
+        "scene": "Een herdenkingsdag wordt vastgesteld",
+        "alt": "Een herdenkingsdag wordt vastgesteld — 2 Makkabeeën 15:37; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 13,
+        "verse": 1,
+        "file": "13-veldtocht-en-vredesafloop.svg",
+        "scene": "Veldtocht en vredesafloop",
+        "alt": "Veldtocht en vredesafloop met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1177
+      },
+      {
+        "chapter": 13,
+        "verse": 2,
+        "file": "13-macht-en-motieven.svg",
+        "scene": "Macht en motieven",
+        "alt": "Macht en motieven met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1220
+      },
+      {
+        "chapter": 14,
+        "verse": 1,
+        "file": "14-van-verdrag-naar-dreiging.svg",
+        "scene": "Van verdrag naar dreiging",
+        "alt": "Van verdrag naar dreiging met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1184
+      },
+      {
+        "chapter": 14,
+        "verse": 37,
+        "file": "14-razis-en-de-gemeenschap.svg",
+        "scene": "Razis en de gemeenschap",
+        "alt": "Razis en de gemeenschap met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 985
+      },
+      {
+        "chapter": 15,
+        "verse": 1,
+        "file": "15-woorden-droom-en-gebed.svg",
+        "scene": "Woorden, droom en gebed",
+        "alt": "Woorden, droom en gebed met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1091
+      },
+      {
+        "chapter": 15,
+        "verse": 25,
+        "file": "15-overwinning-en-gedenkdag.svg",
+        "scene": "Overwinning en gedenkdag",
+        "alt": "Overwinning en gedenkdag met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1134
+      },
+      {
+        "chapter": 15,
+        "verse": 39,
+        "file": "15-het-slot-van-de-schrijver.svg",
+        "scene": "Het slot van de schrijver",
+        "alt": "Het slot van de schrijver met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 899
       }
     ],
     "3makkabeeen": [

@@ -1,0 +1,281 @@
+{
+  "date": "2026-10-28",
+  "resumed": "2026-10-28T07:08:34Z",
+  "started": "2026-10-26T12:19:19Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "2makkabeeen",
+      "chapter": 13,
+      "verse": 20,
+      "file": "13-20-bevoorrading-bet-sur-verdieping.webp",
+      "scene": "Voorraden voor Bet-Sur",
+      "alt": "Voorraden voor Bet-Sur — 2 Makkabeeën 13:20; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic biblical scene in second-century BCE Judea or a Hellenistic royal court, landscape 3:2, plausible natural ancient materials, fully covering opaque clothing, coherent people with exactly two arms and natural hands. No modern objects, readable writing, image of God, blood, wounds, corpses or self-harm. Judean adult messengers in plain travel robes lead two pack donkeys with grain sacks and clay jars toward the open side gate of an ancient hilltop stone fortress, where adult defenders welcome them. Distant siege tents beyond the walls, no fighting or danger in the foreground. Judas sending supplies to the defenders of Beth-Zur in 2 Maccabees 13:20, distinct from the earlier council and later royal embrace.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2makkabeeen",
+      "chapter": 14,
+      "verse": 4,
+      "file": "14-4-alcimus-geschenken-verdieping.webp",
+      "scene": "Alcimus brengt geschenken",
+      "alt": "Alcimus brengt geschenken — 2 Makkabeeën 14:4; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic biblical scene in second-century BCE Judea or a Hellenistic royal court, landscape 3:2, plausible natural ancient materials, fully covering opaque clothing, coherent people with exactly two arms and natural hands. No modern objects, readable writing, image of God, blood, wounds, corpses or self-harm. An adult Judean former high priest Alcimus in a dignified opaque robe presents a golden crown and a palm branch to the adult Hellenistic king Demetrius in a palace hall. A few small leafy branches lie on the tray beside the crown. The king wears a plain diadem and listens silently. No divine symbols or sacrifice. The gifts on his arrival in 2 Maccabees 14:3–4, before the later accusations in council.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2makkabeeen",
+      "chapter": 14,
+      "verse": 34,
+      "file": "14-34-priesters-bidden-tempel-verdieping.webp",
+      "scene": "De priesters bidden voor de tempel",
+      "alt": "De priesters bidden voor de tempel — 2 Makkabeeën 14:34; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic biblical scene in second-century BCE Judea or a Hellenistic royal court, landscape 3:2, plausible natural ancient materials, fully covering opaque clothing, coherent people with exactly two arms and natural hands. No modern objects, readable writing, image of God, blood, wounds, corpses or self-harm. At an ancient Jerusalem temple altar, several adult priests in modest linen robes raise their hands in earnest prayer after a hostile official has departed. Their expressions are anxious but resolute, temple building intact behind them, no enemies currently present. The response to Nicanor’s threat in 2 Maccabees 14:34–36. Each person has two arms, natural hands, no violence or human deity.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2makkabeeen",
+      "chapter": 15,
+      "verse": 37,
+      "file": "15-37-herdenkingsdag-adar-verdieping.webp",
+      "scene": "Een herdenkingsdag wordt vastgesteld",
+      "alt": "Een herdenkingsdag wordt vastgesteld — 2 Makkabeeën 15:37; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic biblical scene in second-century BCE Judea or a Hellenistic royal court, landscape 3:2, plausible natural ancient materials, fully covering opaque clothing, coherent people with exactly two arms and natural hands. No modern objects, readable writing, image of God, blood, wounds, corpses or self-harm. Modestly clothed adult Judean citizens and priests gather peacefully in the ancient Jerusalem temple forecourt, agreeing together to remember their deliverance with gratitude. A speaker makes a calm open-hand gesture, others look upward thankfully. No enemy trophies, detached body parts, corpses or weapon display. The communal decision to commemorate the thirteenth of Adar in 2 Maccabees 15:34–37, focus on thanksgiving and agreement rather than the preceding gruesome display.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2makkabeeen",
+      "chapter": 13,
+      "verse": 1,
+      "file": "13-veldtocht-en-vredesafloop.svg",
+      "scene": "Veldtocht en vredesafloop",
+      "alt": "Veldtocht en vredesafloop met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1177,
+      "source": "2 Makkabeeën 13:1–26",
+      "design": {
+        "rows": [
+          [
+            "De komst · 1–9",
+            "Eupator en Lysias rukken op; Menelaüs wordt beschuldigd en sterft in Berea."
+          ],
+          [
+            "Het antwoord · 10–17",
+            "Drie dagen gebed en vasten, raad met oudsten en nachtelijke aanval bij Modin."
+          ],
+          [
+            "Bet-Sur · 18–22",
+            "Beleg, bevoorrading, verraad door Rodocus en onderhandeling."
+          ],
+          [
+            "De afloop · 23–26",
+            "Nieuws over Filippus, verzoening, tempelverering en uitleg door Lysias in Ptolemaïs."
+          ]
+        ],
+        "note": "De chronologische onderdelen zijn onderscheiden; de zware dood van Menelaüs wordt zonder grafische uitwerking genoemd."
+      }
+    },
+    {
+      "book": "2makkabeeen",
+      "chapter": 13,
+      "verse": 2,
+      "file": "13-macht-en-motieven.svg",
+      "scene": "Macht en motieven",
+      "alt": "Macht en motieven met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1220,
+      "source": "2 Makkabeeën 13:1–17",
+      "design": {
+        "rows": [
+          [
+            "De genoemde macht · 1–2",
+            "De tekst noemt bij elk 110.000 voetknechten, 5.300 ruiters, 22 olifanten en 300 zeiswagens."
+          ],
+          [
+            "Menelaüs · 3–8",
+            "Zoekt het hoogste ambt door vleierij; Lysias beschuldigt hem."
+          ],
+          [
+            "Judas en het volk · 10–14",
+            "Bidden om behoud van wet, land en tempel; overleggen en trekken de koning tegemoet."
+          ],
+          [
+            "Het wachtwoord · 15–17",
+            "Van God is de overwinning; nachtactie en vertrek bij het aanbreken van de dag."
+          ]
+        ],
+        "note": "De formulering bij elk volgt de lokale vertaling; het schema maakt er geen berekend totaal van."
+      }
+    },
+    {
+      "book": "2makkabeeen",
+      "chapter": 14,
+      "verse": 1,
+      "file": "14-van-verdrag-naar-dreiging.svg",
+      "scene": "Van verdrag naar dreiging",
+      "alt": "Van verdrag naar dreiging met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1184,
+      "source": "2 Makkabeeën 14:1–36",
+      "design": {
+        "rows": [
+          [
+            "Alcimus · 1–14",
+            "Zoekt via Demetrius herstel van zijn ambt; Nikanor krijgt bevelen tegen Judas."
+          ],
+          [
+            "Het verdrag · 15–25",
+            "Gebed, ontmoeting, twee zetels, wederzijds vertrouwen en een rustig gezinsleven."
+          ],
+          [
+            "De beschuldiging · 26–30",
+            "Alcimus klaagt opnieuw aan; Demetrius eist gevangenneming en Judas houdt zich verborgen."
+          ],
+          [
+            "De tempel · 31–36",
+            "Nikanor dreigt met verwoesting; de priesters vragen om bewaring."
+          ]
+        ],
+        "note": "De tekst laat Nikanors houding veranderen; zijn eerdere goede omgang wordt niet uitgewist."
+      }
+    },
+    {
+      "book": "2makkabeeen",
+      "chapter": 14,
+      "verse": 37,
+      "file": "14-razis-en-de-gemeenschap.svg",
+      "scene": "Razis en de gemeenschap",
+      "alt": "Razis en de gemeenschap met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 985,
+      "source": "2 Makkabeeën 14:37–46",
+      "design": {
+        "rows": [
+          [
+            "Zijn plaats · 37–38",
+            "Een gerespecteerde oudste, om zijn goedheid vader van de Joden genoemd."
+          ],
+          [
+            "Nikanors doel · 39–40",
+            "Stuurt meer dan 500 soldaten; wil de gemeenschap door zijn gevangenneming treffen."
+          ],
+          [
+            "De crisis · 41–46",
+            "De insluiting mondt uit in Razis’ gewelddadige dood; hij roept de Heere van leven en geest aan."
+          ]
+        ],
+        "note": "De passage beschrijft een tragische crisis. Het schema bevat geen methodebeschrijving of uitbeelding van zelfverwonding."
+      }
+    },
+    {
+      "book": "2makkabeeen",
+      "chapter": 15,
+      "verse": 1,
+      "file": "15-woorden-droom-en-gebed.svg",
+      "scene": "Woorden, droom en gebed",
+      "alt": "Woorden, droom en gebed met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1091,
+      "source": "2 Makkabeeën 15:1–24",
+      "design": {
+        "rows": [
+          [
+            "Nikanor · 1–6",
+            "Wil op sabbat aanvallen en beroept zich op aardse macht."
+          ],
+          [
+            "Judas · 7–11",
+            "Vertrouwt, herinnert aan wet en profeten en vertelt zijn droom."
+          ],
+          [
+            "De droom · 12–16",
+            "Onias bidt; Jeremia wordt aangeduid en geeft een gouden zwaard."
+          ],
+          [
+            "De voorbereiding · 17–24",
+            "Zorg om de tempel, moedig besluit en gebed om Gods engel."
+          ]
+        ],
+        "note": "Onias en Jeremia verschijnen binnen de vertelde droom; dit is geen gewone ontmoeting met tijdgenoten."
+      }
+    },
+    {
+      "book": "2makkabeeen",
+      "chapter": 15,
+      "verse": 25,
+      "file": "15-overwinning-en-gedenkdag.svg",
+      "scene": "Overwinning en gedenkdag",
+      "alt": "Overwinning en gedenkdag met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1134,
+      "source": "2 Makkabeeën 15:25–38",
+      "design": {
+        "rows": [
+          [
+            "Het treffen · 25–29",
+            "Trompetten tegenover gebed; Nikanor is gevallen en het volk looft God."
+          ],
+          [
+            "Het teken · 30–35",
+            "Het verhaal beschrijft de gewelddadige vertoning van Nikanors overblijfselen bij de burcht."
+          ],
+          [
+            "De jaarlijkse dag · 36–37",
+            "13 Adar, de dag vóór het feest van Mordechai."
+          ],
+          [
+            "Het eindpunt · 38",
+            "Na deze afloop en het bezit van de stad breekt de schrijver zijn verhaal af."
+          ]
+        ],
+        "note": "Het schema noemt de geweldspassage zonder gruwelijke afbeelding en bewaart de precieze feestdatum."
+      }
+    },
+    {
+      "book": "2makkabeeen",
+      "chapter": 15,
+      "verse": 39,
+      "file": "15-het-slot-van-de-schrijver.svg",
+      "scene": "Het slot van de schrijver",
+      "alt": "Het slot van de schrijver met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 899,
+      "source": "2 Makkabeeën 15:39–40",
+      "design": {
+        "rows": [
+          [
+            "Zijn bedoeling · 39",
+            "Een goed samengestelde geschiedenis schrijven."
+          ],
+          [
+            "Zijn beperking · 39",
+            "Als het onvolledig is, was dit wat hij kon doen."
+          ],
+          [
+            "Zijn vergelijking · 40",
+            "Gemengde wijn en water als beeld voor aangename geschiedschrijving."
+          ]
+        ],
+        "note": "De wijnvergelijking is een opmerking over vertelkunst, geen nieuw historisch voorval of medisch advies."
+      }
+    }
+  ]
+}
