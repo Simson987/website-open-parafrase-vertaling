@@ -37369,6 +37369,53 @@
           "source": "Susanna 1:1–64"
         }
       ]
+    },
+    {
+      "book": "belenddedraak",
+      "chapter": 1,
+      "status": "reviewed",
+      "target_images": 9,
+      "reason": "Tempelgesprek, ontdekte voetsporen en verblijf tussen leeuwen zijn aanwezig. Het voorbereiden met as, de levende draak, Habakuks maaltijd en de daadwerkelijke bevrijding zijn vier zelfstandige ontbrekende stappen en krijgen beelden. Twee schema’s onderscheiden proefbewijs en de tweede reddingsepisode; geen uitbeelding van executies of verscheuring.",
+      "additions": [
+        {
+          "verse": 13,
+          "file": "1-13-as-strooien-verdieping.webp",
+          "scene": "Daniël laat as strooien",
+          "kind": "scene"
+        },
+        {
+          "verse": 22,
+          "file": "1-22-draak-voor-daniel-verdieping.webp",
+          "scene": "Daniël en de levende draak",
+          "kind": "scene"
+        },
+        {
+          "verse": 36,
+          "file": "1-36-habakuk-brengt-eten-verdieping.webp",
+          "scene": "Habakuk brengt Daniël eten",
+          "kind": "scene"
+        },
+        {
+          "verse": 40,
+          "file": "1-40-koning-bevrijdt-daniel-verdieping.webp",
+          "scene": "De koning bevrijdt Daniël",
+          "kind": "scene"
+        },
+        {
+          "verse": 2,
+          "file": "1-bel-proef-en-bewijs.svg",
+          "scene": "Bel: proef en bewijs",
+          "kind": "diagram",
+          "source": "Bel en de draak 1:2–21"
+        },
+        {
+          "verse": 22,
+          "file": "1-draak-kuil-en-redding.svg",
+          "scene": "Draak, kuil en redding",
+          "kind": "diagram",
+          "source": "Bel en de draak 1:22–41"
+        }
+      ]
     }
   ]
 }

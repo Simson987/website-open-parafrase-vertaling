@@ -1,0 +1,123 @@
+{
+  "date": "2026-10-26",
+  "started": "2026-10-26T12:19:19Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "belenddedraak",
+      "chapter": 1,
+      "verse": 13,
+      "file": "1-13-as-strooien-verdieping.webp",
+      "scene": "Daniël laat as strooien",
+      "alt": "Daniël laat as strooien — Bel en de draak 1:13; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic scene for Bel and the Dragon, ancient Babylon, landscape 3:2, modest opaque garments, natural lighting, coherent anatomy with exactly two arms per person and correct animal limbs. No modern objects, readable writing, blood, injury, corpses, divine human figure or watermark. In a grand ancient Babylonian temple, Daniel, an adult Jewish man in modest robes, watches with the Persian king as two adult servants scatter a thin even layer of pale ash across the stone floor using shallow baskets. A laden offering table and a bronze-covered idol are visible in the background. Show the preparation of a test, not footprints already discovered. Natural separate hands and exactly two arms each. Bel and the Dragon 1:13.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "belenddedraak",
+      "chapter": 1,
+      "verse": 22,
+      "file": "1-22-draak-voor-daniel-verdieping.webp",
+      "scene": "Daniël en de levende draak",
+      "alt": "Daniël en de levende draak — Bel en de draak 1:22; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic scene for Bel and the Dragon, ancient Babylon, landscape 3:2, modest opaque garments, natural lighting, coherent anatomy with exactly two arms per person and correct animal limbs. No modern objects, readable writing, blood, injury, corpses, divine human figure or watermark. Daniel, a modestly robed adult Jewish man, and the Persian king stand at a respectful safe distance from a large living dragon-like reptile resting in an open ancient Babylonian enclosure. The creature has one head, one tail and four coherent legs, realistic scales and no wings or fire breath. No feeding, contact, killing or injury. The king gestures toward the creature, Daniel stands calmly unconvinced. The encounter before the test in Bel and the Dragon 1:22–25, a biblical story reconstruction.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "belenddedraak",
+      "chapter": 1,
+      "verse": 36,
+      "file": "1-36-habakuk-brengt-eten-verdieping.webp",
+      "scene": "Habakuk brengt Daniël eten",
+      "alt": "Habakuk brengt Daniël eten — Bel en de draak 1:36; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic scene for Bel and the Dragon, ancient Babylon, landscape 3:2, modest opaque garments, natural lighting, coherent anatomy with exactly two arms per person and correct animal limbs. No modern objects, readable writing, blood, injury, corpses, divine human figure or watermark. At the open rim of an ancient stone lions’ den, the adult prophet Habakkuk in modest linen robes calls down while lowering a deep bowl of thick porridge with pieces of bread toward Daniel, who stands safely on a broad stone ledge below and reaches to receive it. Several calm lions rest well away in the shaded background. Exactly two arms each, natural hands, safe clear perspective, no bodies or injuries. Focus on the delivered meal in Bel and the Dragon 1:36–38, no hair-pulling or impossible extra arms.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "belenddedraak",
+      "chapter": 1,
+      "verse": 40,
+      "file": "1-40-koning-bevrijdt-daniel-verdieping.webp",
+      "scene": "De koning bevrijdt Daniël",
+      "alt": "De koning bevrijdt Daniël — Bel en de draak 1:40; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic scene for Bel and the Dragon, ancient Babylon, landscape 3:2, modest opaque garments, natural lighting, coherent anatomy with exactly two arms per person and correct animal limbs. No modern objects, readable writing, blood, injury, corpses, divine human figure or watermark. The Persian king in modest royal robes stands beside the rim of an ancient stone lions’ den and helps the unharmed adult Daniel climb out using a sturdy short stone stair or ledge. The king offers one steadying hand, a servant stands back respectfully, calm lions remain far below in shadow. Natural distinct hands, exactly two arms each, no cages of modern metal or injuries. The joyful release in Bel and the Dragon 1:39–40, no punishment of others shown.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "belenddedraak",
+      "chapter": 1,
+      "verse": 2,
+      "file": "1-bel-proef-en-bewijs.svg",
+      "scene": "Bel: proef en bewijs",
+      "alt": "Bel: proef en bewijs met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "Bel en de draak 1:2–21",
+      "design": {
+        "rows": [
+          [
+            "De aanspraak · 2–8",
+            "Het dagelijkse voedsel zou bewijzen dat Bel leeft."
+          ],
+          [
+            "De proef · 9–14",
+            "Deur op slot en zegel intact; Daniël laat de vloer met as bestrooien."
+          ],
+          [
+            "De waarneming · 15–19",
+            "Voedsel verdwenen, maar voetsporen van mannen, vrouwen en kinderen."
+          ],
+          [
+            "De verklaring · 20–21",
+            "Een verborgen toegang verklaart wie er werkelijk at."
+          ]
+        ],
+        "note": "De zeventig priesters zijn in vers 9 genoemd zonder hun vrouwen en kinderen mee te tellen."
+      }
+    },
+    {
+      "book": "belenddedraak",
+      "chapter": 1,
+      "verse": 22,
+      "file": "1-draak-kuil-en-redding.svg",
+      "scene": "Draak, kuil en redding",
+      "alt": "Draak, kuil en redding met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1091,
+      "source": "Bel en de draak 1:22–41",
+      "design": {
+        "rows": [
+          [
+            "De draak · 22–26",
+            "Levend, maar door Daniël niet aanbeden; de test gebeurt zonder zwaard of stok."
+          ],
+          [
+            "De tegenstand · 27–31",
+            "Dwang tegen de koning en Daniël zes dagen in de kuil met zeven leeuwen."
+          ],
+          [
+            "Het voedsel · 32–38",
+            "Habakuk bereidt eten in Judea; het komt door engelenhulp bij Daniël."
+          ],
+          [
+            "De zevende dag · 39–41",
+            "De koning ziet hem levend, prijst God en haalt hem uit de kuil."
+          ]
+        ],
+        "note": "De ontmoeting met de draak en de kuil zijn opeenvolgende episodes; de maaltijd is een eigen reddingsmoment."
+      }
+    }
+  ]
+}
