@@ -37278,6 +37278,28 @@
           "source": "Esther (apocrief) 14:1–19"
         }
       ]
+    },
+    {
+      "book": "gebedvanazaria",
+      "chapter": 1,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Gebed, verbondenheid en een hoopbeeld zijn aanwezig. De afzonderlijke komst van de engel en de koele ruimte ontbreken en krijgen één scène. Een schema verbindt het gebed met het slotwonder en verduidelijkt waarop de vuurmaat betrekking heeft.",
+      "additions": [
+        {
+          "verse": 49,
+          "file": "1-49-engel-in-oven-verdieping.webp",
+          "scene": "De engel bij Azaria en zijn vrienden",
+          "kind": "scene"
+        },
+        {
+          "verse": 25,
+          "file": "1-gebed-en-bewaring.svg",
+          "scene": "Gebed en bewaring",
+          "kind": "diagram",
+          "source": "Gebed van Azaria 1:24–50"
+        }
+      ]
     }
   ]
 }

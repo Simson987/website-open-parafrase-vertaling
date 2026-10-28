@@ -1,0 +1,54 @@
+{
+  "date": "2026-10-26",
+  "started": "2026-10-26T12:19:19Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "gebedvanazaria",
+      "chapter": 1,
+      "verse": 49,
+      "file": "1-49-engel-in-oven-verdieping.webp",
+      "scene": "De engel bij Azaria en zijn vrienden",
+      "alt": "De engel bij Azaria en zijn vrienden — Gebed van Azaria 1:49; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic biblical scene in ancient Babylon, landscape 3:2, modest opaque robes and coherent anatomy, exactly two arms per person, natural hands. No modern objects, readable text, blood, injury, burned skin or divine human figure. Inside a large ancient brick furnace, three adult Jewish men in modest intact robes stand unharmed beside a fourth luminous adult messenger in a plain white robe. The messenger gently extends two hands toward the surrounding flames, keeping a clear calm space around the men; air in the middle appears fresh and cool like dew. Fire remains at the brick walls and is pushed away from them. Exactly four people, each two arms, no wings or God figure, no injuries. A reverent reconstruction of the angel arriving in the furnace in verses 49–50.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "gebedvanazaria",
+      "chapter": 1,
+      "verse": 25,
+      "file": "1-gebed-en-bewaring.svg",
+      "scene": "Gebed en bewaring",
+      "alt": "Gebed en bewaring met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1141,
+      "source": "Gebed van Azaria 1:24–50",
+      "design": {
+        "rows": [
+          [
+            "Lof en belijdenis · 24–33",
+            "Azaria bidt midden in de vlam en erkent Gods recht en de ongehoorzaamheid van het volk."
+          ],
+          [
+            "Verbond en offer · 34–40",
+            "Barmhartigheid om de vaderen; een gebroken hart waar offers ontbreken."
+          ],
+          [
+            "De smeekbede · 41–45",
+            "Trouw volgen, ontferming en verlossing tot eer van Gods naam."
+          ],
+          [
+            "De bewaring · 46–50",
+            "De oven wordt gestookt; de engel maakt een koele ruimte en het vuur raakt hen niet."
+          ]
+        ],
+        "note": "De negenenveertig el beschrijft de hoogte van de vlam boven de oven, niet de maat van het gebouw."
+      }
+    }
+  ]
+}

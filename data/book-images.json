@@ -63170,19 +63170,51 @@
         "chapter": 1,
         "file": "1-prayer.webp",
         "alt": "Azaria bidt in de vuuroven",
-        "scene": "Het gebed van Azaria"
+        "scene": "Het gebed van Azaria",
+        "verse": 25,
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 1,
         "file": "1-companions.webp",
         "alt": "De drie vrienden houden elkaar vast in de oven",
-        "scene": "Samen volhouden"
+        "scene": "Samen volhouden",
+        "verse": 24,
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 1,
         "file": "1-dawn.webp",
         "alt": "Azaria kijkt na de beproeving naar het ochtendlicht",
-        "scene": "Hoop na beproeving"
+        "scene": "Hoop na beproeving",
+        "verse": 50,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 1,
+        "verse": 49,
+        "file": "1-49-engel-in-oven-verdieping.webp",
+        "scene": "De engel bij Azaria en zijn vrienden",
+        "alt": "De engel bij Azaria en zijn vrienden — Gebed van Azaria 1:49; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 1,
+        "verse": 25,
+        "file": "1-gebed-en-bewaring.svg",
+        "scene": "Gebed en bewaring",
+        "alt": "Gebed en bewaring met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1141
       }
     ],
     "gezangindevuuroven": [
