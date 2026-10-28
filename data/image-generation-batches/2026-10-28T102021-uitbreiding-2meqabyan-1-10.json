@@ -1,0 +1,453 @@
+{
+  "date": "2026-10-28",
+  "started": "2026-10-28T10:20:21Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "2meqabyan",
+      "chapter": 1,
+      "verse": 13,
+      "file": "1-13-thuiskomst-en-feest-verdieping.webp",
+      "scene": "Thuiskomst en feest",
+      "alt": "Thuiskomst en feest — 2 Meqabyan 1:13; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic text illustration for 2 Meqabyan, ancient Near Eastern setting, landscape 3:2, natural stone and fabrics, modest opaque fully covering robes, exactly two arms per person and natural hands. No modern objects, readable text, portrait of God, blood, injuries or corpses. A conquering ancient Moabite ruler Meqabis seated with several adult officers at a lavish meal of bread, fruit and wine in his house after returning from campaign; rich fabric bundles and metal vessels nearby as plunder, no prisoners or weapons in use. Show complacent celebration, not endorsement. 2 Meqabyan 1:12–13.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2meqabyan",
+      "chapter": 4,
+      "verse": 19,
+      "file": "4-19-heilige-vaten-en-gerei-verdieping.webp",
+      "scene": "Heilige vaten en gerei",
+      "alt": "Heilige vaten en gerei — 2 Meqabyan 4:19; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic text illustration for 2 Meqabyan, ancient Near Eastern setting, landscape 3:2, natural stone and fabrics, modest opaque fully covering robes, exactly two arms per person and natural hands. No modern objects, readable text, portrait of God, blood, injuries or corpses. Still life inside an ancient worship tent: gold-colored lampstand, plain metal wash basin, gold vessels and a simple table with carefully folded curtain fabric. Quiet natural light, no people or idols, no modern objects or readable inscriptions. 2 Meqabyan 4:19 Meqabis commissions sacred vessels, tables, tents, wash basins and lampstand, distinct from giving first fruits.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2meqabyan",
+      "chapter": 5,
+      "verse": 10,
+      "file": "5-10-zonen-weigeren-onrein-eten-verdieping.webp",
+      "scene": "De zonen weigeren onrein eten",
+      "alt": "De zonen weigeren onrein eten — 2 Meqabyan 5:10; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic text illustration for 2 Meqabyan, ancient Near Eastern setting, landscape 3:2, natural stone and fabrics, modest opaque fully covering robes, exactly two arms per person and natural hands. No modern objects, readable text, portrait of God, blood, injuries or corpses. Several adult sons of Meqabis in modest plain robes seated in captivity in an ancient dining room politely declining a richly served meat platter offered by an attendant, palms gently open, no aggression, spoiled food, carcasses or blood visible. A separate basket of bread remains untouched. 2 Meqabyan 5:10 adherence to food restrictions under Chaldean captivity. Do not give an exact count not stated in this chapter.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2meqabyan",
+      "chapter": 10,
+      "verse": 24,
+      "file": "10-24-jeruzalem-als-akker-verdieping.webp",
+      "scene": "Jeruzalem als een akker",
+      "alt": "Jeruzalem als een akker — 2 Meqabyan 10:24; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic text illustration for 2 Meqabyan, ancient Near Eastern setting, landscape 3:2, natural stone and fabrics, modest opaque fully covering robes, exactly two arms per person and natural hands. No modern objects, readable text, portrait of God, blood, injuries or corpses. A quiet desolated ancient Jerusalem, collapsed stone wall and bare field furrows where a city district had stood, a few weeds and distant ruined buildings, somber daylight, no people, violence, bodies or modern ruins. 2 Meqabyan 10:19,24 Jerusalem plowed like a field, distinct from Balaams blessing.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2meqabyan",
+      "chapter": 1,
+      "verse": 1,
+      "file": "1-meqabis-en-verbonden-volken.svg",
+      "scene": "Meqabis en verbonden volken",
+      "alt": "Meqabis en verbonden volken met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1098,
+      "source": "2 Meqabyan 1:1–13",
+      "design": {
+        "rows": [
+          [
+            "Plaatsen · 1–7",
+            "Remat in Moab; Jabbok, Gerag, Samaria, Jeruzalem; kamp in Gelabuhe."
+          ],
+          [
+            "Bondgenoten · 2,5,7",
+            "Edomieten, Syriërs, Amalekieten en Filistijnen; hulp met goud, zilver, paarden en wagens."
+          ],
+          [
+            "Verwoesting · 8–11",
+            "Stad verwoest; bevolking en weerlozen getroffen."
+          ],
+          [
+            "Terugkeer · 12–13",
+            "Gevangenen en buit meegenomen; thuis feest."
+          ]
+        ],
+        "note": "Meqabis is hier de Moabiet uit Remat. Het feest hoort bij de aanvallers na de verwoesting."
+      }
+    },
+    {
+      "book": "2meqabyan",
+      "chapter": 2,
+      "verse": 1,
+      "file": "2-reday-en-omkeer.svg",
+      "scene": "Reday en omkeer",
+      "alt": "Reday en omkeer met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1098,
+      "source": "2 Meqabyan 2:1–11",
+      "design": {
+        "rows": [
+          [
+            "Waarschuwing · 1–5",
+            "Reday de ziener; paarden en ijzer beschermen niet tegen aangekondigde ziekte."
+          ],
+          [
+            "Vergelijking · 6–7",
+            "Koning als gras en as in wind; macht is tijdelijk."
+          ],
+          [
+            "Oproep · 8",
+            "Terugkeer met zuiver hart, tranen en gebed."
+          ],
+          [
+            "Antwoord · 9–11",
+            "Meqabis doet rouwkleed aan en strooit as."
+          ]
+        ],
+        "note": "Sih en abeq zijn de ziektetermen van vers 4; er wordt geen moderne diagnose ingevuld."
+      }
+    },
+    {
+      "book": "2meqabyan",
+      "chapter": 3,
+      "verse": 1,
+      "file": "3-berouw-en-nieuwe-levensweg.svg",
+      "scene": "Berouw en nieuwe levensweg",
+      "alt": "Berouw en nieuwe levensweg met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1177,
+      "source": "2 Meqabyan 3:1–29",
+      "design": {
+        "rows": [
+          [
+            "Remat · 1–10",
+            "Tot hals in kuil; profeet teruggestuurd; vergeving en volhardende omkeer."
+          ],
+          [
+            "Opgericht · 11–15",
+            "Belijdenis; profeet richt hem op en onderwijst goede levenswandel."
+          ],
+          [
+            "Huis · 16–24",
+            "Afgoden en waarzeggerij weg; ballingen als raadgevers en leraren voor kinderen."
+          ],
+          [
+            "Israël · 25–29",
+            "Roepen, ontferming, rust en nieuwe ontrouw; richters als bevrijders."
+          ]
+        ],
+        "note": "Derde en vierde generatie en duizendste generatie staan in de verbondsrede van vers 9, niet in een berekende familietijdlijn."
+      }
+    },
+    {
+      "book": "2meqabyan",
+      "chapter": 4,
+      "verse": 1,
+      "file": "4-meqabis-doet-recht.svg",
+      "scene": "Meqabis doet recht",
+      "alt": "Meqabis doet recht met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1134,
+      "source": "2 Meqabyan 4:1–32",
+      "design": {
+        "rows": [
+          [
+            "Voorbeelden · 1–9",
+            "Hosea, Gideon, Simson, Barak, Debora en Judit; mannen én vrouwen als richters."
+          ],
+          [
+            "Praktijk · 10–20",
+            "Joodse geboden, voedselregels, tienden, eerstelingen, offers en gerei."
+          ],
+          [
+            "Gebed en volk · 21–25",
+            "Gemeenschap met Israël, nageslacht in Sion; velen uit Moab volgen."
+          ],
+          [
+            "Zorg en einde · 26–32",
+            "Bezit en overwinningen; recht voor wees, voedsel en kleding; sterft in vrede."
+          ]
+        ],
+        "note": "Deze Meqabis is een Moabiet die de beschreven geboden overneemt; hij wordt niet tot geboren Israëliet gemaakt."
+      }
+    },
+    {
+      "book": "2meqabyan",
+      "chapter": 4,
+      "verse": 16,
+      "file": "4-gaven-en-offers.svg",
+      "scene": "Gaven en offers",
+      "alt": "Gaven en offers met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "2 Meqabyan 4:16–19",
+      "design": {
+        "rows": [
+          [
+            "Tienden en eerstgeborenen · 16",
+            "Schapen, runderen, ezels en verdiensten; gezicht naar Jeruzalem."
+          ],
+          [
+            "Offergroepen · 17",
+            "Gelofte, zonde, vrijwillig, dank en dagelijks."
+          ],
+          [
+            "Eerstelingen · 18",
+            "Eerste vruchten en gave aan aangestelde Leviet; ook wierook."
+          ],
+          [
+            "Gerei · 19",
+            "Vaten, tafels, tenten, waskommen; goud voor kandelaar en voorhangsel."
+          ]
+        ],
+        "note": "Het schema groepeert de opsomming zonder nieuwe aantallen of maten toe te voegen."
+      }
+    },
+    {
+      "book": "2meqabyan",
+      "chapter": 5,
+      "verse": 1,
+      "file": "5-kinderen-en-ballingschap.svg",
+      "scene": "Kinderen en ballingschap",
+      "alt": "Kinderen en ballingschap met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1134,
+      "source": "2 Meqabyan 5:1–18",
+      "design": {
+        "rows": [
+          [
+            "Voortzetting · 1–3",
+            "Jongens groeien op; gebod van vader; hulp aan arme, wees en weduwe."
+          ],
+          [
+            "Inval · 4–9",
+            "Tsirutsaydan van Chaldeeën; verwoesting, roof en gevangenschap."
+          ],
+          [
+            "Vasthouden · 10–11",
+            "Kinderen weigeren de genoemde onreinheid."
+          ],
+          [
+            "Baäl-Peor · 12–18",
+            "Gemaakt door smid; zonder adem of kennis; kan niet eten, redden of heersen."
+          ]
+        ],
+        "note": "Deze passage noemt geen namen of exact aantal kinderen; die worden hier niet uit een ander hoofdstuk ingevoegd."
+      }
+    },
+    {
+      "book": "2meqabyan",
+      "chapter": 6,
+      "verse": 1,
+      "file": "6-weigering-en-verschijning.svg",
+      "scene": "Weigering en verschijning",
+      "alt": "Weigering en verschijning met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1134,
+      "source": "2 Meqabyan 6:1–24",
+      "design": {
+        "rows": [
+          [
+            "Dwang · 1–9",
+            "Priesters willen zonen van Meqabis laten offeren; zij weigeren en worden aangeklaagd."
+          ],
+          [
+            "Voor koning · 10–13",
+            "Tsirutsaydan dreigt; zij houden stand; sterven in vuur."
+          ],
+          [
+            "Nacht · 14–16",
+            "Verschijnen levend met zwaarden; koning bang; herinnering aan Schepper."
+          ],
+          [
+            "Rede · 17–24",
+            "God maakt hemel, aarde, zee en lichten; hoogmoed en beelden leiden tot oordeel."
+          ]
+        ],
+        "note": "De rede wordt gesproken door de verschenen martelaren, onderscheiden van het eerdere verhoor."
+      }
+    },
+    {
+      "book": "2meqabyan",
+      "chapter": 7,
+      "verse": 1,
+      "file": "7-rede-en-ochtend.svg",
+      "scene": "Rede en ochtend",
+      "alt": "Rede en ochtend met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1091,
+      "source": "2 Meqabyan 7:1–9",
+      "design": {
+        "rows": [
+          [
+            "Waarschuwing · 1–4",
+            "Bekering nu tegenover oordeel later; gemaakte beelden hebben geen adem."
+          ],
+          [
+            "Onderscheid · 5–6",
+            "Dieren: één dood; aangesproken mens: tweede oordeel."
+          ],
+          [
+            "Nacht · 7–8",
+            "Verschijning weg; koning blijft beven tot ochtend."
+          ],
+          [
+            "Zoektocht · 9",
+            "Wil begraven maar vindt lichamen niet; God heeft ze verborgen."
+          ]
+        ],
+        "note": "De afwezigheid van lichamen is het vertelde wonder; er worden geen nieuwe overblijfselen bij bedacht."
+      }
+    },
+    {
+      "book": "2meqabyan",
+      "chapter": 8,
+      "verse": 1,
+      "file": "8-ijzer-gebieden-en-voorbeeld.svg",
+      "scene": "IJzer, gebieden en voorbeeld",
+      "alt": "IJzer, gebieden en voorbeeld met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1091,
+      "source": "2 Meqabyan 8:1–24",
+      "design": {
+        "rows": [
+          [
+            "IJzer · 1–7",
+            "Koninkrijk vergeleken met Daniëls ijzer; vermorzelen en hoogmoed."
+          ],
+          [
+            "Gebieden · 8–10",
+            "Zebulon, Macedonië, Samaria, Syrië, Kedar, Sidon, Achaje, Tekeze en India."
+          ],
+          [
+            "Onderdrukking · 11–22",
+            "Seblanyos als leermeester; geen hulp voor wees; Tarsis tot Jericho genoemd."
+          ],
+          [
+            "Jozua · 23–24",
+            "Gibeon; zon staat stil; vijf koningen in één grot als aangehaald voorbeeld."
+          ]
+        ],
+        "note": "De gebiedsreeks is geen gecontroleerde kaart van een historisch rijk; de leeswijzer volgt de tekstnamen."
+      }
+    },
+    {
+      "book": "2meqabyan",
+      "chapter": 9,
+      "verse": 1,
+      "file": "9-gave-en-twee-wegen.svg",
+      "scene": "Gave en twee wegen",
+      "alt": "Gave en twee wegen met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1091,
+      "source": "2 Meqabyan 9:1–27",
+      "design": {
+        "rows": [
+          [
+            "Hoogmoed · 1–8",
+            "Mens wordt stof; Seblanyos weigert eerbied; macht over vijf koninkrijken."
+          ],
+          [
+            "Proef · 9–17",
+            "Gave vraagt gehoorzaamheid; verheffen, bevrijden en opwekken; alles openbaar."
+          ],
+          [
+            "Brede weg · 18–22",
+            "Geweld, roof, onrecht en minachting voor tranen; net van Satan."
+          ],
+          [
+            "Smalle weg · 23–27",
+            "Nederigheid, liefde, vrede, vasten en gebed; afstand van onreine daden."
+          ]
+        ],
+        "note": "Breed en smal zijn morele wegbeelden. De vijf koninkrijken krijgen hier geen afzonderlijke namen."
+      }
+    },
+    {
+      "book": "2meqabyan",
+      "chapter": 10,
+      "verse": 1,
+      "file": "10-bileam-en-de-zegen.svg",
+      "scene": "Bileam en de zegen",
+      "alt": "Bileam en de zegen met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1005,
+      "source": "2 Meqabyan 10:1–15",
+      "design": {
+        "rows": [
+          [
+            "Aanbod · 3–6",
+            "Balak, zoon van Zippor, biedt Bileam goud en zilver voor vervloeking."
+          ],
+          [
+            "Woord · 7–10",
+            "Vervloeking wordt zegen; Balak boos."
+          ],
+          [
+            "Weigering · 11–13",
+            "Geen huis vol rijkdom boven Gods woord en eigen ziel."
+          ],
+          [
+            "Verbond · 14–15",
+            "Zegen aan Jakob; daden goedmaken."
+          ]
+        ],
+        "note": "Dit is het eerste voorbeeld van het hoofdstuk; daarna volgt een afzonderlijke terugblik op verwoesting en ballingschap."
+      }
+    },
+    {
+      "book": "2meqabyan",
+      "chapter": 10,
+      "verse": 16,
+      "file": "10-verwoesting-en-dubbele-eer.svg",
+      "scene": "Verwoesting en dubbele eer",
+      "alt": "Verwoesting en dubbele eer met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1134,
+      "source": "2 Meqabyan 10:16–28",
+      "design": {
+        "rows": [
+          [
+            "Verleden · 16–18",
+            "Vloed of vijanden; koningen, profeten en Levieten weggevoerd."
+          ],
+          [
+            "Jeruzalem · 19–24",
+            "Wal en muur neer; heiligdom weg; stad als akker."
+          ],
+          [
+            "Ontferming · 25–26",
+            "Niet geheel vernietigd om Abraham, Izak en Jakob; dubbele eer in hemel en aarde."
+          ],
+          [
+            "Aansporing · 27–28",
+            "Vorsten moeten goede eerdere koningen volgen."
+          ]
+        ],
+        "note": "De verwoesting is een aangehaalde waarschuwing naast Bileams verhaal, geen gevolg van diens zegen."
+      }
+    }
+  ]
+}
