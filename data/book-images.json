@@ -63284,19 +63284,81 @@
         "chapter": 1,
         "file": "1-garden.webp",
         "alt": "Susanna wandelt door de besloten tuin",
-        "scene": "Susanna in de tuin"
+        "scene": "Susanna in de tuin",
+        "verse": 7,
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 1,
         "file": "1-court.webp",
         "alt": "Susanna spreekt bij een rechtszitting",
-        "scene": "Susanna voor de rechters"
+        "scene": "Susanna voor de rechters",
+        "verse": 28,
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 1,
         "file": "1-daniel.webp",
         "alt": "De jonge Daniël stelt de getuigen vragen",
-        "scene": "Daniël vraagt door"
+        "scene": "Daniël vraagt door",
+        "verse": 51,
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 1,
+        "verse": 23,
+        "file": "1-23-susanna-weigert-verdieping.webp",
+        "scene": "Susanna weigert de twee oudsten",
+        "alt": "Susanna weigert de twee oudsten — Susanna 1:23; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 1,
+        "verse": 46,
+        "file": "1-46-daniel-onderbreekt-verdieping.webp",
+        "scene": "Daniël onderbreekt het vonnis",
+        "alt": "Daniël onderbreekt het vonnis — Susanna 1:46; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 1,
+        "verse": 63,
+        "file": "1-63-familie-dankt-verdieping.webp",
+        "scene": "Susanna en haar familie danken",
+        "alt": "Susanna en haar familie danken — Susanna 1:63; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 1,
+        "verse": 51,
+        "file": "1-getuigen-afzonderlijk.svg",
+        "scene": "De getuigen afzonderlijk",
+        "alt": "De getuigen afzonderlijk met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1048
+      },
+      {
+        "chapter": 1,
+        "verse": 1,
+        "file": "1-van-belaging-naar-recht.svg",
+        "scene": "Van belaging naar recht",
+        "alt": "Van belaging naar recht met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1134
       }
     ],
     "belenddedraak": [

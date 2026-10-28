@@ -1,0 +1,111 @@
+{
+  "date": "2026-10-26",
+  "started": "2026-10-26T12:19:19Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "susanna",
+      "chapter": 1,
+      "verse": 23,
+      "file": "1-23-susanna-weigert-verdieping.webp",
+      "scene": "Susanna weigert de twee oudsten",
+      "alt": "Susanna weigert de twee oudsten — Susanna 1:23; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic biblical scene in ancient Babylon, landscape 3:2, dignified adults in fully covering modest opaque robes, natural light and coherent anatomy with exactly two arms each. No modern objects, readable writing, nudity, sexual contact, violence, blood or injury. An adult woman, Susanna, fully dressed in a long opaque modest robe and veil, stands firmly in an enclosed ancient garden, one natural open hand raised in refusal. Two older adult judges in full robes stand several paces away near the garden door, with serious stern faces but no physical contact or obscene gestures. Empty wash jars are set aside behind the woman, no bath or exposed body. Focus on her courage and moral refusal, never voyeuristic. Verses 22–24 before any undressing or bathing is depicted.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "susanna",
+      "chapter": 1,
+      "verse": 46,
+      "file": "1-46-daniel-onderbreekt-verdieping.webp",
+      "scene": "Daniël onderbreekt het vonnis",
+      "alt": "Daniël onderbreekt het vonnis — Susanna 1:46; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic biblical scene in ancient Babylon, landscape 3:2, dignified adults in fully covering modest opaque robes, natural light and coherent anatomy with exactly two arms each. No modern objects, readable writing, nudity, sexual contact, violence, blood or injury. Young adult Daniel in a modest simple robe stands up at the edge of a crowded ancient courtyard, raising one hand to interrupt proceedings and speaking urgently. An adult modestly veiled woman stands unharmed with her family at a distance, and the seated elders turn to listen. No restraints, weapons pointed at anyone, physical punishment or violence. Coherent distinct hands and exactly two arms each. The turning point in Susanna 1:45–49, before Daniel questions the witnesses.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "susanna",
+      "chapter": 1,
+      "verse": 63,
+      "file": "1-63-familie-dankt-verdieping.webp",
+      "scene": "Susanna en haar familie danken",
+      "alt": "Susanna en haar familie danken — Susanna 1:63; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic biblical scene in ancient Babylon, landscape 3:2, dignified adults in fully covering modest opaque robes, natural light and coherent anatomy with exactly two arms each. No modern objects, readable writing, nudity, sexual contact, violence, blood or injury. The innocent adult woman Susanna in a modest opaque robe and veil stands relieved beside her husband and her elderly parents in an ancient Babylonian courtyard, all giving thanks with quiet joy after her vindication. Her parents offer gentle natural hands on her shoulders, no crowded merged limbs. A few relatives smile at a distance; no execution or bodies. A sober family reunion illustrating verse 63, exactly two arms each.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "susanna",
+      "chapter": 1,
+      "verse": 51,
+      "file": "1-getuigen-afzonderlijk.svg",
+      "scene": "De getuigen afzonderlijk",
+      "alt": "De getuigen afzonderlijk met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1048,
+      "source": "Susanna 1:51–60",
+      "design": {
+        "rows": [
+          [
+            "De werkwijze · 51",
+            "Daniël laat de twee oudsten ver uit elkaar zetten."
+          ],
+          [
+            "Eerste antwoord · 54",
+            "Onder een mastiekboom."
+          ],
+          [
+            "Tweede antwoord · 58",
+            "Onder een eik."
+          ],
+          [
+            "De uitkomst · 60–62",
+            "Hun eigen antwoorden ontmaskeren het valse getuigenis; onschuldig bloed wordt gered."
+          ]
+        ],
+        "note": "De tegenstrijdige bomen horen bij de twee verklaringen, niet bij twee door Susanna begane daden."
+      }
+    },
+    {
+      "book": "susanna",
+      "chapter": 1,
+      "verse": 1,
+      "file": "1-van-belaging-naar-recht.svg",
+      "scene": "Van belaging naar recht",
+      "alt": "Van belaging naar recht met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1134,
+      "source": "Susanna 1:1–64",
+      "design": {
+        "rows": [
+          [
+            "De achtergrond · 1–14",
+            "Susanna, haar huis en het misbruik van vertrouwen door de twee rechters."
+          ],
+          [
+            "Dwang en laster · 15–41",
+            "Zij weigert hun eis; zij brengen valse beschuldigingen en krijgen aanvankelijk geloof."
+          ],
+          [
+            "Het keerpunt · 42–59",
+            "Haar gebed, Daniëls ingrijpen en afzonderlijke ondervraging."
+          ],
+          [
+            "De erkenning · 60–64",
+            "Onschuld wordt vastgesteld; de familie dankt en Daniëls aanzien groeit."
+          ]
+        ],
+        "note": "De aantijging van de oudsten is vals; het schema houdt beschuldiging en vastgestelde waarheid uit elkaar."
+      }
+    }
+  ]
+}

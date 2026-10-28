@@ -37328,6 +37328,47 @@
           "source": "Gezang in de vuuroven 1:51–90"
         }
       ]
+    },
+    {
+      "book": "susanna",
+      "chapter": 1,
+      "status": "reviewed",
+      "target_images": 8,
+      "reason": "Tuinwandeling, eerste rechtszitting en doorvragen zijn aanwezig. De weigering, Daniëls onderbreking vóór onderzoek en de dank van de familie zijn drie eigen verhaalstappen en krijgen respectvolle scènes met volledig geklede personen. Twee schema’s tonen de bewijscontrole en het verloop; geen seksuele handeling of executie.",
+      "additions": [
+        {
+          "verse": 23,
+          "file": "1-23-susanna-weigert-verdieping.webp",
+          "scene": "Susanna weigert de twee oudsten",
+          "kind": "scene"
+        },
+        {
+          "verse": 46,
+          "file": "1-46-daniel-onderbreekt-verdieping.webp",
+          "scene": "Daniël onderbreekt het vonnis",
+          "kind": "scene"
+        },
+        {
+          "verse": 63,
+          "file": "1-63-familie-dankt-verdieping.webp",
+          "scene": "Susanna en haar familie danken",
+          "kind": "scene"
+        },
+        {
+          "verse": 51,
+          "file": "1-getuigen-afzonderlijk.svg",
+          "scene": "De getuigen afzonderlijk",
+          "kind": "diagram",
+          "source": "Susanna 1:51–60"
+        },
+        {
+          "verse": 1,
+          "file": "1-van-belaging-naar-recht.svg",
+          "scene": "Van belaging naar recht",
+          "kind": "diagram",
+          "source": "Susanna 1:1–64"
+        }
+      ]
     }
   ]
 }
