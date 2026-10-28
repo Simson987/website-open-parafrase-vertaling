@@ -39705,6 +39705,192 @@
       "target_images": 3,
       "reason": "Geesteswagen, afmeting en eerste vaderen volgen de vier verzen. Drie bestaande beelden volstaan; de opname en het afgemeten verblijf hebben al elk een eigen illustratie.",
       "additions": []
+    },
+    {
+      "book": "henoch",
+      "chapter": 71,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "De twee vuurstromen, rechterhand en het omringde huis zijn aanwezig. De op vlammen lopende engelen krijgen een afzonderlijke visioenillustratie; één schema verduidelijkt namen, verandering en de plaatselijke begroeting als Mensenzoon.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "71-1-engelen-op-vuur-verdieping.webp",
+          "scene": "Visioen: engelen lopen op vlammen",
+          "kind": "poetic"
+        },
+        {
+          "verse": 14,
+          "file": "71-vrede-en-gerechtigheid.svg",
+          "scene": "Vrede en gerechtigheid",
+          "kind": "diagram",
+          "source": "Henoch 71:5–17"
+        }
+      ]
+    },
+    {
+      "book": "henoch",
+      "chapter": 80,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Uitblijvende regen, vrucht en Uriëls onderricht zijn aanwezig. Sterrenverering door dwalende mensen is een afzonderlijk slotmotief en krijgt één visioenillustratie; één schema verbindt de ontregeling met die dwaling.",
+      "additions": [
+        {
+          "verse": 7,
+          "file": "80-7-sterren-voor-goden-verdieping.webp",
+          "scene": "Visioen: mensen houden sterren voor goden",
+          "kind": "poetic"
+        },
+        {
+          "verse": 2,
+          "file": "80-van-ontregeling-naar-dwaling.svg",
+          "scene": "Van ontregeling naar dwaling",
+          "kind": "diagram",
+          "source": "Henoch 80:1–8"
+        }
+      ]
+    },
+    {
+      "book": "henoch",
+      "chapter": 72,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "De drie bestaande sfeerbeelden tonen onderricht en zon, maar geen exacte poort- of deeltellingen. Twee schema’s leggen alle twaalf fasen vast, inclusief de spanning tussen 12/7 en tweemaal in vers 26.",
+      "additions": [
+        {
+          "verse": 6,
+          "file": "72-zonnepoorten-eerste-helft.svg",
+          "scene": "Zonnepoorten: de eerste helft",
+          "kind": "diagram",
+          "source": "Henoch 72:6–20"
+        },
+        {
+          "verse": 21,
+          "file": "72-zonnepoorten-tweede-helft.svg",
+          "scene": "Zonnepoorten: de tweede helft",
+          "kind": "diagram",
+          "source": "Henoch 72:21–37"
+        }
+      ]
+    },
+    {
+      "book": "henoch",
+      "chapter": 73,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "Sikkel en maanhorizon zijn aanwezig. Eén schema ordent het korte lichtmodel en markeert de breuken als tekstgegevens; geen vierde vrijwel gelijke maan nodig.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "73-maanlicht-met-maat.svg",
+          "scene": "Maanlicht met maat",
+          "kind": "diagram",
+          "source": "Henoch 73:1–8"
+        }
+      ]
+    },
+    {
+      "book": "henoch",
+      "chapter": 74,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "Schrijven, volle maan en onderricht zijn aanwezig. Eén rekenschema voegt de exacte jaarcijfers en de afzonderlijke 62-dagenzin toe zonder die stilzwijgend te herstellen.",
+      "additions": [
+        {
+          "verse": 10,
+          "file": "74-jaarberekeningen-en-achterstand.svg",
+          "scene": "Jaarberekeningen en achterstand",
+          "kind": "diagram",
+          "source": "Henoch 74:10–17"
+        }
+      ]
+    },
+    {
+      "book": "henoch",
+      "chapter": 75,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "Leiders, twaalf openingen en wagens zijn aanwezig. Eén schema onderscheidt de vier extra dagen van de twaalf poorten en de ene grotere wagen.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "75-vier-dagen-en-twaalf-poorten.svg",
+          "scene": "Vier dagen en twaalf poorten",
+          "kind": "diagram",
+          "source": "Henoch 75:1–9"
+        }
+      ]
+    },
+    {
+      "book": "henoch",
+      "chapter": 76,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Hitte, vruchtbaar weer en koude zijn geïllustreerd. Twee schema’s voegen alle twaalf beschreven windpoorten en hun effecten toe, met behoud van de afwijkende vier westenwinden.",
+      "additions": [
+        {
+          "verse": 5,
+          "file": "76-oost-en-zuidpoorten.svg",
+          "scene": "Windpoorten: oost en zuid",
+          "kind": "diagram",
+          "source": "Henoch 76:1–9"
+        },
+        {
+          "verse": 10,
+          "file": "76-noord-en-westpoorten.svg",
+          "scene": "Windpoorten: noord en west",
+          "kind": "diagram",
+          "source": "Henoch 76:10–14"
+        }
+      ]
+    },
+    {
+      "book": "henoch",
+      "chapter": 77,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "West, noord en zeven bergen zijn aanwezig. Eén schema maakt de drie noordelijke delen, zeven rivieren en twee plus vijf eilanden inzichtelijk zonder oncontroleerbare moderne kaart.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "77-windstreken-en-zeventallen.svg",
+          "scene": "Windstreken en zeventallen",
+          "kind": "diagram",
+          "source": "Henoch 77:1–8"
+        }
+      ]
+    },
+    {
+      "book": "henoch",
+      "chapter": 78,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "Wassen, volle maan en afname zijn aanwezig. Eén schema voegt de twee zonnamen, vier maannamen en beide maandtellingen toe.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "78-namen-en-lichtcyclus.svg",
+          "scene": "Namen en lichtcyclus",
+          "kind": "diagram",
+          "source": "Henoch 78:1–17"
+        }
+      ]
+    },
+    {
+      "book": "henoch",
+      "chapter": 79,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "Doorgeven aan Metuselach en maanonderricht zijn afgedekt. Eén schema voegt de exacte 177 dagen, 25 weken plus 2 dagen en vijf dagen achterstand toe.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "79-doorgegeven-tijdordening.svg",
+          "scene": "Doorgegeven tijdordening",
+          "kind": "diagram",
+          "source": "Henoch 79:1–6"
+        }
+      ]
     }
   ]
 }

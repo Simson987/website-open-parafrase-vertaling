@@ -1,0 +1,453 @@
+{
+  "date": "2026-10-28",
+  "started": "2026-10-28T09:14:44Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "henoch",
+      "chapter": 71,
+      "verse": 1,
+      "file": "71-1-engelen-op-vuur-verdieping.webp",
+      "scene": "Visioen: engelen lopen op vlammen",
+      "alt": "Visioen: engelen lopen op vlammen — Henoch 71:1; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: poetic-symbolic. Photorealistic illustration of the visionary world of Enoch, landscape 3:2, modest opaque ancient robes, natural faces and exactly two arms per person. No human portrait of God, modern items, readable writing, blood or wounds. Three distant luminous angels in long white robes calmly walking over a broad river of gentle living flames in a crystalline heavenly landscape, radiant snowlike faces, no injury or distress. An elderly robed observer seen from behind on a stone ledge, standing. The angels are separated silhouettes with coherent arms. Enoch 71:1; the vision of angels walking on flames, distinct from Enoch prostrate before two fire streams.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "henoch",
+      "chapter": 80,
+      "verse": 7,
+      "file": "80-7-sterren-voor-goden-verdieping.webp",
+      "scene": "Visioen: mensen houden sterren voor goden",
+      "alt": "Visioen: mensen houden sterren voor goden — Henoch 80:7; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: poetic-symbolic. Photorealistic illustration of the visionary world of Enoch, landscape 3:2, modest opaque ancient robes, natural faces and exactly two arms per person. No human portrait of God, modern items, readable writing, blood or wounds. A group of four ancient adults in modest robes on a rocky terrace at night, raising their eyes and hands toward an unusually disordered field of bright stars. Several seem bewildered and one bows in mistaken worship; no idols, supernatural humanoid gods or recognizable constellations. Dry land visible under moonlight. A solemn allegorical illustration of Enoch 80:6–7, people misreading stars as gods, not an astronomical prediction.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "henoch",
+      "chapter": 71,
+      "verse": 14,
+      "file": "71-vrede-en-gerechtigheid.svg",
+      "scene": "Vrede en gerechtigheid",
+      "alt": "Vrede en gerechtigheid met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 985,
+      "source": "Henoch 71:5–17",
+      "design": {
+        "rows": [
+          [
+            "Het huis · 5–9",
+            "Kristal en levend vuur; serafs, cherubs en ofannim; Michaël, Rafaël, Gabriël en Fanuël."
+          ],
+          [
+            "De verandering · 10–13",
+            "Henoch valt neer; zijn geest verandert; zegeningen voor het Hoofd van de dagen."
+          ],
+          [
+            "De begroeting · 14–17",
+            "De engel spreekt hem aan als Mensenzoon; gerechtigheid, vrede en blijvend samenzijn."
+          ]
+        ],
+        "note": "De begroeting volgt de plaatselijke tekst; het schema legt geen andere identiteit in de aanspreekvorm."
+      }
+    },
+    {
+      "book": "henoch",
+      "chapter": 72,
+      "verse": 6,
+      "file": "72-zonnepoorten-eerste-helft.svg",
+      "scene": "Zonnepoorten: de eerste helft",
+      "alt": "Zonnepoorten: de eerste helft met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1217,
+      "source": "Henoch 72:6–20",
+      "design": {
+        "rows": [
+          [
+            "1 · poort 4 · 30 ochtenden",
+            "Eindstand: dag 10 delen, nacht 8."
+          ],
+          [
+            "2 · poort 5 · 30 ochtenden",
+            "Eindstand: dag 11 delen, nacht 7."
+          ],
+          [
+            "3 · poort 6 · 31 ochtenden",
+            "Eindstand: dag 12 delen, nacht 6."
+          ],
+          [
+            "4 · poort 6 · 30 ochtenden",
+            "Eindstand: dag 11 delen, nacht 7."
+          ],
+          [
+            "5 · poort 5 · 30 ochtenden",
+            "Eindstand: dag 10 delen, nacht 8."
+          ],
+          [
+            "6 · poort 4 · 31 ochtenden",
+            "Eindstand: dag 9 delen, nacht 9."
+          ]
+        ],
+        "note": "Oostelijke opkomst en westelijke ondergang gebruiken telkens hetzelfde poortnummer. Dit is het tekstmodel."
+      }
+    },
+    {
+      "book": "henoch",
+      "chapter": 72,
+      "verse": 21,
+      "file": "72-zonnepoorten-tweede-helft.svg",
+      "scene": "Zonnepoorten: de tweede helft",
+      "alt": "Zonnepoorten: de tweede helft met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1217,
+      "source": "Henoch 72:21–37",
+      "design": {
+        "rows": [
+          [
+            "7 · poort 3 · 30 ochtenden",
+            "Eindstand: dag 8 delen, nacht 10."
+          ],
+          [
+            "8 · poort 2 · 30 ochtenden",
+            "Eindstand: dag 7 delen, nacht 11."
+          ],
+          [
+            "9 · poort 1 · 31 ochtenden",
+            "Vers 26: nacht 12 en dag 7 delen."
+          ],
+          [
+            "10 · poort 1 · 30 ochtenden",
+            "Eindstand: dag 7 delen, nacht 11."
+          ],
+          [
+            "11 · poort 2 · 30 ochtenden",
+            "Eindstand: dag 8 delen, nacht 10."
+          ],
+          [
+            "12 · poort 3 · 31 ochtenden",
+            "Dag 9, nacht 9; jaar 364 dagen."
+          ]
+        ],
+        "note": "Vers 26 zegt ook dat de nacht tweemaal de dag is, maar noemt 12 en 7. Beide tekstgegevens blijven staan; geen stilzwijgende correctie."
+      }
+    },
+    {
+      "book": "henoch",
+      "chapter": 73,
+      "verse": 1,
+      "file": "73-maanlicht-met-maat.svg",
+      "scene": "Maanlicht met maat",
+      "alt": "Maanlicht met maat met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 942,
+      "source": "Henoch 73:1–8",
+      "design": {
+        "rows": [
+          [
+            "Het kleine licht · 1–3",
+            "Schijf en door wind gedreven wagen; licht met maat en veranderende opkomst."
+          ],
+          [
+            "Het begin · 4–6",
+            "Eerste schijnsel op de dertigste ochtend; zevende delen en halve delen worden genoemd."
+          ],
+          [
+            "Samen en uiteen · 7–8",
+            "Samen opgaan en ondergaan met de zon, daarna van haar opkomst afwijken."
+          ]
+        ],
+        "note": "De breuken en veertien lichtdelen horen bij dit oude tekstmodel; de illustraties zijn geen moderne maanfaseberekening."
+      }
+    },
+    {
+      "book": "henoch",
+      "chapter": 74,
+      "verse": 10,
+      "file": "74-jaarberekeningen-en-achterstand.svg",
+      "scene": "Jaarberekeningen en achterstand",
+      "alt": "Jaarberekeningen en achterstand met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1091,
+      "source": "Henoch 74:10–17",
+      "design": {
+        "rows": [
+          [
+            "Zon · 10–13",
+            "364 per jaar; 3 jaar = 1092; 5 jaar = 1820; 8 jaar = 2912 dagen."
+          ],
+          [
+            "Maan · 14–15",
+            "3 jaar = 1062; 5 jaar = 1770; 8 jaar = 2832 dagen."
+          ],
+          [
+            "Verschil · 16",
+            "2912 − 2832 = 80 dagen in 8 jaar."
+          ],
+          [
+            "Bijzondere zin · 14",
+            "Ook 62 toegevoegde dagen bij 1770 worden genoemd; dat wordt niet in de totalen verwerkt."
+          ]
+        ],
+        "note": "De reeks bewaart de opgegeven totalen en de afzonderlijke zin uit vers 14; er wordt geen sluitende moderne kalender van gemaakt."
+      }
+    },
+    {
+      "book": "henoch",
+      "chapter": 75,
+      "verse": 1,
+      "file": "75-vier-dagen-en-twaalf-poorten.svg",
+      "scene": "Vier dagen en twaalf poorten",
+      "alt": "Vier dagen en twaalf poorten met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "Henoch 75:1–9",
+      "design": {
+        "rows": [
+          [
+            "Vier dagen · 1–2",
+            "Toegevoegde dagen; poorten 1, 3, 4 en 6; 364 wereldstandplaatsen."
+          ],
+          [
+            "Uriël · 3",
+            "Toont tekenen, tijden, jaren en dagen van zon, maan en sterren."
+          ],
+          [
+            "Twaalf poorten · 4–7",
+            "Stralen en warmte; ook wind, dauw en vele vensters worden genoemd."
+          ],
+          [
+            "De wagens · 8–9",
+            "Boven en onder de poorten; één groter dan alle andere."
+          ]
+        ],
+        "note": "De vier toegevoegde dagen en de twaalf poorten zijn verschillende tellingen binnen het visioen."
+      }
+    },
+    {
+      "book": "henoch",
+      "chapter": 76,
+      "verse": 5,
+      "file": "76-oost-en-zuidpoorten.svg",
+      "scene": "Windpoorten: oost en zuid",
+      "alt": "Windpoorten: oost en zuid met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1303,
+      "source": "Henoch 76:1–9",
+      "design": {
+        "rows": [
+          [
+            "Oost · naar zuid · 5",
+            "Verwoesting, droogte, hitte en verderf."
+          ],
+          [
+            "Oost · midden · 6",
+            "Regen, vrucht, vrede en dauw."
+          ],
+          [
+            "Oost · naar noord · 6",
+            "Kou en droogte."
+          ],
+          [
+            "Zuid · naar oost · 7",
+            "Hete wind."
+          ],
+          [
+            "Zuid · midden · 8",
+            "Goede geur, dauw, regen, vrede en leven."
+          ],
+          [
+            "Zuid · naar west · 9",
+            "Dauw, regen, sprinkhanen en verwoesting."
+          ]
+        ],
+        "note": "Drie poorten per windstreek volgens de beschreven orde; symbolische windleer, geen weerkaart."
+      }
+    },
+    {
+      "book": "henoch",
+      "chapter": 76,
+      "verse": 10,
+      "file": "76-noord-en-westpoorten.svg",
+      "scene": "Windpoorten: noord en west",
+      "alt": "Windpoorten: noord en west met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1425,
+      "source": "Henoch 76:10–14",
+      "design": {
+        "rows": [
+          [
+            "Noord · eerste · 10",
+            "Naar oost en zuid: dauw, regen, sprinkhanen en verwoesting."
+          ],
+          [
+            "Noord · midden · 11",
+            "Regen, dauw, leven en vrede."
+          ],
+          [
+            "Noord · derde · 11",
+            "Naar west en noord: wolk, rijp, sneeuw, regen, dauw en sprinkhanen."
+          ],
+          [
+            "West · eerste · 12",
+            "Naar noord: dauw, regen, rijp, kou, sneeuw en vorst."
+          ],
+          [
+            "West · midden · 13",
+            "Dauw, regen, vrede en zegen."
+          ],
+          [
+            "West · laatste · 13",
+            "Naar zuid: droogte, verwoesting, brand en verderf."
+          ]
+        ],
+        "note": "Vers 12 spreekt van vier westenwinden; de daaropvolgende opsomming noemt drie poorten en vers 14 twaalf in totaal. Het schema bewaart die spanning."
+      }
+    },
+    {
+      "book": "henoch",
+      "chapter": 77,
+      "verse": 1,
+      "file": "77-windstreken-en-zeventallen.svg",
+      "scene": "Windstreken en zeventallen",
+      "alt": "Windstreken en zeventallen met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1326,
+      "source": "Henoch 77:1–8",
+      "design": {
+        "rows": [
+          [
+            "Oost, zuid en west · 1–2",
+            "Oost: eerste; zuid: neerdalen van de Allerhoogste; west: afnemen van lichten."
+          ],
+          [
+            "Noord · 3",
+            "Drie delen: mensen; wateren en duisternis; tuin van de gerechtigheid."
+          ],
+          [
+            "Zeven bergen · 4",
+            "Hoger dan alle andere; bron van rijp."
+          ],
+          [
+            "Zeven rivieren · 5–7",
+            "Richtingen en zeeën worden beschreven; de formulering van vers 7 blijft onvereenvoudigd."
+          ],
+          [
+            "Zeven eilanden · 8",
+            "Twee op het vasteland en vijf in de grote zee."
+          ]
+        ],
+        "note": "Dit is visionaire wereldindeling; de rivieren worden niet met moderne geografische namen vereenzelvigd."
+      }
+    },
+    {
+      "book": "henoch",
+      "chapter": 78,
+      "verse": 1,
+      "file": "78-namen-en-lichtcyclus.svg",
+      "scene": "Namen en lichtcyclus",
+      "alt": "Namen en lichtcyclus met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1012,
+      "source": "Henoch 78:1–17",
+      "design": {
+        "rows": [
+          [
+            "Zon · 1",
+            "Orjares · Tomas."
+          ],
+          [
+            "Maan · 2",
+            "Asonja · Ebla · Benase · Erae."
+          ],
+          [
+            "Opbouw en afname · 6–14",
+            "Vol licht rond dag 14–15; afname tot een lege schijf; nieuwe maan krijgt haar naam van licht."
+          ],
+          [
+            "Maandtellingen · 9,15–16",
+            "Vers 9: 29 of 28 dagen; later 3 × 30 en 3 × 29 = 177 dagen."
+          ]
+        ],
+        "note": "De verschillende maandtellingen worden vermeld zonder ze tot één kalender te harmoniseren."
+      }
+    },
+    {
+      "book": "henoch",
+      "chapter": 79,
+      "verse": 1,
+      "file": "79-doorgegeven-tijdordening.svg",
+      "scene": "Doorgegeven tijdordening",
+      "alt": "Doorgegeven tijdordening met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "Henoch 79:1–6",
+      "design": {
+        "rows": [
+          [
+            "De ontvanger · 1–2",
+            "Metuselach; dagen, tijden, jaren, maanden en weken."
+          ],
+          [
+            "De poorten · 3–4",
+            "Zesde en eerste poort; 177 dagen = 25 weken en 2 dagen."
+          ],
+          [
+            "De achterstand · 5",
+            "Vijf dagen ten opzichte van zon en sterren in één tijdvak."
+          ],
+          [
+            "De bron · 6",
+            "Uriël toont het beeld en de gelijkenis van elk hemellichaam."
+          ]
+        ],
+        "note": "Het tijdvak wordt niet eigenmachtig tot een moderne maand of jaar benoemd."
+      }
+    },
+    {
+      "book": "henoch",
+      "chapter": 80,
+      "verse": 2,
+      "file": "80-van-ontregeling-naar-dwaling.svg",
+      "scene": "Van ontregeling naar dwaling",
+      "alt": "Van ontregeling naar dwaling met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 985,
+      "source": "Henoch 80:1–8",
+      "design": {
+        "rows": [
+          [
+            "Land · 2–3",
+            "Kortere jaren; te laat zaad en vrucht; regen blijft uit."
+          ],
+          [
+            "Hemel · 4–6",
+            "Maan verandert haar orde; sterrenleiders wijken van banen en tijden af."
+          ],
+          [
+            "Uitleg · 7–8",
+            "Mensen begrijpen de orde niet en houden sterren voor goden; kwaad en plaag volgen."
+          ]
+        ],
+        "note": "De passage is een visioen over de dagen van zondaars; geen datum of hedendaagse voorspelling wordt toegevoegd."
+      }
+    }
+  ]
+}
