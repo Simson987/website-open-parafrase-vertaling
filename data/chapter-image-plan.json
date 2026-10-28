@@ -37532,6 +37532,111 @@
           "source": "1 Makkabeeën 3:32–40,55–56"
         }
       ]
+    },
+    {
+      "book": "1makkabeeen",
+      "chapter": 4,
+      "status": "reviewed",
+      "target_images": 7,
+      "reason": "Verlaten heiligdom, nieuw altaar en inwijding zijn aanwezig. Gorgias bij het lege kamp en het apart leggen van oude altaarstenen zijn eigen momenten en krijgen scènes. Twee schema’s onderscheiden veldtochten, herstelstappen en feestdatum.",
+      "additions": [
+        {
+          "verse": 5,
+          "file": "4-5-verlaten-kamp-verdieping.webp",
+          "scene": "Gorgias vindt het kamp verlaten",
+          "kind": "scene"
+        },
+        {
+          "verse": 46,
+          "file": "4-46-oude-altaarstenen-verdieping.webp",
+          "scene": "De oude altaarstenen apart gelegd",
+          "kind": "scene"
+        },
+        {
+          "verse": 1,
+          "file": "4-strijd-en-herstel.svg",
+          "scene": "Strijd en herstel",
+          "kind": "diagram",
+          "source": "1 Makkabeeën 4:1–61"
+        },
+        {
+          "verse": 42,
+          "file": "4-werk-aan-het-heiligdom.svg",
+          "scene": "Werk aan het heiligdom",
+          "kind": "diagram",
+          "source": "1 Makkabeeën 4:42–59"
+        }
+      ]
+    },
+    {
+      "book": "1makkabeeen",
+      "chapter": 5,
+      "status": "reviewed",
+      "target_images": 7,
+      "reason": "Drie beelden tonen reeds de terugkerende gezinnen en de achterhoede. De vreedzame Nabateeërs en de gesloten poort van Efron voegen twee eigen gebeurtenissen toe. Twee schema’s houden de gesplitste opdrachten en de reisfasen uit elkaar.",
+      "additions": [
+        {
+          "verse": 25,
+          "file": "5-25-ontmoeting-nabateeers-verdieping.webp",
+          "scene": "Een vreedzame ontmoeting met Nabateeërs",
+          "kind": "scene"
+        },
+        {
+          "verse": 48,
+          "file": "5-48-gesloten-poort-efron-verdieping.webp",
+          "scene": "De gesloten poorten van Efron",
+          "kind": "scene"
+        },
+        {
+          "verse": 17,
+          "file": "5-drie-opdrachten.svg",
+          "scene": "Drie opdrachten",
+          "kind": "diagram",
+          "source": "1 Makkabeeën 5:17–20,55–62"
+        },
+        {
+          "verse": 24,
+          "file": "5-tocht-en-terugkeer.svg",
+          "scene": "Tocht en terugkeer",
+          "kind": "diagram",
+          "source": "1 Makkabeeën 5:24–54"
+        }
+      ]
+    },
+    {
+      "book": "1makkabeeen",
+      "chapter": 6,
+      "status": "reviewed",
+      "target_images": 7,
+      "reason": "Slecht nieuws, glanzende schilden en vredesvoorstel zijn aanwezig. De overdracht van kroon/mantel/ring en de lege voorraden zijn twee zelfstandige gebeurtenissen en krijgen scènes. Een verloop- en aantallenschema maken de opvolging en de grote plaatselijke legercijfers controleerbaar.",
+      "additions": [
+        {
+          "verse": 15,
+          "file": "6-15-kroon-mantel-ring-verdieping.webp",
+          "scene": "Filippus krijgt de koninklijke tekens",
+          "kind": "scene"
+        },
+        {
+          "verse": 53,
+          "file": "6-53-lege-voorraadvaten-verdieping.webp",
+          "scene": "Lege voorraadvaten bij de belegering",
+          "kind": "scene"
+        },
+        {
+          "verse": 1,
+          "file": "6-opvolging-en-belegering.svg",
+          "scene": "Opvolging en belegering",
+          "kind": "diagram",
+          "source": "1 Makkabeeën 6:1–63"
+        },
+        {
+          "verse": 30,
+          "file": "6-genoemde-legeraantallen.svg",
+          "scene": "De genoemde legeraantallen",
+          "kind": "diagram",
+          "source": "1 Makkabeeën 6:30,35–37"
+        }
+      ]
     }
   ]
 }

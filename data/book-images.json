@@ -63490,7 +63490,11 @@
         "chapter": 4,
         "file": "4-temple.webp",
         "alt": "Priesters reinigen en herstellen de tempel",
-        "scene": "De tempel opnieuw gewijd"
+        "scene": "De tempel opnieuw gewijd",
+        "verse": 54,
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 13,
@@ -63765,56 +63769,80 @@
         "verse": 38,
         "file": "4-38.webp",
         "alt": "Beeld bij 1makkabeeen 4: Het heiligdom ligt verlaten",
-        "scene": "Het heiligdom ligt verlaten"
+        "scene": "Het heiligdom ligt verlaten",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 4,
         "verse": 47,
         "file": "4-47.webp",
         "alt": "Beeld bij 1makkabeeen 4: Een nieuw altaar",
-        "scene": "Een nieuw altaar"
+        "scene": "Een nieuw altaar",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 5,
         "verse": 23,
         "file": "5-23.webp",
         "alt": "Beeld bij 1makkabeeen 5: Gezinnen uit Galilea in veiligheid",
-        "scene": "Gezinnen uit Galilea in veiligheid"
+        "scene": "Gezinnen uit Galilea in veiligheid",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 5,
         "verse": 45,
         "file": "5-45.webp",
         "alt": "Beeld bij 1makkabeeen 5: Een grote stoet uit Gilead",
-        "scene": "Een grote stoet uit Gilead"
+        "scene": "Een grote stoet uit Gilead",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 5,
         "verse": 53,
         "file": "5-53.webp",
         "alt": "Beeld bij 1makkabeeen 5: Judas bemoedigt de achterhoede",
-        "scene": "Judas bemoedigt de achterhoede"
+        "scene": "Judas bemoedigt de achterhoede",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 6,
         "verse": 8,
         "file": "6-8.webp",
         "alt": "Beeld bij 1makkabeeen 6: Antiochus hoort slecht nieuws",
-        "scene": "Antiochus hoort slecht nieuws"
+        "scene": "Antiochus hoort slecht nieuws",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 6,
         "verse": 39,
         "file": "6-39.webp",
         "alt": "Beeld bij 1makkabeeen 6: Glanzende schilden op de bergen",
-        "scene": "Glanzende schilden op de bergen"
+        "scene": "Glanzende schilden op de bergen",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 6,
         "verse": 58,
         "file": "6-58.webp",
         "alt": "Beeld bij 1makkabeeen 6: Een voorstel tot vrede",
-        "scene": "Een voorstel tot vrede"
+        "scene": "Een voorstel tot vrede",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 7,
@@ -63946,6 +63974,126 @@
         "kind": "diagram",
         "width": 840,
         "height": 1141
+      },
+      {
+        "chapter": 4,
+        "verse": 5,
+        "file": "4-5-verlaten-kamp-verdieping.webp",
+        "scene": "Gorgias vindt het kamp verlaten",
+        "alt": "Gorgias vindt het kamp verlaten — 1 Makkabeeën 4:5; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 4,
+        "verse": 46,
+        "file": "4-46-oude-altaarstenen-verdieping.webp",
+        "scene": "De oude altaarstenen apart gelegd",
+        "alt": "De oude altaarstenen apart gelegd — 1 Makkabeeën 4:46; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 5,
+        "verse": 25,
+        "file": "5-25-ontmoeting-nabateeers-verdieping.webp",
+        "scene": "Een vreedzame ontmoeting met Nabateeërs",
+        "alt": "Een vreedzame ontmoeting met Nabateeërs — 1 Makkabeeën 5:25; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 5,
+        "verse": 48,
+        "file": "5-48-gesloten-poort-efron-verdieping.webp",
+        "scene": "De gesloten poorten van Efron",
+        "alt": "De gesloten poorten van Efron — 1 Makkabeeën 5:48; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 6,
+        "verse": 15,
+        "file": "6-15-kroon-mantel-ring-verdieping.webp",
+        "scene": "Filippus krijgt de koninklijke tekens",
+        "alt": "Filippus krijgt de koninklijke tekens — 1 Makkabeeën 6:15; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 6,
+        "verse": 53,
+        "file": "6-53-lege-voorraadvaten-verdieping.webp",
+        "scene": "Lege voorraadvaten bij de belegering",
+        "alt": "Lege voorraadvaten bij de belegering — 1 Makkabeeën 6:53; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 4,
+        "verse": 1,
+        "file": "4-strijd-en-herstel.svg",
+        "scene": "Strijd en herstel",
+        "alt": "Strijd en herstel met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1141
+      },
+      {
+        "chapter": 4,
+        "verse": 42,
+        "file": "4-werk-aan-het-heiligdom.svg",
+        "scene": "Werk aan het heiligdom",
+        "alt": "Werk aan het heiligdom met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1098
+      },
+      {
+        "chapter": 5,
+        "verse": 17,
+        "file": "5-drie-opdrachten.svg",
+        "scene": "Drie opdrachten",
+        "alt": "Drie opdrachten met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1091
+      },
+      {
+        "chapter": 5,
+        "verse": 24,
+        "file": "5-tocht-en-terugkeer.svg",
+        "scene": "Tocht en terugkeer",
+        "alt": "Tocht en terugkeer met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1055
+      },
+      {
+        "chapter": 6,
+        "verse": 1,
+        "file": "6-opvolging-en-belegering.svg",
+        "scene": "Opvolging en belegering",
+        "alt": "Opvolging en belegering met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1177
+      },
+      {
+        "chapter": 6,
+        "verse": 30,
+        "file": "6-genoemde-legeraantallen.svg",
+        "scene": "De genoemde legeraantallen",
+        "alt": "De genoemde legeraantallen met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 942
       }
     ],
     "2makkabeeen": [
