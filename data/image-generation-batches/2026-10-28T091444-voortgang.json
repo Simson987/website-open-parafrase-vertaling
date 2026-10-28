@@ -1,0 +1,94 @@
+{
+  "started": "2026-10-28T09:14:44Z",
+  "batches": [
+    1,
+    10,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "new_visuals": 167,
+  "new_asset_files": 167,
+  "replaced_baseline_images": 0,
+  "new_rasters": 48,
+  "new_schemas": 119,
+  "new_reviewed_chapters": 98,
+  "total_reviewed_chapters": 1518,
+  "total_images": 9010,
+  "metadata_corrections": 294,
+  "verified": "local sources, visual anatomy and content review, SVG legibility and font bounds, SVG enlarge links, dimensions and decode, chapter plan targets, preservation of baseline work",
+  "finished": "2026-10-28T10:03:56.396499+00:00",
+  "baseline": "0c9f1a589774d9a3e138800d4de9fc1f21f6dfe0",
+  "asset_commit": "a9cd9e2d550abdf3cc3525628db483f2cb4c2a6e",
+  "ranges": [
+    {
+      "book": "henoch",
+      "first": 51,
+      "last": 108
+    },
+    {
+      "book": "jubileeen",
+      "first": 1,
+      "last": 40
+    }
+  ],
+  "remaining_chapters": 86,
+  "next_chapter": {
+    "book": "jubileeen",
+    "chapter": 41
+  },
+  "open_reviewed_targets": 0,
+  "coverage": {
+    "books": 88,
+    "chapters": 1604,
+    "chapters_with_three_images": 149,
+    "chapters_with_at_least_three_images": 1604,
+    "chapters_with_more_than_three_images": 1455,
+    "images": 9010,
+    "images_still_needed": 0,
+    "chapters_reviewed_for_expansion": 1518,
+    "reviewed_chapters_at_target": 1518,
+    "additional_images_needed_for_reviewed_chapters": 0
+  },
+  "source_observations": [
+    {
+      "reference": "Henoch 52; 69",
+      "observation": "Zes metaalnamen, 21 hoofden, vijf nader uitgelegde verleiders en de eednamen in afzonderlijke lijsten gehouden."
+    },
+    {
+      "reference": "Henoch 72:26; 74:14; 76:12; 78:9,15–16",
+      "observation": "Plaatselijke verschillen in dagdelen, dagen en poorttellingen expliciet bewaard; geen stille harmonisatie."
+    },
+    {
+      "reference": "Jubileeën 4; 8–9; 19; 28; 38",
+      "observation": "Familierelaties, namen, moeders en koningsopvolging aan de plaatselijke tekst getoetst; ontbrekende namen niet uit andere boeken ingevoegd."
+    },
+    {
+      "reference": "Jubileeën 6:23,26; 16:24; 26",
+      "observation": "Ontbrekende maand 7 in de eerste opsomming, zes genoemde reukwerknamen bij deze zeven en ontbrekend vers 33 zichtbaar gehouden."
+    },
+    {
+      "reference": "Jubileeën 30; 33; 34; 39",
+      "observation": "Verschillende waarderingen en stemmen onderscheiden; Bilha’s ontbreken van instemming, Jozefs vermeende dood en de valse beschuldiging niet als tegengestelde feiten gepresenteerd."
+    }
+  ],
+  "generation_errors": [],
+  "qa": [
+    "Volledige lokale hoofdstukteksten gelezen en bestaande beelden bekeken",
+    "Alle 48 nieuwe rasters op broninhoud en anatomie gecontroleerd",
+    "Alle 119 SVG-ontwerpen gerenderd, bekeken en op tekstgrenzen gecontroleerd",
+    "Versankers, werkelijke afmetingen, unieke bestanden, beelddecodering en SVG-veiligheid gecontroleerd",
+    "Vergrootlinks van schema’s in gegenereerde hoofdstukpagina’s gecontroleerd",
+    "Sitebuild en dekkingsteller geslaagd",
+    "Alle 1604 hoofdstukken behouden minstens drie beelden; alle 1518 beoordeelde doelen uitgevoerd",
+    "Basisbestanden en eerdere planning behouden behalve vastgelegde metadatacorrecties"
+  ],
+  "automation": "ACTIVE: inhoudelijk werk is nog niet voltooid",
+  "push_target": "Simson987/website-open-parafrase-vertaling:codex/three-images-per-chapter",
+  "pull_request": "https://github.com/William-Carey-Missions/website-open-parafrase-vertaling/pull/3"
+}
