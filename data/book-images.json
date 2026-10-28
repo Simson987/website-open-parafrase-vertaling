@@ -64532,7 +64532,11 @@
         "chapter": 8,
         "file": "8-gathering.webp",
         "alt": "Families en leiders verzamelen zich voor gebed",
-        "scene": "Samen bidden"
+        "scene": "Samen bidden",
+        "verse": 1,
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 10,
@@ -64715,56 +64719,80 @@
         "verse": 2,
         "file": "7-2.webp",
         "alt": "Beeld bij 2makkabeeen 7: De broers houden vast aan de wet",
-        "scene": "De broers houden vast aan de wet"
+        "scene": "De broers houden vast aan de wet",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 7,
         "verse": 21,
         "file": "7-21.webp",
         "alt": "Beeld bij 2makkabeeen 7: Een moeder bemoedigt haar zoon",
-        "scene": "Een moeder bemoedigt haar zoon"
+        "scene": "Een moeder bemoedigt haar zoon",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 7,
         "verse": 28,
         "file": "7-28.webp",
         "alt": "Beeld bij 2makkabeeen 7: Kijk naar de hemel en de aarde",
-        "scene": "Kijk naar de hemel en de aarde"
+        "scene": "Kijk naar de hemel en de aarde",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 8,
         "verse": 23,
         "file": "8-23.webp",
         "alt": "Beeld bij 2makkabeeen 8: Voorlezing voor het vertrek",
-        "scene": "Voorlezing voor het vertrek"
+        "scene": "Voorlezing voor het vertrek",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 8,
         "verse": 28,
         "file": "8-28.webp",
         "alt": "Beeld bij 2makkabeeen 8: Buit gedeeld met behoeftigen",
-        "scene": "Buit gedeeld met behoeftigen"
+        "scene": "Buit gedeeld met behoeftigen",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 9,
         "verse": 3,
         "file": "9-3.webp",
         "alt": "Beeld bij 2makkabeeen 9: Bericht in Ecbatana",
-        "scene": "Bericht in Ecbatana"
+        "scene": "Bericht in Ecbatana",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 9,
         "verse": 8,
         "file": "9-8.webp",
         "alt": "Beeld bij 2makkabeeen 9: De koning op een draagbaar",
-        "scene": "De koning op een draagbaar"
+        "scene": "De koning op een draagbaar",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 9,
         "verse": 18,
         "file": "9-18.webp",
         "alt": "Beeld bij 2makkabeeen 9: Een laatste brief",
-        "scene": "Een laatste brief"
+        "scene": "Een laatste brief",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 10,
@@ -65084,6 +65112,96 @@
         "kind": "diagram",
         "width": 840,
         "height": 1177
+      },
+      {
+        "chapter": 7,
+        "verse": 24,
+        "file": "7-24-aanbod-aan-jongste-verdieping.webp",
+        "scene": "Het aanbod aan de jongste",
+        "alt": "Het aanbod aan de jongste — 2 Makkabeeën 7:24; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 8,
+        "verse": 27,
+        "file": "8-27-sabbat-na-overwinning-verdieping.webp",
+        "scene": "Sabbat na de overwinning",
+        "alt": "Sabbat na de overwinning — 2 Makkabeeën 8:27; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 9,
+        "verse": 2,
+        "file": "9-2-vertrek-uit-persepolis-verdieping.webp",
+        "scene": "Terugtocht uit Persepolis",
+        "alt": "Terugtocht uit Persepolis — 2 Makkabeeën 9:2; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 7,
+        "verse": 1,
+        "file": "7-zeven-stemmen.svg",
+        "scene": "De woorden van de broers",
+        "alt": "De woorden van de broers met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1369
+      },
+      {
+        "chapter": 7,
+        "verse": 20,
+        "file": "7-moeder-koning-en-jongste.svg",
+        "scene": "Moeder, koning en jongste",
+        "alt": "Moeder, koning en jongste met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1134
+      },
+      {
+        "chapter": 8,
+        "verse": 1,
+        "file": "8-legers-en-verwachtingen.svg",
+        "scene": "Legers en verwachtingen",
+        "alt": "Legers en verwachtingen met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1012
+      },
+      {
+        "chapter": 8,
+        "verse": 24,
+        "file": "8-overwinning-sabbat-en-zorg.svg",
+        "scene": "Overwinning, sabbat en zorg",
+        "alt": "Overwinning, sabbat en zorg met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1098
+      },
+      {
+        "chapter": 9,
+        "verse": 1,
+        "file": "9-van-hoogmoed-naar-afhankelijkheid.svg",
+        "scene": "Hoogmoed en afhankelijkheid",
+        "alt": "Hoogmoed en afhankelijkheid met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1098
+      },
+      {
+        "chapter": 9,
+        "verse": 14,
+        "file": "9-beloften-en-koningsbrief.svg",
+        "scene": "Beloften en koningsbrief",
+        "alt": "Beloften en koningsbrief met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1134
       }
     ],
     "3makkabeeen": [
