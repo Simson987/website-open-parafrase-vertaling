@@ -1,0 +1,556 @@
+{
+  "date": "2026-10-28",
+  "started": "2026-10-28T09:14:44Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "jubileeen",
+      "chapter": 23,
+      "verse": 29,
+      "file": "23-29-belofte-van-vrede-en-genezing-verdieping.webp",
+      "scene": "Beloftebeeld: vrede en genezing",
+      "alt": "Beloftebeeld: vrede en genezing — Jubileeën 23:29; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of the ancient narrative in Jubilees, landscape 3:2, natural materials, modest opaque robes, coherent human anatomy with two arms and natural hands. No modern objects, readable writing, human portrait of God, blood, wounds or corpses. A peaceful ancient village orchard with healthy adults and children of different generations resting, sharing fruit and smiling in warm light, no visible sickness or modern medicine, no idealized superhuman age markers. Jubilees 23:26–30 promised future generations returning to the law and living in peace and healing; explicitly hope imagery, distinct from the current mourning at Abrahams death.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "jubileeen",
+      "chapter": 24,
+      "verse": 26,
+      "file": "24-26-izak-en-de-eed-verdieping.webp",
+      "scene": "Izak bij de eed met Abimelech",
+      "alt": "Izak bij de eed met Abimelech — Jubileeën 24:26; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of the ancient narrative in Jubilees, landscape 3:2, natural materials, modest opaque robes, coherent human anatomy with two arms and natural hands. No modern objects, readable writing, human portrait of God, blood, wounds or corpses. Isaac in a plain robe stands solemnly at a desert well facing three dignified men: King Abimelech, his companion Ahuzzath and commander Phicol, with a few distant attendants. Serious and reserved expressions convey an oath made under pressure rather than a joyful celebration. No weapon aimed at anyone, deity or readable treaty. Jubilees 24:26–27, the oath remembered at Beersheba.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "jubileeen",
+      "chapter": 27,
+      "verse": 19,
+      "file": "27-19-jakob-reist-alleen-verdieping.webp",
+      "scene": "Jakob reist alleen naar Haran",
+      "alt": "Jakob reist alleen naar Haran — Jubileeën 27:19; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of the ancient narrative in Jubilees, landscape 3:2, natural materials, modest opaque robes, coherent human anatomy with two arms and natural hands. No modern objects, readable writing, human portrait of God, blood, wounds or corpses. Jacob, a mature adult man with dark graying beard in an opaque plain travel robe, walking entirely alone on a rocky trail at late afternoon, carrying a small bundle and wooden staff, no caravan or other people, distant hills of Bethel. Jubilees 27:19–20 solitary journey from Beersheba to Haran before the dream, not a young teenage Jacob.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "jubileeen",
+      "chapter": 29,
+      "verse": 13,
+      "file": "29-13-oversteek-van-de-jabbok-verdieping.webp",
+      "scene": "Jakob steekt de Jabbok over",
+      "alt": "Jakob steekt de Jabbok over — Jubileeën 29:13; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic illustration of the ancient narrative in Jubilees, landscape 3:2, natural materials, modest opaque robes, coherent human anatomy with two arms and natural hands. No modern objects, readable writing, human portrait of God, blood, wounds or corpses. Jacobs extended family caravan carefully fording a shallow river on stepping stones, adults assisting pack donkeys and sheep under cool daylight, fully clothed people safely above water, no wrestling angel, battle, drowning or modern bridge. Jubilees 29:13, crossing the Jabbok before the later Jordan crossing; clearly separate from the earlier march to Gilead.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "jubileeen",
+      "chapter": 21,
+      "verse": 12,
+      "file": "21-dertien-houtsoorten.svg",
+      "scene": "Dertien houtsoorten",
+      "alt": "Dertien houtsoorten met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1154,
+      "source": "Jubileeën 21:12–14",
+      "design": {
+        "rows": [
+          [
+            "1–3",
+            "Cipres · defran · sagad."
+          ],
+          [
+            "4–6",
+            "Pijnboom · spar · ceder."
+          ],
+          [
+            "7–9",
+            "Savenhout · palm · olijfboom."
+          ],
+          [
+            "10–13",
+            "Mirre · laurier · jeneverbes, arbat genoemd · balsem."
+          ],
+          [
+            "Kwaliteit · 13–14",
+            "Stevig, gaaf, gezond en jong; geen ander of oud hout."
+          ]
+        ],
+        "note": "De minder bekende namen blijven ongewijzigd. Er worden geen moderne botanische soorten aan defran of sagad gekoppeld."
+      }
+    },
+    {
+      "book": "jubileeen",
+      "chapter": 21,
+      "verse": 6,
+      "file": "21-offers-reinheid-en-oprechtheid.svg",
+      "scene": "Offers, reinheid en oprechtheid",
+      "alt": "Offers, reinheid en oprechtheid met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1177,
+      "source": "Jubileeën 21:6–26",
+      "design": {
+        "rows": [
+          [
+            "Dankoffer · 6–11",
+            "Bloed op altaar; vet, meel, olie en drankoffer; altijd zout."
+          ],
+          [
+            "Tijd · 10",
+            "Eten op dag 1 en dag 2; vóór zonsondergang van dag 2 op; niets tot dag 3."
+          ],
+          [
+            "Reinheid · 16–18",
+            "Lichaam, handen en voeten wassen vóór en na; bloed met aarde bedekken."
+          ],
+          [
+            "Recht en zegen · 19–26",
+            "Geen omkoping bij mensenbloed; oprecht leven; plant van gerechtigheid en vredeswens."
+          ]
+        ],
+        "note": "De regels worden als tekstverband getoond; de drie bestaande beelden tonen onderricht, zout en wassen."
+      }
+    },
+    {
+      "book": "jubileeen",
+      "chapter": 22,
+      "verse": 1,
+      "file": "22-feest-zegen-en-huis.svg",
+      "scene": "Feest, zegen en huis",
+      "alt": "Feest, zegen en huis met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1091,
+      "source": "Jubileeën 22:1–30",
+      "design": {
+        "rows": [
+          [
+            "Familiefeest · 1–9",
+            "Izak en Ismaël komen; Jakob brengt dankoffer; Abraham 175 en dankbaar."
+          ],
+          [
+            "Zegen · 10–15",
+            "Kracht, reiniging, vergeving en vernieuwd verbond voor Jakob."
+          ],
+          [
+            "Opdracht · 16–24",
+            "Geboden houden, afgoden mijden, huwelijk en het huis van Abraham."
+          ],
+          [
+            "Nabijheid · 25–30",
+            "Jakob slaapt bij zijn grootvader; zeven kussen en een laatste gebed om trouw."
+          ]
+        ],
+        "note": "De handelingen zijn al in drie beelden aanwezig; dit schema voegt de structuur en het toegezegde huis toe."
+      }
+    },
+    {
+      "book": "jubileeen",
+      "chapter": 23,
+      "verse": 8,
+      "file": "23-levensduur-en-generaties.svg",
+      "scene": "Levensduur en generaties",
+      "alt": "Levensduur en generaties met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1283,
+      "source": "Jubileeën 23:8–32",
+      "design": {
+        "rows": [
+          [
+            "Abraham · 8",
+            "3 jubeljaren + 4 jaarweken = 175 jaar."
+          ],
+          [
+            "Verval · 9–25",
+            "Voorouders: 19 jubeljaren; latere generaties minder dan 2; rampspoed en onderlinge strijd."
+          ],
+          [
+            "Keerpunt · 26",
+            "Kinderen bestuderen wetten en keren terug naar gerechtigheid."
+          ],
+          [
+            "Herstel · 27–31",
+            "Bijna 1000 jaar; vrede, genezing en vreugde; beenderen rusten in aarde."
+          ],
+          [
+            "Getuigenis · 32",
+            "Mozes moet het opschrijven voor latere generaties."
+          ]
+        ],
+        "note": "De levenscijfers zijn onderdeel van de vooruitblik. Het herstelbeeld krijgt daarom het type beloftebeeld."
+      }
+    },
+    {
+      "book": "jubileeen",
+      "chapter": 24,
+      "verse": 1,
+      "file": "24-erfrecht-putten-en-eed.svg",
+      "scene": "Erfrecht, putten en eed",
+      "alt": "Erfrecht, putten en eed met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1220,
+      "source": "Jubileeën 24:1–33",
+      "design": {
+        "rows": [
+          [
+            "Twee broers · 3–7",
+            "Ezau geeft eerstgeboorterecht onder eed voor brood en rode soep; Jakob krijgt de positie."
+          ],
+          [
+            "Gerar · 1–17",
+            "7 jaar bij Lachai-Roï; hongersnood; 3 jaarweken in Gerar; Abimelech stuurt hem weg."
+          ],
+          [
+            "Putten · 18–25",
+            "Oude putten weer open; ruzie, Benauwdheid, Ruimte; daarna Berseba, stromende en droge put."
+          ],
+          [
+            "Eed · 26–33",
+            "Abimelech, Ahuzzath en Pichol; Izak ervaart dwang en spreekt een vloek uit."
+          ]
+        ],
+        "note": "De putnamen blijven Benauwdheid en Ruimte zoals hier geschreven; geen namen uit andere versies worden ingevuld."
+      }
+    },
+    {
+      "book": "jubileeen",
+      "chapter": 25,
+      "verse": 4,
+      "file": "25-keuze-leeftijd-en-zegen.svg",
+      "scene": "Keuze, leeftijd en zegen",
+      "alt": "Keuze, leeftijd en zegen met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1177,
+      "source": "Jubileeën 25:1–23",
+      "design": {
+        "rows": [
+          [
+            "Raad · 1–3",
+            "Rebekka vraagt een vrouw uit haar vaders familie, niet uit Kanaän."
+          ],
+          [
+            "Jakob · 4–10",
+            "63 jaar; wil een dochter van Laban; noemt 22 jaar aandringen van zijn broer."
+          ],
+          [
+            "Gebed · 11–15",
+            "Rebekka looft en legt beide handen op Jakobs hoofd."
+          ],
+          [
+            "Beelden · 16–23",
+            "Kinderen als de maanden; verdere nakomelingen als sterren en zeezand; land en blijvende naam."
+          ]
+        ],
+        "note": "Maanden, sterren en zand zijn vergelijkingen voor talrijkheid, geen extra geboortelijst in dit hoofdstuk."
+      }
+    },
+    {
+      "book": "jubileeen",
+      "chapter": 26,
+      "verse": 1,
+      "file": "26-twee-gerechten-twee-bezoeken.svg",
+      "scene": "Twee gerechten, twee bezoeken",
+      "alt": "Twee gerechten, twee bezoeken met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1134,
+      "source": "Jubileeën 26:1–35",
+      "design": {
+        "rows": [
+          [
+            "Ezau weg · 1–4",
+            "Izak vraagt jachtgerecht en wil zegenen; Rebekka hoort het."
+          ],
+          [
+            "Jakob naar binnen · 5–24",
+            "Twee bokjes, Ezau’s kleren, gerecht en brood; stem en handen; maaltijd, kus en zegen."
+          ],
+          [
+            "Ezau terug · 25–32",
+            "Jakob verbergt zich; Izak schrikt; Ezau vraagt bitter om zegen."
+          ],
+          [
+            "Dreiging · 34–35",
+            "Leven van zwaard; Ezau denkt aan het doden van Jakob na Izaks dood."
+          ]
+        ],
+        "note": "De plaatselijke reeks bevat geen vers 33. De leeswijzer vult die ontbrekende verszin niet aan."
+      }
+    },
+    {
+      "book": "jubileeen",
+      "chapter": 27,
+      "verse": 1,
+      "file": "27-vlucht-familie-en-belofte.svg",
+      "scene": "Vlucht, familie en belofte",
+      "alt": "Vlucht, familie en belofte met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "Jubileeën 27:1–27",
+      "design": {
+        "rows": [
+          [
+            "De raad · 1–11",
+            "Droom aan Rebekka; naar haar broer Laban, zoon van Bethuël; Izak zegent."
+          ],
+          [
+            "Afscheid · 12–20",
+            "Rebekka verdrietig; Izak troost; Jakob alleen via Luz/Beth-el."
+          ],
+          [
+            "Droom · 21–25",
+            "Ladder, land, talrijke nakomelingen, bescherming en terugkeer."
+          ],
+          [
+            "Antwoord · 26–27",
+            "Steen rechtop met olie; naam Beth-el; gebed om brood, kleding en thuiskomst."
+          ]
+        ],
+        "note": "De ladder is als droom getypeerd; de alleenreizende Jakob is een aparte verhaalscène."
+      }
+    },
+    {
+      "book": "jubileeen",
+      "chapter": 28,
+      "verse": 1,
+      "file": "28-twee-huwelijken-en-dienstjaren.svg",
+      "scene": "Twee huwelijken en dienstjaren",
+      "alt": "Twee huwelijken en dienstjaren met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1091,
+      "source": "Jubileeën 28:1–10,25–30",
+      "design": {
+        "rows": [
+          [
+            "Eerste dienst · 1–4",
+            "7 jaar voor Rachel; feest, maar Laban geeft Lea met Zilpa."
+          ],
+          [
+            "Feestweek · 6–9",
+            "Eerst 7 feestdagen van Lea; daarna Rachel met Bilha."
+          ],
+          [
+            "Tweede dienst · 8–10",
+            "Nog 7 jaar voor Rachel; 14 jaar dienst voor de huwelijken."
+          ],
+          [
+            "Loon · 25–30",
+            "Daarna kuddehoeden; getekende dieren als loon; rijkdom en Labans jaloezie."
+          ]
+        ],
+        "note": "Bilha is volgens vers 9 de zus van Zilpa. De zeven feestdagen zijn geen derde periode van zeven dienstjaren."
+      }
+    },
+    {
+      "book": "jubileeen",
+      "chapter": 28,
+      "verse": 11,
+      "file": "28-leas-kinderen.svg",
+      "scene": "De kinderen van Lea",
+      "alt": "De kinderen van Lea met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 734,
+      "source": "Jubileeën 28:11–17,22–23",
+      "design": {
+        "rows": [
+          [
+            "Eerste vier · 11–17",
+            "Ruben · Simeon · Levi · Juda."
+          ],
+          [
+            "Issaschar · 22",
+            "Maand 5, dag 4; jaar 4 van jaarweek 4."
+          ],
+          [
+            "Tweeling · 23",
+            "Zoon Zebulon en dochter Dina."
+          ]
+        ],
+        "note": "De moeder is Lea en de vader Jakob. Zebulon en Dina worden in deze tekst samen geboren."
+      }
+    },
+    {
+      "book": "jubileeen",
+      "chapter": 28,
+      "verse": 18,
+      "file": "28-bilha-zilpa-en-rachel.svg",
+      "scene": "Bilha, Zilpa en Rachel",
+      "alt": "Bilha, Zilpa en Rachel met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1091,
+      "source": "Jubileeën 28:18–25",
+      "design": {
+        "rows": [
+          [
+            "Bilha · 18",
+            "Eerste zoon wordt geboren; hier zonder naam."
+          ],
+          [
+            "Bilha · 19",
+            "Nafthali; maand 7, dag 5; jaar 2 van jaarweek 4."
+          ],
+          [
+            "Zilpa · 20–21",
+            "Gad: maand 8, dag 12, jaar 3; Aser: maand 11, dag 2, jaar 5; jaarweek 4."
+          ],
+          [
+            "Rachel · 24–25",
+            "Vruchtbaar geworden; Jozefs geboorte leidt het verzoek tot vertrek in."
+          ]
+        ],
+        "note": "De naam Dan staat niet bij de eerste Bilha-zoon in de plaatselijke tekst en wordt hier niet stilzwijgend toegevoegd."
+      }
+    },
+    {
+      "book": "jubileeen",
+      "chapter": 29,
+      "verse": 5,
+      "file": "29-data-route-en-geschenken.svg",
+      "scene": "Data, route en geschenken",
+      "alt": "Data, route en geschenken met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1177,
+      "source": "Jubileeën 29:5–20",
+      "design": {
+        "rows": [
+          [
+            "Gilead · 5–8",
+            "Vertrek maand 1, dag 21; ingehaald maand 3, dag 13; eed en maaltijd op de vijftiende."
+          ],
+          [
+            "Jabbok en Jordaan · 13–14",
+            "Jabbok: maand 9, dag 11; Jordaan: jaar 1 van jaarweek 5."
+          ],
+          [
+            "Izak en Rebekka · 15–17",
+            "Kleding en voedsel voor vader; vier keer per jaar voor moeder; zij wonen bij Abrahams toren."
+          ],
+          [
+            "Ezau · 18–20",
+            "Mahalath, dochter van Ismaël; vertrekt naar Seïr; Izak bij Hebron."
+          ]
+        ],
+        "note": "De volgorde is een routeoverzicht; bij de vijftiende wordt geen ongenoemde maand of extra reisduur ingevuld."
+      }
+    },
+    {
+      "book": "jubileeen",
+      "chapter": 29,
+      "verse": 9,
+      "file": "29-refaieten-en-koningssteden.svg",
+      "scene": "Refaïeten en koningssteden",
+      "alt": "Refaïeten en koningssteden met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1091,
+      "source": "Jubileeën 29:9–11",
+      "design": {
+        "rows": [
+          [
+            "Land",
+            "Gilead werd eerder land van de Refaïeten genoemd."
+          ],
+          [
+            "Grenzen",
+            "Van het land van de Ammonieten tot de berg Hermon."
+          ],
+          [
+            "Koninklijke steden",
+            "Karnaïm · Astharoth · Edreï · Misur · Beon."
+          ],
+          [
+            "Het oordeel",
+            "Vernietigd vanwege slechte daden en zware onderdrukking."
+          ]
+        ],
+        "note": "De vijf stadnamen volgen deze lijst; het schema plaatst ze niet op onbevestigde moderne locaties."
+      }
+    },
+    {
+      "book": "jubileeen",
+      "chapter": 30,
+      "verse": 1,
+      "file": "30-dina-geweld-en-reacties.svg",
+      "scene": "Dina, geweld en reacties",
+      "alt": "Dina, geweld en reacties met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1177,
+      "source": "Jubileeën 30:1–26",
+      "design": {
+        "rows": [
+          [
+            "Het begin · 1–3",
+            "Salem bij Sichem; Dina ontvoerd en onteerd door Sichem, zoon van Hemor; huwelijksvraag."
+          ],
+          [
+            "Simeon en Levi · 4–6",
+            "Geweld tegen de mannen van de stad; de verteller duidt dit als gericht."
+          ],
+          [
+            "Wet en registratie · 7–23",
+            "Huwelijksverbod, Levietenkeuze en hemelse beoordeling volgens deze rede."
+          ],
+          [
+            "De afloop · 24–26",
+            "Dina terug; buit meegenomen; Jakob spreekt zijn zonen aan uit vrees; steden blijven bang."
+          ]
+        ],
+        "note": "Dina’s ontering en de doding worden zakelijk benoemd. De beelden tonen terugkeer en dienst, zonder het geweld uit te beelden."
+      }
+    },
+    {
+      "book": "jubileeen",
+      "chapter": 30,
+      "verse": 18,
+      "file": "30-twee-registers-van-het-verbond.svg",
+      "scene": "Twee registers van het verbond",
+      "alt": "Twee registers van het verbond met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1177,
+      "source": "Jubileeën 30:18–23",
+      "design": {
+        "rows": [
+          [
+            "Levi · 18–19",
+            "Priesterschap en levietendienst; zegen en gerechtigheid als getuigenis."
+          ],
+          [
+            "Vriend · 20–21",
+            "Gerechtigheid onthouden; opgeschreven als vriend en rechtvaardige."
+          ],
+          [
+            "Vijand · 22",
+            "Bij overtreding uit boek van leven geschrapt; bij wie vernietigd worden geschreven."
+          ],
+          [
+            "Duiding · 23",
+            "De rede waardeert de wraak als oprecht; Jakobs angst staat daarnaast in vers 25."
+          ]
+        ],
+        "note": "De uitleg onderscheidt de hemelse waardering in de rede en Jakobs eigen reactie, zonder die gelijk te trekken."
+      }
+    }
+  ]
+}
