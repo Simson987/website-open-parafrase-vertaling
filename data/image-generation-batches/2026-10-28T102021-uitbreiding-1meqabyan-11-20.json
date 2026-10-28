@@ -1,0 +1,375 @@
+{
+  "date": "2026-10-28",
+  "started": "2026-10-28T10:20:21Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "1meqabyan",
+      "chapter": 13,
+      "verse": 24,
+      "file": "13-24-manna-in-de-woestijn-verdieping.webp",
+      "scene": "Manna in de woestijn",
+      "alt": "Manna in de woestijn — 1 Meqabyan 13:24; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic narrative illustration for 1 Meqabyan, ancient Near East, landscape 3:2, natural stone, timber and linen, fully covering opaque modest robes, correct two arms per human and natural hands. No readable writing, modern objects, divine portrait, blood, violence, dead bodies or injuries. An ancient Israelite family in fully covering plain robes gathering small pale manna flakes from the ground into simple woven baskets near tents in a rocky desert, an older woman kneeling and a man bending safely, early morning light. A recalled example in 1 Meqabyan 13:24 of being fed forty years; no modern bread or miracle person in sky.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "1meqabyan",
+      "chapter": 14,
+      "verse": 2,
+      "file": "14-2-bewaring-in-de-ark-verdieping.webp",
+      "scene": "Bewaring in de ark",
+      "alt": "Bewaring in de ark — 1 Meqabyan 14:2; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic narrative illustration for 1 Meqabyan, ancient Near East, landscape 3:2, natural stone, timber and linen, fully covering opaque modest robes, correct two arms per human and natural hands. No readable writing, modern objects, divine portrait, blood, violence, dead bodies or injuries. A huge plain ancient wooden ark floating steadily on calm floodwater with distant mountain peaks and cloud breaks; no people visible, no drowning, corpses or destruction, no rainbow since this verse recalls preservation in ark not rainbow. 1 Meqabyan 14:2 surviving passengers of Noahs ark.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "1meqabyan",
+      "chapter": 15,
+      "verse": 2,
+      "file": "15-2-boden-eisen-schatting-verdieping.webp",
+      "scene": "Boden eisen schatting",
+      "alt": "Boden eisen schatting — 1 Meqabyan 15:2; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic narrative illustration for 1 Meqabyan, ancient Near East, landscape 3:2, natural stone, timber and linen, fully covering opaque modest robes, correct two arms per human and natural hands. No readable writing, modern objects, divine portrait, blood, violence, dead bodies or injuries. Two adult messengers of a foreign ancient king standing just outside an Israelite village gate speaking sternly to a few elders who listen worriedly, a distant camp by a river ford. All clothed, no fighting, chains, prisoners or children in danger. 1 Meqabyan 15:2 demand for monetary tribute before invasion, distinct from the kings camp or the brothers decision.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "1meqabyan",
+      "chapter": 11,
+      "verse": 1,
+      "file": "11-plaatsen-lamp-en-wijnstok.svg",
+      "scene": "Plaatsen, lamp en wijnstok",
+      "alt": "Plaatsen, lamp en wijnstok met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1091,
+      "source": "1 Meqabyan 11:1–8",
+      "design": {
+        "rows": [
+          [
+            "Plaatsen · 1–2",
+            "Hermon, Zebulon, Edomia, Tyrus, Sidon en dochters van Juda in de aanklacht."
+          ],
+          [
+            "Jeruzalem · 3–5",
+            "Bij opstanding komt schande aan licht; lamp van Gods wijsheid."
+          ],
+          [
+            "Wijnstok · 6–7",
+            "Sodom en Gomorra; bittere trossen als beeld van daden."
+          ],
+          [
+            "Wijn · 8",
+            "Vergif van draak en adder als vergelijking."
+          ]
+        ],
+        "note": "De wijnstok en lamp zijn beeldspraak in een aanklacht, geen verslag van een echte gifproductie."
+      }
+    },
+    {
+      "book": "1meqabyan",
+      "chapter": 12,
+      "verse": 1,
+      "file": "12-wijngaard-en-verbond.svg",
+      "scene": "Wijngaard en verbond",
+      "alt": "Wijngaard en verbond met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1091,
+      "source": "1 Meqabyan 12:1–44",
+      "design": {
+        "rows": [
+          [
+            "Wijngaard · 1–11",
+            "Sodom en Gomorra als vergelijking; regen van hoogmoed; vrucht van onrecht."
+          ],
+          [
+            "Afgodendienst · 10–23",
+            "Baäl en Dagon; offers, wijn en wierook; dochter van Jeruzalem aangesproken."
+          ],
+          [
+            "Verbroken woord · 24–40",
+            "Verwijt van ontrouw, hebzucht en onderdrukking; oordeel aangekondigd."
+          ],
+          [
+            "Slot · 41–44",
+            "Onrechtvaardigen treuren; wie woord houdt ontvangt zegen en rust."
+          ]
+        ],
+        "note": "Dochter van Jeruzalem is de aangesproken gemeenschap. De wijngaardbeelden zijn geen portret van één vrouw."
+      }
+    },
+    {
+      "book": "1meqabyan",
+      "chapter": 13,
+      "verse": 1,
+      "file": "13-trots-tekenen-en-herinnering.svg",
+      "scene": "Trots, tekenen en herinnering",
+      "alt": "Trots, tekenen en herinnering met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1177,
+      "source": "1 Meqabyan 13:1–26",
+      "design": {
+        "rows": [
+          [
+            "Trotse tegenstander · 1–10",
+            "Zoon van verderf, beelden en onrecht; verduisterde zon, maan en vallende sterren."
+          ],
+          [
+            "Morgenster · 11–18",
+            "Verhoging boven hemel en sterren; vernedering wegens hoogmoed; bescherming van wees en weduwe."
+          ],
+          [
+            "Israël · 19–20",
+            "Horeb, Massa, Sinaï, Amalek en verspieders; angst voor sterke muren."
+          ],
+          [
+            "Zorg · 21–26",
+            "Wolk en vuurkolom, engel bij zee en 40 jaar manna; toch verzet."
+          ]
+        ],
+        "note": "Voorspelling, morgensterbeeld en herinnering aan de uittocht zijn afzonderlijke delen van de rede."
+      }
+    },
+    {
+      "book": "1meqabyan",
+      "chapter": 13,
+      "verse": 3,
+      "file": "13-genoemde-gebieden.svg",
+      "scene": "Genoemde gebieden",
+      "alt": "Genoemde gebieden met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1048,
+      "source": "1 Meqabyan 13:1–3,19–24",
+      "design": {
+        "rows": [
+          [
+            "Begin · 1",
+            "Tyrus, Sidon en streken van Juda."
+          ],
+          [
+            "Reeks · 3",
+            "Kafarnaüm, Samaria, Galilea, Syrië, Damascus, Cyprus, Achaje, Jordaanstreek."
+          ],
+          [
+            "Herinnering · 19",
+            "Horeb, Massa, Sinaï en Amalek."
+          ],
+          [
+            "Uittocht · 20–24",
+            "Erfdeel, Egypte, zee en Sinaï in terugblik."
+          ]
+        ],
+        "note": "Deze reeksen zijn tekstverbanden en geen aaneengesloten reisroute. Sablanjos blijft de naam uit vers 3."
+      }
+    },
+    {
+      "book": "1meqabyan",
+      "chapter": 14,
+      "verse": 1,
+      "file": "14-verbond-gebod-en-kalf.svg",
+      "scene": "Verbond, gebod en kalf",
+      "alt": "Verbond, gebod en kalf met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1177,
+      "source": "1 Meqabyan 14:1–23",
+      "design": {
+        "rows": [
+          [
+            "Vloed · 1–3",
+            "Ark en verbond met Noach; geen tweede watervloed; voedsel, regen en goede levenswandel."
+          ],
+          [
+            "Geboden · 4–10",
+            "God en naaste liefhebben; geen afgoden, overspel, moord, diefstal, leugen of begeerte."
+          ],
+          [
+            "Kalf · 11–17",
+            "Horeb; Mozes en Jozua dalen af; gejoel om wijn; beeld vermalen in bron."
+          ],
+          [
+            "Erfenis en hoop · 18–23",
+            "Land melk en honing; tuin van vreugde; nieuwe onderdrukking na ontrouw."
+          ]
+        ],
+        "note": "Deze vertelling zegt dat het beeld in een bron wordt geworpen. De bron wordt niet stilzwijgend een andere waterplaats."
+      }
+    },
+    {
+      "book": "1meqabyan",
+      "chapter": 15,
+      "verse": 1,
+      "file": "15-akrandas-en-drie-broers.svg",
+      "scene": "Akrandas en drie broers",
+      "alt": "Akrandas en drie broers met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1098,
+      "source": "1 Meqabyan 15:1–18",
+      "design": {
+        "rows": [
+          [
+            "Dreiging · 1–7",
+            "Akrandas van Midjan; leger uit Syrië, Cilicië en Damascus; Jordaan; schatting geëist."
+          ],
+          [
+            "Broers · 8–11",
+            "Mabkyus, Maqabyus, Juda; horen rouw en besluiten tot bevrijding."
+          ],
+          [
+            "Strijd · 12–16",
+            "Middagmaaltijd; koning gedood; vlucht over Jordaan; buit voor Israël."
+          ],
+          [
+            "Daarna · 17–18",
+            "Korte trouw gevolgd door nieuw kwaad en geroofde oogsten en kudden."
+          ]
+        ],
+        "note": "Deze drie broers hebben andere namen dan Abya, Sela en Fentos uit hoofdstuk 3."
+      }
+    },
+    {
+      "book": "1meqabyan",
+      "chapter": 16,
+      "verse": 1,
+      "file": "16-volken-en-verantwoording.svg",
+      "scene": "Volken en verantwoording",
+      "alt": "Volken en verantwoording met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1220,
+      "source": "1 Meqabyan 16:1–9",
+      "design": {
+        "rows": [
+          [
+            "Eerste reeks · 1–2",
+            "Tyrus, Sidon, overkant Jordaan, Gilead, Karan, Kanaänieten, Jebusieten, Girgasieten, Edom, Amalek."
+          ],
+          [
+            "Onderscheid · 3–5",
+            "Sommigen leven goed en kennen God; anderen niet; Ameneser, koning van Syrië genoemd."
+          ],
+          [
+            "Tweede reeks · 6–8",
+            "Gilead, Gelabuhe, Samaria, Patos, Arabië, Medië, Partus, Siwsigya, Kappadocië."
+          ],
+          [
+            "Tegen stad · 9",
+            "Cesarea, Gilead en Amalek; hemelse dienst als slotbeeld."
+          ]
+        ],
+        "note": "De plaatselijke namen zijn ongewijzigd; de tekst noemt binnen de volken zowel goede als kwade levenswandel."
+      }
+    },
+    {
+      "book": "1meqabyan",
+      "chapter": 17,
+      "verse": 1,
+      "file": "17-twee-wegen-van-gedrag.svg",
+      "scene": "Twee wegen van gedrag",
+      "alt": "Twee wegen van gedrag met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "1 Meqabyan 17:1–8",
+      "design": {
+        "rows": [
+          [
+            "Kwade weg · 1–5",
+            "Edom en Amalek als voorbeeld; roof, hebzucht, bedrog, onrecht en geweld."
+          ],
+          [
+            "Goede weg · 6",
+            "Nederigheid, zachtmoedigheid, naastenliefde, broederliefde en vrede."
+          ],
+          [
+            "Praktijk · 7",
+            "Niemand voortrekken; geen onderdrukking, geweld of bedrog."
+          ],
+          [
+            "Waarschuwing · 8",
+            "Ruzie en verleiding voeren naar oordeel."
+          ]
+        ],
+        "note": "Sebelyanos in vers 3 en Seblanyos in vers 5 zijn de twee plaatselijke schrijfwijzen."
+      }
+    },
+    {
+      "book": "1meqabyan",
+      "chapter": 18,
+      "verse": 1,
+      "file": "18-reuzen-dagen-en-onderwijs.svg",
+      "scene": "Reuzen, dagen en onderwijs",
+      "alt": "Reuzen, dagen en onderwijs met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1134,
+      "source": "1 Meqabyan 18:1–12",
+      "design": {
+        "rows": [
+          [
+            "Rekenschap · 1",
+            "Ieder verschijnt voor wat hij gedaan heeft."
+          ],
+          [
+            "Engelen en reuzen · 2–6",
+            "Trots, overtreding en oordeel; kracht geeft geen vrijstelling."
+          ],
+          [
+            "Kortere dagen · 7–9",
+            "Oorspronkelijk jaartal afgebroken; tekst verbindt verkorting aan overtreding."
+          ],
+          [
+            "Vaderen · 10–12",
+            "Goede levenswandel en onderwijs aan zonen én dochters."
+          ]
+        ],
+        "note": "Het ontbrekende jaartal in vers 7 blijft open. De levensduurverklaring is de uitleg van deze tekst."
+      }
+    },
+    {
+      "book": "1meqabyan",
+      "chapter": 19,
+      "verse": 1,
+      "file": "19-verleiding-en-overdracht.svg",
+      "scene": "Verleiding en overdracht",
+      "alt": "Verleiding en overdracht met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1177,
+      "source": "1 Meqabyan 19:1–17",
+      "design": {
+        "rows": [
+          [
+            "Kaïns huis · 1–5",
+            "Lier, trom, fluit, luit; vrouw van Abel; dal Kefaz richting Arabië; engelen en dochters."
+          ],
+          [
+            "Adam en Eva · 6–10",
+            "Verleiding door belofte als goden te worden; hoogmoed en kortere dagen."
+          ],
+          [
+            "Onderwijs · 11–15",
+            "Goed doen én het aan kinderen vertellen; volgende generatie leert opnieuw."
+          ],
+          [
+            "Barmhartigheid · 16–17",
+            "Gebed gehoord; toorn niet volledig ontbrand."
+          ]
+        ],
+        "note": "De aangehaalde familiegeschiedenis wordt weergegeven zoals dit hoofdstuk haar vertelt; ontbrekende eigennamen worden niet toegevoegd."
+      }
+    }
+  ]
+}
