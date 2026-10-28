@@ -1,0 +1,319 @@
+{
+  "date": "2026-10-28",
+  "resumed": "2026-10-28T07:08:34Z",
+  "started": "2026-10-26T12:19:19Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "henoch",
+      "chapter": 33,
+      "verse": 2,
+      "file": "33-2-open-poorten-oosten-verdieping.webp",
+      "scene": "Visioen: de open oostelijke hemelpoorten",
+      "alt": "Visioen: de open oostelijke hemelpoorten — Henoch 33:2; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: poetic-symbolic. Photorealistic illustration of an explicitly apocalyptic vision in the Book of Enoch, ancient Near Eastern robes and materials, landscape 3:2, modest opaque clothes and coherent human anatomy with two arms and natural hands. No modern objects, readable text, human portrait of God, blood, injury or corpses. At the visionary eastern edge of the earth, a vast luminous arch-like opening in the meeting of sky and rocky horizon reveals stars emerging in an orderly procession into the dark blue sky. An elderly robed Enoch and an adult white-robed guide stand on a distant ledge looking up, no modern observatory or satellite and no readable astronomical chart. Enoch 33:2–3, the open heavenly gates themselves, distinct from writing the observations at a table. Do not invent a fixed number of gates for this chapter.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "henoch",
+      "chapter": 39,
+      "verse": 2,
+      "file": "39-2-boeken-ontvangen-verdieping.webp",
+      "scene": "Visioenverhaal: Henoch ontvangt boeken",
+      "alt": "Visioenverhaal: Henoch ontvangt boeken — Henoch 39:2; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: poetic-symbolic. Photorealistic illustration of an explicitly apocalyptic vision in the Book of Enoch, ancient Near Eastern robes and materials, landscape 3:2, modest opaque clothes and coherent human anatomy with two arms and natural hands. No modern objects, readable text, human portrait of God, blood, injury or corpses. An elderly adult Enoch in a brown opaque robe stands in solemn cloudy light holding several newly received ancient bound manuscript books with plain dark covers and no readable titles. He regards them gravely, both hands visible and natural, no modern printed paper, no extra limbs. A restrained illustration of receiving books of zeal, wrath, unrest and expulsion in Enoch 39:2. No deity or invented named donor, distinct from later worship and cloud transport.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "henoch",
+      "chapter": 32,
+      "verse": 1,
+      "file": "32-geuren-tuin-en-wijsheid.svg",
+      "scene": "Geuren, tuin en wijsheid",
+      "alt": "Geuren, tuin en wijsheid met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1028,
+      "source": "Henoch 32:1–6",
+      "design": {
+        "rows": [
+          [
+            "De reis · 1–2",
+            "Zeven geurende bergen, ver naar het oosten over de Rode Zee en voorbij Zutiël."
+          ],
+          [
+            "De tuin · 3–5",
+            "Tuin van gerechtigheid met de boom van wijsheid; als johannesbroodboom, vrucht als druiventrossen."
+          ],
+          [
+            "Rafaëls uitleg · 6",
+            "De vroegere vader en moeder aten, kenden wijsheid, zagen hun naaktheid en werden verdreven."
+          ]
+        ],
+        "note": "De boom wordt met twee verschillende planten vergeleken; de passage noemt hem niet eenvoudig een druivenrank."
+      }
+    },
+    {
+      "book": "henoch",
+      "chapter": 33,
+      "verse": 1,
+      "file": "33-waarnemen-tellen-en-schrijven.svg",
+      "scene": "Waarnemen, tellen en schrijven",
+      "alt": "Waarnemen, tellen en schrijven met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1091,
+      "source": "Henoch 33:1–4",
+      "design": {
+        "rows": [
+          [
+            "Verscheidenheid · 1",
+            "Dieren en vogels verschillen in gedaante, schoonheid en stem."
+          ],
+          [
+            "De poorten · 2–3",
+            "Oostelijk uiteinde en geopende hemelpoorten waaruit sterren komen."
+          ],
+          [
+            "Henochs registratie · 3",
+            "Uitgangen, getal, namen, volgorde, standplaatsen, tijden en maanden."
+          ],
+          [
+            "Uriëls onderwijs · 3–4",
+            "Toont en schrijft namen, voorschriften en taken op."
+          ]
+        ],
+        "note": "Het hoofdstuk noemt wel het tellen, maar geeft hier geen compleet aantal poorten of sterrennamen."
+      }
+    },
+    {
+      "book": "henoch",
+      "chapter": 34,
+      "verse": 1,
+      "file": "34-drie-noordelijke-poorten.svg",
+      "scene": "Drie noordelijke poorten",
+      "alt": "Drie noordelijke poorten met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1012,
+      "source": "Henoch 34:1–3",
+      "design": {
+        "rows": [
+          [
+            "De richting · 1–2",
+            "Noorden, aan de einden van de aarde; drie geopende hemelpoorten."
+          ],
+          [
+            "De verschijnselen · 2",
+            "Kou, hagel, vorst, sneeuw, dauw en regen."
+          ],
+          [
+            "Eén poort · 3",
+            "De wind gaat ten goede uit."
+          ],
+          [
+            "Twee poorten · 3",
+            "Geweldige wind met verval over de aarde."
+          ]
+        ],
+        "note": "De verdeling is één tegenover twee; welke afzonderlijke poort dat is wordt niet genoemd."
+      }
+    },
+    {
+      "book": "henoch",
+      "chapter": 36,
+      "verse": 1,
+      "file": "36-zuid-oost-en-lof.svg",
+      "scene": "Zuid, oost en lof",
+      "alt": "Zuid, oost en lof met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1091,
+      "source": "Henoch 36:1–4",
+      "design": {
+        "rows": [
+          [
+            "Zuiden · 1",
+            "Drie poorten; zuidenwind, dauw en regen."
+          ],
+          [
+            "Oosten · 2",
+            "Drie poorten, met kleine poorten daarboven."
+          ],
+          [
+            "Sterren · 3",
+            "Gaan door de kleine poorten over hun aangewezen weg naar het westen."
+          ],
+          [
+            "De reactie · 4",
+            "Henoch prijst Gods werk, opdat engelen en mensen de Schepper loven."
+          ]
+        ],
+        "note": "De hemelpoorten zijn onderdeel van het visioen; dit schema is geen modern model van de atmosfeer."
+      }
+    },
+    {
+      "book": "henoch",
+      "chapter": 37,
+      "verse": 1,
+      "file": "37-wijsheid-voor-generaties.svg",
+      "scene": "Wijsheid voor generaties",
+      "alt": "Wijsheid voor generaties met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1091,
+      "source": "Henoch 37:1–5",
+      "design": {
+        "rows": [
+          [
+            "Het kader · 1",
+            "Een tweede visioen van wijsheid, gezien door Henoch."
+          ],
+          [
+            "De hoorders · 2–3",
+            "Wie vroeger waren en wie later komen; de wijsheid wordt niet onthouden."
+          ],
+          [
+            "De gave · 4",
+            "Ontvangen naar de wil van de Heere van de geesten."
+          ],
+          [
+            "De vorm · 5",
+            "Drie gelijkenissen worden voor de aardbewoners uitgesproken."
+          ]
+        ],
+        "note": "Dit is de aanhef van de drie gelijkenissen; hun volledige inhoud staat niet al in dit korte hoofdstuk."
+      }
+    },
+    {
+      "book": "henoch",
+      "chapter": 38,
+      "verse": 1,
+      "file": "38-licht-en-verlies-van-macht.svg",
+      "scene": "Licht en verlies van macht",
+      "alt": "Licht en verlies van macht met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1177,
+      "source": "Henoch 38:1–6",
+      "design": {
+        "rows": [
+          [
+            "De verschijning · 1–2",
+            "Rechtvaardigen komen bijeen; de Rechtvaardige verschijnt en licht komt voor de uitverkorenen."
+          ],
+          [
+            "De onthulling · 3",
+            "Verborgen dingen worden bekend; zondaars geoordeeld en goddelozen verdreven."
+          ],
+          [
+            "De machtsomkeer · 4–5",
+            "Aardse bezitters en machtige koningen verliezen hun verheven positie."
+          ],
+          [
+            "De grens · 6",
+            "Hun leven eindigt; zij zoeken niet meer voor zichzelf ontferming."
+          ]
+        ],
+        "note": "De eerste gelijkenis spreekt in een toekomstig oordeelsbeeld; het is geen gedateerde troonswisseling."
+      }
+    },
+    {
+      "book": "henoch",
+      "chapter": 39,
+      "verse": 1,
+      "file": "39-boeken-woningen-en-lof.svg",
+      "scene": "Boeken, woningen en lof",
+      "alt": "Boeken, woningen en lof met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1177,
+      "source": "Henoch 39:1–14",
+      "design": {
+        "rows": [
+          [
+            "De opening · 1–3",
+            "Heilige kinderen, ontvangen boeken en transport door wolk en wervelwind."
+          ],
+          [
+            "De woningen · 4–8",
+            "Rechtvaardigen bij engelen; voorbede, gerechtigheid als water en ontferming als dauw."
+          ],
+          [
+            "Henochs lof · 9–11",
+            "Verlangt daar te wonen en prijst de alwetende Heere."
+          ],
+          [
+            "Wie niet sluimeren · 12–14",
+            "Onophoudelijke zegen en heiligverklaring; Henoch kan ten slotte niet meer zien."
+          ]
+        ],
+        "note": "Water, dauw en vleugels beschrijven gerechtigheid, ontferming en bescherming in de beeldtaal van dit visioen."
+      }
+    },
+    {
+      "book": "henoch",
+      "chapter": 40,
+      "verse": 1,
+      "file": "40-vier-stemmen-en-namen.svg",
+      "scene": "Vier stemmen en namen",
+      "alt": "Vier stemmen en namen met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1141,
+      "source": "Henoch 40:1–9",
+      "design": {
+        "rows": [
+          [
+            "Eerste · Michaël",
+            "Barmhartig en geduldig; de eerste stem zegent de Heere van de geesten."
+          ],
+          [
+            "Tweede · Rafaël",
+            "Aangesteld over ziekten en wonden; de tweede stem zegent de Uitverkorene en de uitverkorenen."
+          ],
+          [
+            "Derde · Gabriël",
+            "Aangesteld over alle machten; de derde stem pleit voor aardbewoners."
+          ],
+          [
+            "Vierde · Fanuël",
+            "Aangesteld over bekering tot hoop; de vierde stem weert de satans en hun aanklacht af."
+          ]
+        ],
+        "note": "Namen en taken volgen deze passage. Fanuël wordt niet vervangen door een naam uit Henoch 20."
+      }
+    },
+    {
+      "book": "henoch",
+      "chapter": 37,
+      "verse": 1,
+      "file": "37-henochs-voorouders.svg",
+      "scene": "Henochs voorouders",
+      "alt": "Henochs voorouders — Henoch 37:1",
+      "kind": "diagram",
+      "width": 840,
+      "height": 848,
+      "source": "Henoch 37:1",
+      "design": {
+        "type": "vertical named sequence",
+        "names": [
+          "Adam",
+          "Set",
+          "Enos",
+          "Kenan",
+          "Mahalaleël",
+          "Jared",
+          "Henoch"
+        ],
+        "note": "Elke pijl loopt van vader naar zoon; omgekeerd gelezen is dit de zoon-van-reeks uit vers 1."
+      }
+    }
+  ]
+}
