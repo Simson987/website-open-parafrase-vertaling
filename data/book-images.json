@@ -63222,19 +63222,61 @@
         "chapter": 1,
         "file": "1-song.webp",
         "alt": "Drie vrienden zingen samen in de oven",
-        "scene": "Het gezang van de drie"
+        "scene": "Het gezang van de drie",
+        "verse": 51,
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 1,
         "file": "1-praise.webp",
         "alt": "De vrienden heffen hun handen in lofprijzing",
-        "scene": "Lofprijzing"
+        "scene": "Lofprijzing",
+        "verse": 51,
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 1,
         "file": "1-sky.webp",
         "alt": "De vrienden zien vanuit de oven de hemel",
-        "scene": "Heel de schepping looft"
+        "scene": "Heel de schepping looft",
+        "verse": 57,
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 1,
+        "verse": 72,
+        "file": "1-72-ijs-en-sneeuw-verdieping.webp",
+        "scene": "Beeldspraak: ijs en sneeuw loven",
+        "alt": "Beeldspraak: ijs en sneeuw loven — Gezang in de vuuroven 1:72; tekstillustratie.",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 1,
+        "verse": 80,
+        "file": "1-80-vogels-hemel-verdieping.webp",
+        "scene": "Beeldspraak: vogels van de hemel loven",
+        "alt": "Beeldspraak: vogels van de hemel loven — Gezang in de vuuroven 1:80; tekstillustratie.",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 1,
+        "verse": 57,
+        "file": "1-kring-van-lof.svg",
+        "scene": "De kring van lof",
+        "alt": "De kring van lof met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1220
       }
     ],
     "susanna": [

@@ -1,0 +1,66 @@
+{
+  "date": "2026-10-26",
+  "started": "2026-10-26T12:19:19Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "gezangindevuuroven",
+      "chapter": 1,
+      "verse": 72,
+      "file": "1-72-ijs-en-sneeuw-verdieping.webp",
+      "scene": "Beeldspraak: ijs en sneeuw loven",
+      "alt": "Beeldspraak: ijs en sneeuw loven — Gezang in de vuuroven 1:72; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: photorealistic-natural. Nature photography illustrating the poetic invitations in the Song in the Furnace, landscape 3:2, natural accurate forms, no people, writing, divine human face or modern objects. A tranquil winter mountain lake with clear ice at the edge, white snow on rocks and distant mountain peaks, pale early morning sky, accurate snow and ice textures. A poetic nature illustration of the invitation to ice and snow to praise in verse 72; no anthropomorphic faces, musical notes, people or literal speaking landscape.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "gezangindevuuroven",
+      "chapter": 1,
+      "verse": 80,
+      "file": "1-80-vogels-hemel-verdieping.webp",
+      "scene": "Beeldspraak: vogels van de hemel loven",
+      "alt": "Beeldspraak: vogels van de hemel loven — Gezang in de vuuroven 1:80; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: photorealistic-natural. Nature photography illustrating the poetic invitations in the Song in the Furnace, landscape 3:2, natural accurate forms, no people, writing, divine human face or modern objects. Several small wild birds fly across a natural bright sky above an ancient Mediterranean wetland, one graceful heron glides low above reeds while a few smaller birds remain distant. Accurate wings and feet, no extra limbs, natural scale and no domestic cages. A poetic illustration of the invitation to all birds in verse 80, not a literal choir or a named historical event.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "gezangindevuuroven",
+      "chapter": 1,
+      "verse": 57,
+      "file": "1-kring-van-lof.svg",
+      "scene": "De kring van lof",
+      "alt": "De kring van lof met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1220,
+      "source": "Gezang in de vuuroven 1:51–90",
+      "design": {
+        "rows": [
+          [
+            "De drie · 51–56",
+            "Eén stem van lof tot de God van de vaderen, in tempel en hemel."
+          ],
+          [
+            "Hemel en weer · 57–73",
+            "Werken, engelen, hemel, water, lichtdragers, regen, wind, hitte, kou, ijs en wolken."
+          ],
+          [
+            "Aarde en leven · 74–81",
+            "Bergen, planten, bronnen, zeeën, rivieren, waterdieren, vogels, wilde dieren en vee."
+          ],
+          [
+            "Mensen en dank · 82–90",
+            "Mensen, Israël, priesters, dienaren, rechtvaardigen, nederigen en de drie geredden."
+          ]
+        ],
+        "note": "Ananias, Azaria en Misaël worden in vers 88 genoemd. De schepping wordt poëtisch tot lof uitgenodigd."
+      }
+    }
+  ]
+}
