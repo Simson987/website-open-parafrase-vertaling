@@ -64522,7 +64522,11 @@
         "chapter": 3,
         "file": "3-treasury.webp",
         "alt": "Priesters bewaken de tempelschatten",
-        "scene": "De tempelschat"
+        "scene": "De tempelschat",
+        "verse": 6,
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 8,
@@ -64541,56 +64545,80 @@
         "verse": 1,
         "file": "1-1.webp",
         "alt": "Beeld bij 2makkabeeen 1: Een groet aan de Joden in Egypte",
-        "scene": "Een groet aan de Joden in Egypte"
+        "scene": "Een groet aan de Joden in Egypte",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 1,
         "verse": 19,
         "file": "1-19.webp",
         "alt": "Beeld bij 2makkabeeen 1: Het vuur veilig verborgen",
-        "scene": "Het vuur veilig verborgen"
+        "scene": "Het vuur veilig verborgen",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 1,
         "verse": 23,
         "file": "1-23.webp",
         "alt": "Beeld bij 2makkabeeen 1: Gebed bij het altaarvuur",
-        "scene": "Gebed bij het altaarvuur"
+        "scene": "Gebed bij het altaarvuur",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 2,
         "verse": 2,
         "file": "2-2.webp",
         "alt": "Beeld bij 2makkabeeen 2: Jeremia geeft de wet mee",
-        "scene": "Jeremia geeft de wet mee"
+        "scene": "Jeremia geeft de wet mee",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 2,
         "verse": 5,
         "file": "2-5.webp",
         "alt": "Beeld bij 2makkabeeen 2: De heilige voorwerpen verborgen",
-        "scene": "De heilige voorwerpen verborgen"
+        "scene": "De heilige voorwerpen verborgen",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 2,
         "verse": 13,
         "file": "2-13.webp",
         "alt": "Beeld bij 2makkabeeen 2: De bibliotheek van Nehemia",
-        "scene": "De bibliotheek van Nehemia"
+        "scene": "De bibliotheek van Nehemia",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 3,
         "verse": 10,
         "file": "3-10.webp",
         "alt": "Beeld bij 2makkabeeen 3: Onias beschermt de toevertrouwde gelden",
-        "scene": "Onias beschermt de toevertrouwde gelden"
+        "scene": "Onias beschermt de toevertrouwde gelden",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 3,
         "verse": 35,
         "file": "3-35.webp",
         "alt": "Beeld bij 2makkabeeen 3: Heliodorus neemt afscheid",
-        "scene": "Heliodorus neemt afscheid"
+        "scene": "Heliodorus neemt afscheid",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 4,
@@ -64829,6 +64857,106 @@
         "file": "15-21.webp",
         "alt": "Beeld bij 2makkabeeen 15: Judas heft zijn handen op",
         "scene": "Judas heft zijn handen op"
+      },
+      {
+        "chapter": 1,
+        "verse": 20,
+        "file": "1-20-dik-water-uit-put-verdieping.webp",
+        "scene": "Dik water uit de oude put",
+        "alt": "Dik water uit de oude put — 2 Makkabeeën 1:20; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 3,
+        "verse": 18,
+        "file": "3-18-gemeenschappelijk-gebed-verdieping.webp",
+        "scene": "De stad komt samen om te bidden",
+        "alt": "De stad komt samen om te bidden — 2 Makkabeeën 3:18; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 3,
+        "verse": 25,
+        "file": "3-25-verschijning-bij-schatkamer-verdieping.webp",
+        "scene": "De verschijning bij de schatkamer",
+        "alt": "De verschijning bij de schatkamer — 2 Makkabeeën 3:25; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 3,
+        "verse": 33,
+        "file": "3-33-woorden-na-voorbede-verdieping.webp",
+        "scene": "Woorden na de voorbede",
+        "alt": "Woorden na de voorbede — 2 Makkabeeën 3:33; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 1,
+        "verse": 1,
+        "file": "1-twee-brieven-en-feest.svg",
+        "scene": "Twee brieven en het feest",
+        "alt": "Twee brieven en het feest met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1141
+      },
+      {
+        "chapter": 1,
+        "verse": 19,
+        "file": "1-vuur-water-en-neftar.svg",
+        "scene": "Vuur, water en Neftar",
+        "alt": "Vuur, water en Neftar met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1055
+      },
+      {
+        "chapter": 2,
+        "verse": 1,
+        "file": "2-bewaren-en-verzamelen.svg",
+        "scene": "Bewaren en verzamelen",
+        "alt": "Bewaren en verzamelen met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1134
+      },
+      {
+        "chapter": 2,
+        "verse": 24,
+        "file": "2-vijf-boeken-een-samenvatting.svg",
+        "scene": "Vijf boeken, één samenvatting",
+        "alt": "Vijf boeken, één samenvatting met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1177
+      },
+      {
+        "chapter": 3,
+        "verse": 4,
+        "file": "3-melding-en-toevertrouwd-geld.svg",
+        "scene": "Melding en toevertrouwd geld",
+        "alt": "Melding en toevertrouwd geld met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1134
+      },
+      {
+        "chapter": 3,
+        "verse": 24,
+        "file": "3-van-angst-naar-getuigenis.svg",
+        "scene": "Van angst naar getuigenis",
+        "alt": "Van angst naar getuigenis met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1091
       }
     ],
     "3makkabeeen": [

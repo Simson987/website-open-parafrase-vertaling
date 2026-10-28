@@ -1,0 +1,256 @@
+{
+  "date": "2026-10-28",
+  "resumed": "2026-10-28T07:08:34Z",
+  "started": "2026-10-26T12:19:19Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "2makkabeeen",
+      "chapter": 1,
+      "verse": 20,
+      "file": "1-20-dik-water-uit-put-verdieping.webp",
+      "scene": "Dik water uit de oude put",
+      "alt": "Dik water uit de oude put — 2 Makkabeeën 1:20; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic biblical scene in ancient Jerusalem or Judea, landscape 3:2, plausible ancient materials, modest opaque clothes, coherent anatomy with exactly two arms per person and natural hands. No modern objects, readable writing, divine human figure, blood, wounds or dead bodies. Several adult Judean priests in modest linen robes stand beside an old dry stone cistern in rocky ground, carefully lifting a shallow clay vessel containing thick dark liquid, surprised to find liquid where sacred fire had been hidden many years before. A rope and simple clay jars, natural daylight, no flames, injury or modern drilling tools. The rediscovery reported in 2 Maccabees 1:20–21, distinct from the original hiding of fire.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2makkabeeen",
+      "chapter": 3,
+      "verse": 18,
+      "file": "3-18-gemeenschappelijk-gebed-verdieping.webp",
+      "scene": "De stad komt samen om te bidden",
+      "alt": "De stad komt samen om te bidden — 2 Makkabeeën 3:18; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic biblical scene in ancient Jerusalem or Judea, landscape 3:2, plausible ancient materials, modest opaque clothes, coherent anatomy with exactly two arms per person and natural hands. No modern objects, readable writing, divine human figure, blood, wounds or dead bodies. A broad ancient Jerusalem street fills with modestly clothed adult men and women praying together with hands naturally raised toward the sky. A few adults look down from stone windows, the temple courts are visible beyond; expressions show concern about entrusted property, not panic spectacle. Exactly two arms each, coherent hands, no military assault or modern signs. The communal prayer in 2 Maccabees 3:18–22, distinct from the treasurer’s discussion.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2makkabeeen",
+      "chapter": 3,
+      "verse": 25,
+      "file": "3-25-verschijning-bij-schatkamer-verdieping.webp",
+      "scene": "De verschijning bij de schatkamer",
+      "alt": "De verschijning bij de schatkamer — 2 Makkabeeën 3:25; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic biblical scene in ancient Jerusalem or Judea, landscape 3:2, plausible ancient materials, modest opaque clothes, coherent anatomy with exactly two arms per person and natural hands. No modern objects, readable writing, divine human figure, blood, wounds or dead bodies. At the entrance of an ancient temple treasury, an adult Hellenistic official Heliodorus in a modest tunic recoils in awe as a magnificent horse with an ornate cloth rears at a safe distance, carrying a solemn adult messenger in golden armor. Two radiant young adult male messengers in modest robes stand on either side of the scene. Coherent horse anatomy, one head and four legs, riders with two arms, no hooves touching a person, no whipping, wounds or blood. A reverent visualization of the supernatural appearance in 2 Maccabees 3:24–26, before any blows, no human God figure.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2makkabeeen",
+      "chapter": 3,
+      "verse": 33,
+      "file": "3-33-woorden-na-voorbede-verdieping.webp",
+      "scene": "Woorden na de voorbede",
+      "alt": "Woorden na de voorbede — 2 Makkabeeën 3:33; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic biblical scene in ancient Jerusalem or Judea, landscape 3:2, plausible ancient materials, modest opaque clothes, coherent anatomy with exactly two arms per person and natural hands. No modern objects, readable writing, divine human figure, blood, wounds or dead bodies. Heliodorus, an adult Hellenistic official in a simple opaque tunic, rests weakly but peacefully on a cushioned low bed in an ancient room. Two radiant young adult male messengers in matching modest white robes stand beside him and speak reassuringly, one makes a gentle open-hand gesture. No wounds, medical equipment or corpse. Exactly two arms each and coherent hands. The renewed appearance after Onias’ prayer in 2 Maccabees 3:31–34, a recovery scene distinct from the frightening arrival.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2makkabeeen",
+      "chapter": 1,
+      "verse": 1,
+      "file": "1-twee-brieven-en-feest.svg",
+      "scene": "Twee brieven en het feest",
+      "alt": "Twee brieven en het feest met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1141,
+      "source": "2 Makkabeeën 1:1–36",
+      "design": {
+        "rows": [
+          [
+            "De eerste brief · 1–9",
+            "Groet aan de Joden in Egypte, gebed, herinnerde nood en uitnodiging tot het feest."
+          ],
+          [
+            "De tweede aanhef · 10–18",
+            "Judas en de raad groeten Aristobulus en de andere Joden; redding en reiniging worden herinnerd."
+          ],
+          [
+            "Het oude vuur · 19–22",
+            "Vuur verborgen, later dik water gevonden en opnieuw vuur bij het offer."
+          ],
+          [
+            "Gebed en herinnering · 23–36",
+            "Jonathan begint de voorbede; de plaats wordt onderzocht en Neftar genoemd."
+          ]
+        ],
+        "note": "Het hoofdstuk bevat brieven met terugblikken; de beschreven tijden zijn niet één doorlopende dag."
+      }
+    },
+    {
+      "book": "2makkabeeen",
+      "chapter": 1,
+      "verse": 19,
+      "file": "1-vuur-water-en-neftar.svg",
+      "scene": "Vuur, water en Neftar",
+      "alt": "Vuur, water en Neftar met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "2 Makkabeeën 1:19–36",
+      "design": {
+        "rows": [
+          [
+            "Vóór de wegvoering · 19",
+            "Priesters verbergen altaarvuur in een droge putholte."
+          ],
+          [
+            "Vele jaren later · 20–22",
+            "Nehemia laat dik water halen en sprenkelen; zonlicht en vuur volgen."
+          ],
+          [
+            "Het resterende water · 31–32",
+            "Op grote stenen uitgegoten; opnieuw wordt een vlam beschreven."
+          ],
+          [
+            "De plaats en naam · 33–36",
+            "De koning onderzoekt en omheint; Neftar wordt als reiniging uitgelegd."
+          ]
+        ],
+        "note": "De naam en de beschreven verschijnselen volgen de tekst; dit is geen chemische handleiding."
+      }
+    },
+    {
+      "book": "2makkabeeen",
+      "chapter": 2,
+      "verse": 1,
+      "file": "2-bewaren-en-verzamelen.svg",
+      "scene": "Bewaren en verzamelen",
+      "alt": "Bewaren en verzamelen met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1134,
+      "source": "2 Makkabeeën 2:1–19",
+      "design": {
+        "rows": [
+          [
+            "Jeremia · 1–8",
+            "Wet meegeven, tent/ark/reukofferaltaar bewaren en wachten op Gods verzoening."
+          ],
+          [
+            "Mozes en Salomo · 9–12",
+            "Inwijdingsgebed, vuur en acht feestdagen worden herinnerd."
+          ],
+          [
+            "Nehemia · 13",
+            "Geschriften van koningen, profeten en David en brieven bijeenbrengen."
+          ],
+          [
+            "Judas · 14–19",
+            "Door oorlog bedreigde geschriften bijeenbrengen en uitnodigen tot reinigingsfeest."
+          ]
+        ],
+        "note": "De grot blijft volgens het verhaal onbekend; het schema lokaliseert haar niet op een moderne kaart."
+      }
+    },
+    {
+      "book": "2makkabeeen",
+      "chapter": 2,
+      "verse": 24,
+      "file": "2-vijf-boeken-een-samenvatting.svg",
+      "scene": "Vijf boeken, één samenvatting",
+      "alt": "Vijf boeken, één samenvatting met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1177,
+      "source": "2 Makkabeeën 2:20–33",
+      "design": {
+        "rows": [
+          [
+            "Het onderwerp · 20–23",
+            "Judas, zijn broers, oorlogen, verschijningen, tempel en herstelde wetten."
+          ],
+          [
+            "De bron · 24",
+            "Jason van Cyrene beschreef het in vijf boeken."
+          ],
+          [
+            "De bewerking · 24–29",
+            "De schrijver vat samen voor leesplezier, geheugensteun en nut."
+          ],
+          [
+            "Het onderscheid · 30–33",
+            "Uitvoerige geschiedschrijving tegenover korte weergave; bouwer en versierder als vergelijking."
+          ]
+        ],
+        "note": "De samenvatter noemt zijn werk een andere taak dan de brede behandeling door de oorspronkelijke schrijver."
+      }
+    },
+    {
+      "book": "2makkabeeen",
+      "chapter": 3,
+      "verse": 4,
+      "file": "3-melding-en-toevertrouwd-geld.svg",
+      "scene": "Melding en toevertrouwd geld",
+      "alt": "Melding en toevertrouwd geld met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1134,
+      "source": "2 Makkabeeën 3:4–23",
+      "design": {
+        "rows": [
+          [
+            "Simon → Apollonius → koning · 4–7",
+            "Een beschuldiging over het geld leidt tot Heliodorus’ opdracht."
+          ],
+          [
+            "Onias · 9–12",
+            "Bewaring voor weduwen en wezen en bezit van Hyrcanus, zoon van Tobia."
+          ],
+          [
+            "De bedragen · 11",
+            "400 talenten zilver en 200 talenten goud."
+          ],
+          [
+            "Het conflict · 13–23",
+            "Koninklijke opdracht tegenover de bescherming van toevertrouwde goederen; de stad bidt."
+          ]
+        ],
+        "note": "Het geld is niet zonder meer beschikbare tempelopbrengst; de tekst maakt de bewaarfactor expliciet."
+      }
+    },
+    {
+      "book": "2makkabeeen",
+      "chapter": 3,
+      "verse": 24,
+      "file": "3-van-angst-naar-getuigenis.svg",
+      "scene": "Van angst naar getuigenis",
+      "alt": "Van angst naar getuigenis met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1091,
+      "source": "2 Makkabeeën 3:24–40",
+      "design": {
+        "rows": [
+          [
+            "De verschijning · 24–29",
+            "Paard en ruiter, twee jonge mannen en Heliodorus’ machteloosheid."
+          ],
+          [
+            "De voorbede · 30–34",
+            "Vreugde, smeken van vrienden, Onias’ offer en de vernieuwde verschijning."
+          ],
+          [
+            "De dank · 35–36",
+            "Offer, beloften, afscheid en openlijk getuigenis."
+          ],
+          [
+            "Het antwoord · 37–40",
+            "Heliodorus waarschuwt de koning tegen een nieuwe poging bij de schatkamer."
+          ]
+        ],
+        "note": "De twee verschijningen zijn onderscheiden door de voorbede en de daaropvolgende opdracht om te getuigen."
+      }
+    }
+  ]
+}

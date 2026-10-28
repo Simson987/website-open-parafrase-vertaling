@@ -37945,6 +37945,99 @@
           "source": "1 Makkabeeën 16:1–24"
         }
       ]
+    },
+    {
+      "book": "2makkabeeen",
+      "chapter": 1,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Groetbrief, verborgen vuur en altaargebed zijn aanwezig. Het latere vinden van dik water is een eigen fase en krijgt een scène. Twee schema’s onderscheiden brieven, terugblikken en de beschreven vuurgeschiedenis.",
+      "additions": [
+        {
+          "verse": 20,
+          "file": "1-20-dik-water-uit-put-verdieping.webp",
+          "scene": "Dik water uit de oude put",
+          "kind": "scene"
+        },
+        {
+          "verse": 1,
+          "file": "1-twee-brieven-en-feest.svg",
+          "scene": "Twee brieven en het feest",
+          "kind": "diagram",
+          "source": "2 Makkabeeën 1:1–36"
+        },
+        {
+          "verse": 19,
+          "file": "1-vuur-water-en-neftar.svg",
+          "scene": "Vuur, water en Neftar",
+          "kind": "diagram",
+          "source": "2 Makkabeeën 1:19–36"
+        }
+      ]
+    },
+    {
+      "book": "2makkabeeen",
+      "chapter": 3,
+      "status": "reviewed",
+      "target_images": 8,
+      "reason": "Schatkamer, Onias’ uitleg en afscheid zijn aanwezig. Het stadsgebed en de twee zeer verschillende verschijningen zijn drie zelfstandige ontbrekende momenten en krijgen scènes. Twee schema’s bewaken de eigendomsvraag en de verandering naar dank en getuigenis.",
+      "additions": [
+        {
+          "verse": 18,
+          "file": "3-18-gemeenschappelijk-gebed-verdieping.webp",
+          "scene": "De stad komt samen om te bidden",
+          "kind": "scene"
+        },
+        {
+          "verse": 25,
+          "file": "3-25-verschijning-bij-schatkamer-verdieping.webp",
+          "scene": "De verschijning bij de schatkamer",
+          "kind": "scene"
+        },
+        {
+          "verse": 33,
+          "file": "3-33-woorden-na-voorbede-verdieping.webp",
+          "scene": "Woorden na de voorbede",
+          "kind": "scene"
+        },
+        {
+          "verse": 4,
+          "file": "3-melding-en-toevertrouwd-geld.svg",
+          "scene": "Melding en toevertrouwd geld",
+          "kind": "diagram",
+          "source": "2 Makkabeeën 3:4–23"
+        },
+        {
+          "verse": 24,
+          "file": "3-van-angst-naar-getuigenis.svg",
+          "scene": "Van angst naar getuigenis",
+          "kind": "diagram",
+          "source": "2 Makkabeeën 3:24–40"
+        }
+      ]
+    },
+    {
+      "book": "2makkabeeen",
+      "chapter": 2,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Wet meegeven, verborgen voorwerpen en Nehemia’s bibliotheek zijn aanwezig. Twee schema’s maken het bewaren van bronnen en het werk van vijf boeken naar één samenvatting zichtbaar; geen tweede bibliotheekfoto.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "2-bewaren-en-verzamelen.svg",
+          "scene": "Bewaren en verzamelen",
+          "kind": "diagram",
+          "source": "2 Makkabeeën 2:1–19"
+        },
+        {
+          "verse": 24,
+          "file": "2-vijf-boeken-een-samenvatting.svg",
+          "scene": "Vijf boeken, één samenvatting",
+          "kind": "diagram",
+          "source": "2 Makkabeeën 2:20–33"
+        }
+      ]
     }
   ]
 }
