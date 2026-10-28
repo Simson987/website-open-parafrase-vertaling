@@ -64542,7 +64542,11 @@
         "chapter": 10,
         "file": "10-dedication.webp",
         "alt": "Het volk viert de tempelwijding",
-        "scene": "Feest van de tempelwijding"
+        "scene": "Feest van de tempelwijding",
+        "verse": 1,
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 1,
@@ -64799,56 +64803,80 @@
         "verse": 3,
         "file": "10-3.webp",
         "alt": "Beeld bij 2makkabeeen 10: Vuur uit stenen",
-        "scene": "Vuur uit stenen"
+        "scene": "Vuur uit stenen",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 10,
         "verse": 7,
         "file": "10-7.webp",
         "alt": "Beeld bij 2makkabeeen 10: Dankliederen met palmtakken",
-        "scene": "Dankliederen met palmtakken"
+        "scene": "Dankliederen met palmtakken",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 11,
         "verse": 6,
         "file": "11-6.webp",
         "alt": "Beeld bij 2makkabeeen 11: Gebed voor de belegerde stad",
-        "scene": "Gebed voor de belegerde stad"
+        "scene": "Gebed voor de belegerde stad",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 11,
         "verse": 8,
         "file": "11-8.webp",
         "alt": "Beeld bij 2makkabeeen 11: De ruiter in witte kleding",
-        "scene": "De ruiter in witte kleding"
+        "scene": "De ruiter in witte kleding",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 11,
         "verse": 26,
         "file": "11-26.webp",
         "alt": "Beeld bij 2makkabeeen 11: De rechterhand tot vrede",
-        "scene": "De rechterhand tot vrede"
+        "scene": "De rechterhand tot vrede",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 12,
         "verse": 1,
         "file": "12-1.webp",
         "alt": "Beeld bij 2makkabeeen 12: Terug naar de akkers",
-        "scene": "Terug naar de akkers"
+        "scene": "Terug naar de akkers",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 12,
         "verse": 30,
         "file": "12-30.webp",
         "alt": "Beeld bij 2makkabeeen 12: Dank aan Scythopolis",
-        "scene": "Dank aan Scythopolis"
+        "scene": "Dank aan Scythopolis",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 12,
         "verse": 43,
         "file": "12-43.webp",
         "alt": "Beeld bij 2makkabeeen 12: Een collecte voor Jeruzalem",
-        "scene": "Een collecte voor Jeruzalem"
+        "scene": "Een collecte voor Jeruzalem",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 13,
@@ -65202,6 +65230,116 @@
         "kind": "diagram",
         "width": 840,
         "height": 1134
+      },
+      {
+        "chapter": 10,
+        "verse": 29,
+        "file": "10-29-vijf-hemelse-ruiters-verdieping.webp",
+        "scene": "De vijf hemelse ruiters",
+        "alt": "De vijf hemelse ruiters — 2 Makkabeeën 10:29; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 10,
+        "verse": 33,
+        "file": "10-33-beleg-gazara-verdieping.webp",
+        "scene": "Het beleg van Gazara",
+        "alt": "Het beleg van Gazara — 2 Makkabeeën 10:33; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 12,
+        "verse": 12,
+        "file": "12-12-vrede-met-arabieren-verdieping.webp",
+        "scene": "Vrede met de Arabieren",
+        "alt": "Vrede met de Arabieren — 2 Makkabeeën 12:12; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 12,
+        "verse": 25,
+        "file": "12-25-timotheus-vrijgelaten-verdieping.webp",
+        "scene": "Timotheüs wordt vrijgelaten",
+        "alt": "Timotheüs wordt vrijgelaten — 2 Makkabeeën 12:25; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 10,
+        "verse": 1,
+        "file": "10-reiniging-en-jaarfeest.svg",
+        "scene": "Reiniging en jaarfeest",
+        "alt": "Reiniging en jaarfeest met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1177
+      },
+      {
+        "chapter": 10,
+        "verse": 11,
+        "file": "10-oorlog-en-belegeringen.svg",
+        "scene": "Oorlog en belegeringen",
+        "alt": "Oorlog en belegeringen met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1055
+      },
+      {
+        "chapter": 11,
+        "verse": 1,
+        "file": "11-macht-en-hulp.svg",
+        "scene": "Macht en hulp",
+        "alt": "Macht en hulp met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1134
+      },
+      {
+        "chapter": 11,
+        "verse": 16,
+        "file": "11-vier-brieven.svg",
+        "scene": "De vier brieven",
+        "alt": "De vier brieven met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1134
+      },
+      {
+        "chapter": 12,
+        "verse": 1,
+        "file": "12-veldtocht-en-ontmoetingen.svg",
+        "scene": "Veldtocht en ontmoetingen",
+        "alt": "Veldtocht en ontmoetingen met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1141
+      },
+      {
+        "chapter": 12,
+        "verse": 24,
+        "file": "12-toezegging-en-vrijlating.svg",
+        "scene": "Toezegging en vrijlating",
+        "alt": "Toezegging en vrijlating met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1048
+      },
+      {
+        "chapter": 12,
+        "verse": 39,
+        "file": "12-gedachten-bij-de-collecte.svg",
+        "scene": "Gedachten bij de collecte",
+        "alt": "Gedachten bij de collecte met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1098
       }
     ],
     "3makkabeeen": [

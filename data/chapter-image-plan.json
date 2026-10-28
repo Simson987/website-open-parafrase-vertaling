@@ -38218,6 +38218,106 @@
           "source": "2 Makkabeeën 9:14–27"
         }
       ]
+    },
+    {
+      "book": "2makkabeeen",
+      "chapter": 10,
+      "status": "reviewed",
+      "target_images": 7,
+      "reason": "De bestaande drie beelden behandelen de tempelwijding. De latere vijf hemelse ruiters en het beleg van Gazara zijn zelfstandige grote gebeurtenissen en krijgen scènes. Twee schema’s onderscheiden reiniging, regeringswisseling, omkoping en belegering.",
+      "additions": [
+        {
+          "verse": 29,
+          "file": "10-29-vijf-hemelse-ruiters-verdieping.webp",
+          "scene": "De vijf hemelse ruiters",
+          "kind": "scene"
+        },
+        {
+          "verse": 33,
+          "file": "10-33-beleg-gazara-verdieping.webp",
+          "scene": "Het beleg van Gazara",
+          "kind": "scene"
+        },
+        {
+          "verse": 1,
+          "file": "10-reiniging-en-jaarfeest.svg",
+          "scene": "Reiniging en jaarfeest",
+          "kind": "diagram",
+          "source": "2 Makkabeeën 10:1–10"
+        },
+        {
+          "verse": 11,
+          "file": "10-oorlog-en-belegeringen.svg",
+          "scene": "Oorlog en belegeringen",
+          "kind": "diagram",
+          "source": "2 Makkabeeën 10:11–38"
+        }
+      ]
+    },
+    {
+      "book": "2makkabeeen",
+      "chapter": 12,
+      "status": "reviewed",
+      "target_images": 8,
+      "reason": "Landbouw, Scythopolis en collecte zijn aanwezig. Het verbond met Arabische nomaden en de voorwaardelijke vrijlating van Timotheüs krijgen scènes. Drie schema’s volgen de lange veldtocht, de riskante toezegging en de uitleg bij de collecte.",
+      "additions": [
+        {
+          "verse": 12,
+          "file": "12-12-vrede-met-arabieren-verdieping.webp",
+          "scene": "Vrede met de Arabieren",
+          "kind": "scene"
+        },
+        {
+          "verse": 25,
+          "file": "12-25-timotheus-vrijgelaten-verdieping.webp",
+          "scene": "Timotheüs wordt vrijgelaten",
+          "kind": "scene"
+        },
+        {
+          "verse": 1,
+          "file": "12-veldtocht-en-ontmoetingen.svg",
+          "scene": "Veldtocht en ontmoetingen",
+          "kind": "diagram",
+          "source": "2 Makkabeeën 12:1–38"
+        },
+        {
+          "verse": 24,
+          "file": "12-toezegging-en-vrijlating.svg",
+          "scene": "Toezegging en vrijlating",
+          "kind": "diagram",
+          "source": "2 Makkabeeën 12:24–25"
+        },
+        {
+          "verse": 39,
+          "file": "12-gedachten-bij-de-collecte.svg",
+          "scene": "Gedachten bij de collecte",
+          "kind": "diagram",
+          "source": "2 Makkabeeën 12:39–46"
+        }
+      ]
+    },
+    {
+      "book": "2makkabeeen",
+      "chapter": 11,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Gebed, hemelse ruiter en vredeshanddruk dekken de hoofdhandelingen. Geen vergelijkbare extra foto; twee schema’s verhelderen de strijdmacht en de vier verschillende brieven met hun afzenders en ontvangers.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "11-macht-en-hulp.svg",
+          "scene": "Macht en hulp",
+          "kind": "diagram",
+          "source": "2 Makkabeeën 11:1–15"
+        },
+        {
+          "verse": 16,
+          "file": "11-vier-brieven.svg",
+          "scene": "De vier brieven",
+          "kind": "diagram",
+          "source": "2 Makkabeeën 11:16–38"
+        }
+      ]
     }
   ]
 }

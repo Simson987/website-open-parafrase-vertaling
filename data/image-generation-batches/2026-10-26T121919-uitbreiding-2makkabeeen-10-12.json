@@ -1,0 +1,289 @@
+{
+  "date": "2026-10-28",
+  "resumed": "2026-10-28T07:08:34Z",
+  "started": "2026-10-26T12:19:19Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "2makkabeeen",
+      "chapter": 10,
+      "verse": 29,
+      "file": "10-29-vijf-hemelse-ruiters-verdieping.webp",
+      "scene": "De vijf hemelse ruiters",
+      "alt": "De vijf hemelse ruiters — 2 Makkabeeën 10:29; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic biblical illustration of second-century BCE Judea, landscape 3:2, ancient stone and natural fabrics, modest opaque clothes, anatomically coherent people and horses, exactly two arms per person and four legs per horse. No modern items, readable text, image of God, blood, wounds or dead bodies. Reverent visualization of the appearance in 2 Maccabees 10:29–30: exactly five radiant adult mounted men with ornate golden horse bridles appear on a broad open Judean plain. Two mounted figures stand slightly forward as guides, three remain behind around the modestly armored adult commander Judas on foot. All five horses clearly separated and anatomically coherent, calm solemn supernatural light, no active combat, arrows in bodies or lightning hitting people. No other mounted riders in view.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2makkabeeen",
+      "chapter": 10,
+      "verse": 33,
+      "file": "10-33-beleg-gazara-verdieping.webp",
+      "scene": "Het beleg van Gazara",
+      "alt": "Het beleg van Gazara — 2 Makkabeeën 10:33; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic biblical illustration of second-century BCE Judea, landscape 3:2, ancient stone and natural fabrics, modest opaque clothes, anatomically coherent people and horses, exactly two arms per person and four legs per horse. No modern items, readable text, image of God, blood, wounds or dead bodies. Distant view of the ancient fortified hill town Gazara with closed gates and stone towers, surrounded by a Judean siege camp on rocky slopes. Adult soldiers in modest tunics tend orderly tents and maintain a watch from afar, no wall assault yet, no fire or casualties. Landscape composition shows the prolonged waiting of 2 Maccabees 10:32–34, not the later capture.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2makkabeeen",
+      "chapter": 12,
+      "verse": 12,
+      "file": "12-12-vrede-met-arabieren-verdieping.webp",
+      "scene": "Vrede met de Arabieren",
+      "alt": "Vrede met de Arabieren — 2 Makkabeeën 12:12; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic biblical illustration of second-century BCE Judea, landscape 3:2, ancient stone and natural fabrics, modest opaque clothes, anatomically coherent people and horses, exactly two arms per person and four legs per horse. No modern items, readable text, image of God, blood, wounds or dead bodies. At the edge of an ancient nomadic tent camp, Judas, an adult Judean commander in a modest tunic and cloak, clasps right hands with an adult Arab clan leader in an opaque woven robe. Several sheep and goats and a few peaceful adults stand behind. No money, captive people or weapons being used. The agreement with the Arab nomads in 2 Maccabees 12:11–12, distinct from the urban thanks in Scythopolis.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2makkabeeen",
+      "chapter": 12,
+      "verse": 25,
+      "file": "12-25-timotheus-vrijgelaten-verdieping.webp",
+      "scene": "Timotheüs wordt vrijgelaten",
+      "alt": "Timotheüs wordt vrijgelaten — 2 Makkabeeën 12:25; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic biblical illustration of second-century BCE Judea, landscape 3:2, ancient stone and natural fabrics, modest opaque clothes, anatomically coherent people and horses, exactly two arms per person and four legs per horse. No modern items, readable text, image of God, blood, wounds or dead bodies. Outside an ancient military tent, two adult Judean officers Dositheus and Sosipater listen soberly while an adult Hellenistic commander Timothy in plain travel clothes makes an earnest pledge with an open hand; a guard steps aside to leave a clear way out. No shackles, injury or torture. The conditional release to protect relatives in 2 Maccabees 12:24–25, not a claim that those relatives have already arrived.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "2makkabeeen",
+      "chapter": 10,
+      "verse": 1,
+      "file": "10-reiniging-en-jaarfeest.svg",
+      "scene": "Reiniging en jaarfeest",
+      "alt": "Reiniging en jaarfeest met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1177,
+      "source": "2 Makkabeeën 10:1–10",
+      "design": {
+        "rows": [
+          [
+            "Herstel · 1–4",
+            "Stad en tempel terug, vreemde altaren weg, nieuw altaar, vuur en herstelde dienst; gezamenlijk gebed."
+          ],
+          [
+            "De datum · 5",
+            "25 Kislev: reiniging op dezelfde dag als de eerdere ontheiliging."
+          ],
+          [
+            "De viering · 6–8",
+            "Acht vreugdedagen met takken en lofzang, herinnering aan schuilen bij Loofhutten; jaarlijks te vieren."
+          ],
+          [
+            "Overgang · 9–10",
+            "Van het einde van Epifanes naar het bewind van zijn zoon Eupator."
+          ]
+        ],
+        "note": "De acht dagen volgen het feestkarakter dat de tekst beschrijft; er wordt geen later oliewonder toegevoegd."
+      }
+    },
+    {
+      "book": "2makkabeeen",
+      "chapter": 10,
+      "verse": 11,
+      "file": "10-oorlog-en-belegeringen.svg",
+      "scene": "Oorlog en belegeringen",
+      "alt": "Oorlog en belegeringen met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1055,
+      "source": "2 Makkabeeën 10:11–38",
+      "design": {
+        "rows": [
+          [
+            "Machthebbers · 11–15",
+            "Lysias, Ptolemeüs Macron, Gorgias en de Idumeeërs komen aan bod."
+          ],
+          [
+            "De twee torens · 16–23",
+            "Beleg, omkoping met 7.000 drachmen, veroordeling en inname."
+          ],
+          [
+            "Timotheüs · 24–31",
+            "Biddag, veldslag en vijf hemelse ruiters; twee zijn gidsen."
+          ],
+          [
+            "Gazara · 32–38",
+            "24 dagen beleg; aanval op de 25e dag, inname en dank."
+          ]
+        ],
+        "note": "De hemelse verschijning, het torenbeleg en Gazara zijn drie onderscheiden onderdelen."
+      }
+    },
+    {
+      "book": "2makkabeeen",
+      "chapter": 11,
+      "verse": 1,
+      "file": "11-macht-en-hulp.svg",
+      "scene": "Macht en hulp",
+      "alt": "Macht en hulp met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1134,
+      "source": "2 Makkabeeën 11:1–15",
+      "design": {
+        "rows": [
+          [
+            "Lysias · 1–5",
+            "Ongeveer 80.000 voetknechten, ruiterij en 80 olifanten; plannen tegen stad, tempel en hogepriesterschap."
+          ],
+          [
+            "Het antwoord · 6–10",
+            "Gebed, uitval en de witte ruiter met gouden wapenrusting."
+          ],
+          [
+            "De nederlaag · 11–12",
+            "11.000 voetknechten en 1.600 ruiters vallen; Lysias vlucht."
+          ],
+          [
+            "Onderhandeling · 13–15",
+            "Lysias erkent de tegenstand en biedt redelijke voorwaarden; Judas stemt in."
+          ]
+        ],
+        "note": "Getallen en de duiding van Gods hulp volgen de plaatselijke tekst; zij zijn geen onafhankelijke legerreconstructie."
+      }
+    },
+    {
+      "book": "2makkabeeen",
+      "chapter": 11,
+      "verse": 16,
+      "file": "11-vier-brieven.svg",
+      "scene": "De vier brieven",
+      "alt": "De vier brieven met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1134,
+      "source": "2 Makkabeeën 11:16–38",
+      "design": {
+        "rows": [
+          [
+            "Lysias → Joodse volk · 16–21",
+            "Johannes en Absalom brengen antwoorden; redelijke verzoeken zijn ingewilligd."
+          ],
+          [
+            "Antiochus → Lysias · 22–26",
+            "Tempel teruggeven en voorouderlijke gewoonten toestaan."
+          ],
+          [
+            "Antiochus → raad en volk · 27–33",
+            "Eigen voedsel en wetten, zekerheid en geruststelling via Menelaüs."
+          ],
+          [
+            "Romeinse gezanten → volk · 34–38",
+            "Quintus Memmius en Titus Manlius bevestigen en vragen snel gezanten te sturen."
+          ]
+        ],
+        "note": "Het zijn verschillende afzenders en ontvangers; de in de brieven genoemde data worden niet tot één brief samengevoegd."
+      }
+    },
+    {
+      "book": "2makkabeeen",
+      "chapter": 12,
+      "verse": 1,
+      "file": "12-veldtocht-en-ontmoetingen.svg",
+      "scene": "Veldtocht en ontmoetingen",
+      "alt": "Veldtocht en ontmoetingen met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1141,
+      "source": "2 Makkabeeën 12:1–38",
+      "design": {
+        "rows": [
+          [
+            "Begin · 1–9",
+            "Landbouw na verdragen, nieuwe tegenwerking en geweld bij Joppe en Jamnia."
+          ],
+          [
+            "Arabieren en Caspin · 10–16",
+            "Strijd, vredesverbond en vervolgens een andere vestingaanval."
+          ],
+          [
+            "Timotheüs en steden · 17–31",
+            "Charax, Karnion, Efron en vriendelijke ontvangst in Scythopolis; terugkeer voor Wekenfeest."
+          ],
+          [
+            "Na Pinksteren · 32–38",
+            "Strijd tegen Gorgias; daarna rust op sabbat in Odollam."
+          ]
+        ],
+        "note": "Dit is de volgorde van het hoofdstuk, geen moderne kaart of berekening van reisafstanden."
+      }
+    },
+    {
+      "book": "2makkabeeen",
+      "chapter": 12,
+      "verse": 24,
+      "file": "12-toezegging-en-vrijlating.svg",
+      "scene": "Toezegging en vrijlating",
+      "alt": "Toezegging en vrijlating met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1048,
+      "source": "2 Makkabeeën 12:24–25",
+      "design": {
+        "rows": [
+          [
+            "De gevangene",
+            "Timotheüs valt in handen van Dositheüs en Sosipater."
+          ],
+          [
+            "Zijn argument",
+            "Zegt ouders en broers in handen te hebben en dreigt met hun lot."
+          ],
+          [
+            "Zijn toezegging",
+            "Belooft hen ongedeerd uit te leveren."
+          ],
+          [
+            "De beslissing",
+            "De aanvoerders laten hem vrij om hun broeders te redden."
+          ]
+        ],
+        "note": "De verteller noemt zijn smeken bedrieglijk; het schema maakt de toezegging niet tot bewezen uitvoering."
+      }
+    },
+    {
+      "book": "2makkabeeen",
+      "chapter": 12,
+      "verse": 39,
+      "file": "12-gedachten-bij-de-collecte.svg",
+      "scene": "Gedachten bij de collecte",
+      "alt": "Gedachten bij de collecte met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1098,
+      "source": "2 Makkabeeën 12:39–46",
+      "design": {
+        "rows": [
+          [
+            "De ontdekking · 39–40",
+            "Bij de gesneuvelden worden verboden aan afgoden gewijde voorwerpen gevonden."
+          ],
+          [
+            "Het antwoord · 41–42",
+            "Lof, gebed om uitwissing van zonde en oproep zonder zonde te blijven."
+          ],
+          [
+            "De collecte · 43",
+            "2.000 drachmen zilver naar Jeruzalem voor een zondoffer."
+          ],
+          [
+            "De duiding · 44–46",
+            "De schrijver verbindt het gebed met verwachting van opstanding en verzoening."
+          ]
+        ],
+        "note": "Het schema geeft de redenering van deze passage weer en onderscheidt handeling en uitleg."
+      }
+    }
+  ]
+}
