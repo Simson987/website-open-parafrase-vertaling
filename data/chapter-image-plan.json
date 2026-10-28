@@ -38505,6 +38505,129 @@
           "source": "3 Makkabeeën 3:9–22"
         }
       ]
+    },
+    {
+      "book": "3makkabeeen",
+      "chapter": 4,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Ouderen, renveld en uitgeputte schrijfmiddelen zijn aanwezig. De aankomst na de gedwongen scheepstocht voegt een afzonderlijke fase toe. Twee schema’s bewaken de verschillende reacties en de onvoltooide registratie van veertig dagen.",
+      "additions": [
+        {
+          "verse": 9,
+          "file": "4-9-aankomst-schip-verdieping.webp",
+          "scene": "Aankomst na de overtocht",
+          "kind": "scene"
+        },
+        {
+          "verse": 1,
+          "file": "4-wegvoering-en-inschrijving.svg",
+          "scene": "Wegvoering en inschrijving",
+          "kind": "diagram",
+          "source": "3 Makkabeeën 4:1–16"
+        },
+        {
+          "verse": 10,
+          "file": "4-een-onvoltooide-lijst.svg",
+          "scene": "Een onvoltooide lijst",
+          "kind": "diagram",
+          "source": "3 Makkabeeën 4:10–16"
+        }
+      ]
+    },
+    {
+      "book": "3makkabeeen",
+      "chapter": 5,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Gebed, koninklijke slaap en omhelzende gezinnen zijn aanwezig. De onverwachte terechtwijzing van Hermon is een tweede uitstel met een andere oorzaak en krijgt een scène. Twee schema’s volgen de drie bevelen en de gebedsmomenten ertussen.",
+      "additions": [
+        {
+          "verse": 21,
+          "file": "5-21-hermon-terechtgewezen-verdieping.webp",
+          "scene": "Hermon wordt onverwacht terechtgewezen",
+          "kind": "scene"
+        },
+        {
+          "verse": 1,
+          "file": "5-drie-uitgestelde-bevelen.svg",
+          "scene": "Drie uitgestelde bevelen",
+          "kind": "diagram",
+          "source": "3 Makkabeeën 5:1–31"
+        },
+        {
+          "verse": 3,
+          "file": "5-gebed-tussen-de-bevelen.svg",
+          "scene": "Gebed tussen de bevelen",
+          "kind": "diagram",
+          "source": "3 Makkabeeën 5:3–35"
+        }
+      ]
+    },
+    {
+      "book": "3makkabeeen",
+      "chapter": 6,
+      "status": "reviewed",
+      "target_images": 7,
+      "reason": "Eleazars gebed, vrijlating en opluchting zijn aanwezig. De twee engelen vormen de ontbrekende kernverschijning en krijgen een behoedzame scène met het juiste gezichtspunt. Drie schema’s onderscheiden gebedsherinneringen, redding/feest en kalendergegevens.",
+      "additions": [
+        {
+          "verse": 17,
+          "file": "6-17-twee-engelen-renperk-verdieping.webp",
+          "scene": "Twee engelen bij het renperk",
+          "kind": "scene"
+        },
+        {
+          "verse": 1,
+          "file": "6-eleazars-herinneringen.svg",
+          "scene": "Eleazars herinneringen",
+          "kind": "diagram",
+          "source": "3 Makkabeeën 6:1–14"
+        },
+        {
+          "verse": 15,
+          "file": "6-redding-en-feest.svg",
+          "scene": "Redding en feest",
+          "kind": "diagram",
+          "source": "3 Makkabeeën 6:15–34"
+        },
+        {
+          "verse": 35,
+          "file": "6-dagen-van-registratie-en-redding.svg",
+          "scene": "Dagen van registratie en redding",
+          "kind": "diagram",
+          "source": "3 Makkabeeën 6:35–37"
+        }
+      ]
+    },
+    {
+      "book": "3makkabeeen",
+      "chapter": 7,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Feest, vrijspraak en teruggave zijn aanwezig. De oprichting en zegening van de gedenkzuil in Ptolemaïs is een eigen moment. Twee schema’s maken de veranderde koninklijke briefstem en het vertrek met zowel de geweldspassage als het herstel zichtbaar.",
+      "additions": [
+        {
+          "verse": 17,
+          "file": "7-17-gedenkzuil-ptolemais-verdieping.webp",
+          "scene": "De gedenkzuil bij de maaltijdplaats",
+          "kind": "scene"
+        },
+        {
+          "verse": 1,
+          "file": "7-de-vrijspraakbrief.svg",
+          "scene": "De vrijspraakbrief",
+          "kind": "diagram",
+          "source": "3 Makkabeeën 7:1–7"
+        },
+        {
+          "verse": 8,
+          "file": "7-vertrek-en-herstel.svg",
+          "scene": "Vertrek en herstel",
+          "kind": "diagram",
+          "source": "3 Makkabeeën 7:8–19"
+        }
+      ]
     }
   ]
 }
