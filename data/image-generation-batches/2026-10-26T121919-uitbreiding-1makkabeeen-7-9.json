@@ -1,0 +1,273 @@
+{
+  "date": "2026-10-28",
+  "resumed": "2026-10-28T07:08:34Z",
+  "started": "2026-10-26T12:19:19Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "1makkabeeen",
+      "chapter": 7,
+      "verse": 4,
+      "file": "7-4-demetrius-op-troon-verdieping.webp",
+      "scene": "Demetrius neemt plaats op de troon",
+      "alt": "Demetrius neemt plaats op de troon — 1 Makkabeeën 7:4; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic scene in the second century BCE, Hellenistic royal or Judean setting as specified, landscape 3:2, modest opaque garments, natural materials, coherent anatomy with exactly two arms per adult. No modern objects, readable writing, divine human figure, injuries, blood or dead bodies. An adult Hellenistic king Demetrius in a modest purple mantle and simple royal diadem sits on a stone throne in a Seleucid palace hall, attended by a few adult officials in tunics. Morning light, solemn political transition, no execution, prisoners or violence, no Roman imperial crown or modern objects. Two arms and distinct natural hands. The accession in 1 Maccabees 7:1–4.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "1makkabeeen",
+      "chapter": 9,
+      "verse": 48,
+      "file": "9-48-zwemmen-over-jordaan-verdieping.webp",
+      "scene": "Jonathan en zijn mannen zwemmen over",
+      "alt": "Jonathan en zijn mannen zwemmen over — 1 Makkabeeën 9:48; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic scene in the second century BCE, Hellenistic royal or Judean setting as specified, landscape 3:2, modest opaque garments, natural materials, coherent anatomy with exactly two arms per adult. No modern objects, readable writing, divine human figure, injuries, blood or dead bodies. Several adult Judean men in simple modest opaque tunics swim safely across a broad calm section of the Jordan river, viewed from the opposite bank. One adult man reaches the reeds at the shore while others follow at a respectful distance. Coherent two arms each and plausible swimming poses, no armor weighing them down, no drowning, pursuers, injuries or threats to children. A sober reconstruction of the escape in 1 Maccabees 9:48, not a victory battle.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "1makkabeeen",
+      "chapter": 9,
+      "verse": 62,
+      "file": "9-62-bet-basi-versterken-verdieping.webp",
+      "scene": "Jonathan en Simon versterken Bet-Basi",
+      "alt": "Jonathan en Simon versterken Bet-Basi — 1 Makkabeeën 9:62; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic scene in the second century BCE, Hellenistic royal or Judean setting as specified, landscape 3:2, modest opaque garments, natural materials, coherent anatomy with exactly two arms per adult. No modern objects, readable writing, divine human figure, injuries, blood or dead bodies. Adult Judean workers in modest tunics repair a broken stretch of the old stone wall of a desert town, fitting stones into a low defensive wall with baskets and wooden hand tools. Jonathan and his brother Simon quietly supervise together, no attacking army, bodies or fighting. Hellenistic-era Judean setting, coherent hands and exactly two arms each. The rebuilding and strengthening of Bet-Basi in 1 Maccabees 9:62 before the siege.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "1makkabeeen",
+      "chapter": 7,
+      "verse": 1,
+      "file": "7-demetrius-en-aanvoerders.svg",
+      "scene": "Demetrius en de aanvoerders",
+      "alt": "Demetrius en de aanvoerders met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1098,
+      "source": "1 Makkabeeën 7:1–50",
+      "design": {
+        "rows": [
+          [
+            "De troonwisseling · 1–9",
+            "Demetrius wordt koning; Bacchides komt met Alcimus, die hogepriester wordt."
+          ],
+          [
+            "De gebroken vrede · 10–25",
+            "Vriendelijke woorden, een geschonden eed en geweld; Alcimus zoekt steun tegen Judas."
+          ],
+          [
+            "Nikanor · 26–38",
+            "Bedrieglijke ontmoeting, dreiging tegen het huis en priestergebed."
+          ],
+          [
+            "Adasa · 39–50",
+            "Judas bidt, Nikanor valt en 13 Adar wordt een jaarlijkse vreugdedag."
+          ]
+        ],
+        "note": "De twee bedrieglijke vredescontacten hebben verschillende hoofdpersonen."
+      }
+    },
+    {
+      "book": "1makkabeeen",
+      "chapter": 7,
+      "verse": 13,
+      "file": "7-eed-en-vertrouwen.svg",
+      "scene": "Eed en vertrouwen",
+      "alt": "Eed en vertrouwen met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 992,
+      "source": "1 Makkabeeën 7:12–18,27–30",
+      "design": {
+        "rows": [
+          [
+            "Bij Alcimus en Bacchides · 12–18",
+            "Schriftgeleerden en Asideeën zoeken recht en vrede; de priesterlijke afkomst wekt vertrouwen."
+          ],
+          [
+            "De eed · 15–18",
+            "Geen kwaad beloven, maar zestig mannen doden: het volk noemt dit een verbroken verbond."
+          ],
+          [
+            "Bij Nikanor · 27–30",
+            "Een klein vredesbezoek verbergt een plan om Judas te grijpen; Judas ontdekt het bedrog."
+          ]
+        ],
+        "note": "De tekst toont het verschil tussen vredeswoorden en feitelijk handelen."
+      }
+    },
+    {
+      "book": "1makkabeeen",
+      "chapter": 8,
+      "verse": 17,
+      "file": "8-twee-gezanten.svg",
+      "scene": "De twee gezanten",
+      "alt": "De twee gezanten met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1091,
+      "source": "1 Makkabeeën 8:1–22",
+      "design": {
+        "rows": [
+          [
+            "Wat Judas hoorde · 1–16",
+            "Een bericht over Romeinse macht, overwinningen, bestuur en trouw aan vrienden."
+          ],
+          [
+            "Eupolemus · 17",
+            "Zoon van Johannes, zoon van Akkos."
+          ],
+          [
+            "Jason · 17",
+            "Zoon van Eleazar."
+          ],
+          [
+            "De opdracht · 18–22",
+            "Een lange reis, verzoek om bondgenootschap en een afschrift op koperen platen."
+          ]
+        ],
+        "note": "De eerste zestien verzen vertellen wat aan Judas over Rome wordt bericht; het schema presenteert die gegevens als tekstinhoud."
+      }
+    },
+    {
+      "book": "1makkabeeen",
+      "chapter": 8,
+      "verse": 24,
+      "file": "8-wederzijdse-afspraken.svg",
+      "scene": "Wederzijdse afspraken",
+      "alt": "Wederzijdse afspraken met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1177,
+      "source": "1 Makkabeeën 8:23–32",
+      "design": {
+        "rows": [
+          [
+            "Oorlog tegen Rome · 24–26",
+            "De Joden helpen van harte; zij leveren de vijand geen proviand, wapens, geld of schepen."
+          ],
+          [
+            "Oorlog tegen de Joden · 27–28",
+            "Rome helpt van harte; dezelfde leveringen aan de vijand worden geweerd."
+          ],
+          [
+            "Wijzigingen · 29–30",
+            "Beide partijen mogen iets toevoegen of weglaten."
+          ],
+          [
+            "Demetrius · 31–32",
+            "Rome waarschuwt hem het juk over hun vrienden niet te verzwaren."
+          ]
+        ],
+        "note": "Het verbond heeft wederzijdse bepalingen; voorwaarden over tijd en omstandigheden blijven in de tekst staan."
+      }
+    },
+    {
+      "book": "1makkabeeen",
+      "chapter": 9,
+      "verse": 1,
+      "file": "9-judas-jonathan-en-rust.svg",
+      "scene": "Judas, Jonathan en rust",
+      "alt": "Judas, Jonathan en rust met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1098,
+      "source": "1 Makkabeeën 9:1–73",
+      "design": {
+        "rows": [
+          [
+            "Het verlies · 1–22",
+            "Overmacht bij Elasa, dood van Judas, begrafenis en rouw."
+          ],
+          [
+            "Het nieuwe leiderschap · 23–42",
+            "Onderdrukking, keuze voor Jonathan, vlucht en de episode rond Johannes."
+          ],
+          [
+            "De strijd om ruimte · 43–57",
+            "Jordaan, vestingen, gijzelaars, Alcimus en twee jaren rust."
+          ],
+          [
+            "Het akkoord · 58–73",
+            "Nieuw plan tegen Jonathan, Bet-Basi, vrede, vrijlating en bestuur in Michmas."
+          ]
+        ],
+        "note": "De rust in het midden van het hoofdstuk wordt gevolgd door een nieuw conflict en daarna vrede."
+      }
+    },
+    {
+      "book": "1makkabeeen",
+      "chapter": 9,
+      "verse": 33,
+      "file": "9-plaatsen-en-bewegingen.svg",
+      "scene": "Plaatsen en bewegingen",
+      "alt": "Plaatsen en bewegingen met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1048,
+      "source": "1 Makkabeeën 9:33–73",
+      "design": {
+        "rows": [
+          [
+            "Tekoa en Asfar · 33",
+            "Een wijkplaats in de woestijn."
+          ],
+          [
+            "Medeba en de Jordaan · 35–49",
+            "Johannes’ bagageopdracht, wraak en een ontsnapping zwemmend over de rivier."
+          ],
+          [
+            "Bet-Basi · 62–68",
+            "Herbouw, belegering, Simon in de stad en Jonathan daarbuiten."
+          ],
+          [
+            "Michmas · 70–73",
+            "Gezanten, vrijlating en Jonathans nieuwe bestuursplaats."
+          ]
+        ],
+        "note": "De plaatsnamen zijn tekstankers, zonder veronderstelde moderne grens- of afstandsaanduidingen."
+      }
+    },
+    {
+      "book": "1makkabeeen",
+      "chapter": 9,
+      "verse": 28,
+      "file": "9-broers-en-opdrachten.svg",
+      "scene": "Broers en opdrachten",
+      "alt": "Broers en opdrachten met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1091,
+      "source": "1 Makkabeeën 9:19,28–38,62–67",
+      "design": {
+        "rows": [
+          [
+            "Jonathan",
+            "Gekozen als leider na Judas; neemt de leiding op zich."
+          ],
+          [
+            "Simon",
+            "Begraaft Judas met Jonathan; blijft later in Bet-Basi bij de verdediging."
+          ],
+          [
+            "Johannes",
+            "Krijgt de bagageopdracht richting de Nabateeërs; wordt bij Medeba gegrepen."
+          ],
+          [
+            "Judas",
+            "Zijn dood en nagedachtenis vormen het beginpunt van de opvolging."
+          ]
+        ],
+        "note": "De broers worden niet als gelijktijdige opvolgers weergegeven; hun opdrachten verschillen."
+      }
+    }
+  ]
+}

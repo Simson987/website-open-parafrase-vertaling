@@ -63507,42 +63507,60 @@
         "verse": 17,
         "file": "8-17.webp",
         "alt": "Beeld bij 1makkabeeen 8: Gezanten op weg naar Rome",
-        "scene": "Gezanten op weg naar Rome"
+        "scene": "Gezanten op weg naar Rome",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 8,
         "verse": 20,
         "file": "8-20.webp",
         "alt": "Beeld bij 1makkabeeen 8: Voor de Romeinse raad",
-        "scene": "Voor de Romeinse raad"
+        "scene": "Voor de Romeinse raad",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 8,
         "verse": 22,
         "file": "8-22.webp",
         "alt": "Beeld bij 1makkabeeen 8: Het verbond op bronzen platen",
-        "scene": "Het verbond op bronzen platen"
+        "scene": "Het verbond op bronzen platen",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 9,
         "verse": 19,
         "file": "9-19.webp",
         "alt": "Beeld bij 1makkabeeen 9: Rouw in Modin",
-        "scene": "Rouw in Modin"
+        "scene": "Rouw in Modin",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 9,
         "verse": 30,
         "file": "9-30.webp",
         "alt": "Beeld bij 1makkabeeen 9: Jonathan wordt leider",
-        "scene": "Jonathan wordt leider"
+        "scene": "Jonathan wordt leider",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 9,
         "verse": 72,
         "file": "9-72.webp",
         "alt": "Beeld bij 1makkabeeen 9: Gevangenen keren terug",
-        "scene": "Gevangenen keren terug"
+        "scene": "Gevangenen keren terug",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 10,
@@ -63849,21 +63867,30 @@
         "verse": 29,
         "file": "7-29.webp",
         "alt": "Beeld bij 1makkabeeen 7: Een bedrieglijke ontmoeting",
-        "scene": "Een bedrieglijke ontmoeting"
+        "scene": "Een bedrieglijke ontmoeting",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 7,
         "verse": 36,
         "file": "7-36.webp",
         "alt": "Beeld bij 1makkabeeen 7: De priesters bidden bij het altaar",
-        "scene": "De priesters bidden bij het altaar"
+        "scene": "De priesters bidden bij het altaar",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 7,
         "verse": 48,
         "file": "7-48.webp",
         "alt": "Beeld bij 1makkabeeen 7: Vreugde na de overwinning",
-        "scene": "Vreugde na de overwinning"
+        "scene": "Vreugde na de overwinning",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 1,
@@ -64094,6 +64121,106 @@
         "kind": "diagram",
         "width": 840,
         "height": 942
+      },
+      {
+        "chapter": 7,
+        "verse": 4,
+        "file": "7-4-demetrius-op-troon-verdieping.webp",
+        "scene": "Demetrius neemt plaats op de troon",
+        "alt": "Demetrius neemt plaats op de troon — 1 Makkabeeën 7:4; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 9,
+        "verse": 48,
+        "file": "9-48-zwemmen-over-jordaan-verdieping.webp",
+        "scene": "Jonathan en zijn mannen zwemmen over",
+        "alt": "Jonathan en zijn mannen zwemmen over — 1 Makkabeeën 9:48; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 9,
+        "verse": 62,
+        "file": "9-62-bet-basi-versterken-verdieping.webp",
+        "scene": "Jonathan en Simon versterken Bet-Basi",
+        "alt": "Jonathan en Simon versterken Bet-Basi — 1 Makkabeeën 9:62; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 7,
+        "verse": 1,
+        "file": "7-demetrius-en-aanvoerders.svg",
+        "scene": "Demetrius en de aanvoerders",
+        "alt": "Demetrius en de aanvoerders met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1098
+      },
+      {
+        "chapter": 7,
+        "verse": 13,
+        "file": "7-eed-en-vertrouwen.svg",
+        "scene": "Eed en vertrouwen",
+        "alt": "Eed en vertrouwen met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 992
+      },
+      {
+        "chapter": 8,
+        "verse": 17,
+        "file": "8-twee-gezanten.svg",
+        "scene": "De twee gezanten",
+        "alt": "De twee gezanten met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1091
+      },
+      {
+        "chapter": 8,
+        "verse": 24,
+        "file": "8-wederzijdse-afspraken.svg",
+        "scene": "Wederzijdse afspraken",
+        "alt": "Wederzijdse afspraken met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1177
+      },
+      {
+        "chapter": 9,
+        "verse": 1,
+        "file": "9-judas-jonathan-en-rust.svg",
+        "scene": "Judas, Jonathan en rust",
+        "alt": "Judas, Jonathan en rust met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1098
+      },
+      {
+        "chapter": 9,
+        "verse": 33,
+        "file": "9-plaatsen-en-bewegingen.svg",
+        "scene": "Plaatsen en bewegingen",
+        "alt": "Plaatsen en bewegingen met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1048
+      },
+      {
+        "chapter": 9,
+        "verse": 28,
+        "file": "9-broers-en-opdrachten.svg",
+        "scene": "Broers en opdrachten",
+        "alt": "Broers en opdrachten met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1091
       }
     ],
     "2makkabeeen": [

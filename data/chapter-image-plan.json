@@ -37637,6 +37637,100 @@
           "source": "1 Makkabeeën 6:30,35–37"
         }
       ]
+    },
+    {
+      "book": "1makkabeeen",
+      "chapter": 7,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Nikanors ontmoeting, priestergebed en vreugde zijn aanwezig. De troonswisseling naar Demetrius vormt het zelfstandige politieke begin en krijgt een scène. Twee schema’s verduidelijken de verschillende aanvoerders en de twee bedrieglijke vredescontacten.",
+      "additions": [
+        {
+          "verse": 4,
+          "file": "7-4-demetrius-op-troon-verdieping.webp",
+          "scene": "Demetrius neemt plaats op de troon",
+          "kind": "scene"
+        },
+        {
+          "verse": 1,
+          "file": "7-demetrius-en-aanvoerders.svg",
+          "scene": "Demetrius en de aanvoerders",
+          "kind": "diagram",
+          "source": "1 Makkabeeën 7:1–50"
+        },
+        {
+          "verse": 13,
+          "file": "7-eed-en-vertrouwen.svg",
+          "scene": "Eed en vertrouwen",
+          "kind": "diagram",
+          "source": "1 Makkabeeën 7:12–18,27–30"
+        }
+      ]
+    },
+    {
+      "book": "1makkabeeen",
+      "chapter": 9,
+      "status": "reviewed",
+      "target_images": 8,
+      "reason": "Begrafenis, keuze van Jonathan en terugkerende gevangenen zijn aanwezig. De ontsnapping door de Jordaan en de herbouw van Bet-Basi zijn twee afzonderlijke ontbrekende gebeurtenissen. Drie schema’s houden fases, locaties en opdrachten van de broers uiteen.",
+      "additions": [
+        {
+          "verse": 48,
+          "file": "9-48-zwemmen-over-jordaan-verdieping.webp",
+          "scene": "Jonathan en zijn mannen zwemmen over",
+          "kind": "scene"
+        },
+        {
+          "verse": 62,
+          "file": "9-62-bet-basi-versterken-verdieping.webp",
+          "scene": "Jonathan en Simon versterken Bet-Basi",
+          "kind": "scene"
+        },
+        {
+          "verse": 1,
+          "file": "9-judas-jonathan-en-rust.svg",
+          "scene": "Judas, Jonathan en rust",
+          "kind": "diagram",
+          "source": "1 Makkabeeën 9:1–73"
+        },
+        {
+          "verse": 33,
+          "file": "9-plaatsen-en-bewegingen.svg",
+          "scene": "Plaatsen en bewegingen",
+          "kind": "diagram",
+          "source": "1 Makkabeeën 9:33–73"
+        },
+        {
+          "verse": 28,
+          "file": "9-broers-en-opdrachten.svg",
+          "scene": "Broers en opdrachten",
+          "kind": "diagram",
+          "source": "1 Makkabeeën 9:19,28–38,62–67"
+        }
+      ]
+    },
+    {
+      "book": "1makkabeeen",
+      "chapter": 8,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "De gezanten, Romeinse raad en koperen verbondsplaten dekken de zelfstandige handelingen. Twee schema’s controleren de namen, herkomst van het bericht en wederzijdse verplichtingen; geen dubbele senaatsfoto.",
+      "additions": [
+        {
+          "verse": 17,
+          "file": "8-twee-gezanten.svg",
+          "scene": "De twee gezanten",
+          "kind": "diagram",
+          "source": "1 Makkabeeën 8:1–22"
+        },
+        {
+          "verse": 24,
+          "file": "8-wederzijdse-afspraken.svg",
+          "scene": "Wederzijdse afspraken",
+          "kind": "diagram",
+          "source": "1 Makkabeeën 8:23–32"
+        }
+      ]
     }
   ]
 }
