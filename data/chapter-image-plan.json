@@ -42890,6 +42890,206 @@
       "target_images": 3,
       "reason": "Davids vertrouwen, gebed en delen dekken alle vijf verzen. Drie bestaande beelden volstaan; geen aanvullende gebeds- of broodfoto.",
       "additions": []
+    },
+    {
+      "book": "4baruch",
+      "chapter": 4,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Sleutels, Baruchs weeklacht en engelen zijn aanwezig. Geopende poort en Jeremia met ballingen zijn twee aparte gebeurtenissen en krijgen scènes. Schema koppelt verschillende bewaringshandelingen.",
+      "additions": [
+        {
+          "verse": 2,
+          "file": "4-2-de-poort-gaat-open-verdieping.webp",
+          "scene": "De poort gaat open",
+          "kind": "scene"
+        },
+        {
+          "verse": 6,
+          "file": "4-6-jeremia-met-de-ballingen-verdieping.webp",
+          "scene": "Jeremia met de ballingen",
+          "kind": "scene"
+        },
+        {
+          "verse": 1,
+          "file": "4-poort-sleutels-en-ballingschap.svg",
+          "scene": "Poort, sleutels en ballingschap",
+          "kind": "diagram",
+          "source": "4 Baruch 4:1–12"
+        }
+      ]
+    },
+    {
+      "book": "4baruch",
+      "chapter": 5,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Rust, verse vijgen en oude man zijn aanwezig. Abimelechs vergeefse zoeken in onbekende stad is een apart middenmoment. Eén schema bewaart 66 jaar, seizoen en de plaatselijke kalendernamen.",
+      "additions": [
+        {
+          "verse": 7,
+          "file": "5-7-een-onbekende-stad-verdieping.webp",
+          "scene": "Abimelech in de onbekende stad",
+          "kind": "scene"
+        },
+        {
+          "verse": 1,
+          "file": "5-zesenzestig-jaar-en-verse-vijgen.svg",
+          "scene": "Zesenzestig jaar en verse vijgen",
+          "kind": "diagram",
+          "source": "4 Baruch 5:1–35"
+        }
+      ]
+    },
+    {
+      "book": "4baruch",
+      "chapter": 7,
+      "status": "reviewed",
+      "target_images": 8,
+      "reason": "Zending, zuil en voorlezen zijn aanwezig. Levend geworden man, Jeremia’s antwoordbrief en zorg voor zieken zijn drie andere zelfstandige handelingen. Twee schema’s onderscheiden brieven, 15 vijgen, teken en omstandersuitleg.",
+      "additions": [
+        {
+          "verse": 18,
+          "file": "7-18-de-man-wordt-levend-verdieping.webp",
+          "scene": "De man wordt levend",
+          "kind": "scene"
+        },
+        {
+          "verse": 24,
+          "file": "7-24-jeremia-schrijft-terug-verdieping.webp",
+          "scene": "Jeremia schrijft terug",
+          "kind": "scene"
+        },
+        {
+          "verse": 37,
+          "file": "7-37-vijgen-voor-de-zieken-verdieping.webp",
+          "scene": "Vijgen voor de zieken",
+          "kind": "scene"
+        },
+        {
+          "verse": 1,
+          "file": "7-de-arend-als-bode.svg",
+          "scene": "De arend als bode",
+          "kind": "diagram",
+          "source": "4 Baruch 7:1–23"
+        },
+        {
+          "verse": 24,
+          "file": "7-antwoord-en-zorg.svg",
+          "scene": "Antwoord en zorg",
+          "kind": "diagram",
+          "source": "4 Baruch 7:24–37"
+        }
+      ]
+    },
+    {
+      "book": "4baruch",
+      "chapter": 9,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Gebed, drie dagen waken en wondersteen zijn aanwezig. Jeremia’s vertellen aan Baruch en Abimelech na het waken is een apart moment. Twee schema’s omvatten visioen, 477 jaar, 12 apostelen, dienst en graf; geen nieuwe dodingillustratie.",
+      "additions": [
+        {
+          "verse": 28,
+          "file": "9-28-jeremia-vertelt-het-visioen-verdieping.webp",
+          "scene": "Jeremia vertelt het visioen",
+          "kind": "scene"
+        },
+        {
+          "verse": 1,
+          "file": "9-gebed-visioen-en-terugkeer.svg",
+          "scene": "Gebed, visioen en terugkeer",
+          "kind": "diagram",
+          "source": "4 Baruch 9:1–20"
+        },
+        {
+          "verse": 21,
+          "file": "9-steen-en-voltooide-dienst.svg",
+          "scene": "Steen en voltooide dienst",
+          "kind": "diagram",
+          "source": "4 Baruch 9:21–32"
+        }
+      ]
+    },
+    {
+      "book": "4baruch",
+      "chapter": 1,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "Vertrek, gebed en nachtwacht zijn aanwezig. Eén schema verduidelijkt beschermend gebed, poort en zesde uur; geen vierde wacht- of gebedsfoto.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "1-gebed-poort-en-nacht.svg",
+          "scene": "Gebed, poort en nacht",
+          "kind": "diagram",
+          "source": "4 Baruch 1:1–12"
+        }
+      ]
+    },
+    {
+      "book": "4baruch",
+      "chapter": 2,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "Rouw, vraaggesprek en samen huilen dekken alle handelingen. Eén schema verduidelijkt hart/tranenbeeldspraak; geen extra rouwvariant.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "2-rouw-en-het-hart.svg",
+          "scene": "Rouw en het hart",
+          "kind": "diagram",
+          "source": "4 Baruch 2:1–10"
+        }
+      ]
+    },
+    {
+      "book": "4baruch",
+      "chapter": 3,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "Engelen, gerei en vijgenopdracht zijn aanwezig. Eén schema legt afzonderlijke rollen voor Jeremia, Baruch en Abimelech vast en bewaart Agrippa’s naam.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "3-drie-personen-drie-opdrachten.svg",
+          "scene": "Drie personen, drie opdrachten",
+          "kind": "diagram",
+          "source": "4 Baruch 3:1–22"
+        }
+      ]
+    },
+    {
+      "book": "4baruch",
+      "chapter": 6,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "Hereniging, bodebelofte en brief zijn aanwezig. Eén schema voegt de vijgen-lichaamvergelijking en toets bij Jordaan toe; geen duplicaat van schrijven of omhelzen.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "6-vijgen-lichaam-en-brief.svg",
+          "scene": "Vijgen, lichaam en brief",
+          "kind": "diagram",
+          "source": "4 Baruch 6:1–25"
+        }
+      ]
+    },
+    {
+      "book": "4baruch",
+      "chapter": 8,
+      "status": "reviewed",
+      "target_images": 4,
+      "reason": "Vertrek, Jordaan en bouwen zijn aanwezig. Eén schema voegt beide geweigerde toegangen en naam Samaria toe; vertelling wordt niet als moderne gezinsrichtlijn gepresenteerd.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "8-jordaan-en-nieuwe-woonplaats.svg",
+          "scene": "Jordaan en nieuwe woonplaats",
+          "kind": "diagram",
+          "source": "4 Baruch 8:1–12"
+        }
+      ]
     }
   ]
 }
