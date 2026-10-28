@@ -1,0 +1,240 @@
+{
+  "date": "2026-10-28",
+  "resumed": "2026-10-28T07:08:34Z",
+  "started": "2026-10-26T12:19:19Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "3makkabeeen",
+      "chapter": 1,
+      "verse": 5,
+      "file": "1-5-arsinoe-bemoedigt-verdieping.webp",
+      "scene": "Arsinoë spreekt de soldaten moed in",
+      "alt": "Arsinoë spreekt de soldaten moed in — 3 Makkabeeën 1:5; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic biblical scene in Hellenistic Jerusalem or Ptolemaic Egypt, third century BCE, landscape 3:2, plausible ancient natural materials and modest opaque clothes. Coherent people with exactly two arms and natural hands. No modern objects, readable writing, image of God, blood, wounds or corpses. An adult royal woman Arsinoe with loose dark hair and fully covering dignified linen robes stands beside an ancient military encampment, earnestly addressing a small group of weary adult Ptolemaic soldiers with helmets and shields. She makes a pleading open-hand gesture, eyes tearful but resolute. No active fighting or injured people. 3 Maccabees 1:5, her appeal to protect families before the turn in the battle.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "3makkabeeen",
+      "chapter": 1,
+      "verse": 15,
+      "file": "1-15-gebed-in-de-straten-verdieping.webp",
+      "scene": "Gebed en ontsteltenis in de straten",
+      "alt": "Gebed en ontsteltenis in de straten — 3 Makkabeeën 1:15; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic biblical scene in Hellenistic Jerusalem or Ptolemaic Egypt, third century BCE, landscape 3:2, plausible ancient natural materials and modest opaque clothes. Coherent people with exactly two arms and natural hands. No modern objects, readable writing, image of God, blood, wounds or corpses. In an ancient Jerusalem street leading uphill toward the temple, modestly clothed adult women and men come together in anxious prayer, some with a little dust in their hair and raised hands. Fully opaque robes, restrained sorrow, temple visible beyond. No abandoned babies or panic injuries. The citywide response in 3 Maccabees 1:14–18, distinct from the elders speaking privately to the king.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "3makkabeeen",
+      "chapter": 2,
+      "verse": 17,
+      "file": "2-17-koning-uit-tempel-verdieping.webp",
+      "scene": "De koning wordt naar buiten gedragen",
+      "alt": "De koning wordt naar buiten gedragen — 3 Makkabeeën 2:17; tekstillustratie.",
+      "kind": "scene",
+      "prompt": "Use case: historical-scene. Photorealistic biblical scene in Hellenistic Jerusalem or Ptolemaic Egypt, third century BCE, landscape 3:2, plausible ancient natural materials and modest opaque clothes. Coherent people with exactly two arms and natural hands. No modern objects, readable writing, image of God, blood, wounds or corpses. Two adult royal attendants carefully support a conscious but weak adult Hellenistic king between them as they leave the stone outer doorway of the Jerusalem temple. His body is coherent, eyes open, legs supported, modest opaque tunic and royal cloak. Alarmed but gentle expressions, no wounds or collapse injury. The attendants removing the powerless king in 3 Maccabees 2:16–17, before his later return to Egypt.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "3makkabeeen",
+      "chapter": 1,
+      "verse": 1,
+      "file": "1-van-rafia-naar-tempel.svg",
+      "scene": "Van Rafia naar de tempel",
+      "alt": "Van Rafia naar de tempel met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1177,
+      "source": "3 Makkabeeën 1:1–25",
+      "design": {
+        "rows": [
+          [
+            "Rafia · 1–6",
+            "Legers, nachtelijke aanslag, Dositheüs’ ingreep en Arsinoë’s aansporing."
+          ],
+          [
+            "Het bezoek · 7–10",
+            "Gaven, begroeting, dankoffer en bewondering voor de tempel."
+          ],
+          [
+            "De grens · 11–13",
+            "Alleen de hogepriester mag het binnenste eenmaal per jaar betreden; de koning dringt toch aan."
+          ],
+          [
+            "Het antwoord · 14–25",
+            "Priesters en stad bidden; oudsten kalmeren en proberen de koning terug te houden."
+          ]
+        ],
+        "note": "Dositheüs, zoon van Drimylus, wordt hier apart aangeduid; gelijknamige personen uit andere boeken worden niet samengevoegd."
+      }
+    },
+    {
+      "book": "3makkabeeen",
+      "chapter": 1,
+      "verse": 11,
+      "file": "1-toegang-en-weerstand.svg",
+      "scene": "Toegang en weerstand",
+      "alt": "Toegang en weerstand met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1098,
+      "source": "3 Makkabeeën 1:11–25",
+      "design": {
+        "rows": [
+          [
+            "De tempelregel · 11",
+            "Niet alle priesters en niet het hele volk; slechts de hogepriester, eenmaal per jaar."
+          ],
+          [
+            "De koning · 12–13,22",
+            "Meent zelf recht te hebben en zet door."
+          ],
+          [
+            "Raad en oudsten · 19–21",
+            "Kalmeren de oproep tot wapens en zoeken overreding."
+          ],
+          [
+            "De gemeenschap · 14–18,23–25",
+            "Priesters, inwoners en zelfs koninklijke begeleiders zoeken hulp in gebed."
+          ]
+        ],
+        "note": "De dreigende ontwijding is de kern; de opsomming onderscheidt de verschillende reacties."
+      }
+    },
+    {
+      "book": "3makkabeeen",
+      "chapter": 2,
+      "verse": 1,
+      "file": "2-simons-gebed.svg",
+      "scene": "Simons gebed",
+      "alt": "Simons gebed met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1091,
+      "source": "3 Makkabeeën 2:1–15",
+      "design": {
+        "rows": [
+          [
+            "Aanroeping · 1–3",
+            "Koning van de hemel, Schepper en rechtvaardige rechter."
+          ],
+          [
+            "Herinneringen · 4–7",
+            "Vloed, Sodom en farao tegenover de redding van wie vertrouwden."
+          ],
+          [
+            "Plaats en belofte · 8–13",
+            "Uitgekozen stad en heiligdom, verhoord gebed en Gods woning boven de hemelen."
+          ],
+          [
+            "Het verzoek · 14–15",
+            "Geen ontwijding, uitwissing van zonden, ontferming en vrede."
+          ]
+        ],
+        "note": "De vroegere gebeurtenissen worden in het gebed herinnerd; zij vinden niet opnieuw tijdens het tempelbezoek plaats."
+      }
+    },
+    {
+      "book": "3makkabeeen",
+      "chapter": 2,
+      "verse": 16,
+      "file": "2-antwoord-en-tegenreactie.svg",
+      "scene": "Antwoord en tegenreactie",
+      "alt": "Antwoord en tegenreactie met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 992,
+      "source": "3 Makkabeeën 2:16–25",
+      "design": {
+        "rows": [
+          [
+            "Het antwoord · 16–18",
+            "De koning wordt machteloos, naar buiten gedragen en vertrekt zonder berouw."
+          ],
+          [
+            "Het besluit · 19–22",
+            "In Egypte volgen registratie, vernedering en voorwaardelijk burgerrecht bij deelname aan Bacchusdienst."
+          ],
+          [
+            "De reacties · 23–25",
+            "Enkelen stemmen in; de meesten blijven standvastig en proberen zich met geld van inschrijving te bevrijden."
+          ]
+        ],
+        "note": "Het beloofde burgerrecht is voorwaardelijk; de tekst vertelt geen algemene vrije keuze."
+      }
+    },
+    {
+      "book": "3makkabeeen",
+      "chapter": 3,
+      "verse": 1,
+      "file": "3-laster-en-bescherming.svg",
+      "scene": "Laster en bescherming",
+      "alt": "Laster en bescherming met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1091,
+      "source": "3 Makkabeeën 3:1–8",
+      "design": {
+        "rows": [
+          [
+            "De dreiging · 1–2",
+            "Het bevel tot bijeenbrengen gaat samen met vijandige geruchten."
+          ],
+          [
+            "De verteller · 3–4",
+            "Beschrijft trouw aan koningen en goede werken, tegenover verdachtmaking van hun godsdienst."
+          ],
+          [
+            "Buren en vrienden · 5–7",
+            "Grieken spreken moed in; sommigen beloven heimelijk bescherming."
+          ],
+          [
+            "De koning · 8",
+            "Volhardt en stelt een brief op."
+          ]
+        ],
+        "note": "De vijandige aantijgingen zijn niet de stem van de verteller en worden niet als feiten bevestigd."
+      }
+    },
+    {
+      "book": "3makkabeeen",
+      "chapter": 3,
+      "verse": 9,
+      "file": "3-de-koninklijke-brief.svg",
+      "scene": "De koninklijke brief",
+      "alt": "De koninklijke brief met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1134,
+      "source": "3 Makkabeeën 3:9–22",
+      "design": {
+        "rows": [
+          [
+            "Afzender en ontvangers · 9",
+            "Ptolemeüs Filopator aan stadhouders en soldaten in Egypte en andere gebieden."
+          ],
+          [
+            "Zelfrechtvaardiging · 10–17",
+            "De koning stelt zijn bezoek als weldaad voor en beschuldigt de Joden."
+          ],
+          [
+            "Het bevel · 18–20",
+            "Wegvoering van hele gezinnen en bestraffing van beschermers."
+          ],
+          [
+            "Beloning en dreiging · 21–22",
+            "Aangevers krijgen bezit en 2.000 zilveren drachmen; schuilplaatsen worden met verwoesting bedreigd."
+          ]
+        ],
+        "note": "Dit is de vervolgingsbrief van de koning. De vijandige typeringen zijn geciteerde beschuldigingen, geen oordeel van de leeswijzer."
+      }
+    }
+  ]
+}

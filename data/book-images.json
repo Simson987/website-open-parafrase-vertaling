@@ -65484,7 +65484,11 @@
         "chapter": 2,
         "file": "2-prayer.webp",
         "alt": "Een priester bidt voor zijn gemeenschap",
-        "scene": "Gebed om bescherming"
+        "scene": "Gebed om bescherming",
+        "verse": 1,
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 6,
@@ -65503,56 +65507,80 @@
         "verse": 8,
         "file": "1-8.webp",
         "alt": "Beeld bij 3makkabeeen 1: Een begroeting voor Filopator",
-        "scene": "Een begroeting voor Filopator"
+        "scene": "Een begroeting voor Filopator",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 1,
         "verse": 10,
         "file": "1-10.webp",
         "alt": "Beeld bij 3makkabeeen 1: De koning bewondert de tempel",
-        "scene": "De koning bewondert de tempel"
+        "scene": "De koning bewondert de tempel",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 1,
         "verse": 21,
         "file": "1-21.webp",
         "alt": "Beeld bij 3makkabeeen 1: De oudsten proberen te kalmeren",
-        "scene": "De oudsten proberen te kalmeren"
+        "scene": "De oudsten proberen te kalmeren",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 2,
         "verse": 20,
         "file": "2-20.webp",
         "alt": "Beeld bij 3makkabeeen 2: Een hard besluit bekendgemaakt",
-        "scene": "Een hard besluit bekendgemaakt"
+        "scene": "Een hard besluit bekendgemaakt",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 2,
         "verse": 24,
         "file": "2-24.webp",
         "alt": "Beeld bij 3makkabeeen 2: Standvastig in het geloof",
-        "scene": "Standvastig in het geloof"
+        "scene": "Standvastig in het geloof",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 3,
         "verse": 3,
         "file": "3-3.webp",
         "alt": "Beeld bij 3makkabeeen 3: Een rechtvaardige levenswandel",
-        "scene": "Een rechtvaardige levenswandel"
+        "scene": "Een rechtvaardige levenswandel",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 3,
         "verse": 6,
         "file": "3-6.webp",
         "alt": "Beeld bij 3makkabeeen 3: Griekse buren spreken moed in",
-        "scene": "Griekse buren spreken moed in"
+        "scene": "Griekse buren spreken moed in",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 3,
         "verse": 7,
         "file": "3-7.webp",
         "alt": "Beeld bij 3makkabeeen 3: Vrienden beloven bescherming",
-        "scene": "Vrienden beloven bescherming"
+        "scene": "Vrienden beloven bescherming",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 4,
@@ -65623,6 +65651,96 @@
         "file": "7-18.webp",
         "alt": "Beeld bij 3makkabeeen 7: Het bezit teruggegeven",
         "scene": "Het bezit teruggegeven"
+      },
+      {
+        "chapter": 1,
+        "verse": 5,
+        "file": "1-5-arsinoe-bemoedigt-verdieping.webp",
+        "scene": "Arsinoë spreekt de soldaten moed in",
+        "alt": "Arsinoë spreekt de soldaten moed in — 3 Makkabeeën 1:5; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 1,
+        "verse": 15,
+        "file": "1-15-gebed-in-de-straten-verdieping.webp",
+        "scene": "Gebed en ontsteltenis in de straten",
+        "alt": "Gebed en ontsteltenis in de straten — 3 Makkabeeën 1:15; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 2,
+        "verse": 17,
+        "file": "2-17-koning-uit-tempel-verdieping.webp",
+        "scene": "De koning wordt naar buiten gedragen",
+        "alt": "De koning wordt naar buiten gedragen — 3 Makkabeeën 2:17; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 1,
+        "verse": 1,
+        "file": "1-van-rafia-naar-tempel.svg",
+        "scene": "Van Rafia naar de tempel",
+        "alt": "Van Rafia naar de tempel met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1177
+      },
+      {
+        "chapter": 1,
+        "verse": 11,
+        "file": "1-toegang-en-weerstand.svg",
+        "scene": "Toegang en weerstand",
+        "alt": "Toegang en weerstand met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1098
+      },
+      {
+        "chapter": 2,
+        "verse": 1,
+        "file": "2-simons-gebed.svg",
+        "scene": "Simons gebed",
+        "alt": "Simons gebed met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1091
+      },
+      {
+        "chapter": 2,
+        "verse": 16,
+        "file": "2-antwoord-en-tegenreactie.svg",
+        "scene": "Antwoord en tegenreactie",
+        "alt": "Antwoord en tegenreactie met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 992
+      },
+      {
+        "chapter": 3,
+        "verse": 1,
+        "file": "3-laster-en-bescherming.svg",
+        "scene": "Laster en bescherming",
+        "alt": "Laster en bescherming met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1091
+      },
+      {
+        "chapter": 3,
+        "verse": 9,
+        "file": "3-de-koninklijke-brief.svg",
+        "scene": "De koninklijke brief",
+        "alt": "De koninklijke brief met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1134
       }
     ],
     "hooglied": [

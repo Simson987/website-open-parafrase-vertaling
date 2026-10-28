@@ -38418,6 +38418,93 @@
           "source": "2 Makkabeeën 15:39–40"
         }
       ]
+    },
+    {
+      "book": "3makkabeeen",
+      "chapter": 1,
+      "status": "reviewed",
+      "target_images": 7,
+      "reason": "Begroeting, tempelbewondering en kalmerende oudsten zijn aanwezig. Arsinoë’s vroegere aansporing en het stadsbrede gebed zijn andere belangrijke fasen en krijgen scènes. Twee schema’s maken de overgang van Rafia naar de toegangsgrens in de tempel duidelijk.",
+      "additions": [
+        {
+          "verse": 5,
+          "file": "1-5-arsinoe-bemoedigt-verdieping.webp",
+          "scene": "Arsinoë spreekt de soldaten moed in",
+          "kind": "scene"
+        },
+        {
+          "verse": 15,
+          "file": "1-15-gebed-in-de-straten-verdieping.webp",
+          "scene": "Gebed en ontsteltenis in de straten",
+          "kind": "scene"
+        },
+        {
+          "verse": 1,
+          "file": "1-van-rafia-naar-tempel.svg",
+          "scene": "Van Rafia naar de tempel",
+          "kind": "diagram",
+          "source": "3 Makkabeeën 1:1–25"
+        },
+        {
+          "verse": 11,
+          "file": "1-toegang-en-weerstand.svg",
+          "scene": "Toegang en weerstand",
+          "kind": "diagram",
+          "source": "3 Makkabeeën 1:11–25"
+        }
+      ]
+    },
+    {
+      "book": "3makkabeeen",
+      "chapter": 2,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Simon, het besluit en standvastigheid zijn aanwezig. Het wegdragen van de machteloze koning is een eigen ontbrekend scharniermoment en krijgt een scène. Twee schema’s onderscheiden gebedsherinneringen, antwoord en de daaropvolgende dwang in Egypte.",
+      "additions": [
+        {
+          "verse": 17,
+          "file": "2-17-koning-uit-tempel-verdieping.webp",
+          "scene": "De koning wordt naar buiten gedragen",
+          "kind": "scene"
+        },
+        {
+          "verse": 1,
+          "file": "2-simons-gebed.svg",
+          "scene": "Simons gebed",
+          "kind": "diagram",
+          "source": "3 Makkabeeën 2:1–15"
+        },
+        {
+          "verse": 16,
+          "file": "2-antwoord-en-tegenreactie.svg",
+          "scene": "Antwoord en tegenreactie",
+          "kind": "diagram",
+          "source": "3 Makkabeeën 2:16–25"
+        }
+      ]
+    },
+    {
+      "book": "3makkabeeen",
+      "chapter": 3,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Goede levenswandel, bemoediging en heimelijke bescherming zijn aanwezig. Extra burengesprek zou dupliceren; twee schema’s onderscheiden vertellersstem, laster en de feitelijke inhoud van de vervolgingsbrief.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "3-laster-en-bescherming.svg",
+          "scene": "Laster en bescherming",
+          "kind": "diagram",
+          "source": "3 Makkabeeën 3:1–8"
+        },
+        {
+          "verse": 9,
+          "file": "3-de-koninklijke-brief.svg",
+          "scene": "De koninklijke brief",
+          "kind": "diagram",
+          "source": "3 Makkabeeën 3:9–22"
+        }
+      ]
     }
   ]
 }
