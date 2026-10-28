@@ -40386,6 +40386,310 @@
       "target_images": 3,
       "reason": "Gerechtig geslacht, teruggebrachte geruststelling en de naam Noach zijn alle drie verzen en al aanwezig. Drie beelden volstaan; geen herhaalde familieontmoeting.",
       "additions": []
+    },
+    {
+      "book": "jubileeen",
+      "chapter": 1,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Bergverblijf, gebed en engelplaten zijn aanwezig. De beloofde terugkeer krijgt één als belofte benoemde illustratie. Eén schema onderscheidt bergtijd, verbondsbreuk en herstel.",
+      "additions": [
+        {
+          "verse": 15,
+          "file": "1-15-belofte-van-terugkeer-verdieping.webp",
+          "scene": "Beloftebeeld: terugkeer uit de volken",
+          "kind": "poetic"
+        },
+        {
+          "verse": 1,
+          "file": "1-verbond-breuk-en-herstel.svg",
+          "scene": "Verbond, breuk en herstel",
+          "kind": "diagram",
+          "source": "Jubileeën 1:1–29"
+        }
+      ]
+    },
+    {
+      "book": "jubileeen",
+      "chapter": 2,
+      "status": "reviewed",
+      "target_images": 7,
+      "reason": "Droog land, vissen/vogels en sabbat zijn aanwezig. Waterdeling op dag 2 en landdieren op dag 6 zijn afzonderlijke scheppingswerken en krijgen elk een illustratie. Twee schema’s leggen alle dagen en de specifieke sabbatsrelaties vast.",
+      "additions": [
+        {
+          "verse": 4,
+          "file": "2-4-water-boven-en-beneden-verdieping.webp",
+          "scene": "Scheppingsbeeld: water boven en beneden",
+          "kind": "poetic"
+        },
+        {
+          "verse": 13,
+          "file": "2-13-landdieren-op-de-zesde-dag-verdieping.webp",
+          "scene": "Scheppingsbeeld: dieren op het land",
+          "kind": "poetic"
+        },
+        {
+          "verse": 1,
+          "file": "2-zes-dagen-in-dit-hoofdstuk.svg",
+          "scene": "Zes dagen in dit hoofdstuk",
+          "kind": "diagram",
+          "source": "Jubileeën 2:1–16"
+        },
+        {
+          "verse": 17,
+          "file": "2-sabbat-en-de-tweeentwintig.svg",
+          "scene": "Sabbat en de tweeëntwintig",
+          "kind": "diagram",
+          "source": "Jubileeën 2:17–33"
+        }
+      ]
+    },
+    {
+      "book": "jubileeen",
+      "chapter": 3,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Naamgeving, tuinwerk en vertrek zijn aanwezig, met bedekte paradijsfiguren. Adams reukoffer na vertrek is een zelfstandige handeling en krijgt één geklede scène. Twee schema’s leggen de precieze 40/80 dagen en de latere route naar Elda vast.",
+      "additions": [
+        {
+          "verse": 27,
+          "file": "3-27-adams-reukoffer-verdieping.webp",
+          "scene": "Adam brengt reukwerk bij zonsopgang",
+          "kind": "scene"
+        },
+        {
+          "verse": 8,
+          "file": "3-dagen-tuin-en-reiniging.svg",
+          "scene": "Dagen, tuin en reiniging",
+          "kind": "diagram",
+          "source": "Jubileeën 3:8–17"
+        },
+        {
+          "verse": 18,
+          "file": "3-van-gesprek-naar-elda.svg",
+          "scene": "Van gesprek naar Elda",
+          "kind": "diagram",
+          "source": "Jubileeën 3:18–35"
+        }
+      ]
+    },
+    {
+      "book": "jubileeen",
+      "chapter": 4,
+      "status": "reviewed",
+      "target_images": 8,
+      "reason": "De bestaande drie beelden tonen alleen Enos en Henoch. Rouw om Abel en Kaïns ingestorte huis zijn twee nieuwe gebeurtenissen en krijgen respectvolle scènes zonder lijken. Drie schema’s voegen de uitgebreide echtparen, afstamming en vier heilige plaatsen toe zonder ontbrekende schakels te verzinnen.",
+      "additions": [
+        {
+          "verse": 7,
+          "file": "4-7-rouw-om-abel-verdieping.webp",
+          "scene": "Adam en Eva rouwen om Abel",
+          "kind": "scene"
+        },
+        {
+          "verse": 31,
+          "file": "4-31-kains-ingestorte-huis-verdieping.webp",
+          "scene": "Het ingestorte huis van Kaïn",
+          "kind": "scene"
+        },
+        {
+          "verse": 1,
+          "file": "4-eerste-familierelaties.svg",
+          "scene": "De eerste familierelaties",
+          "kind": "diagram",
+          "source": "Jubileeën 4:1–14"
+        },
+        {
+          "verse": 15,
+          "file": "4-genoemde-huwelijken.svg",
+          "scene": "De genoemde huwelijken",
+          "kind": "diagram",
+          "source": "Jubileeën 4:15–33"
+        },
+        {
+          "verse": 17,
+          "file": "4-henoch-en-vier-plaatsen.svg",
+          "scene": "Henoch en de vier plaatsen",
+          "kind": "diagram",
+          "source": "Jubileeën 4:17–32"
+        }
+      ]
+    },
+    {
+      "book": "jubileeen",
+      "chapter": 5,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Bouw, drijvende ark en uitgang zijn aanwezig. Het tot rust komen op Lubar is een zelfstandig tussenmoment. Twee schema’s onderscheiden rechtvaardig oordeel en de precieze getallen en tijdgegevens van de vloed.",
+      "additions": [
+        {
+          "verse": 28,
+          "file": "5-28-ark-rust-op-lubar-verdieping.webp",
+          "scene": "De ark rust op Lubar",
+          "kind": "scene"
+        },
+        {
+          "verse": 1,
+          "file": "5-oordeel-en-ontferming.svg",
+          "scene": "Oordeel en ontferming",
+          "kind": "diagram",
+          "source": "Jubileeën 5:1–21"
+        },
+        {
+          "verse": 22,
+          "file": "5-vloedmaten-en-momenten.svg",
+          "scene": "Vloedmaten en momenten",
+          "kind": "diagram",
+          "source": "Jubileeën 5:22–32"
+        }
+      ]
+    },
+    {
+      "book": "jubileeen",
+      "chapter": 10,
+      "status": "reviewed",
+      "target_images": 8,
+      "reason": "Gebed, geneesmiddelenschrift en steenbouw zijn aanwezig. Boekoverdracht aan Sem, taalverwarring en windondergang zijn drie zelfstandige gebeurtenissen en krijgen scènes. Twee schema’s leggen 1/10 tegenover 9/10, Noachs leeftijd, torengetallen en de latere landkeuze vast.",
+      "additions": [
+        {
+          "verse": 14,
+          "file": "10-14-boeken-naar-sem-verdieping.webp",
+          "scene": "Noach geeft zijn boeken aan Sem",
+          "kind": "scene"
+        },
+        {
+          "verse": 24,
+          "file": "10-24-taalverwarring-bij-de-toren-verdieping.webp",
+          "scene": "De bouwers verstaan elkaar niet",
+          "kind": "scene"
+        },
+        {
+          "verse": 26,
+          "file": "10-26-wind-werpt-toren-om-verdieping.webp",
+          "scene": "Een harde wind werpt de toren om",
+          "kind": "scene"
+        },
+        {
+          "verse": 1,
+          "file": "10-geesten-en-boeken.svg",
+          "scene": "Geesten en boeken",
+          "kind": "diagram",
+          "source": "Jubileeën 10:1–17"
+        },
+        {
+          "verse": 18,
+          "file": "10-toren-en-verspreiding.svg",
+          "scene": "Toren en verspreiding",
+          "kind": "diagram",
+          "source": "Jubileeën 10:18–36"
+        }
+      ]
+    },
+    {
+      "book": "jubileeen",
+      "chapter": 6,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Regenboog, Noachs uitgang en eerstelingenfeest zijn aanwezig. Drie schema’s voegen het bloedverbond, de overdracht van het wekenfeest en de exacte herinneringsdagen/364 dagen toe; geen tweede regenboog of offermaaltijd.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "6-verbond-teken-en-bloed.svg",
+          "scene": "Verbond, teken en bloed",
+          "kind": "diagram",
+          "source": "Jubileeën 6:1–22"
+        },
+        {
+          "verse": 18,
+          "file": "6-doorgegeven-wekenfeest.svg",
+          "scene": "Het doorgegeven wekenfeest",
+          "kind": "diagram",
+          "source": "Jubileeën 6:18–22"
+        },
+        {
+          "verse": 23,
+          "file": "6-herinneringsdagen-en-jaar.svg",
+          "scene": "Herinneringsdagen en jaar",
+          "kind": "diagram",
+          "source": "Jubileeën 6:23–38"
+        }
+      ]
+    },
+    {
+      "book": "jubileeen",
+      "chapter": 7,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Wijngaard, respectvolle bedekking en onderricht zijn aanwezig. Twee schema’s voegen exacte steden, zonen en fruitjaren met de vijfledige onderrichtsketen toe.",
+      "additions": [
+        {
+          "verse": 10,
+          "file": "7-zonen-steden-en-kinderen.svg",
+          "scene": "Zonen, steden en kinderen",
+          "kind": "diagram",
+          "source": "Jubileeën 7:10–19"
+        },
+        {
+          "verse": 20,
+          "file": "7-onderricht-en-fruitjaren.svg",
+          "scene": "Onderricht en fruitjaren",
+          "kind": "diagram",
+          "source": "Jubileeën 7:20–39"
+        }
+      ]
+    },
+    {
+      "book": "jubileeen",
+      "chapter": 8,
+      "status": "reviewed",
+      "target_images": 5,
+      "reason": "Rotschrift, loting en Sion zijn aanwezig. Twee schema’s voegen de familieverbindingen en de drie oude wereldgebieden toe; geen moderne kaart met onzekere grenzen.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "8-kainan-en-zijn-familie.svg",
+          "scene": "Kaïnan en zijn familie",
+          "kind": "diagram",
+          "source": "Jubileeën 8:1–8"
+        },
+        {
+          "verse": 10,
+          "file": "8-drie-loten-van-de-aarde.svg",
+          "scene": "Drie loten van de aarde",
+          "kind": "diagram",
+          "source": "Jubileeën 8:10–30"
+        }
+      ]
+    },
+    {
+      "book": "jubileeen",
+      "chapter": 9,
+      "status": "reviewed",
+      "target_images": 6,
+      "reason": "Drie beelden tonen de loting als handeling, maar niet de aparte erfdelen. Drie schema’s leggen alle opgegeven zonen en grenzen vast, inclusief het niet beschreven erfdeel van Magog en de niet genummerde Madai.",
+      "additions": [
+        {
+          "verse": 1,
+          "file": "9-erfdelen-van-cham.svg",
+          "scene": "Erfdelen van Cham",
+          "kind": "diagram",
+          "source": "Jubileeën 9:1"
+        },
+        {
+          "verse": 2,
+          "file": "9-erfdelen-van-sem.svg",
+          "scene": "Erfdelen van Sem",
+          "kind": "diagram",
+          "source": "Jubileeën 9:2–6"
+        },
+        {
+          "verse": 7,
+          "file": "9-erfdelen-van-jafeth.svg",
+          "scene": "Erfdelen van Jafeth",
+          "kind": "diagram",
+          "source": "Jubileeën 9:7–15"
+        }
+      ]
     }
   ]
 }

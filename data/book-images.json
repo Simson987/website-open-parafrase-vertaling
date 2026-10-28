@@ -80904,13 +80904,21 @@
         "chapter": 1,
         "file": "1-sinai.webp",
         "alt": "Mozes zit op de Sinaï met een boekrol",
-        "scene": "Mozes op de Sinaï"
+        "scene": "Mozes op de Sinaï",
+        "verse": 1,
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 6,
         "file": "6-noah.webp",
         "alt": "Noach en zijn gezin kijken naar een regenboog",
-        "scene": "Het verbond met Noach"
+        "scene": "Het verbond met Noach",
+        "verse": 16,
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 12,
@@ -80923,196 +80931,280 @@
         "verse": 19,
         "file": "1-19.webp",
         "alt": "Beeld bij Jubileeen 1: Mozes bidt voor zijn volk",
-        "scene": "Mozes bidt voor zijn volk"
+        "scene": "Mozes bidt voor zijn volk",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 1,
         "verse": 29,
         "file": "1-29.webp",
         "alt": "Beeld bij Jubileeen 1: De engel met de platen",
-        "scene": "De engel met de platen"
+        "scene": "De engel met de platen",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 2,
         "verse": 5,
         "file": "2-5.webp",
         "alt": "Beeld bij Jubileeen 2: Het droge land verschijnt",
-        "scene": "Het droge land verschijnt"
+        "scene": "Het droge land verschijnt",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 2,
         "verse": 11,
         "file": "2-11.webp",
         "alt": "Beeld bij Jubileeen 2: Vissen en vogels",
-        "scene": "Vissen en vogels"
+        "scene": "Vissen en vogels",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 2,
         "verse": 21,
         "file": "2-21.webp",
         "alt": "Beeld bij Jubileeen 2: Sabbatsrust",
-        "scene": "Sabbatsrust"
+        "scene": "Sabbatsrust",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 3,
         "verse": 2,
         "file": "3-2.webp",
         "alt": "Beeld bij Jubileeen 3: Adam noemt de dieren",
-        "scene": "Adam noemt de dieren"
+        "scene": "Adam noemt de dieren",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 3,
         "verse": 15,
         "file": "3-15.webp",
         "alt": "Beeld bij Jubileeen 3: Adam en Eva in Eden",
-        "scene": "Adam en Eva in Eden"
+        "scene": "Adam en Eva in Eden",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 3,
         "verse": 26,
         "file": "3-26.webp",
         "alt": "Beeld bij Jubileeen 3: Weg uit de tuin",
-        "scene": "Weg uit de tuin"
+        "scene": "Weg uit de tuin",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 4,
         "verse": 12,
         "file": "4-12.webp",
         "alt": "Beeld bij Jubileeen 4: Enos roept God aan",
-        "scene": "Enos roept God aan"
+        "scene": "Enos roept God aan",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 4,
         "verse": 17,
         "file": "4-17.webp",
         "alt": "Beeld bij Jubileeen 4: Henoch leert schrijven",
-        "scene": "Henoch leert schrijven"
+        "scene": "Henoch leert schrijven",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 4,
         "verse": 25,
         "file": "4-25.webp",
         "alt": "Beeld bij Jubileeen 4: Henoch brengt reukwerk",
-        "scene": "Henoch brengt reukwerk"
+        "scene": "Henoch brengt reukwerk",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 5,
         "verse": 22,
         "file": "5-22.webp",
         "alt": "Beeld bij Jubileeen 5: Noach bouwt de ark",
-        "scene": "Noach bouwt de ark"
+        "scene": "Noach bouwt de ark",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 5,
         "verse": 26,
         "file": "5-26.webp",
         "alt": "Beeld bij Jubileeen 5: De ark op de vloed",
-        "scene": "De ark op de vloed"
+        "scene": "De ark op de vloed",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 5,
         "verse": 32,
         "file": "5-32.webp",
         "alt": "Beeld bij Jubileeen 5: Dieren verlaten de ark",
-        "scene": "Dieren verlaten de ark"
+        "scene": "Dieren verlaten de ark",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 6,
         "verse": 1,
         "file": "6-1.webp",
         "alt": "Beeld bij Jubileeen 6: Noach weer op aarde",
-        "scene": "Noach weer op aarde"
+        "scene": "Noach weer op aarde",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 6,
         "verse": 21,
         "file": "6-21.webp",
         "alt": "Beeld bij Jubileeen 6: Het feest van de eerste vruchten",
-        "scene": "Het feest van de eerste vruchten"
+        "scene": "Het feest van de eerste vruchten",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 7,
         "verse": 1,
         "file": "7-1.webp",
         "alt": "Beeld bij Jubileeen 7: Noachs wijngaard",
-        "scene": "Noachs wijngaard"
+        "scene": "Noachs wijngaard",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 7,
         "verse": 9,
         "file": "7-9.webp",
         "alt": "Beeld bij Jubileeen 7: Sem en Jafeth bedekken hun vader",
-        "scene": "Sem en Jafeth bedekken hun vader"
+        "scene": "Sem en Jafeth bedekken hun vader",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 7,
         "verse": 20,
         "file": "7-20.webp",
         "alt": "Beeld bij Jubileeen 7: Noach onderwijst zijn nakomelingen",
-        "scene": "Noach onderwijst zijn nakomelingen"
+        "scene": "Noach onderwijst zijn nakomelingen",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 8,
         "verse": 3,
         "file": "8-3.webp",
         "alt": "Beeld bij Jubileeen 8: Kaïnan leest de rots",
-        "scene": "Kaïnan leest de rots"
+        "scene": "Kaïnan leest de rots",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 8,
         "verse": 11,
         "file": "8-11.webp",
         "alt": "Beeld bij Jubileeen 8: De loting van de aarde",
-        "scene": "De loting van de aarde"
+        "scene": "De loting van de aarde",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 8,
         "verse": 19,
         "file": "8-19.webp",
         "alt": "Beeld bij Jubileeen 8: De berg Sion",
-        "scene": "De berg Sion"
+        "scene": "De berg Sion",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 9,
         "verse": 1,
         "file": "9-1.webp",
         "alt": "Beeld bij Jubileeen 9: Cham verdeelt zijn land",
-        "scene": "Cham verdeelt zijn land"
+        "scene": "Cham verdeelt zijn land",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 9,
         "verse": 7,
         "file": "9-7.webp",
         "alt": "Beeld bij Jubileeen 9: Jafeth verdeelt zijn land",
-        "scene": "Jafeth verdeelt zijn land"
+        "scene": "Jafeth verdeelt zijn land",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 9,
         "verse": 14,
         "file": "9-14.webp",
         "alt": "Beeld bij Jubileeen 9: Noach ziet de verdeling",
-        "scene": "Noach ziet de verdeling"
+        "scene": "Noach ziet de verdeling",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 10,
         "verse": 3,
         "file": "10-3.webp",
         "alt": "Beeld bij Jubileeen 10: Noach bidt om bescherming",
-        "scene": "Noach bidt om bescherming"
+        "scene": "Noach bidt om bescherming",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 10,
         "verse": 13,
         "file": "10-13.webp",
         "alt": "Beeld bij Jubileeen 10: Noach schrijft de geneesmiddelen",
-        "scene": "Noach schrijft de geneesmiddelen"
+        "scene": "Noach schrijft de geneesmiddelen",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 10,
         "verse": 20,
         "file": "10-20.webp",
         "alt": "Beeld bij Jubileeen 10: Bakstenen voor de toren",
-        "scene": "Bakstenen voor de toren"
+        "scene": "Bakstenen voor de toren",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
       },
       {
         "chapter": 11,
@@ -81946,6 +82038,326 @@
         "file": "50-9.webp",
         "alt": "Beeld bij Jubileeen 50: Sabbat vieren",
         "scene": "Sabbat vieren"
+      },
+      {
+        "chapter": 1,
+        "verse": 15,
+        "file": "1-15-belofte-van-terugkeer-verdieping.webp",
+        "scene": "Beloftebeeld: terugkeer uit de volken",
+        "alt": "Beloftebeeld: terugkeer uit de volken — Jubileeën 1:15; tekstillustratie.",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 2,
+        "verse": 4,
+        "file": "2-4-water-boven-en-beneden-verdieping.webp",
+        "scene": "Scheppingsbeeld: water boven en beneden",
+        "alt": "Scheppingsbeeld: water boven en beneden — Jubileeën 2:4; tekstillustratie.",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 2,
+        "verse": 13,
+        "file": "2-13-landdieren-op-de-zesde-dag-verdieping.webp",
+        "scene": "Scheppingsbeeld: dieren op het land",
+        "alt": "Scheppingsbeeld: dieren op het land — Jubileeën 2:13; tekstillustratie.",
+        "kind": "poetic",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 3,
+        "verse": 27,
+        "file": "3-27-adams-reukoffer-verdieping.webp",
+        "scene": "Adam brengt reukwerk bij zonsopgang",
+        "alt": "Adam brengt reukwerk bij zonsopgang — Jubileeën 3:27; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 4,
+        "verse": 7,
+        "file": "4-7-rouw-om-abel-verdieping.webp",
+        "scene": "Adam en Eva rouwen om Abel",
+        "alt": "Adam en Eva rouwen om Abel — Jubileeën 4:7; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 4,
+        "verse": 31,
+        "file": "4-31-kains-ingestorte-huis-verdieping.webp",
+        "scene": "Het ingestorte huis van Kaïn",
+        "alt": "Het ingestorte huis van Kaïn — Jubileeën 4:31; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 5,
+        "verse": 28,
+        "file": "5-28-ark-rust-op-lubar-verdieping.webp",
+        "scene": "De ark rust op Lubar",
+        "alt": "De ark rust op Lubar — Jubileeën 5:28; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 10,
+        "verse": 14,
+        "file": "10-14-boeken-naar-sem-verdieping.webp",
+        "scene": "Noach geeft zijn boeken aan Sem",
+        "alt": "Noach geeft zijn boeken aan Sem — Jubileeën 10:14; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 10,
+        "verse": 24,
+        "file": "10-24-taalverwarring-bij-de-toren-verdieping.webp",
+        "scene": "De bouwers verstaan elkaar niet",
+        "alt": "De bouwers verstaan elkaar niet — Jubileeën 10:24; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 10,
+        "verse": 26,
+        "file": "10-26-wind-werpt-toren-om-verdieping.webp",
+        "scene": "Een harde wind werpt de toren om",
+        "alt": "Een harde wind werpt de toren om — Jubileeën 10:26; tekstillustratie.",
+        "kind": "scene",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "chapter": 1,
+        "verse": 1,
+        "file": "1-verbond-breuk-en-herstel.svg",
+        "scene": "Verbond, breuk en herstel",
+        "alt": "Verbond, breuk en herstel met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1184
+      },
+      {
+        "chapter": 2,
+        "verse": 1,
+        "file": "2-zes-dagen-in-dit-hoofdstuk.svg",
+        "scene": "Zes dagen in dit hoofdstuk",
+        "alt": "Zes dagen in dit hoofdstuk met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1389
+      },
+      {
+        "chapter": 2,
+        "verse": 17,
+        "file": "2-sabbat-en-de-tweeentwintig.svg",
+        "scene": "Sabbat en de tweeëntwintig",
+        "alt": "Sabbat en de tweeëntwintig met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1134
+      },
+      {
+        "chapter": 3,
+        "verse": 8,
+        "file": "3-dagen-tuin-en-reiniging.svg",
+        "scene": "Dagen, tuin en reiniging",
+        "alt": "Dagen, tuin en reiniging met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1197
+      },
+      {
+        "chapter": 3,
+        "verse": 18,
+        "file": "3-van-gesprek-naar-elda.svg",
+        "scene": "Van gesprek naar Elda",
+        "alt": "Van gesprek naar Elda met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1134
+      },
+      {
+        "chapter": 4,
+        "verse": 1,
+        "file": "4-eerste-familierelaties.svg",
+        "scene": "De eerste familierelaties",
+        "alt": "De eerste familierelaties met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1161
+      },
+      {
+        "chapter": 4,
+        "verse": 15,
+        "file": "4-genoemde-huwelijken.svg",
+        "scene": "De genoemde huwelijken",
+        "alt": "De genoemde huwelijken met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1432
+      },
+      {
+        "chapter": 4,
+        "verse": 17,
+        "file": "4-henoch-en-vier-plaatsen.svg",
+        "scene": "Henoch en de vier plaatsen",
+        "alt": "Henoch en de vier plaatsen met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1012
+      },
+      {
+        "chapter": 5,
+        "verse": 1,
+        "file": "5-oordeel-en-ontferming.svg",
+        "scene": "Oordeel en ontferming",
+        "alt": "Oordeel en ontferming met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1134
+      },
+      {
+        "chapter": 5,
+        "verse": 22,
+        "file": "5-vloedmaten-en-momenten.svg",
+        "scene": "Vloedmaten en momenten",
+        "alt": "Vloedmaten en momenten met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1177
+      },
+      {
+        "chapter": 6,
+        "verse": 1,
+        "file": "6-verbond-teken-en-bloed.svg",
+        "scene": "Verbond, teken en bloed",
+        "alt": "Verbond, teken en bloed met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1098
+      },
+      {
+        "chapter": 6,
+        "verse": 18,
+        "file": "6-doorgegeven-wekenfeest.svg",
+        "scene": "Het doorgegeven wekenfeest",
+        "alt": "Het doorgegeven wekenfeest met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1091
+      },
+      {
+        "chapter": 6,
+        "verse": 23,
+        "file": "6-herinneringsdagen-en-jaar.svg",
+        "scene": "Herinneringsdagen en jaar",
+        "alt": "Herinneringsdagen en jaar met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1154
+      },
+      {
+        "chapter": 7,
+        "verse": 10,
+        "file": "7-zonen-steden-en-kinderen.svg",
+        "scene": "Zonen, steden en kinderen",
+        "alt": "Zonen, steden en kinderen met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1091
+      },
+      {
+        "chapter": 7,
+        "verse": 20,
+        "file": "7-onderricht-en-fruitjaren.svg",
+        "scene": "Onderricht en fruitjaren",
+        "alt": "Onderricht en fruitjaren met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 985
+      },
+      {
+        "chapter": 8,
+        "verse": 1,
+        "file": "8-kainan-en-zijn-familie.svg",
+        "scene": "Kaïnan en zijn familie",
+        "alt": "Kaïnan en zijn familie met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1134
+      },
+      {
+        "chapter": 8,
+        "verse": 10,
+        "file": "8-drie-loten-van-de-aarde.svg",
+        "scene": "Drie loten van de aarde",
+        "alt": "Drie loten van de aarde met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1134
+      },
+      {
+        "chapter": 9,
+        "verse": 1,
+        "file": "9-erfdelen-van-cham.svg",
+        "scene": "Erfdelen van Cham",
+        "alt": "Erfdelen van Cham met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 770
+      },
+      {
+        "chapter": 9,
+        "verse": 2,
+        "file": "9-erfdelen-van-sem.svg",
+        "scene": "Erfdelen van Sem",
+        "alt": "Erfdelen van Sem met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1290
+      },
+      {
+        "chapter": 9,
+        "verse": 7,
+        "file": "9-erfdelen-van-jafeth.svg",
+        "scene": "Erfdelen van Jafeth",
+        "alt": "Erfdelen van Jafeth met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1303
+      },
+      {
+        "chapter": 10,
+        "verse": 1,
+        "file": "10-geesten-en-boeken.svg",
+        "scene": "Geesten en boeken",
+        "alt": "Geesten en boeken met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1127
+      },
+      {
+        "chapter": 10,
+        "verse": 18,
+        "file": "10-toren-en-verspreiding.svg",
+        "scene": "Toren en verspreiding",
+        "alt": "Toren en verspreiding met gecontroleerde tekstgegevens.",
+        "kind": "diagram",
+        "width": 840,
+        "height": 1141
       }
     ],
     "1meqabyan": [
