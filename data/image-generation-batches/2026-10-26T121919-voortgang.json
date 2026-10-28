@@ -1,0 +1,171 @@
+{
+  "started": "2026-10-26T12:19:19Z",
+  "batches": [
+    1,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    2,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "new_visuals": 215,
+  "new_asset_files": 215,
+  "replaced_baseline_images": 0,
+  "new_rasters": 71,
+  "new_schemas": 144,
+  "new_reviewed_chapters": 104,
+  "total_reviewed_chapters": 1420,
+  "total_images": 8843,
+  "metadata_corrections": 312,
+  "verified": "local sources, visual anatomy and content review, SVG legibility and font bounds, SVG enlarge links, dimensions and decode, chapter plan targets, preservation of baseline work",
+  "resumption": {
+    "resumed": "2026-10-28T07:08:34Z",
+    "prior_head": "0cd7073a2a91fd2a12e20e122b8a03179839f722",
+    "reason": "De uitvoering is hervat met de eigen onvoltooide beeldreeksen en eigen lock. De eerder gegenereerde resultaten zijn opnieuw opgepakt, visueel beoordeeld en geregistreerd."
+  },
+  "finished": "2026-10-28T08:17:57.574836+00:00",
+  "baseline": "d18daf2a4d51c399ebd0a7097abc0461d2997477",
+  "asset_commit": "9a4d71adc7668904a75faaf06026a8cfbdbc6e5b",
+  "ranges": [
+    {
+      "book": "baruch",
+      "first": 3,
+      "last": 6
+    },
+    {
+      "book": "estherapocrief",
+      "first": 10,
+      "last": 16
+    },
+    {
+      "book": "gebedvanazaria",
+      "first": 1,
+      "last": 1
+    },
+    {
+      "book": "gezangindevuuroven",
+      "first": 1,
+      "last": 1
+    },
+    {
+      "book": "susanna",
+      "first": 1,
+      "last": 1
+    },
+    {
+      "book": "belenddedraak",
+      "first": 1,
+      "last": 1
+    },
+    {
+      "book": "gebedvanmanasse",
+      "first": 1,
+      "last": 1
+    },
+    {
+      "book": "1makkabeeen",
+      "first": 1,
+      "last": 16
+    },
+    {
+      "book": "2makkabeeen",
+      "first": 1,
+      "last": 15
+    },
+    {
+      "book": "3makkabeeen",
+      "first": 1,
+      "last": 7
+    },
+    {
+      "book": "henoch",
+      "first": 1,
+      "last": 50
+    }
+  ],
+  "remaining_chapters": 184,
+  "next_chapter": {
+    "book": "henoch",
+    "chapter": 51
+  },
+  "open_reviewed_targets": 0,
+  "coverage": {
+    "books": 88,
+    "chapters": 1604,
+    "chapters_with_three_images": 229,
+    "chapters_with_at_least_three_images": 1604,
+    "chapters_with_more_than_three_images": 1375,
+    "images": 8843,
+    "images_still_needed": 0,
+    "chapters_reviewed_for_expansion": 1420,
+    "reviewed_chapters_at_target": 1420,
+    "additional_images_needed_for_reviewed_chapters": 0
+  },
+  "source_observations": [
+    {
+      "reference": "Esther apocrief 10:13; 13:6; 16:20",
+      "observation": "De verschillende Adardata zijn als plaatselijke tekstgegevens bewaard en niet stilzwijgend gelijkgetrokken."
+    },
+    {
+      "reference": "1 Makkabeeën 6",
+      "observation": "32 ruiters per olifant en de bestuurder worden als tekstgegeven in een schema vermeld, zonder een anatomisch onmogelijke reconstructie te genereren."
+    },
+    {
+      "reference": "1 Makkabeeën 13:27–30",
+      "observation": "Zeven piramiden staan in een eigen ontwerp. Vader, moeder en vier broers tellen zes genoemde personen; er is geen zevende persoon of precieze toewijzing verzonnen."
+    },
+    {
+      "reference": "2 Makkabeeën 11; 3 Makkabeeën 3 en 7",
+      "observation": "Afzenders, ontvangers en koninklijke zelfrechtvaardiging worden van de vertellersstem onderscheiden."
+    },
+    {
+      "reference": "3 Makkabeeën 6:17",
+      "observation": "De engelen worden door allen behalve de Joden gezien; de nieuwe scène houdt dat gezichtspunt aan."
+    },
+    {
+      "reference": "Henoch 6:7; 20; 37:1; 40",
+      "observation": "De plaatselijke namenlijsten en vader-zoonreeks zijn gecontroleerd; geen namen uit andere tekstversies toegevoegd."
+    },
+    {
+      "reference": "Henoch 18 en 24; 22:1,9",
+      "observation": "Zuiden tegenover noorden en vier plaatsen tegenover deze drie blijven expliciete tekstverschillen, zonder geforceerde harmonisatie."
+    },
+    {
+      "reference": "Henoch 1–50",
+      "observation": "De bestaande en nieuwe illustraties zijn als poëtische visioen-, les- en beloftebeelden getypeerd; de leeswijzers houden gelijkenissen en personificaties herkenbaar."
+    }
+  ],
+  "generation_errors": [],
+  "qa": [
+    "Volledige lokale hoofdstukteksten gelezen en bestaande beelden bekeken",
+    "Alle 71 nieuwe rasters gecontroleerd op broninhoud en anatomie",
+    "Alle 144 SVG-ontwerpen gerenderd, bekeken en op tekstgrenzen gecontroleerd",
+    "Versankers, afmetingen, unieke bestanden, beelddecodering en SVG-veiligheid gecontroleerd",
+    "Vergrootlinks in gegenereerde hoofdstukpagina’s gecontroleerd",
+    "Sitebuild en dekkingsteller geslaagd",
+    "Alle 1604 hoofdstukken behouden minstens drie beelden; alle 1420 beoordeelde doelen uitgevoerd",
+    "Basisbestanden en eerdere planning behouden behalve vastgelegde metadatacorrecties"
+  ],
+  "automation": "ACTIVE: inhoudelijk werk is nog niet voltooid",
+  "push_target": "Simson987/website-open-parafrase-vertaling:codex/three-images-per-chapter",
+  "pull_request": "https://github.com/William-Carey-Missions/website-open-parafrase-vertaling/pull/3"
+}
