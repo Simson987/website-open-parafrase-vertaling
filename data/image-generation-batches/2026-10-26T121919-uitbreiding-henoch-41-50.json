@@ -1,0 +1,282 @@
+{
+  "date": "2026-10-28",
+  "resumed": "2026-10-28T07:08:34Z",
+  "started": "2026-10-26T12:19:19Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "henoch",
+      "chapter": 47,
+      "verse": 3,
+      "file": "47-3-boeken-levenden-geopend-verdieping.webp",
+      "scene": "Visioen: de boeken van de levenden",
+      "alt": "Visioen: de boeken van de levenden — Henoch 47:3; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: poetic-symbolic. Photorealistic illustration of an explicitly apocalyptic vision in the Book of Enoch, ancient manuscript and architectural materials, landscape 3:2. Coherent people with two arms and natural hands, fully covering opaque robes. No modern objects, readable text, human image of God, blood, injury or corpses. Ancient manuscript books lie opened on a broad stone table before an intensely radiant throne-shaped empty area of light in a visionary heavenly hall. Several solemn adult white-robed attendants stand quietly at either side, while an elderly robed Enoch watches from far below. No figure, silhouette or face within the light, no readable writing. The opening of the books of the living in Enoch 47:3, distinct from the prayers and subsequent joy, reverent photorealistic materials and lighting.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "henoch",
+      "chapter": 41,
+      "verse": 1,
+      "file": "41-oordeel-en-hemelorde.svg",
+      "scene": "Oordeel en hemelorde",
+      "alt": "Oordeel en hemelorde met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1177,
+      "source": "Henoch 41:1–9",
+      "design": {
+        "rows": [
+          [
+            "De weging · 1–2",
+            "Verdeling van het koninkrijk, menselijke daden op de weegschaal en gescheiden woningen."
+          ],
+          [
+            "Het weer · 3–4",
+            "Geheimen en schatkamers van donder, bliksem, wind, wolken, dauw, hagel en nevel."
+          ],
+          [
+            "Zon en maan · 5–8",
+            "Vaste banen, terugkeer, trouw en onophoudelijke dank."
+          ],
+          [
+            "De Heerser · 9",
+            "Geen engel of macht kan Zijn toezicht en oordeel verhinderen."
+          ]
+        ],
+        "note": "Schatkamers, weegschaal en hemelbanen behoren tot de visioentaal en worden niet tot moderne natuurkunde omgeschreven."
+      }
+    },
+    {
+      "book": "henoch",
+      "chapter": 43,
+      "verse": 1,
+      "file": "43-lichten-en-rechtvaardigen.svg",
+      "scene": "Lichten en rechtvaardigen",
+      "alt": "Lichten en rechtvaardigen met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1091,
+      "source": "Henoch 43:1–4",
+      "design": {
+        "rows": [
+          [
+            "De roep · 1",
+            "Bliksem en sterren worden bij naam geroepen en luisteren."
+          ],
+          [
+            "De weging · 2",
+            "Lichtglans, plaats, verschijning en omwenteling worden gewogen."
+          ],
+          [
+            "De vraag · 3",
+            "Henoch vraagt naar de betekenis."
+          ],
+          [
+            "De uitleg · 4",
+            "De engel noemt het een gelijkenis van de namen van rechtvaardigen die op aarde geloven."
+          ]
+        ],
+        "note": "De sleutel is de verklaarde gelijkenis: de sterren verbeelden hier rechtvaardigen, geen gewone sterrenatlas."
+      }
+    },
+    {
+      "book": "henoch",
+      "chapter": 45,
+      "verse": 1,
+      "file": "45-oordeel-en-vernieuwing.svg",
+      "scene": "Oordeel en vernieuwing",
+      "alt": "Oordeel en vernieuwing met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1091,
+      "source": "Henoch 45:1–6",
+      "design": {
+        "rows": [
+          [
+            "Het kader · 1–2",
+            "Tweede gelijkenis; wie de heilige naam verloochenen wachten op benauwdheid."
+          ],
+          [
+            "De Uitverkorene · 3",
+            "Zit op de troon van heerlijkheid en onderzoekt werken."
+          ],
+          [
+            "De verandering · 4–5",
+            "Hemel tot eeuwige zegen en licht; aarde tot woning voor de uitverkorenen."
+          ],
+          [
+            "Het onderscheid · 5–6",
+            "Vrede voor rechtvaardigen; overtreders betreden de vernieuwde aarde niet."
+          ]
+        ],
+        "note": "Dit zijn toekomstige uitspraken binnen de gelijkenis. De beelden van vrede zijn illustraties van die belofte."
+      }
+    },
+    {
+      "book": "henoch",
+      "chapter": 46,
+      "verse": 1,
+      "file": "46-de-vraag-naar-de-mensenzoon.svg",
+      "scene": "De vraag naar de Mensenzoon",
+      "alt": "De vraag naar de Mensenzoon met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1177,
+      "source": "Henoch 46:1–8",
+      "design": {
+        "rows": [
+          [
+            "De aanblik · 1",
+            "Het Hoofd van de dagen en een ander met een menselijk, genadig gezicht."
+          ],
+          [
+            "Henochs vraag · 2",
+            "Wie is de Mensenzoon, waar komt hij vandaan en waarom gaat hij mee?"
+          ],
+          [
+            "Het antwoord · 3",
+            "Gerechtigheid woont bij hem; hij maakt verborgen schatten bekend en is uitgekozen."
+          ],
+          [
+            "De omkeer · 4–8",
+            "Koningen en sterken verliezen macht; onrecht, rijkdomsvertrouwen en afgoden worden aangeklaagd."
+          ]
+        ],
+        "note": "Het schema volgt de benamingen van de passage en voegt geen nieuwe persoon of historische datering toe."
+      }
+    },
+    {
+      "book": "henoch",
+      "chapter": 47,
+      "verse": 1,
+      "file": "47-gebed-boeken-en-vreugde.svg",
+      "scene": "Gebed, boeken en vreugde",
+      "alt": "Gebed, boeken en vreugde met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1091,
+      "source": "Henoch 47:1–4",
+      "design": {
+        "rows": [
+          [
+            "Vanaf de aarde · 1",
+            "Gebed en de roep om recht voor vergoten rechtvaardig bloed stijgen op."
+          ],
+          [
+            "In de hemel · 2",
+            "Heiligen smeken en loven eensgezind, opdat recht gedaan wordt."
+          ],
+          [
+            "De zitting · 3",
+            "Het Hoofd van de dagen op de troon; de boeken van de levenden worden geopend."
+          ],
+          [
+            "De verhoring · 4",
+            "Het getal is vol, het gebed verhoord en de heiligen zijn verheugd."
+          ]
+        ],
+        "note": "De boeken vormen een afzonderlijk moment tussen voorbede en vreugde; de afbeelding toont geen menselijke Godsfiguur."
+      }
+    },
+    {
+      "book": "henoch",
+      "chapter": 48,
+      "verse": 1,
+      "file": "48-bron-steun-en-oordeel.svg",
+      "scene": "Bron, steun en oordeel",
+      "alt": "Bron, steun en oordeel met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1134,
+      "source": "Henoch 48:1–10",
+      "design": {
+        "rows": [
+          [
+            "De bron · 1",
+            "Gerechtigheid en talloze bronnen van wijsheid voor dorstigen."
+          ],
+          [
+            "De Mensenzoon · 2–7",
+            "Naam genoemd vóór zon en sterren; staf, licht en hoop voor rechtvaardigen."
+          ],
+          [
+            "De machthebbers · 8–9",
+            "Kunnen zich niet redden; vergeleken met stro in vuur en lood in water."
+          ],
+          [
+            "Het einde · 10",
+            "Rust op aarde en oordeel wegens verloochening van de Heere en Zijn Gezalfde."
+          ]
+        ],
+        "note": "Bron, staf, licht, stro en lood zijn verschillende beelden; de tekst vertelt geen letterlijk experiment met mensen."
+      }
+    },
+    {
+      "book": "henoch",
+      "chapter": 49,
+      "verse": 1,
+      "file": "49-wijsheid-geest-en-waarheid.svg",
+      "scene": "Wijsheid, geest en waarheid",
+      "alt": "Wijsheid, geest en waarheid met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1098,
+      "source": "Henoch 49:1–4",
+      "design": {
+        "rows": [
+          [
+            "De vergelijking · 1",
+            "Wijsheid is uitgegoten als water."
+          ],
+          [
+            "De duurzaamheid · 2",
+            "Onrecht verdwijnt als schaduw; heerlijkheid en macht van de Uitverkorene blijven."
+          ],
+          [
+            "Wat in hem woont · 3",
+            "Geest van wijsheid, inzicht, onderwijs, kracht en wie rechtvaardig ontslapen zijn."
+          ],
+          [
+            "Het oordeel · 4",
+            "Verborgen dingen worden geoordeeld; een leugen houdt geen stand."
+          ]
+        ],
+        "note": "Water en schaduw zijn vergelijkingen; het schema bewaakt hun samenhang met geest en oordeel."
+      }
+    },
+    {
+      "book": "henoch",
+      "chapter": 50,
+      "verse": 1,
+      "file": "50-verandering-bekering-en-oordeel.svg",
+      "scene": "Verandering, bekering, oordeel",
+      "alt": "Verandering, bekering, oordeel met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 906,
+      "source": "Henoch 50:1–5",
+      "design": {
+        "rows": [
+          [
+            "De heiligen · 1",
+            "Blijvend licht, heerlijkheid en eer."
+          ],
+          [
+            "De anderen · 2–3",
+            "Zien de overwinning en worden tot bekering geroepen; redding door de Naam en ontferming."
+          ],
+          [
+            "De grens · 4–5",
+            "Onrecht houdt geen stand; wie zich niet bekeert gaat verloren en ontvangt geen verdere ontferming."
+          ]
+        ],
+        "note": "De passage verbindt barmhartigheid met een oproep tot bekering en een grens in het oordeel."
+      }
+    }
+  ]
+}
