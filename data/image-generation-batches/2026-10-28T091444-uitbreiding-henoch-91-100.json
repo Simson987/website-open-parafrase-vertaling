@@ -1,0 +1,256 @@
+{
+  "date": "2026-10-28",
+  "started": "2026-10-28T09:14:44Z",
+  "mode": "built-in rasters and native SVG schemas",
+  "description": "Plaatselijke hoofdstukken en bestaande beelden gelezen en bekeken; nieuwe resultaten gecontroleerd op inhoud, anatomie en leesbaarheid.",
+  "metadata_corrections": [],
+  "images": [
+    {
+      "book": "henoch",
+      "chapter": 100,
+      "verse": 12,
+      "file": "100-12-regen-niet-om-te-kopen-verdieping.webp",
+      "scene": "Beeldspraak: regen is niet om te kopen",
+      "alt": "Beeldspraak: regen is niet om te kopen — Henoch 100:12; tekstillustratie.",
+      "kind": "poetic",
+      "prompt": "Use case: poetic-symbolic. Photorealistic symbolic illustration of the Book of Enoch, landscape 3:2, ancient natural materials, modest opaque robes, coherent anatomy with two arms per human. No human portrait of God, readable writing, modern items, blood, injuries or corpses. A still life of ancient gold and silver coins spilling from a cloth purse on a cracked dry field beside an empty clay water jar. Unbroken pale sky, no rain falling, withered crop at the horizon. No humans, rain deity or altar. Enoch 100:11–12 ironic appeal to offer gifts to rain and dew; the picture shows money unable to make rain, not an actual ritual or a paid miracle.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "book": "henoch",
+      "chapter": 91,
+      "verse": 12,
+      "file": "91-achtste-tot-tiende-week.svg",
+      "scene": "De achtste tot tiende week",
+      "alt": "De achtste tot tiende week met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1134,
+      "source": "Henoch 91:12–19",
+      "design": {
+        "rows": [
+          [
+            "Achtste week · 12–13",
+            "Gerechtigheid en gericht; huizen en een huis voor de grote Koning."
+          ],
+          [
+            "Negende week · 14",
+            "Gericht bekend aan de hele wereld; goddeloos werk verdwijnt."
+          ],
+          [
+            "Tiende week · 15–16",
+            "In het zevende deel: eeuwig gericht over wachters; nieuwe hemel en zevenvoudig licht."
+          ],
+          [
+            "Daarna · 17–19",
+            "Ontelbare weken in gerechtigheid; kinderen kiezen de goede paden."
+          ]
+        ],
+        "note": "De eerste tot zevende week staan in hoofdstuk 93. De plaatselijke boekvolgorde wordt behouden zonder moderne jaartallen."
+      }
+    },
+    {
+      "book": "henoch",
+      "chapter": 93,
+      "verse": 3,
+      "file": "93-eerste-tot-vierde-week.svg",
+      "scene": "De eerste tot vierde week",
+      "alt": "De eerste tot vierde week met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1369,
+      "source": "Henoch 93:1–6",
+      "design": {
+        "rows": [
+          [
+            "Bron · 1–2",
+            "Henoch spreekt uit geschriften, hemelvisioen, engelenstem en hemelse tafels."
+          ],
+          [
+            "Week 1 · 3",
+            "Henoch als zevende geboren; gericht en gerechtigheid."
+          ],
+          [
+            "Week 2 · 4",
+            "Slechtheid en eerste einde; één mens gered; daarna opnieuw onrecht."
+          ],
+          [
+            "Week 3 · 5",
+            "Een mens uitgekozen tot plant van rechtvaardig gericht; blijvende plant volgt."
+          ],
+          [
+            "Week 4 · 6",
+            "Visioenen, wet voor alle generaties en een omheining."
+          ]
+        ],
+        "note": "De ene geredde en de uitgekozen mens krijgen hier geen persoonsnamen die deze verzen zelf niet geven."
+      }
+    },
+    {
+      "book": "henoch",
+      "chapter": 93,
+      "verse": 7,
+      "file": "93-vijfde-tot-zevende-week.svg",
+      "scene": "De vijfde tot zevende week",
+      "alt": "De vijfde tot zevende week met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1134,
+      "source": "Henoch 93:7–14",
+      "design": {
+        "rows": [
+          [
+            "Week 5 · 7",
+            "Huis van heerlijkheid en heerschappij wordt gebouwd."
+          ],
+          [
+            "Week 6 · 8",
+            "Blindheid en vergeten wijsheid; een mens klimt op; huis verbrand en geslacht verstrooid."
+          ],
+          [
+            "Week 7 · 9–10",
+            "Afval; uitverkoren rechtvaardigen beloond en zevenvoudig onderwezen."
+          ],
+          [
+            "Vragen · 11–14",
+            "Grenzen van menselijk horen, denken en meten van hemel en aarde."
+          ]
+        ],
+        "note": "De achtste tot tiende week staan in 91:12–17. De zevenvoudige leer wordt niet met zeven ongenoemde vakken ingevuld."
+      }
+    },
+    {
+      "book": "henoch",
+      "chapter": 96,
+      "verse": 2,
+      "file": "96-beelden-van-schuilen-en-hoop.svg",
+      "scene": "Beelden van schuilen en hoop",
+      "alt": "Beelden van schuilen en hoop met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1127,
+      "source": "Henoch 96:1–8",
+      "design": {
+        "rows": [
+          [
+            "Arenden en gieren · 2",
+            "Opstijgen en een hogere schuilplaats: beeld voor veiligheid."
+          ],
+          [
+            "Klipdassen · 2",
+            "Binnengaan in rotsspleten: beeld voor beschutting."
+          ],
+          [
+            "Sirenen · 2",
+            "Zuchten en huilen van tegenstanders in de vergelijking."
+          ],
+          [
+            "Licht en rust · 3–8",
+            "Hoop voor geleden onrecht, tegenover rijkdom die schuld niet wegneemt."
+          ]
+        ],
+        "note": "De vergelijkingen zeggen niet dat mensen letterlijk in vogels of klipdassen veranderen. Het bestaande rotsbeeld toont de menselijke schuilplaats."
+      }
+    },
+    {
+      "book": "henoch",
+      "chapter": 98,
+      "verse": 4,
+      "file": "98-verantwoordelijkheid-en-getuigenis.svg",
+      "scene": "Verantwoordelijkheid en getuigenis",
+      "alt": "Verantwoordelijkheid en getuigenis met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1091,
+      "source": "Henoch 98:4–16",
+      "design": {
+        "rows": [
+          [
+            "Menselijk handelen · 4–5",
+            "De tekst legt zonde bij mensen zelf en spreekt daarna over kinderloos sterven."
+          ],
+          [
+            "Hemelse registratie · 6–8",
+            "Geen geweld verborgen; elke dag opgeschreven tot het oordeel."
+          ],
+          [
+            "Waarschuwingen · 9–14",
+            "Dwaasheid, hardheid en vreugde om andermans nood worden aangeklaagd."
+          ],
+          [
+            "Twee soorten schrift · 7,15–16",
+            "Waarachtig verslag tegenover opgeschreven leugenwoorden."
+          ]
+        ],
+        "note": "Vers 5 blijft een uitspraak binnen deze oordeelsrede; het schema stelt daarmee geen medische oorzaak van kinderloosheid vast."
+      }
+    },
+    {
+      "book": "henoch",
+      "chapter": 99,
+      "verse": 1,
+      "file": "99-woorden-keuze-en-uitbuiting.svg",
+      "scene": "Woorden, keuze en uitbuiting",
+      "alt": "Woorden, keuze en uitbuiting met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1170,
+      "source": "Henoch 99:1–16",
+      "design": {
+        "rows": [
+          [
+            "Verdraaide woorden · 1–3",
+            "Leugentaal tegenover gebeden als getuigenis."
+          ],
+          [
+            "Beroering · 4–6",
+            "Volken in nood; kinderen verlaten; geweld aangekondigd."
+          ],
+          [
+            "Afgoden en wijsheid · 7–10",
+            "Geen hulp bij afgoden; redding voor wie wijsheid aannemen en rechtvaardig leven."
+          ],
+          [
+            "Uitbuiting · 11–16",
+            "Kwaadspreken, bedrieglijk fundament, huizen uit andermans arbeid en geweld."
+          ]
+        ],
+        "note": "De kinderen-in-noodpassage wordt zakelijk in de leeswijzer opgenomen; de drie bestaande beelden tonen de hoofdtegenstellingen zonder leed uit te beelden."
+      }
+    },
+    {
+      "book": "henoch",
+      "chapter": 100,
+      "verse": 1,
+      "file": "100-geweld-bewaring-en-getuigen.svg",
+      "scene": "Geweld, bewaring en getuigen",
+      "alt": "Geweld, bewaring en getuigen met gecontroleerde tekstgegevens.",
+      "kind": "diagram",
+      "width": 840,
+      "height": 1220,
+      "source": "Henoch 100:1–13",
+      "design": {
+        "rows": [
+          [
+            "Geweld · 1–3",
+            "Vaders, zonen en broers keren zich tegen elkaar; bloed als beek en tot de borst van het paard."
+          ],
+          [
+            "Oordeel en bewaring · 4–6",
+            "Verzameling van schuldigen; heilige engelen bewaken rechtvaardigen; rijkdom redt niet."
+          ],
+          [
+            "Aanklacht · 7–10",
+            "Vervolging, kwaad bedenken en woorden en daden worden onderzocht."
+          ],
+          [
+            "Weer als getuige · 11–13",
+            "Wolk, nevel, dauw en regen onthouden; rijp, sneeuw en stormen niet te beheersen."
+          ]
+        ],
+        "note": "De extreme bloedbeelden blijven woorden van de visioenrede. De beeldreeks toont bewaring en weer; het geldbeeld duidt de ironie van vers 12."
+      }
+    }
+  ]
+}
